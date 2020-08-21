@@ -1,0 +1,1 @@
+[{"commit":{"message":"hg: implement ReadOnlyRepository.isAncestor"},"files":[{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/hg\/HgRepository.java"},{"filename":"vcs\/src\/test\/java\/org\/openjdk\/skara\/vcs\/RepositoryTests.java"}],"sha":"b98ce8a206f867ea335293d43032af36039f8639"}]
