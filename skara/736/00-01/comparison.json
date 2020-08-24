@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,0 @@\n-        System.out.println(\"git commit: \" + gitCommit.hash() + \", hg commit: \" + hgCommit.hash());\n","filename":"vcs\/src\/test\/java\/org\/openjdk\/skara\/vcs\/openjdk\/converter\/GitToHgConverterTests.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
