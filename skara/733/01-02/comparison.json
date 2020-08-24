@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-        opens 'org.openjdk.skara.cli' to 'org.junit.platform.commons'\n+        opens 'org.openjdk.skara.cli.debug' to 'org.junit.platform.commons'\n","filename":"cli\/build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
