@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,1 +281,1 @@\n-                var commits = repository.commitMetadata(tailEnd, head, List.of(filename));\n+                var commits = repository.follow(filename, tailEnd, head);\n","filename":"webrev\/src\/main\/java\/org\/openjdk\/skara\/webrev\/Webrev.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
