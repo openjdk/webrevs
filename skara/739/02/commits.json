@@ -1,0 +1,1 @@
+[{"commit":{"message":"hg: use --template instead of ext.py for metadata"},"files":[{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/hg\/HgCommitMetadata.java"},{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/hg\/HgRepository.java"}],"sha":"e5c297dafe9886c43c26f4540974163cbcc4579c"}]
