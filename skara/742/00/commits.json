@@ -1,0 +1,1 @@
+[{"commit":{"message":"Store target hash before potentially fetching the ref"},"files":[{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/github\/GitHubPullRequest.java"},{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/gitlab\/GitLabMergeRequest.java"}],"sha":"68795d4912d2508688ed7ae94acb415e9fcf4f12"}]
