@@ -1,0 +1,1 @@
+[{"commit":{"message":"vcs: make follow work with merge commits"},"files":[{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/git\/GitRepository.java"},{"filename":"vcs\/src\/test\/java\/org\/openjdk\/skara\/vcs\/RepositoryTests.java"}],"sha":"3d37fd1c6d1cd1fecf0b642184de9b127f4e126b"}]
