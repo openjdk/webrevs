@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -299,1 +299,1 @@\n-                for (var path : pathsPerCommit.get(commit.hash())) {\n+                for (var path : pathsPerCommit.getOrDefault(commit.hash(), List.of())) {\n","filename":"webrev\/src\/main\/java\/org\/openjdk\/skara\/webrev\/Webrev.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
