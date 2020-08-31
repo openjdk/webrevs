@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -322,2 +322,1 @@\n-    public static void sleep(long millis, int nanos)\n-    throws InterruptedException {\n+    public static void sleep(long millis, int nanos) throws InterruptedException {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Thread.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
