@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2977,1 +2977,1 @@\n-     * @see String#indent(int)\n+     * @see String#stringIndent(int)\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
