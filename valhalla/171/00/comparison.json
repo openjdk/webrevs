@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1199,1 +1199,1 @@\n-    k->set_java_mirror(Handle());\n+    k->clear_java_mirror_handle();\n","filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
