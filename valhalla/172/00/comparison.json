@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -913,1 +913,0 @@\n-  HandleMark hm(cur);\n","filename":"src\/hotspot\/share\/runtime\/biasedLocking.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
