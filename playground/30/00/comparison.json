@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -636,1 +636,1 @@\n-java\/nio\/channels\/Selector\/Wakeup.java                          6963118 windows-all\n+# Wakeup.java is excluded\n","filename":"test\/jdk\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
