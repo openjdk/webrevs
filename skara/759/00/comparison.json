@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-            var repoName = fromURI.getPath();\n+            var repoName = fromURI.getPath().substring(1); \/\/ Remove leading '\/'\n","filename":"bots\/checkout\/src\/main\/java\/org\/openjdk\/skara\/bots\/checkout\/CheckoutBotFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
