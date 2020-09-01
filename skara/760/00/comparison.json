@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,0 +67,4 @@\n+            Files.createDirectories(file.getParent());\n+            if (!Files.exists(file)) {\n+                Files.createFile(file);\n+            }\n","filename":"storage\/src\/main\/java\/org\/openjdk\/skara\/storage\/FileStorage.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
