@@ -1,0 +1,1 @@
+[{"commit":{"message":"8251032: Colors with texture background look different with Alpha Composite\n\nSet missing sourceAlphaBlendFactor"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLPipelineStatesStorage.m"}],"sha":"229fa24f8b4cc693e0eb47916e7c0c0d753365ed"}]
