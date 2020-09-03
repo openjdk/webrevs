@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add support for ignoring certain label suffixes"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/LabelCommand.java"},{"filename":"bots\/pr\/src\/test\/java\/org\/openjdk\/skara\/bots\/pr\/LabelTests.java"}],"sha":"4db4cbf1c9c80f4ca41ec370f0bcae041f22f72f"}]
