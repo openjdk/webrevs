@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -578,0 +578,1 @@\n+        System.out.println(\"\");\n","filename":"src\/java.base\/share\/classes\/java\/net\/Authenticator.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
