@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -0,0 +1,4 @@\n+This is a change from 'BranchToMerge1'!\n+Another line added by BranchToMerge2\n+Completely ortogonal change from BranchToMerge3\n+Just text\n","filename":"mergeConflictFile.txt","additions":4,"deletions":0,"binary":false,"changes":4,"status":"added"}]}
