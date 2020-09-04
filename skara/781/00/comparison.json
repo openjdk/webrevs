@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-                  .helptext(\"File with commit info (defaults to .hgcommits)\")\n+                  .helptext(\"File with commit mapping (defaults to .hgcommits)\")\n","filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitTranslate.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
