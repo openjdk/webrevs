@@ -1,0 +1,1 @@
+[{"commit":{"message":"Include 'treconfigure' in help for git trees\n\nAlso add missing newline separating sub-repos in output."},"files":[{"filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitTrees.java"}],"sha":"0e170ed1cebcc3b4e153339166b9d4089627c6c6"}]
