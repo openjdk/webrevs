@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,0 +71,1 @@\n+            TestBotRunner.runPeriodicItems(prBot);\n@@ -295,0 +296,1 @@\n+            TestBotRunner.runPeriodicItems(prBot);\n","filename":"bots\/pr\/src\/test\/java\/org\/openjdk\/skara\/bots\/pr\/LabelTests.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
