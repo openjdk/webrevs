@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-                    .main(GitPrInfo::main)\n+                    .main(GitPrInfo::main),\n","filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitPr.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
