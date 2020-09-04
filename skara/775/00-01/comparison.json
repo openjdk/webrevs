@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,1 +147,1 @@\n-                  .helptext(\"Open link returend by remote in web browser\")\n+                  .helptext(\"Open link returned by remote in web browser\")\n","filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitPublish.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
