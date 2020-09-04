@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,0 +112,3 @@\n+        if (bot.labelConfiguration().allowed().isEmpty()) {\n+            return List.of();\n+        }\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/LabelerWorkItem.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
