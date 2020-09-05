@@ -1,0 +1,1 @@
+[{"commit":{"message":"git-pr-approve: allow configurable message"},"files":[{"filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/pr\/GitPrApprove.java"},{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/github\/GitHubPullRequest.java"}],"sha":"65f066fc97a31497d1b26805b8587ba94cf01752"}]
