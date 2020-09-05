@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -417,1 +417,1 @@\n-        var pb = new ProcessBuilder(\"git\", \"apply\", \"--no-commit\", patch.toString());\n+        var pb = new ProcessBuilder(\"git\", \"apply\", patch.toString());\n","filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/pr\/Utils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
