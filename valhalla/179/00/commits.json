@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252753: [lworld] Merge of jdk-16+12 broke CDS for inline types"},"files":[{"filename":"src\/hotspot\/share\/memory\/archiveBuilder.cpp"},{"filename":"src\/hotspot\/share\/memory\/archiveBuilder.hpp"}],"sha":"3405b212fe44a1dbe248aa263f30706082c74b3a"}]
