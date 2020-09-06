@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also improve the notifier push comment detection and test"},"files":[{"filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/PullRequestWorkItem.java"},{"filename":"bots\/notify\/src\/test\/java\/org\/openjdk\/skara\/bots\/notify\/comment\/CommitCommentNotifierTests.java"}],"sha":"518ce676b6d2893ba8a8a594b463ba8cd79a29f2"}]
