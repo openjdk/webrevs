@@ -1,0 +1,1 @@
+[{"commit":{"message":"8251152: Skip Test8202414 on CPUs missing unaligned memory accesses support\nReviewed-by: iignatyev, clanger"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/Test8202414.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/unsafe\/JdkInternalMiscUnsafeUnalignedAccess.java"}],"sha":"e5ff3a6a1d2e150e938bb68797ca35a7d07e76d8"}]
