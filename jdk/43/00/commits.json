@@ -1,0 +1,1 @@
+[{"commit":{"message":"8235229: Compilation against a modular, multi-release JAR erroneous with --release"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/platform\/JDKPlatformProvider.java"},{"filename":"test\/langtools\/tools\/javac\/modules\/ModuleInfoTest.java"}],"sha":"f197f4aea4aeb9be9ead883f18f7f3ff1c41ef17"}]
