@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2962,1 +2962,1 @@\n-  if (false && rec_t->isa_inlinetype()) {\n+  if (rec_t->isa_inlinetype()) {\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
