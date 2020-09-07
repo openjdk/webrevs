@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,1 @@\n-       CALL_VM(SafepointMechanism::block_if_requested(THREAD), handle_exception); \\\n+       CALL_VM(SafepointMechanism::process_if_requested(THREAD), handle_exception); \\\n","filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
