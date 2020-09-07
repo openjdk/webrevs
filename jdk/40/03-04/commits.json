@@ -1,0 +1,1 @@
+[{"commit":{"message":"return MAX2(max_address_bit, MINIMUM_MAX_ADDRESS_BIT) instead of the if to make the intention more clear."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/z\/zGlobals_aarch64.cpp"}],"sha":"70efdd8b04d80a1c4fc1316b020a623a713c215a"}]

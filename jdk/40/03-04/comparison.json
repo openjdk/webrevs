@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,4 +192,1 @@\n-  if (max_address_bit < MINIMUM_MAX_ADDRESS_BIT) {\n-    return MINIMUM_MAX_ADDRESS_BIT;\n-  }\n-  return max_address_bit;\n+  return MAX2(max_address_bit, MINIMUM_MAX_ADDRESS_BIT);\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/z\/zGlobals_aarch64.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
