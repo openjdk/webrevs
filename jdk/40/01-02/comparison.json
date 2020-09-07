@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+#ifdef LINUX\n@@ -32,0 +33,1 @@\n+#endif \/\/ LINUX\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/z\/zGlobals_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
