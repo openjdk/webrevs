@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252767: URLConnection.setRequestProperty throws IllegalAccessError\nSummary: Throw an IllegalStateException from sun.net.www.URLConnection#setRequestProperty when already connected\nReviewed-By:"},"files":[{"filename":"test\/jdk\/java\/net\/URLConnection\/RequestProperties.java"}],"sha":"bd6497775de287f0c3b4fb37b23193b4de33869d"}]
