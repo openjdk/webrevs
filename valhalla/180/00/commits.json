@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252854: [lworld] Buffering in C1 entry can trigger safepoint before nmethod entry barrier has been executed"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_MacroAssembler_x86.cpp"}],"sha":"5532c63dd468e66ddaef8393ae2c42a03c5848e8"}]
