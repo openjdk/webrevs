@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -774,6 +774,0 @@\n-        ],\n-        \"jdk\": [\n-            \"hotspot\",\n-            \"core-libs\",\n-            \"compiler\",\n-            \"2d\"\n","filename":"config\/mailinglist\/rules\/jdk.json","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
