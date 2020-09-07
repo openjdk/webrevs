@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8240751: Shenandoah: fold ShenandoahTracer definition"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahCollectorPolicy.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahTracer.hpp"}],"sha":"f2a8df43da41db06131d1506fc74f2beebc5e7d2"}]
