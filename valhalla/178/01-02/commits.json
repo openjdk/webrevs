@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed bug in generate_generic_copy stub: Non-array src is not detected"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestArrays.java"}],"sha":"d72baa7674f1f31c98a1301ec7a27a284f5604f3"}]
