@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -265,2 +265,0 @@\n-            cad.sourceAlphaBlendFactor = MTLBlendFactorSourceAlpha;\n-\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLPipelineStatesStorage.m","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}

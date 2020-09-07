@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252845: Regressions in Sanity tests after JDK-8251032\n\nRevert \"8251032: Colors with texture background look different with Alpha Com…\""},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLPipelineStatesStorage.m"}],"sha":"285aae60644d4ef18b5f08d2d04a013bdfa9e210"}]
