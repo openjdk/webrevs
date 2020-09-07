@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252658: G1: Do not consider G1HeapWastePercent during region selection within a gc"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp"}],"sha":"5e37b20791b7a47a91191593658d6f33e7c5caf7"}]
