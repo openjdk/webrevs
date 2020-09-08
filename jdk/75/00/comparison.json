@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -279,1 +279,1 @@\n-    st->print_cr(\"NULL\");\n+    st->print(\"NULL\");\n","filename":"src\/hotspot\/share\/code\/debugInfo.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
