@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252889: C2 crashes when disabling InsertMemBarAfterArraycopy"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"},{"filename":"src\/hotspot\/share\/opto\/macroArrayCopy.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"ee33d8e23a997d0edaf8ee8153f57382b2d55554"}]
