@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -776,1 +776,1 @@\n-        return new Branch(\"default\");\n+        return Branch.defaultFor(VCS.HG);\n","filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/hg\/HgRepository.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
