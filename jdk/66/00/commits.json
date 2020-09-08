@@ -1,0 +1,1 @@
+[{"commit":{"message":"8250563 Add KVHashtable::add_if_absent"},"files":[{"filename":"src\/hotspot\/share\/memory\/archiveBuilder.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspaceClosure.cpp"},{"filename":"src\/hotspot\/share\/utilities\/hashtable.hpp"},{"filename":"src\/hotspot\/share\/utilities\/resourceHash.hpp"}],"sha":"f41faaad593ef1291dc1ee27f426a1ce272410b5"}]
