@@ -1,0 +1,1 @@
+[{"commit":{"message":"8238669: Long.divideUnsigned is extremely slow for certain values (Needs to be Intrinsic)\n\nAdded helpful parentheses and comments to clarify aspects not discussed in \"Hacker's Delight\"."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Long.java"}],"sha":"e1563721a5d70203de0e5838b2fdda97bba8eda4"}]
