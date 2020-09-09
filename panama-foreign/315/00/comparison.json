@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -785,1 +785,1 @@\n-        address_handle.set(segment, offset, value);\n+        address_handle.set(segment, offset, value.address());\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/MemoryAccess.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
