@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2550,1 +2550,1 @@\n-  _package_entry = NULL; \/\/ TODO -- point it to the archived PackageEntry (JDK-8249262)\n+  _package_entry = NULL;\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
