@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -286,1 +286,1 @@\n-\tprivate final class ModelsContainer {\n+\tprivate static final class ModelsContainer {\n","filename":"application\/org.openjdk.jmc.flightrecorder.flameview\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/flameview\/views\/FlameGraphView.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
