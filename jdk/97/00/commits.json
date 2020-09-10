@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8252114: Windows-AArch64: Enable and test ZGC and ShenandoahGC\n\nZGC and ShenandoahGC are two low latency GCs in OpenJDK HotSpot. We will enable and run microbenchmarks and scaling tests for both."},"files":[{"filename":"make\/autoconf\/jvm-features.m4"}],"sha":"1018633963339e9f7f1a5350764ebfb97f2f7bbe"}]
