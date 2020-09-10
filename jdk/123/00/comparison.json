@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -889,0 +889,3 @@\n+    \/\/ Need to re-set oop's to pass CheckUnhandledOops check\n+    blocker_object = NULL;\n+    blocker_object_owner = NULL;\n","filename":"src\/hotspot\/share\/services\/threadService.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
