@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3859,1 +3859,0 @@\n-    private native void synchronizeThreads0(Object deopt, Throwable exception);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
