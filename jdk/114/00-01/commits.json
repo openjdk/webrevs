@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove left over setting of GVars.stw_random; fixed separately via JDK-8252126."},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"36649369d13d3bb1926bcc36192dae784aa2363e"}]
