@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the unused SafePointNode::_oop_map field"},"files":[{"filename":"src\/hotspot\/share\/opto\/callnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/matcher.cpp"}],"sha":"05bdc4dcc24d23b8dd9956f7a64c0138f2548d9e"}]
