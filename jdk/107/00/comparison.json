@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+#include \"gc\/shared\/collectedHeap.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shared\/referencePolicy.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
