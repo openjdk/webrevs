@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -449,3 +449,0 @@\n-            #ifdef ASSERT\n-            if (GCALotAtAllSafepoints) InterfaceSupport::check_gc_alot();\n-            #endif\n","filename":"src\/hotspot\/share\/runtime\/vmThread.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
