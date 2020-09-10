@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253006: [lworld] Incorrect debug information for fields of scalarized flat array"},"files":[{"filename":"src\/hotspot\/share\/opto\/macro.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestArrays.java"}],"sha":"05fc20106952541a1a9651e06d07873dc2bd564e"}]
