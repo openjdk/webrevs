@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -881,0 +881,2 @@\n+  Handle obj = ThreadService::get_current_contended_monitor(thread);\n+\n@@ -888,1 +890,0 @@\n-    Handle obj = ThreadService::get_current_contended_monitor(thread);\n","filename":"src\/hotspot\/share\/services\/threadService.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
