@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,0 +68,1 @@\n+        \/\/ 8246745: updating the old listView must not throw NPE in skin\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/skin\/SkinCleanupTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
