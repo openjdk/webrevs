@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252689: Classes are loaded from jrt:\/java.base even when CDS is used"},"files":[{"filename":"open.patch"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp"}],"sha":"ee270886df940a093e5f551d4697a1e9ac894983"}]
