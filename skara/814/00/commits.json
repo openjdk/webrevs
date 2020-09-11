@@ -1,0 +1,1 @@
+[{"commit":{"message":"Treat bad whitespace in commit message gracefully"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/PullRequestCheckIssueVisitor.java"},{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/SummaryCommand.java"}],"sha":"13c77292af5e7f17cf68fc7382e3609fcb7e1b74"}]
