@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252593: [TESTBUG] serviceability\/jvmti\/GetLocalVariable\/GetLocalWithoutSuspendTest.java failed with JVMTI_ERROR_INVALID_SLOT"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/GetLocalVariable\/libGetLocalWithoutSuspendTest.cpp"}],"sha":"c7c8706a6ba4b226e43453ea8cb759738a876035"}]
