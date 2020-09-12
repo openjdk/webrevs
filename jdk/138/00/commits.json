@@ -1,0 +1,1 @@
+[{"commit":{"message":"8223187: Investigate setLocale() call in jpackage native launcher"},"files":[{"filename":"src\/jdk.incubator.jpackage\/linux\/native\/applauncher\/LinuxLauncher.cpp"},{"filename":"src\/jdk.incubator.jpackage\/macosx\/native\/applauncher\/MacLauncher.cpp"}],"sha":"f7e56fb7f22df12ce9d36cdfb98a29dd773b76bd"}]
