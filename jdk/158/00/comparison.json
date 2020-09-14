@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1849,0 +1849,1 @@\n+    MetaspaceShared::disable_full_module_graph();\n","filename":"src\/hotspot\/share\/memory\/filemap.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
