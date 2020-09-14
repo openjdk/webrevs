@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-if [ \"`hg status .`x\" != \"x\" ] ; then\n+if [ \"`git status -s .`x\" != \"x\" ] ; then\n","filename":"make\/scripts\/generate-symbol-data.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
