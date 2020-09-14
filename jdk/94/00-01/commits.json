@@ -1,0 +1,1 @@
+[{"commit":{"message":"8251397: NPE on ClassValue.ClassValueMap.cacheArray\n\nAdd release fence to ClassValueMap constructor.\n\n* Release fence guarantees that\ncacheArray field will published with a non-null value.\n* Without this fix,\nCacheValueMap.cacheArray can sometimes be seen as null."},"files":[],"sha":"6c4e82d870050d8fa6644ac869188f654a06ff44"}]
