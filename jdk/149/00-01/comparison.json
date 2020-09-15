@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,0 +73,1 @@\n+                frame.setLocationRelativeTo(null);\n","filename":"test\/jdk\/javax\/swing\/Box\/TestBoxFiller.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
