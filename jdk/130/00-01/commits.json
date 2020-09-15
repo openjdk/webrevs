@@ -1,0 +1,1 @@
+[{"commit":{"message":"8244706: GZIP \"OS\" header flag hard-coded to 0 instead of 255 (RFC 1952 non-compliance)\nReviewed-By:"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPOutputStream.java"},{"filename":"test\/jdk\/java\/util\/jar\/JarFile\/JarManifestStreamLeakTest.java"}],"sha":"159684dea8bcc33d8d5858c2b901d4554bafdce7"}]
