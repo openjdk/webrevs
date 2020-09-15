@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,0 @@\n-class OopMap;\n@@ -338,2 +337,0 @@\n-  \/\/ There is no OopMap field, the oop map is set after matching in\n-  \/\/ OopFlow::compute_reach on the MachSafePointNode. (See buildOopMap.cpp)\n","filename":"src\/hotspot\/share\/opto\/callnode.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
