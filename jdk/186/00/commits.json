@@ -1,0 +1,1 @@
+[{"commit":{"message":"6714834: JarFile.getManifest() leaves an open InputStream as an undocumented side effect\nReviewed-By:"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarFile.java"}],"sha":"e5ab28696255819b581b6e1170b74ce6705fffe2"}]
