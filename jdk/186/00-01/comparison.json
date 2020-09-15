@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -426,1 +426,1 @@\n-                    try (final InputStream is = super.getInputStream(manEntry)) {\n+                    try (InputStream is = super.getInputStream(manEntry)) {\n","filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
