@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-    \/\/ OS header value\n+    \/\/ Represents the default \"unknown\" value for OS header, per RFC-1952\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPOutputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
