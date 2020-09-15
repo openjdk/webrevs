@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -17,1 +17,1 @@\n-files=.*\\.cpp|.*\\.hpp|.*\\.c|.*\\.h|.*\\.java\n+files=.*\\.cpp|.*\\.hpp|.*\\.c|.*\\.h|.*\\.java|.*\\.cc|.*\\.hh|.*\\.m|.*\\.mm\n","filename":".jcheck\/conf","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
