@@ -1,0 +1,1 @@
+[{"commit":{"message":"8202473: A type variable with multiple bounds does not correctly place type annotation"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/reflect\/annotation\/TypeAnnotationParser.java"},{"filename":"test\/jdk\/java\/lang\/annotation\/typeAnnotations\/TypeVariableBoundParameterIndex.java"}],"sha":"775b3630a5ce7428caca77eec02604e2b2135c77"}]
