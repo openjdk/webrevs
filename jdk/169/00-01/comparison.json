@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -454,1 +454,0 @@\n-  static void load_class_by_index(const constantPoolHandle& constant_pool, int index);\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
