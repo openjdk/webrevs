@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253161: [lworld] C1's substitutability check should use andptr instead of andl for mark word"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_LIRAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.hpp"}],"sha":"c4bf289b04d37df2f7123db2e718fda387a060e6"}]
