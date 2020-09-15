@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,1 +132,1 @@\n-   *   Once an application has obtained a reference to a XMLEventFactory it\n+   *   Once an application has obtained a reference to a XMLEventFactory, it\n","filename":"src\/java.xml\/share\/classes\/javax\/xml\/stream\/XMLEventFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
