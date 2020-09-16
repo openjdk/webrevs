@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253261: Disable CDS full module graph until JDK-8253081 is fixed"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp"},{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"}],"sha":"43554bb962f1b01172c76f9569cd9688a3645682"}]
