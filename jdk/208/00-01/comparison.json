@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1151,1 +1151,1 @@\n-     * Cached hash code\n+     * Cached hash code.\n@@ -1153,1 +1153,1 @@\n-    private volatile int hashCode;\n+    private transient volatile int hashCode;\n","filename":"src\/java.base\/share\/classes\/java\/text\/DecimalFormatSymbols.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
