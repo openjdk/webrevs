@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-BINUTILS := http:\/\/ftp.gnu.org\/pub\/gnu\/binutils\/$(binutils_ver).tar.xz\n+BINUTILS := http:\/\/ftp.gnu.org\/pub\/gnu\/binutils\/$(binutils_ver).tar.gz\n","filename":"make\/devkit\/Tools.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

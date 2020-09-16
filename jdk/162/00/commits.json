@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix linux GCC 4.9.2 devkit binutils url error\n\nThe existing binutils url does not work for `GCC 4.9.2` devkit because of `binutils-2.25` from `http:\/\/ftp.gnu.org\/pub\/gnu\/binutils` does not contain `tar.xz` file."},"files":[{"filename":"make\/devkit\/Tools.gmk"}],"sha":"eb1c9d39eb29caa5c9d69371bbc77ff6cd56c5c3"}]
