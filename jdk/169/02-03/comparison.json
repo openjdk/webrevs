@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2392,1 +2392,1 @@\n-    \/\/ We may be at method entry which requires we save the do-not-unlock flag.\t  \n+    \/\/ We may be at method entry which requires we save the do-not-unlock flag.\n","filename":"src\/hotspot\/share\/runtime\/thread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
