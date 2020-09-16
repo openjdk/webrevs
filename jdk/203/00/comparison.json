@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,2 +114,0 @@\n-\n-  void verify(ShenandoahQueueBuffer* head);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahStrDedupQueue.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
