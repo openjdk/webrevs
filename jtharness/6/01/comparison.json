@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -302,1 +302,1 @@\n-        <delete dir=\"${build.classes}\" quiet=\"true\"\/>\n+        <depend srcdir=\"${src.dir}\" destdir=\"${build.classes}\"\/>\n@@ -538,1 +538,0 @@\n-        <delete dir=\"${build.javatest.help}\"\/>\n","filename":"build\/build.xml","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
