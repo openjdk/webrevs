@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -18,1 +18,1 @@\n-        kill \"${JETTY_PID}\"\n+        pkill -P \"${JETTY_PID}\"\n@@ -77,1 +77,1 @@\n-    JETTY_PID=$(ps -o pid= --ppid $!)\n+    JETTY_PID=$!\n","filename":"build.sh","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
