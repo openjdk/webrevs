@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253050: jfr disassemble command processes --max-chunks incorrectly"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/tool\/Disassemble.java"},{"filename":"test\/jdk\/jdk\/jfr\/tool\/TestDisassemble.java"}],"sha":"7f57e9be955cc6495de20067e52be28bff7217e3"}]
