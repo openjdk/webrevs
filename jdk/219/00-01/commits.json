@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove Generation::sample_eden_chunk() too and rewire some code"},"files":[{"filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/generation.hpp"}],"sha":"0b13100798a48a4f660bb5d8dded43655f937381"}]
