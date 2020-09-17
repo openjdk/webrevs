@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,1 +300,1 @@\n-            delay(4000);\n+            delay(10000);\n","filename":"test\/jdk\/java\/awt\/GraphicsDevice\/DisplayModes\/CycleDMImage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
