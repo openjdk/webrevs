@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,2 +67,0 @@\n-        jdk2_dir_file.deleteOnExit();\n-\n","filename":"test\/jdk\/tools\/jlink\/JLinkReproducible3Test.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
