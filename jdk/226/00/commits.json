@@ -1,0 +1,1 @@
+[{"commit":{"message":"Refactor vmIntrinsics out of vmSymbols"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp"},{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.hpp"},{"filename":"src\/hotspot\/share\/classfile\/vmSymbols.cpp"},{"filename":"src\/hotspot\/share\/classfile\/vmSymbols.hpp"}],"sha":"2150eb7a7b81e0e4e59eb0808c6a759204c0b21a"}]
