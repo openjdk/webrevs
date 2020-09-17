@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -191,0 +191,1 @@\n+    export TERM=${TERM:-dumb}\n","filename":"gradlew","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
