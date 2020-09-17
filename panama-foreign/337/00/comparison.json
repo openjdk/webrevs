@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,1 @@\n-    const int max_critical_stack_depth = 5;\n+    const int max_critical_stack_depth = 10;\n","filename":"src\/hotspot\/share\/prims\/scopedMemoryAccess.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
