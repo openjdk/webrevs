@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253262: Allocate in DumpRegion is not thread safe"},"files":[{"filename":"src\/hotspot\/share\/oops\/symbol.cpp"},{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"},{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.hpp"}],"sha":"69337175dc68a414850378c73ead289baab1618e"}]
