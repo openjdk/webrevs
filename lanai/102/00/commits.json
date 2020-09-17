@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253301: Lanai: Memory leak in MTLContext code\n\nMoved temp variable to particular MTLContext"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLContext.m"}],"sha":"c764f8f0d94edaf7d580663c590bc051f08ac832"}]
