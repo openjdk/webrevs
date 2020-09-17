@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,2 @@\n+#if defined(ARM)   \/\/ ----------------------------------------------------\n+\n","filename":"src\/hotspot\/os_cpu\/bsd_zero\/orderAccess_bsd_zero.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
