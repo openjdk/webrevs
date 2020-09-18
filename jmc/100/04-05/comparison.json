@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-    echo \"$(date +%T) installing core artfacts - logging output to ${installLog}\"\n+    echo \"$(date +%T) installing core artifacts - logging output to ${installLog}\"\n","filename":"build.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
