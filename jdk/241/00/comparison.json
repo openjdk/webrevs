@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -481,1 +481,0 @@\n-  static bool lookup_logging_aliases(const char* arg, char* buffer);\n","filename":"src\/hotspot\/share\/runtime\/arguments.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
