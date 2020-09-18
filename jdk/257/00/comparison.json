@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -207,1 +207,1 @@\n-  if (load_addr != NULL && fwd != obj) {\n+  if (ShenandoahSelfFixing && load_addr != NULL && fwd != obj) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

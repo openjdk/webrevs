@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253361: Shenandoah: runtime barrier does not honor ShenandoahSelfFixing flag"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.cpp"}],"sha":"6764f9417b88fd58d7ba3e8077aec86cb28cdf8d"}]
