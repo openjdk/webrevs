@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,3 +102,0 @@\n-  \/\/ Initialization\n-  static void initialize();\n-\n","filename":"src\/hotspot\/share\/runtime\/jniHandles.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
