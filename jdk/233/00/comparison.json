@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -21,1 +21,1 @@\n-com\/apple\/laf com\/sun\/java\/accessibility com\/sun\/java\/swing sanity\/client demo\/jfc \\\n+com\/apple\/laf com\/apple\/eawt com\/sun\/java\/accessibility com\/sun\/java\/swing sanity\/client demo\/jfc \\\n","filename":"test\/jdk\/TEST.ROOT","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
