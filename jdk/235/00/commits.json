@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253286: Use expand_exact() instaed of expand_at() for fixed requests in G1"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/heapRegionManager.cpp"}],"sha":"a19ef0d51d796d82454295d1a1cfc4547ef28715"}]
