@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -269,1 +269,0 @@\n-  static address native_method_throw_unsupported_operation_exception_entry();\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
