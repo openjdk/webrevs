@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -334,0 +334,2 @@\n+        clone.setMaxAge(getMaxAge());\n+        clone.setMaxSize(getMaxSize());\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/PlatformRecording.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
