@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,0 +137,3 @@\n+      if test \"x$TOOLCHAIN_VERSION\" = x2017; then\n+          DISABLED_WARNINGS+=\" 4307\"\n+      fi\n","filename":"make\/autoconf\/flags-cflags.m4","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
