@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-error=merge,author,reviewers,whitespace\n+error=author,reviewers,whitespace\n@@ -42,3 +42,0 @@\n-\n-[checks \"merge\"]\n-message=Merge jdk\n","filename":".jcheck\/conf","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
