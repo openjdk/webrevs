@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add overloads for MemorySegment::asSlice and MemoryAddress::asSegmentRestricted"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/MemoryAddress.java"},{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/MemorySegment.java"}],"sha":"dc0270944082545c32c691a900584c86db6ad535"}]
