@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -506,2 +506,0 @@\n-  \/\/ Check for consistency in the selection of the garbage collector.\n-  static bool check_gc_consistency();        \/\/ Check user-selected gc\n","filename":"src\/hotspot\/share\/runtime\/arguments.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
