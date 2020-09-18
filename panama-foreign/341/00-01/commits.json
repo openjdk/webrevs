@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address review comments\nFix impl issue with attachment not being propagated"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/MemoryAddress.java"},{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/NativeMemorySegmentImpl.java"}],"sha":"c959b0dda3a0a4b122187de0b848b25028240d26"}]
