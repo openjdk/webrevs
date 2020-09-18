@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -757,2 +757,0 @@\n-  record_pause(this_pause, start_time_sec, end_time_sec);\n-\n@@ -787,0 +785,2 @@\n+  record_pause(this_pause, start_time_sec, end_time_sec);\n+\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
