@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -359,4 +359,0 @@\n-  static address clean_virtual_call_entry();\n-  static address clean_opt_virtual_call_entry();\n-  static address clean_static_call_entry();\n-\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
