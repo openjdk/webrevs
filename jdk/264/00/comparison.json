@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,0 +115,2 @@\n+        robot.delay(3000); \/\/ wait some time to stabilize the size of the\n+                           \/\/ screen insets after the window is shown\n","filename":"test\/jdk\/javax\/swing\/plaf\/basic\/BasicComboPopup\/7072653\/bug7072653.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
