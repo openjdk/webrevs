@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -195,1 +195,1 @@\n-      * @exception      InvalidNameException If 'n' violates the syntax specified\n+      * @throws         InvalidNameException If 'n' violates the syntax specified\n","filename":"src\/java.naming\/share\/classes\/javax\/naming\/CompoundName.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
