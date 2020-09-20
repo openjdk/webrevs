@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,1 +354,1 @@\n-        reserved_rgn->flag() == flag) {\n+        (reserved_rgn->flag() == flag || reserved_rgn->flag() == mtNone)) {\n","filename":"src\/hotspot\/share\/services\/virtualMemoryTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
