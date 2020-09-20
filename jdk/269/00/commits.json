@@ -1,0 +1,1 @@
+[{"commit":{"message":"Deflater.setDictionary(byte[], int off, int len) ignores the starting offset for the dictionary"},"files":[{"filename":"src\/java.base\/share\/native\/libzip\/Deflater.c"},{"filename":"test\/jdk\/java\/util\/zip\/DeflaterDictionaryTests.java"}],"sha":"7f3fd5dcf7090d2d39d03a017d6092546cbb78d5"}]
