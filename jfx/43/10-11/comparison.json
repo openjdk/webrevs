@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -164,1 +164,1 @@\n-    float lightsRange[12];\t\t \/\/ 3 lights x (1 maxRange + 3 padding)\n+    float lightsRange[12];       \/\/ 3 lights x (1 maxRange + 3 padding)\n","filename":"modules\/javafx.graphics\/src\/main\/native-prism-d3d\/D3DMeshView.cc","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
