@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-        LibraryLookup.ofDefault().lookup(\"strlen\"),\n+        LibraryLookup.ofDefault().lookup(\"strlen\").get(),\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
