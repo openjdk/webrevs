@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253407: Move max_pow2 from test to src"},"files":[{"filename":"src\/hotspot\/share\/utilities\/powerOfTwo.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_powerOfTwo.cpp"}],"sha":"d26e03f6cd4105dcaa0b311a81a91e6837a05bbc"}]
