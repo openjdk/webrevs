@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -211,1 +211,1 @@\n-            die(String.format(\"error: %s is not a hg repository\", cwd.toString()));\n+            die(String.format(\"error: %s is not a repository\", cwd.toString()));\n","filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitDefpath.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
