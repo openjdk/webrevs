@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only require HEAD to have valid author"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckRun.java"},{"filename":"bots\/pr\/src\/test\/java\/org\/openjdk\/skara\/bots\/pr\/CheckTests.java"}],"sha":"b49bd9021002807a10172bc8c635dabe31d426b2"}]
