@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,1 @@\n+#include \"memory\/archiveBuilder.hpp\"\n@@ -401,0 +402,2 @@\n+  assert(ArchiveBuilder::singleton()->is_in_buffer_space(relocated_k), \"must be a shared class\");\n+\n","filename":"src\/hotspot\/share\/memory\/heapShared.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
