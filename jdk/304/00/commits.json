@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253481: Shenandoah: ShenandoahConcurrentRootScanner::oops_do() should always use _claim_strong for CLDClosure"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootProcessor.inline.hpp"}],"sha":"4a51abd7421191988d1fbe1a6c9ef39d853d0238"}]
