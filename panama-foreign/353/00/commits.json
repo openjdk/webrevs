@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix hotspot code to special case scoped access errors"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.hpp"},{"filename":"src\/hotspot\/share\/classfile\/vmSymbols.hpp"},{"filename":"src\/hotspot\/share\/utilities\/exceptions.cpp"}],"sha":"bf29e754d6e046b9527f761bd56af0e330decc8e"}]
