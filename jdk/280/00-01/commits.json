@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only insert trailing barrier when is_c1_or_interpreter_only()"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/c1\/shenandoahBarrierSetC1_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoahBarrierSetAssembler_aarch64.cpp"}],"sha":"d2358620dfd87160632d55d412d6d43b83ca685f"}]
