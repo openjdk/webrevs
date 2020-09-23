@@ -1,0 +1,1 @@
+[{"commit":{"message":"8242882: opening jar file with large manifest might throw NegativeArraySizeException\nReviewed-By:"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarFile.java"},{"filename":"test\/jdk\/java\/util\/jar\/JarFile\/LargeManifestOOMTest.java"}],"sha":"76dcea76c060bca25f84cd9959ac9c34b2804cae"}]
