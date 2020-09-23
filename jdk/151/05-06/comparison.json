@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-  \/\/ This a back reference to the JavaThread, \n+  \/\/ This a back reference to the JavaThread,\n","filename":"src\/hotspot\/share\/runtime\/handshake.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
