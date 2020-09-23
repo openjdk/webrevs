@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -711,1 +711,0 @@\n-    log_trace(oopstorage, ref)(\"%s: released \" PTR_FORMAT, name(), p2i(ptrs[i]));\n","filename":"src\/hotspot\/share\/gc\/shared\/oopStorage.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
