@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-        subargs.addAll(List.of(\"-Xlog:gc,gc+start,stringtable*=trace\", \"-Xmx3G\"));\n+        subargs.addAll(List.of(\"-Xlog:gc,gc+start,stringtable*=trace\", \"-Xmx1g\"));\n","filename":"test\/hotspot\/jtreg\/runtime\/stringtable\/StringTableCleaningTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
