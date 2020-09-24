@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253540: InterpreterRuntime::monitorexit should be a JRT_LEAF function"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"a54ae7cd31a06508d4dc9796a1c3343abcee3cc7"}]
