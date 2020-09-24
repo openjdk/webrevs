@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -853,1 +853,0 @@\n-                        } else {\n@@ -855,0 +854,1 @@\n+                        \/\/ ensure there's no gap between last visible tab and trailing edge\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/TabPaneSkin.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
