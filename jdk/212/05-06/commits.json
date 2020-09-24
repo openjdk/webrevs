@@ -1,0 +1,1 @@
+[{"commit":{"message":"os_windows: remove duplicated UMA handling"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"68f61d60746b3a2785399810195af655d1b37a58"},{"commit":{"message":"test_safefetch{32,N} works fine on win+aarch64"},"files":[{"filename":"src\/hotspot\/share\/runtime\/stubRoutines.cpp"}],"sha":"e90495152ca7e41e56f9f0445214858abf4c126a"}]
