@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -471,2 +471,0 @@\n-  assert(Thread::current()->is_VM_thread(), \"Must be the VM thread\");\n-\n","filename":"src\/hotspot\/share\/runtime\/vmThread.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
