@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Add AIX specific SA code\"\n\nThis reverts commit cc13700d7d3f15927e22d92d9f5ec9a0739ef9a1."},"files":[{"filename":"src\/hotspot\/os\/posix\/signals_posix.cpp"}],"sha":"1ce8353591177dcc8685409096e5027dd93b2458"}]
