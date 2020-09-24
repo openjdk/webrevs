@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,0 +113,1 @@\n+        maxRange = maxRange < 0 ? 0 : maxRange;\n@@ -114,1 +115,0 @@\n-            this.maxRange = maxRange < 0 ? 0 : maxRange;\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/sg\/prism\/NGPointLight.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
