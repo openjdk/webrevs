@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3337,0 +3337,2 @@\n+    \/\/ TODO Disabled until JDK-8253416 is fixed\n+    \/*\n@@ -3372,0 +3374,1 @@\n+    *\/\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorld.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
