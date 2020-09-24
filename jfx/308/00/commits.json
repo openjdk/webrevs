@@ -1,0 +1,1 @@
+[{"commit":{"message":"Round up the translation coordinates when rendering a cached node to screen to prevent it from appearing blurry"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/sg\/prism\/CacheFilter.java"}],"sha":"cce931d3fa99882873fd8c6b14ecdaccaa80d304"}]
