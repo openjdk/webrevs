@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253586: C2: Clean up unused PhaseIterGVN::init_worklist()\n\nRemove unused method PhaseIterGVN::init_worklist(Node *)."},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.hpp"}],"sha":"988e5d8bbe404956a0e66a4e4f7f54d9dfba91f1"}]
