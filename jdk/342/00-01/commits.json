@@ -1,0 +1,1 @@
+[{"commit":{"message":"8250984: Memory Docker tests fail on some Linux kernels w\/o cgroupv1 swap limit capabilities"},"files":[{"filename":"test\/hotspot\/jtreg\/containers\/docker\/TestMemoryAwareness.java"}],"sha":"bcddedd0f10ed3d9b5a2d6770a4c51ef6b39cba2"}]
