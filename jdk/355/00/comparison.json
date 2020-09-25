@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,2 +169,0 @@\n-  \/\/ Check if the counter is big enough and set carry (effectively infinity).\n-  inline void set_carry_if_necessary(InvocationCounter *counter);\n","filename":"src\/hotspot\/share\/compiler\/tieredThresholdPolicy.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
