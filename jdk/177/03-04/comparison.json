@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,0 +298,3 @@\n+  \/\/\n+  \/\/ We can not easily abort before root region scan either because of the\n+  \/\/ reasons mentioned in G1CollectedHeap::abort_concurrent_cycle().\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMarkThread.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
