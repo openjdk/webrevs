@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5439,1 +5439,1 @@\n-    if (allocator()->is_precolored_cpu_interval(register_hint)) {\n+    if (_num_phys_regs == 2 && allocator()->is_precolored_cpu_interval(register_hint)) {\n","filename":"src\/hotspot\/share\/c1\/c1_LinearScan.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
