@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,1 +161,1 @@\n-                CAPS_PS30 | CAPS_PS20 | CAPS_RT_PLAIN_ALPHA |\n+                CAPS_PS30 | CAPS_PS20 |\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/java2d\/metal\/MTLGraphicsConfig.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
