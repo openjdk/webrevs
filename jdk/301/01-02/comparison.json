@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-     * Authenticator's realm. Any caching of credentials\n+     * authenticator's realm. Any caching of credentials\n","filename":"src\/jdk.httpserver\/share\/classes\/com\/sun\/net\/httpserver\/BasicAuthenticator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
