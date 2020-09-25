@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253647: Remove dead code in os::create_thread() on Linux\/BSD"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"1df6179b2ec29b4072e72dd70162ec4cdc2d10e5"}]
