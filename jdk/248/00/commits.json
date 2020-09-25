@@ -1,0 +1,1 @@
+[{"commit":{"message":"bugfix: Missing newline in PrettyWriter::printClassLoader if classloader is null."},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/tool\/PrettyWriter.java"}],"sha":"67750e2b599b3f2a6b814d7bceada785ca4051f9"}]
