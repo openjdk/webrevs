@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1159,1 +1159,1 @@\n-  jccb(Assembler::notZero, try_revoke_bias);\n+  jcc(Assembler::notZero, try_revoke_bias);\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

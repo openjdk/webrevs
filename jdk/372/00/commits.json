@@ -1,0 +1,1 @@
+[{"commit":{"message":"8225329: -XX:+PrintBiasedLockingStatistics causes crash during initialization on Windows platforms"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"5fe5a48bf0bfde6f5e7ceea4ef8f42b1c5bc532f"}]
