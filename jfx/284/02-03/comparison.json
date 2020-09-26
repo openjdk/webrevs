@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -269,0 +269,3 @@\n+\n+        r = list.setAll(\"one\");\n+        assertTrue(r);\n","filename":"modules\/javafx.base\/src\/test\/java\/test\/javafx\/collections\/ObservableListTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
