@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,0 @@\n-extern Monitor* VMOperationRequest_lock;         \/\/ a lock on Threads waiting for a vm_operation to terminate\n","filename":"src\/hotspot\/share\/runtime\/mutexLocker.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
