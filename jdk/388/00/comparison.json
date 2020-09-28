@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1626,1 +1626,0 @@\n-  assert(fr.is_compiled_frame(), \"Wrong frame type\");\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}

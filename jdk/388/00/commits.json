@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253728: tests fail with \"assert(fr.is_compiled_frame()) failed: Wrong frame type\""},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"}],"sha":"73ba8f53f3a794769f121d374330d6efa7e19f0a"}]
