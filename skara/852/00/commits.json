@@ -1,0 +1,1 @@
+[{"commit":{"message":"vcs: allow capital letters in e-mails"},"files":[{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/openjdk\/CommitMessageSyntax.java"},{"filename":"vcs\/src\/test\/java\/org\/openjdk\/skara\/vcs\/openjdk\/CommitMessageParsersTests.java"}],"sha":"bb7fb3ca72b8119f66f2d344abc5b6acc2279dd9"}]
