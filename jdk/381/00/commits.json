@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253714: [cgroups v2] Soft memory limit incorrectly using memory.high"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupV2Subsystem_linux.cpp"},{"filename":"src\/java.base\/linux\/classes\/jdk\/internal\/platform\/cgroupv2\/CgroupV2Subsystem.java"}],"sha":"c3337bc6b21ee285c2b404a89e45f3d8f6fcedcd"}]
