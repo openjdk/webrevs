@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -786,1 +786,1 @@\n-  \/\/ evacuation indicates whether some or more optional evacuation steps may\n+  \/\/ evacuation indicates whether one or more optional evacuation steps may\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
