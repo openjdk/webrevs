@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253740: [PPC64] Minor interpreter cleanup"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc.hpp"},{"filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc_64.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/templateInterpreterGenerator_ppc.cpp"}],"sha":"aa3dea5c1f5b21a5727490750b8e299c9cb9b501"}]
