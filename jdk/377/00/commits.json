@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-6514600: AbstractAction can throw NullPointerException when clone()d"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/ArrayTable.java"},{"filename":"test\/jdk\/javax\/swing\/Action\/AbstractActionBug.java"}],"sha":"a99ced17b7fffa4a9b811875fbdd41c079273d6a"}]
