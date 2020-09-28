@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252835:Revert fix for JDK-8246051\n\nReverting JDK-8246051(SIGBUS by unaligned Unsafe compare_and_swap) because it may cause some\nruntime issues."},"files":[{"filename":"src\/hotspot\/share\/prims\/unsafe.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/unsafe\/TestUnsafeUnalignedSwap.java"}],"sha":"2142a20efe62b8a3cc4eb5bcb862d5540f737fd7"}]
