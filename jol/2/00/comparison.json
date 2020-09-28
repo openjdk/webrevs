@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-        <jmh.version>1.23<\/jmh.version>\n+        <jmh.version>1.25.2<\/jmh.version>\n","filename":"jol-benchmarks\/pom.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
