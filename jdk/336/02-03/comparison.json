@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1588,1 +1588,1 @@\n-  product(bool, MetaspaceGuardAllocations, false,                           \\\n+  product(bool, MetaspaceGuardAllocations, false, DIAGNOSTIC,               \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
