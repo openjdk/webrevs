@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,0 +93,1 @@\n+  virtual ~ParallelObjectIterator() {}\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
