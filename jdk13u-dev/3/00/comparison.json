@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -272,4 +272,0 @@\n-\n-  static DirectivesStack* dirstack();\n-  static void set_dirstack(DirectivesStack* stack);\n-\n@@ -290,1 +286,0 @@\n-  static void print_directives(outputStream* st);\n","filename":"src\/hotspot\/share\/compiler\/compileBroker.hpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
