@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,1 +240,1 @@\n-     * RegionButtonMenuItem region. To bind a style to this <code>Region<\/code>\n+     * RadioButtonMenuItem  region. To bind a style to this <code>Region<\/code>\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/synth\/Region.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
