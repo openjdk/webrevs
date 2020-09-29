@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -631,1 +631,1 @@\n-        WindowsPath file = WindowsPath.toWindowsPathobj);\n+        WindowsPath file = WindowsPath.toWindowsPath(obj);\n","filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsFileSystemProvider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
