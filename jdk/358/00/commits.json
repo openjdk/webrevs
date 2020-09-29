@@ -1,0 +1,1 @@
+[{"commit":{"message":"8230664: Fix TestInstanceKlassSize for PowerPC"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/InstanceKlass.java"},{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"},{"filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestInstanceKlassSize.java"}],"sha":"1d4ad8241689a4052d5ad4e17d985c4f56ce8ac1"}]
