@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -604,4 +604,0 @@\n-  bool exception_address_is_unpack_entry(address pc) const {\n-    address unpack_pc = unpack();\n-    return (pc == unpack_pc || (pc + frame::pc_return_offset) == unpack_pc);\n-  }\n","filename":"src\/hotspot\/share\/code\/codeBlob.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
