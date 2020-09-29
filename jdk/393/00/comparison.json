@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1740,1 +1740,1 @@\n-            uri = \"jar:\" + uri + \"\/!\" + entry.getName();\n+            uri = \"jar:\" + uri + \"!\/\" + entry.getName();\n","filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/Main.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
