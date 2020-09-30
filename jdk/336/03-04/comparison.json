@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-      processArgs.add(\"-XX:MaxMetaspaceSize=8m\");\n+      processArgs.add(\"-XX:MaxMetaspaceSize=3m\");\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/MaxMetaspaceSize.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
