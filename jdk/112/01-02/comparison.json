@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,1 @@\n-        return new String(\" \").repeat(width);\n+        return \" \".repeat(width);\n","filename":"test\/lib\/jdk\/test\/lib\/format\/Format.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
