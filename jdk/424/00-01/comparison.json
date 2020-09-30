@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -406,1 +406,1 @@\n-  if (ShenandoahSafepoint::is_at_shenandoah_safepoint()) {\n+  if (ShenandoahSafepoint::is_at_shenandoah_safepoint() && Thread::current()->is_VM_thread()) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAsserts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
