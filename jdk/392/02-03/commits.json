@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix compiler warnings"},"files":[{"filename":"src\/utils\/hsdis\/hsdis.cpp"}],"sha":"c497b30f3ae63815f00c06293d5be69986adeb8c"},{"commit":{"message":"Reduce amount of error messages when failing to initialize LLVM"},"files":[{"filename":"src\/utils\/hsdis\/hsdis.cpp"}],"sha":"4c5e0eb3fcc4967602536ce06c3e3b89c97dc4b0"}]
