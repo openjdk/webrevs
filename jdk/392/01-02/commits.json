@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unecessary defines"},"files":[{"filename":"src\/utils\/hsdis\/hsdis.cpp"}],"sha":"a551e247e7805549c4d882be1d935f87116e9663"},{"commit":{"message":"Use llvm-config to list LLVM libraries"},"files":[{"filename":"src\/utils\/hsdis\/Makefile"}],"sha":"23b35bff8d516a9f8b5c76888fef737d1df9894a"}]
