@@ -1,0 +1,1 @@
+[{"commit":{"message":"8251544: CTW: C2 fails with assert(no_dead_loop) failed: dead loop detected"},"files":[{"filename":"src\/hotspot\/share\/opto\/cfgnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/cfgnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestDeadDataLoopIGVN.java"}],"sha":"9071974213fee680ad7540cc1e01ae634bba1982"}]
