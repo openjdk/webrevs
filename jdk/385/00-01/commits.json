@@ -1,0 +1,1 @@
+[{"commit":{"message":"call_VM usages: Remove some explicit \/*check_exceptions=*\/true parameters which match default value."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc_64.cpp"}],"sha":"cda67a541cb4b47beb78cfdb4e2ef6d9f2af3299"}]
