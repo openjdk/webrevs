@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253824: Revert JDK-8253089 since VS warning has been disabled C4307\nSummary: This reverts commit 3f455f09dc738b7c76210c1080df2aaa8e19a19d."},"files":[{"filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagLookup.cpp"},{"filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagLookup.hpp"}],"sha":"4e6ef2a233ac64cb9d59485fdb1dc6394449c358"}]
