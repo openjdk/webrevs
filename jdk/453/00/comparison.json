@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n- * than the resulting <code>TreePath<\/code> objects will be considered equal\n+ * then the resulting <code>TreePath<\/code> objects will be considered equal\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/tree\/TreeModel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
