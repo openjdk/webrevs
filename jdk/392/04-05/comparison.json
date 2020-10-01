@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -645,1 +645,1 @@\n-    LLVMSetDisasmOptions(_dcontext, LLVMDisassembler_Option_PrintImmHex | LLVMDisassembler_Option_AsmPrinterVariant);\n+    LLVMSetDisasmOptions(_dcontext, LLVMDisassembler_Option_PrintImmHex);\n","filename":"src\/utils\/hsdis\/hsdis.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
