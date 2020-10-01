@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1049,1 +1049,1 @@\n-            revision: \"9.0.0+1.0\"\n+            revision: \"9.0.0+\" + (input.build_platform == \"macosx_x64\" ? \"2.0\" : \"1.0\")\n","filename":"make\/conf\/jib-profiles.js","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
