@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-        private boolean loaded;\n+        private volatile boolean loaded;\n","filename":"test\/jdk\/java\/awt\/image\/MultiResolutionImage\/MultiResolutionImageObserverTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
