@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -703,1 +703,1 @@\n-        List<Stream<?>> c = new LinkedList<>(streams.values());\n+        List<Stream<?>> c = new ArrayList<>(streams.values());\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2Connection.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
