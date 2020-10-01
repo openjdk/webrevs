@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use SB to build TestStringIntrinsics message, avoid type guessing in ArrayDiff"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestStringIntrinsics.java"},{"filename":"test\/lib\/jdk\/test\/lib\/format\/ArrayDiff.java"}],"sha":"f0b1df8974a25132b5932439445bd14059add318"}]
