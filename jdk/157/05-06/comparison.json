@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -442,1 +442,1 @@\n-#if defined(_BSD_)\n+#if defined(BSD)\n@@ -498,1 +498,1 @@\n-#if defined(_BSD_)\n+#if defined(BSD)\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
