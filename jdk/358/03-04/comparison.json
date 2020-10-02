@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,3 +94,0 @@\n-# TestInstanceKlassSize and TestInstanceKlassSizeForInterface removed after JDK-8253900\n-# but may be disabled again if JDK-8230664 starts to reproduce again.\n-\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
