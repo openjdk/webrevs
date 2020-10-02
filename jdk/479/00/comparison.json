@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3670,1 +3670,1 @@\n-  char* start = anon_mmap(req_addr, bytes);\n+  char* start = anon_mmap(req_addr, extra_size);\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
