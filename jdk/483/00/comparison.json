@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,2 +98,2 @@\n-                         uint64_t timeout_in_millis);\n-  void work(uint64_t timeout_in_millis);\n+                         uint64_t timeout_in_micros);\n+  void work(uint64_t timeout_in_micros);\n","filename":"src\/hotspot\/share\/gc\/z\/zMark.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
