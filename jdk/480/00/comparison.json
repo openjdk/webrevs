@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,0 @@\n-  void set_in_progress();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMarkThread.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
