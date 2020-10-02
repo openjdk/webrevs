@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4,1 +4,1 @@\n-mvn p2:site\n+call mvn p2:site\n@@ -11,1 +11,1 @@\n-mvn spotless:check\n+call mvn spotless:check\n@@ -14,1 +14,1 @@\n-mvn -Puitests spotless:check\n+call mvn -Puitests spotless:check\n","filename":"scripts\/checkformatting.bat","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}

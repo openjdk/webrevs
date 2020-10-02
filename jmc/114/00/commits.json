@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix windows check formatting script\n\nbecause mvn is itself a script we need to call with call command\nto get control back to the main sript"},"files":[{"filename":"scripts\/checkformatting.bat"}],"sha":"2407fd762e970341202f75b95d80c22089f1952e"}]
