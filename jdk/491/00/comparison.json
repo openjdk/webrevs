@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-    private static boolean discardingMouseEvents = false;\n+    private static volatile boolean discardingMouseEvents = false;\n","filename":"src\/java.desktop\/share\/classes\/sun\/awt\/dnd\/SunDragSourceContextPeer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
