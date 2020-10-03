@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253960: Memory leak in Java_java_lang_ClassLoader_defineClass0()"},"files":[{"filename":"src\/java.base\/share\/native\/libjava\/ClassLoader.c"}],"sha":"7dd251b3900726e94c2d65ec239779a85ce9b0b1"}]
