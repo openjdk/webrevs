@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253970 Build error: address argument to atomic builtin must be a pointer to integer or pointer ('volatile narrowOop *' invalid)"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_zero\/atomic_bsd_zero.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_zero\/atomic_linux_zero.hpp"}],"sha":"52ba86d924f986ff5e1c3a5cb14f6d1bacc4cfa2"}]
