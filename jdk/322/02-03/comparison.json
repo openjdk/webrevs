@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -669,0 +669,2 @@\n+            case \"directsign\":\n+                return Boolean.toString(directsign);\n","filename":"src\/jdk.jartool\/share\/classes\/jdk\/security\/jarsigner\/JarSigner.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
