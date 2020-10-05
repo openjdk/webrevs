@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-import java.lang.invoke.MethodHandles;;\n+import java.lang.invoke.MethodHandles;\n","filename":"src\/java.desktop\/share\/classes\/sun\/awt\/AWTAccessor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
