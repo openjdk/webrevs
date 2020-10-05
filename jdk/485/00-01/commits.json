@@ -1,0 +1,1 @@
+[{"commit":{"message":"8245543: Cgroups: Incorrect detection logic on some systems (still reproducible)"},"files":[{"filename":"src\/java.base\/linux\/classes\/jdk\/internal\/platform\/CgroupSubsystemFactory.java"}],"sha":"6c4fadd157d2bea0583b3c78acec4768a70c3f72"}]
