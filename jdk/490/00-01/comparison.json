@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -352,1 +352,1 @@\n-  _module_data(NULL) {\n+    _module_data(NULL) {\n","filename":"src\/java.base\/share\/native\/libjimage\/imageFile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
