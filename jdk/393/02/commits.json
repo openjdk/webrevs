@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253761: Fix URI syntax of jar --describe-module"},"files":[{"filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/Main.java"},{"filename":"test\/jdk\/tools\/jar\/modularJar\/Basic.java"}],"sha":"b8ead33a8af55cedaaa540d6be3734d34665e9b4"}]
