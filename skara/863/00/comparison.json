@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -15,1 +15,1 @@\n-    name: Windows x64\n+    name: macOS x64\n@@ -25,1 +25,1 @@\n-    name: macOS x64\n+    name: Windows x64\n","filename":".github\/workflows\/ci.yml","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
