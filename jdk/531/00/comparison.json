@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -188,1 +188,1 @@\n-          \"Print information about Java monitor locks when the stacks are\"  \\\n+          \"Print information about Java monitor locks when the stacks are \" \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
