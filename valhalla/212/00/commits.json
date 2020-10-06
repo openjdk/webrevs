@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252030: [lworld] Enable UseArrayLoadStoreProfile by default"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/InlineTypeTest.java"}],"sha":"df499506e4fafc566e62a422611442063628d270"}]
