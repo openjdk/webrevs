@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,3 @@\n+\/\/ StackOverflow handling is encapsulated in this class.  This class contains state variables\n+\/\/ for each JavaThread that implement stack overflow checking and guard page implementation.\n+\n","filename":"src\/hotspot\/share\/runtime\/stackOverflow.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
