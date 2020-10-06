@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed comments with correct class and method name in CDS, removed unused variables after last change."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/GenerateJLIClassesHelper.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/DumpClassListWithLF.java"}],"sha":"686e211bbc5dc15bfac57a2dc990b37fc1487208"}]
