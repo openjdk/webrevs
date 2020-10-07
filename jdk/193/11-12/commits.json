@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move assert on klass is InstanceKlass after its NULL check. Added sanity check on class_list_file is not NULL before check on it is open."},"files":[{"filename":"src\/hotspot\/share\/classfile\/lambdaFormInvokers.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"107192f3ff75dc5c77a8d3820a571afcd852dd12"}]
