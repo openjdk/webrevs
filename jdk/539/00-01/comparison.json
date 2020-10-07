@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -482,1 +482,1 @@\n-    return 0; \/\/ Shun the compiler warnings.\n+    return 0; \/\/ silence compiler compiler warnings\n","filename":"src\/hotspot\/os_cpu\/linux_zero\/os_linux_zero.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
