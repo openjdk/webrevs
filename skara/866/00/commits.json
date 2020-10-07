@@ -1,0 +1,1 @@
+[{"commit":{"message":"Metadata cache expiration makes the generic expiration in the PR update cache unnecessary"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/PullRequestBot.java"},{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/PullRequestUpdateCache.java"}],"sha":"5edd38e6b7de80aef61e8889ab1cc4bb83199e02"}]
