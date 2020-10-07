@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,3 @@\n-        value = initialValue ? 1 : 0;\n+        if (initialValue) {\n+            value = 1;\n+        }\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/atomic\/AtomicBoolean.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}

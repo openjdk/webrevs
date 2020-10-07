@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid unnecessary volatile write on new AtomicBoolean(false)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/atomic\/AtomicBoolean.java"}],"sha":"a98247a00e7ca3db7661cf528626629080e983fe"}]
