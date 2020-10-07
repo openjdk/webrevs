@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253191: C2: Masked byte comparisons with large masks produce wrong result"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestUnsignedByteCompare.java"}],"sha":"dc7adad255a1302c5a0271a62815d0b8b90b77ea"}]
