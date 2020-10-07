@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-      return result;\n+      return result; \/\/ silence compiler warnings\n","filename":"src\/hotspot\/cpu\/zero\/zeroInterpreter_zero.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
