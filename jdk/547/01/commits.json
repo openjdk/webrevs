@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop \"debug\" from the names"},"files":[{"filename":".github\/workflows\/submit.yml"}],"sha":"bf211c87aa2df93716400d22b8680c9039ad4a68"},{"commit":{"message":"8254175: Build no-pch configuration in debug mode for submit checks"},"files":[{"filename":".github\/workflows\/submit.yml"}],"sha":"185508812d26ec6318125bfa76deae7b5abdda59"}]
