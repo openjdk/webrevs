@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ignore cancelled checks when summarizing results"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/TestResults.java"},{"filename":"bots\/pr\/src\/test\/java\/org\/openjdk\/skara\/bots\/pr\/TestResultsTests.java"}],"sha":"0244d501ea77f8006104edb68caeff5bbe63e548"}]
