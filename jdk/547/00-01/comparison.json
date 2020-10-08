@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-          - build debug hotspot no-pch\n+          - build hotspot no-pch\n@@ -113,1 +113,1 @@\n-          - flavor: build debug hotspot no-pch\n+          - flavor: build hotspot no-pch\n","filename":".github\/workflows\/submit.yml","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
