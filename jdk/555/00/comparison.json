@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1334,1 +1334,1 @@\n-     * modifiers} contains the {@link Modifier#OPEN AUTOMATIC} modifier. <\/p>\n+     * modifiers} contains the {@link Modifier#AUTOMATIC AUTOMATIC} modifier. <\/p>\n","filename":"src\/java.base\/share\/classes\/java\/lang\/module\/ModuleDescriptor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
