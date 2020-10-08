@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n- * A DataOutputStream is not safe for use by multiple concurrent\n+ * A DataInputStream is not safe for use by multiple concurrent\n","filename":"src\/java.base\/share\/classes\/java\/io\/DataInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
