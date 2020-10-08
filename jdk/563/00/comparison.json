@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -172,3 +172,0 @@\n-  \/\/ see if invoker of VM operation owns it\n-  VM_Operation* op = VMThread::vm_operation();\n-  if (op != NULL && op->calling_thread() == lock->owner()) return;\n","filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
