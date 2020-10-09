@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update CGraphicsEnvironment.java\n\nMake sure the main display is in the list of all displays.\nPrevent duplicate main screen if the switch has happened."},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/awt\/CGraphicsEnvironment.java"}],"sha":"93ebb049dbdccca582718456339855869db6beaf"}]
