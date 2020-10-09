@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'upstream\/master' into 8254320"},"files":[],"sha":"05b2bee3a724f1b60fef383c2de8c8520c34c8fb"},{"commit":{"message":"8254320: Shenandoah: C2 native LRB should activate for non-cset objects"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.cpp"}],"sha":"bd11f8b1ce3ba26e53afbe9f1d70e5ae20dfecdb"}]
