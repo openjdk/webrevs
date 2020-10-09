@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2662,3 +2662,0 @@\n-  \/\/ FIXME: what is this about?\n-  \/\/ I'm ignoring the \"fill_newgen()\" call if \"alloc_event_enabled\"\n-  \/\/ is set.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
