@@ -1,0 +1,1 @@
+[{"commit":{"message":"Zero and Minimal VMs are broken with undeclared identifier 'DerivedPointerTable' after JDK-8253180"},"files":[{"filename":"src\/hotspot\/share\/compiler\/oopMap.cpp"},{"filename":"src\/hotspot\/share\/runtime\/frame.cpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.cpp"}],"sha":"c5d1aad7e9aa57d3d0361563d8f5c41078aa46b1"}]
