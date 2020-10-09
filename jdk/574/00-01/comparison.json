@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,1 @@\n-  bool _modified_oops;             \/\/ Card Table Equivalent (YC\/CMS support)\n+  bool _modified_oops;     \/\/ Card Table Equivalent\n","filename":"src\/hotspot\/share\/classfile\/classLoaderData.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
