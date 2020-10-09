@@ -1,0 +1,1 @@
+[{"commit":{"message":"Shenandoah: null checks in c2 should not skip over native load barrier"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahBarrierSetC2.cpp"}],"sha":"11a620297f0eb4862e861b449141db50a2005ecc"}]
