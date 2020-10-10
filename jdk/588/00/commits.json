@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254351: Minimal VM build fails with undeclared identifier 'MaxVectorSize' after JDK-8252847"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_arrayCopy_avx3.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"6aa5f9f1c5d0cac82906f8c27095fdfa9e90a5a6"}]
