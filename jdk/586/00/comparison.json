@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3872,0 +3872,1 @@\n+#if INCLUDE_CDS\n@@ -3873,0 +3874,3 @@\n+#else\n+  return false;\n+#endif \/\/ INCLUDE_CDS\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
