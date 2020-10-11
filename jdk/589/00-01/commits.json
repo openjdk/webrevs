@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254269: simplify Node::disconnect_inputs\n\nOptimize it for the precedence loop. because there's no null between\n2 non-null precedences, disconnect_inputs can break at a null value."},"files":[{"filename":"src\/hotspot\/share\/opto\/node.cpp"}],"sha":"b8a72755a29d2fcbe36c9dcaf7f696634f813b4f"}]
