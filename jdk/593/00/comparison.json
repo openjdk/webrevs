@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+#ifdef _LP64\n@@ -45,0 +46,3 @@\n+#else\n+  ShouldNotReachHere();\n+#endif\n","filename":"src\/hotspot\/cpu\/x86\/c2_safepointPollStubTable_x86.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
