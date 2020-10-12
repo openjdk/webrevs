@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -266,1 +266,0 @@\n-  JVMFlag::MsgType get_locked_message_ext(char*, int) const;\n","filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlag.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
