@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-    @Benchmark \n+    @Benchmark\n@@ -39,1 +39,1 @@\n-\tint base = intValue;\n+        int base = intValue;\n","filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/BitfieldInsert.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
