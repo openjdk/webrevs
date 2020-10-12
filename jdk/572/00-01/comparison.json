@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-          \"generated\")                                                      \\\n+          \"generated)\")                                                     \\\n","filename":"src\/hotspot\/share\/opto\/c2_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
