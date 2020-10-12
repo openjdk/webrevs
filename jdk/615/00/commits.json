@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254611: x86_32: Call to IRT::at_unwind clobbers rthread after JDK-8253180"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/interp_masm_x86.cpp"}],"sha":"16f2c7ff84a0f59794b1038c44fc1a672689665c"}]
