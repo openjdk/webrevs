@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -947,1 +947,1 @@\n-  assert(self == Thread::current()->as_Java_thread(), \"wrong thread\");\n+  assert(self == Thread::current()->as_Java_thread(), \"must be self\");\n","filename":"src\/hotspot\/share\/runtime\/safepoint.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
