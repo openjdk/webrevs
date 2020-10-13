@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,2 +33,0 @@\n-#define inlasm_isb()    asm volatile(\"isb\" : : : \"memory\")\n-\n@@ -59,1 +57,1 @@\n-  inlasm_isb();\n+  asm volatile(\"isb\" : : : \"memory\");\n","filename":"src\/hotspot\/os_cpu\/linux_aarch64\/orderAccess_linux_aarch64.hpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
