@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-        return Utils.isMac() ? ALT : CTRL;\n+        return Utils.isMac() ? ALT : getShortcutKey();\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/com\/sun\/javafx\/scene\/control\/infrastructure\/KeyModifier.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
