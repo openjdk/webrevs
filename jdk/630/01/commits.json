@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254672: ZGC: ZParallelOopsDo\/ZSerialWeakOopsDo should use atomic load\/store"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zRootsIterator.cpp"}],"sha":"fa2ff601deacd5dc58da7b982c74f3e0f1b06280"}]
