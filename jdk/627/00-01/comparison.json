@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -559,1 +559,1 @@\n-\/\/ The thread and the oops in the returned might not have been process.\n+\/\/ The thread and the oops in the returned vframe might not have been process.\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
