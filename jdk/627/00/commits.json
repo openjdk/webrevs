@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254668: JVMTI process frames on thread without started processing"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.hpp"}],"sha":"587fd354667f84993ae15b169c62a1ab4af3d269"}]
