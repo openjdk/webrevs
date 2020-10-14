@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,1 +216,1 @@\n-    @HotSpotIntrinsicCandidate\n+    @IntrinsicCandidate\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringLatin1.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
