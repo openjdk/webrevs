@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254369: Node::disconnect_inputs may skip precedences\n\ndisconnect_inputs() needs to iterate precedences edges in reverse order\nbecause rm_prec(i) may backfill _in[i] with a value afterward."},"files":[{"filename":"src\/hotspot\/share\/opto\/node.cpp"},{"filename":"src\/hotspot\/share\/opto\/node.hpp"}],"sha":"f3f9c27b70a8320989dcfec4b46f27ad7fcd143a"}]
