@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use reserve_alignment() instead of commit_alignment() in inc_capacity_until_GC"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace.cpp"},{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"},{"filename":"test\/hotspot\/jtreg\/gc\/metaspace\/TestCapacityUntilGCWrapAround.java"}],"sha":"3b656dd83ed86212502ab268a59961531af14782"}]
