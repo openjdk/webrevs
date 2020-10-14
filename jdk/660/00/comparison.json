@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,2 +69,0 @@\n-  static void get_loaded_classes(JavaThread* cur_thread, GrowableArray<Klass*>* klass_array);\n-\n","filename":"src\/hotspot\/share\/services\/management.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
