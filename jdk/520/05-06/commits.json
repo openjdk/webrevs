@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253952: Refine ZipOutputStream.putNextEntry() to recalculate ZipEntry's compressed size"},"files":[{"filename":"test\/jdk\/java\/util\/zip\/CopyZipFile.java"}],"sha":"6b570c6602687927c39d0d1c487c327e22b964bf"}]
