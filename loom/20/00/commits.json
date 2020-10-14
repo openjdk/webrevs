@@ -1,0 +1,1 @@
+[{"commit":{"message":"OSX build fails with Xcode 12 due to missing parantheses around sizeof(relocInfo)"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"7afc658066c579de3c4bf4d16fcbfeaa4a240ab6"}]
