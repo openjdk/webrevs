@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -155,1 +155,1 @@\n-    new_value = align_down(max_uintx, Metaspace::commit_alignment());\n+    new_value = align_down(max_uintx, Metaspace::reserve_alignment());\n","filename":"src\/hotspot\/share\/memory\/metaspace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
