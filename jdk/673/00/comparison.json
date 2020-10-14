@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,0 +81,1 @@\n+                \"-XX:+IgnoreUnrecognizedVMOptions\",\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/TestHeapDumpOnOutOfMemoryError.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
