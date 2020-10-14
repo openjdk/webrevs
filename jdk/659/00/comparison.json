@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -223,1 +223,0 @@\n-  static void check_memory_usage();\n","filename":"src\/hotspot\/share\/services\/lowMemoryDetector.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
