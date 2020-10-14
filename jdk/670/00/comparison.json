@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -499,1 +499,1 @@\n-  case vmIntrinsics::_indexOfL_char:\n+  \/\/ case vmIntrinsics::_indexOfL_char: \/\/ Disable it until found issues are fixed\n","filename":"src\/hotspot\/share\/opto\/c2compiler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
