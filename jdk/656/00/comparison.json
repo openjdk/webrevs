@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,2 +91,0 @@\n-  void add_dependence(ciKlass *klass, ciMethod *meth);\n-  void propagate_dependencies(ciMethod *meth);\n","filename":"src\/hotspot\/share\/ci\/bcEscapeAnalyzer.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
