@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure that the seed repo fetches everything when refreshing"},"files":[{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/HostedRepositoryPool.java"},{"filename":"forge\/src\/test\/java\/org\/openjdk\/skara\/forge\/HostedRepositoryPoolTests.java"}],"sha":"6f2213331fcb9553a008113d5bc1a27fa5ceb8bb"}]
