@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -227,1 +227,1 @@\n-    return _completed = true;\n+    return _completed;\n","filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
