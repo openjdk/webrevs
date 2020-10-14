@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,0 @@\n-  static bool is_loaded(Klass* klass);\n","filename":"src\/hotspot\/share\/ci\/ciReplay.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
