@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -807,3 +807,0 @@\n-  \/\/ returns the field count for the given class\n-  static int compute_field_count(InstanceKlass* ik);\n-\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
