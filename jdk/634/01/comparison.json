@@ -1,0 +1,5 @@
+This file was too large to be included in the published webrev, and has been replaced with this placeholder message. It is possible to generate the original content locally by following these instructions:
+
+  $ git fetch https://git.openjdk.java.net/jdk pull/634/head
+  $ git checkout ad8bee129f7f4a9506d99d564b3521b6a8b86d54
+  $ git webrev -r 3c2f5e08f76057744ea2f755142408d80f043f43
