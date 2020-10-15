@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -360,1 +360,1 @@\n-    \/* Implementation of refersTo() for non-phantom references.\n+    \/* Implementation of refersTo(), overridden for phantom references.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ref\/Reference.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
