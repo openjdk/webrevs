@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-      \/\/ Replace \\t\\r\\n with ' '\n+      \/\/ Replace \\t\\r\\n\\f with ' '\n","filename":"src\/hotspot\/share\/classfile\/classListParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
