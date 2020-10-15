@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -18,1 +18,1 @@\n-        pkill -P \"${JETTY_PID}\"\n+        kill \"${JETTY_PID}\"\n@@ -83,1 +83,1 @@\n-    echo \"$(date +%T) jetty server up and running\"\n+    echo \"$(date +%T) jetty server up and running on pid ${JETTY_PID}\"\n","filename":"build.sh","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
