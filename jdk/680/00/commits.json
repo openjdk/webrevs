@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254811: JDK-8254158 broke ppc64, s390 builds"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/os_cpu\/aix_ppc\/os_aix_ppc.cpp"}],"sha":"07687b3de3f488b6ddb644dcb4c65bcea1681423"}]
