@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254793: encode a HotSpotSpeculation in an int instead of a long"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/jdk.vm.ci.hotspot.test\/src\/jdk\/vm\/ci\/hotspot\/test\/TestHotSpotSpeculationLog.java"}],"sha":"2e4e4521d76007c3d018385109fa15e1bb5c13d3"}]
