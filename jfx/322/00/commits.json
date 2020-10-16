@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't check on windows visiblity when requesting focus.\nFor a new window, the call to requestFocus is done before the visibility is set to true.\nFix for JDK-8254605"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/monocle\/MonocleWindowManager.java"}],"sha":"45e983aaf7ca62a4a0e8d85477f95a43e82ed596"}]

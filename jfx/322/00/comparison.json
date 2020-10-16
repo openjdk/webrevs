@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-        if (index != -1 && window.isVisible()) {\n+        if (index != -1) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/monocle\/MonocleWindowManager.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
