@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -962,1 +962,1 @@\n-                \/\/ the reviwer check to be ignored.\n+                \/\/ the reviewer check to be ignored.\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckRun.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
