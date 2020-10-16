@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,0 +263,1 @@\n+  ResourceMark rm;\n","filename":"src\/hotspot\/cpu\/zero\/frame_zero.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"},{"patch":"@@ -1145,0 +1145,1 @@\n+  ResourceMark rm;\n","filename":"src\/hotspot\/share\/runtime\/frame.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
