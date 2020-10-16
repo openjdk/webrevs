@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,1 @@\n+    :jdk_jextract \\\n@@ -342,0 +343,1 @@\n+<<<<<<< HEAD\n@@ -344,0 +346,5 @@\n+=======\n+jdk_jextract = \\\n+    java\/jextract \\\n+    tools\/jextract\n+>>>>>>> d8c0d0d74b87520bfa1d1c8aa18519e2d038f724\n","filename":"test\/jdk\/TEST.groups","additions":7,"deletions":0,"binary":false,"changes":7,"status":"modified"}]}
