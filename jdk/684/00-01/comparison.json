@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2355,0 +2355,2 @@\n+\tguarantee(name != NULL, \"libjvmci caller must pass non-null name\");\n+\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
