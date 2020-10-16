@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8254843: Exception launching app on windows in some cases"},"files":[{"filename":"src\/jdk.incubator.jpackage\/windows\/native\/applauncher\/WinLauncher.cpp"}],"sha":"a9cfbb6d8396e10de6ceacb85d09fce14bd24e5a"}]
