@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8254783: jpackage fails on Windows when application name differs from installer name"},"files":[{"filename":"src\/jdk.incubator.jpackage\/windows\/classes\/jdk\/incubator\/jpackage\/internal\/WinMsiBundler.java"}],"sha":"49d9c1a61878bf9df14bff73c897df9fae717139"}]
