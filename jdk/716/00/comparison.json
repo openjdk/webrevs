@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,1 +117,1 @@\n-            for (int j = 0; j < 50; j++) {\n+            for (int j = 0; j < 30; j++) {\n","filename":"test\/jdk\/javax\/swing\/text\/Caret\/TestCaretPositionJTextPane.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
