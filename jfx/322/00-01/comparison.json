@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+import org.junit.Ignore;\n@@ -45,0 +46,1 @@\n+    @Ignore(\"JDK-8254956\")\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/stage\/FocusedWindowMonocleTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
