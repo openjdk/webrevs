@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-  b.transfer(&a);\n+  b.swap(&a);\n","filename":"test\/hotspot\/gtest\/gc\/z\/test_zArray.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
