@@ -1,0 +1,1 @@
+[{"commit":{"message":"handle_special_runtime_exit_condition(): wait (blocked) for obj. deoptimization _before_ async ex. check."},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"272fb0254026956c686e69d4d81a0f9cecfc6d2b"}]
