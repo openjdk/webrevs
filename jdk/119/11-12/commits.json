@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed cross_modify_fence from JT::wait_for_object_deoptimization(). See JDK-8254264."},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"2ca09188bcd14ccd916b812aed24945b3ec35cc7"}]
