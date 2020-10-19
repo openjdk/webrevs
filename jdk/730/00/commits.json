@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254994: [x86] C1 StubAssembler::call_RT, \"call_offset might not be initialized\""},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_Runtime1_x86.cpp"}],"sha":"26e369df27d9240b93fa024b85b2a1fd42757226"}]

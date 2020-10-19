@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-  int call_offset;\n+  int call_offset = -1;\n@@ -136,0 +136,2 @@\n+\n+  assert(call_offset >= 0, \"Should be set\");\n","filename":"src\/hotspot\/cpu\/x86\/c1_Runtime1_x86.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
