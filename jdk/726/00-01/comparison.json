@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -601,1 +601,1 @@\n-        || !arch_supports_vector(Op_VectorReinterpret, num_elem, T_BYTE, VecMaskNotUsed)) {\n+        || !arch_supports_vector(Op_VectorReinterpret, byte_num_elem, T_BYTE, VecMaskNotUsed)) {\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
