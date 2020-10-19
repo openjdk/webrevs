@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -223,2 +223,2 @@\n-   --runTests    to run the tests\n-   --runUiTests  to run the tests including UI tests\n+   --test        to run the tests\n+   --testUi      to run the tests including UI tests\n","filename":"README.md","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
