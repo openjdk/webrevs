@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -279,1 +279,1 @@\n-     * Nominal descriptor representing the constant {@linkplain Boolean#TRUE}\n+     * Nominal descriptor representing the constant {@linkplain Boolean#FALSE}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ConstantDescs.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
