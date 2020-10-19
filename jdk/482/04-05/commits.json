@@ -1,0 +1,1 @@
+[{"commit":{"message":"Correct length of StringBuilder in formatHex;\nCorrect bug in formatHex(char[], 2, 3) and add test for subranges of char[]"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/HexFormat.java"},{"filename":"test\/jdk\/java\/util\/HexFormat\/HexFormatTest.java"}],"sha":"1d2c26f2a88c90985f1c72efe3cd1f2a982d76bb"}]
