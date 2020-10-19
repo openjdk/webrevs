@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254985: [lworld] C2 compilation fails with assert(field_type->is_loaded()) failed: field type must be loaded"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciTypeFlow.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestUnloadedInlineTypeField.java"}],"sha":"938d36339db1bbfc7990b57e4ff4d6edee6b079f"}]
