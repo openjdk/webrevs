@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4087,0 +4087,3 @@\n+      default:\n+        rc = \"unknown\";\n+        ShouldNotReachHere();\n@@ -4095,0 +4098,3 @@\n+      default:\n+        pc = \"unknown\";\n+        ShouldNotReachHere();\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
