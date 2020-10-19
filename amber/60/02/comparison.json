@@ -1,0 +1,5 @@
+This file was too large to be included in the published webrev, and has been replaced with this placeholder message. It is possible to generate the original content locally by following these instructions:
+
+  $ git fetch https://git.openjdk.java.net/amber pull/60/head
+  $ git checkout 6ff8f8b5fc85e4038d22896ecf05d370c3a5d82c
+  $ git webrev -r 8b85c3a6d7fc2d710a704b306cafce88f7006d32
