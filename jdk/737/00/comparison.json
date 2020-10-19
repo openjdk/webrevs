@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -410,0 +410,1 @@\n+  declare_preprocessor_constant(\"JVM_ACC_FIELD_INITIALIZED_FINAL_UPDATE\", JVM_ACC_FIELD_INITIALIZED_FINAL_UPDATE) \\\n","filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
