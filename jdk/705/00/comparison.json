@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -297,1 +297,1 @@\n-    FLAG_SET_DEFAULT(InlineSmallCode, 2000);\n+    FLAG_SET_DEFAULT(InlineSmallCode, 2500);\n","filename":"src\/hotspot\/share\/compiler\/tieredThresholdPolicy.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
