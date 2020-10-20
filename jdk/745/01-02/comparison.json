@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-import static org.testng.Assert.*;\n+import static org.testng.Assert.assertNull;\n","filename":"test\/jdk\/java\/nio\/channels\/spi\/SelectorProvider\/TestDefaultBehaviour.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
