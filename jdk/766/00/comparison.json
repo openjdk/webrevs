@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -599,0 +599,3 @@\n+    if (support_IRIW_for_not_multiple_copy_atomic_cpu) {\n+      OrderAccess::fence();\n+    }\n","filename":"src\/hotspot\/cpu\/zero\/zeroInterpreter_zero.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
