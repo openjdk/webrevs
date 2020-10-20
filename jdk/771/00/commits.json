@@ -1,0 +1,1 @@
+[{"commit":{"message":"New test case"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestUnsignedByteCompare1.java"}],"sha":"b78ab171272710f183e1648805946cd7dd6ab728"},{"commit":{"message":"Restore original test case"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestUnsignedByteCompare.java"}],"sha":"7c8f78cddb008ba02148fad9ebf8a429f834f991"}]
