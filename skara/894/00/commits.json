@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use a separate watchdog thread"},"files":[{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/BotRunner.java"},{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/BotWatchdog.java"}],"sha":"cda22dff5d4a1dea2fc7cf9594ceb74099db6609"}]
