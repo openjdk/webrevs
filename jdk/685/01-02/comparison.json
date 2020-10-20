@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,2 +24,3 @@\n- #include \"jvmci\/jvmci.hpp\"\n- #include \"jvmci\/jvmciCodeInstaller.hpp\"\n+#include \"precompiled.hpp\"\n+#include \"jvmci\/jvmci.hpp\"\n+#include \"jvmci\/jvmciCodeInstaller.hpp\"\n","filename":"src\/hotspot\/cpu\/aarch64\/jvmciCodeInstaller_aarch64.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
