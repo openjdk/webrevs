@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-            List.of(), null,\n+            null, null,\n","filename":"test\/langtools\/tools\/javac\/patterns\/PatternsSimpleVisitorTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
