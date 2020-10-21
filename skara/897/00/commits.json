@@ -1,0 +1,1 @@
+[{"commit":{"message":"vcs: fix hunk line parsing in UnifiedDiffParser"},"files":[{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/UnifiedDiffParser.java"},{"filename":"vcs\/src\/test\/java\/org\/openjdk\/skara\/vcs\/UnifiedDiffParserTests.java"}],"sha":"7ff495f81380efaf0159d763a43de9d6f33cd86c"}]
