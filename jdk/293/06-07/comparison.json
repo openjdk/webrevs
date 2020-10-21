@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @build sun.hotspot.WhiteBox jdk.test.lib.Utils\n+ * @build sun.hotspot.WhiteBox\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/base64\/TestBase64.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
