@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255129: [PPC64, s390] Check vector_size_supported and add VectorReinterpret node"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"},{"filename":"src\/hotspot\/cpu\/s390\/s390.ad"}],"sha":"e45f21549fc3caa75894ecdd5a30e18c6887a4f9"}]
