@@ -1,0 +1,1 @@
+[{"commit":{"message":"When the test fails, throw RuntimeException instead of AssertionError, as suggested by alanb"},"files":[{"filename":"test\/jdk\/sun\/net\/www\/http\/KeepAliveCache\/B5045306.java"}],"sha":"143aa1850f6a13841caa6be276b3d6bdc739b5ec"}]

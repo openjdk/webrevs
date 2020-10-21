@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-            throw new AssertionError(\"Unhandled exception:\", uncaught.get(0));\n+            throw new RuntimeException(\"Unhandled exception:\", uncaught.get(0));\n","filename":"test\/jdk\/sun\/net\/www\/http\/KeepAliveCache\/B5045306.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
