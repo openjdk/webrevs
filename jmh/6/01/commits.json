@@ -1,0 +1,1 @@
+[{"commit":{"message":"Runner: if -Djmh.ignoreLock=true then skip jmh.lock creation\n\nSigned-off-by: Sergey Ponomarev <stokito@gmail.com>"},"files":[{"filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/runner\/Runner.java"}],"sha":"cdb9fbc28415319993eb0a64ab8a1c7d2ce7b30a"}]
