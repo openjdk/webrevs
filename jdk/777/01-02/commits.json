@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replaced naked lock\/unlock with MutexLocker"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootProcessor.inline.hpp"}],"sha":"f2dded6b60fd0c3348aa7696a566bacf96adf068"}]
