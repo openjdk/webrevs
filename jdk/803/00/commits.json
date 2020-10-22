@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace __sync_add_and_fetch with __atomic_add_fetch to avoid build errors with clang"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_zero\/atomic_bsd_zero.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_zero\/atomic_linux_zero.hpp"}],"sha":"dcc8c255800debe49fe583c8b9b7826378cfea8a"}]
