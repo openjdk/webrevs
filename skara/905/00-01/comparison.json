@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-            repo.fetchAll(hostedRepo.url(), false);\n+            repo.fetchAllRemotes(false);\n","filename":"bots\/topological\/src\/main\/java\/org\/openjdk\/skara\/bots\/topological\/TopologicalBot.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
