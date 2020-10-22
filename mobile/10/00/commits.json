@@ -1,0 +1,1 @@
+[{"commit":{"message":"exclude some modules that are not relevant on Mobile.\nFix for JDK-8255240"},"files":[{"filename":"make\/autoconf\/jdk-options.m4"},{"filename":"make\/common\/Modules.gmk"}],"sha":"6d5619bef2e977bf1d2f73ab066c0769cc277a86"}]
