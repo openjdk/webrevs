@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -349,0 +349,2 @@\n+* Binary files should not be checked in, if your test needs to use one, the test should create it in some fashion\n+* Avoid shell scripts and relying on external commands as much as possible\n","filename":"src\/index.md","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
