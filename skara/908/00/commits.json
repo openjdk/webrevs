@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use a bare repo for notifier"},"files":[{"filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/RepositoryWorkItem.java"},{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/HostedRepositoryPool.java"}],"sha":"bb440d7f3c481daed8a71de5b442820d75fb8a3a"}]
