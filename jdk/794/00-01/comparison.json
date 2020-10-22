@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,0 @@\n-#include \"gc\/shenandoah\/shenandoahHeap.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
