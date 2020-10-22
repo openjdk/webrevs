@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n- * thread then access to the data output stream should be controlled\n+ * thread then access to the data input stream should be controlled\n","filename":"src\/java.base\/share\/classes\/java\/io\/DataInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
