@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -442,1 +442,1 @@\n-        if (!c.isNull()) {\n+        if (c.isNull()) {\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/gitlab\/GitLabRepository.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
