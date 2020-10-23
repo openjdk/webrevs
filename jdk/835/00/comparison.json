@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -839,1 +839,1 @@\n-    Disassembler::decode(&cbuf, code, code_end, tty);\n+    Disassembler::decode(code, code_end, tty);\n","filename":"src\/hotspot\/cpu\/s390\/vm_version_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
