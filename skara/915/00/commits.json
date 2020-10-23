@@ -1,0 +1,1 @@
+[{"commit":{"message":"vcs: handle \"No newline at end of file\" in UnifiedDiffParser"},"files":[{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/UnifiedDiffParser.java"},{"filename":"vcs\/src\/test\/java\/org\/openjdk\/skara\/vcs\/UnifiedDiffParserTests.java"}],"sha":"2285c64fdc27be6acc7243cdd3897d8400bda571"}]
