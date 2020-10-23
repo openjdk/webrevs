@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -159,1 +159,1 @@\n-            \/\/ get the debuggee some time to exit before forcibly terminate it\n+            \/\/ give the debuggee some time to exit before forcibly terminating it\n","filename":"test\/jdk\/com\/sun\/jdi\/BadHandshakeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
