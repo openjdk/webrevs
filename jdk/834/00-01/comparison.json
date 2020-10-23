@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -564,1 +564,0 @@\n-  address       insts_limit() const      { return _insts.limit();      }\n@@ -567,1 +566,0 @@\n-  void    clear_insts_mark()             {        _insts.clear_mark(); }\n","filename":"src\/hotspot\/share\/asm\/codeBuffer.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
