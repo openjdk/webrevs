@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -209,1 +209,1 @@\n-        ((LinkInfoImpl) linkInfo).skipPreview = false;\n+        linkInfo.skipPreview = false;\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/util\/links\/LinkFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
