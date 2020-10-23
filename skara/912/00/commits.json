@@ -1,0 +1,1 @@
+[{"commit":{"message":"forge: fix GitLabRepository.recentCommitComments\n\n- Bad formatting of \"after\"\n- Wrong type for \"id\""},"files":[{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/gitlab\/GitLabRepository.java"}],"sha":"338698f8c433390c34eccdca8bffd2911f9f9588"}]
