@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255245: C1: Fix output of -XX:+PrintCFGToFile to open it with visualizer"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_CFGPrinter.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_LinearScan.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_LinearScan.hpp"}],"sha":"695be54615731801cad296a06b66a431c594c656"}]
