@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,1 +168,1 @@\n-                cmd.add(\"gradlew.bat\");\n+                cmd.add(parent.resolve(\"gradlew.bat\").toString());\n","filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitSkara.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

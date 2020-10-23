@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix skara update on Windows when CWD is not skara repository dir"},"files":[{"filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitSkara.java"}],"sha":"475a52d85c22778e0eeb3f61b2f21d8c89e5a7b6"}]
