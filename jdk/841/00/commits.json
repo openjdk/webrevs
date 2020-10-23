@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255242: Bidi.requiresBidi has misleading exception message"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/icu\/text\/BidiBase.java"},{"filename":"test\/jdk\/java\/text\/Bidi\/BidiConformance.java"}],"sha":"7385285d8e0c7b01eff6d647d5f492031908168a"}]
