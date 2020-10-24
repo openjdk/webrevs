@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixes failing tests, and enable verifier on Exact test"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MemoryAccessVarHandleGenerator.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/VarHandles\/VarHandleTestExact.java"}],"sha":"6d7ad47731332ed7ce9189b2d005694dad9e138c"}]
