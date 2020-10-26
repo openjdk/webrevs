@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,0 +51,1 @@\n+            seedRepo.fetch(pr.repository().url(), pr.headHash().hex());\n","filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/prbranch\/PullRequestBranchNotifier.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
