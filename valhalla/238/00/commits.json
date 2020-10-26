@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255396: [lworld] locking breaks oopDesc is_flatArray\/is_nullfreeArray type checks"},"files":[{"filename":"src\/hotspot\/share\/oops\/oop.inline.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/InlineTypeArray.java"}],"sha":"e66789bfe855b641ce7038ce3231646ead1fea3e"}]
