@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-  Method *vmtarget = java_lang_invoke_MemberName::vmtarget(get_oop());\n+  Method* vmtarget = java_lang_invoke_MemberName::vmtarget(get_oop());\n","filename":"src\/hotspot\/share\/ci\/ciMemberName.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
