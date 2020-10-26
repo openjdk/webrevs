@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-\t\tadapter.setPopupSize(new Point(150, 300));\n+\t\tadapter.setPopupSize(new Point(150, 120));\n","filename":"application\/org.openjdk.jmc.ui\/src\/main\/java\/org\/openjdk\/jmc\/ui\/misc\/QuantityKindProposal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
