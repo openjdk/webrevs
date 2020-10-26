@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255405: sun\/net\/ftp\/imp\/FtpClient uses SimpleDateFormat in not thread-safe manner"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/ftp\/impl\/FtpClient.java"}],"sha":"f684a9ce91cc0c2a3841406a5e61c14e65b38aff"}]
