@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @modules java.base\/sun.security.util\n+ * @modules java.base\/sun.security.util:+open\n@@ -38,1 +38,0 @@\n-import jdk.test.lib.hexdump.HexPrinter;\n","filename":"test\/jdk\/sun\/security\/util\/DerValue\/Indefinite.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
