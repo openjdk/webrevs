@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255401: Shenandoah: Allow oldval and newval registers to overlap in cmpxchg_oop()"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoahBarrierSetAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/gc\/shenandoah\/shenandoahBarrierSetAssembler_x86.cpp"}],"sha":"1548bd97818d0679e7aaea8043cdde99b07677bb"}]
