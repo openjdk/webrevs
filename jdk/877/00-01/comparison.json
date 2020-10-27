@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,2 +354,1 @@\n-    OIW_DES_CBC(\"1.3.14.3.2.7\", \"DES\/CBC\"),\n-    OIW_DES_ECB(\"1.3.14.3.2.6\", \"DES\/ECB\", \"DES\"),\n+    OIW_DES_CBC(\"1.3.14.3.2.7\", \"DES\/CBC\", \"DES\"),\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/KnownOIDs.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
