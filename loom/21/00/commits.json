@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix movptr with movl in ContinuationEntry fill\/cleanup"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"39ebc04a4ba09a65110f04b566aa3cbc805e53e9"}]
