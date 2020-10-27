@@ -1,0 +1,1 @@
+[{"commit":{"message":"* Add final to MappedByteBuffer::SCOPED_MEMORY_ACCESS field\n* Tweak TestLayouts to make it 32-bit friendly after recent MemoryLayouts tweaks"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/MappedByteBuffer.java"},{"filename":"test\/jdk\/java\/foreign\/TestLayouts.java"}],"sha":"e43f5d76045632db688b7ed73202ac93d91ba942"}]
