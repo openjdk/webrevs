@@ -1,0 +1,1 @@
+[{"commit":{"message":"4454: Other JMC launched after this JMC is listed as \"-XX:+UseG1GC\" in JVM Browser\n\nAdd startLocalManagement to force finishing th init of the attached JVM"},"files":[{"filename":"application\/org.openjdk.jmc.browser.attach\/src\/main\/java\/org\/openjdk\/jmc\/browser\/attach\/LocalJVMToolkit.java"}],"sha":"0f1f55ea25c9c01220648e4eb30ad0e997ca3454"}]
