@@ -1,0 +1,1 @@
+[{"commit":{"message":"Assert that all allocated memory is used"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zForwardingAllocator.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zForwardingAllocator.inline.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zRelocationSet.cpp"}],"sha":"0cb3a80c2eefad3ded26e55d014d94cff99387eb"}]
