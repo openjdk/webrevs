@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,2 +73,0 @@\n-\n-  assert(_log_table_initialized, \"log table should be initialized\");\n","filename":"src\/hotspot\/share\/runtime\/threadHeapSampler.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
