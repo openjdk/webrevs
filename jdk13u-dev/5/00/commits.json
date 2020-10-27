@@ -1,0 +1,1 @@
+[{"commit":{"message":"8232616: JVMCI_lock fails to get initialized when cds is disabled"},"files":[{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"}],"sha":"7aa90d3de46ac871fffb080e10ba4b970c39f252"}]
