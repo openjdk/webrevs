@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -698,1 +698,1 @@\n-      double average_copy_time = average_time_ms(G1GCPhaseTimes::ObjCopy);\n+      double average_copy_time = average_time_ms(G1GCPhaseTimes::ObjCopy) + average_time_ms(G1GCPhaseTimes::OptObjCopy);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
