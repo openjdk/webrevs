@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -356,2 +356,0 @@\n-    DESede(\"1.3.14.3.2.17\", \"DESede\"),\n-\n@@ -373,0 +371,2 @@\n+    DESede(\"1.3.14.3.2.17\", \"DESede\"),\n+\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/KnownOIDs.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
