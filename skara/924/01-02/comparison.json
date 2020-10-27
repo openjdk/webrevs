@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -202,1 +202,1 @@\n-            seedRepo = hostedRepositoryInstance.seedRepository(false);\n+            seedRepo.fetchAll(hostedRepository.url(), true);\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/HostedRepositoryPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
