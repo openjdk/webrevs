@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-  product(bool, DumpPerfMapAtExit, false,                               \\\n+  product(bool, DumpPerfMapAtExit, false, DIAGNOSTIC,                   \\\n","filename":"src\/hotspot\/os\/linux\/globals_linux.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
