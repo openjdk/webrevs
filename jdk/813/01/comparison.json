@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1436,0 +1436,1 @@\n+#if defined(_WINDOWS)\n@@ -1440,0 +1441,1 @@\n+#endif\n@@ -1629,0 +1631,1 @@\n+#if defined(_WINDOWS)\n@@ -1630,0 +1633,3 @@\n+#else\n+  if (true) {\n+#endif\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
