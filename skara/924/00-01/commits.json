@@ -1,0 +1,1 @@
+[{"commit":{"message":"When accessing the seed directly, do a fetch as it may not be used for cloning"},"files":[{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/HostedRepositoryPool.java"}],"sha":"13d4f8423a3aea9cc71318d4a43a2a3572587204"}]
