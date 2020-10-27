@@ -1,0 +1,1 @@
+[{"commit":{"message":"Refactor ThreadHeapSampler::_log_table as constexpr"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threadHeapSampler.cpp"},{"filename":"src\/hotspot\/share\/runtime\/threadHeapSampler.hpp"}],"sha":"2a66158ab6d064bd8b2b33a7db2d2a5aeebc00a0"}]
