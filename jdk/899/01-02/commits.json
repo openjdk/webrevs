@@ -1,0 +1,1 @@
+[{"commit":{"message":"Keep heap ref in ShenandoahGCStateResetter field"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.hpp"}],"sha":"ae06bf83adc7567ee8b67d9a60a60945b829d296"}]
