@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-  ShenandoahHeap* heap = ShenandoahHeap::heap();\n+  ShenandoahHeap* const heap = ShenandoahHeap::heap();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

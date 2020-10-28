@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make heap local variable const for consistency"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp"}],"sha":"e51fb4300439eb1c73730f36ec1ef2f8f73cb621"}]
