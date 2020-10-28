@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255564: InterpreterMacroAssembler::remove_activation() needs to restore thread right after VM call on x86_32"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/interp_masm_x86.cpp"}],"sha":"8b8160eb855d8a66edab875e1d55a13f4aba4c6e"}]
