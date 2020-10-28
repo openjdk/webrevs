@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,0 +237,1 @@\n+            fail(\"Exception expected\");\n","filename":"test\/jdk\/java\/lang\/invoke\/MethodHandlesPermuteArgumentsTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
