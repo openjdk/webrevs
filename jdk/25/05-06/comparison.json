@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -561,1 +561,1 @@\n-  int itrable_blocks = ParallelScavengeHeap::heap()->old_gen()->iterable_blocks();\n+  int itrable_blocks = (int)ParallelScavengeHeap::heap()->old_gen()->iterable_blocks();\n","filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
