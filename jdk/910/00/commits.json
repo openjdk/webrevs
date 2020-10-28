@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255550: x86: Assembler::cmpq(Address dst, Register src) encoding is incorrect"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"9fec3d0c594b9e8e36f4961422a25736c261f353"}]
