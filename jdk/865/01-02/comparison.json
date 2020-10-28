@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -609,1 +609,1 @@\n-  push_i(r);\n+  push(r);\n","filename":"src\/hotspot\/cpu\/x86\/interp_masm_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
