@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255466: C2 crashes at ciObject::get_oop() const+0x0"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"da8be5298c8d22bf8e1b26f3d943c26091df5f76"}]
