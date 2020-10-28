@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,0 +46,3 @@\n+  ShenandoahHeap* heap = ShenandoahHeap::heap();\n+  heap->_gc_state.clear();\n+  heap->set_concurrent_weak_root_in_progress(false);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
