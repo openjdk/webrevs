@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255600: [lworld] C2 compilation fails with assert: modified node was not processed by IGVN.transform_old()"},"files":[{"filename":"src\/hotspot\/share\/opto\/cfgnode.cpp"}],"sha":"749a29ebd98f96eebd6905d5aec59d811d72efe9"}]
