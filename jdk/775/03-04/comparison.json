@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,1 +117,1 @@\n- * @requires ((vm.compMode == \"Xmixed\") & vm.jvmci)\n+ * @requires ((vm.compMode == \"Xmixed\") & vm.graal.enabled)\n","filename":"test\/jdk\/com\/sun\/jdi\/EATests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
