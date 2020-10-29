@@ -1,0 +1,1 @@
+[{"commit":{"message":"vcs: handle binary files in UnifiedDiffParser"},"files":[{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/UnifiedDiffParser.java"},{"filename":"vcs\/src\/test\/java\/org\/openjdk\/skara\/vcs\/UnifiedDiffParserTests.java"}],"sha":"f634735e4b04278da979905581398588f52a69af"}]
