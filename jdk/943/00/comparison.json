@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-  guarantee(Thread::current() == thread, \"should run in the same thread\");\n+  assert(Thread::current() == thread, \"should run in the same thread\");\n","filename":"src\/hotspot\/cpu\/zero\/stack_zero.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
