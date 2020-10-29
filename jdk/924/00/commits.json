@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255579: x86: Use cmpq(Register,Address) in safepoint_poll"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"1f156d721fac21f246a7135cf71181d3f6edd709"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2768,1 +2768,1 @@\n-    cmpq(Address(thread_reg, Thread::polling_word_offset()), in_nmethod ? rsp : rbp);\n+    cmpq(in_nmethod ? rsp : rbp, Address(thread_reg, Thread::polling_word_offset()));\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
