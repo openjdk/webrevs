@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255582: Introduce SemaphoreLock and SemaphoreLocker"},"files":[{"filename":"src\/hotspot\/share\/runtime\/semaphore.hpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_semaphore.cpp"}],"sha":"b6f0fe3afd01dc52eeaff799bbaeb8634a3d9b3c"}]
