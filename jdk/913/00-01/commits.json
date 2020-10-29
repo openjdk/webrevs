@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make direct calls instead of using transition wrappers"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreter.cpp"},{"filename":"src\/hotspot\/share\/runtime\/safepoint.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"3f9dfe4ca5de4c5d21d623fa6602a3d1636b2079"}]
