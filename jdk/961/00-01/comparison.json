@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,1 @@\n-  return (decorators & IN_NATIVE) != 0;\n+  return ((decorators & IN_NATIVE) != 0) && ((decorators & ON_STRONG_OOP_REF) == 0);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
