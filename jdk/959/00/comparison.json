@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -690,1 +690,1 @@\n-            configure_args: [\n+            configure_args: concat(\n@@ -692,0 +692,1 @@\n+                versionArgs(input, common),\n@@ -694,1 +695,1 @@\n-            ],\n+            ),\n","filename":"make\/conf\/jib-profiles.js","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
