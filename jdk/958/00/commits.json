@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255584: `HttpPrincipal::getName` returns incorrect name"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/com\/sun\/net\/httpserver\/HttpPrincipal.java"},{"filename":"test\/jdk\/com\/sun\/net\/httpserver\/HttpPrincipalTest.java"}],"sha":"fa0f717320de15d1b3dfd4b3827c16418e0a029f"}]
