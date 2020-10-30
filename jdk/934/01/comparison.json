@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-      } else if (ml.wait(sleep_time_ms, Monitor::_no_safepoint_check_flag)) {\n+      } else if (ml.wait(sleep_time_ms)) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMarkThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
