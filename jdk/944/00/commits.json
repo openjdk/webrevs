@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255617: Zero: purge the remaining bytecode interpreter profiling support"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreter.cpp"},{"filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreterProfiling.hpp"}],"sha":"2bcc4e31aa53d17c23e4e78a4ac0517c951da7ab"}]
