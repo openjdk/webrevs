@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8254920: Application launched with jpackage produced .exe crashes JVM"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/Executor.java"},{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/HelloApp.java"}],"sha":"3d83b99b522947b35edbdd6694f72080b4d1b2e7"}]
