@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use JVMTI_FUNC_PTR instead of FUNC_PTR for most JVMTI calls so they are logged."},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.c"}],"sha":"dbf38b7cd5d0aebcb259b0c397a478bc53b68f61"}]
