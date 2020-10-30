@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,0 +85,1 @@\n+    assert(obj != NULL, \"cset check must have subsumed NULL-check\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
