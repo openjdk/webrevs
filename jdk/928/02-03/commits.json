@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only restrict nmethod verification when class unloading is turned off"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zVerify.cpp"}],"sha":"caae91abe9f251173b1d2150e30a4fe297bec2a4"}]
