@@ -1,0 +1,1 @@
+[{"commit":{"message":"Guard libJNIPoint.c impl in #ifdef _LP64 block"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/foreign\/points\/support\/libJNIPoint.c"}],"sha":"b2332cb8353d5fe0dc4eb7de7382886a981cf6a3"}]

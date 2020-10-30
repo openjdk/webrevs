@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -23,0 +23,1 @@\n+#ifdef _LP64\n@@ -62,0 +63,1 @@\n+#endif\n","filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/foreign\/points\/support\/libJNIPoint.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
