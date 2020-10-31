@@ -1,0 +1,1 @@
+[{"commit":{"message":"6959: Misc test fixes;\n\n- AllTests suite caused duplicate event class definitions\n- Version parsing code assumed presence of \".\" which isn't the case with JDK 9+\n- Duplicate event class in TestIncorrectMethodDescriptor"},"files":[],"sha":"7f4d01eaec6da20e662aabd8673ef59bdf210cb5"}]
