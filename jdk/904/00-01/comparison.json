@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -773,1 +773,2 @@\n-    int hops_expected = (int)(((end-beg-1)+(free_sentinel-2))\/(free_sentinel-1));\n+    int hops_expected\n+      = checked_cast<int>(((end-beg-1)+(free_sentinel-2))\/(free_sentinel-1));\n","filename":"src\/hotspot\/share\/memory\/heap.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
