@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-        isHidden(Path.of(\"\"));\n+        assertTrue(!isHidden(Path.of(\"\")));\n","filename":"test\/jdk\/java\/nio\/file\/Files\/Misc.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
