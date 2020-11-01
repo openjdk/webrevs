@@ -1,0 +1,1 @@
+[{"commit":{"message":"adding conversion ((a & 0xff) << 8) + (b & 0xff) -> ((a & 0xff) << 8) | (b & 0xff)"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/aarch64\/TestBFI.java"}],"sha":"ee95fc6eb9130916ad628fa2c6ac56edfaab96b4"}]
