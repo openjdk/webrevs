@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2905,1 +2905,3 @@\n-    THREAD->clear_pending_exception();\n+    if (THREAD->has_pending_exception()) {\n+      THREAD->clear_pending_exception();\n+    }\n","filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreter.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
