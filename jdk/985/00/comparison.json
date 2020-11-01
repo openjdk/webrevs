@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3216,0 +3216,5 @@\n+#ifdef ZERO\n+  \/\/ Zero always runs in interpreted mode\n+  set_mode_flags(_int);\n+#endif\n+\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
