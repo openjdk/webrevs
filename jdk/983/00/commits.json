@@ -1,0 +1,1 @@
+[{"commit":{"message":"AArch64: Remove unnecessary check cpu_lines == os::processor_count()"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/vm_version_linux_aarch64.cpp"}],"sha":"38918fd287dde3ee8f7306d8fc2a17b88e515b05"}]

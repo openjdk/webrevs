@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -145,1 +145,0 @@\n-  int cpu_lines = 0;\n@@ -154,1 +153,0 @@\n-          cpu_lines++;\n@@ -171,1 +169,0 @@\n-  guarantee(cpu_lines == os::processor_count(), \"core count should be consistent\");\n","filename":"src\/hotspot\/os_cpu\/linux_aarch64\/vm_version_linux_aarch64.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
