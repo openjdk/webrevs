@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,3 @@\n-    _tagset->vwrite(_level, fmt, args);\n+    if (is_enabled()) {\n+      _tagset->vwrite(_level, fmt, args);\n+    }\n","filename":"src\/hotspot\/share\/logging\/logHandle.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}

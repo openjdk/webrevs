@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into print_check_enabled"},"files":[],"sha":"84ad722a6117ffe929614f4915593fedc2fb81c6"},{"commit":{"message":"Add early check if logStreamHandle is enabled"},"files":[{"filename":"src\/hotspot\/share\/logging\/logHandle.hpp"}],"sha":"0f5b2d82666b20bc0975ad704ae7bf2cd222419b"}]
