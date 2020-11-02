@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -197,1 +197,1 @@\n- *   <tr valign=\"top\">\n+ *   <tr style=\"vertical-align:top\">\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/HTMLDocument.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
