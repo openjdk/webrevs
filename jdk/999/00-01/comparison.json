@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -457,1 +457,1 @@\n-    return new SubFNode(phase->makecon(TypeF::ZERO),in(2)->in(2));\n+    return new SubFNode(phase->makecon(TypeF::ZERO), in(2)->in(2));\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
