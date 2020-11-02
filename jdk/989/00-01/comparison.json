@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,1 @@\n+ * @summary Verifies that JSpinner can be serialized\/deserialized correctly.\n@@ -77,1 +78,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/jdk\/javax\/swing\/JSpinner\/SerializationTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
