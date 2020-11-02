@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed the bug in 32-bit build, exp generates 0 when the exponent is too large"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_exp.cpp"}],"sha":"726305588bfd899b29e0ad585fd311c3a1ab0d40"}]
