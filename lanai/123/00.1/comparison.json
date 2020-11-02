@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -573,0 +573,2 @@\n+METAL := @METAL@\n+METALLIB := @METALLIB@\n","filename":"make\/autoconf\/spec.gmk.in","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
