@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix OS\/CPU mistake to not include SA on mobile\ninclude hotspot.agent, management and management.agent"},"files":[{"filename":"make\/autoconf\/jdk-options.m4"},{"filename":"make\/common\/Modules.gmk"},{"filename":"src\/jdk.management\/unix\/native\/libmanagement_ext\/OperatingSystemImpl.c"}],"sha":"913021885b0382f92836cec4392a4a7153095516"}]
