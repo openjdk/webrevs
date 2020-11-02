@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2410,1 +2410,0 @@\n-  DEBUG_ONLY(void verify_clean_weak_method_links();)\n","filename":"src\/hotspot\/share\/oops\/methodData.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
