@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255737: Zero: DO_UPDATE_INSTRUCTION_COUNT should only update when relevant VM flags are set"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreter.cpp"}],"sha":"e2aaf25aed9cb28e63313c18fb3281c7113f0eb9"}]
