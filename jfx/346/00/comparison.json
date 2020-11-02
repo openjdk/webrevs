@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -840,3 +840,0 @@\n-#if GTK_CHECK_VERSION(3, 10, 0)\n-    context = gtk_drag_begin_with_coordinates(drag_widget, tlist, actions, 1, NULL, x, y);\n-#else\n@@ -844,1 +841,0 @@\n-#endif\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_dnd.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
