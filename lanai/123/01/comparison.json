@@ -1,0 +1,5 @@
+This file was too large to be included in the published webrev, and has been replaced with this placeholder message. It is possible to generate the original content locally by following these instructions:
+
+  $ git fetch https://git.openjdk.java.net/lanai pull/123/head
+  $ git checkout 99eb331a779ed300633f87421c13b7da88f84ecc
+  $ git webrev -r d9d2c0adcfe0c079399d2dda999ccddfb2e4bf8b
