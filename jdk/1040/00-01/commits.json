@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changed vm_exit to vm_direct_exit to avoid shutdown check"},"files":[{"filename":"src\/hotspot\/share\/memory\/heapShared.cpp"}],"sha":"e3bb1adca7be326aa503b6034e07636d07da2311"}]
