@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3656,1 +3656,1 @@\n-       0,  0,  0,  0,  7,  6,  5,  4, \n+       0,  0,  0,  0,  7,  6,  5,  4,\n@@ -3890,1 +3890,0 @@\n-        \/\/  \n","filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
