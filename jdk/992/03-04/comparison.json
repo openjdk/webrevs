@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5481,2 +5481,2 @@\n-    Register codec  = rscratch1;\n-    Register length = rscratch2;\n+    Register codec  = r6;\n+    Register length = r7;\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
