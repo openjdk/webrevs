@@ -1,0 +1,1 @@
+[{"commit":{"message":"Invert check for access kind (merge mistake)"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoahBarrierSetAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/gc\/shenandoah\/shenandoahBarrierSetAssembler_x86.cpp"}],"sha":"58dead582ee854a999f1727eccc9023fbf85ff9f"}]
