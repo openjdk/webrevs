@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed TCK test failures, added the new pattern char description in DateTimeFormatter"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/time\/format\/DateTimeFormatter.java"},{"filename":"test\/jdk\/java\/time\/tck\/java\/time\/format\/TCKDateTimeParseResolver.java"}],"sha":"e52fe51fcacdb497c5a1dd589fe996b2d5fdbdef"}]
