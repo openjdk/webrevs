@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1568,0 +1568,6 @@\n+\n+  if (state == NULL || !state->is_interp_only_mode()) {\n+    \/\/ for any thread that actually wants method exit, interp_only_mode is set\n+    return;\n+  }\n+\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
