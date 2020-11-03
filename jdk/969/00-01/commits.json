@@ -1,0 +1,1 @@
+[{"commit":{"message":"8219014: (bf) Add absolute bulk put methods which accept a source Buffer"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/X-Buffer.java.template"},{"filename":"test\/jdk\/java\/nio\/Buffer\/BulkPutBuffer.java"}],"sha":"12e4ddf5033daf87effc35c6bcfa2fb3ea0b1d49"}]
