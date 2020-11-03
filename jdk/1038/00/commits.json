@@ -1,0 +1,1 @@
+[{"commit":{"message":"Explicitly convert intptr_t to int32_t to use movslq on 64 bit platforms if possible"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"c85072ca0f1569cf006b2db45efd41353c1255af"}]

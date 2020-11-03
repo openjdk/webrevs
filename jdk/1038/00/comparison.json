@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -717,2 +717,6 @@\n-  mov64(rscratch1, src);\n-  movq(dst, rscratch1);\n+  if (is_simm32(src)) {\n+    movptr(dst, checked_cast<int32_t>(src));\n+  } else {\n+    mov64(rscratch1, src);\n+    movq(dst, rscratch1);\n+  }\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":6,"deletions":2,"binary":false,"changes":8,"status":"modified"}]}
