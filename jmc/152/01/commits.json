@@ -1,0 +1,1 @@
+[{"commit":{"message":"6964: Automatically open base module for accessing Unsafe on JDK 11+"},"files":[{"filename":"agent\/pom.xml"},{"filename":"agent\/src\/main\/java\/org\/openjdk\/jmc\/agent\/Agent.java"},{"filename":"agent\/src\/main\/java\/org\/openjdk\/jmc\/agent\/util\/VersionUtils.java"}],"sha":"2fdedcb4fd6b9fc73e4be25cf988e43a5a3d9b8e"}]
