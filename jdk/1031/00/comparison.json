@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -187,4 +187,0 @@\n-ifdef BUILD_HEADLESS_ONLY\n-  java.desktop_EXCLUDES += sun\/applet\n-endif\n-\n","filename":"make\/CompileJavaModules.gmk","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
