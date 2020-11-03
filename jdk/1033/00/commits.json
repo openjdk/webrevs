@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255797: ciReplay: improve documentation of replay file syntax in parser\n\nComplete and disambiguate the informal specification of the replay file syntax\ngiven in the ciReplay class implementation."},"files":[{"filename":"src\/hotspot\/share\/ci\/ciReplay.cpp"}],"sha":"87eefccdf1f5c6603a986acb8b0303f0a22a5cbb"}]
