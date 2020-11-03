@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not use directly intersection method\n\nTo avoid allocating QuantityRange object"},"files":[{"filename":"core\/org.openjdk.jmc.common\/src\/main\/java\/org\/openjdk\/jmc\/common\/unit\/QuantityRange.java"}],"sha":"6e65ad2ca686d6ae3cce8fb900a00a8cd3e97c49"}]
