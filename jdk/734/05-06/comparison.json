@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -266,1 +266,1 @@\n-  double duration = os::elapsedVTime() - start;\n+  double duration = os::elapsedTime() - start;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ServiceThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
