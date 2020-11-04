@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255886: Shenandoah: Avoid register clash when calling LRB-runtime from interpreter"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/gc\/shenandoah\/shenandoahBarrierSetAssembler_x86.cpp"}],"sha":"7418c712c636d48f0627d77ed8d0cfaeefe6099e"}]
