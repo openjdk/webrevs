@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -258,2 +258,1 @@\n-  }\n-  else {\n+  } else {\n","filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.inline.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
