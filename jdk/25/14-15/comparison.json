@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -551,1 +551,1 @@\n-  static const size_t InvalidIndex = (size_t)SIZE_MAX;\n+  static const size_t InvalidIndex = SIZE_MAX;\n","filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
