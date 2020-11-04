@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unnecessary call-once guard from PosixSignals::install_signal_handlers()"},"files":[{"filename":"src\/hotspot\/os\/posix\/signals_posix.cpp"}],"sha":"a548111f345ea05c76abd4449c74ed3f988f66ac"}]
