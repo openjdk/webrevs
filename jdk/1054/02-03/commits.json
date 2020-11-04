@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use 2-register form of cset-check, MacOSX doesn't allocate cset-table in location for 32bit-addressing"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/gc\/shenandoah\/shenandoahBarrierSetAssembler_x86.cpp"}],"sha":"e83cae289e4f94cd156cd0ad572c23f6476f22d9"}]
