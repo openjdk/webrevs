@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,0 +72,1 @@\n+\n@@ -81,0 +82,1 @@\n+  wait_until_no_readers();\n","filename":"src\/hotspot\/share\/logging\/logOutputList.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
