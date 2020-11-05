@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,0 +63,2 @@\n+        \/\/ Sleep a short while to allow the stacks to grow - otherwise\n+        \/\/  we end up running almost all code in the interpreter\n","filename":"test\/hotspot\/jtreg\/compiler\/codecache\/stress\/UnexpectedDeoptimizationTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
