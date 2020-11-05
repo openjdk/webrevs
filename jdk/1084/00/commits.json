@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove CPU_A53MAC assumption based on number of CPUs"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"c14f90b4e7d43b3762d1275e0a6a637fc2236d67"}]
