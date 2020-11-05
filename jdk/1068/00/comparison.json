@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2298,0 +2298,1 @@\n+      guarantee(pure_name != NULL, \"Illegal native method name encountered\");\n@@ -2308,0 +2309,1 @@\n+        guarantee(long_name != NULL, \"Illegal native method name encountered\");\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
