@@ -1,0 +1,1 @@
+[{"commit":{"message":"change invocation of getEGLDisplayHandle into getEglDisplayHandle\nConditionally add dlfcn"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/monocle\/egl\/eglBridge.c"},{"filename":"modules\/javafx.graphics\/src\/main\/native-prism-es2\/monocle\/MonocleGLFactory.c"}],"sha":"dd6cf712b3d7b066b4dfab47d4d1e35d1bab8010"}]
