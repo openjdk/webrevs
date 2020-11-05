@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport c42de93347d1647045f47dda7b50a1cd25db72b5"},"files":[{"filename":"make\/test\/JtregNativeHotspot.gmk"},{"filename":"src\/hotspot\/share\/prims\/jni.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/jni\/atExit\/TestAtExit.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/jni\/atExit\/libatExit.c"}],"sha":"9d8031611419dd71772310464a074440b9132479"}]
