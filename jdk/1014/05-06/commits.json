@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252304: Added read to TestHandler to ensure requestBody consumed before closing exchange"},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/SendResponseHeadersTest.java"}],"sha":"814a7fd014d7706f63ed239f8be56ff26190b1f5"}]
