@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,0 +46,2 @@\n+\n+    \/\/ A record pair (NetworkInterface::name,  NetworkInterface::hardwareAddress)\n","filename":"test\/jdk\/java\/net\/NetworkInterface\/UniqueMacAddressesTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
