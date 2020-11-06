@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255949: AArch64: Add support for vectorized shift right and accumulate"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/VectorShiftAccumulate.java"}],"sha":"71edbca413784ddf49cf0d2d3f2d57a74d63d378"}]
