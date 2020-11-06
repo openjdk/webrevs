@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255982: Extend BasicJMapTest to test with different GC Heap\n\nThe implementation of jmap tool depends on the implementation of\nobject iteration by different GC heap.\nThis patch extend the BasicJMapTest to cover differet GC Heap."},"files":[{"filename":"test\/jdk\/sun\/tools\/jmap\/BasicJMapTest.java"}],"sha":"f712e6f65d469103d338235c9f73d5848850c95a"}]
