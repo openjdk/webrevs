@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255999: Shenandoah: Invoke native-LRB only on non-strong refs, again"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.cpp"}],"sha":"b552dc70818c66e899e37530061d5913a9d897db"}]
