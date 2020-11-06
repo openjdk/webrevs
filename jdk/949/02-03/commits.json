@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255562: delete UseRDPCForConstantTableBase\n\nrevert the change of Arguments::handle_aliases_and_deprecation.\nArguments::process_argument can handle obsoleted arguments."},"files":[{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"213a161b9a51ada8eab7e9ad080141a7a2b4d829"}]
