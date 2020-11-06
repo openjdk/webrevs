@@ -1,0 +1,5 @@
+This file was too large to be included in the published webrev, and has been replaced with this placeholder message. It is possible to generate the original content locally by following these instructions:
+
+  $ git fetch https://git.openjdk.java.net/panama-foreign pull/389/head
+  $ git checkout 9544b8e0039401a6d8948207b3f4300a04af9ca2
+  $ git webrev -r 66692532d6d1bc0b5398886997036dab31282601
