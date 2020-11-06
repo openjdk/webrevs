@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,0 @@\n-  jcmd.thread.print \\\n@@ -49,2 +48,0 @@\n-jcmd.thread.print.args=%p Thread.print\n-\n@@ -63,0 +60,1 @@\n+jstack.args=-e -l %p\n","filename":"test\/failure_handler\/src\/share\/conf\/common.properties","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
