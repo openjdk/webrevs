@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,1 @@\n+jstack.args=-e -l %p\n","filename":"test\/failure_handler\/src\/share\/conf\/common.properties","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
