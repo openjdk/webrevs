@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255980: G1 Service thread register_task can be used after shutdown"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ServiceThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ServiceThread.hpp"}],"sha":"647a7e732bad7f89b6035325ec210dc5b112dd98"}]
