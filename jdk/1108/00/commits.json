@@ -1,0 +1,1 @@
+[{"commit":{"message":"in result of Javadoc to java.io.File.toURL do use internal java.io.File.toURL().toURI instead"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/SplashScreen.java"},{"filename":"src\/jdk.internal.jvmstat\/share\/classes\/sun\/jvmstat\/perfdata\/monitor\/PerfDataBufferImpl.java"}],"sha":"8688d20e66eb65b623152031db2119f9edbde32f"}]
