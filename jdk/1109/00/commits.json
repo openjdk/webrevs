@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256011: Shenandoah: Don't resurrect finalizably reachable objects"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp"}],"sha":"672333cc5421371279ddd60858ab9d68f4acd2b6"}]
