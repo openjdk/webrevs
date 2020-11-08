@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -387,0 +387,5 @@\n+#endif\n+#if INCLUDE_SHENANDOAHGC\n+  if (UseShenandoahGC) {\n+    return Universe::heap()->is_in(p);\n+  }\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
