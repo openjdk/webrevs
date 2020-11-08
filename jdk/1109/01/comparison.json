@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-      !_heap->marking_context()->is_marked(obj)) {\n+      !_heap->marking_context()->is_marked_strong(obj)) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
