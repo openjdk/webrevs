@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -951,1 +951,1 @@\n-         ? _code->oop_at(i)\n+         ? _code->oop_at_phantom(i)\n","filename":"src\/hotspot\/share\/code\/dependencies.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
