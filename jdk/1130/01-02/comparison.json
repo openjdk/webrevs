@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2261,1 +2261,0 @@\n-  declare_preprocessor_constant(\"FIELDINFO_TAG_CONTENDED\", FIELDINFO_TAG_CONTENDED) \\\n","filename":"src\/hotspot\/share\/runtime\/vmStructs.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
