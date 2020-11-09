@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2948,1 +2948,1 @@\n-  const Type* type = t->is_oopptr();\n+  const Type* type = t;\n@@ -2964,1 +2964,1 @@\n-  const Type* type = t2->is_oopptr();\n+  const Type* type = t2;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
