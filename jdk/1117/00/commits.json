@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256040: Shenandoah: Allow NULL referent in ShenandoahReferenceProcessor::should_discover()"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp"}],"sha":"a03025b9f8820d310e05c6606840b162a7a7d37c"}]

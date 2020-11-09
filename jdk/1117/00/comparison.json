@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,1 +268,1 @@\n-  oop referent = CompressedOops::decode_not_null(heap_oop);\n+  oop referent = CompressedOops::decode(heap_oop);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
