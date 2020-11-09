@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8255999"},"files":[],"sha":"20f503a8052a67783ff7c9e4194e934fc6b4e04b"},{"commit":{"message":"8255999: Shenandoah: Invoke native-LRB only on non-strong refs, again"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.cpp"}],"sha":"b552dc70818c66e899e37530061d5913a9d897db"}]
