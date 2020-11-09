@@ -1,0 +1,1 @@
+[{"commit":{"message":"Call updateOutputScales before the scene initialization, including system test"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/stage\/Window.java"},{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/scene\/UIRenderSceneTest.java"}],"sha":"0bcbdd2758f3960580cf1d692947c111bd3fb00f"}]
