@@ -1,0 +1,1 @@
+[{"commit":{"message":"8231599: NPE when loading a preview classfile from a future Java version"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"},{"filename":"test\/langtools\/tools\/javac\/preview\/classReaderTest\/TooNewMajorVersionTest.java"}],"sha":"3891831e6637b6336c4d4b955324b39812b4df5a"}]
