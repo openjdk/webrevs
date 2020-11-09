@@ -1,0 +1,1 @@
+[{"commit":{"message":"Parallel cleaning should not report dead if it does not process concurrent weak roots"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahParallelCleaning.inline.hpp"}],"sha":"bd5fe4c92be3526af1aa0d82f109b9af98b68b21"}]
