@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix EVEX variants of MinV\/MaxV on x86."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"266edfdbd1e93556c47e4f5cb4e567093d5074c2"}]
