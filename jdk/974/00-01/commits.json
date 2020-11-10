@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254807: Optimize startsWith() for String.substring()\n\nimprove microbenchmark based on the PR feedback."},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/SubstringStartsWith.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/SubstringAndStartsWith.java"}],"sha":"2543aa883cc6056f16251b983b36d310501ed61f"}]
