@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,2 +38,2 @@\n-    private Point location;\n-    private Point iconloc;\n+    private volatile Point location;\n+    private volatile Point iconloc;\n","filename":"test\/jdk\/javax\/swing\/JInternalFrame\/6647340\/bug6647340.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
