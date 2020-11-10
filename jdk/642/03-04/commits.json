@@ -1,0 +1,1 @@
+[{"commit":{"message":"coleenp CR - refactor common ThreadBlockInVM code block into ObjectSynchronizer::chk_for_block_req()."},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.hpp"}],"sha":"15ad35264cfb51f730d4cd656965a8c10c20e539"}]
