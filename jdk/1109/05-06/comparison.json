@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -278,1 +278,1 @@\n-  bool is_narrow  = UseCompressedOops && is_native;\n+  bool is_narrow  = UseCompressedOops && !is_native;\n","filename":"src\/hotspot\/cpu\/x86\/gc\/shenandoah\/shenandoahBarrierSetAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
