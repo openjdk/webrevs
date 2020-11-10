@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-      while (next != NULL && next->is_being_async_deflated()) {\n+      do {\n@@ -102,1 +102,1 @@\n-      }\n+      } while (next != NULL && next->is_being_async_deflated());\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
