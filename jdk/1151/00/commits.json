@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255990: Bitmap region of dynamic CDS archive is not unmapped"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/DynamicArchiveRelocationTest.java"}],"sha":"9dbdb3e9063b1ba2b754d3f9ebc332d0684adaf7"}]
