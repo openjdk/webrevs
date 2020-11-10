@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5481,2 +5481,3 @@\n-    Register codec  = r6;\n-    Register length = r7;\n+    \/\/ c_rarg6 and c_rarg7 are free to use as temps\n+    Register codec  = c_rarg6;\n+    Register length = c_rarg7;\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
