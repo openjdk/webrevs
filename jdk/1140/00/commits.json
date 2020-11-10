@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256106: Bypass intrinsic\/barrier when calling Reference.get() from Finalizer"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/ref\/Finalizer.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/ref\/Reference.java"}],"sha":"52820f98c36327d287a7cfea5a81ea16b2da0fda"}]
