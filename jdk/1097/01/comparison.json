@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,1 +132,1 @@\n-            if (l > 0) {\n+            if (l >= 0) {\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/EventWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
