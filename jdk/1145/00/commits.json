@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256066: Tests use deprecated TestNG API that is no longer available in new versions"},"files":[{"filename":"test\/jdk\/java\/lang\/invoke\/ConstantIdentityMHTest.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/DropArgumentsTest.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/VarArgsTest.java"}],"sha":"6d5e8cf2a6898c5f3e8ba1e1aad7d0cb213f45eb"}]
