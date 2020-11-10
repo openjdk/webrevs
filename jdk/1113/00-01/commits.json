@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert original fix; Prevent resurrection of unreachable objects during evacuation on AS_NO_KEEPALIVE"},"files":[{"filename":"src\/hotspot\/share\/code\/dependencies.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp"}],"sha":"80380b8093f1bd2cc4e6fa43b421237278a9f50b"}]
