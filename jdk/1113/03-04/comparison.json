@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-      _heap->has_forwarded_objects() &&\n+      _heap->is_evacuation_in_progress() &&\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
