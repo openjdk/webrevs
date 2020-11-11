@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix C2 assert failure and disable TestIntrinsics on AArch64 for now"},"files":[{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"test\/jdk\/java\/foreign\/TestIntrinsics.java"}],"sha":"e55d86fb8ff82434492adc6deac4a9f80df8939e"}]
