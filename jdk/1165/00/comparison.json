@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,0 +113,1 @@\n+#if defined(VM_LITTLE_ENDIAN) || !defined(_LP64)\n@@ -114,0 +115,4 @@\n+#else\n+    \/\/ We need to swap ints.\n+#   define BODY(I) _RM_I[I ^ 1] = a##I;\n+#endif\n","filename":"src\/hotspot\/share\/opto\/regmask.hpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
