@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,1 @@\n-                accessorGenerated = 1;\n+                accessorGenerated = 0;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/reflect\/NativeMethodAccessorImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
