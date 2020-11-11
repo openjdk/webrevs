@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow reviewers, contributors and summaries for merge PRs"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckablePullRequest.java"},{"filename":"jcheck\/src\/main\/java\/org\/openjdk\/skara\/jcheck\/MergeMessageCheck.java"}],"sha":"89ce463e4836dd8b43c7cb79dbe1845fc6e80942"}]
