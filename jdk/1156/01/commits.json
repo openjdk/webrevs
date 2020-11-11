@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove funlockfile() call"},"files":[{"filename":"src\/hotspot\/share\/logging\/logFileStreamOutput.cpp"}],"sha":"ada14868f30dadf18f35cfed6d2383b2128e25d2"},{"commit":{"message":"Add RAII object for file lock"},"files":[{"filename":"src\/hotspot\/share\/logging\/logFileStreamOutput.cpp"}],"sha":"71adb8e4d031b01ccc141eb69a80be563b842022"}]
