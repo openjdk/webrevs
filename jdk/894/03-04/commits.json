@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed the bug in 32-bit build, exp generates 0 when the exponent is too large"},"files":[{"filename":"test\/jdk\/java\/lang\/Math\/ExpCornerCaseTests.java"}],"sha":"b23c8cba070572ddd8ed4802bd7a9112f42e5a76"}]
