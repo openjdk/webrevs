@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3672,1 +3672,1 @@\n-    const int xmm_size = wordSize * 2;\n+    const int xmm_size = wordSize * 4;\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_32.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
