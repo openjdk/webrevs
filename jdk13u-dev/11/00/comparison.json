@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,2 @@\n-\t\t -Djconsole.showOutputViewer, \\\n+\t\t -Djconsole.showOutputViewer \\\n+\t\t -Djdk.attach.allowAttachSelf=true, \\\n","filename":"make\/launcher\/Launcher-jdk.jconsole.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
