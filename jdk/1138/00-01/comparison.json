@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1756,1 +1756,1 @@\n-  \/\/   blr(addr)\n+  \/\/   bl(addr)\n@@ -1758,1 +1758,1 @@\n-  \/\/   blr(trampoline_stub)\n+  \/\/   bl(trampoline_stub)\n","filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
