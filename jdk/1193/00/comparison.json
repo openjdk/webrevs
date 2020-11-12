@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,1 @@\n- * @run main T8031967\n+ * @run main\/othervm -Xss1m T8031967\n","filename":"test\/langtools\/tools\/javac\/lambda\/T8031967.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
