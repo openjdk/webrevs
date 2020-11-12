@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,1 @@\n+#include \"runtime\/timerTrace.hpp\"\n@@ -3013,0 +3014,3 @@\n+\n+    TraceTime timer(\"JvmtiTagMap gc_notification and event posting\", TRACETIME_LOG(Debug, gc, phases));\n+\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
