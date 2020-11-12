@@ -1,0 +1,1 @@
+[{"commit":{"message":"8245215 Obsolete InitialBootClassLoaderMetaspaceSize and UseLargePagesInMetaspace"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedClassPointers.java"}],"sha":"3b3c001338e776b950e94cd161cb5dde27776332"}]
