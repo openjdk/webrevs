@@ -1,0 +1,1 @@
+[{"commit":{"message":"8180069: ParallelScavengeHeap::initialize() passes GenAlignment as page size to os::trace_page_sizes instead of actual page size"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/parallelArguments.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.cpp"}],"sha":"37fa9cdf3dbde5e2a677fb3b70e47e3ad81080c1"}]
