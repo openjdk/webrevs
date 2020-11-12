@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1085,1 +1085,1 @@\n-    @Deprecated\n+    @Deprecated(since=\"16\", forRemoval=true)\n","filename":"src\/java.naming\/share\/classes\/javax\/naming\/Context.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
