@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-              .helptext(\"Consider pull request reviewed by this user\")\n+              .helptext(\"Credit a person as a reviewer of this pull request\")\n","filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/pr\/GitPrReviewer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
