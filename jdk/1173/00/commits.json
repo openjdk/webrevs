@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256220: C1: x86_32 fails with -XX:UseSSE=1 after JDK-8210764 due to mishandled lir_neg"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_LinearScan_x86.cpp"}],"sha":"1cd78b983f39e1594f95a954de19d7dc4c9bb10f"}]
