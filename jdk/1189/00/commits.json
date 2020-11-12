@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid num of dead callback from weak processor in Shenandoah root verifier"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp"}],"sha":"e9821d9779e64f858028e728180c7b29af1035c4"}]
