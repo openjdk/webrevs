@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,0 @@\n-  friend class ShenandoahPrecleanCompleteGCClosure;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentMark.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
