@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -492,1 +492,0 @@\n-          iklass->nof_nonstatic_fields(); \/\/ FIXME: iklass->_nonstatic_fields == NULL\n","filename":"src\/hotspot\/share\/opto\/callnode.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
