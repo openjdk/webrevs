@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255058: C1: assert(is_virtual()) failed: type check"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LinearScan.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c1\/TestPinnedConstantExceptionEdge.java"}],"sha":"5967d9955f563319c0606d3ddb75640cab263f4f"}]
