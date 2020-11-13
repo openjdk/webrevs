@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed the bug in 32-bit build, exp generates 0 when the exponent is too large"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_exp.cpp"},{"filename":"test\/jdk\/java\/lang\/Math\/ExpCornerCaseTests.java"}],"sha":"704dfff2d2b2e8638aa8f3af428af210d8ddd65e"}]
