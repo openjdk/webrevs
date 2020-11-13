@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3574,0 +3574,1 @@\n+  record_for_igvn(cmp); \/\/ Give it a chance to be optimized out by IGVN\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
