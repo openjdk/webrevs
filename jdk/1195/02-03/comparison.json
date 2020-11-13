@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -222,1 +222,1 @@\n-      $1_JAVAC_SERVER_CONFIG := $$(JAVAC_SERVER_DIR)\/$$($1_SAFE_NAME)-server.conf\n+      $1_JAVAC_SERVER_CONFIG := $$($1_BIN)$$($1_MODULE_SUBDIR)\/_the.$$($1_SAFE_NAME)-server.conf\n","filename":"make\/common\/JavaCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

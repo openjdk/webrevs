@@ -1,0 +1,1 @@
+[{"commit":{"message":"Some rules had identical names which still caused races, so move config file"},"files":[{"filename":"make\/common\/JavaCompilation.gmk"}],"sha":"ba312950b17c3febd843216b710ba70bf82c5630"}]
