@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,0 +180,4 @@\n+  ifneq ($$($1_MODULE), )\n+    $1_MODULE_SUBDIR := \/$$($1_MODULE)\n+  endif\n+\n@@ -285,4 +289,0 @@\n-  ifneq ($$($1_MODULE), )\n-    $1_MODULE_SUBDIR := \/$$($1_MODULE)\n-  endif\n-\n","filename":"make\/common\/JavaCompilation.gmk","additions":4,"deletions":4,"binary":false,"changes":8,"status":"modified"}]}
