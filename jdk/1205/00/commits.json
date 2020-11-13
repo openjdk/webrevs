@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253368: TLS connection always receives close_notify exception"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketImpl.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSocketImpl\/SSLSocketCloseHang.java"}],"sha":"85d41030a72cd47db6adc105a5e92bce937bd58e"}]
