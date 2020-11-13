@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,0 +165,5 @@\n+\n+    @Override\n+    public String toString() {\n+        return \"MGF1:\" + mdName;\n+    }\n","filename":"src\/java.base\/share\/classes\/java\/security\/spec\/MGF1ParameterSpec.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
