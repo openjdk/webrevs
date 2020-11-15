@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-public class TestReceiverTypeParameterizedMethodNested<T> {\n+public class TestReceiverTypeParameterizedMethodNested {\n","filename":"test\/jdk\/java\/lang\/annotation\/typeAnnotations\/TestReceiverTypeParameterizedMethodNested.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
