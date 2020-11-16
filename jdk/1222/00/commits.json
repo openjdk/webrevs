@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix win-32 linker error due to forward declaration and definition signature mismatch"},"files":[{"filename":"src\/hotspot\/share\/prims\/scopedMemoryAccess.hpp"}],"sha":"859f8d5fbcb415a4095c75f268683b97a9e39e6d"}]
