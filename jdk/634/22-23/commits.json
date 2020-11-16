@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge pull request #9 from JornVernee\/Windows_Warnings\n\nFix warnings on MSVC"},"files":[],"sha":"000f75d50366b49fe163be35aac558493a88bf0f"},{"commit":{"message":"Fix warnings on MSVC"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"7407874d27e9da2576c1a1f8189a054c78527367"}]
