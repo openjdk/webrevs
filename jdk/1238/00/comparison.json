@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,1 @@\n+                        $(TESTLIBRARY_SRC_DIR)\/NetworkConfiguration.java \\\n","filename":"test\/hotspot\/jtreg\/testlibrary\/jittester\/Makefile","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
