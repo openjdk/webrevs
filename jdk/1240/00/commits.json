@@ -1,0 +1,1 @@
+[{"commit":{"message":"create hs-err log on fatal JVMCI errors"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmci.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.hpp"}],"sha":"ed29ad2494325d77322f680f2f74a6fd0a65018a"}]
