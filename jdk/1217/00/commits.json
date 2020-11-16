@@ -1,0 +1,1 @@
+[{"commit":{"message":"8227106: InitiatingHeapOccupancyPercent is G1-specific but defined in shared"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1_globals.hpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp"}],"sha":"adb1955e67b581e43e06f54447890e4ab38157dc"}]
