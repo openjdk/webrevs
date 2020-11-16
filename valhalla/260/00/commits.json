@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256391: [lworld] C2 compilation fails with assert(EnableValhalla) failed: should only be used for inline types"},"files":[{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"}],"sha":"2c3226188234c801673c1bfbfdf9126ae4e03586"}]
