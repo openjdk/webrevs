@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3065,1 +3065,1 @@\n-address SharedRuntime::make_native_invoker(address call_target,\n+BufferBlob* SharedRuntime::make_native_invoker(address call_target,\n","filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
