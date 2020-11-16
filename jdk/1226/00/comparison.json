@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run main\/othervm compiler.intrinsics.Test8237524\n+ * @run main\/othervm -XX:+CompactStrings compiler.intrinsics.Test8237524\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/Test8237524.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
