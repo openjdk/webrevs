@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256401: ZGC: Improve ZList verification"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zList.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zList.inline.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zPage.cpp"},{"filename":"test\/hotspot\/gtest\/gc\/z\/test_zList.cpp"}],"sha":"c729495a8055756614dc9615ca7a2cd2f935a8c8"}]
