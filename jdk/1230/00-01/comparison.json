@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,0 +90,7 @@\n+\n+  for (int i = 0; i < 6; i++) {\n+    ZTestEntry* e = list.remove_first();\n+    EXPECT_EQ(e->id(), i);\n+  }\n+\n+  EXPECT_EQ(list.size(), 0u);\n","filename":"test\/hotspot\/gtest\/gc\/z\/test_zList.cpp","additions":7,"deletions":0,"binary":false,"changes":7,"status":"modified"}]}
