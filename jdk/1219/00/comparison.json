@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,3 +110,0 @@\n-  \/\/ Notify other data structures about change in the heap layout.\n-  void update_committed_space(HeapWord* old_end, HeapWord* new_end);\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegionManager.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
