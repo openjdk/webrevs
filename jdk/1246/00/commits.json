@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256256: UL should not use heap allocation for output string"},"files":[{"filename":"src\/hotspot\/share\/logging\/logTag.hpp"},{"filename":"src\/hotspot\/share\/logging\/logTagSet.cpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_log.cpp"}],"sha":"1819b8e292cce9de0360c1ae35cb19a4dc579cf9"}]
