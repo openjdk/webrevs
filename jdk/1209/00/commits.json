@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255918: Throw XMLStreamExceptions from XMLStreamFilterImpl constructor"},"files":[{"filename":"src\/java.xml\/share\/classes\/com\/sun\/org\/apache\/xerces\/internal\/impl\/XMLStreamFilterImpl.java"},{"filename":"test\/jdk\/javax\/xml\/jaxp\/parsers\/8255918\/XMLStreamReaderFilterTest.java"}],"sha":"0d556dec2808d584cb1bf9f6e522023aa22ebecc"}]
