@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256478: C2 compilation fails with assert(t1->isa_long()) failed: Type must be a long"},"files":[{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"}],"sha":"66d84941f824dd1e2410a8e9d0b8dd4d936f7576"}]
