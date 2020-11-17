@@ -1,0 +1,1 @@
+[{"commit":{"message":"Feedback from Stefan and Thomas: prefer a check against self rather than NULL"},"files":[{"filename":"src\/hotspot\/share\/runtime\/mutex.cpp"}],"sha":"e4bd2c72fd6918ceae3cb474a41c970024fe0df3"}]
