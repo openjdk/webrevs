@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-            assertEquals((Object) array[i], list.get(i));\n+            assertEquals(array[i], (double) list.get(i));\n","filename":"test\/jdk\/java\/util\/stream\/boottest\/java.base\/java\/util\/stream\/DoubleNodeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
