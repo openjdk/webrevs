@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256426: Shenandoah: Remove superfluous assert is ShBS::load_reference_barrier()"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp"}],"sha":"98e99b0b3c546956c37b4f69ca2ee44ed2bd7be3"}]
