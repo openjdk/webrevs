@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256450: Add gz option to jmap to write a gzipped heap dump"},"files":[{"filename":"src\/hotspot\/share\/services\/attachListener.cpp"},{"filename":"src\/jdk.jcmd\/share\/classes\/sun\/tools\/jmap\/JMap.java"}],"sha":"8b8777764246efe93281d1b13717800d9812e47d"}]
