@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -275,1 +275,1 @@\n-        labels: \"optimized\"\n+        labels: \"optimized\",\n@@ -524,0 +524,1 @@\n+        profiles[optName].default_make_targets = [ \"hotspot\" ];\n","filename":"make\/conf\/jib-profiles.js","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
