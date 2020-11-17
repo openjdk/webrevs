@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,1 +244,1 @@\n-        out->print_cr(\"Compression level out of range (1-9): \" JLONG_FORMAT, level);\n+        out->print_cr(\"Compression level out of range (1-9): \" UINTX_FORMAT, level);\n","filename":"src\/hotspot\/share\/services\/attachListener.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
