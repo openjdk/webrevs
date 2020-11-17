@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -313,1 +313,1 @@\n-  jlong now = os::elapsedTime();\n+  double now = os::elapsedTime();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAdaptiveHeuristics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
