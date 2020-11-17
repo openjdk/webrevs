@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1745,2 +1745,1 @@\n-        \/\/ We need to arm nmethods for concurrent codecache process, regardless concurrent\n-        \/\/ class unloading\n+        \/\/ Arm nmethods for concurrent codecache process.\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
