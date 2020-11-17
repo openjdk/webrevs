@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256385: C2: fatal error: modified node is not on IGVN._worklist"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestDeadNodeDuringIGVN.java"}],"sha":"f288ca3acf8c5cc5323303a349492818f72fc60f"}]
