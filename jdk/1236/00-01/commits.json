@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert RedefineClasses fix and remove InstanceKlass argument from update_inherited_vtable so which klass is clear."},"files":[{"filename":"src\/hotspot\/share\/oops\/klassVtable.cpp"},{"filename":"src\/hotspot\/share\/oops\/klassVtable.hpp"}],"sha":"364f8195ae709ac01724d28311efcc22803f6300"}]
