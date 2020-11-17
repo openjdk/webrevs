@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,2 @@\n+ *          On AIX, no ICMP Destination Unreachable is received, so skip test.\n+ * @requires os.family != \"aix\"\n","filename":"test\/jdk\/com\/sun\/jndi\/dns\/ConfigTests\/PortUnreachable.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
