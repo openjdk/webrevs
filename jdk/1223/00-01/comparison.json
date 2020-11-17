@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -373,0 +373,2 @@\n+  \/\/ Reference to the i'th input Node.  NULL if out of bounds.\n+  Node* lookup(uint i) const { return ((i < _max) ? _in[i] : NULL); }\n","filename":"src\/hotspot\/share\/opto\/node.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
