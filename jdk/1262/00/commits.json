@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256479: [PPC64] C2 crashes when UseVectorByteReverseInstructionsPPC64 used without SuperwordUseVSX"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.cpp"},{"filename":"test\/jdk\/jdk\/incubator\/vector\/Vector64ConversionTests.java"}],"sha":"96b4c4cf7fafd3427a8fa95c43c5fdcfa3323b42"}]
