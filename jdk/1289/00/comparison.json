@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3925,0 +3925,4 @@\n+  if (ReplayCompiles) {\n+    FLAG_SET_ERGO_IF_DEFAULT(UseDebuggerErgo, true);\n+  }\n+\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
