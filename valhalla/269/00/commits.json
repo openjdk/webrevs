@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256481: [lworld] C2 fails to eliminate GC barriers when replacing inline type buffer allocation"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/c2\/g1BarrierSetC2.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/c2\/cardTableBarrierSetC2.cpp"}],"sha":"6f9988d7cbdbad6f813170c3f3879749fbae4969"}]
