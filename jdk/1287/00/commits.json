@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256240: Reproducible builds should turn on the \"deterministic\" flag for Visual Studio"},"files":[{"filename":"make\/autoconf\/configure.ac"},{"filename":"make\/autoconf\/flags-cflags.m4"},{"filename":"make\/autoconf\/flags-ldflags.m4"},{"filename":"test\/jdk\/build\/AbsPathsInImage.java"}],"sha":"1aee13f5a4848a4853469807e5cb30df7ec43862"}]
