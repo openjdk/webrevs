@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,1 @@\n-        return json.contains(\"sha\") && !json.get(\"sha\").isNull());\n+        return json.contains(\"sha\") && !json.get(\"sha\").isNull();\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/gitlab\/GitLabRepository.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
