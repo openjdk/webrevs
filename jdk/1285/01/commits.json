@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also fix bad code as copied in BOOTJDK_CHECK_BUILD_JDK"},"files":[{"filename":"make\/autoconf\/boot-jdk.m4"}],"sha":"842287e0be57364417c025a462eb8e6463fe914f"},{"commit":{"message":"8256538: Fix annoying awk warning in configure for java versions"},"files":[{"filename":"make\/autoconf\/boot-jdk.m4"}],"sha":"9d5fd4fcabf7bdf580e2fff8e12c2cf130ef44c9"}]
