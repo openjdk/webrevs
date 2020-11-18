@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -479,1 +479,1 @@\n-        epsilongc g1gc graal jvmci minimal shenandoahgc zgc\"\n+        g1gc graal jvmci minimal shenandoahgc zgc\"\n","filename":"make\/autoconf\/jvm-features.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
