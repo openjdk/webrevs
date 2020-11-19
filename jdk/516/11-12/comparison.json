@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,0 @@\n-        \/\/assertEquals(e.getMessage(), \"Illegal format argument index = \" + Integer.MIN_VALUE);\n","filename":"test\/jdk\/java\/util\/IllegalFormatException\/TestFormatSpecifierBounds.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
