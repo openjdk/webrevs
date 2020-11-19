@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only consider backports with a proper link relationship"},"files":[{"filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/issue\/Backports.java"},{"filename":"bots\/notify\/src\/test\/java\/org\/openjdk\/skara\/bots\/notify\/issue\/BackportsTests.java"}],"sha":"f6166b7ebdb14d1d8387a2467f7eac84364575aa"}]
