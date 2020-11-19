@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle trailing blank lines in commit message"},"files":[{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/openjdk\/CommitMessageParsers.java"},{"filename":"vcs\/src\/test\/java\/org\/openjdk\/skara\/vcs\/openjdk\/CommitMessageParsersTests.java"}],"sha":"696fb633055755e906c2f0676629befb447fd46a"}]
