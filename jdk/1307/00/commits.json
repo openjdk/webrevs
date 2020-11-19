@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256436: AArch64: Fix undefined behavior for signed right shift in assembler"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64-asmtest.py"},{"filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp"}],"sha":"bb4884cbeef007976da57e675b8fe3dd8902e789"}]
