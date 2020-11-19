@@ -1,0 +1,1 @@
+[{"commit":{"message":"check owner directly + remove owned_by_self(Thread* thread)"},"files":[{"filename":"src\/hotspot\/share\/runtime\/mutex.cpp"},{"filename":"src\/hotspot\/share\/runtime\/mutex.hpp"}],"sha":"030035e2ef820d257ef5dff99411bbabbf01ae51"}]
