@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -221,0 +221,1 @@\n+        verifyIsOfType(PackageType.NATIVE);\n","filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/JPackageCommand.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
