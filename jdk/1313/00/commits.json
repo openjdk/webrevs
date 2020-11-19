@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256640: assert(!m->is_old() || ik()->is_being_redefined()) failed: old methods should not be in vtable"},"files":[{"filename":"src\/hotspot\/share\/oops\/klassVtable.cpp"}],"sha":"26fc2aa79ee2722c3cef67dac3a219469c6974aa"}]
