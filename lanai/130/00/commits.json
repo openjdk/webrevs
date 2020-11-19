@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256576 DrawImage\/BlitRotateClippedArea fails\n\nApply clip destination coordinates only without transform"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLBlitLoops.m"}],"sha":"ecfc5c5f26867636c3e67d03611522a4edcd41cb"}]
