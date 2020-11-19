@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256618: Zero: Linux x86_32 build still fails"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_x86\/os_linux_x86.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_x86\/os_linux_x86.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_zero\/os_linux_zero.hpp"}],"sha":"1189dea921812134a60891f75e67c486f1708a8c"}]
