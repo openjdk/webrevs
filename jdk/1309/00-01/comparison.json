@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1362,1 +1362,2 @@\n-    sa.sa_flags = VMError::get_resetted_sigflags(sig);\n+    \/\/ See comment for SA_RESTORER_FLAG_MASK\n+    sa.sa_flags = VMError::get_resetted_sigflags(sig) LINUX_ONLY(& SA_RESTORER_FLAG_MASK);\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
