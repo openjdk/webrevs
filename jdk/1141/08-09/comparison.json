@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+#include \"runtime\/mutexLocker.hpp\"\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RegionToSpaceMapper.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
