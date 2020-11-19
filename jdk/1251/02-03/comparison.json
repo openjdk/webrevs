@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,1 +281,1 @@\n-                                                 \"object.*constantPoolOop.*).*\"));\n+                                         \"object.*constantPoolOop.*).*\"));\n","filename":"test\/jdk\/sun\/tools\/jmap\/BasicJMapTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
