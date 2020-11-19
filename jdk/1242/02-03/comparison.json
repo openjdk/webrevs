@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,2 +314,2 @@\n-bool Mutex::owned_by_self() const { \n-  return owned_by_self(Thread::current()); \n+bool Mutex::owned_by_self() const {\n+  return owned_by_self(Thread::current());\n","filename":"src\/hotspot\/share\/runtime\/mutex.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
