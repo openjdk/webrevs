@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,1 +130,1 @@\n- * localized minus sign ({@code '-'} in most locales) is used as the\n+ * minus sign ({@code '-' U+002D HYPHEN-MINUS}) is used as the\n","filename":"src\/java.base\/share\/classes\/java\/text\/DecimalFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
