@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -507,1 +507,1 @@\n-          if (_ext.shift() > 0)\n+          if (_ext.shift() > 0) {\n@@ -509,0 +509,1 @@\n+          }\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
