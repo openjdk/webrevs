@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255908: ExceptionInInitializerError due to UncheckedIOException while initializing cgroupv1 subsystem"},"files":[{"filename":"src\/java.base\/linux\/classes\/jdk\/internal\/platform\/CgroupUtil.java"},{"filename":"src\/java.base\/linux\/classes\/jdk\/internal\/platform\/cgroupv1\/CgroupV1Subsystem.java"}],"sha":"6c14c814a5ee560e3bd2f22a973cfd45076c47e8"}]
