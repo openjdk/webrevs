@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -605,1 +605,1 @@\n-                if (read() < 0) {\n+                if (read() == -1) {\n","filename":"src\/java.base\/share\/classes\/java\/io\/InputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
