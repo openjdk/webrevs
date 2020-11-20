@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-\/\/ have to hardwire it.\n+\/\/ have to hardwire its 0x04000000 value in the mask.\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
