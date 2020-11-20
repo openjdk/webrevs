@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,2 @@\n-jint JNI_OnLoad(JavaVM *vm, void *reserved) {\n+JNIEXPORT jint JNICALL\n+JNI_OnLoad(JavaVM *vm, void *reserved) {\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/atExit\/libatExit.c","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
