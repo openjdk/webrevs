@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed ShenandoahHeapIterationRootScanner"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootProcessor.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootProcessor.hpp"}],"sha":"0588b25694a335991a48103dc0983fc39bbfc63f"}]
