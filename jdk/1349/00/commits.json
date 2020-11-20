@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256746: gc\/CriticalNativeArgs.java fails without -XX:-CriticalJNINatives"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/CriticalNativeArgs.java"},{"filename":"test\/hotspot\/jtreg\/gc\/libCriticalNative.c"}],"sha":"675cc029cc02a2f14bdee44eaf1462b0ecbab1f9"}]
