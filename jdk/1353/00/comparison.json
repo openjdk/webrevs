@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -250,0 +250,5 @@\n+  if (type() == CcstrType) {\n+    ccstr v = value<ccstr>();\n+    os::free((void*)v);\n+  }\n+\n","filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
