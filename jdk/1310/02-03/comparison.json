@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5517,0 +5517,1 @@\n+#ifdef IA32\n@@ -5521,1 +5522,0 @@\n-#ifdef IA32\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
