@@ -1,0 +1,1 @@
+[{"commit":{"message":" Removing special handling for constant length, GVN will remove dead stub blocks in case constant length is less than partial inline size."},"files":[{"filename":"src\/hotspot\/share\/opto\/macro.hpp"},{"filename":"src\/hotspot\/share\/opto\/macroArrayCopy.cpp"}],"sha":"465c5f54d30e4245eda5934a15ae8809ae07e391"}]
