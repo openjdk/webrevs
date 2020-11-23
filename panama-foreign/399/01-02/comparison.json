@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,1 +127,0 @@\n-        Objects.requireNonNull(argLayouts);\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/FunctionDescriptor.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
