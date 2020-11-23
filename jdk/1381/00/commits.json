@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256754: Deoptimization::revoke_for_object_deoptimization: stack processing start call is redundant"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"}],"sha":"f09aaf9b2d96b50872fbcea302c10d57f16671d1"}]
