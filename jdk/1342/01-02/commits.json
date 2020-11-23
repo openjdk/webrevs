@@ -1,0 +1,1 @@
+[{"commit":{"message":"CastII pushed thru chain of AddIs"},"files":[{"filename":"src\/hotspot\/share\/opto\/castnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/conversions\/TestMoveConvI2LOrCastIIThruAddIs.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/conversions\/TestMoveConvI2LThroughAddIs.java"}],"sha":"faf980ab7d0cba825b74dc9d0555e44f53f51778"}]
