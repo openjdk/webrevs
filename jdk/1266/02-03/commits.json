@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use the Unimplemented() macro instead of hlt()"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/universalNativeInvoker_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/universalUpcallHandler_x86.cpp"}],"sha":"4f0c6ef98e5581c47a41cded3993ce0a8483e23b"}]
