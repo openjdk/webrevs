@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert: Fix \"Add-Exports\" case for the setAccessibleNonPublicMemberNonExportedPackage test\n\nThis reverts commit 6a4d4792261f54b014336d1907b0040b15fdb467."},"files":[{"filename":"test\/jdk\/tools\/launcher\/modules\/illegalaccess\/IllegalAccessTest.java"}],"sha":"1a7ab4e0fdd122fefcded9208fb127c0e3132c51"}]
