@@ -1,0 +1,1 @@
+[{"commit":{"message":"8244621: [macos10.15] Garbled FX printing plus CoreText warnings on Catalina when building with Xcode 11 Reviewed-by: kcr, psadhukhan\n\nBackport-of: 2048bcb648c2f42b59119eb603d33e8878c58650"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/font\/AWTFont.m"}],"sha":"5ca3fe9f831f98bad0993b8e43ddc22b0ff96df0"}]
