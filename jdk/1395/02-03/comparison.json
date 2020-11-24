@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -499,3 +499,1 @@\n-  if (_sampling_task != NULL) {\n-    delete _sampling_task;\n-  }\n+  delete _sampling_task;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
