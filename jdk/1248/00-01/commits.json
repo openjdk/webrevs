@@ -1,0 +1,1 @@
+[{"commit":{"message":"uses pre-defined macro `right_n_bits` to get the right-most bits set.\n\nChange-Id: I456bcc883434b04527db912adaccc6a5f2dd96a0"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp"}],"sha":"29ed5d662e8704b1c3fa39001c58f7841a02eaee"}]
