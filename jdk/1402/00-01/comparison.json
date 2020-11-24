@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-  \/\/ the low-level _lock, or to NULL after it has released the _lock. Accesses by any thread other\n+  \/\/ the low-level _lock, or to NULL before it has released the _lock. Accesses by any thread other\n","filename":"src\/hotspot\/share\/runtime\/mutex.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
