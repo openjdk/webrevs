@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -589,1 +589,1 @@\n-  if (DiagnoseSyncOnValueBasedClasses != 0 && obj->klass()->is_value_based()) {\n+  if (obj->klass()->is_value_based()) {\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
