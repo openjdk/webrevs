@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename iterator variables in ZGC code"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/z\/zBarrierSetAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/gc\/z\/zBarrierSetAssembler_x86.cpp"}],"sha":"b928fcc19b1bc5ad278316f83ca5ef33922f4941"}]
