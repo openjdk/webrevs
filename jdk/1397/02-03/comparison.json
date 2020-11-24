@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -321,3 +321,0 @@\n-    \/\/ Iterate over live registers\n-    RegMaskIterator rmi(stub->live());\n-\n@@ -325,0 +322,1 @@\n+    RegMaskIterator rmi(stub->live());\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/z\/zBarrierSetAssembler_aarch64.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
