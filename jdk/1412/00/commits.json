@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8242652: Throw SkippedException if no JS engine availabe in TestSearchScript"},"files":[{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testSearchScript\/TestSearchScript.java"},{"filename":"test\/langtools\/jdk\/javadoc\/lib\/jtreg\/SkippedException.java"}],"sha":"d6bc3b7925efdaba98258b8162c80c70edb17269"}]
