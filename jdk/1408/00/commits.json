@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256382: Use try_lock for hs_err EventLog printing"},"files":[{"filename":"src\/hotspot\/share\/utilities\/events.hpp"}],"sha":"26eeee590883deee9a6b25f6f797d9862f6e24cd"}]
