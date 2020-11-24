@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254082: Add fast-path for String into AbstractStringBuilder.insert(int, CharSequence, int, int)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java"}],"sha":"128cce75601402eaf70a5708fb8e550ed1e30426"}]
