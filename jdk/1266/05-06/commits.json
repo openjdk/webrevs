@@ -1,0 +1,1 @@
+[{"commit":{"message":"Pass in thread instead of rematerializing it."},"files":[{"filename":"src\/hotspot\/share\/prims\/universalUpcallHandler.cpp"},{"filename":"src\/hotspot\/share\/prims\/universalUpcallHandler.hpp"}],"sha":"c76286cdcf392719f77b30de8df43de4acb2897e"}]
