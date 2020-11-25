@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -355,0 +355,1 @@\n+#ifndef _AIX \/\/ JDK-8257041\n@@ -377,0 +378,1 @@\n+#endif \/\/ !AIX\n@@ -410,0 +412,1 @@\n+#ifndef _AIX \/\/ JDK-8257041\n@@ -438,0 +441,1 @@\n+#endif \/\/ !AIX\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
