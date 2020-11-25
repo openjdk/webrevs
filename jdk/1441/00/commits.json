@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255277: randomDelay in DrainDeadlockT and LoggingDeadlock do not randomly delay"},"files":[{"filename":"test\/jdk\/java\/util\/logging\/DrainFindDeadlockTest.java"},{"filename":"test\/jdk\/java\/util\/logging\/LoggingDeadlock.java"}],"sha":"3a2e2d8736dbe47b35ae81ce5681b02400cbf226"}]
