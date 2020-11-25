@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1778,0 +1778,5 @@\n+int MachCallBlackholeJavaNode::ret_addr_offset() {\n+  \/\/ Fake it: no address\n+  return 0;\n+}\n+\n@@ -16003,1 +16008,1 @@\n-  ins_pipe(empty);\n+  ins_pipe(pipe_class_empty);\n","filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad","additions":6,"deletions":1,"binary":false,"changes":7,"status":"modified"}]}
