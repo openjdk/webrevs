@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add @ForceInline annotations to MemoryAccess methods\nAdd new benchmark for unrolled access"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/MemoryAccess.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/foreign\/UnrolledAccess.java"}],"sha":"de43d42a3d871d34f976224a3c32511df0a1eed8"}]
