@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also rename ZMarkConcurrentRootsTask and ZProcessConcurrentWeakRootsTask"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zWeakRootsProcessor.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zWeakRootsProcessor.hpp"}],"sha":"230f6fe5c15646e69c17bebea2d51ec143a5f7a5"}]
