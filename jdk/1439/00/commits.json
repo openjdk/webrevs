@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256830: misc tests failed with \"assert(env->is_enabled(JVMTI_EVENT_OBJECT_FREE)) failed: checking\""},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.hpp"}],"sha":"1d9e6bef598ff844c218b8c6ab887ce230660897"}]
