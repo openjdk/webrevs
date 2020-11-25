@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257073: ZGC: Try forward object before retaining page"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zForwarding.inline.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.hpp"}],"sha":"8fa60637cf1a59988ddb01d28e0bb17ecdf36e03"}]
