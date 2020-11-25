@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257079: ZGC: Fold ZMark::prepare_mark() into ZMark::start()"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zMark.hpp"}],"sha":"d8a47e8aff56d5ba8823ad03e4071c263586683d"}]
