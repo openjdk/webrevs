@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8256956"},"files":[],"sha":"5de63d0cf1b3830a6cff00a958908076c4f5736e"},{"commit":{"message":"8256956: RegisterImpl::max_slots_per_register is incorrect on AMD64"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/register_x86.hpp"}],"sha":"915e653ae34489ce9076c2a5af2178cf79eb42d1"}]
