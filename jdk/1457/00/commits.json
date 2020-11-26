@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve box elimination for vector masks and vector shuffles."},"files":[{"filename":"src\/hotspot\/share\/opto\/vector.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"d403921e1d79d3e0b7294179a6d0cf6487cc69b2"}]
