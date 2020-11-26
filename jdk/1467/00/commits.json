@@ -1,0 +1,1 @@
+[{"commit":{"message":"6594730: UUID.getVersion() is only meaningful for Leach-Salz variant"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/UUID.java"},{"filename":"test\/jdk\/java\/util\/UUID\/UUIDTest.java"}],"sha":"9045ad0abef70f14712e39480c5d41f74b3c4588"}]
