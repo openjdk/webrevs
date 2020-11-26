@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1270,1 +1270,1 @@\n-        assertTrue(x == (0x03* 16));\n+        assertTrue(x == (0x03 * 16));\n@@ -1322,1 +1322,1 @@\n-            \n+\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/nio\/ByteBuffers.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
