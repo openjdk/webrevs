@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255351: Add detection for Graviton 2 CPUs\n\nThis commit adds detection for Graviton 2 (as Neoverse N1)\nand enables UseSIMDForMemoryOps for it."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"60e28f572cfb5c6ecdbf5d75d572d162dafa983c"}]
