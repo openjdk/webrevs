@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -579,2 +579,1 @@\n-                        m2.reads()\n-                                .stream()\n+                        m2.reads().stream()\n","filename":"src\/java.base\/share\/classes\/java\/lang\/module\/Resolver.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
