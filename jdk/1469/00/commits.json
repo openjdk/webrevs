@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257146: C2: extend the scope of StressGCM\n\nExtend the scope of StressGCM by allowing it to move instructions into basic\nblocks with worse frequency."},"files":[{"filename":"src\/hotspot\/share\/opto\/gcm.cpp"}],"sha":"6530c3bdb853e2b348515cd1fe452e6cb3c4df82"}]
