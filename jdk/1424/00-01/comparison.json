@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-            throw new RuntimeException(\"To slow:\" + time);\n+            throw new RuntimeException(\"Too slow:\" + time);\n","filename":"test\/jdk\/java\/awt\/Robot\/InfiniteLoopException.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
