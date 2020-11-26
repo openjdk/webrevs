@@ -1,0 +1,1 @@
+[{"commit":{"message":"8170432: Class java.util.UUID & @Override\n\nAdds `@Override` annotation to all methods in `java.util.UUID` that implement methods from the implemented interfaces."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/UUID.java"}],"sha":"c7c18feaa1a9b2a6d50d8b0ad7dd476161bae80c"}]
