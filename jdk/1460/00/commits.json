@@ -1,0 +1,1 @@
+[{"commit":{"message":"8207329: Add NIL Constant to UUID\n\nAdds a constant for the special NIL UUID where all bits are zero to `java.util.UUID`."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/UUID.java"},{"filename":"test\/jdk\/java\/util\/UUID\/UUIDTest.java"}],"sha":"5b61adbc7df7d0daf9486e235180c950fac0f46a"}]
