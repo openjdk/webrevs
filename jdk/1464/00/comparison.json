@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-    result = NativeAccess<ON_PHANTOM_OOP_REF|decorators>::oop_load(jweak_ptr(handle));\n+    result = NativeAccess<ON_WEAK_OOP_REF|decorators>::oop_load(jweak_ptr(handle));\n","filename":"src\/hotspot\/share\/runtime\/jniHandles.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

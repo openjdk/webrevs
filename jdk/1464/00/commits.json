@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257180: Prevent resurrection of final\/phantom refs through JNI weak refs"},"files":[{"filename":"src\/hotspot\/share\/runtime\/jniHandles.inline.hpp"}],"sha":"c0cbef9a36d60496ae77f447b7db02dea4ff7311"}]
