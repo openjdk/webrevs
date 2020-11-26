@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n-        BASIC_LDFLAGS=\"$BASIC_LDFLAGS -Wl,--gc-sections -Wl,--print-gc-sections\"\n+        BASIC_LDFLAGS=\"$BASIC_LDFLAGS -Wl,--gc-sections\"\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
