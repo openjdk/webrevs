@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-     * call, on the first call to engineGetBytes, this object will call the\n+     * call, on the first call to engineGetBytes this object will call the\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/SecureRandom.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
