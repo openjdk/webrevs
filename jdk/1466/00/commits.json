@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix overflow in size computation for heap segments"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/HeapMemorySegmentImpl.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegments.java"}],"sha":"de80bef4cd39a836d6794178214d84c20b116bb5"}]
