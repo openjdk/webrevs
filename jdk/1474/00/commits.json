@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257145: Performance regression with -XX:-ResizePLAB after JDK-8079555"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"}],"sha":"1f975aa306d02f1b4843f663b81801397a3c5f66"}]
