@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix native memory leak in ciMethodData ctor"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciMethodData.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciMethodData.hpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.hpp"}],"sha":"8d429ef941d1bc78f92f151d7f4ffdbf2873e4b0"}]
