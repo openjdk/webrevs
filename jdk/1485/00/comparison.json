@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -368,1 +368,1 @@\n-        add(KnownOIDs.sect163k1, BD,\n+        add(KnownOIDs.sect163k1, B,\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/CurveDB.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
