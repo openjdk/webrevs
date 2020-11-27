@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,0 +217,2 @@\n+            test2();\n+            test3();\n@@ -220,0 +222,2 @@\n+        test4();\n+        test5();\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestUnswitchCloneSkeletonPredicates.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
