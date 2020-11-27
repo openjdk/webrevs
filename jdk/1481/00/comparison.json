@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -257,1 +257,1 @@\n-  __ mov(rscratch1, StubRoutines::aarch64::method_entry_barrier());\n+  __ movptr(rscratch1, (uintptr_t) StubRoutines::aarch64::method_entry_barrier());\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/shared\/barrierSetAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
