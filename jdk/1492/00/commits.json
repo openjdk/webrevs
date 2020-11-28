@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257230: assert(InitialHeapSize >= MinHeapSize) failed: Ergonomics decided on incompatible initial and minimum heap sizes"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"545d89a12b7d3eaeef6334b1ee4d0bddabd3e184"}]
