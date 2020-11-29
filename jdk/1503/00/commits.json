@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix lower limit and change PreTouchParallelChunkSize default value from 1g to 4m."},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/pretouchTask.cpp"}],"sha":"8ef5ed7c64808c6b039baa0751afa7ff017b318d"}]
