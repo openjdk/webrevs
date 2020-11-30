@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1242,2 +1242,2 @@\n-      (iv_bt == T_INT && LoopStripMiningIter != 0) ||\n-      iv_bt == T_LONG) {\n+          ((iv_bt == T_INT && LoopStripMiningIter != 0) ||\n+           iv_bt == T_LONG)) {\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
