@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -510,0 +510,2 @@\n+  \/\/ Still an empty implementation on MacOS and AIX\n+#if defined(LINUX) || defined(_WIN32)\n@@ -511,0 +513,1 @@\n+#endif\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
