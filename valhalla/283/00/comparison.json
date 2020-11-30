@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -981,1 +981,1 @@\n-  if (PrintFieldLayout) {\n+  if (PrintFieldLayout || (PrintInlineLayout && _has_flattening_information)) {\n","filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
