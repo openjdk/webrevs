@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make enable events lock unconditionally if tagmap present."},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp"}],"sha":"ca1715b9a4138096c18e3b574237fcc39e499230"}]
