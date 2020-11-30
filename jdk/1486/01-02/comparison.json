@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -182,1 +182,0 @@\n-    rm.Clear();\n@@ -193,1 +192,0 @@\n-    rm.Clear();\n@@ -198,0 +196,1 @@\n+    rm.Clear();\n","filename":"test\/hotspot\/gtest\/opto\/test_regmask.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
