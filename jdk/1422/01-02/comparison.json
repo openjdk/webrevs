@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,0 +125,1 @@\n+    \/\/ Use next_random so the calculation is stateless.\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
