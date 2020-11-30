@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n-#ifdef AARCH64\n+#if defined(AARCH64) && !defined(ZERO)\n","filename":"test\/hotspot\/gtest\/aarch64\/test_assembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
