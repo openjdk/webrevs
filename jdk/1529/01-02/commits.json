@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove -mode option from sigtest"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/signal\/README"},{"filename":"test\/hotspot\/jtreg\/runtime\/signal\/SigTestDriver.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/signal\/exesigtest.c"}],"sha":"19c35bba9c78c54fa63ff6085fe1d8281d0d553a"}]
