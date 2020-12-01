@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also fix S390X"},"files":[{"filename":"src\/hotspot\/cpu\/s390\/sharedRuntime_s390.cpp"}],"sha":"92c02ee2ceb5009920bf4e925a218b59ec2e4a30"},{"commit":{"message":"8257502: x86_32 build fails with new warnings after JDK-8256254"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_32.cpp"}],"sha":"ecdff112fc806faf1f601b66df6d74e69384b9a5"}]
