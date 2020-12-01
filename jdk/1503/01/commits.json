@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reverted changes in pretouchTask.cpp."},"files":[],"sha":"ef6fa419273e3af3b0be15127de42b6fc8aeb141"},{"commit":{"message":"Fix lower limit and change PreTouchParallelChunkSize default value from 1g to 4m."},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp"}],"sha":"8ef5ed7c64808c6b039baa0751afa7ff017b318d"}]
