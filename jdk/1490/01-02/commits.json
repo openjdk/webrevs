@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check @Deprecated annotation in method Attr.checkIdInternal. Remove the redundant warning code"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Resolve.java"}],"sha":"66671b02c41fb1353a521883b30ea5f0c004b1fd"}]
