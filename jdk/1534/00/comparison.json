@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -241,0 +241,1 @@\n+  printf \"* Name:           $CONF_NAME\\n\"\n","filename":"make\/autoconf\/help.m4","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
