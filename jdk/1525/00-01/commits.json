@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256718: Obsolete the long term deprecated and aliased Trace flags"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/RemovedDevelopFlagsTest.java"}],"sha":"84e421f70d636d0f3208fcab635423e121cc6727"}]
