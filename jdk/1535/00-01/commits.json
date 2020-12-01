@@ -1,0 +1,1 @@
+[{"commit":{"message":"avoid VM crash for JVMCI configuration errors"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk.vm.ci.hotspot\/src\/jdk\/vm\/ci\/hotspot\/HotSpotJVMCICompilerConfig.java"}],"sha":"051bcf9aa2bfce52e780247f032a2d48746ac685"}]
