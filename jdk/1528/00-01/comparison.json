@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,1 +158,1 @@\n-    \/\/ Reads from string instead of file\n+  \/\/ Reads from string instead of file\n","filename":"src\/hotspot\/share\/compiler\/compilerOracle.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
