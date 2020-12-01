@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1383,1 +1383,1 @@\n-  if( _out_arg_limit < out_arg_limit_per_call)\n+  if( _out_arg_limit < out_arg_limit_per_call && !mcall->is_MachCallBlackhole())\n","filename":"src\/hotspot\/share\/opto\/matcher.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
