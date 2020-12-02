@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -872,1 +872,0 @@\n- protected:\n@@ -908,0 +907,4 @@\n+  ~JNI_ArgumentPusherVaArg() {\n+    va_end(_ap);\n+  }\n+\n","filename":"src\/hotspot\/share\/prims\/jni.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
