@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix late inline when start memory is dead"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"},{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"}],"sha":"3f27d486ce2e070eb9e0cbf405e4e391a90925ef"}]
