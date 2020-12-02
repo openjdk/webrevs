@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1241,0 +1241,1 @@\n+#include \"gc\/shared\/barrierSetAssembler.hpp\"\n","filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
