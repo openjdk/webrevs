@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix according to review comments, use malloc replace calloc, also check return value from (v)snprintf"},"files":[{"filename":"src\/hotspot\/share\/logging\/logTagSet.cpp"}],"sha":"4d1cba1498b90fccd8960953572cd2be5016db37"}]
