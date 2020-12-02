@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -887,0 +887,2 @@\n+     * The delimiter, prefix, suffix, and uppercase parameters are not used.\n+     *\n","filename":"src\/java.base\/share\/classes\/java\/util\/HexFormat.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
