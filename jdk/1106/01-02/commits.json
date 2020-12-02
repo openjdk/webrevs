@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update PR\n    * Move write_error_is_shown to private member in LogFileStreamOutput\n    * Update condition at WRITE_LOG_WITH_RESULT_CHECK macro"},"files":[{"filename":"src\/hotspot\/share\/logging\/logFileStreamOutput.cpp"},{"filename":"src\/hotspot\/share\/logging\/logFileStreamOutput.hpp"}],"sha":"8f3f3f1e67f131dce151357ec025f4d219f25a93"}]
