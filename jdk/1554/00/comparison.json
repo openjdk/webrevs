@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,0 +2,1 @@\n+ * Copyright (c) 2020, Oracle and\/or its affiliates. All rights reserved.\n@@ -28,1 +29,0 @@\n-#include \"gc\/shared\/barrierSetAssembler.hpp\"\n","filename":"src\/hotspot\/share\/gc\/epsilon\/epsilonBarrierSet.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
