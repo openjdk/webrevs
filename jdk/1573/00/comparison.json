@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n- * @run main\/othervm\/native\/manual\/timeout=240\n+ * @run main\/othervm\/native\/manual\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/ResourceExhausted\/resexhausted001\/TestDescription.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
