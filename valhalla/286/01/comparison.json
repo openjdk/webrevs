@@ -1,0 +1,5 @@
+This file was too large to be included in the published webrev, and has been replaced with this placeholder message. It is possible to generate the original content locally by following these instructions:
+
+  $ git fetch https://git.openjdk.java.net/valhalla pull/286/head
+  $ git checkout d9487db29a9b9cba209ebc256d06969548b849cf
+  $ git webrev -r 7aed9b65d05741cb545e5716296450fb8e8bf668
