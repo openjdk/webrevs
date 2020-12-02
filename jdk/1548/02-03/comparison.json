@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -246,1 +246,1 @@\n-  # Instead use bash escaped literal newline. To avoid having unmatched quotes\n+  # Instead use a bash escaped literal newline. To avoid having unmatched quotes\n","filename":"make\/common\/NativeCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
