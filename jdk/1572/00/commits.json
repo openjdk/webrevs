@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257624: C2: PhaseMacroExpand::eliminate_macro_nodes() crashes on out-of-bounds access into macro node array"},"files":[{"filename":"src\/hotspot\/share\/opto\/macro.cpp"}],"sha":"21c55f6f7d19d20689f6641f5d914e015b822d7e"}]
