@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257625: C2: Harden input checks in vector intrinsics"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"8892de5df1ec1352b38bd7385b1fc8edc85ec53a"}]
