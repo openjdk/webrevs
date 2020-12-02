@@ -1,0 +1,1 @@
+[{"commit":{"message":"8245956: JavaCompiler still uses files API instead of Path API in a specific case"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/file\/JavacFileManager.java"},{"filename":"test\/langtools\/tools\/javac\/T8245956\/T8245956.java"}],"sha":"d9e8700ee8d3b39b36aa2c4d141ba6405719e7a9"}]
