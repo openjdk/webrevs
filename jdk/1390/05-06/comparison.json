@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6073,1 +6073,1 @@\n-      if (os::dll_address_to_library_name(allocation_base, buf, sizeof(buf), NULL)) {\n+      if (os::dll_address_to_library_name(allocation_base, buf, sizeof(buf), nullptr)) {\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
