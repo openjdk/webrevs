@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254802: ThrowingPushPromisesAsStringCustom.java fails in \"try throwing in GET_BODY\"\n\nAmmended fix to take into account reset frames received on either server streams\nor client streams."},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/http2\/server\/Http2TestServerConnection.java"}],"sha":"0d15b660028124b29f8387c15b5a0860a51d27bf"}]
