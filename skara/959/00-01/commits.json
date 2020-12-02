@@ -1,0 +1,1 @@
+[{"commit":{"message":"Trailing blank lines end up in \"additional\""},"files":[{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/openjdk\/CommitMessageParsers.java"},{"filename":"vcs\/src\/test\/java\/org\/openjdk\/skara\/vcs\/openjdk\/CommitMessageParsersTests.java"}],"sha":"f7ca521dde063031f1ae0ac28333d52024aa6332"}]
