@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not use objc_msgSend_stret to get macOS version"},"files":[{"filename":"src\/java.base\/macosx\/native\/libjava\/java_props_macosx.c"}],"sha":"2918b253b043162f55ee0de06d5e4a39f49243df"}]
