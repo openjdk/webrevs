@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add an assert to make chunk-to-granule-geometry explicit"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace\/metachunk.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspace\/virtualSpaceNode.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspace\/virtualSpaceNode.hpp"}],"sha":"205425e83c44da464f7b2926df9f141a1886082b"}]
