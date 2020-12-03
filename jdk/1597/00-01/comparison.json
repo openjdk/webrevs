@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -431,0 +431,6 @@\n+  if [[ ! -e \"$command\" ]]; then\n+    if [[ -e \"$command.exe\" ]]; then\n+      command=\"$command.exe\"\n+    fi\n+  fi\n+\n","filename":"make\/scripts\/fixpath.sh","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
