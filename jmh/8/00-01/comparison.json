@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,1 +268,1 @@\n-                    return BLACKHOLE_DONTINLINE;\n+                    return BLACKHOLE;\n","filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/runner\/CompilerHints.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
