@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257674: [lworld] C1's substitutability does not respect UseCompressedClassPointers"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_LIRAssembler_x86.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorld.java"}],"sha":"9705d34921463eca237d6c7fab04299ea83e0c06"}]
