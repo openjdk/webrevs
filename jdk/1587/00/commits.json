@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257572: Deprecate the archaic signal-chaining interfaces: sigset and signal"},"files":[{"filename":"make\/modules\/java.base\/Lib.gmk"},{"filename":"src\/java.base\/unix\/native\/libjsig\/jsig.c"}],"sha":"2e5635ede0bf72171e4b592c5518da2be42e5db3"}]
