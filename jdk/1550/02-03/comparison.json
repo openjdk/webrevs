@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1121,1 +1121,1 @@\n-    while (modified_list->size()) {\n+    while (modified_list->size() > 0) {\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
