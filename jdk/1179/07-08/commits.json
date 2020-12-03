@@ -1,0 +1,1 @@
+[{"commit":{"message":"8247732: validate user-input intrinsic_ids in ControlIntrinsic\n\nfix build failures on windows platform by using platform-natural MIN2."},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerDirectives.hpp"}],"sha":"86cf452c067b64a717ae3d4d9434460666731b57"}]
