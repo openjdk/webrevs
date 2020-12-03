@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix C2 _blackhole: polls arguments count from caller, not callee"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"3387ad8ce41c058061624884bb23b731777aa34b"}]
