@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -261,3 +261,0 @@\n-     *\n-     * @throws SSLHandshakeException if an unsupported\n-     *      {@code CertStatusRequest} is provided.\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/StatusResponseManager.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
