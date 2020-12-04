@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,0 +53,2 @@\n+    private final byte writeBuffer[] = new byte[8];\n+\n@@ -210,2 +212,0 @@\n-    private byte writeBuffer[] = new byte[8];\n-\n","filename":"src\/java.base\/share\/classes\/java\/io\/DataOutputStream.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
