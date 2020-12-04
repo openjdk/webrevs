@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,1 +210,1 @@\n-      if [[ \"$result\" != \"\" -a \"$imported\" = \"\" ]]; then\n+      if [[ \"$result\" != \"\" && \"$imported\" = \"\" ]]; then\n","filename":"make\/scripts\/fixpath.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
