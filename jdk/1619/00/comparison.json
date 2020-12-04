@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+#include \"classfile\/javaClasses.hpp\"\n","filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
