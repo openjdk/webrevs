@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257531: Super word not applied to a loop of simple Buffer operations"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"src\/hotspot\/share\/opto\/superword.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestBufferVectorization.java"}],"sha":"0f894f6c328b2e11137d98979ee443583357182d"}]
