@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not print void warning with -XX:-PrintWarnings"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/blackhole\/BlackholeNonVoidWarning.java"}],"sha":"306cd9639d86e59f37ba84816dcef55a998fc6f3"}]
