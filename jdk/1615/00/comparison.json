@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -337,1 +337,0 @@\n-            System.out.println(AlgorithmId.get(\"HmacSHA3-512\"));\n","filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/HmacCore.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
