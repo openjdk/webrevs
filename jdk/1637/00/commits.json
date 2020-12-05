@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257794: Zero: assert(istate->_stack_limit == istate->_thread->last_Java_sp() + 1) failed: wrong on Linux\/x86_32"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreter.cpp"}],"sha":"d60412a2b853f72370a93b2ac67426887b540793"}]
