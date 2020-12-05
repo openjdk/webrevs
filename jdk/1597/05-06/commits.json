@@ -1,0 +1,1 @@
+[{"commit":{"message":"Extract only the actual contents added to the PATH by VS SetEnv.cmd."},"files":[{"filename":"make\/autoconf\/toolchain_microsoft.m4"},{"filename":"make\/scripts\/extract-vs-env.cmd"}],"sha":"ef81e1f95d61a504d164be1f6b5638de6879d278"}]
