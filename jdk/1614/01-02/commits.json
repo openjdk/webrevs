@@ -1,0 +1,1 @@
+[{"commit":{"message":"Throw UIOE when stream throws IOE"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/RequestPublishers.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/StreamCloseTest.java"}],"sha":"d9628c8e1fce3babeac338025b16957ea9323ee9"}]
