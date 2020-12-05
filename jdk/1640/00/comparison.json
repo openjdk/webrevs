@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,0 +63,1 @@\n+        System.out.println(\"  -z:   sort events by compiled code size\");\n","filename":"src\/utils\/LogCompilation\/src\/main\/java\/com\/sun\/hotspot\/tools\/compiler\/LogCompilation.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
