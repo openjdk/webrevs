@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+ * @requires os.arch!=\"x86\" & os.arch!=\"i386\"\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/sha\/cli\/TestUseSHA512IntrinsicsOptionOnSupportedCPU.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
