@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix regression tests with -XX:CompileThreshold=100"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/share\/processors\/CommandProcessor.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/IntrinsicDisabledTest.java"}],"sha":"5b4617ccb98b4958f07480f9d17c178b432bef0a"}]
