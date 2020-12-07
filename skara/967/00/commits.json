@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure that test info expiration times are reset if the PR head hash changes"},"files":[{"filename":"bots\/testinfo\/src\/main\/java\/org\/openjdk\/skara\/bots\/testinfo\/TestInfoBot.java"},{"filename":"bots\/testinfo\/src\/test\/java\/org\/openjdk\/skara\/bots\/testinfo\/TestInfoTests.java"}],"sha":"e74e70f9999dd27e1e756390e50020f121da2240"}]
