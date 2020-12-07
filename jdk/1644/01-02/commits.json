@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix minor issues in getIV() and post-encryption getParameters() behavior"},"files":[{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/ChaCha20Cipher.java"},{"filename":"test\/jdk\/com\/sun\/crypto\/provider\/Cipher\/ChaCha20\/ChaCha20Poly1305ParamTest.java"}],"sha":"0f74545b38ac0850ca5cd8f976bad582860ce8db"}]
