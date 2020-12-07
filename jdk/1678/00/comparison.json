@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,0 +51,4 @@\n+\/\/ A work around for GCC math header bug leaving isfinite() undefined,\n+\/\/ see: https:\/\/gcc.gnu.org\/bugzilla\/show_bug.cgi?id=14608\n+#include \"utilities\/globalDefinitions.hpp\"\n+\n","filename":"test\/hotspot\/gtest\/unittest.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
