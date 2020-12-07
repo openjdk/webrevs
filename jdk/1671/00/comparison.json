@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * Defines the experimental foreign memory access API.\n+ * Defines an API for accessing foreign memory and calling foreign functions, directly from Java.\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/module-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
