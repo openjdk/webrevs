@@ -1,0 +1,1 @@
+[{"commit":{"message":"stubGenerator: remove replacement routine for lxvl, since lxvl is not used in the main loop.  Change load_const to load_const_optimized for improved performance."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp"}],"sha":"aafe8daef8cf692b26760b8bd09948abaccfe2b7"}]
