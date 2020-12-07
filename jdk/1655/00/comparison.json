@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -331,1 +331,1 @@\n-  return !_marking_context->is_marked(obj);\n+  return !_marking_context->is_marked_strong(obj);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
