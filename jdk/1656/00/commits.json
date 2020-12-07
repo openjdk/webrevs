@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257806: Optimize x86 allTrue and anyTrue vector mask operations of Vector API"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"1aa64a1b1a4c063c0525e359375145c6f140db11"}]
