@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -413,1 +413,1 @@\n-  if (!has_option(method, CompileCommand::Blackhole)) {\n+  if (!check_predicate(CompileCommand::Blackhole, method)) {\n","filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
