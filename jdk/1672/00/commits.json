@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253797: [cgroups v2] Account for the fact that swap accounting is disabled on some systems"},"files":[{"filename":"src\/java.base\/linux\/classes\/jdk\/internal\/platform\/cgroupv2\/CgroupV2Subsystem.java"},{"filename":"test\/lib\/jdk\/test\/lib\/containers\/cgroup\/MetricsTesterCgroupV2.java"}],"sha":"10c4b57b7bd693f6b48eb36c86a6b13735d88e21"}]
