@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow considering only resolved backport issues (for sync labelling)"},"files":[{"filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/issue\/Backports.java"},{"filename":"bots\/notify\/src\/test\/java\/org\/openjdk\/skara\/bots\/notify\/issue\/BackportsTests.java"}],"sha":"1212cb660319f3d8a75e928f452e6b76d5428165"}]
