@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -353,1 +353,1 @@\n-  return (info & (1 << 1)) ? true : false; \n+  return (info & (1 << 1)) ? true : false;\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
