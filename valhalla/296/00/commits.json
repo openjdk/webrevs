@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256330: [lworld] Dead inline type nodes are not reclaimed assertions"},"files":[{"filename":"src\/hotspot\/share\/oops\/methodData.hpp"},{"filename":"src\/hotspot\/share\/opto\/callnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/macro.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"}],"sha":"a73465670185aac708a8bbaaa4fd2f59946c70b0"}]
