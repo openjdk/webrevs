@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -395,1 +395,1 @@\n-    \/\/ Convert the CallStaticJava into an inline\n+  \/\/ Convert the CallStaticJava into an inline\n","filename":"src\/hotspot\/share\/opto\/callGenerator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
