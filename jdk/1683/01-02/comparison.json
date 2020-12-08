@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -834,1 +834,1 @@\n-      if (last_frame.is_interpreted_frame()) {\n+      if (last_frame.is_interpreted_frame() && mh == last_frame.interpreter_frame_method()) {\n","filename":"src\/hotspot\/share\/compiler\/tieredThresholdPolicy.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
