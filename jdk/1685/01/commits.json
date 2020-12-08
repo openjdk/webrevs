@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change the warning message"},"files":[{"filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp"}],"sha":"ed882ea468f629a72436dacad53c887cb27c5842"},{"commit":{"message":"Check the number of options in -Xlog"},"files":[{"filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp"}],"sha":"e5ab28371fef3669511dfc915de09646afca7098"}]

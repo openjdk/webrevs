@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -365,0 +365,1 @@\n+      str = NULL;\n@@ -369,0 +370,4 @@\n+  if (str != NULL) {\n+    log_warning(logging)(\"Ignoring excess -Xlog options: \\\"%s\\\"\", str);\n+  }\n+\n","filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
