@@ -1,0 +1,1 @@
+[{"commit":{"message":"build: update to JDK 15.0.1"},"files":[{"filename":"bots\/cli\/build.gradle"},{"filename":"buildSrc\/images\/src\/main\/java\/org\/openjdk\/skara\/gradle\/images\/DownloadJDKTask.java"},{"filename":"cli\/build.gradle"},{"filename":"deps.env"}],"sha":"f5f30956f65dcc0f4bbcca17ebde377eac4a113c"}]
