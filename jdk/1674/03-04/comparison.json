@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -421,0 +421,1 @@\n+  guarantee(UnlockDiagnosticVMOptions, \"Checked during initial parsing\");\n@@ -426,1 +427,0 @@\n-  guarantee(UnlockDiagnosticVMOptions, \"Checked during initial parsing\");\n","filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
