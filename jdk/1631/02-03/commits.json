@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257772: Changing the default value for UseXMMForObjInit and UseFastStosb flags."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/ClearMemory.java"}],"sha":"af1bf7551007b79052044852114b51869a46d71f"}]
