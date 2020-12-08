@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -371,1 +371,1 @@\n-    log_warning(logging)(\"Options are specified more than the max number in -Xlog.\");\n+    log_warning(logging)(\"Ignoring excess -Xlog options: \\\"%s\\\"\", str);\n","filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
