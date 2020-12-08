@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -322,1 +322,1 @@\n-     * @throws UnsupportedOperationException if the implementation\n+     * @throws    UnsupportedOperationException if the implementation\n","filename":"src\/java.base\/share\/classes\/java\/security\/KeyStoreSpi.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
