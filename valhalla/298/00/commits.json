@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257579: [lworld] C2 compilation fails because ret_addr_offset() is not within emitted code"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"},{"filename":"src\/hotspot\/share\/opto\/output.cpp"}],"sha":"b682870cd03abe58897e401befa51efc8d5db5a5"}]
