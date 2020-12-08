@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only main thread needs to be resumed in EARelockingObjectCurrentlyWaitingOn."},"files":[{"filename":"test\/jdk\/com\/sun\/jdi\/EATests.java"}],"sha":"ce12877ff3068d59854a05800fb81c754bdb26e6"}]

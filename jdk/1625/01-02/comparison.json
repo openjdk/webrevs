@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2112,1 +2112,1 @@\n-                env.vm().resume();\n+                env.targetMainThread.resume();\n","filename":"test\/jdk\/com\/sun\/jdi\/EATests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
