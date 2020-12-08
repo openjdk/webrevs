@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257832: [lworld] C2 compilation fails with assert(_base == AryPtr) failed: Not an array pointer"},"files":[{"filename":"src\/hotspot\/share\/opto\/parse2.cpp"},{"filename":"src\/hotspot\/share\/opto\/type.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorldProfiling.java"}],"sha":"df975b73b5c67ed40ed9c2b7ccf7484b531f3a12"}]
