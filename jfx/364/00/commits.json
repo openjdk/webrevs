@@ -1,0 +1,1 @@
+[{"commit":{"message":"Initialize scene of embedded windows before updating output scales, including test"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/stage\/Window.java"},{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/embed\/swing\/JFXPanelHiDPITest.java"}],"sha":"8c81e31733f12df314726eed1e95458898588124"}]
