@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n- * @param <E> The enum class subclass\n+ * @param <E> The type of the enum subclass\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Enum.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
