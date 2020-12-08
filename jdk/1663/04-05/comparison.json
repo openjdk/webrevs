@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-  assert(x > T(0), \"value must be > 0\");\n+  assert(value > T(0), \"value must be > 0\");\n","filename":"src\/hotspot\/share\/utilities\/powerOfTwo.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
