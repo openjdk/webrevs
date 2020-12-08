@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,1 +160,1 @@\n-                                    <version>3.0<\/version>\n+                                    <version>3.2<\/version>\n@@ -289,4 +289,0 @@\n-    <prerequisites>\n-        <maven>3.2<\/maven>\n-    <\/prerequisites>\n-\n","filename":"pom.xml","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
