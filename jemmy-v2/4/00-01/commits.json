@@ -1,0 +1,1 @@
+[{"commit":{"message":"closing of the internal frame is actually unnecessary, as the windoe is closed in the teardown anyway"},"files":[{"filename":"test\/org\/netbeans\/jemmy\/operators\/JInternalFrameOperatorCloseTest.java"}],"sha":"bc4a2b55be2061f023489406b1058605afe35898"}]

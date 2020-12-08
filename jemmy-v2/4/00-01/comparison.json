@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,4 +95,0 @@\n-        } finally {\n-            \/\/ Really closing the frame this time\n-            internalFrame.done = true;\n-            internalFrameOper.close();\n","filename":"test\/org\/netbeans\/jemmy\/operators\/JInternalFrameOperatorCloseTest.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
