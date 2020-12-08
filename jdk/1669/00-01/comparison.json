@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run testng Test8242258\n+ * @run testng UriTests\n@@ -40,1 +40,1 @@\n-public class Test8242258 {\n+public class UriTests {\n","filename":"test\/jdk\/jdk\/internal\/jrtfs\/UriTests.java","additions":2,"deletions":2,"binary":false,"changes":4,"previous_filename":"test\/jdk\/jdk\/internal\/jrtfs\/Test8242258.java","status":"renamed"}]}
