@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-        size_t actual = os::page_size_for_region_unaligned(expected - 17, 1);\n+        size_t actual = os::page_size_for_region_unaligned(s - 17, 1);\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8257588: Fix bug @ ln104\n\nCompare actual = next_smaller(s)\nto (s - 17) instead of actual\n\nSigned-off-by: Marcus G K Williams <marcus.williams@intel.com>"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp"}],"sha":"0af7df1c8fd106432100ecafd1126594c7b1cf9f"}]
