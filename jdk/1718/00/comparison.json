@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -692,1 +692,0 @@\n-        Integer[] nelems = new Integer[endIndex - beginIndex];\n@@ -694,1 +693,0 @@\n-            nelems[i-beginIndex] = sb.length();\n","filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsPath.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
