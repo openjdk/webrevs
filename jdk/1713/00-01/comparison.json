@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -604,1 +604,1 @@\n-  if (EnableJVMCI) {\n+  if (EnableJVMCI && UseJVMCICompiler) {\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
