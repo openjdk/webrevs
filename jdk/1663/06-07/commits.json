@@ -1,0 +1,1 @@
+[{"commit":{"message":"Issue with using count_trailing_zeros with 64-bit values on 32-bit, revert and add TODO"},"files":[{"filename":"src\/hotspot\/share\/utilities\/powerOfTwo.hpp"}],"sha":"e2332fb1a9792ecf03441cc686e4f798ca339ee5"}]
