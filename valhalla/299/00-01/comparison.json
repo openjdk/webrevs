@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2231,1 +2231,0 @@\n-  assert(EnableValhalla, \"should only be used if inline types are enabled\");\n","filename":"src\/hotspot\/share\/opto\/macro.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
