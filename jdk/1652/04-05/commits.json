@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix a corner case. won't treat it as an error if it's dead of string."},"files":[{"filename":"src\/hotspot\/share\/compiler\/methodMatcher.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/commands\/OptionTest.java"}],"sha":"13e5be3fd5843315463864f10b63ca497cac4c7d"}]
