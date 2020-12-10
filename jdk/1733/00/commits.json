@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add argument profiling for ScopedMemoryAccess\nAdd benchmark"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.hpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/foreign\/LoopOverPollutedBuffer.java"}],"sha":"6930acb9c358835061ab8264e014a590c5ef1a11"}]
