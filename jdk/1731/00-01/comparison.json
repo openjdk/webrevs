@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -206,1 +206,1 @@\n-        -p $WINENV_PREFIX_ARG -r ${WINENV_ROOT\/\\\\\/\\\\\\\\}  -t $WINENV_TEMP_DIR \\\n+        -p $WINENV_PREFIX_ARG -r ${WINENV_ROOT\/\/\\\\\/\\\\\\\\}  -t $WINENV_TEMP_DIR \\\n","filename":"make\/autoconf\/basic_windows.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
