@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-  const JfrSamplerParams& next_window_params(const JfrSamplerWindow* expired) override;\n+  const JfrSamplerParams& next_window_params(const JfrSamplerWindow* expired);\n","filename":"src\/hotspot\/share\/jfr\/recorder\/service\/jfrEventThrottler.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
