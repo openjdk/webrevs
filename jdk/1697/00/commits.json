@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8193234: When using -Xcheck:jni an internally allocated buffer can leak\"\n\nThis reverts commit 3e904a4801b2bf2e988ba096e5cb64a17fd5fce7."},"files":[{"filename":"src\/hotspot\/share\/prims\/jniCheck.cpp"}],"sha":"04844454dd6032f4255c19231e5f188133cdd649"}]
