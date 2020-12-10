@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258026: [lworld] Endless deoptimization at defaultvalue due to unresolved klass"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciTypeFlow.cpp"},{"filename":"src\/hotspot\/share\/opto\/parseHelper.cpp"}],"sha":"95fe3cb7d779b3724e654330bc8636e56b7334ea"}]
