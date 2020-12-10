@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-            } catch (@T8257740_2_Anno Exception e) { \/\/ multi-catch\n+            } catch (@T8257740_2_Anno Exception | Error e) { \/\/ multi-catch\n","filename":"test\/langtools\/tools\/javac\/T8257740\/T8257740_2.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
