@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -272,1 +272,1 @@\n-        String[] split = s.split(\"[\\\\\/]\");\n+        String[] split = s.split(\"\/\");\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/Utils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
