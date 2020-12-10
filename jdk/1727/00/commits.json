@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258015: [JVMCI] JVMCI_lock shouldn't be held while initializing box classes"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmci.cpp"}],"sha":"c005fb794c1e6259ce9e5ab1c6741250debf21c3"}]
