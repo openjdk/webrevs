@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-def es2EglfbCFlags = [extraCFlags, \"-DIS_EGLFB\", \"-DLINUX\"].flatten()\n+def es2EglfbCFlags = [extraCFlags, \"-DIS_EGLFB\", \"-DLINUX\", \"-D_GNU_SOURCE\"].flatten()\n","filename":"buildSrc\/armv6hf.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
