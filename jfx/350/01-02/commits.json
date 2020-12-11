@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move fix to the ARM build file instead of the code"},"files":[{"filename":"buildSrc\/armv6hf.gradle"},{"filename":"modules\/javafx.graphics\/src\/main\/native-prism-es2\/monocle\/MonocleGLFactory.c"}],"sha":"2d044e75a37f4d781b8df43c6d3e4dfdb8466151"}]
