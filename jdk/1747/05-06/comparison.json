@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,1 +118,1 @@\n-         count_trailing_zeros_32(x) :\n+         count_trailing_zeros_32(static_cast<uint32_t>(x)) :\n","filename":"src\/hotspot\/share\/utilities\/count_trailing_zeros.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
