@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,1 +97,1 @@\n-      _BitScanForward(&index, v >> 32);\n+      _BitScanForward(&index, ((uint64_t)v) >> 32);\n","filename":"src\/hotspot\/share\/utilities\/count_trailing_zeros.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
