@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-    public static final MethodHandle SEGMENT_FILTER;\n+    private static final MethodHandle SEGMENT_FILTER;\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/Utils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
