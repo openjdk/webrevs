@@ -1,0 +1,1 @@
+[{"commit":{"message":"Concurrent mark does not expect forwarded objects"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentMark.cpp"}],"sha":"0cb404dbf36f75a2843cf07d69017034ca04d7d0"}]
