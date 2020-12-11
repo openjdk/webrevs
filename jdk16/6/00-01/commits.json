@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore MethodData::_creation_mileage behavior"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciMethodData.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciMethodData.hpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.hpp"}],"sha":"c091e6702ea86c95b1b9782f85dfefaaeeca7c2b"}]
