@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257598: Clarify what component values are used in Record::equals"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Record.java"},{"filename":"test\/langtools\/tools\/javac\/records\/mandated_members\/CheckEqualityIsBasedOnFields.java"}],"sha":"73e8ad5fa1f981a2d04dc087a57a60d2481e5de4"}]
