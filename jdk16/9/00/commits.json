@@ -1,0 +1,1 @@
+[{"commit":{"message":"\n\n8257822: C2 crashes with SIGFPE due to a division that floats above its zero check"},"files":[{"filename":"src\/hotspot\/jtreg\/compiler\/loopopts\/TestDivZeroWithSplitIf.java"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"}],"sha":"e06c4b8269fa95a08a80e027312c47222873a233"}]
