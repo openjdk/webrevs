@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @run main\/timeout=240 MismatchedPathTriggerMemoryRelease\n+ * @run main MismatchedPathTriggerMemoryRelease\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/MismatchedPathTriggerMemoryRelease.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
