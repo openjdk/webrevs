@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n-   @requires (os.family == \"linux\" | os.family == \"solaris\")\n","filename":"test\/jdk\/javax\/swing\/JFrame\/8255880\/RepaintOnFrameIconifiedStateChangeTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
