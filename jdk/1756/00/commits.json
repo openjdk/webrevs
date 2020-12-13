@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258144: suppress messages from AdapterHandlerLibrary::create_native_wrapper if -XX:CompileCommand=quiet is set"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"3b20254acadd1b7c7c989287d88bc4afce1bb5ff"}]
