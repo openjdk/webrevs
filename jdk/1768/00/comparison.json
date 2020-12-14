@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -423,1 +423,1 @@\n-  ShenandoahMarkResolveRefsClosure cl(q, _rp);\n+  ShenandoahMarkRefsClosure cl(q, _rp);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentMark.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
