@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed os::release message to make test simply check if output containing the message"},"files":[{"filename":"src\/hotspot\/share\/runtime\/os.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/MismatchedPathTriggerMemoryRelease.java"}],"sha":"ecca6b222dd020dd56fbd8d05dcf81d5988fca21"}]
