@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-            \"\\\\R{2}\", Pattern.MULTILINE);\n+            \"(\\\\r\\\\n){2}|(\\\\n){2}\", Pattern.MULTILINE);\n","filename":"email\/src\/main\/java\/org\/openjdk\/skara\/email\/Email.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
