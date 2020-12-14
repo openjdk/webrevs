@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove use of make_unsigned, use UINT64_FORMAT_X to make sign extension stand out"},"files":[{"filename":"src\/hotspot\/share\/utilities\/powerOfTwo.hpp"}],"sha":"e21e1b7abaf5dbd2788254e92145cf050feac3e6"}]
