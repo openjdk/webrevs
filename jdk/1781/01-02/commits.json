@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove JRE_TOOL_MODULES and inline jdk.jdwp.agent in JRE definition"},"files":[{"filename":"make\/Images.gmk"},{"filename":"make\/common\/Modules.gmk"},{"filename":"make\/conf\/module-sets-classloaders.conf"}],"sha":"ef9d53cb1072b0e789344b4fb9bc89de2d7c4d50"}]
