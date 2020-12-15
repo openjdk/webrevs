@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258380: [JVMCI] don't clear InstalledCode reference when unloading JVMCI nmethods"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"}],"sha":"8c656676b69e58bf6e8005ea061c1e389f63caa2"}]
