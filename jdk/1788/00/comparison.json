@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -526,1 +526,1 @@\n-  char* p = os::reserve_memory(1 * M, mtInternal);\n+  char* p = os::reserve_memory(1 * M, false, mtInternal);\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
