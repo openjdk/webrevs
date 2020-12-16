@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,4 @@\n+            {\n+                setDaemon(true);\n+            }\n+\n","filename":"tests\/system\/src\/testapp7\/java\/mymod\/myapp7\/DataUrlWithModuleLayerLauncher.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
