@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1649,1 +1649,1 @@\n-     * {@code Type: grandfathered} in BCP47) as well as\n+     * \"Type: grandfathered\" in BCP47) as well as\n","filename":"src\/java.base\/share\/classes\/java\/util\/Locale.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
