@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258480: [lworld] Adapter creation asserts with -XX:+VerifyAdapterSharing"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/InlineTypeTest.java"}],"sha":"62ee6e5d33be3f4e7ee6a47dfd716ca3f87b2f47"}]
