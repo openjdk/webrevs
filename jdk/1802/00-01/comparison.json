@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-void VMError::reset_signal_handlers() {\n+void VMError::install_secondary_signal_handler() {\n","filename":"src\/hotspot\/os\/windows\/vmError_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
