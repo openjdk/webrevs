@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,3 @@\n-            this.currentSizeUTF16 = 0;\n+            synchronized(SimpleStringIdPool.class) {\n+                this.currentSizeUTF16 = 0;\n+            }\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/StringPool.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
