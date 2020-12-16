@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-        if (sourceRepoUrl.toLowerCase().contains(\"github.com\")) {\n+        if (pr.sourceRepository().orElseThrow().forge().name().equals(\"GitHub\")) {\n","filename":"bots\/testinfo\/src\/main\/java\/org\/openjdk\/skara\/bots\/testinfo\/TestInfoBot.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
