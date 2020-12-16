@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -679,1 +679,1 @@\n-                BlockTree b = (BlockTree)member;\n+                BlockTree b = (BlockTree) member;\n","filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/infra\/processors\/JCStressTestProcessor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
