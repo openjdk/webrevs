@@ -1,0 +1,1 @@
+[{"commit":{"message":"stubGenerator_ppc.cpp: Improve readability of the vector constant initialization\n\nUse a struct of vectors instead of a large byte array, and make the C++\ncompiler compute the offsets, using the offsetof() macro."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp"}],"sha":"f0d310762fdfd633c580585c3b847d495af2087c"}]
