@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-    private static final String deprecatedmsg = \".* deprecated.*\";\n+    private static final String deprecatedmsg = \".* VM warning:.* deprecated.*\";\n","filename":"test\/lib\/jdk\/test\/lib\/process\/OutputAnalyzer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
