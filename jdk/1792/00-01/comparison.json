@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -555,1 +555,1 @@\n-          \"from JVM\")    \\\n+          \"from JVM\")                                                       \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
