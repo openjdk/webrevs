@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,0 +178,5 @@\n+    @Override\n+    public WorkflowStatus workflowStatus() {\n+        return WorkflowStatus.DISABLED;\n+    }\n+\n","filename":"bots\/tester\/src\/test\/java\/org\/openjdk\/skara\/bots\/tester\/InMemoryHostedRepository.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
