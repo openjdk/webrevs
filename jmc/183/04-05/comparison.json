@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,0 @@\n-\n","filename":"build.bat","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"},{"patch":"@@ -68,1 +68,1 @@\n-    }  \n+    }\n@@ -303,1 +303,1 @@\n-parseArgs \"$@\"\n+parseArgs \"$@\"\n\\ No newline at end of file\n","filename":"build.sh","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
