@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -264,2 +264,0 @@\n-    ShenandoahObjToScanQueue* q = _cm->get_queue(worker_id);\n-\n@@ -267,0 +265,1 @@\n+      ShenandoahObjToScanQueue* q = _cm->get_queue(worker_id);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentMark.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
