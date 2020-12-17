@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,0 +109,1 @@\n+    private static final int EXPECTED_TEST_CASES = 25;\n@@ -181,1 +182,1 @@\n-        else if (tests != 25)\n+        else if (tests != EXPECTED_TEST_CASES)\n","filename":"test\/jdk\/java\/lang\/annotation\/typeAnnotations\/GetAnnotatedReceiverType.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
