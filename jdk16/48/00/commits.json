@@ -1,0 +1,1 @@
+[{"commit":{"message":"8225072: Add LuxTrust certificate that is expiring in March 2021 to list of allowed but expired certs 8258630: Add expiry exception for QuoVadis root certificate\n\nReviewed-by: ascarpino"},"files":[{"filename":"test\/jdk\/sun\/security\/lib\/cacerts\/VerifyCACerts.java"}],"sha":"8633372cdf9b8e91f620452652b63d946f7b509f"}]
