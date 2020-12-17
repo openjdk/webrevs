@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -339,0 +339,1 @@\n+        CHECK_EXCEPTION();\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/JavaComponentAccessibility.m","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
