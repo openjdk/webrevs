@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,1 @@\n-     * @param other the object to compare with.\n+     * @param oth the object to compare with.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Signal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
