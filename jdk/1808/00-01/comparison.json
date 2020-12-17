@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -205,1 +205,1 @@\n-\/\/ ClassLoader::_sync_nonSystemLoaderLockConteionRate.\n+\/\/ ClassLoader::_sync_nonSystemLoaderLockContentionRate.\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
