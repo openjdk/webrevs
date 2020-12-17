@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258396: SIGILL in jdk.jfr.internal.PlatformRecorder.rotateDisk()"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/storage\/jfrStorage.cpp"}],"sha":"e3147c7e66fffdc8683d6cc7f66482934b15097f"}]
