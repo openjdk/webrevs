@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,1 +194,1 @@\n-    private void reset() {\n+    public void reset() {\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/EventWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
