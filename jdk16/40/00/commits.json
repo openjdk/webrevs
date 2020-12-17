@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258259: Unicode linebreak matching behavior is incorrect; backout JDK-8235812"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/regex\/Pattern.java"},{"filename":"test\/jdk\/java\/util\/regex\/RegExTest.java"}],"sha":"119400a87713b465b403b3d0413d63001c400d5c"}]
