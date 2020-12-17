@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,3 @@\n+        if (0 == output.getExitValue()) {\n+            throw new RuntimeException(\"Expected error but got exit value 0\");\n+        }\n","filename":"test\/jdk\/java\/lang\/instrument\/NegativeAgentRunner.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
