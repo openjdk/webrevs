@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-     * The MD5 digest used by this class to create type 3 (name based).\n+     * The MD5 digest used by this class to create type 3 (name based) UUIDs.\n","filename":"src\/java.base\/share\/classes\/java\/util\/UUID.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
