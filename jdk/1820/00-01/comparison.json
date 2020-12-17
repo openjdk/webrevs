@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-  \/\/ SATB is only active during marking.  Enqueuing is not done when inactive.\n+  \/\/ SATB is only active during marking.  Enqueuing is only done when active.\n","filename":"src\/hotspot\/share\/gc\/shared\/satbMarkQueue.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
