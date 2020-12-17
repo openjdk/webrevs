@@ -1,0 +1,1 @@
+[{"commit":{"message":"8213032: program fails with LambdaConversionException at execution time"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/LambdaToMethod.java"},{"filename":"test\/langtools\/tools\/javac\/lambda\/methodReferenceExecution\/MethodReferenceIntersection4.java"}],"sha":"4d8ef5d826b4ab6e240de161ab4473174c46edff"}]
