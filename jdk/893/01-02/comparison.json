@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,0 @@\n-    public static final String XHTML_VERSION_PREFIX = \"-XhtmlVersion:\";\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/doclint\/DocLint.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257204 and 8256313\n8257204: Remove usage of -Xhtmlversion option from javac\n8256313: JavaCompilation.gmk needs to be updated not to use --doclint-format html5 option"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/doclint\/DocLint.java"}],"sha":"30db38823c4f94f804cb8fa1abbca3e1b6438a44"}]
