@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -377,1 +377,1 @@\n-extern int vec_spill_helper(CodeBuffer *cbuf, bool is_load,\n+extern void vec_spill_helper(CodeBuffer *cbuf, bool is_load,\n","filename":"src\/hotspot\/cpu\/x86\/gc\/z\/zBarrierSetAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
