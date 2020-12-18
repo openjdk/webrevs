@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3586,1 +3586,0 @@\n-    call->_bci               = _bci;\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
