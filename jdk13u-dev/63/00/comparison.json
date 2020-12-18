@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3836,0 +3836,1 @@\n+#if INCLUDE_JFR\n@@ -3840,1 +3841,3 @@\n-    } else {\n+    } else\n+#endif\n+    {\n","filename":"src\/hotspot\/share\/prims\/jni.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
