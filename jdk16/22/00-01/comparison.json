@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1229,1 +1229,1 @@\n-        Block *original_block = find_block_for_node(n->in(0));\n+        Block* original_block = find_block_for_node(n->in(0));\n","filename":"src\/hotspot\/share\/opto\/block.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
