@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,1 @@\n-                System.out.format(\"doit %d: gc %d%n\", iter, i);\n+                System.out.println(\"doit() iter: \" + iter + \", gc \" + i);\n","filename":"test\/lib\/jdk\/test\/lib\/util\/ForceGC.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
