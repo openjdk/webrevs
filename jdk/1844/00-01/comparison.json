@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -476,1 +476,1 @@\n-  _thread->_threads_hazard_ptr = NULL;\n+  Atomic::store(&_thread->_threads_hazard_ptr, (ThreadsList*)NULL);\n","filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
