@@ -1,0 +1,1 @@
+[{"commit":{"message":"In largeHeapAbove32GTest we have a klass shift of 3 on OSX too."},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedClassPointers.java"}],"sha":"1f7195deb67fc276a8a17d539c285267d4dde527"}]
