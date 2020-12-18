@@ -1,0 +1,1 @@
+[{"commit":{"message":"Limit number of fields in instance to be considered for scalar replacement"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"},{"filename":"src\/hotspot\/share\/opto\/escape.cpp"}],"sha":"84c73d09e93689e89d9c135b7b8be86d43ecc373"}]
