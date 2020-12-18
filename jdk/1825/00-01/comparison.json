@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-  inline ReservedSpace first_part(size_t partition_size\/*, bool split = false*\/);\n+  inline ReservedSpace first_part(size_t partition_size);\n","filename":"src\/hotspot\/share\/memory\/virtualspace.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
