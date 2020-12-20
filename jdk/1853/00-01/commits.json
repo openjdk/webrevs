@@ -1,0 +1,1 @@
+[{"commit":{"message":"8080272: Refactor I\/O stream copying to use java.io.InputStream.transferTo\nrevert changes in JrtPath. They compiled with java 8 language level"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/jrtfs\/JrtPath.java"}],"sha":"90b1a4559df56cb4c1c1685d7aed1433ae242883"}]
