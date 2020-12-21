@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,3 +115,0 @@\n-\t\t\t<activation>\n-\t\t\t\t<activeByDefault>true<\/activeByDefault>\n-\t\t\t<\/activation>\n@@ -139,0 +136,3 @@\n+\t\t\t<activation>\n+\t\t\t\t<activeByDefault>true<\/activeByDefault>\n+\t\t\t<\/activation>\n","filename":"pom.xml","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
