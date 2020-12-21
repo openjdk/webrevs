@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -710,1 +710,1 @@\n-    \/\/ allowed mapping address for efficient encoding of compressed class pointers.\n+    \/\/ allowed mapping address.\n","filename":"src\/hotspot\/share\/memory\/metaspace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
