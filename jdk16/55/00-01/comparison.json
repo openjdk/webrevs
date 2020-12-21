@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,0 +108,1 @@\n+    case full_gc_weakrefs_process:\n@@ -111,0 +112,1 @@\n+    case degen_gc_weakrefs_process:\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPhaseTimings.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
