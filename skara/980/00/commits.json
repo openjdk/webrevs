@@ -1,0 +1,1 @@
+[{"commit":{"message":"\"java.se\" matches \"java.security.jgss\" as well\n\ncore-libs does not need to care about these security-related modules."},"files":[{"filename":"config\/mailinglist\/rules\/jdk.json"}],"sha":"441ef9639d72658e41632d89704ef8be34c72f6b"}]
