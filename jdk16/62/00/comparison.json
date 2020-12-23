@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,2 @@\n-  do {\n+  \/\/ The in-use list head can be NULL during the final audit.\n+  while (m != NULL) {\n@@ -157,1 +158,1 @@\n-  } while (m != NULL);\n+  }\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
