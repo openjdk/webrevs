@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -639,5 +639,0 @@\n-.B \\f[CB]\\-\\-help\\-lint\\f[R]\n-Print the supported keys of option \\-Xlint.\n-.RS\n-.RE\n-.TP\n","filename":"src\/jdk.compiler\/share\/man\/javac.1","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
