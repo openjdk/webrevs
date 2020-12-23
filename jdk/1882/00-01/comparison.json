@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -533,1 +533,0 @@\n-#ifdef ASSERT\n@@ -538,1 +537,0 @@\n-#endif\n","filename":"src\/hotspot\/share\/c1\/c1_Runtime1.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
