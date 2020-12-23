@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -260,1 +260,0 @@\n-#ifdef ASSERT\n@@ -266,1 +265,0 @@\n-#endif\n","filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
