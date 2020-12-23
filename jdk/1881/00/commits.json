@@ -1,0 +1,1 @@
+[{"commit":{"message":"8239596: PARAMETER annotation on receiver type does not cause error"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/8239596\/T8239596.java"}],"sha":"a3b59573038a3ef01fe3f6554500aeb917a49744"}]
