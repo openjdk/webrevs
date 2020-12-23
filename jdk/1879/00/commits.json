@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258837: Remove JVM option DisableStartThread"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"371f37812703fe331b3735d6fdc5e3eee62012ef"}]
