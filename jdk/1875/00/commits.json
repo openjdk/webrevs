@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258186: Replace use of JNI_COMMIT mode with mode 0\n\nReplaced JNI_COMMIT with 0 for all ReleasePrimitiveArrayCritical calls"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/p11_crypt.c"}],"sha":"677f38ffba6c2b432057bccc3d852bd55998a06b"}]
