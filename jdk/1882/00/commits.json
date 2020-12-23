@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258839: Remove JVM option ExitVMOnVerifyError"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_Runtime1.cpp"},{"filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"9397d7f2aab426da4e222842a713e9866da271cd"}]
