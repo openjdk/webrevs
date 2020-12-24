@@ -1,0 +1,1 @@
+[{"commit":{"message":"8226216: parameter modifiers are not visible to javac plugins across compilation boundaries"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"},{"filename":"test\/langtools\/tools\/javac\/classreader\/8226216\/T8226216.java"}],"sha":"f064d8e81d775419915561520f5171cce5568c4b"}]
