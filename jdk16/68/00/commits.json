@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8258916: javac reports broken HTML on multiline mailto links"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/DocCommentParser.java"},{"filename":"test\/langtools\/tools\/doclint\/HtmlAttrsTest.java"}],"sha":"82149688a09e9c93e561bade36db3ff760de0dac"}]
