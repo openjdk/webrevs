@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n-#include \"runtime\/globals_shared.hpp\"\n+#include \"compiler\/compiler_globals_pd.hpp\"\n","filename":"src\/hotspot\/share\/compiler\/compiler_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
