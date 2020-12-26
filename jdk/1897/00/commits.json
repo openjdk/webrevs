@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use unbounded wildcard placeholders and final safe but unchecked cast"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/ref\/Reference.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/ref\/ReferenceQueue.java"}],"sha":"ff250a196b7c8743949e59e61f36133be4a5a658"}]
