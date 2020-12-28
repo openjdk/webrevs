@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1458,2 +1458,0 @@\n-  DUIterator_Last (const DUIterator_Last& that) : DUIterator_Fast(that) {}\n-\n@@ -1471,3 +1469,0 @@\n-\n-  void operator=(const DUIterator_Last& that)\n-    { DUIterator_Fast::operator=(that); }\n","filename":"src\/hotspot\/share\/opto\/node.hpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
