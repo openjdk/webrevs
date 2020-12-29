@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix direct buffer slice"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template"},{"filename":"test\/jdk\/java\/nio\/Buffer\/ByteBufferViews.java"}],"sha":"898e9ac6fade3bc1735bf8083eb822bfd33fbfbf"}]
