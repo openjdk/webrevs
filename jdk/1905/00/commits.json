@@ -1,0 +1,1 @@
+[{"commit":{"message":"8173165: javac should reject references to enum constants from nested classes inside instance initializers"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/enum\/forwardRef\/T8173165.java"}],"sha":"e970ad523dc8dda69f878abe57e3b7fd4e84bdd2"}]
