@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255757: Javac emits duplicate pool entries on array::clone"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"},{"filename":"test\/langtools\/tools\/javac\/classfiles\/T8255757\/T8255757.java"}],"sha":"ccad077d8d2c6686c552342113afc9c5754f8489"}]
