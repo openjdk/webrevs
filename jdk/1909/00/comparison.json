@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1439,1 +1439,1 @@\n-      int num_elem_for_resize = MAX2(num_elem_to, Matcher::min_vector_size(elem_bt_to));\n+      int num_elem_for_resize = MAX2(num_elem_to, Matcher::min_vector_size(elem_bt_from));\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
