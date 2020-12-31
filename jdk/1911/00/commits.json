@@ -1,0 +1,1 @@
+[{"commit":{"message":"G1 heap summary should be shown in \"Heap Parameters\" window on HSDB"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/gc\/g1\/G1CollectedHeap.java"},{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/tools\/HeapSummary.java"}],"sha":"4d8d484fc8fa86bceafa32a26c1dd8fe9677c5ac"}]
