@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259020: null-check of g1 write_ref_field_pre_entry is not necessary"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1BarrierSetRuntime.cpp"}],"sha":"99cbe6e4f264809fc164f4151807b3c7cb66d10b"}]
