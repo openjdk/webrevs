@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use basic Base64 encoder and use HttpUrlConnection.disconnect to close resources"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/OCSP.java"}],"sha":"8f0cfeb02f626961563402063a5898dbd095efff"}]
