@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -229,1 +229,1 @@\n-    assert(_start != _end, \"empty range\");\n+    assert(size() > 0, \"empty range\");\n","filename":"src\/hotspot\/share\/utilities\/enumIterator.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
