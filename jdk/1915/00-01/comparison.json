@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -205,0 +205,1 @@\n+                        target.put(cbuf, 0, n);\n","filename":"src\/java.base\/share\/classes\/java\/io\/Reader.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
