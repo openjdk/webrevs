@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -417,3 +417,1 @@\n-        } catch (IllegalAccessException e) {\n-            throw new InternalError(e);\n-        }\n+        } catch (IllegalAccessException e) {}\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/SharedSecrets.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
