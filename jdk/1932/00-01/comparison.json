@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4190,5 +4190,0 @@\n-  const long precision = 0x20;\n-  const long underflow = 0x10;\n-  const long overflow  = 0x08;\n-  const long zero_div  = 0x04;\n-  const long denorm    = 0x02;\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
