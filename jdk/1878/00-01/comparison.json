@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n- * @run main bug8031573\n+ * @run main\/manual bug8031573\n","filename":"test\/jdk\/javax\/swing\/JMenuItem\/8031573\/bug8031573.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

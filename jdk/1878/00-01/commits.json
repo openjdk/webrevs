@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update bug8031573.java\n\nCorrected the jtreg tag from @run main bug8031573 to @run main\/manual bug8031573 to make this test as a manual test."},"files":[{"filename":"test\/jdk\/javax\/swing\/JMenuItem\/8031573\/bug8031573.java"}],"sha":"5f1ab6ea240122a1302ba251267d588e5f1a45c4"}]
