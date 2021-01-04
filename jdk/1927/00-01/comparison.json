@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,2 +50,1 @@\n-            System.out.println(\"No printers. Test cannot continue\");\n-            return;\n+            throw new RuntimeException(\"No printer found\");\n","filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/LandscapeStackOverflow.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
