@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -153,1 +153,1 @@\n-      address last_addr;\n+      address last_addr = NULL;\n","filename":"src\/hotspot\/share\/opto\/constantTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
