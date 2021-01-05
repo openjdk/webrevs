@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259224: (ann) getAnnotatedReceiverType should not parameterize owner(s) of statically nested classes"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/Executable.java"},{"filename":"test\/jdk\/java\/lang\/annotation\/typeAnnotations\/TestReceiverTypeSort.java"}],"sha":"dc764ce916a906570acaa443aa64554a27d190e7"}]
