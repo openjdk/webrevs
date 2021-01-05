@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9603,1 +9603,1 @@\n-    __ btrq($dst$$Address, log2i_exact(~$con$$constant));\n+    __ btrq($dst$$Address, log2i_exact((julong)~$con$$constant));\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
