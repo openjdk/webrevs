@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259232: Bad JNI lookup during printing"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/CPrinterJob.m"},{"filename":"test\/jdk\/java\/awt\/print\/bug8023392\/bug8023392.java"}],"sha":"15d63e96d23f5391558d88920b0a961db8d20c48"}]
