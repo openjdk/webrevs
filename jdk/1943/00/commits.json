@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259228: Zero: rewrite (put|get)field from if-else chains to switches"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreter.cpp"}],"sha":"7a74a3cd2da0f5b048800b72ab5b1923da038f52"}]
