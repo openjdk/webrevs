@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3788,1 +3788,1 @@\n-                        if (!PLATFORM_DRAG_GESTURE_INITIATION) {\n+                        if (!PLATFORM_DRAG_GESTURE_INITIATION && Scene.this.dndGesture == null) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/Scene.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
