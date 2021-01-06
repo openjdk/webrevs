@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -465,1 +465,1 @@\n-     * (inclusive) and 255 (inclusive).\n+     * (inclusive) and 127 (inclusive).\n","filename":"src\/java.base\/share\/classes\/java\/util\/random\/RandomGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
