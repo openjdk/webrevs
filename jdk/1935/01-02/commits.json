@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move locking into function where exclusive access is needed."},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"}],"sha":"9b250606f60bc923f219263ca3415a28bc2d28ae"}]
