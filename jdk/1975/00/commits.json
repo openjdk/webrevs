@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259375: JvmtiExport::jni_Get\/SetField_probe calls do not need ResetNoHandleMark"},"files":[{"filename":"src\/hotspot\/share\/prims\/jni.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"c33b3c2e01e6314de5cc9af8a377a9fdd24fe699"}]
