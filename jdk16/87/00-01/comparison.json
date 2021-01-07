@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-\/\/ Java agent that emits in multiple threads\n+\/\/ Java agent that emits events\n","filename":"test\/jdk\/jdk\/jfr\/javaagent\/EventEmitterAgent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
