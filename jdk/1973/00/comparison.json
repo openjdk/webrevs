@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-#define COMPRESSED_CLASS_POINTERS_DEPENDS_ON_COMPRESSED_OOPS true\n+#define COMPRESSED_CLASS_POINTERS_DEPENDS_ON_COMPRESSED_OOPS false\n","filename":"src\/hotspot\/cpu\/zero\/globalDefinitions_zero.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
