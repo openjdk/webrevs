@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -279,2 +279,1 @@\n-        counter.incrementAndGet();\n-        return \"JFR Event Stream \" + counter;\n+        return \"JFR Event Stream \" + counter.incrementAndGet();\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/consumer\/AbstractEventStream.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
