@@ -1,0 +1,1 @@
+[{"commit":{"message":"8039278: update TEST.groups to remove console.sh"},"files":[{"filename":"test\/jdk\/TEST.groups"}],"sha":"eb384383f4c32dfa6f9332abd3a1534a8b1dfeae"},{"commit":{"message":"8039278: console.sh failed Automatically with exit code 1"},"files":[{"filename":"test\/jdk\/sun\/security\/tools\/keytool\/console.sh"}],"sha":"32e7a337527d91e1087320d336425a70beb74091"}]
