@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259373: c1 and jvmci runtime code use ResetNoHandleMark incorrectly"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_Runtime1.cpp"},{"filename":"src\/hotspot\/share\/code\/compiledMethod.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"}],"sha":"fa33a7ee9263374a9e7bfa009f40fa2fd460015f"}]
