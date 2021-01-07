@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1072,1 +1072,1 @@\n-            return 31*31 + type.hashCode()*31 + algorithm.hashCode();\n+            return type.hashCode() * 31 + algorithm.hashCode();\n","filename":"src\/java.base\/share\/classes\/java\/security\/Provider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
