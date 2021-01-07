@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1373,1 +1373,1 @@\n-    generate_counter_incr(&invocation_counter_overflow, NULL, NULL);\n+    generate_counter_incr(&invocation_counter_overflow);\n","filename":"src\/hotspot\/cpu\/s390\/templateInterpreterGenerator_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
