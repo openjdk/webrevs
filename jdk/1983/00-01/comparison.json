@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -292,1 +292,1 @@\n-\/\/ NoHandleMark.  Thread in _thread_in_native must not create handles so\n+\/\/ NoHandleMark. A thread in _thread_in_native must not create handles so\n","filename":"src\/hotspot\/share\/runtime\/handles.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
