@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259380: Correct pretouch chunk size to cap with actual page size"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/pretouchTask.cpp"}],"sha":"cc0597707942d15dc301e7e63465b0cac41e5402"}]
