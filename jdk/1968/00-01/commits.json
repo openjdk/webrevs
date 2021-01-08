@@ -1,0 +1,1 @@
+[{"commit":{"message":"Shutdown sockets to prevent leak"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketImpl.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/TransportContext.java"}],"sha":"c1d2969f9492d6228d5d0e42122798ca6da46d7f"}]
