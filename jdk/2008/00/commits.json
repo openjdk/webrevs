@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259482: jni_Set\/GetField_probe are the same as their _nh versions"},"files":[{"filename":"src\/hotspot\/share\/prims\/jni.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.hpp"}],"sha":"af2c28d1bfcce3817cd6b21fc487c1d3cd981f58"}]
