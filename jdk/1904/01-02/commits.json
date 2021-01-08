@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow jfr tool to show metadata without a recording"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/tool\/Metadata.java"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/tool\/PrettyWriter.java"}],"sha":"81a61405d21143202db26c90ff9b24e4c636261e"}]
