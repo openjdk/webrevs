@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -718,2 +718,0 @@\n-  \/* notice: the max range value here is max_jint, not max_intx  *\/         \\\n-  \/* because of overflow issue                                   *\/         \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
