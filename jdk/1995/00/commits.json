@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259214: MetaspaceClosure support for Arrays of MetaspaceObj"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspaceClosure.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_metaspaceClosure.cpp"}],"sha":"c432f190a6d8235da6a692dcf2c4c0478cafa2d7"}]
