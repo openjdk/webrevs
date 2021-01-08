@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -209,1 +209,1 @@\n-  \/\/ the fields inside T, so you should embed any MetaspaceObj pointers inside T.\n+  \/\/ the fields inside T, so you should not embed any MetaspaceObj pointers inside T.\n","filename":"src\/hotspot\/share\/memory\/metaspaceClosure.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
