@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'JDK-8259349' into JDK-8226416"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"eca5066b496bce0bb7c81fcf3fcf2d09c487181a"},{"commit":{"message":"Fix build error on windows."},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"5b57bd9ce3753432b39f591497339c015209651c"}]
