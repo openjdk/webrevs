@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -155,1 +155,1 @@\n-      winpath=\"$($PATHTOOL -w \"$path.exe\" 2>\/dev\/null)\"\n+      winpath=\"$($PATHTOOL -w \"$unixpath\" 2>\/dev\/null)\"\n","filename":"make\/scripts\/fixpath.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
