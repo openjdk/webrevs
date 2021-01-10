@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,3 +67,0 @@\n-\t\tif (true) {\n-\t\t\treturn;\n-\t\t}\n","filename":"agent\/src\/test\/java\/org\/openjdk\/jmc\/agent\/converters\/test\/TestConverterTransforms.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
