@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1703,1 +1703,0 @@\n-                throw (SocketException)cause;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketImpl.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
