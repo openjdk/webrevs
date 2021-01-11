@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -227,1 +227,0 @@\n-            b.removeMouseListener(listener);\n","filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaButtonUI.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
