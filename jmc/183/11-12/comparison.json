@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,1 @@\n-       printf \"%s\\n\" \"You can nor run agent by calling \\\"${PROGNAME} --runAgentExample\\\"\"\n+       printf \"%s\\n\" \"You can now run agent by calling \\\"${PROGNAME} --runAgentExample or --runAgentConverterExample\\\"\"\n","filename":"build.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
