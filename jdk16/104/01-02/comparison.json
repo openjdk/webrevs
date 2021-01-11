@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -479,0 +479,2 @@\n+      \/\/ Clear the exception associated with errors like UnsupportedClassVersionError\n+      \/\/ or NoSuchMethodError so that CDS dumping can continue.\n","filename":"src\/hotspot\/share\/classfile\/classListParser.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
