@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,2 @@\n-           } else { \\\n+           } \\\n+       } else { \\\n@@ -46,1 +47,0 @@\n-              } \\\n","filename":"src\/java.desktop\/macosx\/native\/libosxapp\/JNIUtilities.h","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
