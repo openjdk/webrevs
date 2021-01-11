@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -205,0 +205,4 @@\n+\n+#ifndef ZERO\n+  \/\/ Some Zero platforms do not have expected alignment, and do not use\n+  \/\/ this code. static_assert would still fire and fail for them.\n@@ -206,0 +210,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/ci\/ciMethodData.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
