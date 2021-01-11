@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert signal handler changes, which will be fixed in JDK-8259539."},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/os_linux_aarch64.cpp"}],"sha":"7bd8bcb52d235f92457f8ad1b40176d5954289fc"}]
