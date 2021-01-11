@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259572: [test] Fix SSL tests after JDK-8237578 to properly handle SocketExceptions"},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/InvalidSSLContextTest.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/SSLSession\/TestEnabledProtocols.java"}],"sha":"950af6d6dc911ae600e3c5984dda48f6acc20215"}]
