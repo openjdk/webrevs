@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-        \/\/check proper diagnostics when zip\/jar FS not present:\n+        \/\/check proper diagnostics when doclint provider not present:\n","filename":"test\/langtools\/tools\/javac\/doclint\/LimitedImage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
