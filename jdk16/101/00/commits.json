@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8259061: C2: assert(found) failed: memory-writing node is not placed in its original loop or an ancestor of it\n\nRemove assertion that is too general, that is, it can fail on compilations where\nC2 generates correct code otherwise."},"files":[{"filename":"src\/hotspot\/share\/opto\/block.cpp"}],"sha":"1296329862bee3819a8440450d7c1eaf441cdcdd"}]
