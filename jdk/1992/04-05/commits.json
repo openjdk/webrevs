@@ -1,0 +1,1 @@
+[{"commit":{"message":"change AvgMonitorsPerThreadEstimate from int to size_t and _in_use_list_ceiling from jint to size_t."},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"7737506c95b6e59caa2d928f8192ac02449f1eec"}]
