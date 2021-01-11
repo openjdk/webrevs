@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,0 +111,2 @@\n+  $(BUILD_LIBOSXAPP): $(call FindLib, java.base, java)\n+\n","filename":"make\/modules\/java.desktop\/Lib.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
