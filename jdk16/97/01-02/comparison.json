@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-  \/\/ Chunk size should be at least (unmodified) page size as using multiple threads \n+  \/\/ Chunk size should be at least (unmodified) page size as using multiple threads\n","filename":"src\/hotspot\/share\/gc\/shared\/pretouchTask.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
