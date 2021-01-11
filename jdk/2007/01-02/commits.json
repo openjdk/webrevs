@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix wrong JavaThread::active in fill_in_stack_trace."},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"}],"sha":"7f4427c4c793c2cc0bf8293699febf0cfb0dedae"}]
