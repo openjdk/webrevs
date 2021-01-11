@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259359: javac does not attribute unexpected super constructor invocation qualifier, and may crash"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/recovery\/T8259359.java"}],"sha":"87f1063b07bf99f1a571fab205edf0631a1a6d2e"}]
