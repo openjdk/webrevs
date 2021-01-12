@@ -1,0 +1,1 @@
+[{"commit":{"message":"Tweak direct buffer slice constructor not to use DirectBuffer::address"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template"},{"filename":"test\/jdk\/java\/foreign\/TestByteBuffer.java"}],"sha":"b64ff261e1a7fac28045b1f5d9c9f20fd533a1a9"}]
