@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -377,1 +377,1 @@\n-      for (auto j = 0; j < skipped_size; ++j) {\n+      for (size_t j = 0; j < skipped_size; ++j) {\n","filename":"src\/hotspot\/share\/gc\/shared\/workgroup.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
