@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -324,2 +324,0 @@\n-\n-        return false; \/\/ Fatal error\n","filename":"src\/hotspot\/os_cpu\/aix_ppc\/os_aix_ppc.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
