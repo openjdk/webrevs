@@ -1,0 +1,1 @@
+[{"commit":{"message":"more changes to ClassListParser::resolve_indy\n1. use log_warning(cds) to output the exception message;\n2. no need to exit on exception."},"files":[{"filename":"src\/hotspot\/share\/classfile\/classListParser.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/BadBSM.java"}],"sha":"506341e0f20ab4df1db95558cdf005af8e4f0754"}]
