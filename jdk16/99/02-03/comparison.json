@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @bug 8249548\n+ * @bug 8249548 8259237\n","filename":"test\/jdk\/javax\/swing\/ButtonGroup\/TestButtonGroupFocusTraversal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
