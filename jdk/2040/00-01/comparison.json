@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,0 @@\n-                    || s.startsWith(XHTML_VERSION_PREFIX)\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/doclint\/DocLint.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
