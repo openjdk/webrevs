@@ -1,0 +1,1 @@
+[{"commit":{"message":"don't handle code cache exhaustion fully during inline cache patching"},"files":[{"filename":"src\/hotspot\/share\/code\/codeBlob.cpp"},{"filename":"src\/hotspot\/share\/code\/codeBlob.hpp"},{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/codeCache.hpp"}],"sha":"bdf75c792e13f793d9b654457dfffd51239bd489"}]
