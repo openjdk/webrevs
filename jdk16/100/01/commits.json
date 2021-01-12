@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert Arm NEON match rule fixes"},"files":[],"sha":"6857bdd18649f314b2fe247ade075612dcac17ad"},{"commit":{"message":"8259353: VectorReinterpretNode is incorrectly optimized out"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"}],"sha":"47a4978f6d45460c11b2a5b248a476a53a65f08c"}]
