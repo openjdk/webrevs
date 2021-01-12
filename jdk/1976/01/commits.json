@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8259372: remove AIX related USE_LIBRARY_BASED_TLS_ONLY and THREAD_LOCAL special handling"},"files":[],"sha":"3944582ebebc2ae6c8a324d93557a97f5dd693f7"},{"commit":{"message":"JDK-8259372"},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions_xlc.hpp"}],"sha":"aa98142c3f64ec429ffb9bf2935ab37fda86fcab"}]
