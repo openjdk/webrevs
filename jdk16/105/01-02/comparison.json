@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2048,1 +2048,2 @@\n-  if (is_instance && (_type->isa_vect() == NULL)) {\n+  bool is_vect = (_type->isa_vect() != NULL);\n+  if (is_instance && !is_vect) {\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
