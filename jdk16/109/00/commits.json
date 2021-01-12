@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix loic to turn segments into buffers"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Buffer.java"},{"filename":"test\/jdk\/java\/foreign\/TestByteBuffer.java"}],"sha":"ffe451b3a73c480586b760d620c2c0636debfa7e"}]
