@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update comments for monitors_used_above_threshold() policy to include info about no-progress async monitor deflation cycles and the NoAsyncDeflationProgressMax option."},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"f53c0ea15307da3541897348fd8966e71648736e"}]
