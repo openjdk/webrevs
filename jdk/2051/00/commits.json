@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8258696: Temporarily revert use of pattern match instanceof until docs-reference is fixed\"\n\nThis reverts commit be41468c838666ded51437226e3668bb45043205."},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpClientImpl.java"}],"sha":"58feff6d59da66858c01da245d788748ad4dabf7"}]
