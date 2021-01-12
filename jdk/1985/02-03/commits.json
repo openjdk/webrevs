@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check legacy flags validity before deriving flag values for emulation mode."},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp"},{"filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagConstraintsCompiler.cpp"}],"sha":"82dffbe9f32d56fbacd0ca8515ffe540b51fced6"}]
