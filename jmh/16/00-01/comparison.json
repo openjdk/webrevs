@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n-import org.openjdk.jmh.infra.Blackhole;\n","filename":"jmh-core-benchmarks\/src\/main\/java\/org\/openjdk\/jmh\/validation\/Main.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
