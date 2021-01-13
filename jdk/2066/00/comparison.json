@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1456,1 +1456,1 @@\n-    if (JNFIsInstanceOf(env, jparent, &jc_Container)) {\n+    if ((*env)->IsInstanceOf(env, jparent, jc_Container)) {\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/JavaComponentAccessibility.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
