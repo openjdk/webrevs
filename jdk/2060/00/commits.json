@@ -1,0 +1,1 @@
+[{"commit":{"message":"8236490: Compiler bug relating to @NonNull annotation"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/TypeAnnotationPosition.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/typeAnnotations\/8236490\/T8236490.java"}],"sha":"cadf27cc5da044a79a96e7c25438ecd33f4b1029"}]
