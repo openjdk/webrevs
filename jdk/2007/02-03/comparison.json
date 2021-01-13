@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-  _thread    = thread;\n+  _thread = thread;\n","filename":"src\/hotspot\/share\/utilities\/preserveException.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
