@@ -1,0 +1,1 @@
+[{"commit":{"message":"No warning for trusted cert's SHA1, and added debug output to test"},"files":[{"filename":"src\/jdk.jartool\/share\/classes\/sun\/security\/tools\/jarsigner\/Main.java"},{"filename":"test\/jdk\/sun\/security\/tools\/jarsigner\/CheckSignerCertChain.java"}],"sha":"5a3e184a4b7b34aa891c809ebccebf5e4b353f5d"}]
