@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3248,1 +3248,1 @@\n-            return sym.kind == MTH && staticKind != StaticKind.UNDEFINED;\n+            return staticKind != StaticKind.UNDEFINED;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Resolve.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
