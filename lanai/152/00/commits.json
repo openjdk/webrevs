@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259653: Multistop gradients incorrectly works with non uniform stops\n\nCorrectly handled uniforms.fract parameters. Removed duplication"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/shaders.metal"}],"sha":"162655a367dc36181e7f67baf23766b03b98a337"}]
