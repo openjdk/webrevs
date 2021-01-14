@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2488,1 +2488,0 @@\n-    if (dst->encoding() == src->encoding()) return;\n@@ -2513,1 +2512,0 @@\n-    if (dst->encoding() == src->encoding()) return;\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
