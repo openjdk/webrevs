@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259804: Field.setAccessible should not allow changing fields of inline classes"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/Field.java"},{"filename":"test\/jdk\/java\/lang\/Class\/getDeclaredField\/FieldSetAccessibleTest.java"}],"sha":"25f16c627475ae27ec30dde9778f5ec2d91b67ea"}]
