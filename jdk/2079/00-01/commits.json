@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259774: samplethreads option  does not work for jfr thread sampler"},"files":[{"filename":"src\/hotspot\/share\/jfr\/jni\/jfrJniMethod.cpp"},{"filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrThreadSampler.cpp"},{"filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrThreadSampler.hpp"}],"sha":"310f3d14e26ddf213e8fbe8293dbc8fab2a64c62"}]
