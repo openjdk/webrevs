@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make `UNSAFE` variable static final\n\nMake `UNSAFE` static final, to avoid null checks\nand traps."},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/X-ScopedMemoryAccess.java.template"}],"sha":"1a24b94f8ec683b24fbb54ca4b9654999be81ccb"}]

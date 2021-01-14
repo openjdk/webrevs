@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,1 @@\n-    private static Unsafe UNSAFE = Unsafe.getUnsafe();\n+    private static final Unsafe UNSAFE = Unsafe.getUnsafe();\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/X-ScopedMemoryAccess.java.template","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
