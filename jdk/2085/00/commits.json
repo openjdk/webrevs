@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259707: LDAP channel binding does not work with StartTLS extension"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/Connection.java"},{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/ext\/StartTlsResponseImpl.java"}],"sha":"d2f470e795c31240d3ef7b53e453b7930d1e604d"}]
