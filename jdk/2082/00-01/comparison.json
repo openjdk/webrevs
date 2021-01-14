@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-    int flags = blocking == JNI_TRUE ? EFD_NONBLOCK : 0;\n+    int flags = blocking == JNI_TRUE ? 0 : EFD_NONBLOCK;\n","filename":"src\/java.base\/linux\/native\/libnio\/ch\/EventFD.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
