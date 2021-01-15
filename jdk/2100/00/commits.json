@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259840: [Vector API] Fix an assert in Assembler::vpmovzxbw if UseAVX=0"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"de6c23824e3d426d646d3213779ea19e1a992e60"}]
