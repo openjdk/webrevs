@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,4 +27,0 @@\n-#import \"JNIUtilities.h\"\n-#import \"ThreadUtilities.h\"\n-\n-static jclass sjc_CAccessibility = NULL;\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/a11y\/ButtonAccessibility.m","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
