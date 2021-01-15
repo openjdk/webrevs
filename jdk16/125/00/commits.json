@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259574: SIGSEGV in BFSClosure::closure_impl"},"files":[{"filename":"src\/hotspot\/share\/jfr\/leakprofiler\/chains\/bfsClosure.cpp"},{"filename":"src\/hotspot\/share\/jfr\/leakprofiler\/chains\/rootSetClosure.cpp"},{"filename":"src\/hotspot\/share\/jfr\/recorder\/repository\/jfrEmergencyDump.cpp"}],"sha":"c10182848fb0206d0bf3ae7a26dd7f546d66f076"}]
