@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -391,1 +391,1 @@\n-            frame.setBounds(400, 180, 1068, 821);\n+            frame.setBounds(400, 180, 300, 300);\n","filename":"test\/jdk\/java\/awt\/Window\/MainKeyWindowTest\/TestMainKeyWindow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
