@@ -1,0 +1,1 @@
+[{"commit":{"message":"8249245: assert(((((JfrTraceIdBits::load(klass)) & ((JfrTraceIdEpoch::this_epoch_method_and_class_bits()))) != 0))) failed: invariant"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/traceid\/jfrTraceIdLoadBarrier.inline.hpp"}],"sha":"b9206c070b9054e3559093eec96efd30d6720344"}]
