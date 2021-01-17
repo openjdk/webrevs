@@ -1,0 +1,1 @@
+[{"commit":{"message":"8213766: Assertion error in TypeAnnotations.resolveFrame"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/DeferredAttr.java"},{"filename":"test\/langtools\/tools\/javac\/lambda\/8213766\/T8213766.java"}],"sha":"25a49c45c67c63867b8335fbb29d33bf88efe83b"}]
