@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-        \/\/ system, but in such a way that they can still be dlopen(), even\n+        \/\/ system, but in such a way that they can still be dlopen()ed, even\n","filename":"src\/java.smartcardio\/unix\/classes\/sun\/security\/smartcardio\/PlatformPCSC.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
