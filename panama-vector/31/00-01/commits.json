@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix build bug on other archs caused by UseSVE > 0"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"db8e148dba7fa39985a9aad61eb0e5b1fbf736a4"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -335,1 +335,1 @@\n-  if (UseSVE > 0) {\n+  if (Matcher::supports_scalable_vector()) {\n@@ -437,1 +437,1 @@\n-  if (UseSVE > 0) {\n+  if (Matcher::supports_scalable_vector()) {\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
