@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259870: zBarrier.inline.hpp should not include javaClasses.hpp"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zBarrier.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zBarrier.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zBarrier.inline.hpp"}],"sha":"451e9a58ad1b46c8729d2b8a3e9ccf53d59195b8"}]
