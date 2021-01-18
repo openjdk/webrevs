@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,1 @@\n-            case 2: return Objects.checkIndex(ix, length - (vlen - 1));\n+            case 2: return Objects.checkIndex(ix, Math.max(0, length - (vlen - 1)));\n","filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/VectorIntrinsics.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
