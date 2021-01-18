@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259604: Change the implementation of loadV_partial and storeV_partial in Aarch64-SVE backend"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_sve.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_sve_ad.m4"}],"sha":"b61cd0575658a52c1579c034fce9979f51453233"}]
