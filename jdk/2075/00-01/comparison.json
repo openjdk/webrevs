@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3555,0 +3555,1 @@\n+        get_skeleton_predicates(entry, useful_predicates, true);\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
