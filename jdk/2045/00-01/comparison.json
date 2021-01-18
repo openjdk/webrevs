@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1280,1 +1280,1 @@\n-    if (is_scaled_iv_plus_offset(exp, iv, &long_scale, p_offset, T_INT)) {\n+    if (is_scaled_iv_plus_offset(exp, iv, &long_scale, p_offset, T_INT) && long_scale != -((jlong)min_jint)) {\n","filename":"src\/hotspot\/share\/opto\/loopnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
