@@ -1,0 +1,1 @@
+[{"commit":{"message":"Non-lava launchers should process all \"-J\" arguments"},"files":[{"filename":"src\/java.base\/share\/native\/libjli\/java.c"},{"filename":"test\/jdk\/tools\/launcher\/TestSpecialArgs.java"}],"sha":"69c6360923df60ef55943e48e3580e2afed88ba8"}]
