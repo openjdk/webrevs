@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8259928-aot-jvmci-Xint"},"files":[],"sha":"925cf70d20f5406de859e7f5bac8f24f4e11bdf1"},{"commit":{"message":"8259928: compiler\/{aot,jvmci} tests fail with -Xint"},"files":[{"filename":"test\/jtreg-ext\/requires\/VMProps.java"}],"sha":"85aa1037c23339d74c3578305b4334eb24512a77"}]
