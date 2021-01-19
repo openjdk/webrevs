@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259978: PPC64 builds broken after JDK-8258004"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/nativeInst_ppc.hpp"},{"filename":"src\/hotspot\/share\/oops\/method.cpp"}],"sha":"f9e17f271f4c2c89f3456ee337c25a83dd70b1c6"}]
