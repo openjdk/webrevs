@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259853: Lanai: nonAA Gradient painting is not precise for VI\n\nAdded offset for correct rendering"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/shaders.metal"}],"sha":"90ec3d52c282d6dca343a4b13d28d85959039f72"}]
