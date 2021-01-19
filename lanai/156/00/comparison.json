@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,1 +118,1 @@\n-  JNF_COCOA_ENTER(env);\n+  JNI_COCOA_ENTER(env);\n@@ -129,1 +129,1 @@\n-  JNF_COCOA_EXIT(env);\n+  JNI_COCOA_EXIT(env);\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLGraphicsConfig.m","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
