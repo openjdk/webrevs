@@ -1,0 +1,1 @@
+[{"commit":{"message":"change return parameter of Compile::print_inlining_current()"},"files":[{"filename":"make\/hs_err_pid10680.log"},{"filename":"make\/replay_pid10680.log"},{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/compile.hpp"}],"sha":"b52b140b8a3ed12c8c211d7bc19bf295bb4472dd"}]
