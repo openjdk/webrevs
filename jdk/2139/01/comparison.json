@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,1 @@\n+#include \"runtime\/vm_version.hpp\"\n","filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
