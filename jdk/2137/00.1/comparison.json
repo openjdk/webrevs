@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -571,1 +571,1 @@\n-                                           jvms->bci(), no_memory_effects);\n+                                           no_memory_effects);\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
