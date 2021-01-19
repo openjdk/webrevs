@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5023,1 +5023,1 @@\n-              if (worklist.member(in) && is_dominator(early, r_in)) {\n+              if ((worklist.member(in) || in == mem) && is_dominator(early, r_in)) {\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
