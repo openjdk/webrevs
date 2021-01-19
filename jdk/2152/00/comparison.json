@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -196,1 +196,0 @@\n-    AlwaysTrueClosure always_true;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootProcessor.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
