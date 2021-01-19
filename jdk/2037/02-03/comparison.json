@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -345,1 +345,1 @@\n-  if (!is_same_fsobject(fd, AIX_ONLY(dirp->dd_fdi) NOT_AIX(dirfd(dirp)))) {\n+  if (!is_same_fsobject(fd, AIX_ONLY(dirp->dd_fd) NOT_AIX(dirfd(dirp)))) {\n","filename":"src\/hotspot\/os\/posix\/perfMemory_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
