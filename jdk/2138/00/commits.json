@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259956: jdk.jfr.internal.ChunkInputStream#available should return the sum of remaining available bytes"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/ChunkInputStream.java"},{"filename":"test\/jdk\/jdk\/jfr\/api\/consumer\/TestChunkInputStreamAvailable.java"}],"sha":"6e0cedc239487c9b8062e91b4f18cfe083342e5d"}]
