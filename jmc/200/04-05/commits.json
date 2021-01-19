@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix handling 'null' for primitive values (use defaults)"},"files":[{"filename":"core\/org.openjdk.jmc.flightrecorder.writer\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/writer\/ConstantPool.java"}],"sha":"378608ae6c1104bb5b7963c89b3e5b3997384851"}]
