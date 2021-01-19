@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n- * epoll(2)-based implementation on Linux.\n+ * epoll(7)-based implementation on Linux.\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/nio\/SelectorWakeup.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
