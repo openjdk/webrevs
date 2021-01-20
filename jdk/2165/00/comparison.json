@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,0 +115,1 @@\n+    ShenandoahWorkerTimingsTracker timer(_phase, ShenandoahPhaseTimings::CLDGRoots, worker_id);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootProcessor.inline.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
