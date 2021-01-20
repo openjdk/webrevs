@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -749,1 +749,1 @@\n-                List<Extension> tmpExtensions = Collections.<Extension>emptyList();\n+                List<Extension> tmpExtensions = null;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/RevocationChecker.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
