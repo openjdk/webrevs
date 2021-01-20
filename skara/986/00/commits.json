@@ -1,0 +1,1 @@
+[{"commit":{"message":"backports: handle original commit without issues"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckWorkItem.java"},{"filename":"bots\/pr\/src\/test\/java\/org\/openjdk\/skara\/bots\/pr\/BackportTests.java"}],"sha":"611cd18c1e863981f56888bf78b5cd3bd87a74d4"}]
