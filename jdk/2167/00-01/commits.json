@@ -1,0 +1,1 @@
+[{"commit":{"message":"As a part of the rename from \"canonize\" to \"canonicalize\", doCanonize should also be renamed. This was an oversight in the original PR."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/jar\/Handler.java"}],"sha":"f4b543d6f1765df5032b2dba950f04962cf55ab5"}]
