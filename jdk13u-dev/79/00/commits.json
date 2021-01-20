@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257633: Missing -mmacosx-version-min=X flag when linking libjvm\n\nBackport-of: 51d325e613bfcf7f8016ba6d8b146afec6f0f85c"},"files":[{"filename":"make\/autoconf\/flags-ldflags.m4"}],"sha":"e51757d591a5105e22597de953fba17a4b44d11b"}]
