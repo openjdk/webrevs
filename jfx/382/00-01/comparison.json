@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-        g.fillRect(x, y, w, h, new Color(0.33f, 1.0f, 1.0f, 0.1f));\n+        g.fillRect(x, y, w, h, new Color(2 \/ 3.0f, 1.0f, 1.0f, 1 \/ 15.0f));\n","filename":"modules\/javafx.web\/src\/main\/java\/com\/sun\/webkit\/plugin\/DefaultPlugin.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
