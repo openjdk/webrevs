@@ -1,0 +1,1 @@
+[{"commit":{"message":"separate tlsHandshakeCompleted for every StartTLS connection"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/Connection.java"},{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/ext\/StartTlsResponseImpl.java"}],"sha":"30a29e072a7f255574bae8ba98b926ccfe2726c9"}]
