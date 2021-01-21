@@ -1,0 +1,1 @@
+[{"commit":{"message":"checkout: simplify conversion logic"},"files":[{"filename":"bots\/checkout\/src\/main\/java\/org\/openjdk\/skara\/bots\/checkout\/CheckoutBot.java"},{"filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/openjdk\/convert\/GitToHgConverter.java"}],"sha":"cea1403e014a7389dad2695e6c783325de7832a7"}]
