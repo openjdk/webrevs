@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -167,0 +167,2 @@\n+#if defined(_AIX)\n+        \/* AIX allows close to be restarted after EINTR *\/\n@@ -168,0 +170,3 @@\n+#else\n+        result = close(fd);\n+#endif\n","filename":"src\/java.base\/unix\/native\/libjava\/io_util_md.c","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
