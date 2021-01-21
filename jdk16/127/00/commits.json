@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use load_acquire to order reads of top and end."},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/mutableSpace.cpp"}],"sha":"27ac6bcbf95a0566d7f08f878c41c98553748342"}]
