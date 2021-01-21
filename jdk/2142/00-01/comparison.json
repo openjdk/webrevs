@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -366,1 +366,1 @@\n-            endCompositionNative(context, COMMIT_INPUT);\n+            endComposition();\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WInputMethod.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
