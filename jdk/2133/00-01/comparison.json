@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-    jobject javaPlatformWindow;\n+    jobject javaPlatformWindow; \/* This is a weak ref. Always copy to a local ref before using *\/\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/AWTWindow.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
