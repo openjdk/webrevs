@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -166,1 +166,1 @@\n-            \/\/ Canonize the result after the bangslash\n+            \/\/ Canonicalize the result after the bangslash\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/jar\/Handler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
