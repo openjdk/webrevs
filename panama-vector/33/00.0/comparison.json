@@ -1,0 +1,5 @@
+This file was too large to be included in the published webrev, and has been replaced with this placeholder message. It is possible to generate the original content locally by following these instructions:
+
+  $ git fetch https://git.openjdk.java.net/panama-vector pull/33/head
+  $ git checkout 3171dec6e0caa59049bccc11ca2580891b149957
+  $ git webrev -r 2db19a41a3ee61d1b9db17776a14a3bf5703e43c
