@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-#ifndef VM_LITTLE_ENDIAN\n+#if !defined(ABI_ELFv2)\n","filename":"src\/hotspot\/os_cpu\/linux_ppc\/os_linux_ppc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
