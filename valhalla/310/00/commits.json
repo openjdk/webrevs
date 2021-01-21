@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260225: [lworld] C1's delayed load indexed optimization sets incorrect type"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_Instruction.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_Instruction.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestGenerated.java"}],"sha":"93c5be4928ab24e50359ff857c9cdd6be31aa654"}]
