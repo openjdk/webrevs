@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -247,0 +247,5 @@\n+        \/\/ Interpreted mode cannot enable JVMCI\n+        if (vmCompMode().equals(\"Xint\")) {\n+          return \"false\";\n+        }\n+\n","filename":"test\/jtreg-ext\/requires\/VMProps.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}

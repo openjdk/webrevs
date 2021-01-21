@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert vm.aot changes"},"files":[{"filename":"test\/jtreg-ext\/requires\/VMProps.java"}],"sha":"b258eed1ffde833a00504fdc6eeaf8250a5b4c34"},{"commit":{"message":"8259928: compiler\/{aot,jvmci} tests fail with -Xint"},"files":[{"filename":"test\/jtreg-ext\/requires\/VMProps.java"}],"sha":"e3d3219c1950c0842eca6df74a8cc823548fb10b"}]
