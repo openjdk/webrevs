@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -400,1 +400,1 @@\n-  return _oop_recorder->is_complete() || _oop_recorder->is_complete();\n+  return _oop_recorder->is_complete();\n","filename":"src\/hotspot\/share\/code\/debugInfoRec.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
