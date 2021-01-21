@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -708,1 +708,2 @@\n-    if (start_address != bottom_address) {\n+    assert(start_address >= bottom_address, \"bottom address should not be greater than start address\");\n+    if (start_address > bottom_address) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
