@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,2 +51,2 @@\n-    long one = 1L;\n-    return convertReturnVal(env, write(efd, (void*)&one, sizeof(long)),\n+    uint64_t one = 1L;\n+    return convertReturnVal(env, write(efd, (void*)&one, sizeof(uint64_t)),\n","filename":"src\/java.base\/linux\/native\/libnio\/ch\/EventFD.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

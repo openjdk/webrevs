@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260304: (se) EPollSelectorImpl wakeup mechanism broken on Linux 32-bit"},"files":[{"filename":"src\/java.base\/linux\/native\/libnio\/ch\/EventFD.c"}],"sha":"51f324ae1d1a26c1a9d37138efa30b135ff4edbf"}]
