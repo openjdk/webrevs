@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259276: C2: Empty expression stack when reexecuting tableswitch\/lookupswitch instructions after deoptimization"},"files":[{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"src\/hotspot\/share\/opto\/parse2.cpp"}],"sha":"20454676c4d261fa5e8b03749784db2cf1ba00b3"}]
