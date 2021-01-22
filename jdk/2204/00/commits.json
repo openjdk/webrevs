@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259845: Move placeholder implementation details to cpp file and add logging"},"files":[{"filename":"src\/hotspot\/share\/classfile\/placeholders.cpp"},{"filename":"src\/hotspot\/share\/classfile\/placeholders.hpp"},{"filename":"src\/hotspot\/share\/logging\/logTag.hpp"}],"sha":"75db86dd611e1312d56284f2fb8902b7fb4793f0"}]
