@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -414,1 +414,1 @@\n-  if (_is_fixed == false && _buffer != _small_buffer) {\n+  if (!_is_fixed && _buffer != _small_buffer) {\n","filename":"src\/hotspot\/share\/utilities\/ostream.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
