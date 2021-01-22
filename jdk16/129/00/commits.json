@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260284: C2: assert(_base == Int) failed: Not an Int\n"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestDivWithTopDivisor.java"}],"sha":"73d9917b0cfab7ecc8dce5d5ee8e1915fd7293b3"}]
