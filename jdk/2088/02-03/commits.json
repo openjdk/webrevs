@@ -1,0 +1,1 @@
+[{"commit":{"message":"add GCLockerTracer::is_started() that makes the logic more clear"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gcTrace.hpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/gcTraceSend.cpp"}],"sha":"85987c58eefed218ac2bbee2a1fe8097cadd684b"}]
