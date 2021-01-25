@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,0 @@\n-  int _max_vt_buffer; \/\/ max number of VT buffer chunk to use before recycling\n@@ -768,2 +767,0 @@\n-  static ByteSize max_vt_buffer_offset()         { return byte_offset_of(Method, _max_vt_buffer); }\n-\n","filename":"src\/hotspot\/share\/oops\/method.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
