@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-  ShenandoahHeap* _heap;\n+  ShenandoahHeap* const _heap;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOopClosures.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
