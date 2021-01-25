@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3597,2 +3597,1 @@\n-    const int idx = i - 1;\n-    Node* n = C->skeleton_predicate_opaque4_node(idx);\n+    Node* n = C->skeleton_predicate_opaque4_node(i - 1);\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
