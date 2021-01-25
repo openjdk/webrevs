@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport f928265e81326a576619719831dc96d95eb135a8"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/sealedClasses\/RedefinePermittedSubclass.java"}],"sha":"3c82a5c3bb90aef77564f229354f91fbfa6e7ede"}]
