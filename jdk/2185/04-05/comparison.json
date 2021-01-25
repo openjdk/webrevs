@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -512,1 +512,1 @@\n-  bool uses_stack_watermark_barrier() const override { return true; }\n+  bool uses_stack_watermark_barrier() const { return true; }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
