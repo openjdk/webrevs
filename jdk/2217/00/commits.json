@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clear gc_efficiency by setting to -1. Print \"-\" when gc efficieny is negative."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.inline.hpp"}],"sha":"738f303af91cd1f560f4a9f405f333e39b89758b"}]
