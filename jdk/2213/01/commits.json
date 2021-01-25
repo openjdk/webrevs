@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert change for node.cpp"},"files":[],"sha":"88e6327718012683628d81be869668dceaea0de2"},{"commit":{"message":"8260338: Some fields in HaltNode is not cloned"},"files":[{"filename":"src\/hotspot\/share\/opto\/rootnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/rootnode.hpp"}],"sha":"6fa9730ce49876394d3f12125496e9b4943468e0"}]
