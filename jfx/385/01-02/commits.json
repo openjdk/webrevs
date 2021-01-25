@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use XkbGetNamedIndicator on Linux instead of relying on the (unreliable) GDK method."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_key.cpp"},{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/application\/KeyLockedTest.java"}],"sha":"c4961b16409b99d5952dac09d1035b1518df1a48"}]
