@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -961,3 +961,1 @@\n-    if (map_received) {\n-        size_position_notify(size_changed, pos_changed);\n-    }\n+    size_position_notify(size_changed, pos_changed);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}

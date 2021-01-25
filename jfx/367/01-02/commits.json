@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert change to reduce size notify events due to frame extents adjustment - it makes some tests fail."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp"}],"sha":"e8528ef26de729000a7d45a306d353ef66aef3ad"}]
