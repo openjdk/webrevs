@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,0 +210,2 @@\n+            } else {\n+                return List.of();\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CommandWorkItem.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
