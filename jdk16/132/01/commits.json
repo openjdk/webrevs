@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260339: JVM crashes when executing PhaseIdealLoop::match_fill_loop"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"src\/hotspot\/share\/opto\/memnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"4a503063a15b54385ade3e96a684529021c019d8"}]
