@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix code style after if"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"}],"sha":"c1a930160b12b69be8b73c7ebcd66d9d7e55d6f9"},{"commit":{"message":"8260339: JVM crashes when executing PhaseIdealLoop::match_fill_loop"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"}],"sha":"9b4f9d97c61f1e16e3132da14c889aa9883c2936"}]
