@@ -1,0 +1,1 @@
+[{"commit":{"message":"Limit amount read to avoid BufferOverflowException\n\n- limit the amount read\n- add tests"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/Reader.java"},{"filename":"test\/jdk\/java\/io\/Reader\/ReadCharBuffer.java"}],"sha":"a8531c1bf0e772992ba299b11fcc51fa90b45815"}]
