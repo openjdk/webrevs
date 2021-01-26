@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-            while (itr.hasNext()) {\n+            if (itr.hasNext()) {\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestObjectMonitorIterate.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
