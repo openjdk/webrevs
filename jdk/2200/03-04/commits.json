@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert harfbuzz changes, disable warnings for it"},"files":[{"filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk"},{"filename":"src\/java.desktop\/share\/native\/libharfbuzz\/hb-common.h"},{"filename":"src\/java.desktop\/share\/native\/libharfbuzz\/hb-coretext.cc"}],"sha":"b2b396fca679fbc7ee78fb5bc80191bc79e1c490"}]
