@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -540,2 +540,1 @@\n-  for (uint i = 0; i < reserved_length(); ++i) {\n-    uint curr = reserved_length() - 1 - i;\n+  for (uint curr = reserved_length(); curr-- > 0;) {\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegionManager.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
