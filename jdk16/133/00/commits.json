@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259025: Record compact constructor using Objects.requireNonNull"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/records\/RecordCompilationTests.java"}],"sha":"d6e72dfef48089f9f0972b9e2f4372c315f3c568"}]
