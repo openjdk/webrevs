@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove @Override which caused compilation failure in latest Intellij"},"files":[{"filename":"plugins\/idea\/resources\/META-INF\/plugin.xml"},{"filename":"plugins\/idea\/src\/com\/oracle\/plugin\/jtreg\/configuration\/JTRegConfigurationRunnableState.java"}],"sha":"f5571efeb6d6da4dd55f65b3407d06617b903aae"}]
