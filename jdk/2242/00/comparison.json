@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,4 +63,0 @@\n-  \/\/ Apply cl to the active part of the buffer.\n-  \/\/ Prerequisite: Must be at a safepoint.\n-  void apply_closure_and_empty(SATBBufferClosure* cl);\n-\n","filename":"src\/hotspot\/share\/gc\/shared\/satbMarkQueue.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
