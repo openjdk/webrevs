@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259046: ViewPainter.ROOT_PATHS holds reference to Scene causing memory leak"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/ViewPainter.java"},{"filename":"tests\/system\/src\/test\/java\/test\/com\/sun\/javafx\/tk\/quantum\/ViewPainterLeakTest.java"}],"sha":"cb3d43ae8d1138f76442b3e45a3b007a3222c803"}]
