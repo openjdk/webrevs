@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-        Path pkg1Dir = Paths.get(SRC_DIR + \"\/pkg1\");\n+        Path pkg1Dir = Paths.get(SRC_DIR, \"\/pkg1\");\n","filename":"test\/jdk\/java\/lang\/Class\/getEnclosingClass\/EnclosingClassTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
