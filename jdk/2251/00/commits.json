@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8260485-signal-handler-improvements"},"files":[{"filename":"src\/hotspot\/os\/posix\/signals_posix.cpp"},{"filename":"src\/hotspot\/os\/posix\/vmError_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/vmError_windows.cpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.hpp"}],"sha":"016d35c209b2740db36213a79e4d91f420cd25bb"}]
