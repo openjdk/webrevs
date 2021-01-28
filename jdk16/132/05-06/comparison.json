@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n- * @run main compiler.vectorapi.TestLoopStoreVector\n+ * @run main\/othervm -XX:+IgnoreUnrecognizedVMOptions -XX:+OptimizeFill\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestLoopStoreVector.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
