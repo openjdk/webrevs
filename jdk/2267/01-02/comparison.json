@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-  return (jlong) ::lseek(fd, offset, whence);\n+  return (jlong) BSD_ONLY(::lseek) NOT_BSD(::lseek64)(fd, offset, whence);\n","filename":"src\/hotspot\/os\/posix\/os_posix.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
