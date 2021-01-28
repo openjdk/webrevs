@@ -1,0 +1,1 @@
+[{"commit":{"message":"Using FormatBuffer instead of snprintf. Changed defines to more descriptive names."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"}],"sha":"201f785d5e2281e673add5c2f0f64a1a6aa32107"}]
