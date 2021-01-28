@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260264: restore stack APIs, move ftruncate and numa APIs"},"files":[{"filename":"src\/hotspot\/os\/aix\/os_aix.inline.hpp"},{"filename":"src\/hotspot\/os\/bsd\/os_bsd.inline.hpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.inline.hpp"},{"filename":"src\/hotspot\/os\/posix\/os_posix.inline.hpp"}],"sha":"d9597254f92fc87ca3dc9c9570b6bb3da12be8db"}]
