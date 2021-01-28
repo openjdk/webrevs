@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -166,0 +166,6 @@\n+        if (!Desktop.isDesktopSupported()) {\n+            return null;\n+        }\n+\n+        trace(\"Environment supports a desktop\");\n+\n","filename":"test\/jdk\/tools\/jpackage\/apps\/image\/Hello.java","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
