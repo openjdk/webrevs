@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8ddf5e172b5d3fcd0aafa50c9019ee16ef038825"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/processing\/JavacProcessingEnvironment.java"},{"filename":"test\/langtools\/tools\/javac\/processing\/rounds\/ErrClassSymbolTypeFixed.java"}],"sha":"9a7933400b01d9f4a45f33a1b478907b98ccdd99"}]
