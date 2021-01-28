@@ -1,0 +1,1 @@
+[{"commit":{"message":"rename SystemDictionaryShared::get_package_entry_from_class_name to SystemDictionaryShared::get_package_entry_from_class"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.hpp"}],"sha":"d95758649331371732f00520085d79addddd8dfc"}]
