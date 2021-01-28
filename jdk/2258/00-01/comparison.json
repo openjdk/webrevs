@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -519,1 +519,1 @@\n-\/\/   [compress oop]                      ; optional, load only\n+\/\/   [compress oop]                      ; optional, store only\n","filename":"src\/hotspot\/cpu\/s390\/nativeInst_s390.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
