@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260553: Lanai: pipeline substates use while loop for resize\n\nReplaced while with the setting the count property"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLPipelineStatesStorage.m"}],"sha":"611a72106fd4f4e79e4afeabcee9228d3c1f9118"}]
