@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260579: PPC64 and S390 builds failures after JDK-8260467"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/methodHandles_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/s390\/methodHandles_s390.cpp"}],"sha":"123ece8bc3142ebe71ddf3541e7df857b1630337"}]
