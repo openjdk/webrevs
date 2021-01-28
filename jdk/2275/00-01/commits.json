@@ -1,0 +1,1 @@
+[{"commit":{"message":"Boost max from 1MB to 9MB as 1MB was too low for Aarch64 to startup"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/Metaspace\/MaxMetaspaceSizeEnvVarTest.java"}],"sha":"8c814dce98efb6a817525937d9b242a477836732"}]
