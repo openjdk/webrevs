@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove instantiations for oop"},"files":[{"filename":"src\/hotspot\/share\/utilities\/hashtable.cpp"}],"sha":"308860deb1cd89164408b2b07e0bc4b75a298f43"},{"commit":{"message":"templatize literal_size"},"files":[{"filename":"src\/hotspot\/share\/utilities\/hashtable.cpp"}],"sha":"edc0fa1865027540f55503a1fc97620dc8b1ec5f"}]
