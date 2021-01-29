@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259398: Super word not applied to a loop with byteArrayViewVarHandle"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestBufferVectorization.java"}],"sha":"fb3d4ffb56ba5f67b451955ba4124c441d435627"}]
