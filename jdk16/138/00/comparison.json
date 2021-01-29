@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2288,1 +2288,1 @@\n-  uint8_t max_depth = 0;\n+  uint16_t max_depth = 0;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
