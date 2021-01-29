@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-\/\/ top() is inclusive and end() is exclusive.\n+\/\/ top() and end() are exclusive.\n","filename":"src\/hotspot\/share\/gc\/parallel\/mutableSpace.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
