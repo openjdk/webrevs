@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,1 +216,0 @@\n-        System.out.println(Integer.MAX_VALUE);\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/com\/sun\/hotspot\/igv\/view\/NodeQuickSearch.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
