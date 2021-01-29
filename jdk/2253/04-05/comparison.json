@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,0 +24,1 @@\n+import jdk.internal.vm.annotation.ForceInline;\n@@ -103,1 +104,0 @@\n-\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorRebracket128Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
