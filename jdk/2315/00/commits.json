@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260420: C2 compilation fails with assert(found_sfpt) failed: no node in loop that's not input to safepoint"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestSplitIfPinnedLoadInStripMinedLoop.java"}],"sha":"b18fb7f18452bff032602e4e802d646f864337ee"}]
