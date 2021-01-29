@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -373,0 +373,2 @@\n+     * @see    SecurityManager#checkMulticast(InetAddress)\n+     * @see    #joinGroup(SocketAddress, NetworkInterface)\n","filename":"src\/java.base\/share\/classes\/java\/net\/MulticastSocket.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
