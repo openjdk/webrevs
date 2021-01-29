@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1108,1 +1108,1 @@\n-  if (map->update_map()) { \/\/ does map have oops?\n+  if (map->update_map()) { \/\/ The map has to be up-to-date for the current frame\n","filename":"src\/hotspot\/share\/runtime\/frame.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
