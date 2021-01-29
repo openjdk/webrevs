@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -529,1 +529,1 @@\n-  void post(JvmtiEnv* env) NOT_JVMTI_RETURN_(false);\n+  void post(JvmtiEnv* env) NOT_JVMTI_RETURN;\n","filename":"src\/hotspot\/share\/prims\/jvmtiImpl.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
