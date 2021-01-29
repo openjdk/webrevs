@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -399,1 +399,1 @@\n-  void enqueue_event(JvmtiDeferredEvent* event);\n+  void enqueue_event(JvmtiDeferredEvent* event) NOT_JVMTI_RETURN;\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
