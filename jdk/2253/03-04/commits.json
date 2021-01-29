@@ -1,0 +1,1 @@
+[{"commit":{"message":"Several modification:\n\n1, require Z gc\n2, Use testng Assert\n3, Rename the test\n4, get the right INVOC_COUNT"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorRebracket128Test.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorReshapeTest.java"}],"sha":"da06b0aa77dda2cbb1221122008a48b5644c3ecc"}]
