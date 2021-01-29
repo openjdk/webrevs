@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1416,1 +1416,1 @@\n-    pattern type {0} is a subtype of expression type {1}\n+    expression type {0} is a subtype of pattern type {1}\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
