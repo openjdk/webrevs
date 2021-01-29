@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260668: vectorIntrinsics windows build problem"},"files":[{"filename":"make\/autoconf\/toolchain.m4"},{"filename":"make\/common\/NativeCompilation.gmk"},{"filename":"src\/hotspot\/os_cpu\/windows_x86\/globals_vectorApiSupport_windows.hpp"}],"sha":"1d5c65a07ddf302970e29596408748ee75a0e964"}]
