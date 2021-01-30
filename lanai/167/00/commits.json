@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260672: Lanai: refactor MTLBlitLoops, MTLLayer, MTLSurfaceData\n\nRemoved unused code, added comments"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/java2d\/metal\/MTLLayer.java"},{"filename":"src\/java.desktop\/macosx\/classes\/sun\/java2d\/metal\/MTLSurfaceData.java"}],"sha":"9bd3c848815ecf607bd7e2b5d748b801cbde65da"}]
