@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260473: [vector] ZGC: VectorReshape test produces incorrect results with ZGC enabled"},"files":[{"filename":"src\/hotspot\/share\/opto\/vector.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorRebracket128Test.java"}],"sha":"7bc0a8713a01abdfcc0b0e302a0b13b0de87a8cf"}]
