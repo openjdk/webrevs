@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259619: C1: 3-arg StubAssembler::call_RT stack-use condition is incorrect\n\nReviewed-by: chagedorn, kvn"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_Runtime1_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c1_Runtime1_x86.cpp"}],"sha":"fee94dbcd0922400693f9304af2a2f811aeb95c7"}]
