@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add benchmark test\n\nChange-Id: I63ca51d06070a07e5c20daf4b42d2c8d7237a1da"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestRotate.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/Rotation.java"}],"sha":"492f4ca4f2ba52b5390fe851ede11e34fbbff01f"}]
