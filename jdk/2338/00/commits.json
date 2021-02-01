@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260193: Remove JVM_GetInterfaceVersion() and JVM_DTraceXXX"},"files":[{"filename":"src\/hotspot\/share\/include\/jvm.h"},{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"},{"filename":"src\/java.base\/share\/native\/libjava\/check_version.c"}],"sha":"c0307e7dba7e2db31f489793afa2a981f08e816b"}]
