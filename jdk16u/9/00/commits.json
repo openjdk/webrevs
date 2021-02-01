@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258946: Fix optimization-unstable code involving signed integer overflow\n\nReviewed-by: thartmann, kvn"},"files":[{"filename":"src\/hotspot\/share\/opto\/ifnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"src\/hotspot\/share\/opto\/parse2.cpp"}],"sha":"3dd20106aed2c4332c6baaf182af9d912c3eb76e"}]
