@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259339: AllocateUninitializedArray C2 intrinsic fails with void.class input\n\nReviewed-by: kvn, chagedorn"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/unsafe\/AllocateUninitializedArray.java"}],"sha":"3ba7cfe2eaae789381002e346324b999ea5637c0"}]
