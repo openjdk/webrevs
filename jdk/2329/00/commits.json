@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8260694: (fc) put clear message in FileChannel.transferFrom\/transferTo that it will not return -1"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/FileChannel.java"}],"sha":"c9ed084b76c6a30e1dbb4e565d3fad991bee63a6"}]
