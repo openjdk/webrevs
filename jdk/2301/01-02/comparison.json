@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+#include \"classfile\/vmClasses.hpp\"\n@@ -397,1 +398,1 @@\n-  link_klass(SystemDictionary::Reference_klass());\n+  link_klass(vmClasses::Reference_klass());\n","filename":"src\/hotspot\/share\/aot\/aotCodeHeap.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
