@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260616: Removing remaining JNF dependencies in the java.desktop module"},"files":[{"filename":"make\/test\/JtregNativeJdk.gmk"},{"filename":"src\/java.desktop\/macosx\/native\/libosxapp\/ThreadUtilities.m"},{"filename":"test\/jdk\/java\/awt\/Window\/MainKeyWindowTest\/libTestMainKeyWindow.c"}],"sha":"7ea57c850e61e166fc73dd0077ac2535dea847b3"}]
