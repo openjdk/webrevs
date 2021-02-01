@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -320,1 +320,1 @@\n-                    backBuffer.getHeight(null));\n+                             backBuffer.getHeight(null));\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/java2d\/opengl\/CGLGraphicsConfig.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
