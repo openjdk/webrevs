@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258243: C2: assert failed (\"Bad derived pointer\") with -XX:+VerifyRegisterAllocator\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/chaitin.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/regalloc\/TestVerifyRegisterAllocator.java"}],"sha":"fd088e4c89a451389d0b3ef273486a558f4220fb"}]
