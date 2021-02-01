@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n-#include \"gc\/shared\/accessBarrierSupport.hpp\"\n+#include \"gc\/shared\/accessBarrierSupport.inline.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
