@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260338: Some fields in HaltNode is not cloned\n\nReviewed-by: xliu, neliasso, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/rootnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/rootnode.hpp"}],"sha":"480c4f3f503d2113fa77cd684888ed57ca92a3f9"}]
