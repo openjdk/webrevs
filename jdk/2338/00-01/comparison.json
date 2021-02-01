@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,1 +2,1 @@\n-# Copyright (c) 2016, 2020, Oracle and\/or its affiliates. All rights reserved.\n+# Copyright (c) 2016, 2021, Oracle and\/or its affiliates. All rights reserved.\n@@ -103,1 +103,0 @@\n-JVM_GetInterfaceVersion\n","filename":"make\/data\/hotspot-symbols\/symbols-unix","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
