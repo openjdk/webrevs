@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,0 @@\n- * @run testng Insert\n@@ -33,0 +32,2 @@\n+ * @run testng\/othervm -XX:-CompactStrings Insert\n+ * @run testng\/othervm -XX:+CompactStrings Insert\n","filename":"test\/jdk\/java\/lang\/StringBuilder\/Insert.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
