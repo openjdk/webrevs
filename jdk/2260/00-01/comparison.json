@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-    if (tstrings::endsWith(path, _T(\"\/.\"))) {\n+    if (tstrings::endsWith(path, _T(\"\/.\")) || tstrings::endsWith(path, _T(\"\\\\.\"))) {\n","filename":"src\/jdk.jpackage\/share\/native\/common\/FileUtils.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
