@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,1 @@\n-        } catch (SSLHandshakeException se) {\n+        } catch (SSLException | SocketException se) {\n","filename":"test\/jdk\/sun\/security\/ssl\/SSLContextImpl\/TrustTrustedCert.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
