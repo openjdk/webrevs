@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update tests to match .2I. Still cannot match ssra for .8B, sshr+add are not combined."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestShiftRightAndAccumulate.java"}],"sha":"693f8cbd8b7d711def363a90fc4f398e6481d193"}]
