@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-                \"-javaagent:\" + agentClassName + \".jar\",\n+                \"-javaagent:\" + agentClassName + \".jar\", \"-Xmx128m\", \"-XX:-CreateCoredumpOnCrash\",\n","filename":"test\/jdk\/java\/lang\/instrument\/NegativeAgentRunner.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
