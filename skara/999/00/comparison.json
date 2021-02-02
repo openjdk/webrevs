@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,0 +117,1 @@\n+            fromRepo.fetchRemote(\"origin\");\n","filename":"bots\/checkout\/src\/main\/java\/org\/openjdk\/skara\/bots\/checkout\/CheckoutBot.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
