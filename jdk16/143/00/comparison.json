@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3624,1 +3624,1 @@\n-            System.arraycopy(value, srcPos, dst, dstBegin << coder, length << coder());\n+            System.arraycopy(value, srcPos << coder, dst, dstBegin << coder, length << coder);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
