@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,1 +306,1 @@\n-                       \"InitArrayShortSize (\" INTX_FORMAT \") must be \"\n+                        \"InitArrayShortSize (\" INTX_FORMAT \") must be \"\n","filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagConstraintsCompiler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
