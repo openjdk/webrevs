@@ -1,0 +1,1 @@
+[{"commit":{"message":"test & fix\n\nSigned-off-by: rwestrel <rwestrel@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestLoadPinnedAfterAllocate.java"}],"sha":"99e19f6e5fcc673b11b5ee33c30eb7702ceaf3c1"}]
