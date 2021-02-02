@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix builds"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace\/metachunk.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspace\/virtualSpaceNode.cpp"},{"filename":"test\/hotspot\/gtest\/metaspace\/test_metachunk.cpp"}],"sha":"9bacc700d5331307c1ddc63df71d2b10cd1c4f6a"}]
