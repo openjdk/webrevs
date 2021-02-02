@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1509,0 +1509,2 @@\n+  log_error(os)(\"Resource Exhausted (%s)\", description != nullptr ? description : \"no info\");\n+\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
