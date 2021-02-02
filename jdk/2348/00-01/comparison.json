@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1675,1 +1675,1 @@\n-    log_info(cds)(\"relocation bitmap CRC error\");\n+    log_error(cds)(\"relocation bitmap CRC error\");\n","filename":"src\/hotspot\/share\/memory\/filemap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
