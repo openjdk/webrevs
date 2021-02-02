@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260899: ARM32: SyncOnValueBasedClassTest fails with assert(is_valid()) failed: invalid register"},"files":[{"filename":"src\/hotspot\/cpu\/arm\/c1_MacroAssembler_arm.cpp"}],"sha":"ab073941c295ac2285654722c40ca8df4fd852db"}]
