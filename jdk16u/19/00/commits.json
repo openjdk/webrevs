@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259706: C2 compilation fails with assert(vtable_index == Method::invalid_vtable_index) failed: correct sentinel value\n\nReviewed-by: lucy, chagedorn"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"7b6b2405862e8ced6a7971652eded3ee7464e0b3"}]
