@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259049: Uninitialized variable after JDK-8257513\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/constantTable.cpp"}],"sha":"61e90592416e19250865a6957fbbe9db2db174dc"}]
