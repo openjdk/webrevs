@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -554,3 +554,0 @@\n-        while (!SYSTEM_DIRS.contains(path = path.getParent())) {\n-            componentIds.add(addRemoveDirectoryComponent(xml, path));\n-        }\n","filename":"src\/jdk.jpackage\/windows\/classes\/jdk\/jpackage\/internal\/WixSourcesBuilder.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
