@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8260694: (fc) Add apiNote to FileChannel.transferFrom to better describe \"no bytes available\" case"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/FileChannel.java"}],"sha":"b9ab224fa708ba7fcd72be61176f846a806e79be"}]
