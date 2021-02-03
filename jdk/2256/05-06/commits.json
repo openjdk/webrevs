@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix JDK-8260687: don't use font inherit for W3C_LENGTH_UNIT"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/StyleSheet.java"}],"sha":"ce2500ced9cf4007599972590e4924bdc87cc829"}]

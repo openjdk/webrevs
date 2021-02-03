@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2826,1 +2826,1 @@\n-            if (key == CSS.Attribute.FONT_SIZE && !isDefined(key)) {\n+            if (key == CSS.Attribute.FONT_SIZE && !isDefined(key) && !isW3CLengthUnits()) {\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/StyleSheet.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
