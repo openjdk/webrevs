@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261028: ZGC: SIGFPE when MaxVirtMemFraction=0"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp"}],"sha":"fb0a7c56ed0cc3610b47c03efd11b9038b46d8cf"}]
