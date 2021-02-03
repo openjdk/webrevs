@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-* @summary Bug 4083270: ThreadLocal memory leak in ImageBufferCache\n+* @summary Bug 8260621: ThreadLocal memory leak in ImageBufferCache\n","filename":"test\/jdk\/jdk\/internal\/jimage\/Bug8260621Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
