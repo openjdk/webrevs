@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,0 @@\n-import jdk.internal.clang.libclang.Index_h;\n","filename":"src\/jdk.incubator.jextract\/share\/classes\/jdk\/internal\/jextract\/impl\/RecordLayoutComputer.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
