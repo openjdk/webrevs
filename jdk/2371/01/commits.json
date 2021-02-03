@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add test"},"files":[{"filename":"test\/jdk\/java\/awt\/color\/TestNullSetColor.java"}],"sha":"a2c6c93eebb20196fb9c17e69830ea06adda4ae1"},{"commit":{"message":"6436374: Graphics.setColor(null) is not documented"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/Graphics.java"}],"sha":"dc4fe3c5c17ce4b63e5fd0b93adb507b96bbf2c7"}]
