@@ -1,0 +1,1 @@
+[{"commit":{"message":"8242300: SystemDictionary::resolve_super_or_fail() should look for the super class first"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"0f0eee1297dd8bfea3d5abe222e2b9254f502e7c"}]
