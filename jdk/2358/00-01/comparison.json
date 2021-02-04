@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -507,1 +507,1 @@\n-                MacroAssembler::MacroAssembler::PRESERVATION_NONE,\n+                MacroAssembler::PRESERVATION_NONE,\n","filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc_64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
