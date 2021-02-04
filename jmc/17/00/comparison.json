@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9,1 +9,1 @@\n-# Ignore test recording\n+# Ignore test recordings\n@@ -11,0 +11,1 @@\n+application\/uitests\/org.openjdk.jmc.flightrecorder.uitest\/recording.jfr\n","filename":".gitignore","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
