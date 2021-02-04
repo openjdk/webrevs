@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,2 +99,0 @@\n-  # JavaNativeFoundation framework not supported in static builds\n-  ifneq ($(STATIC_BUILD), true)\n@@ -123,1 +121,0 @@\n-  endif\n","filename":"make\/modules\/java.base\/Lib.gmk","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
