@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -645,1 +645,2 @@\n-     * input buffer.\n+     * input buffer. No bytes are transferred, and zero is returned, if the\n+     * source has reached end-of-stream.\n","filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/FileChannel.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
