@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1580,0 +1580,1 @@\n+  * JFR: [`hotspot-jfr-dev@openjdk.java.net`](mailto:hotspot-jfr-dev@openjdk.java.net)\n@@ -1611,1 +1612,1 @@\n-    * `jfr` – Runtime\n+    * `jfr` – JFR\n@@ -1726,1 +1727,1 @@\n-* `jdk.jfr` – Runtime\n+* `jdk.jfr` – JFR\n","filename":"src\/index.md","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
