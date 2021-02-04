@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -717,0 +717,1 @@\n+\t\tredrawChart();\n","filename":"application\/org.openjdk.jmc.ui\/src\/main\/java\/org\/openjdk\/jmc\/ui\/misc\/ChartCanvas.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
