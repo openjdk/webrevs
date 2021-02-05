@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set isDirect using isTouchEvent() that returns the source of the touch event (screen or pen)"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/ViewContainer.cpp"}],"sha":"b029ba894f96f97338aa24db10f06cc1fb957042"}]
