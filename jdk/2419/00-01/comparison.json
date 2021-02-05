@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3234,1 +3234,1 @@\n-              } else if (in->Opcode() != Op_LShiftI) {\n+              } else if (op != Op_LShiftI) {\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
