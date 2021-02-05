@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,1 +121,1 @@\n-    public void valid(String args, String expactedErrMsg) {\n+    public void jmx(String args, String expactedErrMsg) {\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/gc\/ClassHistogramTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

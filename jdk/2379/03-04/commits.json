@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8261034: improve jcmd GC.class_histogram to support parallel"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/gc\/ClassHistogramTest.java"}],"sha":"380d2acc175d5cb4995a903ed3b03e2d0b5bea86"}]
