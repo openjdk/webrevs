@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261267: Math vector stubs are not called from jitted code"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"},{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"868933540e47b1b6c8e27e672a9ef52ee8b10cb8"}]
