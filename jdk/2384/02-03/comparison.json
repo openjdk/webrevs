@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,5 +108,0 @@\n-\n-        @Override\n-        public Dimension getMaximumSize() {\n-            return new Dimension(4, 4);\n-        }\n","filename":"test\/jdk\/javax\/swing\/JCheckBox\/ImageCheckboxFocus\/ImageCheckboxTest.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
