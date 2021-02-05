@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -961,1 +961,1 @@\n-                                   ShenandoahHeapRegion::region_size_words()*num_regions);\n+                                   words_size);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFullGC.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
