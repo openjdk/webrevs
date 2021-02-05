@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261234: Lanai build fails due to leftover import of JavaNativeFoundation.h"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLGraphicsConfig.m"},{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLLayer.h"}],"sha":"b65dd5719b83568648dc88ce21b83e50346fb5e0"}]
