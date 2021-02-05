@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add explicit NULL check and output in failure case"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"858ea536ff3c5e11b758fd554ba0e812630a61b9"},{"commit":{"message":"JDK-8261167"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"a03fa5fe34a0e87cccc51827cfa23e1d2128ccdc"}]
