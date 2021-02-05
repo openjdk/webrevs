@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,0 +71,1 @@\n+    CFLAGS_macosx := -Wno-format-nonliteral, \\\n","filename":"make\/modules\/jdk.jpackage\/Lib.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
