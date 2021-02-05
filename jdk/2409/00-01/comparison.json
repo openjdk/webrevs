@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2198,1 +2198,1 @@\n-  if (f) {\n+  if (f != NULL) {\n@@ -2225,0 +2225,2 @@\n+  } else {\n+    st->print_cr(\"Could not open \/proc\/self\/status to get process memory related information\");\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
