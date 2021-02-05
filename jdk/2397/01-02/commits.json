@@ -1,0 +1,1 @@
+[{"commit":{"message":"Missed updating caller of resolve_classes() - which never lets exceptions propagate"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"302c09771e25e4e207141ca48c4f5eb370084ebf"}]

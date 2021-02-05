@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1848,1 +1848,1 @@\n-    HeapShared::resolve_classes(CHECK);\n+    HeapShared::resolve_classes(THREAD);\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
