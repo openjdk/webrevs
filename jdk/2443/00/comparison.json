@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -204,1 +204,1 @@\n-            if (!isCompilable(COMP_LEVEL_ANY)) {\n+            if (!isCompilable(COMP_LEVEL_ANY) && TIERED_STOP_AT_LEVEL == COMP_LEVEL_FULL_OPTIMIZATION) {\n","filename":"test\/hotspot\/jtreg\/compiler\/whitebox\/MakeMethodNotCompilableTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
