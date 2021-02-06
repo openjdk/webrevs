@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261280: Remove THREAD argument from compute_loader_lock_object"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.hpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"}],"sha":"0414adb40c00d2f133bc05f5490c64d247cc6093"}]
