@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-    if (CompilerConfig::is_c1_only()) {\n+    if (CompilerConfig::is_c1_simple_only()) {\n","filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
