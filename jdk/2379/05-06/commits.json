@@ -1,0 +1,1 @@
+[{"commit":{"message":"improve jcmd GC.class_histogram to support parallel"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/heapRegionSet.cpp"},{"filename":"src\/hotspot\/share\/services\/diagnosticCommand.hpp"}],"sha":"ec2324ec598ee4a129511dc6610ac961e81ade9d"}]
