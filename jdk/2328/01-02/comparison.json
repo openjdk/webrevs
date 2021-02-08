@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -761,2 +761,1 @@\n-     * byte array. Throws an {@code IllegalArgumentException} if the data does\n-     * not correspond to a valid ICC Profile.\n+     * byte array.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/color\/ICC_Profile.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
