@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+        requires 'org.openjdk.skara.test'\n","filename":"jbs\/build.gradle","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
