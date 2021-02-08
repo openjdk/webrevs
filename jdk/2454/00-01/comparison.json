@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,1 +210,1 @@\n-    do {\n+    {\n@@ -238,1 +238,1 @@\n-    } while(0);\n+    }\n@@ -248,1 +248,1 @@\n-    do {\n+    {\n@@ -272,1 +272,1 @@\n-    } while(0);\n+    }\n","filename":"src\/jdk.jpackage\/share\/native\/common\/tstrings.cpp","additions":4,"deletions":4,"binary":false,"changes":8,"status":"modified"}]}
