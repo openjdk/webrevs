@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -327,0 +327,1 @@\n+            launcherLibPath = NULL;\n","filename":"src\/jdk.jpackage\/linux\/native\/applauncher\/LinuxPackage.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
