@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261310: PPC64 Zero build fails with 'VMError::controlled_crash(int)::FunctionDescriptor functionDescriptor' has incomplete type and cannot be defined"},"files":[{"filename":"src\/hotspot\/share\/utilities\/vmError.cpp"}],"sha":"980321836cc4cd6d5c8d8d4eb662e86fe458c85f"}]

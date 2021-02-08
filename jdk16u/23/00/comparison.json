@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1798,1 +1798,1 @@\n-#if defined(PPC64) && !defined(ABI_ELFv2)\n+#if defined(PPC64) && !defined(ABI_ELFv2) && !defined(ZERO)\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
