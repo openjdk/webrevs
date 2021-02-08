@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1750,1 +1750,1 @@\n-     * @deprecated Use a {@link javax.net.SocketFactory} and subclass {@code ServerSocket}\n+     * @deprecated Use a {@link javax.net.SocketFactory} and subclass {@code Socket}\n","filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
