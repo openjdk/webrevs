@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-    LIBS_linux := -nodefaultlibs -lc -ldl, \\\n+    LIBS_linux := -ldl, \\\n","filename":"make\/modules\/jdk.jpackage\/Lib.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
