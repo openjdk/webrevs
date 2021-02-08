@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -315,1 +315,1 @@\n-        } else if (PACKAGE_TYPE_RPM == pkg->type) {\n+        } else if (PACKAGE_TYPE_DEB == pkg->type) {\n","filename":"src\/jdk.jpackage\/linux\/native\/applauncher\/LinuxPackage.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
