@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,1 +263,1 @@\n-    int hash_bucket = e->hash() % MallocSiteTable::hash_buckets();\n+    int hash_bucket = ((unsigned)e->hash()) % MallocSiteTable::hash_buckets();\n","filename":"src\/hotspot\/share\/services\/memTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
