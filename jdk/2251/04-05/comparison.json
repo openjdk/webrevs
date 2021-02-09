@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -154,1 +154,1 @@\n-static bool do_check_signal_periodically[NSIG];\n+static bool do_check_signal_periodically[NSIG] = { 0 };\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
