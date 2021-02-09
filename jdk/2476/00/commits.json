@@ -1,0 +1,1 @@
+[{"commit":{"message":"6206189: Graphics2D.clip specifies incorrectly that a 'null' is a valid value for this method"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/Graphics2D.java"},{"filename":"test\/jdk\/java\/awt\/Graphics2D\/TestNullClip.java"}],"sha":"a7798fb5df6f37e561fd25e2f3639bbc4c110597"}]
