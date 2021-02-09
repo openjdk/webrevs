@@ -1,0 +1,1 @@
+[{"commit":{"message":"8241894: [lworld] crash in ZGC running InlineOops.java#id3"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/InlineOops.java"}],"sha":"c6eae750ea93cffa69b8b7e34fce0317ace2ac06"}]
