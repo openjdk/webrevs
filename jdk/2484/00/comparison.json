@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -856,1 +856,1 @@\n-    if (Atomic::cmpxchg(&_rand_seed, seed, rand) == seed) {\n+    if (Atomic::cmpxchg(&_rand_seed, seed, rand, memory_order_relaxed) == seed) {\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
