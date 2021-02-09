@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-  unsigned hash = 0;\n+  uintptr_t hash = 0;\n@@ -34,1 +34,1 @@\n-    hash += (unsigned)(uintptr_t)stack[i];\n+    hash += (uintptr_t)stack[i];\n","filename":"src\/hotspot\/share\/utilities\/nativeCallStack.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
