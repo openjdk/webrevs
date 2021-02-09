@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+#include \"atomic_aarch64.hpp\"\n@@ -35,1 +36,0 @@\n-#include \"atomic_aarch64.hpp\"\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
