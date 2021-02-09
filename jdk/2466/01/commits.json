@@ -1,0 +1,1 @@
+[{"commit":{"message":"8223188: Removed unnecessary #ifdef __cplusplus from .cpp sources"},"files":[{"filename":"src\/jdk.jpackage\/windows\/native\/libjpackage\/WindowsRegistry.cpp"},{"filename":"src\/jdk.jpackage\/windows\/native\/libjpackage\/jpackage.cpp"}],"sha":"bd1c3af538acf07522004ae304700f7b92a643fb"}]
