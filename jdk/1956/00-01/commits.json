@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use static_cast<double>\n\nTo match the style in this file, use static_cast to perform type\ncasting."},"files":[{"filename":"src\/hotspot\/share\/runtime\/threadHeapSampler.cpp"}],"sha":"5a30354cc117e488329d2ddd41114e1ce7a89983"}]
