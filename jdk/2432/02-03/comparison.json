@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -184,1 +184,1 @@\n-  \/\/ Class loader is weak. Determine whether the holder still alive.\n+  \/\/ Class loader is weak. Determine whether the holder is still alive.\n","filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetAssembler_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
