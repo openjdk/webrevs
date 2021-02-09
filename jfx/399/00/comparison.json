@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -145,0 +145,3 @@\n+        else if (code <= 0x109f) { \/\/ U+1000 - U+109F Myanmar\n+            return true;\n+        }\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/text\/ScriptMapper.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
