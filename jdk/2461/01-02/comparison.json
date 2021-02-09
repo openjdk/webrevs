@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,2 +55,2 @@\n-  G1SharedClosures<true>        _strong;\n-  G1SharedClosures<should_mark_weak>   _weak;\n+  G1SharedClosures<true>             _strong;\n+  G1SharedClosures<should_mark_weak> _weak;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RootClosures.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
