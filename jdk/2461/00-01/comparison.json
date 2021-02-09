@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-template <bool mark_weak>\n+template <bool should_mark_weak>\n@@ -56,1 +56,1 @@\n-  G1SharedClosures<mark_weak>   _weak;\n+  G1SharedClosures<should_mark_weak>   _weak;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RootClosures.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
