@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261492: Shenandoah: reconsider forwardee accesses memory ordering"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahForwarding.inline.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.inline.hpp"}],"sha":"b6ac8e4cf3c3b53f1d36b3263a31c9984ea2e6ee"}]
