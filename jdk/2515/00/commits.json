@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260687: Preserve StyleSheet context when evaluating CSS.FontSize value\n\nHonor the main StyleSheet.w3cLengthUnits setting at all times."},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/StyleSheet.java"}],"sha":"0fb02638be3ce370c8e132c0916c033da68e7d2f"}]
