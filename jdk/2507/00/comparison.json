@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @requires vm.gc.Parallel\n+ * @requires vm.gc.Parallel & os.maxMemory > 1G\n","filename":"test\/hotspot\/jtreg\/gc\/parallel\/TestDynShrinkHeap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
