@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261493: Shenandoah: reconsider bitmap access memory ordering"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMarkBitMap.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMarkBitMap.inline.hpp"}],"sha":"d0c5cab007864e4895f6d8c4bb22f9a48f844d42"}]
