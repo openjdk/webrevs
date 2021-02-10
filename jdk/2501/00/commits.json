@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261496: Shenandoah: reconsider pacing updates memory ordering"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPacer.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPacer.inline.hpp"}],"sha":"67fb9553332913f171eb6ecdd9e28469e7bd0d76"}]
