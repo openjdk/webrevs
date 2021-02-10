@@ -1,0 +1,1 @@
+[{"commit":{"message":"8247403: JShell: No custom input (e.g. from GUI) possible with JavaShellToolBuilder"},"files":[{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/internal\/jshell\/tool\/ConsoleIOContext.java"},{"filename":"test\/langtools\/jdk\/jshell\/CustomInputToolBuilder.java"}],"sha":"96c44308adbb9b34f7285c329953d22a5d0a6e2f"}]
