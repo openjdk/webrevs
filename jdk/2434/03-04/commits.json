@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move assembler stubs to linux-aarch64 dir."},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/atomic_linux_aarch64.S"},{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/atomic_linux_aarch64.hpp"}],"sha":"42926e4b1095b6a2782db6bb45180b7c0b0e0ae3"}]
