@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6773,0 +6773,2 @@\n+#ifdef LINUX\n+\n@@ -6775,0 +6777,2 @@\n+#endif \/\/ LINUX\n+\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
