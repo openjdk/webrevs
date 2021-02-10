@@ -1,0 +1,1 @@
+[{"commit":{"message":"Thomas review\n\nRemoved check for IPC_LOCK capability. If a large page mapping fails\nthe errno is already present in the warning printed out. We could\nlook at improving this to better explain when EPERM vs ENOMEM occurs."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"bf6cbce13e18216f2802451da0574239d3b5fd57"}]
