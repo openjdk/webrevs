@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261509: Move per-thread StackWatermark from Thread to JavaThread class"},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"c90213195d84107ea306b4a81c4e6820eece33d0"}]
