@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-  return Atomic::fetch_and_add(&_claimed, _stride);\n+  return Atomic::fetch_and_add(&_claimed, _stride, memory_order_relaxed);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootProcessor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

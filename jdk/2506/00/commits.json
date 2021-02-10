@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261504: Shenandoah: reconsider ShenandoahJavaThreadsIterator::claim memory ordering"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootProcessor.cpp"}],"sha":"3e12b28431a7634b5e9ca84b0f39a3c77b106ec7"}]
