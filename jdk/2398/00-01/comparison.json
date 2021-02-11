@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,1 @@\n+#include \"runtime\/vmOperations.hpp\"\n","filename":"src\/hotspot\/share\/runtime\/interfaceSupport.inline.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
