@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261585: Restore HandleArea used in Deoptimization::uncommon_trap"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/uncommontrap\/UncommonTrapLeak.java"}],"sha":"9900060bd491fa03d59d9e10b780b118ce9b146a"}]
