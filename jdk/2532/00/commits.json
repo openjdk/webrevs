@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261533: ava_sun_font_CFont_getCascadeList leaks memory according to Xcode Instruments leak profile"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/font\/AWTFont.m"}],"sha":"d83a6a63dc81dbd94e38fe0de2fae853435ef828"}]
