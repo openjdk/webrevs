@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-\/\/ resisters we use. If we called the stubs via an ABI call we'd have\n+\/\/ registers we use. If we called the stubs via an ABI call we'd have\n","filename":"src\/hotspot\/os_cpu\/linux_aarch64\/atomic_linux_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
