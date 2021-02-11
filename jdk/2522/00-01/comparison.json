@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1529,1 +1529,1 @@\n-      if (UseAVX < 3) {\n+      if (UseAVX < 3 || !VM_Version::supports_bmi2()) {\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
