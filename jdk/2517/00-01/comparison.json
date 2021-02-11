@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -482,1 +482,1 @@\n-    \/\/ RFC 8446 PSK extension must be last\n+    \/\/ TLS 1.3 (RFC 8446) PSK extension must be last\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLExtension.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
