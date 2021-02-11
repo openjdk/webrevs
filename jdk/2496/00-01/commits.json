@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make sure to access fwdptr with acquire semantics in assembler code"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoahBarrierSetAssembler_aarch64.cpp"}],"sha":"4962678150812f0b0d40b096fbad1ee9dd02d749"}]
