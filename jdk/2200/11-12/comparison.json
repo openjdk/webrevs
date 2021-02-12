@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -323,1 +323,1 @@\n-  str(zr, Address(rthread, JavaFrameAnchor::saved_fp_address_offset()));\n+  str(zr, Address(rthread, JavaThread::saved_fp_address_offset()));\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
