@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6775,0 +6775,1 @@\n+#if 0  \/\/ JDK-8261660: disabled for now.\n@@ -6776,0 +6777,1 @@\n+#endif\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
