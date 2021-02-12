@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,1 +237,1 @@\n-     * The string output is not necessary stable over time or across JVM invocations.\n+     * The string output is not necessarily stable over time or across JVM invocations.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Object.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
