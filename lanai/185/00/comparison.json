@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-#define MTLVC_MAX_INDEX         1536\n+#define MTLVC_MAX_INDEX         250\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLVertexCache.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
