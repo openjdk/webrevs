@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261631: [lworld] Fatal error in C1 compiled code due to unexpected klass"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_Instruction.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestGenerated.java"}],"sha":"28df8014679d33437cebb190302384bf849bfd55"}]
