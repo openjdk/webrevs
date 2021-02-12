@@ -1,0 +1,1 @@
+[{"commit":{"message":"Implement ShenandoahHeap::requires_barriers()"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp"}],"sha":"a5e9003189ec0ab1210aac1ff404a57ecb1259cf"}]
