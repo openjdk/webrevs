@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-  bool card_mark_must_follow_store() const {\n+  virtual bool card_mark_must_follow_store() const {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1BarrierSet.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
