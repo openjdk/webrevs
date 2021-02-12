@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,0 +46,2 @@\n+  CardTableBarrierSet* ctbs = barrier_set_cast<CardTableBarrierSet>(BarrierSet::barrier_set());\n+  CardTable* ct = ctbs->card_table();\n","filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/cardTableBarrierSetAssembler_ppc.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
