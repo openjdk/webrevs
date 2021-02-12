@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,0 @@\n-    __ membar(Assembler::StoreLoad);\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/shared\/cardTableBarrierSetAssembler_aarch64.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
