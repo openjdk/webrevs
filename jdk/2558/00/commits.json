@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260414: Remove unused set_single_threaded_mode() method in task executor"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/referenceProcessor.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/referenceProcessor.hpp"}],"sha":"99ba136742948f1b7aa7c0254ff6a8233214e502"}]
