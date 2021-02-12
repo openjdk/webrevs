@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5270,1 +5270,1 @@\n-\/\/ On Windows, the helper is a usual C function.\n+\/\/ On other systems, the helper is a usual C function.\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
