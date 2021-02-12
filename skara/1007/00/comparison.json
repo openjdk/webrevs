@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-            final var maxDuration = Duration.ofMillis(100);\n+            final var maxDuration = Duration.ofMillis(1500);\n","filename":"bots\/cli\/src\/test\/java\/org\/openjdk\/skara\/bots\/cli\/BotSlackHandlerTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
