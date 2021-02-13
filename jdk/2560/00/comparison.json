@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -152,1 +152,1 @@\n-  void                        set_visited(bool visited) { _visited = false; }\n+  void                        set_visited(bool visited) { _visited = visited; }\n","filename":"src\/hotspot\/share\/code\/debugInfo.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
