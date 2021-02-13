@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,2 +43,1 @@\n-    _size(size)\n-  {}\n+    _size(size) {}\n","filename":"src\/hotspot\/share\/services\/threadStackTracker.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
