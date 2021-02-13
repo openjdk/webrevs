@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore old comparison behavior in MallocSiteTable"},"files":[{"filename":"src\/hotspot\/share\/services\/allocationSite.hpp"},{"filename":"src\/hotspot\/share\/services\/mallocSiteTable.cpp"}],"sha":"2b06cdf61ad5f15c57075dde4732a58a84b3eec0"}]
