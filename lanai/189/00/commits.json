@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261712: Lanai: Crash in MTLClip when Metal API Validation enabled\n\nDo not use stencil in stencil mask generation"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/EncoderManager.m"}],"sha":"dce6d11e8a35bee72d2bf789256071878fdfbc77"}]
