@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8234733\n+ * @bug 8234733 8260291\n@@ -104,1 +104,0 @@\n-        instructionTextArea.setBackground(Color.white);\n","filename":"test\/jdk\/javax\/swing\/JSpinner\/TestJSpinnerPressUnpress.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
