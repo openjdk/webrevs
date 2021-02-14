@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -375,1 +375,1 @@\n-    _useStencil = [_mtlc.clip isShape];\n+    _useStencil = [_mtlc.clip isShape] && !_mtlc.clip.stencilMaskGenerationInProgress;\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/EncoderManager.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
