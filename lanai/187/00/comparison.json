@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -702,1 +702,0 @@\n-            [blitEncoder synchronizeTexture:srcOps->pTexture slice:0 level:0];\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLBlitLoops.m","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
