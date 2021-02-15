@@ -1,0 +1,1 @@
+[{"commit":{"message":"8080272: Refactor I\/O stream copying to use java.io.InputStream.transferTo\nremove unnecessary file.exists() check"},"files":[{"filename":"src\/java.management\/share\/classes\/javax\/management\/loading\/MLet.java"}],"sha":"6e71e96149cfca8c1e5f72100a6213c476a35e1e"}]
