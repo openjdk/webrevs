@@ -1,0 +1,1 @@
+[{"commit":{"message":"* Don't depend on bot name when looking for review comment\n* Fix crash in \"git info\" for projects where .jcheck\/conf was missing the \"jbs\" key"},"files":[{"filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitInfo.java"}],"sha":"d23292dae3be2e0e0bcf7144955e1f15f94aa746"}]
