@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,1 +147,1 @@\n-        \/\/ Make sure no -Xcheck:jni failures. WARNING: JNI local refs\n+        \/\/ Make sure there are no -Xcheck:jni warnings.\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/ClhsdbLauncher.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
