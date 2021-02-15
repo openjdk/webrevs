@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixes indention."},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestGCLogMessages.java"}],"sha":"3c8c401ef287c3d1fc4c9661d657b50c348236b8"},{"commit":{"message":"Adds -Xms = -Xmx to not rely on ergonomics."},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestGCLogMessages.java"}],"sha":"3862a05d3e55ca6d3704c5802a32c53217e25905"}]
