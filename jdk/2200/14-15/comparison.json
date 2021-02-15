@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-\/\/ for example double\/long should be 8 bytes alligned\n+\/\/ for example double\/long should be 8 bytes aligned.\n","filename":"src\/hotspot\/cpu\/aarch64\/interpreterRT_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
