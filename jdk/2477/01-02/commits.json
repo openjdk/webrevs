@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't disable all class-unloading with I-U, disabling concurrent class-unloading is sufficient"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/mode\/shenandoahIUMode.cpp"}],"sha":"6e99cc98063230e9b2b9460c018feb51cef2ca7e"}]
