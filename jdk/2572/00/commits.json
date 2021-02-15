@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252883: AccessDeniedException caused by delayed file deletion on Windows"},"files":[{"filename":"src\/java.logging\/share\/classes\/java\/util\/logging\/FileHandler.java"},{"filename":"test\/jdk\/java\/util\/logging\/FileHandlerAccessTest.java"}],"sha":"045d725f355affafa0431d0b3ab21a4f3508a269"}]
