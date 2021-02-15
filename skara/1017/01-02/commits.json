@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use ConcurrentHashMap instead of HashSet"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/PullRequestBot.java"}],"sha":"aa65a546db5a2bf32489525a1324816c4d8d31a2"}]
