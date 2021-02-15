@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make KeepStackGCProcessedMark non-reentrant again"},"files":[{"filename":"src\/hotspot\/share\/runtime\/keepStackGCProcessed.cpp"},{"filename":"src\/hotspot\/share\/runtime\/stackWatermark.cpp"},{"filename":"src\/hotspot\/share\/runtime\/stackWatermark.hpp"}],"sha":"345f78b4f45b554c626dd0a849a46024c1258dd5"}]
