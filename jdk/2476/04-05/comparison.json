@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1204,1 +1204,1 @@\n-     * with the current clip, it will throw NPE for a null shape\n+     * with the current clip, it will throw {@code NullPointerException} for a null shape\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Graphics2D.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
