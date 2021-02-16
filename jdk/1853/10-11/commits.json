@@ -1,0 +1,1 @@
+[{"commit":{"message":"8080272: Refactor I\/O stream copying to use java.io.InputStream.transferTo\ncleanup"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarInputStream.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/X509CertPath.java"}],"sha":"1b30471d22626bbef66b1dffdfbc026d9b787714"}]
