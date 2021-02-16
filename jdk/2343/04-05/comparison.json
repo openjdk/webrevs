@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1484,1 +1484,1 @@\n-        if (subjectPubKey.equals(issuerPubKey)) {\n+        if (Arrays.equals(subjectPubKey.getEncoded(), issuerPubKey.getEncoded())) {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/tools\/keytool\/Main.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
