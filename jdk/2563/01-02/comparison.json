@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -978,1 +978,0 @@\n-     base = get_lib_base(ph, i);\n","filename":"src\/jdk.hotspot.agent\/macosx\/native\/libsaproc\/MacosxDebuggerLocal.m","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
