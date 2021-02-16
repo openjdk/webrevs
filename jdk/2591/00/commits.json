@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260416: Remove unused method ReferenceProcessor::is_mt_processing_set_up()"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/referenceProcessor.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/referenceProcessor.hpp"}],"sha":"a638f16d7600866aa2c1600c50132cb23dd69f7d"}]
