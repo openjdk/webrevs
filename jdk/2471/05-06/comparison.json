@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n- * BigDecimal#equals()} to return true, the representation and\n+ * BigDecimal.equals()} to return true, the representation and\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Comparable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
