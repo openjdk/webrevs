@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changing Collections.unmodifiable* to idempotent behavior."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Collections.java"},{"filename":"test\/jdk\/java\/util\/Collections\/WrappedUnmodifiableCollections.java"}],"sha":"e0a06bf70199ccb25b7f33bb1eaa7de02199990e"}]
