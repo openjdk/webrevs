@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,0 +58,1 @@\n+      new_thread = NULL;\n@@ -69,0 +70,2 @@\n+  } else {\n+    Thread::start(new_thread);\n@@ -70,1 +73,0 @@\n-  Thread::start(new_thread);\n","filename":"src\/hotspot\/share\/jfr\/recorder\/service\/jfrRecorderThread.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
