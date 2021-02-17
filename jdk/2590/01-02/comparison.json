@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9172,1 +9172,1 @@\n-  predicate(VM_Version::supports_bmi2() && VM_Version::is_intel());\n+  predicate(VM_Version::supports_bmi2());\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
