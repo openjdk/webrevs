@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -475,1 +475,1 @@\n-          (info->si_code == FPE_INTDIV || info->si_code == FPE_FLTDIV)) {\n+          (info->si_code == FPE_INTDIV || info->si_code == FPE_FLTDIV MACOS_ONLY(|| info->si_code == FPE_FLTINV))) {\n","filename":"src\/hotspot\/os_cpu\/bsd_x86\/os_bsd_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"apply new check to macOS only"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_x86\/os_bsd_x86.cpp"}],"sha":"0b8155117b88543637dbf4535351be8fb4afaeea"},{"commit":{"message":"add FPE_FLTINV to div by 0 signal handler"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_x86\/os_bsd_x86.cpp"}],"sha":"8615373830738da24b99c2fce9de5f8155948417"}]
