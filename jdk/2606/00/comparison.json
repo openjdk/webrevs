@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2172,0 +2172,3 @@\n+  \/\/ Remove unreachable nodes that may keep speculative types alive\n+  PhaseRemoveUseless(&igvn, for_igvn(), Remove_Useless);\n+\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
