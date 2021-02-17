@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removing ImmutableCollections.* idempotency"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Collections.java"},{"filename":"test\/jdk\/java\/util\/Collections\/WrappedUnmodifiableCollections.java"}],"sha":"a9588e9cbf777bdf015997ac905a09d45fa4bc26"}]
