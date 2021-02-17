@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+#include \"utilities\/macros.hpp\"\n@@ -46,0 +47,1 @@\n+#if INCLUDE_SHENANDOAHGC\n@@ -49,0 +51,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/gc\/shared\/gcConfiguration.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
