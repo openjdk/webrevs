@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1206,1 +1206,1 @@\n-     * for a null shape unless the user clip is also {@code null}.\n+     * for a {@code null} shape unless the user clip is also {@code null}.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Graphics2D.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
