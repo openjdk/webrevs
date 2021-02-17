@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -289,1 +289,1 @@\n-    \/\/ Only when the target is not executing the handshake it self.\n+    \/\/ Only when the target is not executing the handshake itself.\n","filename":"src\/hotspot\/share\/runtime\/handshake.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
