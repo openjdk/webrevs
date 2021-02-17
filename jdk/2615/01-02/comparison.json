@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -474,0 +474,2 @@\n+      \/\/ Workaround for macOS ARM incorrectly reporting FPE_FLTINV for \"div by 0\" instead of the expected FPE_FLTDIV\n+      \/\/ when running x86_64 binary under Rosetta emulation\n","filename":"src\/hotspot\/os_cpu\/bsd_x86\/os_bsd_x86.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
