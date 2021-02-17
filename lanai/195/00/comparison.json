@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -320,1 +320,1 @@\n-const int NUM_OF_VERTICES_PER_SCANLINE = 3;\n+const int NUM_OF_VERTICES_PER_SCANLINE = 2;\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLRenderer.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
