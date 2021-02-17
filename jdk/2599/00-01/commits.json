@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed ppc\/s390 builds"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_ppc\/thread_linux_ppc.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_s390\/thread_linux_s390.cpp"}],"sha":"700d1c16a12c099cdfa9df2315e807b766dcc19b"}]
