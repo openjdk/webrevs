@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,3 @@\n+#include \"logging\/log.hpp\"\n+#include \"logging\/logTag.hpp\"\n+#include \"runtime\/globals_extension.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/mode\/shenandoahGenerationalMode.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
