@@ -1,0 +1,1 @@
+[{"commit":{"message":"write method should handle all RuntimeExceptions other than unchecked io exception to return RUNTIME_ERROR exit code."},"files":[{"filename":"src\/jdk.incubator.jextract\/share\/classes\/jdk\/incubator\/jextract\/JextractTool.java"}],"sha":"8b73d3c1504d29df38b86e26326ea9e8638fe158"}]
