@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix builds that do not have Shenandoah or other GCs"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gcConfiguration.cpp"}],"sha":"45786b08a19d2d6ec6c904ec817f71a1a9176fbe"}]
