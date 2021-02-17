@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260366: ExtendedSocketOptions <clinit> can deadlock in some circumstances"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/ext\/ExtendedSocketOptions.java"},{"filename":"test\/jdk\/sun\/net\/ext\/ExtendedSocketOptionsTest.java"}],"sha":"7aaed261f3afc42d8a1eea0b4f49d6fb43d767dd"}]
