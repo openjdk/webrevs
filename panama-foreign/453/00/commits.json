@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261893: jextract generates class names that are restricted type names"},"files":[{"filename":"src\/jdk.incubator.jextract\/share\/classes\/jdk\/internal\/jextract\/impl\/Utils.java"},{"filename":"test\/jdk\/tools\/jextract\/Test8261893.java"},{"filename":"test\/jdk\/tools\/jextract\/test8261893.h"}],"sha":"89ff38b758cc33b2105137eaed58ae4e164a3ada"}]
