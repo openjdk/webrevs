@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-    int len = strlen(str);\n+    int len = (int)strlen(str);\n","filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/foreign\/libStrLen.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
