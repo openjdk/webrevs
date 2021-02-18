@@ -1,0 +1,1 @@
+[{"commit":{"message":"AIX stty command should be executed on C locale to get English message"},"files":[{"filename":"src\/jdk.internal.le\/share\/classes\/jdk\/internal\/org\/jline\/utils\/ExecHelper.java"},{"filename":"src\/jdk.internal.le\/share\/classes\/jdk\/internal\/org\/jline\/utils\/OSUtils.java"}],"sha":"127052cbe26e119683c61b3781c0f2428c6e08fe"}]
