@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261803: Remove unused TaskTerminator in g1 full gc ref proc executor"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCReferenceProcessorExecutor.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCReferenceProcessorExecutor.hpp"}],"sha":"4feab129ea143c7ab7f40db034000cb517e2072d"}]
