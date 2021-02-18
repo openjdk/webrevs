@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,5 +117,2 @@\n-        try {\n-            this.annotate(in, sb);\n-        } finally {\n-            return sb.toString();\n-        }\n+        this.annotate(in, sb);\n+        return sb.toString();\n","filename":"test\/lib\/jdk\/test\/lib\/hexdump\/ASN1Formatter.java","additions":2,"deletions":5,"binary":false,"changes":7,"status":"modified"}]}
