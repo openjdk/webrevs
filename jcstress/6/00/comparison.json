@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -13,2 +13,2 @@\n-        build-java: [11, 16-ea]\n-        run-java: [8, 11, 16-ea]\n+        build-java: [11, 16-ea, 17-ea]\n+        run-java: [8, 11, 16-ea, 17-ea]\n","filename":".github\/workflows\/pre-integration.yml","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
