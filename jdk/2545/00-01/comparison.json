@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -149,1 +149,1 @@\n-    \/\/ Make sure region hasn't been coarsened by other thread.\n+    \/\/ Rechecking if the region is coarsened, while holding the lock.\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegionRemSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
