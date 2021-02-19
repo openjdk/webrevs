@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reduce the scope of the synchronized block in getInstance() and enhance the testcase to be more robust in catching the deadlocks"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/ext\/ExtendedSocketOptions.java"},{"filename":"test\/jdk\/sun\/net\/ext\/ExtendedSocketOptionsTest.java"}],"sha":"5ddb3cf727498260bbe5cce5fecf10dbfb01ca97"}]
