@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -321,1 +321,1 @@\n-    int args_len = strlen(arg_str);\n+    size_t args_len = strlen(arg_str);\n","filename":"src\/hotspot\/share\/services\/attachListener.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
