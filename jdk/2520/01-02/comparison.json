@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7551,1 +7551,1 @@\n-      assert(vlen_in_bytes < 16, \"required\");\n+      assert(vlen_in_bytes <= 16, \"required\");\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
