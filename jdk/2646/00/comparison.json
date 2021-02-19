@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,4 +53,0 @@\n-PRAGMA_DIAG_PUSH\n-\/\/ warning C4522: multiple assignment operators specified\n-PRAGMA_DISABLE_MSVC_WARNING(4522)\n-\n@@ -92,2 +88,0 @@\n-PRAGMA_DIAG_POP\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}

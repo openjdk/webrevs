@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254239: G1ConcurrentMark.hpp unnecessarily disables MSVC++ warning 4522"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp"}],"sha":"e635cee530e414503d6e84261ce636123d282ee9"}]
