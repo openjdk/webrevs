@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 76ac62139463f1cbdb6029118b79cf8458861863"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestStressRecompilation.java"}],"sha":"3238d9b1df848a2bcbb60d129678504df7a0cfc3"}]
