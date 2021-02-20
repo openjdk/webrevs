@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255867: SignatureScheme JSSE property does not preserve ordering in handshake messages"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SignatureScheme.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/SignatureScheme\/SigSchemePropOrdering.java"}],"sha":"4924725351879ac718b508e6e71becef90724ef0"}]
