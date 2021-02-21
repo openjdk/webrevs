@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -558,0 +558,2 @@\n+  } else if (!has_c2() && !is_jvmci_compiler()) {\n+    set_client_emulation_mode_flags();\n","filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
