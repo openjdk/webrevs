@@ -1,0 +1,1 @@
+[{"commit":{"message":"only add is_cpu_emulated() to bsd platform, where currently needed"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"},{"filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.hpp"}],"sha":"3bfe8ebdc3fec6c0df6596b1fd796eb723ad5a8e"}]
