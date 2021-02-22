@@ -1,0 +1,1 @@
+[{"commit":{"message":"4710675: JTextArea.setComponentOrientation does not work with correct timing"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicTextUI.java"},{"filename":"test\/jdk\/javax\/swing\/JTextArea\/JTextAreaOrientationTest.java"}],"sha":"0905272480d3386cb6711cb276a2a132492822f6"}]
