@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -242,1 +242,1 @@\n-                     + obj4 + \", notified: \" + (testWeak == null));\n+                     + obj4 + \", notified: \" + (testWeak4 == null));\n","filename":"test\/hotspot\/jtreg\/gc\/TestReferenceRefersTo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
