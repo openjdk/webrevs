@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,2 @@\n+#ifdef __APPLE__\n+\n@@ -44,0 +46,3 @@\n+\n+#endif\n+\n","filename":"src\/hotspot\/os_cpu\/bsd_x86\/vm_version_bsd_x86.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}

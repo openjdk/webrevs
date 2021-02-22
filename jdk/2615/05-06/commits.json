@@ -1,0 +1,1 @@
+[{"commit":{"message":"wrap macOS specific code in #ifdef __APPLE__"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_x86\/vm_version_bsd_x86.cpp"}],"sha":"035adbf0e36d80307213e93593f54de79e038553"}]
