@@ -1,0 +1,1 @@
+[{"commit":{"message":"Split TestReferenceRefersTo test in generic and non-Shenandoah parts"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/TestReferenceRefersTo.java"},{"filename":"test\/hotspot\/jtreg\/gc\/TestReferenceRefersToDuringConcMark.java"}],"sha":"9746bc852acce891f98e1a9b509d79bef33230f6"}]
