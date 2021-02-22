@@ -1,0 +1,1 @@
+[{"commit":{"message":"move the API from vm_version_x86 to vm_version_bsd_x86"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/os_cpu\/bsd_x86\/vm_version_bsd_x86.cpp"}],"sha":"cadaa95314aa123433e3db49790b250e7d1f1037"}]
