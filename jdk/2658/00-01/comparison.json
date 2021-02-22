@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,0 @@\n-import java.util.stream.Collectors;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SignatureScheme.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
