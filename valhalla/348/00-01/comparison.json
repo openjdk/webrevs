@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,3 +112,1 @@\n-#ifdef ASSERT\n-  Node* ctrl = kit.control();\n-#endif\n+\n@@ -136,0 +134,1 @@\n+\n@@ -137,1 +136,0 @@\n-  assert(ctrl == kit.control(), \"Control flow was added although we bailed out\");\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}

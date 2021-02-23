@@ -1,0 +1,1 @@
+[{"commit":{"message":"Completely removed assert because it triggers bugs in mainline code"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"bca88c7a32b70a752cac32bb28348972bb8616c5"}]
