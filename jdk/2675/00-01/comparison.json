@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1473,1 +1473,1 @@\n-  product(size_t, MetaspaceSize, NOT_LP64(14 * M) LP64_ONLY(20 * M),        \\\n+  product(size_t, MetaspaceSize, NOT_LP64(16 * M) LP64_ONLY(21 * M),        \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
