@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,4 +26,4 @@\n-    long  a         : 45;\n-    long  b         : 24;\n-    long  c         : 1;\n-    long  d         : 58;\n+    long long a: 45;\n+    long long b: 24;\n+    long long c: 1;\n+    long long d: 58;\n","filename":"test\/jdk\/tools\/jextract\/badBitfields.h","additions":4,"deletions":4,"binary":false,"changes":8,"status":"modified"}]}
