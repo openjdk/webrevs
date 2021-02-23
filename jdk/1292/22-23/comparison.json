@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,1 +235,1 @@\n- *      <td style=\"text-align:left\">L32X64StarStarRandom<\/td>\n+ *      <td style=\"text-align:left\">L32X64MixRandom<\/td>\n","filename":"src\/java.base\/share\/classes\/java\/util\/random\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
