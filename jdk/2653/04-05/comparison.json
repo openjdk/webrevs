@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @requires vm.gc != \"Shenandoah\"\n+ * @requires vm.gc != \"Shenandoah\" | vm.opt.ShenandoahGCMode != \"iu\"\n","filename":"test\/hotspot\/jtreg\/gc\/TestReferenceRefersToDuringConcMark.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
