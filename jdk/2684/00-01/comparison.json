@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+ * @run main\/othervm -XX:-UseFMA FusedMultiplyAddTests\n","filename":"test\/jdk\/java\/lang\/Math\/FusedMultiplyAddTests.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
