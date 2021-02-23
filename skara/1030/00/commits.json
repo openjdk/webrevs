@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid expensive operations when comparing commit command work items"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CommitCommandWorkItem.java"},{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/PullRequestBot.java"}],"sha":"3b72b5e25518ee0571122e2d584c5ae6942c60ed"}]
