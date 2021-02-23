@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-  static inline class Point {\n+  static primitive class Point {\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/TypeRestrictions\/RestrictedMethodTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
