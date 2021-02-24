@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262188: Thomas review\n\nUpdated with an additional run with setting page size = 2m and moved the regexp-string to where it is used."},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestTracePageSizes.java"}],"sha":"d869aed20cc56a26e2b052815a4033893be30de0"}]
