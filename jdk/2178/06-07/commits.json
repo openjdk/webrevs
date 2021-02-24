@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260198: TypeInstPtr::dump2() emits multiple lines if Verbose is set\n\nadd comments and hoist ResourceMark"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"}],"sha":"aeff9ecc4518dbd220553161bebce3d8d291c222"}]
