@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -209,1 +209,1 @@\n-                        .replace(\">\", \"&gt\");\n+                        .replace(\">\", \"&gt;\");\n","filename":"make\/jdk\/src\/classes\/build\/tools\/taglet\/JSpec.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
