@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262275: Math vector stubs are not called for double64 vectors"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"25fa2549ce148078dbec8a368b47637a7ae7fa8f"}]
