@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-    if ((at(cur_idx)->reclaimable_bytes() + pruned_bytes) <= prune_total_bytes) {\n+    if ((at(cur_idx)->reclaimable_bytes() + pruned_bytes) > prune_total_bytes) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSetCandidates.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
