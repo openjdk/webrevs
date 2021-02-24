@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,0 +127,1 @@\n+                \/\/ Skip test when native GSS libs are not available in running platform\n","filename":"test\/jdk\/sun\/security\/krb5\/auto\/ReplayCacheTestProc.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
