@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -368,1 +368,1 @@\n-    int min_lane_count = 64 \/ type2aelembytes(bt);\n+    int min_lane_count = 8 \/ type2aelembytes(bt);\n","filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
