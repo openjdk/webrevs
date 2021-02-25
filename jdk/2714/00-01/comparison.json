@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -339,1 +339,1 @@\n-                    if (type.getName() != CHUNKHEADER) {\n+                    if (!type.getName().equals(CHUNKHEADER)) {\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/consumer\/ChunkParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
