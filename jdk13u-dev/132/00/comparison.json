@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -686,0 +686,4 @@\n+      case JVM_CONSTANT_Dynamic:\n+        stream->skip_u2_fast(1);\n+        stream->skip_u2_fast(1);\n+      continue;\n","filename":"src\/hotspot\/share\/jfr\/instrumentation\/jfrEventClassTransformer.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
