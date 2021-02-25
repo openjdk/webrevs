@@ -1,0 +1,1 @@
+[{"commit":{"message":"In rare cases, the unlock() on join() might fail, causing an IllegalMonitorStateException"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/VirtualThread.java"}],"sha":"897df4ff9691a5f997591ea08a1a12ada5655fb1"}]
