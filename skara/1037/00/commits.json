@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow issues to be excluded from the hgupdate-sync logic"},"files":[{"filename":"bots\/synclabel\/src\/main\/java\/org\/openjdk\/skara\/bots\/synclabel\/SyncLabelBotUpdateLabelWorkItem.java"},{"filename":"bots\/synclabel\/src\/test\/java\/org\/openjdk\/skara\/bots\/synclabel\/SyncLabelBotTests.java"}],"sha":"322bf6b49e7f744afb38290c3a1e0a4d2cc0f48b"}]
