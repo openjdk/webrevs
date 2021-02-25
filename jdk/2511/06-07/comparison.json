@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,2 +99,0 @@\n-  \/\/ invocation_count() may have overflowed already. Interpret it's result as\n-  \/\/ unsigned int to shift the limit of meaningless results by a factor of 2.\n","filename":"src\/hotspot\/share\/runtime\/java.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
