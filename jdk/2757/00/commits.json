@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262368: wrong verifier message for bogus return type"},"files":[{"filename":"src\/hotspot\/share\/classfile\/verifier.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/verifier\/ReturnMsgs.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/verifier\/Returns.jasm"}],"sha":"a81051584d6c5c9f230fe201f1893fa7a974ad74"}]
