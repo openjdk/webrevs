@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,0 @@\n- * @run testng\/othervm -XX:TieredStopAtLevel=3 PreferredSpeciesTest\n","filename":"test\/jdk\/jdk\/incubator\/vector\/PreferredSpeciesTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
