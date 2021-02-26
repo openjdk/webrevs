@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -518,2 +518,0 @@\n-  guarantee(false, \"current_thread=\" INTPTR_FORMAT \" is not protecting p=\"\n-            INTPTR_FORMAT, p2i(current_thread), p2i(p));\n","filename":"src\/hotspot\/share\/runtime\/thread.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
