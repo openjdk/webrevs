@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1913,0 +1913,2 @@\n+                \/\/ if a default direction of right-to-left has been specified,\n+                \/\/ we want complex layout even if the text is all left to right.\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicTextUI.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
