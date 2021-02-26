@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -324,2 +324,2 @@\n-    ex->print();                           \\\n-    ShouldNotReachHere();                  \\\n+    DEBUG_ONLY(ex->print();)               \\\n+    assert(false, \"CATCH\");                \\\n","filename":"src\/hotspot\/share\/utilities\/exceptions.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
