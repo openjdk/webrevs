@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261483: Eliminate flakiness of the tests by using iteration number limit and explicitly running GC"},"files":[{"filename":"test\/jdk\/jdk\/dynalink\/TypeConverterFactoryMemoryLeakTest.java"},{"filename":"test\/jdk\/jdk\/dynalink\/TypeConverterFactoryRetentionTests.java"}],"sha":"f5922c486d592d18cb54398549de70a43c484145"}]
