@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262498: More than 50% performance degradation of pow operator due to call with svml intrinsic after JDK-8261267"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"429f21420f0a94f47fda04e6a4ac6b8ab40b1526"}]
