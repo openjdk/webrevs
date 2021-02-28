@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1703,1 +1703,1 @@\n-    st->print(\"%s \", buffer);\n+    st->print_cr(buffer);\n@@ -1705,1 +1705,1 @@\n-    st->print(\"N\/A \");\n+    st->print_cr(\"N\/A\");\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
