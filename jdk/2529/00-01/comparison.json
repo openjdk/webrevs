@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,0 +127,2 @@\n+    \/\/ The loop body is always executed at least once even if init >= limit (for stride_con > 0) or\n+    \/\/ init <= limit (for stride_con < 0).\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
