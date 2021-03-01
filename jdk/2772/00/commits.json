@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8262509: JSSE Server should check the legacy version in TLSv1.3 ClientHello"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/ClientHello.java"}],"sha":"f6d29dcfc32ed17f5343ab2e2e8bd5388f0b3f28"}]
