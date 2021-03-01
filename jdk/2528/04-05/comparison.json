@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3105,1 +3105,1 @@\n-  \n+\n","filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"},{"patch":"@@ -3443,1 +3443,1 @@\n-  \n+\n","filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
