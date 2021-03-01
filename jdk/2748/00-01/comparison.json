@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-    static final int NUM_ACCESSORS = Math.max(10, Runtime.getRuntime().availableProcessors());\n+    static final int NUM_ACCESSORS = Math.min(10, Runtime.getRuntime().availableProcessors());\n","filename":"test\/jdk\/java\/foreign\/TestHandshake.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
