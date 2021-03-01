@@ -1,0 +1,1 @@
+[{"commit":{"message":"Assert out of FullGC lower in the stack for generational mode"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFullGC.cpp"}],"sha":"68318947fd95ebcfb4b5ff8464ebb43177a2122b"}]
