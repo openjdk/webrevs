@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262519: AArch64: Unnecessary acquire semantics of atomics in C++ Hotspot code"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/atomic_linux_aarch64.S"}],"sha":"a0044723dda5fa62819968048ea29a7422883859"}]
