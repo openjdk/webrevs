@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use macro INSN\n\nUse macro INSN to define smov and umov so that it would be easy for\nusers to figure out the difference between these two instructions."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp"}],"sha":"d562ec15b6e099f2a352c5803144303b0c770caa"}]
