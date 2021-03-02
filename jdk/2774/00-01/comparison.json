@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -453,1 +453,1 @@\n-        if (ft == T_SHORT || ft == T_BYTE || ft == T_CHAR || ft == T_BOOLEAN) {\n+        if (is_subword_type(ft)) {\n","filename":"src\/hotspot\/share\/opto\/macro.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
