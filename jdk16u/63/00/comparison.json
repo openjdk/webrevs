@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -229,0 +229,3 @@\n+        if (isZero()) {\n+            return false; \/\/ SA is not enabled.\n+        }\n","filename":"test\/lib\/jdk\/test\/lib\/Platform.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
