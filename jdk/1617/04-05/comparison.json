@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -579,1 +579,1 @@\n-     * Some JVMs (such as Hotspot) have an implementation limit that will cause\n+     * Some JVMs (such as HotSpot) have an implementation limit that will cause\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/ArraysSupport.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
