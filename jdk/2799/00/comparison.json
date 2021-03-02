@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n-JAVADOC_DISABLED_DOCLINT := accessibility html missing syntax reference\n+JAVADOC_DISABLED_DOCLINT := missing\n","filename":"make\/Docs.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
