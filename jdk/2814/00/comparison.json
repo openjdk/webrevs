@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,0 +98,3 @@\n+  if (FLAG_IS_DEFAULT(ContendedPaddingWidth) && (dcache_line > ContendedPaddingWidth)) {\n+      ContendedPaddingWidth = dcache_line;\n+  }\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

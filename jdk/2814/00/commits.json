@@ -1,0 +1,1 @@
+[{"commit":{"message":"8239386: handle ContendedPaddingWidth in vm_version_aarch64\n\nHandle ContendedPaddingWidth the same way other architectures do"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"e666167f36457d3eefdc3134b7bf3c62655ad202"}]
