@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix a typo introduced in prior change.\n\nThis fixes the crashing case reported on github's PR."},"files":[{"filename":"src\/hotspot\/share\/opto\/macro.cpp"}],"sha":"672bf3c1c650211582dc605bb20ad4c9f0ca5479"}]
