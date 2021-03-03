@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-  desc_len = strlen(_cpu_desc);\n+  desc_len = (int)strlen(_cpu_desc);\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_ext_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
