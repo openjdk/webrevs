@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -454,1 +454,3 @@\n-                }\n+                } else {\n+\t\t    s = (SSLSocket)serverSocket;\n+\t\t}\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/https\/HttpsClient.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
