@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed the code that set hostname twice in case of SSLSocketImpl"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/https\/HttpsClient.java"}],"sha":"635324017dd5558983c1aecb4de7666a906a425e"}]
