@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262446: DragAndDrop hangs on Windows"},"files":[{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_DnDDT.cpp"},{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Toolkit.cpp"},{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Toolkit.h"}],"sha":"6d7502a40f76733b8e759eba7477ca7e81932450"}]
