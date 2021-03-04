@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -730,1 +730,1 @@\n-    if (sub->is_instance_klass()) {\n+    if (sub->is_instance_klass() && !sub->is_hidden() && !InstanceKlass::cast(sub)->is_unsafe_anonymous()) {\n","filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
