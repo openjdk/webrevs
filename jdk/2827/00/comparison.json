@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,0 +58,2 @@\n+    \/\/ add backup - older version such as JDK11 have it in jli sub-dir\n+    appLauncher.addJvmLibName(_T(\"lib\/jli\/libjli.so\"));\n","filename":"src\/jdk.jpackage\/linux\/native\/libapplauncher\/LinuxLauncherLib.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
