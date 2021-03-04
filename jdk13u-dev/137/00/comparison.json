@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -492,1 +492,1 @@\n-        $SED -e 's\/^.* \\(@<:@1-9@:>@\\.@<:@0-9.@:>@*\\)@<:@^0-9.@:>@.*$\/\\1\/'`\n+        $SED -e 's\/^.* \\(@<:@1-9@:>@<:@0-9@:>@*\\.@<:@0-9.@:>@*\\)@<:@^0-9.@:>@.*$\/\\1\/'`\n","filename":"make\/autoconf\/toolchain.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
