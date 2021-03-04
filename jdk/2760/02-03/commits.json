@@ -1,0 +1,1 @@
+[{"commit":{"message":"reuse vm option MarkSweepDeadRatio; reuse G1RegionMarkStatsCache class; fix regression in Mark phase by inlining live words collection into mark_object()"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1FullCollector.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCMarker.cpp"}],"sha":"9956ab844755bb28ea9e93bd1f456e7d73779066"}]
