@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,2 @@\n+#include \"runtime\/semaphore.hpp\"\n+#include \"runtime\/thread.inline.hpp\"\n@@ -69,2 +71,0 @@\n-  virtual ~ConcurrentTestRunner() {}\n-\n","filename":"test\/hotspot\/gtest\/concurrentTestRunner.inline.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
