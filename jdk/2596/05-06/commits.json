@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Avoid wrapping subclasses where relevant. Updated tests.\"\n\nThis reverts commit dda174c582590827cad3f4006a8ff9e7dd8a51ab."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Collections.java"},{"filename":"test\/jdk\/java\/util\/Collections\/WrappedUnmodifiableCollections.java"}],"sha":"88127ed5ed61178c8145f3b74adcb0f983888826"}]
