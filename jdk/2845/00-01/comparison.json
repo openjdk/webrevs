@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -959,1 +959,1 @@\n-    private static Locale getDisplayLocale() {\n+    private static synchronized Locale getDisplayLocale() {\n","filename":"src\/java.base\/share\/classes\/java\/util\/Locale.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
