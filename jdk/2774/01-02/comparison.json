@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4811,1 +4811,1 @@\n-    result = phase->transform( new LShiftINode(value, phase->intcon(16)) );\n+    result = phase->transform(new LShiftINode(value, phase->intcon(16)));\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
