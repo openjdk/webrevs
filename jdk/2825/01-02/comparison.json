@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -228,1 +228,0 @@\n-    AwtToolkit::GetInstance().isInDoDragDropLoop = TRUE;\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_DnDDT.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
