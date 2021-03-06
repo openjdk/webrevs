@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8262277: java.net.URLClassLoader.getResource throws undocumented IllegalArgumentException"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/URLClassPath.java"},{"filename":"test\/jdk\/java\/net\/URLClassLoader\/FindResourceDoesNotThrowException.java"}],"sha":"944956c9e7a942ee1f1e8d57bfe6bfed90443f34"}]
