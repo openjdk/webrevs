@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1109,2 +1109,0 @@\n-    geometry.content_size = (cw > 0 || ch > 0);\n-\n@@ -1115,0 +1113,1 @@\n+        geometry.content_size = (cw > 0 || ch > 0);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
