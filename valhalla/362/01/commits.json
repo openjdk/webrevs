@@ -1,0 +1,1 @@
+[{"commit":{"message":"improve buffer instance allocation in MacroAssembler::store_inline_type_fields_to_buf"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestCallingConvention.java"}],"sha":"90e3b7c92a448b9a1570e042c2b27472823a85e0"}]
