@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8263188: JSSE should fail fast if there isn't supported signature algorithm"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SignatureAlgorithmsExtension.java"}],"sha":"bed8a7b7ae1f3a97dfa6d6ab0faf903cfbdc74c4"}]
