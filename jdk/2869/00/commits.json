@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263167: IGV: build fails with \"taskdef AutoUpdate cannot be found\"\n\nUpdate bootstrap.url with 'nbm-maven-harness' Maven artifact."},"files":[{"filename":"src\/utils\/IdealGraphVisualizer\/nbproject\/platform.properties"}],"sha":"b0c03c4ee3c89b75bb8626bac1841d818e35364c"}]
