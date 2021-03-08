@@ -1,0 +1,1 @@
+[{"commit":{"message":"CODETOOLS-7902836: JOL: Fix incorrect implicit numeric promotions"},"files":[{"filename":"jol-core\/src\/main\/java\/org\/openjdk\/jol\/heap\/HeapDumpReader.java"},{"filename":"jol-core\/src\/main\/java\/org\/openjdk\/jol\/info\/GraphLayout.java"}],"sha":"18c754e9d41f2b84be87130c08e11c54123c0e39"}]
