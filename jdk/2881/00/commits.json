@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixing zero-padding issue in hex float conversion"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Formatter.java"},{"filename":"test\/jdk\/java\/util\/Formatter\/HexFloatZeroPadding.java"}],"sha":"441c790e370fc4e6b5eb3964e92b817688afbce5"}]
