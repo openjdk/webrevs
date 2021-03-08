@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1936,1 +1936,1 @@\n-    \/\/ Non-unicode code point value used to mark zero as uninitialized\n+    \/\/ Non-character value used to mark zero as uninitialized\n","filename":"src\/java.base\/share\/classes\/java\/util\/Formatter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
