@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -540,1 +540,1 @@\n-    MonitorLocker ml(Heap_lock);\n+    MonitorLocker ml(Heap_lock, Mutex::_no_safepoint_check_flag);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
