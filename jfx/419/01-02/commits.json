@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make build jobs dependent on wrapper validation\n\nConsolidate the two GitHub workflow files and make the three build jobs\ndependent on the success of the Gradle Wrapper validation."},"files":[{"filename":".github\/workflows\/gradle-wrapper-validation.yml"},{"filename":".github\/workflows\/submit.yml"}],"sha":"b2a737ad3a8481ac086cc1b4e9f5fa29302bbd10"}]
