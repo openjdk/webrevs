@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,2 +44,0 @@\n-  size_t _live_size;\n-\n","filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
