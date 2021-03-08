@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262323: do not special case JVMCI in tiered compilation policy"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilationPolicy.cpp"},{"filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp"}],"sha":"d12a9e0269df4aa53cb105afb64ca7790f364f03"}]
