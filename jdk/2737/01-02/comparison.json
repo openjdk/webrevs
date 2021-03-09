@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -214,1 +214,1 @@\n-   \n+\n@@ -241,1 +241,1 @@\n-                    if (arg != null && !containsExcludedFlags(arg)) { \n+                    if (arg != null && !containsExcludedFlags(arg)) {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/CDS.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
