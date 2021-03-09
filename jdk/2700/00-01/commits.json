@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use onSpinWait() instead of sleep(), and check for BLOCKED thread state."},"files":[{"filename":"test\/lib\/jdk\/test\/lib\/apps\/LingeredApp.java"}],"sha":"f2d964cba1f7769ddb52fe604ab208e273870088"}]
