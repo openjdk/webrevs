@@ -1,0 +1,1 @@
+[{"commit":{"message":"CODETOOLS-7902839: JMH: Replace the use of ThreadLocal with explicitly managed thread map"},"files":[{"filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/runner\/BenchmarkHandler.java"}],"sha":"e88f933695e3fabc2416c106059da2dace68c6d5"}]
