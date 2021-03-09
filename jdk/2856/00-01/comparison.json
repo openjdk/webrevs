@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,3 +47,1 @@\n-    \/**\n-     * The private key\n-     *\/\n+    \/** The private key. *\/\n@@ -52,4 +50,1 @@\n-    \/**\n-     *\n-     * The public key\n-     *\/\n+    \/** The public key. *\/\n","filename":"src\/java.base\/share\/classes\/java\/security\/KeyPair.java","additions":2,"deletions":7,"binary":false,"changes":9,"status":"modified"}]}
