@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261931: IGV: quick search fails on multi-line node labels\n\nRemove line breaks from the 'label' property that is searched on by default."},"files":[{"filename":"src\/utils\/IdealGraphVisualizer\/Graph\/src\/com\/sun\/hotspot\/igv\/graph\/Figure.java"}],"sha":"db9a20aadea3a8688842b9f77aea240e5aebf3ff"}]
