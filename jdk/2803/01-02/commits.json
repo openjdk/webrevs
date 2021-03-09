@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"reduce memory consumption\"\n\nThis reverts commit 70e43ddd453724ce36bf729fa6489c0027957b8e."},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/utilities\/HeapHprofBinWriter.java"}],"sha":"8dde2fdd18a6d46b8b190ec8eb5138124a54c08d"}]
