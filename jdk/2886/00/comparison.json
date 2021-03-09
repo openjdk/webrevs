@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * A data model for a combo box. This interface extends <code>ListDataModel<\/code>\n+ * A data model for a combo box. This interface extends <code>ListModel<\/code>\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/ComboBoxModel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
