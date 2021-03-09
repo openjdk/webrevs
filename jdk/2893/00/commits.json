@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263108: Class initialization deadlock in java.lang.constant"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/DynamicConstantDesc.java"},{"filename":"test\/jdk\/java\/lang\/constant\/DynamicConstantDescTest.java"}],"sha":"153139bc7a90995ea49e64fa36ade316ea9bc84d"}]
