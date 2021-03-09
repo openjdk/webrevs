@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use out.println instead of System.out.println so output ends up in the right place when the two are not the same."},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/CommandProcessor.java"}],"sha":"e5343355887661e6d4fc08a33838b67ec8efabaa"}]
