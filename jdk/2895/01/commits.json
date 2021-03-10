@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix comments"},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalCounter.hpp"}],"sha":"32acbaa13642a0c9ff4bc6f27392681e9cc79341"},{"commit":{"message":"8213177: GlobalCounter::CSContext could be an enum class"},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalCounter.hpp"}],"sha":"a7820525a328e38f81e91f6faca83cff99b8cc25"}]
