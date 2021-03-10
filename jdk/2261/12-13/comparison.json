@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -776,1 +776,0 @@\n-  \n@@ -780,1 +779,1 @@\n-  \n+\n@@ -1692,1 +1691,1 @@\n-      return; \n+      return;\n@@ -1753,1 +1752,0 @@\n-  \n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}
