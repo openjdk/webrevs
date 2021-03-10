@@ -1,0 +1,1 @@
+[{"commit":{"message":"network: allow raw body in RestRequest"},"files":[{"filename":"network\/src\/main\/java\/org\/openjdk\/skara\/network\/RestRequest.java"},{"filename":"network\/src\/test\/java\/org\/openjdk\/skara\/network\/RestRequestTests.java"}],"sha":"ade2d4628c3c663a80e307eb57883e125c70861f"}]
