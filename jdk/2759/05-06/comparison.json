@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -177,1 +177,1 @@\n-    ssize_t read_sz = read(fd, buf, buflen);\n+    ssize_t read_sz = read(fd, buf, buflen - 1);\n@@ -179,1 +179,1 @@\n-    if (read_sz != -1) {\n+    if (read_sz > 0) {\n","filename":"src\/hotspot\/os_cpu\/linux_aarch64\/vm_version_linux_aarch64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
