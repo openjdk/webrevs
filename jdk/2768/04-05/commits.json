@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262355: Fix for hs-minimal and windows build failures."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp"},{"filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp"}],"sha":"f82741e0c47f5e9cd658dbd18ee2e69dd7be8cd6"}]
