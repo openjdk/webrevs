@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-    <!-- Put everything in ${build} into the J2DBench.jar file -->\n+    <!-- Put everything in ${build} into the RenderPerfTest.jar file -->\n","filename":"test\/jdk\/performance\/client\/RenderPerfTest\/build.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
