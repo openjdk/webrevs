@@ -1,0 +1,1 @@
+[{"commit":{"message":"1. remove unused MAP_FAIL from VerifierTest.java;\n2. move the captureVerifyOpts() call to inside the DYNAMIC_DUMP block."},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/TestCommon.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/VerifierTest.java"}],"sha":"48a2a191bbeb751ec1d0b97d1478f153bb80178d"}]
