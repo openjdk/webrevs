@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,1 +178,0 @@\n-    buf[buflen - 1] = '\\0';\n@@ -180,0 +179,1 @@\n+      buf[read_sz] = '\\0';\n@@ -186,0 +186,2 @@\n+    } else {\n+      *buf = '\\0';\n","filename":"src\/hotspot\/os_cpu\/linux_aarch64\/vm_version_linux_aarch64.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
