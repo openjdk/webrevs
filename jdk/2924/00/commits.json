@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263125: During deoptimization vectors should reassign scalarized payload after all objects are reallocated."},"files":[{"filename":"src\/hotspot\/share\/code\/location.cpp"},{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"},{"filename":"src\/hotspot\/share\/runtime\/stackValue.cpp"}],"sha":"3fcd2738970dee3510c0b10f353083a6338c1be4"}]
