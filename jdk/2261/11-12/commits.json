@@ -1,0 +1,1 @@
+[{"commit":{"message":"reduce memory consumption and fix memory leak issue"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"},{"filename":"src\/hotspot\/share\/services\/heapDumperCompression.cpp"}],"sha":"d636a140eb119f0e9e9e7de3454f3dbdc05bebad"}]
