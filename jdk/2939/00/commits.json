@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263446: Avoid unary minus over unsigned type in ObjectSynchronizer::dec_in_use_list_ceiling"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"6caa2e008789874dbd1f1c4ea65644b17c085895"}]

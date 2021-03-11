@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1116,1 +1116,1 @@\n-  Atomic::add(&_in_use_list_ceiling, -AvgMonitorsPerThreadEstimate);\n+  Atomic::sub(&_in_use_list_ceiling, AvgMonitorsPerThreadEstimate);\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
