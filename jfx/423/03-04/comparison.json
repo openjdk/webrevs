@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -582,1 +582,1 @@\n-        final Boolean firstClick = Boolean.valueOf(click);\n+        final Boolean firstClick = click;\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/MenuBarTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
