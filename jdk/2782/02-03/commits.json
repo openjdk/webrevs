@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove maybe prefix, change in one place to nullable"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psCompactionManager.hpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psCompactionManager.inline.hpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psScavenge.cpp"}],"sha":"bd25f98d13caf7f9955898bcd98e9720dc27768a"}]
