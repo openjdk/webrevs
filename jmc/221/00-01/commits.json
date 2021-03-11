@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix the lazy type registration call for the default 'with-constantpool' case"},"files":[{"filename":"core\/org.openjdk.jmc.flightrecorder.writer\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/writer\/MetadataImpl.java"}],"sha":"946214f561549614f2f1b15ba42dc8ac4ae884bf"}]
