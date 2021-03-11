@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,0 +88,1 @@\n+            WB.concurrentGCRunToIdle();\n","filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/TestReferenceShortcutCycle.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
