@@ -1,0 +1,1 @@
+[{"commit":{"message":"8178348: left_n_bits(0) invokes undefined behavior"},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.cpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"e94f606d01335b23a092914154171e66f0543855"}]
