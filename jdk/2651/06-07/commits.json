@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix core region alignment for macosx-x64 and comment"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_x86\/os_bsd_x86.hpp"},{"filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp"}],"sha":"d759163483a6a2e05b2aee14e2a0553b899e34ae"}]
