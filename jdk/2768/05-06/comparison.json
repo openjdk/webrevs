@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-      arr->bool_at_put(index,  ((*(jlong*)addr) & (0x1L << index)) != 0);\n+      arr->bool_at_put(index,  ((*(jlong*)addr) & (UCONST64(1) << index)) != UCONST64(0));\n","filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
