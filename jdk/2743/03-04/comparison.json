@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,0 @@\n-import jdk.test.lib.process.ProcessTools;\n@@ -27,0 +26,1 @@\n+import jdk.test.lib.process.ProcessTools;\n","filename":"test\/hotspot\/jtreg\/runtime\/handshake\/HandshakeTimeoutTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
