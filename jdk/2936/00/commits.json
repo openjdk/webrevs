@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263430: Uninitialized Method* variables after JDK-8233913"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/linkResolver.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciJavaClasses.cpp"}],"sha":"36b56e33857ec8002fa1c9ffbac8d89f7ce716f3"}]
