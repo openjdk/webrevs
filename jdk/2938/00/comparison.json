@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -975,1 +975,1 @@\n-                if (!src.array().equals(dst.array()) ) {\n+                if (src.array() != dst.array()) {\n","filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/GaloisCounterMode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
