@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4924,1 +4924,1 @@\n-  if (hFile == NULL) {\n+  if (hFile == INVALID_HANDLE_VALUE) {\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
