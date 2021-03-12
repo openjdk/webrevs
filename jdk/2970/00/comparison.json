@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,1 @@\n-                return -f1.getFileName().compareTo(f2.getFileName());\n+                return f2.getFileName().compareTo(f1.getFileName());\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/file\/JavacFileManager.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
