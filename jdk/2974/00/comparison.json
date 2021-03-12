@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,1 @@\n-        items.removeAll(items);\n+        items.clear();\n","filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/ListHelper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
