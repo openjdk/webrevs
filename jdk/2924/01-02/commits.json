@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update methods names and refactor VectorSupport::allocate_vector_payload()."},"files":[{"filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp"},{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"},{"filename":"test\/jdk\/jdk\/incubator\/vector\/Vector64ConversionTests.java"}],"sha":"c24793fdd35427e371c8945b004ec9679e0b588c"}]
