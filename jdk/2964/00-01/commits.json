@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixes sign extension regression and resolves mallinfo using dlsym."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"56efe92393b2d4fe68955940f740c08d3d740e17"}]
