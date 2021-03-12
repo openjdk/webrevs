@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -208,2 +208,1 @@\n-    return contain_address(addr) ||\n-           contain_address(addr + sz - 1);\n+    return MAX2(addr, base()) < MIN2(addr + sz, end());\n","filename":"src\/hotspot\/share\/services\/virtualMemoryTracker.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
