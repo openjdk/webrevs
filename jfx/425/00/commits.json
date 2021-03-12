@@ -1,0 +1,1 @@
+[{"commit":{"message":"Mac - generate KeyCodes that match user's active keyboard layout."},"files":[{"filename":"buildSrc\/mac.gradle"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassKey.m"}],"sha":"b2254109262f39c9ab44413d55e41eb7ee7c4967"}]
