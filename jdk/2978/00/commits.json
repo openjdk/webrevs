@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused argument in ConstantPoolCacheEntry::set_field()"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp"},{"filename":"src\/hotspot\/share\/oops\/cpCache.cpp"},{"filename":"src\/hotspot\/share\/oops\/cpCache.hpp"}],"sha":"2616c5478854b9ef097d182e142200da2800c9a8"}]
