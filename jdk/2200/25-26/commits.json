@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix most of issues in java\/foreign\/ tests\n\nFailures related to va_args are tracked in JDK-8263512."},"files":[{"filename":"src\/hotspot\/share\/prims\/universalNativeInvoker.cpp"},{"filename":"src\/hotspot\/share\/prims\/universalUpcallHandler.cpp"}],"sha":"5bfe0f087b52551badf99f480aaae6b27b90544e"}]
