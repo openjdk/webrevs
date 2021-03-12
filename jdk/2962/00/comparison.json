@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -537,1 +537,0 @@\n-            result[i] = new byte[nameStrings[i].length()];\n","filename":"src\/java.security.jgss\/share\/classes\/sun\/security\/krb5\/PrincipalName.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
