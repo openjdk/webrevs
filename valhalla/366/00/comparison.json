@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1221,0 +1221,1 @@\n+    case Type::InlineType:\n@@ -1590,0 +1591,1 @@\n+  case InlineType:\n","filename":"src\/hotspot\/share\/opto\/type.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
