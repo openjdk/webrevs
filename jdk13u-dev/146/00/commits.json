@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 831f23ee86a158524dbf607428beb94f9c2a1552"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/SocketChannelImpl.java"},{"filename":"test\/jdk\/java\/nio\/channels\/SocketChannel\/ReadWriteAfterClose.java"}],"sha":"fb6c4ce69ed569edd5cddb25b877d2b5c0741ec9"}]
