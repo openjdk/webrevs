@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use CompiledMethod::run_nmethod_entry_barrier()"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"4ee8bd087cd18cc8c5c00135b7373f6f2b8488c2"},{"commit":{"message":"Fix nmethod print code"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"3b99cd4fc15289d2cd6b9345bf28fa7d541af84a"}]

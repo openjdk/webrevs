@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -939,0 +939,2 @@\n+  run_nmethod_entry_barrier(); \/\/ ensure all embedded OOPs are valid before printing\n+\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
