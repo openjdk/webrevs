@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8263154: [macos] DMG builds have finder errors"},"files":[{"filename":"src\/jdk.jpackage\/macosx\/classes\/jdk\/jpackage\/internal\/MacDmgBundler.java"},{"filename":"src\/jdk.jpackage\/macosx\/classes\/jdk\/jpackage\/internal\/resources\/DMGsetup.scpt"}],"sha":"fc3ef96349f19770724eb71dbbe39f7a0bd8f998"}]
