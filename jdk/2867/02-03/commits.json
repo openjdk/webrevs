@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cache _vect_type"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"fc9bdafd235238f17504a12881b9480232f8bb7c"},{"commit":{"message":"Revert changes"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"7caf5974c05c3058bc4d7df33d287c8c949e5b22"}]
