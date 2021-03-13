@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+import jdk.test.lib.helpers.ClassFileInstaller;\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/SharedRegionAlignmentTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
