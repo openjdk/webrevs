@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -313,1 +313,3 @@\n-  _first->chop();\n+  if (_first != NULL) {\n+    _first->chop();\n+  }\n","filename":"src\/hotspot\/share\/memory\/arena.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
