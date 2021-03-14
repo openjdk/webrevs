@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-    rolesMap = [[NSMutableDictionary alloc] initWithCapacity:8];\n+    rolesMap = [[NSMutableDictionary alloc] initWithCapacity:9];\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/a11y\/CommonComponentAccessibility.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
