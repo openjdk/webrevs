@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -188,1 +188,3 @@\n-    if (ZapResourceArea) memset(ptr, badResourceValue, size); \/\/ zap freed memory\n+    if (ZapResourceArea && ptr != NULL) {\n+      memset(ptr, badResourceValue, size); \/\/ zap freed memory\n+    }\n","filename":"src\/hotspot\/share\/memory\/arena.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
