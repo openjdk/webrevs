@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -138,1 +138,1 @@\n-  size_t get_dead_space() {\n+  size_t dead_space() {\n@@ -226,1 +226,1 @@\n-  space->update_live_estimate(dead_spacer.get_dead_space());\n+  space->update_live_estimate(dead_spacer.dead_space());\n","filename":"src\/hotspot\/share\/gc\/shared\/space.inline.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
