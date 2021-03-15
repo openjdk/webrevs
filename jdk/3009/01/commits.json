@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cleanup as suggested by Vladimir Ivanov."},"files":[{"filename":"src\/hotspot\/share\/opto\/callnode.hpp"}],"sha":"9205db9faab7247fde2a7366a9368253011b3c25"},{"commit":{"message":"8263587: C2: JVMS not cloned when needs_clone_jvms() is true"},"files":[{"filename":"src\/hotspot\/share\/opto\/callnode.hpp"}],"sha":"bafcce9f1923af6deedf3c0fd23aefcac00c2f18"}]
