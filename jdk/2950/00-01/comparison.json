@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2139,1 +2139,0 @@\n-  Thread* THREAD = current; \/\/ For exception macros.\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
