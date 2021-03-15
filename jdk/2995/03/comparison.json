@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -187,0 +187,1 @@\n+    assert(ptr != NULL, \"Sanity\");\n","filename":"src\/hotspot\/share\/memory\/arena.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
