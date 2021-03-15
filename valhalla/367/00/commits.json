@@ -1,0 +1,1 @@
+[{"commit":{"message":"skip generate_return_value_stubs when InlineTypeReturnedAsFields is\ndisabled"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"62adf210b01483e0f1f426f2df1224f6f68d58af"}]
