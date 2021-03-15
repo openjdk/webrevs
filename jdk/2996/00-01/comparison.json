@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -439,2 +439,0 @@\n-  _closed_archive_heap_oopmaps = NULL;\n-  _open_archive_heap_oopmaps = NULL;\n@@ -486,2 +484,0 @@\n-  _closed_archive_heap_regions = NULL;\n-  _open_archive_heap_regions = NULL;\n","filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
