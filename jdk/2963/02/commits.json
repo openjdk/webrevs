@@ -1,0 +1,1 @@
+[{"commit":{"message":"8187450: JNI local refs exceeds capacity warning in NetworkInterface::getAll"},"files":[{"filename":"src\/java.base\/unix\/native\/libnet\/NetworkInterface.c"},{"filename":"src\/java.base\/windows\/native\/libnet\/NetworkInterface.c"},{"filename":"test\/jdk\/java\/net\/NetworkInterface\/Test.java"}],"sha":"02010f9e5e4f5c54401621d81ded66f1a4e92dfb"}]
