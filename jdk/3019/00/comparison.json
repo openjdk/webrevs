@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3769,1 +3769,1 @@\n-      \/\/ Check for Deprecatd tag - 4276120\n+      \/\/ Check for Deprecated tag - 4276120\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
