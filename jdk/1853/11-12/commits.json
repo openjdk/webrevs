@@ -1,0 +1,1 @@
+[{"commit":{"message":"8080272 Refactor I\/O stream copying to use InputStream.transferTo\/readAllBytes and Files.copy\ndrop changes in X509CertPath"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/X509CertPath.java"}],"sha":"96920ee6b3d6fefb88f71d63bf5830627fba7955"}]
