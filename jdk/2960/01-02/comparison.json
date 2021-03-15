@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,2 +84,1 @@\n-                                           \"Full\",\n-                                           \"Invalid\"};\n+                                           \"Full\" };\n","filename":"src\/hotspot\/share\/gc\/g1\/g1GCPauseType.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
