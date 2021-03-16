@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,1 +263,1 @@\n-    \/\/ We must recheck the last Java frame still exists.\n+    \/\/ We must recheck that the last Java frame still exists.\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvThreadState.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
