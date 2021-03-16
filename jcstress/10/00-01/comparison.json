@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -188,1 +188,1 @@\n-            this.time = 0;\n+            this.time = 50;\n@@ -190,1 +190,1 @@\n-            this.forks = 1;\n+            this.forks = 0;\n","filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/Options.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
