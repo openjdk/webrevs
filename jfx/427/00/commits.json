@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255713: JavaFX build should discover Visual Studio compiler on system"},"files":[{"filename":".github\/workflows\/submit.yml"},{"filename":"buildSrc\/genVSproperties.bat"},{"filename":"buildSrc\/win.gradle"}],"sha":"fb6d04770f71955d061b4de463b5177ce532a20c"}]
