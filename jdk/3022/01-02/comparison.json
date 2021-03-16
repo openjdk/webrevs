@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -850,1 +850,1 @@\n-    if (loop_count >= K * C->live_nodes()) {\n+    if (loop_count >= K + C->live_nodes()) {\n@@ -1261,1 +1261,1 @@\n-    if (loop_count >= K * C->live_nodes()) {\n+    if (loop_count >= K + C->live_nodes()) {\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
