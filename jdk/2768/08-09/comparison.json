@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -665,1 +665,1 @@\n-  TypeVect::VMASK = TypeVect::makemask(T_BOOLEAN, MaxVectorSize);\n+  TypeVect::VMASK = (TypeVect*)(Matcher::predicate_reg_type(TypeInt::BOOL, MaxVectorSize))->hashcons();\n","filename":"src\/hotspot\/share\/opto\/type.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
