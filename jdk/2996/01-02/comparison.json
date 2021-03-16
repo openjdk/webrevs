@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -394,2 +394,1 @@\n-    _open_archive_heap_oopmaps(NULL)\n-  { }\n+    _open_archive_heap_oopmaps(NULL) {}\n","filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
