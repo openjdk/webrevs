@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -456,1 +456,1 @@\n-     LIBHARFBUZZ_CFLAGS += -qdebug=necan\n+     HARFBUZZ_CFLAGS += -qdebug=necan\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
