@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263705: Two shenandoah tests fails due to can't find ClassFileInstaller"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/TestReferenceRefersToShenandoah.java"},{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/TestReferenceShortcutCycle.java"}],"sha":"17695edaa6f43eebfe7baedeeb1359a34f356abe"}]
