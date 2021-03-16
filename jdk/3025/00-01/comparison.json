@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -781,1 +781,0 @@\n-       !strcmp(_matrule->_rChild->_opType,\"StrInflatedCopy\") ||\n@@ -785,0 +784,1 @@\n+       !strcmp(_matrule->_rChild->_opType,\"StrInflatedCopy\") ||\n","filename":"src\/hotspot\/share\/adlc\/formssel.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
