@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add a comment to instruct future maintainers of the code to avoid calling DynamicConstantDesc.ofCanonical() from static initialization of java.lang.constant.ConstantDescs"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/DynamicConstantDesc.java"}],"sha":"ed8a3045c56f7c75550f79f8c0fbd5e4294a40d1"}]
