@@ -1,0 +1,1 @@
+[{"commit":{"message":"make Arealloc and Afree behave like realloc and free"},"files":[{"filename":"src\/hotspot\/share\/memory\/arena.cpp"},{"filename":"src\/hotspot\/share\/memory\/arena.hpp"}],"sha":"21a949438b705bd412120a49742ec91f7f20f298"}]
