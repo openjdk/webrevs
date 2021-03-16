@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -762,1 +762,1 @@\n-            if (c != NULL) {\n+            if (c != NULL && c->Opcode() != Op_Parm) {\n","filename":"src\/hotspot\/share\/gc\/g1\/c2\/g1BarrierSetC2.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
