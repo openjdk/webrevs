@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,1 +193,1 @@\n-    \/\/ The MyThread thread lives as long as correspondent its live value is true\n+    \/\/ The MyThread thread lives as long as correspondent its live value is true.\n","filename":"test\/jdk\/java\/lang\/management\/ThreadMXBean\/ResetPeakThreadCount.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
