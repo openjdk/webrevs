@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,0 @@\n-        System.out.println(JComponent.getDefaultLocale());\n@@ -41,1 +40,0 @@\n-        System.out.println(currentLocale);\n","filename":"test\/jdk\/javax\/swing\/JComponent\/TestNullLocale.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
