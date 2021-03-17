@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263718: unused-result warning happens at os_linux.cpp"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/share\/utilities\/compilerWarnings.hpp"},{"filename":"src\/hotspot\/share\/utilities\/compilerWarnings_gcc.hpp"}],"sha":"006cf7d1a38b3703f417e99466950868c200fe59"}]
