@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -498,3 +498,1 @@\n-        if (callee != NULL) {\n-          cii->add_item(callee->name()->as_C_string());\n-        }\n+        cii->add_item(callee->name()->as_C_string());\n","filename":"src\/hotspot\/share\/classfile\/classListParser.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
