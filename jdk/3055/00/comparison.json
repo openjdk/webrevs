@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -572,0 +572,3 @@\n+                            if (fAll[j] == null) {\n+                                continue;\n+                            }\n","filename":"src\/java.desktop\/unix\/classes\/sun\/print\/IPPPrintService.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
