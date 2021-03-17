@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,1 +180,1 @@\n-        __ move(tmp, LIR_OprFact::intptrConst(large_disp));\n+        __ move(LIR_OprFact::intptrConst(large_disp), tmp);\n","filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
