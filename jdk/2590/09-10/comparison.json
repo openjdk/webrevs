@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3182,2 +3182,1 @@\n-  predicate((n->get_int() != 0)\n-            && (n->get_int() > 0)\n+  predicate((n->get_int() > 0)\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
