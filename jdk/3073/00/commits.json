@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262291: Refactor reserve_memory_special_huge_tlbfs"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_os_linux.cpp"}],"sha":"6faf7e19ddc626b574310df3bf732cc16ba8633c"}]
