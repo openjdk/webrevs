@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -635,1 +635,1 @@\n-    if (need && !_printer) {\n+    if (need && !_printer && !_debug_file_printer && !_debug_network_printer) {\n","filename":"src\/hotspot\/share\/opto\/compile.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
