@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263352: assert(use == polladr) failed: the use should be a safepoint polling"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/Test8263352.java"}],"sha":"7acd73d561af4d6095e4104ea6531c2df1037de7"}]
