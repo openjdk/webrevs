@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258753: StartTlsResponse.close() hangs due to synchronization issues"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketImpl.java"}],"sha":"0e11b8f59e29dfce07b5287450a1fd24c7a259f9"}]
