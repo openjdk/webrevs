@@ -1,0 +1,1 @@
+[{"commit":{"message":"Copy mallinfo struct definition into VM sources and guard usage."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"}],"sha":"d3b03e63ad3428b07002a3a88283eee141945236"}]
