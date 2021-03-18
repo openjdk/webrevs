@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-#include \"gc\/shenandoah\/shenandoanRootProcessor.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
