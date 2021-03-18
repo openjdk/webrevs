@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-    \/\/public static final int DOMAIN_UNMATCH = 3;\n+    \/\/public final static int DOMAIN_UNMATCH = 3;\n","filename":"src\/java.base\/share\/classes\/com\/sun\/security\/ntlm\/NTLMException.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
