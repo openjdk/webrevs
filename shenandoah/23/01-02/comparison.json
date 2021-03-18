@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,0 @@\n-  uintx _claim_token;\n@@ -101,1 +100,0 @@\n-    _claim_token(Threads::thread_claim_token()),\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
