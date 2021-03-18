@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263432: javac may report an invalid package\/class clash on case insensitive filesystems"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Symtab.java"},{"filename":"test\/langtools\/tools\/javac\/modules\/AnnotationProcessing.java"}],"sha":"b68520dbbd74afbeecc32d8435c0a3772c970c9c"}]
