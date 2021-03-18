@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -668,0 +668,2 @@\n+     * @implNote The default implementation of this method doesn't do anything.\n+     *\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JComponent.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
