@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1057,1 +1057,7 @@\n-  st->print(\"%s, \", buf);\n+  st->print(\"%s\", buf);\n+#ifdef __APPLE__\n+  if (VM_Version::is_cpu_emulated()) {\n+    st->print(\" (EMULATED)\");\n+  }\n+#endif\n+  st->print(\", \");\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":7,"deletions":1,"binary":false,"changes":8,"status":"modified"}]}
