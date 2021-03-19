@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n-                    var set = new HashSet<Hash>();\n+                    var set = new LinkedHashSet<Hash>();\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CommitCommentsWorkItem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
