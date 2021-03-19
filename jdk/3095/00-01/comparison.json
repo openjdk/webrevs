@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-    private PrintService[] printServices;\n+    private PrintService[] printServices; \/* includes the default printer *\/\n","filename":"src\/java.desktop\/windows\/classes\/sun\/print\/PrintServiceLookupProvider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
