@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve comment."},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"}],"sha":"82d2c15521848560a7078373448407292632302c"},{"commit":{"message":"8263781: C2: Cannot hoist independent load above arraycopy"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"}],"sha":"d5507a8acec48755affd3a188774ce423cb103c5"}]
