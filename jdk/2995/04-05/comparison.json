@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -368,1 +368,4 @@\n-  if (new_size == 0) return NULL;\n+  if (new_size == 0) {\n+    Afree(old_ptr, old_size); \/\/ like realloc(3)\n+    return NULL;\n+  }\n","filename":"src\/hotspot\/share\/memory\/arena.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
