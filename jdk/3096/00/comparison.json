@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,0 +178,4 @@\n+        if (nameArray != NULL) {\n+            env->DeleteLocalRef(nameArray);\n+            nameArray = NULL;\n+        }\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/WPrinterJob.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
