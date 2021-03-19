@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add -t\/--tool to pr show to use git difftool"},"files":[{"filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/pr\/GitPrShow.java"},{"filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/pr\/Utils.java"}],"sha":"d111dd87c8be7491209edc6a933e414fff75324a"}]
