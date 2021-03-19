@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -536,1 +536,2 @@\n-\/\/ In (c) also change the parameter mem to the memory input of ac.\n+\/\/ In case (c) change the parameter mem to the memory input of ac to skip it\n+\/\/ when searching stored value.\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
