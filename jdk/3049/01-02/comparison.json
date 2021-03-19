@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2156,1 +2156,1 @@\n-                            pb.redirectInput(INHERIT);\n+                            pb.redirectOutput(INHERIT);\n","filename":"test\/jdk\/java\/lang\/ProcessBuilder\/Basic.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
