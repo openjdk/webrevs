@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8238911\n+ * @bug 8261502\n","filename":"test\/jdk\/com\/sun\/crypto\/provider\/KeyAgreement\/ECKeyCheck.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
