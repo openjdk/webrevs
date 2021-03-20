@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reverting the change for accessibilityIndexOfChild since macro used\nthere takes care of the class initialization."},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/JavaComponentAccessibility.m"}],"sha":"e0c3b9dd1085283044d54c2befba75580a483db2"}]
