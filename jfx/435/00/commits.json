@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix signatures (jclass\/jobject), add UNUSED when unused\nFix for JDK-8263778"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/monocle\/egl\/eglBridge.c"}],"sha":"2a784b138a5862b6ee02cb350c0fd82c274281c0"}]
