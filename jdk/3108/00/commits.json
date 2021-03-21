@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263908: Build fails due to initialize_static_field_for_dump defined but not used after JDK-8263771"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"}],"sha":"b6f8de1fe6b844cb2b871b09a67548e45ab26673"}]

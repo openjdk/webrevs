@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -844,0 +844,1 @@\n+#if INCLUDE_CDS_JAVA_HEAP\n@@ -856,0 +857,1 @@\n+#endif\n@@ -903,0 +905,1 @@\n+#if INCLUDE_CDS_JAVA_HEAP\n@@ -913,0 +916,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
