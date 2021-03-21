@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262355: Extending Type::isa_vect and Type::is_vect routines to TypeVectMask since its a valid vector type."},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/type.hpp"}],"sha":"661fbdac58a9f48a71336245460962915fc7dc01"}]
