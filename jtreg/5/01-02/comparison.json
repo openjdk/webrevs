@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-    <version>1.11<\/version>\n+    <version>1.12<\/version>\n@@ -36,1 +36,1 @@\n-      <li>Fix crash in IntelliJ IDE2020.1<\/li>\n+      <li>Fix compatibility with 2020.2<\/li>\n","filename":"plugins\/idea\/resources\/META-INF\/plugin.xml","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
