@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -736,1 +736,1 @@\n-         * constructors calls `super(0)` but we do not want  `setSeed(0)`\n+         * constructors call `super(0)` but we do not want `setSeed(0)`\n","filename":"src\/java.base\/share\/classes\/java\/security\/SecureRandom.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
