@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263996: Fix build on 13u after JDK-8234779 backport"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.hpp"},{"filename":"src\/hotspot\/os\/solaris\/os_solaris.hpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.hpp"}],"sha":"5c9d27c25cf179052d569079b24f0043b66b7629"}]
