@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-            exchange.getResponseHeaders().add(\"www-authenticate\", \"\"); \n+            exchange.getResponseHeaders().add(\"www-authenticate\", \"\");\n","filename":"test\/jdk\/java\/net\/httpclient\/EmptyAuthenticate.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
