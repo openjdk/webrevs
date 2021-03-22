@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -362,1 +362,0 @@\n-  \/\/ Now we have to call back to java to check if the initating class has access\n@@ -379,0 +378,1 @@\n+    \/\/ Now we have to call back to java to check if the initating class has access\n","filename":"src\/hotspot\/share\/classfile\/dictionary.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
