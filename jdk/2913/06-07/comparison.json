@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -411,0 +411,1 @@\n+                && e.declaringClass.equals(declaringClass)\n@@ -414,1 +415,0 @@\n-                && e.declaringClass.equals(declaringClass)\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StackTraceElement.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
