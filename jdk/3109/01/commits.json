@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix the logic to look for the archive"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"858ef1283cf2c9cb821611b48663949ed52e84d8"},{"commit":{"message":"8263914: CDS fails to find the default shared archive on x86_32"},"files":[],"sha":"e68bb8665b919432ef43e2dc0a559d1ff095faeb"}]

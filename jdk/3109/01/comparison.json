@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3441,1 +3441,1 @@\n-               UseCompressedOops ? \"%s%sclasses.jsa\": \"%s%sclasses_nocoops.jsa\",\n+               LP64_ONLY(!UseCompressedOops ? \"%s%sclasses_nocoops.jsa\":) \"%s%sclasses.jsa\",\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
