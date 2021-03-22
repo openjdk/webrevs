@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-        ConsoleReportPrinter sink = new ConsoleReportPrinter(opts, pw, 1, 1);\n+        ConsoleReportPrinter sink = new ConsoleReportPrinter(opts, pw, 1);\n","filename":"jcstress-benchmarks\/src\/main\/java\/org\/openjdk\/jcstress\/SampleTestBench.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
