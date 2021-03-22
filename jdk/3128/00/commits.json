@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263904 Fix BzhiTestI2L fail x86_32\n\nSigned-off-by: Marcus G K Williams <marcus.williams@intel.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/bmi\/TestBzhiI2L.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/bmi\/verifycode\/BmiIntrinsicBase.java"}],"sha":"4c3426b1dbc1c6ef551b7a86e9d2c52506f128e0"}]
