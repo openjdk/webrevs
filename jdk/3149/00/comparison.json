@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,2 +54,0 @@\n-    private static final ColorUIResource controlHighlight = new\n-                              ColorUIResource(102, 102, 102);\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/metal\/MetalHighContrastTheme.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
