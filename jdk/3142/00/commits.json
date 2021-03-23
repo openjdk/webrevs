@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264008: Incorrect metaspace statistics after JEP 387 when UseCompressedClassPointers is off"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace.cpp"}],"sha":"137b926721608c7a6ffaee581c78efd2a7cae47f"}]
