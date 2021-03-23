@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    return (int) (other.size - size);\n+    return Long.compare(other.size, size);\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/ObjectHistogramElement.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
