@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -388,1 +388,1 @@\n-            super(msg, cause);\n+            super(msg + (cause == null ? \"\" : \" (\" + cause + \")\"), cause);\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/util\/Extern.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
