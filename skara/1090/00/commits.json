@@ -1,0 +1,1 @@
+[{"commit":{"message":"Properly support multi-byte encoding"},"files":[{"filename":"email\/src\/main\/java\/org\/openjdk\/skara\/email\/MimeText.java"},{"filename":"email\/src\/test\/java\/org\/openjdk\/skara\/email\/MimeTextTests.java"}],"sha":"ea1d7a387400d2fb47f16ef482a7e53239612d6f"}]
