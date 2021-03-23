@@ -1,0 +1,1 @@
+[{"commit":{"message":"Put parentheses around sizetype->_lo * elemsize + header."},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"}],"sha":"2aa26e76834148fad5e64452034c09346e142f87"}]

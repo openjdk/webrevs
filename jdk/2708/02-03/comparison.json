@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -552,1 +552,1 @@\n-      if (ld_offs_t->_lo >= header && ld_offs_t->_hi < sizetype->_lo * elemsize + header) {\n+      if (ld_offs_t->_lo >= header && ld_offs_t->_hi < (sizetype->_lo * elemsize + header)) {\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
