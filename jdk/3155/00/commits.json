@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264047: Duplicate global variable 'jvm' in libjavajpeg and libawt"},"files":[{"filename":"src\/java.desktop\/share\/native\/libjavajpeg\/imageioJPEG.c"},{"filename":"src\/java.desktop\/share\/native\/libjavajpeg\/jpegdecoder.c"}],"sha":"64b44fc4fbb6b6a47b2e9581e540b9107d220b93"}]
