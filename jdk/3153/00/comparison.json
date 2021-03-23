@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2379,1 +2379,0 @@\n-  bool _collecting_heap_roots;                      \/\/ are we collecting roots\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
