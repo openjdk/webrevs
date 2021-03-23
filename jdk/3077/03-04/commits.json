@@ -1,0 +1,1 @@
+[{"commit":{"message":"assign const string directly instead of using strcpy"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"b7ecfc3e13b360b5efda69016d543d5a34c309d7"}]
