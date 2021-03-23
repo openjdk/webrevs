@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use ins_alignment to put a nop for 64-byte alignment"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/assembler_ppc.inline.hpp"},{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"a317627aee1d58f57cbde06f055bc1bc2e3011d7"}]
