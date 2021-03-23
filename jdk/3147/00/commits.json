@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264016: [JVMCI] add some thread local fields for use by JVMCI"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"029245162b48334691959f9c43918cf85028d4f6"}]
