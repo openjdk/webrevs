@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1768,1 +1768,1 @@\n-  finalize_operands_merge(*merge_cp_p, THREAD);\n+  finalize_operands_merge(*merge_cp_p, CHECK_false);\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
