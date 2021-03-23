@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename PhaseMacroExpand::_call_projects to PhaseMacroExpand::_callprojs."},"files":[{"filename":"src\/hotspot\/share\/opto\/macro.cpp"},{"filename":"src\/hotspot\/share\/opto\/macro.hpp"},{"filename":"src\/hotspot\/share\/opto\/macroArrayCopy.cpp"}],"sha":"b5748eea5b3add554294a81f6c00aa820d22ee9e"}]
