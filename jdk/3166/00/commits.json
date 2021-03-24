@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264096: slowdebug jvm crashes when StrInflatedCopy match rule is not supported"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2compiler.cpp"},{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"}],"sha":"1e2a69ac738a6efacff728b9eca1bae1c52cdbf6"}]
