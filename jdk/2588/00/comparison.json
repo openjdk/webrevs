@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1915,1 +1915,1 @@\n-                throw new ZipException(\"root directory <\/> can't not be delete\");\n+                throw new ZipException(\"root directory <\/> cannot be deleted\");\n","filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
