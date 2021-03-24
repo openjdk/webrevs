@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-                    toCString(\"%hhd %c %.2f %.2f %lld %lld %d %hd %d %d %lld %c\"), 12,\n+                    toCString(\"%hhd %c %.2f %.2f %lld %lld %d %hd %d %d %lld %c\", scope), 12,\n","filename":"test\/jdk\/tools\/jextract\/test8244959\/Test8244959.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
