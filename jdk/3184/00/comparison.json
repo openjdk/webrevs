@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -969,0 +969,3 @@\n+    if (_method_data->is_empty()) { \/\/ This may happen because of the compilation replay\n+      return false;\n+    }\n","filename":"src\/hotspot\/share\/ci\/ciMethod.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
