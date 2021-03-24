@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -770,0 +770,5 @@\n+<<<<<<< HEAD\n+=======\n+                 .share()\n+                 .withAccessModes(READ | WRITE);\n+>>>>>>> b5b4cc76eca72580de0178bef6603a627795219f\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/MemorySegment.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
