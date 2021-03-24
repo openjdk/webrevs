@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263169: [macos] With changed system preference JavaFX window will open as tabs"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassApplication.m"},{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/stage\/DualWindowTest.java"}],"sha":"5d1d80a278bdef078bb3055943dcdcaec672359b"}]
