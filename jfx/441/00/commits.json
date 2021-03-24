@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264127:\nFixing ListCell editing status is true, when index changes while editing"},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/ListCell.java"},{"filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/ListCellTest.java"}],"sha":"a40b025392d5db65aad063846b25cc713fedb00f"}]
