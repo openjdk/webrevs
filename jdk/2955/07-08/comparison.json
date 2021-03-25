@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -669,1 +669,1 @@\n-     * @implSpec The default implementation of this method doesn't do anything.\n+     * @implSpec The default implementation of this method does nothing.\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JComponent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
