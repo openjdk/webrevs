@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264161: BigDecimal#stripTrailingZeros can throw undocumented ArithmeticException"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java"}],"sha":"05ed17531ecda93ff12a35cfa4de7b7c3b29829d"}]
