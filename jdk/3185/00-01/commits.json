@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove TRAPS from MetaspaceShared::preload_and_dump()"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspaceShared.hpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"b624b7e5d833f48bfe5231d6342411f12f3bc6b5"}]
