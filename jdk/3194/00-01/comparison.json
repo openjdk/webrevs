@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5636,2 +5636,1 @@\n-  JavaThread* current = JavaThread::current();\n-  ResourceMark rm(current);\n+  ResourceMark rm;\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
