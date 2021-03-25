@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261551: Remove special CDS handling in Metaspace::allocate"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/MaxMetaspaceSize.java"}],"sha":"5708f5efc224725bd9fca5690d7159f82ab83247"}]
