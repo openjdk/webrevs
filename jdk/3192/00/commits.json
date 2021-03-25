@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259623: JfrTypeSet::_subsystem_callback is left dangling after use"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrTypeSet.cpp"},{"filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrTypeSetUtils.hpp"}],"sha":"dbea66ab9f2150480e2488a7d028c41ff1c00fbe"}]
