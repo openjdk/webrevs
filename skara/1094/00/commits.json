@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve the help for reviewers\n\nRename \"Download\" to \"Reviewing\". Add informtion on how to get the PR using Skara tools and diff files. Collapse all information by default to make it more compact."},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckRun.java"}],"sha":"0c34f7ad7ab154bf2a2664c48eacb293a2d6f189"}]
