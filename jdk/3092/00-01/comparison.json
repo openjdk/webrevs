@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -559,1 +559,1 @@\n-  if (p == (void*)MAP_FAILED) {\n+  if (p == MAP_FAILED) {\n","filename":"src\/hotspot\/os\/posix\/os_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
