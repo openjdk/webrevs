@@ -1,0 +1,1 @@
+[{"commit":{"message":"test"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestLostDependencyOnZeroTripGuard.java"}],"sha":"9666e0608b93c3188dd6244fb7f01d52a2a05eb7"},{"commit":{"message":"fix"},"files":[{"filename":"src\/hotspot\/share\/opto\/castnode.cpp"}],"sha":"0760a2821d5f3d82e969641c7fa9e5113a2eaecc"}]
