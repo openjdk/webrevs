@@ -1,0 +1,1 @@
+[{"commit":{"message":"Initial attempt at fixing reported cpu count in cgroups"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp"},{"filename":"test\/hotspot\/jtreg\/containers\/docker\/TestCPUAwareness.java"}],"sha":"f36ad0e0ffac1808d5ed67b37e9d47ecabf80e35"}]
