@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -519,1 +519,1 @@\n-  ResourceMark rm;\n+  ResourceMark rm(current);\n","filename":"src\/hotspot\/share\/classfile\/classLoader.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
