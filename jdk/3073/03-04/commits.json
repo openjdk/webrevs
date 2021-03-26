@@ -1,0 +1,1 @@
+[{"commit":{"message":"Thomas review.\n\nChanged commit_memory_special to return bool to signal if the request succeeded or not."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"}],"sha":"787b87feab1832259310a9f48dbfb01c08c18a3e"}]
