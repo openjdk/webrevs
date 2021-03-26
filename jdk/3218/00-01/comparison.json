@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,1 @@\n-        while (isAlive()) {\n+        while (true) {\n","filename":"test\/jdk\/javax\/net\/ssl\/TLSCommon\/interop\/JdkServer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
