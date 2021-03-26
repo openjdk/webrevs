@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n-#include \"memory\/allocation.hpp\"\n@@ -30,0 +29,1 @@\n+#include \"memory\/allocation.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shared\/oopStorage.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
