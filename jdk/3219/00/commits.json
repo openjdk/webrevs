@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264285: Do not support FLAG_SET_XXX for VM flags of string type"},"files":[{"filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagAccess.cpp"},{"filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagAccess.hpp"},{"filename":"src\/hotspot\/share\/runtime\/globals_extension.hpp"}],"sha":"4fe5df97444e2a274c77bc1617174b3dc11bd078"}]
