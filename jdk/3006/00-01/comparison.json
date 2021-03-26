@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8258393\n+ * @bug 8258393 8263376\n","filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/compiler\/TestBadRawMemoryAfterCall.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
