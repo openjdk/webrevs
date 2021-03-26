@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264273: macOS: zero VM is broken due to no member named 'is_cpu_emulated' after JDK-8261966"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.cpp"}],"sha":"6cba1e4ba44231e824271f8409ed2c97446c91d9"}]
