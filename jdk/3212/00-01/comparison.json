@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,8 @@\n+\/**\n+ * @test\n+ * @bug 8264223\n+ * @summary add CodeHeap verification\n+ *\n+ * @requires vm.debug\n+ * @run main\/othervm -Xcomp -XX:+VerifyCodeCache compiler.codegen.Test6935535\n+ *\/\n","filename":"test\/hotspot\/jtreg\/compiler\/codegen\/Test6935535.java","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
