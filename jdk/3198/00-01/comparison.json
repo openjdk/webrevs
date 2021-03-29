@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -887,1 +887,1 @@\n-      if test \"x$OPENJDK_TARGET_CPU_BITS\" = \"x64\"; then\n+      if test \"x$OPENJDK_BUILD_CPU_BITS\" = \"x64\"; then\n","filename":"make\/autoconf\/toolchain.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
