@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,4 +114,0 @@\n-  if (FLAG_IS_DEFAULT(ParallelRefProcEnabled)) {\n-    FLAG_SET_DEFAULT(ParallelRefProcEnabled, true);\n-  }\n-\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahArguments.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
