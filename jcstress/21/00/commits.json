@@ -1,0 +1,1 @@
+[{"commit":{"message":"CODETOOLS-7902865: jcstress: Enable -XX:+DebugNonSafepoints if available to get more verbose disassembly"},"files":[{"filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/vm\/VMSupport.java"}],"sha":"9d3f97ba986673f675ed069fcbe63b3538a291c0"}]
