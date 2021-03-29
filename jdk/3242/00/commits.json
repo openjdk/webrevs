@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264358: Don't create invalid oop in method handle tracing"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/methodHandles_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/methodHandles_x86.cpp"}],"sha":"00c9e57109c920e8988d384663be06df82d156de"}]
