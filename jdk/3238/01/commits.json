@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264104: Eliminate unnecessary vector mask conversion during VectorUnbox for floating point VectorMask"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.hpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"bf5b20283a72adb9bf5f2a93b35ae2942d3e7171"}]
