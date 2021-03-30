@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -677,2 +677,1 @@\n-    \/\/ If full then it shouldn't be in the list and we shouldn't be\n-    \/\/ changing that here.\n+    \/\/ If full then it shouldn't be in the list, and should stay that way.\n","filename":"src\/hotspot\/share\/gc\/shared\/oopStorage.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
