@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264346: nullptr_t undefined in global namespace for clang+libstdc++"},"files":[{"filename":"src\/hotspot\/share\/oops\/oopsHierarchy.hpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions_gcc.hpp"}],"sha":"5a562c14e3fcd4cc1671b01a47bcb940fc606294"}]
