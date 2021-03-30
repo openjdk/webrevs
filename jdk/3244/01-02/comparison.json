@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,2 @@\n- * @test 8264337\n+ * @test\n+ * @bug 8264337\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/VerifyWithDefaultArchive.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
