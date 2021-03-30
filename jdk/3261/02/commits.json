@@ -1,0 +1,1 @@
+[{"commit":{"message":"Data is written to file header even if its CRC32 was calculated"},"files":[{"filename":"src\/hotspot\/share\/memory\/archiveBuilder.cpp"},{"filename":"src\/hotspot\/share\/memory\/filemap.cpp"},{"filename":"src\/hotspot\/share\/memory\/filemap.hpp"}],"sha":"4502220d77afc5cf6db362ed42f7a5dbc046f81b"}]
