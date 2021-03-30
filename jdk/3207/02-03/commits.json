@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename MethodCounter allocate functions, refactor null checking."},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodCounters.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodCounters.hpp"}],"sha":"807c84baa3ae889ec3ea35b2671ca22049b4b933"}]
