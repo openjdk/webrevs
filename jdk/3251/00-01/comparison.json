@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,1 +127,1 @@\n-                    sb.append((data[i] & 0xff));\n+                    sb.append(data[i] & 0xff);\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/tiff\/TIFFFieldNode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
