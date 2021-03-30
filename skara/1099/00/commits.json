@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve robustness and error reporting on invalid fixVersion"},"files":[{"filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/RepositoryWorkItem.java"},{"filename":"issuetracker\/src\/main\/java\/org\/openjdk\/skara\/issuetracker\/jira\/JiraProject.java"}],"sha":"c41d9048367e42274a1f27fd85fc3a02abd8d3a3"}]
