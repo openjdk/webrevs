@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,0 +37,1 @@\n+ *                               -XX:PerMethodRecompilationCutoff=-1 -XX:PerBytecodeRecompilationCutoff=-1\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestUnloadedInlineTypeField.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
