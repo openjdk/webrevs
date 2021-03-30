@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264373: javac hangs when annotation is declared with sealed public modifier"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/tree\/TreeInfo.java"},{"filename":"test\/langtools\/tools\/javac\/sealed\/SealedCompilationTests.java"}],"sha":"190ddd0a8b2d4ce9bb91722a13798f0afc4ef5f3"}]
