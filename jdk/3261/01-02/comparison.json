@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,1 +244,1 @@\n-  unsigned int magic()                    const {return _magic;}\n+  unsigned int magic()                    const { return _magic; }\n","filename":"src\/hotspot\/share\/memory\/filemap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
