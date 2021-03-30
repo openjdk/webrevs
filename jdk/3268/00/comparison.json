@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-        out.shouldContain(\"OpenJDK\");\n+        out.shouldNotContain(\"relocation bitmap CRC error\");\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/VerifyWithDefaultArchive.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
