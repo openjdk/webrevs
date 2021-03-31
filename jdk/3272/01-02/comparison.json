@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -542,1 +542,1 @@\n-    assert(_previous->_list->_nested_handle_cnt > 0, \"must be > than zero\");\n+    assert(_previous->_list->_nested_handle_cnt > 0, \"must be > zero\");\n","filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
