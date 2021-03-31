@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -308,1 +308,1 @@\n-} else if (IS_MAC && OS_ARCH != \"x86_64\") {\n+} else if (IS_MAC && OS_ARCH != \"x86_64\" && OS_ARCH != \"aarch64\") {\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
