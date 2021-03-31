@@ -1,0 +1,1 @@
+[{"commit":{"message":"Convert context_type from Klass* to InstanceKlass*"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciMethod.cpp"},{"filename":"src\/hotspot\/share\/code\/dependencies.cpp"},{"filename":"src\/hotspot\/share\/code\/dependencies.hpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"d33bae0fd0c53a62dd4a9416f6566892cb70061c"}]
