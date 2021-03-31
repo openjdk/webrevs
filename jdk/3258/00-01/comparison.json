@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -455,2 +455,1 @@\n-                \"--with-macosx-version-max=11.00.00\",\n-                \"SETFILE=\/usr\/bin\/SetFile\"),\n+                \"--with-macosx-version-max=11.00.00\"),\n","filename":"make\/conf\/jib-profiles.js","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
