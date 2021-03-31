@@ -1,0 +1,1 @@
+[{"commit":{"message":"Review Kim"},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"600c8b7121c1bdfd5450fe39eaeda24837f66e4d"},{"commit":{"message":"8264346: nullptr_t undefined in global namespace for clang+libstdc++"},"files":[{"filename":"src\/hotspot\/share\/oops\/oopsHierarchy.hpp"}],"sha":"5a562c14e3fcd4cc1671b01a47bcb940fc606294"}]
