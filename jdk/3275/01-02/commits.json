@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264484: Replace uses of StringBuffer with StringBuilder in jdk.hotspot.agent\n\nfix indentation"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/ui\/classbrowser\/HTMLGenerator.java"}],"sha":"32274cbc41da833088144e51497254aceeca9f5f"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -886,1 +886,1 @@\n-       return genBaseHref() + \"pc_multiple=\" + pcs;\n+      return genBaseHref() + \"pc_multiple=\" + pcs;\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/ui\/classbrowser\/HTMLGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
