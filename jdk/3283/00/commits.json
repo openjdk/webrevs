@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264475: CopyArea ignores clip state in metal rendering pipeline"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLBlitLoops.m"},{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLTexurePool.m"}],"sha":"d72f94902adcbab0d11fae0e81869c1e3b38ce3c"}]
