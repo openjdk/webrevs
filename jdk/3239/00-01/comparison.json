@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,2 +51,2 @@\n-    private static int WIDTH = 256;\n-    private static int HEIGHT = 256;\n+    private static final int WIDTH = 256;\n+    private static final int HEIGHT = 256;\n","filename":"test\/jdk\/sun\/java2d\/cmm\/ColorConvertOp\/ColCvtAlphaDifferentSrcDst.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
