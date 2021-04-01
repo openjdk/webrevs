@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,1 +354,1 @@\n-\/\/\n+\/\/ This can be seen with logging option: -Xlog:class+load+placeholders=debug.\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
