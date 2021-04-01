@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -495,1 +495,0 @@\n-        Method currentMethod = null;\n@@ -497,1 +496,0 @@\n-            currentMethod = method;\n","filename":"src\/java.base\/share\/classes\/sun\/reflect\/annotation\/AnnotationInvocationHandler.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
