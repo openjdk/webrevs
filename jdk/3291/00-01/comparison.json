@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2666,1 +2666,1 @@\n-                                if(right == null) {\n+                                if (right == null) {\n","filename":"src\/java.base\/share\/classes\/java\/util\/regex\/Pattern.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
