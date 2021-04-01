@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove code to detect container runtime"},"files":[{"filename":"src\/hotspot\/os\/linux\/osContainer_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/osContainer_linux.hpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"8fd9b3f95d40783ef3b70769ba0381f55df832a5"}]
