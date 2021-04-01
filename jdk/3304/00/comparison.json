@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -215,0 +215,5 @@\n+\/\/ Bug 8166727\n+\/\/\n+\/\/ WARNING: Should never close the jimage file.\n+\/\/          Threads may still be running at shutdown.\n+#if 0\n@@ -223,0 +228,1 @@\n+#endif\n","filename":"src\/java.base\/share\/native\/libjimage\/imageFile.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
