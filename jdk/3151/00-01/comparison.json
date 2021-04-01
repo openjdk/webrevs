@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -159,1 +159,1 @@\n-                            (!printServices[j].equals(defaultPrintService))) {\n+                    (!printServices[j].equals(defaultPrintService))) {\n","filename":"src\/java.desktop\/windows\/classes\/sun\/print\/PrintServiceLookupProvider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
