@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3464,1 +3464,0 @@\n-  if (!callee->can_be_compiled())      return \"not compilable (disabled)\";\n","filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
