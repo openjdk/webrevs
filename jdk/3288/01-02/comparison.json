@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-    \/\/ remove the executable suffix if there is one \n+    \/\/ remove the executable suffix if there is one\n","filename":"src\/jdk.jpackage\/share\/native\/common\/FileUtils.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
