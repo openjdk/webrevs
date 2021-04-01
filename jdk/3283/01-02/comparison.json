@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -821,1 +821,1 @@\n-             * direct MTLBlitCommandEncoder for texture mapping.\n+             * direct MTLBlitCommandEncoder for texture copy.\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLBlitLoops.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
