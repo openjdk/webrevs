@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1620,1 +1620,1 @@\n-  if (method()->is_object_constructor() &&\n+  if ((method()->is_object_constructor() || method()->is_static_init_factory()) &&\n","filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
