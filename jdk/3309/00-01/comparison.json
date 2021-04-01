@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1783,0 +1783,1 @@\n+\/\/ The function is only valid when CDS is available.\n@@ -1784,0 +1785,1 @@\n+#if INCLUDE_CDS\n@@ -1785,0 +1787,4 @@\n+#else\n+  ShouldNotReachHere();\n+  return 0L;\n+#endif\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
