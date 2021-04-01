@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,3 +156,0 @@\n-  if (live_words <= live_words_threshold) {\n-    return true;\n-  }\n@@ -160,1 +157,1 @@\n-  return false;\n+  return live_words <= live_words_threshold;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCPrepareTask.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
