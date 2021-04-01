@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262280: Incorrect exception handling for VMThread in class redefinition"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.hpp"}],"sha":"276aa748558f7ceb6ec807aab7639b3d176ca1a4"}]
