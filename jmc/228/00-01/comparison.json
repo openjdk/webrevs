@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,0 +157,1 @@\n+\t\t\tPersistableSashForm.loadState(sash, state.getChild(SASH_ELEMENT));\n","filename":"application\/org.openjdk.jmc.flightrecorder.ui\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/ui\/pages\/ConstantPoolsPage.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
