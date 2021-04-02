@@ -1,0 +1,1 @@
+[{"commit":{"message":"Report container type and register events conditionally"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/events\/ContainerConfigurationEvent.java"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/instrument\/JDKEvents.java"}],"sha":"2514b1a76d5c590cda785e3a3f571cc525662b21"}]
