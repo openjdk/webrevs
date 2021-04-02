@@ -1,0 +1,1 @@
+[{"commit":{"message":"CollectCLDClosure collects duplicated CLDs when dumping dynamic archive"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp"}],"sha":"bdc9c723baf8ae8bc05ea05642eab8aa6e632f36"}]
