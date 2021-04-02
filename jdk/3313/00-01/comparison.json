@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -152,1 +152,1 @@\n-    \/\/ Verify that x and y are integers in the interval [0, p − 1].\n+    \/\/ Verify that x and y are integers in the interval [0, p - 1].\n","filename":"src\/jdk.crypto.ec\/share\/classes\/sun\/security\/ec\/ECDHKeyAgreement.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
