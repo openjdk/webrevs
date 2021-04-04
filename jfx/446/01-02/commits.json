@@ -1,0 +1,1 @@
+[{"commit":{"message":"Include WebKit shared library for Windows\n\nEnable reproducible builds of the native WebKit shared library for\nWindows (jfxwebkit.dll) when SOURCE_DATE_EPOCH is defined."},"files":[{"filename":"build.gradle"},{"filename":"buildSrc\/win.gradle"}],"sha":"cb8510c6cd11fa25a4bdcf299977bfbd0d02af29"}]
