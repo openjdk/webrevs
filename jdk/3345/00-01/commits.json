@@ -1,0 +1,1 @@
+[{"commit":{"message":"Undo change to ObjectSynchronizer::jni_exit()"},"files":[{"filename":"src\/hotspot\/share\/jfr\/jni\/jfrJavaSupport.cpp"},{"filename":"src\/hotspot\/share\/prims\/jni.cpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.hpp"}],"sha":"e488fb8a7d923f31623594321a213984d46bbb35"}]
