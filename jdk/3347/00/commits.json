@@ -1,0 +1,1 @@
+[{"commit":{"message":"8236127: Use value of --icon CLI option to set icon for exe installers"},"files":[{"filename":"src\/jdk.jpackage\/windows\/classes\/jdk\/jpackage\/internal\/ExecutableRebrander.java"},{"filename":"test\/jdk\/tools\/jpackage\/windows\/WinInstallerIconTest.java"}],"sha":"e88a1816eba905537b4317c1eef7063b95e224ce"}]
