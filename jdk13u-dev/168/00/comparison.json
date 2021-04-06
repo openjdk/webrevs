@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,1 @@\n-  BUILD_JDK_JTREG_LIBRARIES_LIBS_libTestMainKeyWindow := -framework JavaVM \\\n+  BUILD_JDK_JTREG_LIBRARIES_LIBS_libTestMainKeyWindow := \\\n","filename":"make\/test\/JtregNativeJdk.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
