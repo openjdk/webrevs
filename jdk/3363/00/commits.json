@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixing rounding issue with BigDecimal and %g formatting flags"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Formatter.java"},{"filename":"test\/jdk\/java\/util\/Formatter\/BigDecimalRounding.java"}],"sha":"8ec00f8f0753bba519f59bd528cc1b7414e091e2"}]
