@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -203,0 +203,1 @@\n+                .proxy(ProxySelector.of(null))\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/bugs\/8199849\/ParamTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
