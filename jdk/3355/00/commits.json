@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264752: JFR crash when only specify threadbuffersize=30M"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/service\/jfrMemorySizer.cpp"},{"filename":"src\/hotspot\/share\/jfr\/recorder\/service\/jfrOptionSet.cpp"},{"filename":"test\/jdk\/jdk\/jfr\/startupargs\/TestMemoryOptions.java"}],"sha":"8c56a1a42b4b33b28a2f2992cef6d0f6038eb34c"}]
