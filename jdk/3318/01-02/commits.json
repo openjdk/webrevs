@@ -1,0 +1,1 @@
+[{"commit":{"message":"reinstated JVMFlagAccess::set_{bool,int,uint,...} functions for better readability"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmci_globals.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagAccess.hpp"}],"sha":"4c0c8ae22272a31991ed34a3dfb922fb223e17fb"}]
