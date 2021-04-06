@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid sweeping vzeroupper into save_vectors block"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_32.cpp"}],"sha":"4cf15f25ae91c04c6540acece707318a182d3b51"}]
