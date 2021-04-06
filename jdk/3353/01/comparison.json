@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -222,0 +222,1 @@\n+#ifdef COMPILER2\n@@ -241,0 +242,4 @@\n+#else\n+  assert(!save_vectors, \"vectors are generated only by C2\");\n+#endif\n+\n","filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_32.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
