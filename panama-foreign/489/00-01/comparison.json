@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,2 +26,1 @@\n- * @modules java.base\/jdk.internal.misc\n- *          java.base\/sun.nio.ch\n+ * @modules java.base\/sun.nio.ch\n@@ -81,1 +80,0 @@\n-import jdk.internal.misc.ExtendedMapMode;\n","filename":"test\/jdk\/java\/foreign\/TestByteBuffer.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
