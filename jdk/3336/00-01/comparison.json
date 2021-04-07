@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n- * @summary OSR compiled metthod crash when UseTLAB is off\n+ * @summary OSR compiled method crash when UseTLAB is off\n","filename":"test\/hotspot\/jtreg\/runtime\/InternalApi\/ThreadCpuTimesDeadlock.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
