@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n-#include <stdint.h>\n@@ -162,2 +161,2 @@\n-    uint8_t swizzle[4];\n-    uint8_t hasAlpha;\n+    unsigned char swizzle[4];\n+    unsigned char hasAlpha;\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/common.h","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
