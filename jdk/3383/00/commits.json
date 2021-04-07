@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261301: StringWriter.flush() is NOOP but documentation does not indicate it"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/CharArrayWriter.java"},{"filename":"src\/java.base\/share\/classes\/java\/io\/StringWriter.java"}],"sha":"0f0ebb5f6756e823beef6ed31365a35a76d5c80c"}]
