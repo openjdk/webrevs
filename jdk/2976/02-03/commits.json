@@ -1,0 +1,1 @@
+[{"commit":{"message":"This code is used for testing purpose and lock should be acquired with no\nsafepoint check as similar to earlier code."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1Allocator.cpp"}],"sha":"259a10c64185663c41906c9b8aa5372182a26011"}]
