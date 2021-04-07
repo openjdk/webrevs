@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-    explicit DatabaseRecord(DatabaseView& view) {\n+    explicit DatabaseRecord(DatabaseView& view) : handle(MSIHANDLE(0)) {\n","filename":"src\/jdk.jpackage\/windows\/native\/common\/MsiDb.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
