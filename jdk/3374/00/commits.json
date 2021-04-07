@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264696: Multi-catch clause causes compiler exception because it uses the package-private supertype"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Resolve.java"},{"filename":"test\/langtools\/tools\/javac\/resolve\/PackagePrivateSupertypeAtMultiCatch.java"}],"sha":"2e0dba0f99d7d661db558cd67ba33329edb913e3"}]
