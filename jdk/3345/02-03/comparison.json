@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3847,1 +3847,0 @@\n-  JavaThread* current = THREAD->as_Java_thread();\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
