@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264318: DrawHugeImageTest.java fails on apple M1\n\nCheck if blit sizes are less than MTL_GPU_FAMILY_MAC_TXT_SIZE"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLBlitLoops.m"}],"sha":"bcb3a2783fc75c333f5d09504ac66a155b0587ee"}]
