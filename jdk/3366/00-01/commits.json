@@ -1,0 +1,1 @@
+[{"commit":{"message":"8232861: Fallback on F_FULLSYNC if file is remote instead of if errno is ENOTTY"},"files":[{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/FileDispatcherImpl.c"}],"sha":"cb13e940e161e123c80eb0519145cd10f3894c9c"}]
