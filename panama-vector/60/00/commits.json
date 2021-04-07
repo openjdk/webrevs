@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264820: jdk\/incubator\/vector\/FloatMaxVectorTests.java fails on AVX512 due to incorrect vector_exp_float512 entry"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"e2b1544d8f195936e0b1ea718388981e9c81e4ed"}]
