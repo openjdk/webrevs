@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename --disableregistry to --disable-registry"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/SALauncher.java"},{"filename":"src\/jdk.hotspot.agent\/share\/man\/jhsdb.1"},{"filename":"test\/hotspot\/jtreg\/serviceability\/sa\/sadebugd\/DebugdUtils.java"}],"sha":"87d3639a2af3d3ce51d603b5b62f572861233cdd"}]
