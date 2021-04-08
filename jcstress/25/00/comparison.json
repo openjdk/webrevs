@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-            if (config.onlyIfC2() && CompileMode.hasC2(cc, info.threads())) {\n+            if (config.onlyIfC2() && !CompileMode.hasC2(cc, info.threads())) {\n","filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/JCStress.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
