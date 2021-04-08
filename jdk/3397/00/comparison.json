@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -827,1 +827,1 @@\n-                throw new IIOException(\"tEXt keyword is longer than 79\");\n+                throw new IIOException(\"zTXt keyword is longer than 79\");\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/png\/PNGImageWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
