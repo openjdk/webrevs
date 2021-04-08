@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use env->AttachCurrentThread before making invocations from native to Java\nFix for JDK-8264886"},"files":[{"filename":"modules\/javafx.web\/src\/main\/native\/Source\/WTF\/wtf\/java\/FileSystemJava.cpp"}],"sha":"c49c91c3ba73f50f76723fc9b2f0055d094879a8"}]
