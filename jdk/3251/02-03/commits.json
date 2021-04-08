@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264484: Replace uses of StringBuffer with StringBuilder in jdk.hotspot.agent\n\nplace each 'append' call on its own line"},"files":[{"filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XCreateWindowParams.java"}],"sha":"d083f9534a1874578b9f9489d6776ad39ff3d1da"}]
