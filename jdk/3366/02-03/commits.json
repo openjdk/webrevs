@@ -1,0 +1,1 @@
+[{"commit":{"message":"8232861: Remove ENOTSUP fallback for fcntl(fd, F_FULLFSYNC) failure"},"files":[{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/FileDispatcherImpl.c"}],"sha":"70d518a3fec8a901e233d8e69504b002bfcfa4ac"}]
