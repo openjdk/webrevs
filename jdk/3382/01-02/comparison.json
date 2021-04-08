@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,0 @@\n-                System.out.println(enclosing.toString());\n","filename":"test\/langtools\/tools\/javac\/processing\/model\/util\/elements\/TestIsAutomaticMod.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
