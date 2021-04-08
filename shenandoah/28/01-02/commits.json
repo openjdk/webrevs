@@ -1,0 +1,1 @@
+[{"commit":{"message":"Lower the rank on new control lock (rather than raise it for others)"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"}],"sha":"16d39268d3690df822af6413815bbab14cccdff0"}]
