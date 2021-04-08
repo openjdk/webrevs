@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257988: Remove JNF dependency from libsaproc\/MacosxDebuggerLocal.m\n\nBackport-of: 2be60e37e0e433141b2e3d3e32f8e638a4888e3a"},"files":[{"filename":"make\/lib\/Lib-jdk.hotspot.agent.gmk"},{"filename":"src\/jdk.hotspot.agent\/macosx\/native\/libsaproc\/MacosxDebuggerLocal.m"}],"sha":"89f70386b50248639f1d3d16270485d7104145c2"}]
