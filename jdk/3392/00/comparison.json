@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1938,2 +1938,1 @@\n-    if (entry != NULL) {\n-      assert(entry->nest_host_error() == NULL, \"Nest host error message already set!\");\n+    if (entry != NULL && entry->nest_host_error() == NULL) {\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
