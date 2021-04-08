@@ -1,0 +1,1 @@
+[{"commit":{"message":"reduce unnecessary memory write traffic in non-SIMD code"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"}],"sha":"ab0e405b99afda5f569b55bfc6bfede8876ad4a7"}]
