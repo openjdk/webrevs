@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1058,1 +1058,1 @@\n-  return find_callee_info_helper(vfst, bc, callinfo, CHECK_NH);\n+  return find_callee_info_helper(vfst, bc, callinfo, THREAD);\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
