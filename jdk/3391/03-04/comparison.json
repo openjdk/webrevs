@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -322,1 +322,1 @@\n-            throw new IOException(\"Tag number over 30 is not supported\");\n+            throw new IOException(\"Tag number over 30 at \" + offset + \" is not supported\");\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/DerValue.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
