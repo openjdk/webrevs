@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert overriding of StoreVectorNode::vect_type for StoreVectorMaskedNode"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"d8839080823d382544430fed3df60841dc22f963"}]
