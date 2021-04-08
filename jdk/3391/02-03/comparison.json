@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -225,1 +225,1 @@\n-            throw new IllegalArgumentException(\"Tag number 31 is not supported\");\n+            throw new IllegalArgumentException(\"Tag number over 30 is not supported\");\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/DerValue.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
