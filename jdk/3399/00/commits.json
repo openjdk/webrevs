@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263642: javac emits duplicate checkcast for first bound of intersection type in cast"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"},{"filename":"test\/langtools\/tools\/javac\/cast\/intersection\/DuplicatedCheckcastTest.java"}],"sha":"f57b0c39c69b4a178dc8fe85a555cb6e3c63cefa"}]
