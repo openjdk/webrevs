@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264765: BreakIterator sees bogus sentence boundary in parenthesized “i.e.” phrase"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/text\/resources\/BreakIteratorRules.java"},{"filename":"test\/jdk\/java\/text\/BreakIterator\/BreakIteratorTest.java"}],"sha":"f9853b1c851eb22ddcf2373811b1d31ed732512a"}]
