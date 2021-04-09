@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,0 +47,1 @@\n+            System.runFinalization();\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/ControlAcceleratorSupportTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
