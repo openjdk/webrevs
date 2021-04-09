@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+#ifdef MACOSX\n@@ -33,0 +34,1 @@\n+#endif\n","filename":"src\/java.base\/unix\/native\/libnio\/ch\/FileDispatcherImpl.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
