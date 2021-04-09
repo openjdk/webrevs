@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed CKM_CHACHA20 when registering ChaCha20 SecretKeyFactory service"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/SunPKCS11.java"}],"sha":"d0f1623893593d449d30ab5d9f18868a500fac32"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -683,1 +683,1 @@\n-                m(CKM_CHACHA20, CKM_CHACHA20_POLY1305));\n+                m(CKM_CHACHA20_POLY1305));\n","filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/SunPKCS11.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
