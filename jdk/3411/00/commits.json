@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264940: java\/lang\/invoke\/6998541\/Test6998541.java failed \"guarantee(ik->is_initialized()) failed: java\/lang\/Byte$ByteCache must be initialized\""},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"}],"sha":"1b73187c69a60c72756c1b8755bcc8994dd17fc3"}]
