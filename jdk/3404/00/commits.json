@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264945: Optimize the code-gen for Math.pow(x, 0.5)"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/MathBench.java"}],"sha":"1adb8c79ab97547d27faa23615f0a1c8c2710329"}]
