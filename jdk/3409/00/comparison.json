@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2439,1 +2439,1 @@\n-            long multiplier = (1 << SALT_SHIFT) - 1;\n+            long multiplier = (1L << SALT_SHIFT) - 1;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/random\/RandomSupport.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
