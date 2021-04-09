@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258788: incorrect response to change in window insets [lanai]\n\nPerform replaceSurfaceData on insets change"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/LWWindowPeer.java"},{"filename":"test\/jdk\/java\/awt\/Window\/FullWindowContentTest\/FullWindowContentRenderTest.java"}],"sha":"0aa7ca974a52a7fdce4c03290cb4a8e376cb0622"}]
