@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,0 @@\n-            FileSystem fs = FileSystems.getDefault();\n","filename":"test\/jdk\/java\/nio\/file\/FileStore\/Basic.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
