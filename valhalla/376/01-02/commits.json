@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add extra missing membar and simplify test"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/interp_masm_aarch64.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestBufferTearingC1.java"}],"sha":"0e41b24a66dcdee4fa990875097cef11e26ea1a2"}]
