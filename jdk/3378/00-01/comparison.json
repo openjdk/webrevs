@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -304,0 +304,4 @@\n+        if (System.getProperty(\"sun.arch.data.model\").equals(\"32\")) {\n+            throw new SkipException(\"large mapped files not supported on 32-bit systems\");\n+        }\n+\n","filename":"test\/jdk\/java\/foreign\/TestByteBuffer.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
