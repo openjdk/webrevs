@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264895: [lworld] assert(\\!InstanceKlass::cast(receiver_klass)->is_not_initialized()) failed: receiver_klass must be initialized"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorld.java"}],"sha":"513625dfb9bf6af80c50683b88431e55add6b564"}]
