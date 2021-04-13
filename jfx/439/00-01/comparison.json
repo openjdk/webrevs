@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -199,2 +199,0 @@\n-ext.MC = cygpath(\"$winSdkBinDir\/mt.exe\")\n-\n","filename":"buildSrc\/win.gradle","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
