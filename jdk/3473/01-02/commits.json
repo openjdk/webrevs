@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8265078: jpackage tests on Windows leave large temp files"},"files":[{"filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/IOUtils.java"},{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/Executor.java"}],"sha":"4b9e59f68e2bf0ff250d1cbfd3c12dced7160514"}]
