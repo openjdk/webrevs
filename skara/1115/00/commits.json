@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only consider Fixed issues for sync labelling"},"files":[{"filename":"jbs\/src\/main\/java\/org\/openjdk\/skara\/jbs\/Backports.java"},{"filename":"jbs\/src\/test\/java\/org\/openjdk\/skara\/jbs\/BackportsTests.java"},{"filename":"test\/src\/main\/java\/org\/openjdk\/skara\/test\/TestIssue.java"}],"sha":"2d0bf4cec9add72e2d1e49a94d57e388fde967f9"}]
