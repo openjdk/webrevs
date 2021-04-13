@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-    private volatile int hashCode;\n+    private int hashCode;\n","filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsFileStore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
