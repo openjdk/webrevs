@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"fix runtime\/logging\/RedefineClasses.java crashed with -XX:+AsyncLogging\"\n\nThis reverts commit 81b2a0cb2a6cf57b1cd0baacdf8c0419f14819b4.\n\nThis problem is sidetracked by JDK-8265102."},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"54aadfaf221dd826ca54a3834193b18d99f368e3"}]
