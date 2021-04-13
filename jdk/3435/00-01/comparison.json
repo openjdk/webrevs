@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,6 +139,1 @@\n-  _base = NULL;\n-  _size = 0;\n-  _alignment = 0;\n-  _special = false;\n-  _executable = false;\n-  _noaccess_prefix = 0;\n+  initialize_members(NULL, 0, 0, false, false);\n","filename":"src\/hotspot\/share\/memory\/virtualspace.cpp","additions":1,"deletions":6,"binary":false,"changes":7,"status":"modified"}]}
