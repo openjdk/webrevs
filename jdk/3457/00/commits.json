@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265066: Split ReservedSpace constructor to avoid default parameter"},"files":[{"filename":"src\/hotspot\/share\/memory\/heap.cpp"},{"filename":"src\/hotspot\/share\/memory\/virtualspace.cpp"},{"filename":"src\/hotspot\/share\/memory\/virtualspace.hpp"}],"sha":"a4cc6cae1c82bc3ede5c6a22a72e9a1b0488bb4b"}]
