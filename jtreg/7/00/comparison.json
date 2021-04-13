@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -441,1 +441,1 @@\n-        grep ^java |\n+        grep -e ^java -e ^openjdk |\n","filename":"make\/build.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
