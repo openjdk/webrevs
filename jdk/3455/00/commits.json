@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265116: ZGC: Steal local stacks instead of flushing them"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zMark.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zMarkStack.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zMarkStack.inline.hpp"}],"sha":"7734dc9e469fa65e4e30ffcf38de36e401e9bae5"}]
