@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -346,1 +346,1 @@\n-        return Path.of(DIR, System.currentTimeMillis() + filename).toAbsolutePath().toString();\n+        return Path.of(\".\", System.currentTimeMillis() + filename).toAbsolutePath().toString();\n","filename":"test\/jdk\/jdk\/jfr\/tool\/TestConfigure.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
