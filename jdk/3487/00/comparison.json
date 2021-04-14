@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,0 +107,4 @@\n+if test $? != 0; then\n+  # The GNU version of uname may be on the PATH which reports arm64 instead\n+  echo $OUT | grep arm64-apple-darwin > \/dev\/null 2> \/dev\/null\n+fi\n","filename":"make\/autoconf\/build-aux\/config.guess","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
