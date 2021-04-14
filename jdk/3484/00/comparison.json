@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -331,1 +331,1 @@\n-  : _gvn(gvn), _short_loop_optimizer(slo) {\n+  : _gvn(gvn), _short_loop_optimizer(slo), _insertion_point(NULL), _state(NULL), _insert_is_pred(false) {\n","filename":"src\/hotspot\/share\/c1\/c1_ValueMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
