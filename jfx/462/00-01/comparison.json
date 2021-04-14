@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-def macOSMinVersion = (TARGET_ARCH == \"aarch64\" || TARGET_ARCH == \"arm64\") ? \"11.0\" : \"10.12\";\n+def macOSMinVersion = isAarch64 ? \"11.0\" : \"10.12\";\n","filename":"buildSrc\/mac.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
