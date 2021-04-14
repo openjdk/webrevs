@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1110,2 +1110,2 @@\n-    _code_data = nm->insts_begin();\n-    _code_size = nm->insts_size();\n+    _code_data = nm->code_begin();\n+    _code_size = (jint)pointer_delta(nm->code_end(), nm->code_begin(), sizeof(char));\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

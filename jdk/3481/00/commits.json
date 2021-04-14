@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265180: JvmtiCompiledMethodLoadEvent should include the stub section of nmethods"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"ef1e692926aa2e7233fd7dbeb75fe298999307fc"}]
