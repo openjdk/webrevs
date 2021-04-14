@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert UOE change, ensure VarHandle.isAccessModeSupported behaves well"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/VarForm.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/VarHandle.java"}],"sha":"dc56c25be07fbbaf300ec37a4f5d42b060ee7c84"}]
