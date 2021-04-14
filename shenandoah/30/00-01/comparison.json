@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -375,0 +375,1 @@\n+      card_scan()->register_object(copy);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.inline.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
