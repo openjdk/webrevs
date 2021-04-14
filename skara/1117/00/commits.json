@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not try to parse sent mails as a conversation as we just want the ID's"},"files":[{"filename":"bots\/mlbridge\/src\/main\/java\/org\/openjdk\/skara\/bots\/mlbridge\/ArchiveWorkItem.java"},{"filename":"bots\/mlbridge\/src\/test\/java\/org\/openjdk\/skara\/bots\/mlbridge\/MailingListBridgeBotTests.java"}],"sha":"5c6b496c476bddc02bce4a897a80881d6a4f9dc8"}]
