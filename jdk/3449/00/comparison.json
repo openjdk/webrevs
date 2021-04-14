@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -563,1 +563,1 @@\n-  if (!is_compilation_mode_selected()) {\n+  if (!is_compilation_mode_selected() && is_tiered()) {\n","filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
