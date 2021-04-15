@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n- * @bug 9069811\n+ * @bug 8264990\n","filename":"tests\/system\/src\/test\/java\/test\/com\/sun\/webkit\/LocalStorageAccessTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
