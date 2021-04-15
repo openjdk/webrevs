@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix build issue with `--disable-precompiled-headers`"},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncFlusher.cpp"},{"filename":"test\/hotspot\/gtest\/logging\/logTestUtils.inline.hpp"}],"sha":"3d74a32be0f73ae4a7985d311774724c202e72b6"}]
