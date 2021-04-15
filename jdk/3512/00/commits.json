@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8265270: Type.getEnclosingType() may fail with CompletionFailure"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"},{"filename":"test\/langtools\/tools\/javac\/processing\/model\/completionfailure\/MissingClassFile.java"}],"sha":"6f53715d70b735cda86d7111c4a59ff65711d761"}]
