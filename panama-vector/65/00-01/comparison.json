@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2278,1 +2278,1 @@\n-  if (strcmp(name, \"RegVectMask\") == 0) size = 1;\n+  if (strcmp(name, \"RegVectMask\") == 0) size = globalAD->get_preproc_def(\"AARCH64\") ? 1 : 2;\n","filename":"src\/hotspot\/share\/adlc\/formssel.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
