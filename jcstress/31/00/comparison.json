@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-        private static CLibrary INSTANCE;\n+        private static volatile CLibrary INSTANCE;\n","filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/os\/AffinitySupport.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
