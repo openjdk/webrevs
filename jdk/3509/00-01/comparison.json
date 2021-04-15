@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n- * @test %I% %E%\n+ * @test\n@@ -29,1 +29,0 @@\n- * @author Kenneth.Russell@sun.com: area=Graphics\n","filename":"test\/jdk\/java\/awt\/Window\/TranslucentJAppletTest\/TranslucentJAppletTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
