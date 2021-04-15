@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265175: Transfer in 1MB chunks; fail with errno if sendfile() returns -1; no fallback to read-write transfer"},"files":[{"filename":"src\/java.base\/unix\/native\/libnio\/fs\/UnixCopyFile.c"}],"sha":"96ecba187712f5bdc6fe3e3a7dd1b0662759f8bd"}]
