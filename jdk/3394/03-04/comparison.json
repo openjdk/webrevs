@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -179,1 +179,1 @@\n-  if ( !caller_is_deopted(current)) {\n+  if (!caller_is_deopted(current)) {\n","filename":"src\/hotspot\/share\/c1\/c1_Runtime1.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
