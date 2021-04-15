@@ -1,0 +1,1 @@
+[{"commit":{"message":"skip tests that fail on windows with non-integer screen scale"},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/layout\/RegionBackgroundImageUITest.java"}],"sha":"91b8d543151c190ec458ead327dff736db305002"}]
