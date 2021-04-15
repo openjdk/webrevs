@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert back fix with CONVERTED_OS_ARCH and CONVERTED_TARGET_ARCH variables"},"files":[{"filename":"build.gradle"},{"filename":"buildSrc\/win.gradle"}],"sha":"b898bb49b126ab3699c867b9bffe1c340b7e3181"}]
