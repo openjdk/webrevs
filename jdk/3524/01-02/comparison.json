@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -416,1 +416,1 @@\n-        \/\/ Printing owned locks acquires tty lock. If lowest rank is below or equal\n+        \/\/ Printing owned locks acquires tty lock. If the least rank was below or equal\n","filename":"src\/hotspot\/share\/runtime\/mutex.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
