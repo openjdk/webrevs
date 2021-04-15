@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1173,1 +1173,1 @@\n-#ifdef DEBUG\n+#ifdef ASSERT\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
