@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265246: Fix macos-Aarch64 build after JDK-8263709"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_Runtime1.cpp"},{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"}],"sha":"a4f5dc75a4a3c5c17ea56d8ad0a1b1ec7182f0ba"}]
