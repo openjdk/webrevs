@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-          \"Use timed decays to shrik TLAB sizes. This conserves memory \"    \\\n+          \"Use timed decays to shrink TLAB sizes. This conserves memory \"   \\\n","filename":"src\/hotspot\/share\/gc\/epsilon\/epsilon_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
