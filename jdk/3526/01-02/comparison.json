@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3932,1 +3932,1 @@\n-          \/\/ Skip attribute_length for any attribute where major_verson >= JAVA_16_VERSION\n+          \/\/ Skip attribute_length for any attribute where major_verson >= JAVA_17_VERSION\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
