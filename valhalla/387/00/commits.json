@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8265376: Prepare for javac change to do the member translation as described in SoV"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java"},{"filename":"test\/jdk\/valhalla\/valuetypes\/QTypeDescriptorTest.java"},{"filename":"test\/jdk\/valhalla\/valuetypes\/Reflection.java"}],"sha":"66a5857d2046272684d2021c640d540303850383"}]
