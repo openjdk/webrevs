@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,1 @@\n-            for (Map.Entry<String, String> entry : LogContextMap.entrySet()) {\n+            for (var entry : LogContextMap.entrySet()) {\n","filename":"bots\/cli\/src\/main\/java\/org\/openjdk\/skara\/bots\/cli\/BotLogstashHandler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
