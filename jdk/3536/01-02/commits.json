@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix tests"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_pow.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestPow0Dot5Opt.java"}],"sha":"dc19497537da30c13624a307da88f7bc9a853a7b"}]
