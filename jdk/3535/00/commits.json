@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264372: Threads::destroy_vm only ever returns true"},"files":[{"filename":"src\/hotspot\/share\/prims\/jni.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"778b233b5be5ffe83a77a00b8fddc216cd10811b"}]
