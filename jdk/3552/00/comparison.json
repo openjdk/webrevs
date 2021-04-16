@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-runtime\/logging\/RedefineClasses.java 8265218 linux-x64\n+runtime\/logging\/RedefineClasses.java 8265218 linux-x64,macosx-x64\n","filename":"test\/hotspot\/jtreg\/ProblemList-Xcomp.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
