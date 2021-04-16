@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,2 +37,0 @@\n-  static double r1;\n-\n@@ -43,1 +41,1 @@\n-    r1 = Math.sqrt(a);\n+    double r1 = Math.sqrt(a);\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestPow0Dot5Opt.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
