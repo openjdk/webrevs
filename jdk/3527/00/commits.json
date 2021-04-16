@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265314: Obsolete the unused AssertOnSuspendWaitFailure and TraceSuspendWaitFailures flags"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"abf0815c4a39e70101246debc3364fffa4b40e20"}]
