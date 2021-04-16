@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265325: Optimize StubRoutines::dpow() for Math.pow(x, 0.5)"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_pow.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestPow0Dot5Opt.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/MathBench.java"}],"sha":"392a5b922afdce7684d03a07320674902f6192c8"}]
