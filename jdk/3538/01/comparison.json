@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,2 @@\n-      \/\/ Force the high live ratio region as compacting to skip these regions in the\n+\n+      \/\/ Force the high live ratio region as not-compacting to skip these regions in the\n","filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCPrepareTask.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
