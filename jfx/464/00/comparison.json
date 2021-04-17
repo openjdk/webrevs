@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -673,0 +673,1 @@\n+        gst_sample_set_caps(priv->sample, priv->last_caps);\n","filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/gstreamer-lite\/gst-plugins-base\/gst-libs\/gst\/app\/gstappsink.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
