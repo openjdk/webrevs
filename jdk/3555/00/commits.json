@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update GHA configuration"},"files":[{"filename":"make\/conf\/test-dependencies"}],"sha":"91c1eb13ef531df43fa21e241b214f714029e35f"},{"commit":{"message":"8257459: Bump minimum boot jdk to JDK 16"},"files":[{"filename":"make\/conf\/jib-profiles.js"},{"filename":"make\/conf\/version-numbers.conf"}],"sha":"90b9990ddd1842e92b2f9f437254c90f026da353"}]
