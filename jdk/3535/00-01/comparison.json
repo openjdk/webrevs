@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3735,1 +3735,1 @@\n-  \/\/ Should not change thread state, VM is gone\n+  \/\/ Don't bother restoring thread state, VM is gone.\n","filename":"src\/hotspot\/share\/prims\/jni.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
