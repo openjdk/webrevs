@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -175,0 +175,6 @@\n+    ~DatabaseView() {\n+      if (handle != 0) {\n+        closeMSIHANDLE(handle);\n+      }\n+    }\n+\n","filename":"src\/jdk.jpackage\/windows\/native\/common\/MsiDb.h","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
