@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,1 @@\n-            var backportBranchName = \"backport-\" + hash.abbreviate();\n+            var backportBranchName = username + \"-backport-\" + hash.abbreviate();\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/BackportCommand.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
