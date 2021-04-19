@@ -1,0 +1,1 @@
+[{"commit":{"message":"avoid use of a lambda in JVMCI initialization"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk.vm.ci.hotspot\/src\/jdk\/vm\/ci\/hotspot\/HotSpotJVMCIBackendFactory.java"}],"sha":"124019d771433ff223d8feee76056a60cf8edea3"}]
