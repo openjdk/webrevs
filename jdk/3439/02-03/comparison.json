@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @run testng\/othervm -Xverify:all -ea -esa TestVHInvokerCaching\n+ * @run testng\/othervm -Xverify:all TestVHInvokerCaching\n","filename":"test\/jdk\/java\/lang\/invoke\/TestVHInvokerCaching.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
