@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @run main\/othervm -Xmx2g StringRepeat\n+ * @run main\/othervm StringRepeat\n","filename":"test\/jdk\/java\/lang\/String\/StringRepeat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
