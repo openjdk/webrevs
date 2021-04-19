@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,4 @@\n+\n+vmTestbase\/vm\/mlvm\/mixed\/stress\/regression\/b6969574\/INDIFY_Test.java 8265295 windows-x64\n+\n+vmTestbase\/vm\/mlvm\/meth\/stress\/compiler\/deoptimize\/Test.java#id1 8265349 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList-Xcomp.txt","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
