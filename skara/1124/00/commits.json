@@ -1,0 +1,1 @@
+[{"commit":{"message":"network: only set Content-type for JSON requests"},"files":[{"filename":"network\/src\/main\/java\/org\/openjdk\/skara\/network\/RestRequest.java"}],"sha":"3e44480d910a276842bb587e3e6383dfd7dd4980"}]
