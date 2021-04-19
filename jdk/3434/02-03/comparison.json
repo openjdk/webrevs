@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -460,1 +460,1 @@\n-  \/\/ If true, then Remark pause selected regions for rebuilding.\n+  \/\/ True when Remark pause selected regions for rebuilding.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
