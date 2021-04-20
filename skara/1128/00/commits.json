@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check for multiline commands when ignoring command-only comments"},"files":[{"filename":"bots\/mlbridge\/src\/main\/java\/org\/openjdk\/skara\/bots\/mlbridge\/ArchiveWorkItem.java"},{"filename":"bots\/mlbridge\/src\/test\/java\/org\/openjdk\/skara\/bots\/mlbridge\/MailingListBridgeBotTests.java"}],"sha":"e91b7d4c1250d45e400c4df382199b034b0603e3"}]
