@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,0 +95,1 @@\n+#include \"utilities\/debug.hpp\"\n@@ -2915,0 +2916,4 @@\n+\n+    \/\/ Handle xxxOnOutOfMemoryError switches.\n+    report_java_out_of_memory(os::native_thread_creation_failed_msg());\n+\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
