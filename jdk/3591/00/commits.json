@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263421: Module image file is opened twice during VM startup"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoader.hpp"}],"sha":"090604797c0da503495ff1704fed870810233b0b"}]
