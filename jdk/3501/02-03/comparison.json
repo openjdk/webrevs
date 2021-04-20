@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,1 @@\n-@Fork(value = 1, jvmArgsAppend = {\"-Xms1g\", \"-Xmx1g\"})\n+@Fork(value = 3, jvmArgsAppend = {\"-Xms1g\", \"-Xmx1g\"})\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/StringJoinerBenchmark.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
