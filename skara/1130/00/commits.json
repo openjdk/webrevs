@@ -1,0 +1,1 @@
+[{"commit":{"message":"When pushing a webrev, try rebasing if it fails"},"files":[{"filename":"bots\/mlbridge\/src\/main\/java\/org\/openjdk\/skara\/bots\/mlbridge\/WebrevStorage.java"},{"filename":"bots\/mlbridge\/src\/test\/java\/org\/openjdk\/skara\/bots\/mlbridge\/WebrevStorageTests.java"}],"sha":"925dcb05c41648dc2ddf8e8fee81b097607d5d47"}]
