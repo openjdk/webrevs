@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -154,0 +154,2 @@\n+        err.println(\"Usage: jextract <options> [--] <header file>\");\n+        err.println(\"Use --help for a list of possible options\");\n","filename":"src\/jdk.incubator.jextract\/share\/classes\/jdk\/incubator\/jextract\/JextractTool.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
