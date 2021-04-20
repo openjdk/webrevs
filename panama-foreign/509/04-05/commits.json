@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use VH insted of volatile\n\nReplacee\n\/\/    while ((int) LOCK.compareAndExchange(this, 0, 1) != 1) { }\n    while (!LOCK.compareAndSet(this, 0, 1)) { }\n\nPerformane around 34 ns \/ oop"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/SpinLockQueue.java"}],"sha":"ea743bfe1894cb071412311588fc95de41cf5302"}]
