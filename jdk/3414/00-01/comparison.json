@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-TEST_VM(MetaspaceUtils, none_compressed_class_pointers) {\n+TEST_VM(MetaspaceUtils, non_compressed_class_pointers) {\n","filename":"test\/hotspot\/gtest\/metaspace\/test_metaspaceUtils.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
