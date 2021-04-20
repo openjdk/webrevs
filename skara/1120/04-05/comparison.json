@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,0 +103,1 @@\n+        \/\/ Save futures in optional collection when running tests.\n","filename":"bots\/cli\/src\/main\/java\/org\/openjdk\/skara\/bots\/cli\/BotLogstashHandler.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
