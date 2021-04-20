@@ -1,0 +1,1 @@
+[{"commit":{"message":"Wait longer for draft prs, mention \/open"},"files":[{"filename":"bots\/bridgekeeper\/src\/main\/java\/org\/openjdk\/skara\/bots\/bridgekeeper\/PullRequestPrunerBot.java"},{"filename":"bots\/bridgekeeper\/src\/test\/java\/org\/openjdk\/skara\/bots\/bridgekeeper\/PullRequestPrunerBotTests.java"}],"sha":"a7bdd9f4bac8ea988de343a214215197276de4c3"}]
