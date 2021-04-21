@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -722,2 +722,2 @@\n-        if (unit instanceof ChronoUnit u) {\n-            switch (u) {\n+        if (unit instanceof ChronoUnit chronoUnit) {\n+            switch (chronoUnit) {\n","filename":"src\/java.base\/share\/classes\/java\/time\/Duration.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
