@@ -1,0 +1,1 @@
+[{"commit":{"message":"move the setting of shared old class bit to InstanceKlass::remove_unshareable_info"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"}],"sha":"a8ddecfea6d0dc2bdb6e140989e06f9e08107478"}]
