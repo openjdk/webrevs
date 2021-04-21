@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -658,3 +658,0 @@\n-\n-      JVMCIObject result = JVMCIENV->call_PrimitiveConstant_forTypeChar(type2char(bt2), raw_value, JVMCI_CHECK_NULL);\n-      return JVMCIENV->get_jobject(result);\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
