@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5781,1 +5781,1 @@\n-  predicate(UseSSE>=1)\n+  predicate(UseSSE>=1);\n@@ -5801,1 +5801,1 @@\n-  predicate(UseSSE>=2)\n+  predicate(UseSSE>=2);\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
