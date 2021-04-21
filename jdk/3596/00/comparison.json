@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -206,0 +206,6 @@\n+  if (_previous_name == vmSymbols::java_lang_Object()) {\n+    \/\/ no names were created\n+    assert(_names == NULL, \"_names unexpectedly created\");\n+    return;\n+  }\n+\n","filename":"src\/hotspot\/share\/runtime\/signature.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
