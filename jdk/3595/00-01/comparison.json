@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2964,1 +2964,1 @@\n-  BasicType sig_bt[256];\n+  BasicType *sig_bt = NEW_RESOURCE_ARRAY(BasicType, 256);\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
