@@ -1,0 +1,1 @@
+[{"commit":{"message":"Hide accumCell when the cell is released.\nFix for JDK-8265669"},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/VirtualFlow.java"},{"filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/skin\/VirtualFlowTest.java"}],"sha":"fee22a79977e6e0dc917aa387486412ccb853b6c"}]
