@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * <pre>\n+ * <pre>{@code\n@@ -34,1 +34,1 @@\n- * <\/pre>\n+ * }<\/pre>\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/source\/tree\/DefaultValueTree.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
