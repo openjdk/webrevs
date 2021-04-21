@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -170,1 +170,1 @@\n-                        log.log(Level.WARNING,\"Exception during queue drain\", e);\n+                        log.log(Level.WARNING, \"Exception during queue drain\", e);\n","filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/BotRunner.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
