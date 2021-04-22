@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge pull request #7 from sviswa7\/unsigned-comparison-operators\n\nUse vpshufd\/vpermq"},"files":[],"sha":"d9412e125fbf4d9e19264a0d0bf1dcd9c880d8ed"},{"commit":{"message":"Use vpshufd\/vpermq"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"}],"sha":"f36c03680042e77c7c9047141c08304d05ad2d07"}]
