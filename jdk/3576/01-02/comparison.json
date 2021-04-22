@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,0 @@\n-    private final static int N_THREADS = 32;\n","filename":"test\/hotspot\/jtreg\/runtime\/Thread\/SuspendAtExit.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
