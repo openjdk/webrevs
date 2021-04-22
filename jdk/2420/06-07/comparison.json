@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -10854,1 +10854,1 @@\n-  emit_int16(get_prefixq(dst), 0xF7);\n+  emit_int16(get_prefixq(dst), (unsigned char)0xF7);\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
