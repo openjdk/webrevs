@@ -1,0 +1,1 @@
+[{"commit":{"message":"7246: ClassCastException when opening heap dump\n\nSigned-off-by: Tobias Stadler <ts.stadler@gmx.de>"},"files":[{"filename":"application\/org.openjdk.jmc.joverflow\/src\/main\/java\/org\/openjdk\/jmc\/joverflow\/heap\/model\/Snapshot.java"}],"sha":"88a02b6198a49c039adce87c77f55f1e4426d59c"}]
