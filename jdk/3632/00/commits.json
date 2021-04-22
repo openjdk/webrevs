@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265759: Shenandoah: Avoid race for referent in assert"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp"}],"sha":"73a36ca434879ff8b23cabc783974a801f9c4451"}]
