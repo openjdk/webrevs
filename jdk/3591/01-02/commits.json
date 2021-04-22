@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed set_jimage() and renamed JImage_File to JImage_file"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoader.hpp"}],"sha":"47fa218bd41944e8104bdb96c3486151d225590f"}]
