@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2149,1 +2149,1 @@\n-#else\n+#else \/\/ defined(__APPLE__) && defined(__x86_64__)\n","filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
