@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add aarch64 support to linux\n\nFor building on aarch64 linux systems we need it added to the buuld.gradle to stop ignoring it."},"files":[{"filename":"build.gradle"}],"sha":"b210f2fc255d17c8f4d6239b5e9d9bd30d59b850"}]
