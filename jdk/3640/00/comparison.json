@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -763,1 +763,1 @@\n-  link_and_cleanup_shared_classes(CATCH);\n+  link_and_cleanup_shared_classes(CHECK);\n","filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
