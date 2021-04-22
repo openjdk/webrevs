@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -828,1 +828,1 @@\n-                    if (scope == null || scope.isImplicit()) {\n+                    if (scope == null) {\n","filename":"src\/java.base\/share\/classes\/java\/nio\/Buffer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
