@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -261,1 +261,1 @@\n-            if (list == NULL || list == &runningThreads ) {\n+            if ( list == NULL || list == &runningThreads ) {\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/threadControl.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
