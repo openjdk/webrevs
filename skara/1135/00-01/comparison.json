@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -340,1 +340,1 @@\n-        \/\/ 8u260 and 8u270 are a contingency releases\n+        \/\/ 8u260 and 8u270 are contingency releases\n","filename":"jbs\/src\/main\/java\/org\/openjdk\/skara\/jbs\/Backports.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
