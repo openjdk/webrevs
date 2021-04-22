@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -566,0 +566,4 @@\n+\n+      C->print_inlining_assert_ready();\n+      C->print_inlining_move_to(cg);\n+      C->print_inlining_update(cloned_cg);\n","filename":"src\/hotspot\/share\/opto\/node.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
