@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -377,1 +377,1 @@\n-                .collect(Collectors.toList()); \/\/Mutable\n+                .collect(Collectors.toCollection(ArrayList::new));\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/HtmlConfiguration.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
