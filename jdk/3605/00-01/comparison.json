@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-                return \"oraclelinux\";\n+                return \"ubuntu\";\n","filename":"test\/lib\/jdk\/test\/lib\/containers\/docker\/DockerfileConfig.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
