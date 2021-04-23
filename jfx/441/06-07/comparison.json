@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -856,0 +856,5 @@\n+        assertChangeIndexToEditing(0, -1);\n+    }\n+\n+    @Test\n+    public void testChangeIndexToEditing5_jdk_8264127() {\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/ListCellTest.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
