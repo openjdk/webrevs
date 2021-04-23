@@ -1,0 +1,1 @@
+[{"commit":{"message":"8241248: NullPointerException in sun.security.ssl.HKDF.extract(HKDF.java:93)"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/PreSharedKeyExtension.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/ServerHello.java"}],"sha":"c3afeb1838bd067f68f98083d5b5fa5b65b47f83"}]
