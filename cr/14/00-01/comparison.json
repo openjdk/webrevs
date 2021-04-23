@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1521,1 +1521,1 @@\n-        } else if (line == \"\") {\n+        } else if (line === \"\") {\n@@ -1622,0 +1622,3 @@\n+    if (file.status === \"deleted\") {\n+        return Promise.resolve([]);\n+    }\n","filename":"index.html","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
