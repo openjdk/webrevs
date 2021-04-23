@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3464,2 +3464,0 @@\n-        def classifier = (t.name != \"linux\" && t.name != \"win\") ? t.name :\n-                          IS_64 ? IS_AARCH64 ? \"${t.name}-aarch64\" : \"${t.name}-amd64\" : \"${t.name}-i586\"\n","filename":"build.gradle","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
