@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,0 +61,1 @@\n+#include \"runtime\/semaphore.inline.hpp\"\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
