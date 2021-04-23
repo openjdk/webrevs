@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8265613: False positives for \"Related Packages\""},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/builders\/PackageSummaryBuilder.java"},{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testRelatedPackages\/TestRelatedPackages.java"}],"sha":"0e77d5f9d3f857482acc172f64626cb50265fbdc"}]
