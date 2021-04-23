@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -187,1 +187,1 @@\n-   if (large_pages_requested()) {\n+    if (large_pages_requested()) {\n","filename":"src\/hotspot\/share\/memory\/virtualspace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
