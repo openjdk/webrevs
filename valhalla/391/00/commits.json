@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265726: [lworld] C2 compilation fails with assert 'uses must be dominated by definitions'"},"files":[{"filename":"src\/hotspot\/share\/opto\/block.cpp"},{"filename":"src\/hotspot\/share\/opto\/macro.cpp"}],"sha":"1bc32600099ab19e8a4eec541d09ad49c365907b"}]
