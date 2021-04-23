@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264663: Update serviceability\/jvmti\/SuspendWithCurrentThread\/SuspendWithCurrentThread.java to verify that suspend don't exit until resumed"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/SuspendWithCurrentThread\/libSuspendWithCurrentThread.cpp"}],"sha":"2c75e48e36af1fa3d6ea0fe153094130c88201c2"}]
