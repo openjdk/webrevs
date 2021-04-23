@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264317: Lanai: IncorrectUnmanagedImageRotatedClip.java fails on apple M1\n\nExplicitly set storeAction in clear pass for stencil texture"},"files":[{"filename":"test\/jdk\/java\/awt\/image\/DrawImage\/IncorrectUnmanagedImageRotatedClip.java"}],"sha":"bf569289c00fdfe12fe68720e7856bb6e5d73cc5"}]
