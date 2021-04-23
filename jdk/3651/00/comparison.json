@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -313,0 +313,1 @@\n+            clearPassDescriptor.stencilAttachment.storeAction = MTLStoreActionStore;\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLClip.m","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
