@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert semantics of MemoryAddress::segmentOffset to be scope-neutral."},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/MemoryAddress.java"},{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/MemoryAddressImpl.java"}],"sha":"801eccdbcd2fac598f4e127ade3565416c87a463"}]
