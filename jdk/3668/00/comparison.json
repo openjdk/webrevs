@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -709,1 +709,1 @@\n-sun\/security\/ssl\/SSLSocketImpl\/SSLSocketImplThrowsWrongExceptions.java 8262409 linux-x64\n+sun\/security\/ssl\/SSLSocketImpl\/SSLSocketImplThrowsWrongExceptions.java 8262409 linux-all,macosx-x64\n","filename":"test\/jdk\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
