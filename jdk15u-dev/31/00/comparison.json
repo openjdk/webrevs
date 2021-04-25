@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1366,1 +1366,1 @@\n-    [[NSNotificationCenter defaultCenter] addObserver:self\n+    [[NSNotificationCenter defaultCenter] addObserver:[AWTView class]\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/AWTView.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
