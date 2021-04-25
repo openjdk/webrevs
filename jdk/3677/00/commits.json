@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265917: Different values computed by C2 and interpreter\/C1 for Math.pow(x, 2.0) on x86_32"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestPow2Opt.java"}],"sha":"a7d32c25c0be6bde321130da2ce93b4d563a5039"}]
