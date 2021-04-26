@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264973: AArch64: Optimize vector max\/min\/add reduction of two integers with NEON pairwise instructions"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_neon.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_neon_ad.m4"},{"filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp"}],"sha":"0de0bef46d24087636284f245e3e94cd458f5b2b"}]
