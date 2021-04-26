@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264762: In X-Buffer use $.BYTES instead of ELEMENT_SIZE; remove useless ReadOnlyBufferException from getArray()."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/X-Buffer.java.template"}],"sha":"719b8d84adffc1caa8d4c84b6968f0f091f735ec"}]
