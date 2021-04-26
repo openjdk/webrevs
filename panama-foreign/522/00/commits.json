@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clarify IllegalArgumentException on MemorySegment::[spliterator,elements]"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/MemorySegment.java"},{"filename":"test\/jdk\/java\/foreign\/TestSpliterator.java"}],"sha":"9463fed2485c2906dff6a7358679651924b17b28"}]
