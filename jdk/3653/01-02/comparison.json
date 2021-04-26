@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-    task = Atomic::add(&_num_serial_tasks_done, 1) - 1;\n+    task = Atomic::fetch_and_add(&_num_serial_tasks_done, 1);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1BatchedGangTask.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
