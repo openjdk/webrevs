@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,1 @@\n-    static class ConfinedResourceList extends ResourceList {\n+    static final class ConfinedResourceList extends ResourceList {\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/ConfinedScope.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
