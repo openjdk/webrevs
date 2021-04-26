@@ -1,0 +1,1 @@
+[{"commit":{"message":"Optimize pow(x, 2.0) for x86_32"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_pow.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestPow2Opt.java"}],"sha":"dde59758284368404d4f8699a89c63e77fc98bf0"}]
