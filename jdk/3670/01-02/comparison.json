@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1810,0 +1810,5 @@\n+    case Op_VectorMaskCmp:\n+      if (vlen < 2 || size_in_bits < 64) {\n+        return false;\n+      }\n+      break;\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
