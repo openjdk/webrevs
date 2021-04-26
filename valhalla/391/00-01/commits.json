@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not hoist constant loads with MachConstantBaseNode input"},"files":[{"filename":"src\/hotspot\/share\/opto\/lcm.cpp"}],"sha":"a75a6678eee3b705673c6b24c738592487f5e2fa"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -317,1 +317,1 @@\n-      if (mach->in(j)->is_Con() && inb == get_block_for_node(mach)) {\n+      if (mach->in(j)->is_Con() && mach->in(j)->req() == 1 && inb == get_block_for_node(mach)) {\n","filename":"src\/hotspot\/share\/opto\/lcm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
