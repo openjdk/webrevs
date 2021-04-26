@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -202,1 +202,1 @@\n-  assert(!is_free(), \"should not have compacted free region\");\n+  assert(!is_free(), \"must be\");\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
