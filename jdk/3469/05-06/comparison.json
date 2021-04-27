@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1428,6 +1428,0 @@\n-        \/**\n-         * No instances.\n-         *\/\n-        private AbstractSpliteratorGenerator() {\n-        }\n-\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/random\/RandomSupport.java","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
