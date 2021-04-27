@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove redundant reachability fence in implementations for HandleImpl::release"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/ConfinedScope.java"},{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/SharedScope.java"}],"sha":"8d30b3897aacc13e465f62bfedc85625b48b6d9e"}]
