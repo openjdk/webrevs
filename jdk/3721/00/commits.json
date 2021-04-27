@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265126:[REDO] unified handling for VectorMask object re-materialization during de-optimization"},"files":[{"filename":"src\/hotspot\/share\/opto\/vector.cpp"},{"filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp"},{"filename":"src\/hotspot\/share\/prims\/vectorSupport.hpp"}],"sha":"b35e1345035351ea339471b44e3ff02f5a05ddb8"}]
