@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -799,1 +799,0 @@\n-        int end = offset + length;\n","filename":"src\/java.base\/share\/classes\/java\/nio\/X-Buffer.java.template","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
