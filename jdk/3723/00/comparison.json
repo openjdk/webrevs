@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -821,1 +821,2 @@\n-  return (n & ~(0xff << bitsIdx)) | (b << bitsIdx);\n+  return (n & ~(static_cast<uint32_t>(0xff) << bitsIdx))\n+          | (static_cast<uint32_t>(b) << bitsIdx);\n","filename":"src\/hotspot\/share\/runtime\/atomic.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
