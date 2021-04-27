@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -479,2 +479,1 @@\n-          if (_ext.shift() > 0)\n-            assert(_ext.shift() == (int)size, \"bad shift\");\n+          assert(_ext.shift() <= 0 || _ext.shift() == (int)size, \"bad shift\");\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
