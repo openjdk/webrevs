@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move read static invoker lines to LambdaFormInokers, remove unneeded check for return  NULL"},"files":[{"filename":"src\/hotspot\/share\/cds\/lambdaFormInvokers.cpp"},{"filename":"src\/hotspot\/share\/cds\/lambdaFormInvokers.hpp"},{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"9b5aa51363726105d15316a546e9394ea9fa50ea"}]
