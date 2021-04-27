@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-import static sun.java2d.pipe.BufferedOpCodes.INVALIDATE_CONTEXT;\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/java2d\/metal\/MTLContext.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
