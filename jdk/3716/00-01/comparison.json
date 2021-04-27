@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-    private static final record R(int i) {}\n+    private record R(int i) {}\n","filename":"test\/langtools\/jdk\/javadoc\/doclet\/testMemberSummary\/pkg3\/Members.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
