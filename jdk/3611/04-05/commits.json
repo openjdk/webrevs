@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed unused function static_archive_invokers(), add back accidentally deleted empty line"},"files":[{"filename":"src\/hotspot\/share\/cds\/filemap.hpp"},{"filename":"src\/hotspot\/share\/cds\/lambdaFormInvokers.hpp"}],"sha":"386f2da43af4f0c7f9d7ce0fc0c8451ba520d197"}]
