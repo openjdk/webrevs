@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,2 +63,2 @@\n-    volatile private Point p;\n-    volatile private Dimension d;\n+    private volatile Point p;\n+    private volatile Dimension d;\n","filename":"test\/jdk\/javax\/swing\/JComboBox\/8033069\/bug8033069NoScrollBar.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
