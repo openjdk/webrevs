@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved log invoker lines to debug only, removed check for as_utf8_string"},"files":[{"filename":"src\/hotspot\/share\/cds\/lambdaFormInvokers.cpp"}],"sha":"c46b64c287a287984ce899762ef678d55e038877"}]
