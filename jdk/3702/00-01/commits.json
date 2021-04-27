@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert code change about \"constness\"."},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/threadLocalAllocBuffer.hpp"},{"filename":"src\/hotspot\/share\/runtime\/javaFrameAnchor.hpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"244b5aa061415c5c0e99e5308bd21863206e5e3a"}]
