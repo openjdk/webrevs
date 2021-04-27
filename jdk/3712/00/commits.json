@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266028: C2 computes -0.0 for Math.pow(-0.0, 0.5)"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestPow0Dot5Opt.java"}],"sha":"8d4f76a6a367103fa691dfb25cdd65d1c6aabb7a"}]
