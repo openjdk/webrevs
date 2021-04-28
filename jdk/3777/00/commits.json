@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265989: System property for the native character encoding name"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/System.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/SystemProps.java"},{"filename":"test\/jdk\/java\/lang\/System\/PropertyTest.java"}],"sha":"fa5246c8a49cdc85075a3d67e1a29717d4c9aad9"}]
