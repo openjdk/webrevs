@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -952,0 +952,1 @@\n+            free(resolved);\n","filename":"src\/java.instrument\/share\/native\/libinstrument\/InvocationAdapter.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
