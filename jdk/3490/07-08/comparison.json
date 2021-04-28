@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n-                \/\/ pre-initialisation to make the Test generic across algorithms.\n+                \/\/ pre-initialization to make the Test generic across algorithms.\n","filename":"test\/jdk\/javax\/crypto\/KeyGenerator\/CompareKeys.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
