@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265940: Enable C2's optimization for Math.pow(x, 0.5) on all platforms"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_pow.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestPow0Dot5Opt.java"}],"sha":"bb88f24f1c07632724d1903747b80eeb2c5be2b6"}]
