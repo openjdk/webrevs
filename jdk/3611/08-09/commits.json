@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only store four lambda invoker (which will be regenerated in dynamic dump) lines in static archive"},"files":[{"filename":"src\/hotspot\/share\/cds\/lambdaFormInvokers.cpp"}],"sha":"05a7ca938fcd4676fcc4e415da66d913e40d755e"}]
