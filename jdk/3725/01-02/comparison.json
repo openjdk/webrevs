@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -205,2 +205,0 @@\n-            \/\/ If a read-only check had not been done above, then\n-            \/\/ the stream would be incorrectly advanced here.\n","filename":"src\/java.base\/share\/classes\/java\/io\/Reader.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
