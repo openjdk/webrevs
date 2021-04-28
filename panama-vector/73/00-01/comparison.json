@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2431,0 +2431,3 @@\n+    case Op_LoadVectorGather:\n+    case Op_StoreVectorScatter:\n+      return false;\n","filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
