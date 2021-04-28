@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-\/\/ This classes are loaded on a different thread.\n+\/\/ These classes are loaded on a different thread.\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/ClassPrepare\/classprep001\/classprep001.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
