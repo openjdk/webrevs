@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-         id=\"org.openjdk.jmc.feature.console.ext.agent\"\n+         id=\"org.openjdk.jmc.feature.console.agent\"\n","filename":"application\/org.openjdk.jmc.feature.rcp\/feature.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
