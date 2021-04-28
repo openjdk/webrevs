@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run main\/othervm compiler.vectorapi.TestVectorErgonomics\n+ * @run driver compiler.vectorapi.TestVectorErgonomics\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorErgonomics.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
