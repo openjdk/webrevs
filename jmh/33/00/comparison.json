@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -888,1 +888,1 @@\n-                    if (!cp.endsWith(\".jar\")) {\n+                    if (Files.isDirectory(cpPath)) {\n","filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/runner\/Runner.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
