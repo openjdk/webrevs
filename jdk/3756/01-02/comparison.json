@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,2 +109,1 @@\n-    assert(_number_of_refills == 0 &&\n-           _slow_refill_waste == 0 && _gc_waste          == 0,\n+    assert(_number_of_refills == 0 && _slow_refill_waste == 0 && _gc_waste == 0,\n","filename":"src\/hotspot\/share\/gc\/shared\/threadLocalAllocBuffer.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
