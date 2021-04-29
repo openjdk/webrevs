@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+ * @requires vm.flagless\n","filename":"test\/hotspot\/jtreg\/compiler\/eliminateAutobox\/TestEliminateBoxInDebugInfo.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
