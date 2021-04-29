@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264395: WB_EnqueueInitializerForCompilation fails with \"method holder must be initialized\" when called for uninitialized class"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/whitebox\/TestEnqueueInitializerForCompilation.java"}],"sha":"bae30303e0ea216e25a9dcda2deacf25e1051f14"}]
