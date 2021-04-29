@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266267: Remove unnecessary jumps in Intel Math Library StubRoutines"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_exp.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_log.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_pow.cpp"}],"sha":"fce7d579557ab9da60abb51de384df428e2b3312"}]
