@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,2 @@\n+ *\n+ * @requires vm.flagless\n@@ -31,0 +33,1 @@\n+ *\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestBufferVectorization.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
