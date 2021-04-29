@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -630,1 +630,1 @@\n-  CardTableBarrierSet* ctbs = barrier_set_cast<CardTableBarrierSet>(bs);\n+  ShenandoahBarrierSet* ctbs = barrier_set_cast<ShenandoahBarrierSet>(bs);\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoahBarrierSetAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
