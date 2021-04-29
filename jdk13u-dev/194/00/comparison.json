@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,0 +181,1 @@\n+    delete[] path;\n@@ -182,1 +183,0 @@\n-        delete[] path;\n","filename":"src\/java.base\/share\/native\/libjimage\/imageFile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
