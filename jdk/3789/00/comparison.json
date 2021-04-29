@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1773,2 +1773,2 @@\n-  char* const crash_addr = (char*)VMError::segfault_address;\n-  *crash_addr = 'X';\n+  int* crash_addr = reinterpret_cast<int*>(VMError::segfault_address);\n+  *crash_addr = 1;\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
