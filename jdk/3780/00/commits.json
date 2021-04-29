@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262376: ReplaceCriticalClassesForSubgraphs.java fails if --with-build-jdk is used"},"files":[{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/serviceability\/ReplaceCriticalClasses.java"}],"sha":"f4f8db55db924c4904679b369081a495ae99018e"}]
