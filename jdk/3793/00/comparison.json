@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1325,1 +1325,1 @@\n-      assert(false, \"root method not found\");\n+      \/\/ Miranda.\n","filename":"src\/hotspot\/share\/code\/dependencies.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
