@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix as_basic_args_string for adapters with many args, restore NULL-returning behavior"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"31c8abbfc8355a2aa79b9ddc5fb3cc9365ec4730"}]
