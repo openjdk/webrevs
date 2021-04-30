@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify barrier casting"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoahBarrierSetAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/gc\/shenandoah\/shenandoahBarrierSetAssembler_x86.cpp"}],"sha":"941c3ae9396abe63cf4d206e00d78ebfba94391a"}]
