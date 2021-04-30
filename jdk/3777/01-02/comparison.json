@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,1 +181,1 @@\n-     * @return the {@code user.name} system property\n+     * @return the {@code jdk.serialFilter} system property\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/StaticProperty.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
