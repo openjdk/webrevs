@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix GHA"},"files":[{"filename":".github\/workflows\/submit.yml"}],"sha":"fb851a3471387bf5516054de7496151a061ef7b5"},{"commit":{"message":"8266318: Switch to macos prefix for macOS bundles"},"files":[{"filename":"make\/autoconf\/platform.m4"},{"filename":"make\/conf\/jib-profiles.js"}],"sha":"1732c91720e725392426e89039f60c9c4aa98a12"}]
