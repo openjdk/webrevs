@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,2 +62,0 @@\n-        output.outputTo(System.out);\n-        output.errorTo(System.out);\n","filename":"test\/hotspot\/jtreg\/runtime\/stringtable\/StringTableCleaningTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
