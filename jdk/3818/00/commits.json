@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265767: compiler\/eliminateAutobox\/TestIntBoxing.java crashes on arm32 after 8264649 in debug VMs"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"}],"sha":"cfc353eda7e103aca33636f4dc597a98c0af78f6"}]
