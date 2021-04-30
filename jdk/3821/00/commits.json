@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8265042: javadoc HTML files not generated for types nested in records"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/util\/Utils.java"},{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testNestedClasses\/TestNestedClasses.java"}],"sha":"23940d053ab838cbc601cff3a767914f0ad4df48"}]
