@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address negative overflow as well"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegments.java"}],"sha":"6f9d37540075fad76117c7ec7f38273feaaaaa11"}]
