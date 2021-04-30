@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -529,2 +529,1 @@\n-#linux-aarch64 failure\n-java\/awt\/Graphics2D\/DrawString\/DrawRotatedStringUsingRotatedFont.java 8266283 linux-aarch64\n+java\/awt\/Graphics2D\/DrawString\/DrawRotatedStringUsingRotatedFont.java 8266283 linux-all\n","filename":"test\/jdk\/ProblemList.txt","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
