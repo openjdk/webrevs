@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-        long offset = ((long)Integer.MIN_VALUE * 2L) + 6L;\n+        long offset = ((long)Integer.MIN_VALUE * 2L) + 6L; \/\/ underflows to 6 when casted to int\n","filename":"test\/jdk\/java\/foreign\/TestSegments.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
