@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266388: C2: Improve ShiftCntV with a constant shift on x86"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"src\/hotspot\/share\/opto\/matcher.cpp"},{"filename":"src\/hotspot\/share\/opto\/matcher.hpp"}],"sha":"70bfaeb6729cebee148e86d1b623a65d05ffa604"}]
