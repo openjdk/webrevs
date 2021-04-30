@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266320: (bf) ReadOnlyBufferException in heap buffer put(String,int,int) should not be conditional"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Heap-X-Buffer.java.template"},{"filename":"test\/jdk\/java\/nio\/Buffer\/Basic-X.java.template"}],"sha":"dd7177b4c79f3522903c9ce02d10d2437bd20f9c"}]
