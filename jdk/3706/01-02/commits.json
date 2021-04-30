@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use a SignatureIterator to calculate the sig_bt array to allow taking advantage of the method fingerprint"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"2bbb119804eacf646309cb65a57a83b42ac4edff"}]
