@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -983,1 +983,1 @@\n-            hres = pIcon->Extract(szBuf, index, &hIcon, NULL, (16 << 16) + size);\n+            hres = pIcon->Extract(szBuf, index, &hIcon, NULL, size);\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/ShellFolder2.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
