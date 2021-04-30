@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -251,1 +251,1 @@\n-                \"package p; sealed class D extends A permits D1, D2 { }\",\n+                \"package p;        sealed class D extends A permits D1, D2 { }\",\n","filename":"test\/langtools\/jdk\/javadoc\/doclet\/testSealedTypes\/TestSealedTypes.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
