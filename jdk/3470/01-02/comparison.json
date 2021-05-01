@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3095,1 +3095,1 @@\n-  LIR_Opr epoch_address = new_register(T_LONG);\n+  LIR_Opr epoch_address = new_pointer_register();\n","filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
