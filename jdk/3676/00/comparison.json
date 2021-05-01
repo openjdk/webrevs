@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1761,1 +1761,0 @@\n-  uint8_t state_unloading_cycle = IsUnloadingState::unloading_cycle(state);\n@@ -1765,0 +1764,1 @@\n+  uint8_t state_unloading_cycle = IsUnloadingState::unloading_cycle(state);\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
