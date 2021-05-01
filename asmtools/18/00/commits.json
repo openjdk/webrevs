@@ -1,0 +1,1 @@
+[{"commit":{"message":"7902913: jasm incorrectly processes the instruction pair: ldc MethodHandle"},"files":[{"filename":"src\/org\/openjdk\/asmtools\/jasm\/JasmTokens.java"},{"filename":"src\/org\/openjdk\/asmtools\/jasm\/Parser.java"}],"sha":"aade1470fca74296d09a48bf809ce47df9ea9774"}]
