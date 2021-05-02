@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,4 @@\n+        \/*\n+         * This one can only be removed after JDK 17\n+         *\/\n+        SEALED_CLASSES,\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/javac\/PreviewFeature.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}

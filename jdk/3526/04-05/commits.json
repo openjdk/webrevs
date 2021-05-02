@@ -1,0 +1,1 @@
+[{"commit":{"message":"restoring jdk.internal.javac.PreviewFeature.Feature.SEALED_CLASSES, it is needed by the build"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/javac\/PreviewFeature.java"}],"sha":"304fd76af69a50828a2e6d7baccdab96b08ce4bb"}]
