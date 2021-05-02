@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,1 +127,0 @@\n-    address earlyret_entry_itos = generate_earlyret_entry_for(itos);\n@@ -238,1 +237,0 @@\n-      address deopt_itos = generate_deopt_entry_for(itos, i);\n","filename":"src\/hotspot\/share\/interpreter\/templateInterpreterGenerator.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
