@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1591,1 +1591,1 @@\n-         * @return true.\n+         * @return true if the action was performed, otherwise false\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JSlider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
