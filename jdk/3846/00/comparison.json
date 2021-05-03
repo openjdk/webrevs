@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-        baselineX = baselineX = maxAdvanceX = maxAdvanceY = Integer.MIN_VALUE;\n+        baselineX = baselineY = maxAdvanceX = maxAdvanceY = Integer.MIN_VALUE;\n","filename":"src\/java.desktop\/share\/classes\/sun\/font\/StrikeMetrics.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
