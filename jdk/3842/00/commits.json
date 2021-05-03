@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266436: Synthetic constructor trees have non-null return type"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/tree\/TreeMaker.java"},{"filename":"test\/langtools\/tools\/javac\/parser\/JavacParserTest.java"}],"sha":"f5a418d634e08d26f1c8c1e5adf98c9be3b4fc41"}]
