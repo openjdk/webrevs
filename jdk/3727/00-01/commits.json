@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve comments"},"files":[{"filename":"src\/hotspot\/share\/code\/dependencies.cpp"}],"sha":"02f615b2d3b54a4aa1c42a5687ab75de79659e84"},{"commit":{"message":"Use vm.opt.final.UseVtableBasedCHA"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/cha\/StrengthReduceInterfaceCall.java"}],"sha":"bfaa60229e7f9d3b875d063c9be0ac1b7d759678"}]
