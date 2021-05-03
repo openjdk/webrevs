@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -135,5 +135,0 @@\n-    ZLocker<ZConditionLock> locker(&_ref_lock);\n-    if (_ref_abort) {\n-      return false;\n-    }\n-\n@@ -141,0 +136,1 @@\n+    ZLocker<ZConditionLock> locker(&_ref_lock);\n","filename":"src\/hotspot\/share\/gc\/z\/zForwarding.cpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
