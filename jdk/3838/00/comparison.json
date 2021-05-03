@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+#include \"gc\/z\/zCollectedHeap.hpp\"\n@@ -132,0 +133,4 @@\n+    if (!ZCollectedHeap::heap()->is_in(p)) {\n+      return NativeAccess<AS_NO_KEEPALIVE>::oop_load(p);\n+    }\n+\n","filename":"src\/hotspot\/share\/gc\/z\/zHeapIterator.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
