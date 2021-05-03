@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,2 +43,0 @@\n-  \/\/ All exceptions except for OOM will be suppressed in the fucntion, the\n-  \/\/ non-OOM failure should not affect normal archiving.\n","filename":"src\/hotspot\/share\/cds\/lambdaFormInvokers.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
