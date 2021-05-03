@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -383,0 +383,1 @@\n+          assert(block->dominates(tempb), \"sanity check: temp node placement\");\n","filename":"src\/hotspot\/share\/opto\/lcm.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
