@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix build failures due to undeclared ShenandoahOldHeuristics"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahHeuristics.hpp"}],"sha":"e0fbf3d2ca66acd9c1e2b710e316275da215245b"}]
