@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266519: Cleanup resolve() leftovers from BarrierSet et al"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/barrierSet.hpp"},{"filename":"src\/hotspot\/share\/oops\/access.hpp"},{"filename":"src\/hotspot\/share\/oops\/access.inline.hpp"},{"filename":"src\/hotspot\/share\/oops\/accessBackend.hpp"}],"sha":"3c311863417ff9b5a9d432eefd7bcf50aba834c7"}]
