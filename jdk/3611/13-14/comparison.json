@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -350,1 +350,1 @@\n-      DynamicArchive::dump(CHECK);\n+      dump(CHECK);\n","filename":"src\/hotspot\/share\/cds\/dynamicArchive.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
