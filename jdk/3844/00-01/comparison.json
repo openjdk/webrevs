@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,0 +134,1 @@\n+        robot.delay(1000); \/\/ Give frame time to repaint\n","filename":"test\/jdk\/javax\/swing\/JPopupMenu\/7156657\/bug7156657.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
