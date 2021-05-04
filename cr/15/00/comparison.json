@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -535,1 +535,1 @@\n-    webrevLink.href = \"https:\/\/git.openjdk.java.net\/cr\/blob\/master\/webrev.js\";\n+    webrevLink.href = \"https:\/\/git.openjdk.java.net\/cr\";\n","filename":"index.html","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
