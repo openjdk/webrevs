@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1483,1 +1483,1 @@\n-      if (page_size <= max_page_size && page_size > (size_t)vm_page_size()) {\n+      if (page_size <= max_page_size) {\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

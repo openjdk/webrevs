@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove extranous vm_page_size check\n\nSigned-off-by: Marcus G K Williams <marcus.williams@intel.com>"},"files":[{"filename":"src\/hotspot\/share\/runtime\/os.cpp"}],"sha":"a2495c4942f47d59b8d1934f3609e436a7fd6061"}]
