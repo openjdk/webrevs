@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,0 +52,2 @@\n+> Note: the property `intellijVersion` can be used to specify which IDE version should the plugin depend on (defaults to `2021.1`).\n+\n","filename":"plugins\/idea\/README.md","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
