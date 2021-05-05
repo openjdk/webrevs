@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -991,0 +991,2 @@\n+  CompilerOracle::tag_blackhole_if_possible(method);\n+\n@@ -995,1 +997,0 @@\n-    CompilerOracle::tag_blackhole_if_possible(method);\n","filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
