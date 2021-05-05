@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change test none dtd_home property is set.\n\nWhen none `dtd_home` property is set the `dtd_home` string value is not `null`."},"files":[{"filename":"make\/jdk\/src\/classes\/build\/tools\/dtdbuilder\/DTDBuilder.java"}],"sha":"94c97f144d0b3b22879ed17a841db58a038bd267"}]

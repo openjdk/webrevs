@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,0 +59,1 @@\n+ * @author Guy Abossolo Foh\n@@ -286,1 +287,1 @@\n-        if (dtd_home == null) {\n+        if (dtd_home.equals(\"null\" + File.separator)) {\n","filename":"make\/jdk\/src\/classes\/build\/tools\/dtdbuilder\/DTDBuilder.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
