@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -0,0 +1,1 @@\n+.idea\n","filename":"plugins\/idea\/.gitignore","additions":1,"deletions":0,"binary":false,"changes":1,"status":"added"},{"patch":"@@ -1,1 +1,1 @@\n-jtregHome = \/opt\/jtreg\/4.2\/jtreg\n+jtregHome = \/path\/to\/jtreg\n","filename":"plugins\/idea\/gradle.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update jtreg root to point to non-existent folder"},"files":[{"filename":"plugins\/idea\/gradle.properties"}],"sha":"aba2992a92cb40a64d328dcff3e6e86184fc2e88"},{"commit":{"message":"Exclude IntelliJ project files"},"files":[{"filename":"plugins\/idea\/.gitignore"}],"sha":"b24811b2496747035d98d7e4e287fdc978ed04c4"}]
