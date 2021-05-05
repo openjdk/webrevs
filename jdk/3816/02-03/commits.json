@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused WEPoll.getDescriptor. Update micro to close listener"},"files":[{"filename":"src\/java.base\/windows\/classes\/sun\/nio\/ch\/WEPoll.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/nio\/channels\/SelectOne.java"}],"sha":"8103c0eaf053ea3c74ba26475270afb95d188279"}]
