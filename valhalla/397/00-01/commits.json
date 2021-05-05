@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make sure safepoints are visited by PhaseCCP"},"files":[{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.hpp"}],"sha":"be8812c92ff87407a3920e9f87efcb73cd2892a6"}]
