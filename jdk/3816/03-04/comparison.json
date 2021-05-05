@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-    if (h < 0) {\n+    if (h == NULL) {\n","filename":"src\/java.base\/windows\/native\/libnio\/ch\/WEPollNatives.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
