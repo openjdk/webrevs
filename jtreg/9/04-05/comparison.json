@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,3 @@\n+> Note: when working behind a proxy, additional options might be required, such as: \\\n+> `-Dhttps.proxyhost=<proxyServer> -Dhttps.proxyPort=<proxyPort>`\n+\n","filename":"plugins\/idea\/README.md","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
