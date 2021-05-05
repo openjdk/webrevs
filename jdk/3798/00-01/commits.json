@@ -1,0 +1,1 @@
+[{"commit":{"message":"assert that vmIntrinsics::_dsqrt are only selected for Math\/StrictMath::sqrt"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/abstractInterpreter.cpp"}],"sha":"4e616b33eb7a1ecd62fc338274eee116742d04b8"}]
