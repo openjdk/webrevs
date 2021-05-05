@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,2 +43,0 @@\n-  static const int HISTOGRAM_SIZE = 16;\n-\n","filename":"src\/hotspot\/share\/services\/heapObjectStatistics.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
