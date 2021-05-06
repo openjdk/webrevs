@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-\t * Returns whether or not the type is hidden or not.\n+\t * Returns whether or not the type is hidden.\n","filename":"core\/org.openjdk.jmc.common\/src\/main\/java\/org\/openjdk\/jmc\/common\/IMCType.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
