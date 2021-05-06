@@ -1,0 +1,1 @@
+[{"commit":{"message":"- Remove spurious vprintf declaration\n- Remove return before free in benchmarks"},"files":[{"filename":"test\/jdk\/java\/foreign\/libStdLibTest.h"},{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/foreign\/libStrLen.c"}],"sha":"edca60592d76324a6831c511626617ebd3a92516"}]
