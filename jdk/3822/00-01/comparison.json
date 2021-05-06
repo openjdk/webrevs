@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -811,1 +811,1 @@\n-            \/\/ PBEWithMD5AndDES requires a 8-byte salt\n+            \/\/ PBES1 scheme such as PBEWithMD5AndDES requires a 8-byte salt\n","filename":"src\/java.base\/share\/classes\/sun\/security\/pkcs12\/PKCS12KeyStore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
