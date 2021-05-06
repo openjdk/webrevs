@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266618: Remove broken -XX:-OptoRemoveUseless"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"},{"filename":"src\/hotspot\/share\/opto\/parse1.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"}],"sha":"8a6db8a9857fc2ec3fd42927985580c2137151c4"}]
