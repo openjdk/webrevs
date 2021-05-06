@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2212,1 +2212,1 @@\n-            bb.limit((int)(off + len));\n+            bb.limit(off + len);\n","filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
