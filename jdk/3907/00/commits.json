@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266645: javac should not check for sealed supertypes in intersection types"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/sealed\/SealedCompilationTests.java"}],"sha":"a126fe480ebdcf5484ad7cf5bc6fc9331b6955f7"}]
