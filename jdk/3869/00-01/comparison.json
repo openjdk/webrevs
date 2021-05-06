@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -797,5 +797,0 @@\n-  result = os::iso8601_time(buffer, sizeof(buffer), false);\n-  tty->print_cr(\"%s\", result);\n-  EXPECT_EQ(result, buffer);\n-  EXPECT_TRUE(very_simple_string_matcher(pattern, result));\n-\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
