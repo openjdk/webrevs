@@ -1,0 +1,1 @@
+[{"commit":{"message":"8196743: jstatd doesn't see new Java processes inside Docker container"},"files":[{"filename":"src\/jdk.internal.jvmstat\/share\/classes\/sun\/jvmstat\/perfdata\/monitor\/protocol\/local\/LocalVmManager.java"}],"sha":"658a9e27255c6a9e7cb414437a0669684d118472"}]
