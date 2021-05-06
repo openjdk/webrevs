@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8266044: Nested class summary should show kind of class or interface"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/AbstractMemberWriter.java"},{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testMemberSummary\/TestMemberSummary.java"}],"sha":"65233af5143b4277ff6169105f9f86674fb77deb"}]
