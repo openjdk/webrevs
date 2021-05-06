@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,3 @@\n+                        \/\/ Debug logging levels: basic (1), detailed (2), trace (3).\n+                        \/\/ Use \"3\" for debugging \"FAIL: WINSDK_DIR not defined\".\n+                        \"VSCMD_DEBUG\": \"\",\n","filename":"buildSrc\/win.gradle","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
