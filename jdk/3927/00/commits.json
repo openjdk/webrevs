@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266489: Enable G1 to use large pages on Windows with region size large than 2m"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"10f8e183217a2a48f2f3d5507e802c14cef2d43a"}]
