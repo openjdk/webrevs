@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix java\/foreign SIGBUS on macos\/aarch64"},"files":[{"filename":"src\/hotspot\/share\/prims\/universalNativeInvoker.cpp"},{"filename":"test\/jdk\/ProblemList.txt"}],"sha":"cb9723b742ce12bbab1a156d41b08c72dfd2ff46"}]
