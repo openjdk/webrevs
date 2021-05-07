@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266766: Arrays of types that cannot be an annotation member do not yield exceptions"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/reflect\/annotation\/AnnotationParser.java"},{"filename":"test\/jdk\/java\/lang\/annotation\/AnnotationTypeMismatchException\/ArrayTypeMismatchTest.java"}],"sha":"55284e945f80a73b04c74faef7e1b9ea091f01c0"}]
