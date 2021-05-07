@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -255,2 +255,4 @@\n-        uint64_t size = -1;\n-        ioctl(fd, BLKGETSIZE64, &size);\n+        uint64_t size;\n+        if(ioctl(fd, BLKGETSIZE64, &size) < 0) {\n+            return -1;\n+        }\n","filename":"src\/java.base\/unix\/native\/libjava\/io_util_md.c","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
