@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-try (ResourceScope scope = ResourceScope.ofConfined()) {\n+try (ResourceScope scope = ResourceScope.newConfinedScope()) {\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
