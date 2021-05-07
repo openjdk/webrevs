@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n- *\n@@ -96,0 +95,1 @@\n+            \/\/ prevents metaspace oom\n","filename":"test\/hotspot\/jtreg\/runtime\/MemberName\/ResolvedMethodTableHash.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
