@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,1 +137,1 @@\n-#endif\n+#endif \/\/ ZERO\n@@ -165,1 +165,0 @@\n-#endif \/\/ ZERO\n","filename":"src\/hotspot\/share\/interpreter\/abstractInterpreter.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
