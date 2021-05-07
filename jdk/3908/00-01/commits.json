@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove tmpdirs member, call getTempDirectories() directly as needed."},"files":[{"filename":"src\/jdk.internal.jvmstat\/share\/classes\/sun\/jvmstat\/perfdata\/monitor\/protocol\/local\/LocalVmManager.java"}],"sha":"3654447beeba0d915c37bc87f6bb02b12b890d97"}]
