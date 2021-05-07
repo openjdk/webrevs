@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -327,1 +327,1 @@\n-MTLPaint* storedPaint = nil;\n+static MTLPaint* storedPaint = nil;\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLTextRenderer.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
