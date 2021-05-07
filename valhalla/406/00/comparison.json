@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1147,1 +1147,1 @@\n-        const TypeVect* out_vt = as_LoadVector()->vect_type();\n+        const TypeVect* out_vt = is_Load() ? as_LoadVector()->vect_type() : as_StoreVector()->vect_type();\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
