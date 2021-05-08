@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259356: MediaPlayer's seek freezes video\n\nReviewed-by: kcr, jvos"},"files":[{"filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/gstreamer-lite\/gst-plugins-base\/gst-libs\/gst\/app\/gstappsink.c"}],"sha":"8cac0c24e2af13b9fb57ca351c8575454834b2fa"}]
