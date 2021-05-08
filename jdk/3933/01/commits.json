@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266720: Wrong implementation in LibraryCallKit::inline_vector_shuffle_iota"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorShuffleIotaByteWrongImpl.java"}],"sha":"9f5577f00e070eb2314f67a0b6c7192aab03e4e7"}]
