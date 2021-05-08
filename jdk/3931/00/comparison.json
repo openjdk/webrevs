@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,0 +150,2 @@\n+    else if (cp == 65001)\n+        sprintf(buf, \"UTF-8\");\n","filename":"src\/java.base\/windows\/native\/libjava\/java_props_md.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
