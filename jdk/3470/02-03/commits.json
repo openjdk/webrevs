@@ -1,0 +1,1 @@
+[{"commit":{"message":"swap the positions of two operands in cmp operation since the det register will be modified in 32 bit"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"}],"sha":"73da110815943dad09ddb686fee2d0e323d0b166"}]

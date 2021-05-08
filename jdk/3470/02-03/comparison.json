@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3112,1 +3112,1 @@\n-  __ cmp(lir_cond_equal, this_epoch_bit, trace_id_raw_and_mask);\n+  __ cmp(lir_cond_equal, trace_id_raw_and_mask, this_epoch_bit);\n","filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
