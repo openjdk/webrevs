@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n- * @bug 8265956\n+ * @bug 8266720\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorShuffleIotaByteWrongImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
