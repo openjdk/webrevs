@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-#include \"oops\/method.hpp\"\n+#include \"oops\/method.inline.hpp\"\n","filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

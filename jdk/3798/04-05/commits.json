@@ -1,0 +1,1 @@
+[{"commit":{"message":"8259316 added call to is_empty_method in compilerOracle.cpp so we now need to include method.inline.hpp there"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp"}],"sha":"9e11dc3ec119b7590fc258006b471df9a2c5aee4"}]
