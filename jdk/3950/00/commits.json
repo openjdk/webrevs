@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add cht_reset method"},"files":[{"filename":"src\/hotspot\/share\/utilities\/concurrentHashTable.hpp"},{"filename":"src\/hotspot\/share\/utilities\/concurrentHashTable.inline.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_concurrentHashtable.cpp"}],"sha":"ff95942e46d66d961f45abc6280e40555abd4555"}]
