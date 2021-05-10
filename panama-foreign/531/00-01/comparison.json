@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-     * @return the memory address associated with the library symbol (if any).\n+     * @return the memory address associated with the symbol (if any).\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/SymbolLookup.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
