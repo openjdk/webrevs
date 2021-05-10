@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266789: devirtualize find_node and remove of LinkedList"},"files":[{"filename":"src\/hotspot\/share\/utilities\/linkedlist.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_linkedlist.cpp"}],"sha":"3ed060cf1c00115aee74e1852dac480232f06457"}]
