@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-      assert(MethodHandles::is_signature_polymorphic(id), \"must match an intrinsic\");\n+      assert(MethodHandles::is_signature_polymorphic(iid), \"must match an intrinsic\");\n","filename":"src\/hotspot\/share\/interpreter\/abstractInterpreter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
