@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2094,0 +2094,2 @@\n+            Objects.requireNonNull(source, \"source should be non-null\");\n+\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/random\/RandomSupport.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
