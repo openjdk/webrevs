@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,3 @@\n+#endif\n+\n+#if defined(__linux__)\n@@ -253,1 +256,1 @@\n-    #ifdef BLKGETSIZE64\n+#if defined(__linux__) && defined(BLKGETSIZE64)\n@@ -261,1 +264,1 @@\n-    #endif\n+#endif\n","filename":"src\/java.base\/unix\/native\/libjava\/io_util_md.c","additions":5,"deletions":2,"binary":false,"changes":7,"status":"modified"}]}
