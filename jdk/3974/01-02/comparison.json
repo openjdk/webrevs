@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,3 +27,1 @@\n- * @modules java.base\/jdk.internal.org.objectweb.asm\n- *          java.base\/jdk.internal.misc\n- *          java.desktop\n+ * @modules java.desktop\n","filename":"test\/jdk\/java\/lang\/Class\/GetModuleTest.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
