@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -577,1 +577,1 @@\n-\/\/ Check if a class or its super class\/interface has a version older than 50.\n+\/\/ Check if a class or any of its super type has a version older than 50.\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
