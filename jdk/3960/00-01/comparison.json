@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,0 +118,1 @@\n+        var sink = this.sink;\n@@ -138,0 +139,1 @@\n+        var sink = this.sink;\n@@ -174,0 +176,1 @@\n+        var sink = this.sink;\n","filename":"src\/java.base\/share\/classes\/java\/io\/PipedOutputStream.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
