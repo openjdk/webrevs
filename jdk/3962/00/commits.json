@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into remove-g1NUMA"},"files":[],"sha":"85a3362ced9714b483bb90e5d8a8e8e2b6ab77a4"},{"commit":{"message":"JDK-8266676: G1: Remove dead code init_node_id_to_index_map()"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1NUMA.hpp"}],"sha":"ae15ead0236517c616c3df37d426631f3dab347b"}]
