@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop exit_delta and the VMTestbase style of exiting on test failure."},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/monitoring\/ThreadInfo\/getLockOwnerName\/getLockOwnerName.java"}],"sha":"771dafee6e64bc311b30e084c71550eaa66df5ee"}]
