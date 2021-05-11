@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266925: Add a test to verify that hidden class's members are not statically invocable"},"files":[{"filename":"test\/jdk\/java\/lang\/invoke\/defineHiddenClass\/StaticInvocableTest.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/defineHiddenClass\/java.base\/java\/lang\/invoke\/LookupHelper.java"}],"sha":"95aa71e9763024bb79b8b9e6ddcf561931ddb49e"}]
