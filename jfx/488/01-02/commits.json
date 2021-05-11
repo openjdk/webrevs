@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip sending telemetry to fix \"file in use\" error"},"files":[{"filename":"buildSrc\/genVSproperties.bat"},{"filename":"buildSrc\/win.gradle"}],"sha":"c58bbdd9606945bf1cafce89b4bb26ebcd3f9e8b"}]
