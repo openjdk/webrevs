@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1195,0 +1195,3 @@\n+            if (size != icon.getWidth(null)) {\n+                icon = new MultiResolutionIconImage(size, icon);\n+            }\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/shell\/Win32ShellFolder2.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make getShell32Icon method return multi-resolition image in case of\nrequested icon size and actual icon size mismatch."},"files":[{"filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/shell\/Win32ShellFolder2.java"}],"sha":"10bae9be1aa495759a374cb48a5371cfd1eb1f05"}]
