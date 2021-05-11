@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not expose memory with exec priviledges unless explicitly asked for, fix the test intead to ask for exececutable memory as needed"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp"}],"sha":"ad3467b4e466e0ba86529993ac1baeb402aa879d"}]
