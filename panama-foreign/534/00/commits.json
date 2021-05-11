@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prefer loading ucrtbase.dll as system library if it exists"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/SystemLookup.java"},{"filename":"test\/jdk\/java\/foreign\/malloc\/TestMixedMallocFree.java"},{"filename":"test\/jdk\/java\/foreign\/malloc\/libMalloc.c"}],"sha":"f501d2214ef1de7dc2d907abfbe7d7a1923d9686"}]
