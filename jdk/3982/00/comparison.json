@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,0 +176,1 @@\n+  nonstatic_field(JavaThread,                  _stack_overflow_state._stack_overflow_limit,   address)                               \\\n","filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
