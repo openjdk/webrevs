@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -308,1 +308,1 @@\n-         \/\/ Load new management properties\n+         \/\/ Load a new management properties\n","filename":"src\/jdk.management.agent\/share\/classes\/sun\/management\/jmxremote\/ConnectorBootstrap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
