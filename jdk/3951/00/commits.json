@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261158: JVMState should not be shared between SafePointNodes"},"files":[{"filename":"src\/hotspot\/share\/opto\/callnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/callnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/node.cpp"}],"sha":"0387812741a43a3804fc8b5f637d52c3fbd8bab2"}]
