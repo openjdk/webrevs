@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,1 +210,1 @@\n-                .filter(s -> match ? pattern.matcher(s).find() : !pattern.matcher(s).find())\n+                .filter(s -> pattern.matcher(s).find() == match)\n","filename":"test\/langtools\/tools\/lib\/toolbox\/ToolBox.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
