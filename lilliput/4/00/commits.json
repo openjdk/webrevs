@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable biased locking altogether"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/BiasedLockingTest.java"}],"sha":"c4a00134ab0ab50e80840b0280645019ad7d3cb1"}]
