@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into remove-LowMemoryDetectorDisabler"},"files":[],"sha":"724a668fe7b8090ecb030e49a5a2ffe113212618"},{"commit":{"message":"JDK-8266795: remove dead code LowMemoryDetectorDisabler"},"files":[{"filename":"src\/hotspot\/share\/services\/lowMemoryDetector.hpp"}],"sha":"88e94affc1ef06f119277997e5096488afc717e1"}]
