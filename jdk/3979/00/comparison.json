@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3247,1 +3247,1 @@\n-            if (!isAssignableTo(context, new->item, old->item)) {\n+            if (new != NULL && !isAssignableTo(context, new->item, old->item)) {\n","filename":"src\/java.base\/share\/native\/libverify\/check_code.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
