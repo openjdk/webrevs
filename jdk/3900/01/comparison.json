@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -419,0 +419,1 @@\n+  assert(left >= right, \"avoid underflow\");\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
