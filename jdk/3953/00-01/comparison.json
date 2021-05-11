@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,1 +173,0 @@\n-  Thread* THREAD = Thread::current();\n@@ -254,1 +253,0 @@\n-  Thread* THREAD = Thread::current();\n","filename":"src\/hotspot\/share\/cds\/dynamicArchive.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
