@@ -1,0 +1,1 @@
+[{"commit":{"message":"bot: add readiness handler"},"files":[{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/BotRunner.java"},{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/BotRunnerConfiguration.java"},{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/ReadinessHandler.java"}],"sha":"0257db5a6451b874b101ff783dc31b081db6f169"}]
