@@ -1,0 +1,1 @@
+[{"commit":{"message":"bot: modularize HTTP server"},"files":[{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/BotRunner.java"},{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/BotRunnerConfiguration.java"},{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/WebhookHandler.java"}],"sha":"c7966cc86db1587cc15ab0be1774ba0dba1c931f"}]
