@@ -1,0 +1,1 @@
+[{"commit":{"message":"bot: add liveness handler"},"files":[{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/BotRunner.java"},{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/BotRunnerConfiguration.java"},{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/LivenessHandler.java"}],"sha":"267b15b2abb650516ab1b46e2840b2582760b821"}]
