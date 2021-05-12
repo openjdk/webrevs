@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run main ParentLoggersTest\n+ * @run main\/othervm ParentLoggersTest\n","filename":"test\/jdk\/java\/util\/logging\/ParentLoggersTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
