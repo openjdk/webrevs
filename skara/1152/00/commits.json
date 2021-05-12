@@ -1,0 +1,1 @@
+[{"commit":{"message":"bot: add metrics HTTP handler"},"files":[{"filename":"bot\/src\/main\/java\/module-info.java"},{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/BotRunnerConfiguration.java"},{"filename":"bot\/src\/main\/java\/org\/openjdk\/skara\/bot\/MetricsHandler.java"}],"sha":"566a48d5e1169e3dd4fb02575900d8db6f2e2257"}]
