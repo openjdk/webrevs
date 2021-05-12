@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix build on Windows.\n\nIt seems that headers on Windows define WAIT_TIMEOUT somewhere. rename it."},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncFlusher.cpp"},{"filename":"src\/hotspot\/share\/logging\/logAsyncFlusher.hpp"}],"sha":"7df8b1eda389f1058b214df0d547e374994e5663"}]
