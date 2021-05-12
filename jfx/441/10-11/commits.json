@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264127:\nwe now use a try finally statement, to make sure updateEditingIndex is reset!"},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/ListCell.java"}],"sha":"f4af1d26a9e9c59841eb6634a70cf10501a99014"}]
