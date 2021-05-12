@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use String.concat() where invokedynamic-based String concatenation is not available"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java"}],"sha":"b38f4fe29ee2f1d98173b793fa5e5c6968543daa"}]
