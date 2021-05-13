@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -299,1 +299,1 @@\n-\/\/ Weak hidden classes have their own ClassLoaderData that is marked to keep alive\n+\/\/ Non-strong hidden classes have their own ClassLoaderData that is marked to keep alive\n","filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
