@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n- * @playground text2.strikethrough (name=\"He said... strikethrough\")\n+ * @playground text2.strikethrough (name=\"...to me. strikethrough\")\n","filename":"apps\/samples\/Ensemble8\/src\/samples\/java\/ensemble\/samples\/controls\/text\/bidi\/BidiApp.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
