@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4377,1 +4377,1 @@\n-                    .append(name.substring(index + 1))\n+                    .append(name, index + 1, name.length())\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
