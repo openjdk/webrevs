@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1271,0 +1271,1 @@\n+#ifndef PRODUCT\n@@ -1273,1 +1274,0 @@\n-#ifndef PRODUCT\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
