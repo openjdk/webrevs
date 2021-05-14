@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1527,0 +1527,1 @@\n+            \/\/ write the timestamp (dummy value 0).\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/utilities\/HeapHprofBinWriter.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
