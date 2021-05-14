@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -475,1 +475,0 @@\n-            \/\/ This will rule out paths that start as \"\/modules\/modules\/\".\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/jimage\/ImageReader.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
