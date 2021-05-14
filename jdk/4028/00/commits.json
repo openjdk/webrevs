@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266963: Reentrance condition for safepoint\/handshake"},"files":[{"filename":"src\/hotspot\/share\/runtime\/safepointMechanism.cpp"},{"filename":"src\/hotspot\/share\/runtime\/safepointMechanism.hpp"}],"sha":"aa1ba2353e28877217e23c00577427f4f2c001ca"}]
