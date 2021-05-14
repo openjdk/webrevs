@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266962: Add arch supporting check for \"Op_VectorLoadConst\" before creating the node"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"8e8a6e8c88805c61e7cf61759487d1d60dee5c4d"}]

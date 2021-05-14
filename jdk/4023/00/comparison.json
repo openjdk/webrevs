@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -355,0 +355,3 @@\n+  if (!arch_supports_vector(Op_VectorLoadConst, num_elem, elem_bt, VecMaskNotUsed)) {\n+    return false;\n+  }\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
