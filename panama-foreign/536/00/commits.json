@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove printf and vprintf tests since those functions are not available in ucrt on Windows."},"files":[{"filename":"test\/jdk\/java\/foreign\/NativeTestHelper.java"},{"filename":"test\/jdk\/java\/foreign\/StdLibTest.java"}],"sha":"3c741cf7ec81757419f112971160c382a8bd4d26"}]
