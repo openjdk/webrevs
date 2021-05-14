@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -585,0 +585,1 @@\n+            oldValue = property1.getValue();\n@@ -657,0 +658,1 @@\n+            oldValue = property1.getValue();\n","filename":"modules\/javafx.base\/src\/main\/java\/com\/sun\/javafx\/binding\/BidirectionalBinding.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
