@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed checkings for UseAdler32Intrinsics"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/zip\/TestAdler32.java"}],"sha":"7290944ba2f79b52acb4377ba63d15d5c0dcbefa"}]
