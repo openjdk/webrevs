@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262731: [macOS] Exception from \"Printable.print\" is swallowed during \"PrinterJob.print\""},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CPrinterJob.java"},{"filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/ExceptionFromPrintableIsIgnoredTest.java"}],"sha":"db2ce06b343eab86733e256368e9885639371a2d"}]
