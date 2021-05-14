@@ -1,0 +1,1 @@
+[{"commit":{"message":"New added DynamicArchive::prepare_for_dynamic_dumping_at_exit should be CDS only"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"bcbbc7493d2571bfdba13252faf3b95f338971d4"}]
