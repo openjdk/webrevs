@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267116: Lanai: Incorrect AlphaComposite for VolatileImage graphics\n\nAdded one more bit for subIndex"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLPipelineStatesStorage.m"},{"filename":"test\/jdk\/java\/awt\/image\/VolatileImage\/AlphaCompositeTest.java"}],"sha":"09df369b25078cf2c41fe20afaca2752739dda78"}]
