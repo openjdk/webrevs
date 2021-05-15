@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -222,1 +222,0 @@\n-    shift = LogKlassAlignmentInBytes;\n@@ -232,1 +231,1 @@\n-    AARCH64_ONLY(shift = 0);\n+    shift = 0;\n","filename":"src\/hotspot\/share\/oops\/compressedOops.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
