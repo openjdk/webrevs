@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1560,0 +1560,3 @@\n+        if (timeout(end) <= 0) {\n+            return false;\n+        }\n","filename":"src\/java.desktop\/share\/classes\/sun\/awt\/SunToolkit.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
