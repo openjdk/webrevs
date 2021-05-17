@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove -XX:+UseAdler32Intrinsics, as it will fail on non-supported platforms"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/TestAdler32.java"}],"sha":"d6a58166d3b79eb94b4916042b7e2107bd2e9ca2"}]
