@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -332,1 +332,0 @@\n-  __ push(new_val);\n@@ -340,1 +339,0 @@\n-  __ pop(new_val);\n","filename":"src\/hotspot\/cpu\/x86\/gc\/g1\/g1BarrierSetAssembler_x86.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
