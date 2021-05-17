@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -271,1 +271,1 @@\n-    * Icon icon = fsv.getSystemIcon(\"application.exe\", 64);\n+    * Icon icon = fsv.getSystemIcon(new File(\"application.exe\"), 64);\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/filechooser\/FileSystemView.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
