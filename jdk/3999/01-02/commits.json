@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266951: Enable partial in-lining if UsePartialInlineSize=64, adding a benchmark for small sized conversions of various primitive types."},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/ArraysMismatchPartialInlining.java"}],"sha":"1070ab551480b29d681021ca6d9dd026f43450be"}]
