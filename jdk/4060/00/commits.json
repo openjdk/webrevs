@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266615: C2 incorrectly folds subtype checks involving an interface array"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/types\/TestInterfaceArraySubtypeCheck.java"}],"sha":"cc88c112bf563d26d97ee27cb40c4f55eb0b4c95"}]
