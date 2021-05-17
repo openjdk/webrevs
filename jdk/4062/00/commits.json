@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267246: -XX:MaxRAMPercentage=0 is unreasonable for jtreg tests on many-core machines"},"files":[{"filename":"make\/RunTests.gmk"}],"sha":"94aac13bdece991061d942017852489ded62681b"}]
