@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,0 +48,1 @@\n+        BufferedImage snapshot = null;\n@@ -52,0 +53,1 @@\n+            snapshot = vi.getSnapshot();\n@@ -54,1 +56,0 @@\n-        BufferedImage snapshot = vi.getSnapshot();\n","filename":"test\/jdk\/java\/awt\/image\/VolatileImage\/AlphaCompositeTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
