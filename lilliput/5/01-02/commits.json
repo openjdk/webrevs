@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable CompressedClassPointers only on 64bits; flag is read-only and false on 32 bit already"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"df0f2de85a1ff25a7fabbdfac25700fd50349c4a"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4108,0 +4108,1 @@\n+#ifdef _LP64\n@@ -4112,0 +4113,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
