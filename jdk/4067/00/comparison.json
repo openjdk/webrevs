@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -159,1 +159,1 @@\n-     * @throws NullPointerException if any parameter is null\n+     * @throws NullPointerException if the argument or its contents are {@code null}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/DynamicCallSiteDesc.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
