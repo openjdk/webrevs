@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 970e251a54d3b8871d3b948c1632c124f248cb01"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestVectorsNotSavedAtSafepoint.java"}],"sha":"fb1506da429c2b0ad7fe0bce357a494fcfc2b45a"}]
