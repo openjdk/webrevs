@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-    private static void resetStyleManager() {\n+    private void resetStyleManager() {\n@@ -63,0 +63,1 @@\n+        sm.forget(scene);\n","filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/css\/HonorDeveloperSettingsTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
