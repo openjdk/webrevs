@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -762,1 +762,0 @@\n-                        dt.mode = deferredAttrContext.mode;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/DeferredAttr.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
