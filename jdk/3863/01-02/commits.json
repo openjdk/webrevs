@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoiding fall-through from the total case to a synthetic default but changing total patterns to default."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Switches.java"}],"sha":"5fa8005a5a15c4ec076b7907678efa8a17157a4f"}]
