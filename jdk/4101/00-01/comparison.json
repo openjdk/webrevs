@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,1 @@\n-    static boolean finalizerRun = false;\n+    static volatile boolean finalizerRun = false;\n","filename":"test\/jdk\/jdk\/jfr\/event\/gc\/finalization\/TestFinalizerEvent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
