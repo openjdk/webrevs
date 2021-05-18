@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use awk to compute MaxRAMPercentage"},"files":[{"filename":"make\/RunTests.gmk"}],"sha":"a1e7aea9a2efc8a7cd3598bf9715eb96e76d5155"},{"commit":{"message":"8267246: -XX:MaxRAMPercentage=0 is unreasonable for jtreg tests on many-core machines"},"files":[{"filename":"make\/RunTests.gmk"}],"sha":"94aac13bdece991061d942017852489ded62681b"}]

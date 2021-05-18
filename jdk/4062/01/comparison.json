@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -741,1 +741,1 @@\n-  $1_JTREG_MAX_RAM_PERCENTAGE := $$(shell $$(EXPR) 25 \/ $$($1_JTREG_JOBS))\n+  $1_JTREG_MAX_RAM_PERCENTAGE := $$(shell $(AWK) 'BEGIN { print 25 \/ $$($1_JTREG_JOBS); }')\n","filename":"make\/RunTests.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
