@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-        Asserts.assertNull(ex, \"No ICCE should have been thrown\");\n+        Asserts.assertNull(ex, \"No error should have been thrown\");\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/MultiANewArrayTest\/MultiANewArrayTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
