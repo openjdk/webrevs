@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -351,0 +351,1 @@\n+        javacOpts.add(\"-Xdiags:verbose\");\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/launcher\/Main.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
