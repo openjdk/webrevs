@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -261,2 +261,0 @@\n-langtools_JTREG_MAX_MEM := 768m\n-\n@@ -725,1 +723,1 @@\n-  $$(eval $$(call SetJtregValue,$1,JTREG_MAX_MEM,512m))\n+  $$(eval $$(call SetJtregValue,$1,JTREG_MAX_MEM,768m))\n","filename":"make\/RunTests.gmk","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
