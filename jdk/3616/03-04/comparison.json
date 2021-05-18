@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n- * @run main\/othervm -XX:TieredStopAtLevel=4 -XX:-TieredCompilation\n+ * @run main\/othervm -XX:-TieredCompilation\n","filename":"test\/hotspot\/jtreg\/compiler\/c1\/CanonicalizeGetModifiers.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
