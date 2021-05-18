@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266480: Implicit null check optimization does not update control of hoisted memory operation"},"files":[{"filename":"src\/hotspot\/share\/opto\/lcm.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestImplicitNullCheckDominance.java"}],"sha":"d3d0245329e35542c8b8df8e1f1477b090a54713"}]
