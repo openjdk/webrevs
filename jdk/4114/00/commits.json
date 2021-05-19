@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267396: Avoid recording \"pc\" in unhandled oops detector for better performance"},"files":[{"filename":"src\/hotspot\/share\/oops\/oopsHierarchy.cpp"},{"filename":"src\/hotspot\/share\/runtime\/unhandledOops.cpp"},{"filename":"src\/hotspot\/share\/runtime\/unhandledOops.hpp"}],"sha":"50cfe20f433eacdf40e52dbb7afceac89e38fc43"}]
