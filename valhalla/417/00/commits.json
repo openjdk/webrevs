@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add missing if(EnableValhalla) guards"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/templateTable_x86.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"}],"sha":"c9180ef6892213d3dc4b8d212c913060b3b36f4a"}]
