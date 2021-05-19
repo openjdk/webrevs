@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3218,1 +3218,1 @@\n-    unexpected parenthesis\n+    unexpected text after parenthesis\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
