@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-                     : new BufferedWriter(file.openWriter())) {\n+                     : new BufferedWriter(fileWriter)) {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/util\/ElementListWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
