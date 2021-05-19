@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2279,1 +2279,1 @@\n-      flags &= JVM_ACC_STATIC | JVM_ACC_STRICT;\n+      flags &= JVM_ACC_STATIC | (_major_version <= JAVA_16_VERSION ? JVM_ACC_STRICT : 0);\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
