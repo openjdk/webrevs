@@ -1,0 +1,1 @@
+[{"commit":{"message":"cpuinfo_segv should not be triaged as execution protection violation"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/os_cpu\/bsd_x86\/os_bsd_x86.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_x86\/os_linux_x86.cpp"}],"sha":"f3d85e54e85395284b36fc9395f2c463b42d9143"}]
