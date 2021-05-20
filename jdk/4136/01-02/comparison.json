@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,0 +115,1 @@\n+        testBound4S(r.nextInt());\n","filename":"test\/hotspot\/jtreg\/compiler\/types\/TestMeetXor.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
