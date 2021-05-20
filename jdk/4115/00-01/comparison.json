@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -684,3 +684,1 @@\n-  ldr(lr, Address(rthread,\n-                            JavaThread::frame_anchor_offset()\n-                            + JavaFrameAnchor::last_Java_pc_offset()));\n+  adr(lr, l);\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
