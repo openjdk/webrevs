@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @bug 8266720\n+ * @bug 8267375\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorInsertByte.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
