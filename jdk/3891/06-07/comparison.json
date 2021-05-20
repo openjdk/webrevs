@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-            \/\/ Same combination of modifiers is accpeted in class file version 61\n+            \/\/ Same combination of modifiers is accepted in class file version 61\n","filename":"test\/hotspot\/jtreg\/runtime\/strictfp\/StrictfpModifierChecksTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
