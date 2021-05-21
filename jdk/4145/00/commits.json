@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267531: [x86] Assembler::andb(Address,Register) encoding is incorrect"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"}],"sha":"131b733ca627af676b3ea306ede260d888e1d121"}]
