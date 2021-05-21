@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-        \/\/ expect all errors to be UnsatisfiedLinkError \n+        \/\/ expect all errors to be UnsatisfiedLinkError\n","filename":"test\/jdk\/java\/lang\/ClassLoader\/loadLibraryUnload\/LoadLibraryUnload.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
