@@ -1,0 +1,1 @@
+[{"commit":{"message":"Limit tableIndex value to avoid AIOOB exception"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/iio\/gif\/GIFImageLoader2.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/com\/sun\/javafx\/iio\/ImageStorageTest.java"}],"sha":"d6748b89fb9393db3b52f768400ce958da2fc86b"}]
