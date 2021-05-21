@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-        jvm.getClassIdNonIntrinsic(clz);\n+        jvm.getClassId(clz);\n","filename":"test\/jdk\/jdk\/jfr\/jvm\/TestClearStaleConstants.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
