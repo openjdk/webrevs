@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-            \"-Xshare:off\", \"-XX:MaxMetaspaceSize=100k\", \"-version\");\n+            \"-Xshare:off\", \"-XX:MaxMetaspaceSize=512k\", \"-version\");\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/mlvm\/anonloader\/stress\/oome\/metaspace\/Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
