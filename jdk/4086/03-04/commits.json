@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move System.gc() out of generateString()"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/gc\/gctests\/StringInternGC\/StringInternGC.java"}],"sha":"43f2b61dafb6fa827092436d058b7fdb36396db2"}]
