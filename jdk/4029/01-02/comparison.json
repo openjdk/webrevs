@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-  ptrauth_strip(ptr, ptrauth_key_asib);\n+  return ptrauth_strip(ptr, ptrauth_key_asib);\n@@ -47,1 +47,0 @@\n-#endif\n@@ -49,0 +48,1 @@\n+#endif\n","filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/pauth_bsd_aarch64.inline.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

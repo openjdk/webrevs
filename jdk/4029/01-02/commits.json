@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure pointer is stripped on macos\n\nChange-Id: Idcf5f08e87c1e1f5af1dc8f421f8c7efc3d9c4c2\nCustomizedGitHooks: yes"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/pauth_bsd_aarch64.inline.hpp"}],"sha":"e7b220cbe3d306f16977eeb95f9799907b3a9ebd"}]
