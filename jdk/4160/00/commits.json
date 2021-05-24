@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267553: Extra JavaThread assignment in ClassLoader::create_class_path_entry()"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"}],"sha":"b8ace184bb9c5814d644870bd66ba8fc3a5bae66"}]
