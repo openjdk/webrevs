@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,2 +45,0 @@\n-\/\/import javafx.scene.control.TableColumn;\n-\/\/import javafx.scene.control.TreeTableColumn.CellEditEvent;\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/TreeCellEditingTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
