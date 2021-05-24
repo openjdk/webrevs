@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into remove_terminator_assert"},"files":[],"sha":"cacf7e974a617c09068ec241a011b8ec87192ba2"},{"commit":{"message":"remove assertion"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/taskTerminator.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/taskqueue.hpp"}],"sha":"e78caffb6fa53bfed52787a22312d7e4821bcbd4"}]
