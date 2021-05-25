@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1593,1 +1593,1 @@\n-  assert(is_Worker_thread(), \"Dubious cast to WorkerThread*?\");\n+  assert(is_Worker_thread(), \"incorrect cast to WorkerThread\");\n","filename":"src\/hotspot\/share\/runtime\/thread.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
