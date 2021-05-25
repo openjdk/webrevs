@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -655,1 +655,1 @@\n-        bool too_atomic_to_flatten = vk->is_declared_atomic();\n+        bool too_atomic_to_flatten = vk->is_declared_atomic() || AlwaysAtomicAccesses;\n","filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
