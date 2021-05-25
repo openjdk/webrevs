@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -663,1 +663,1 @@\n-     *     String rfc7301Grease8F = \"\\u005cu008F\\u005cu008F\";\n+     *     String rfc7301Grease8A = \"\\u005cu008A\\u005cu008A\";\n","filename":"src\/java.base\/share\/classes\/javax\/net\/ssl\/SSLParameters.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
