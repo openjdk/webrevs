@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -580,1 +580,1 @@\n-div.block div.deprecation-comment, div.block div.block {\n+div.block div.deprecation-comment {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/resources\/stylesheet.css","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
