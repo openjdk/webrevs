@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -425,4 +425,0 @@\n-  LIR_Opr tmp = LIR_OprFact::illegalOpr;\n-  if (x->op() == Bytecodes::_dmul || x->op() == Bytecodes::_ddiv) {\n-    tmp = new_register(T_DOUBLE);\n-  }\n","filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRGenerator_aarch64.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
