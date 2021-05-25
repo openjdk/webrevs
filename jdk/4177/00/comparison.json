@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+ * @bug 8262454 8267651\n@@ -64,0 +65,1 @@\n+                    \"-XX:-CreateCoredumpOnCrash\",\n","filename":"test\/hotspot\/jtreg\/runtime\/handshake\/HandshakeTimeoutTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
