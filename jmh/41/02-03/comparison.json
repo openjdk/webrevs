@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-public class JvmOption {\n+public class JvmOptionTest {\n","filename":"jmh-core-it\/src\/test\/java\/org\/openjdk\/jmh\/it\/jvmoption\/JvmOptionTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"jmh-core-it\/src\/test\/java\/org\/openjdk\/jmh\/it\/jvmoption\/JvmOption.java","status":"renamed"}]}
