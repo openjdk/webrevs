@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove os::Linux namespace for numa_syscall_check()"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"}],"sha":"ea84a3214a74179c70bf44dab6da4ad9eaab6b06"}]
