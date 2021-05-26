@@ -1,0 +1,1 @@
+[{"commit":{"message":"Stop setting JAVA_HOME in cli launchers"},"files":[{"filename":"gradle\/plugins\/skara-images\/src\/main\/java\/org\/openjdk\/skara\/gradle\/images\/LaunchersTask.java"}],"sha":"5dcf4f3dc0ee8252fc7a33e17a3eba71c6be988d"}]
