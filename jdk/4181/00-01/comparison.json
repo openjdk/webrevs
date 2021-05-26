@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * Implementation of the accessibility peer for the ScrollBar role\n+ * Implementation of the accessibility peer for the Splitpane role\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/a11y\/SplitpaneAccessibility.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
