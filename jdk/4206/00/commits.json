@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266079: Lanai: AlphaComposite shows differences on Metal compared to OpenGL\n\nSet black color for underlying window background"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/AWTWindow.m"},{"filename":"test\/jdk\/java\/awt\/AlphaComposite\/WindowAlphaCompositeTest.java"}],"sha":"7f35fc72b38ad138a2ec70ffa874b4246b2074c0"}]
