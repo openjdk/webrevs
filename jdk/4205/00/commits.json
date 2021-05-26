@@ -1,0 +1,1 @@
+[{"commit":{"message":"8241423: NUMA APIs fail to work in dockers due to dependent syscalls are disabled by default"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"}],"sha":"a40c9f1c19f36b438c760244c69a0d356a8b3cea"}]
