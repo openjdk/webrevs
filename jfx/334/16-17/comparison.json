@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n- * <li>{@code innerAngle <= theta <= outerAngle} then \n+ * <li>{@code innerAngle <= theta <= outerAngle} then\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/SpotLight.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
