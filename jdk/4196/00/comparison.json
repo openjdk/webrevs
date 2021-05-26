@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -667,1 +667,1 @@\n-     *             \"h2\", \"http\/1.1\", rfc7301Grease8F, HUK_UN_I});\n+     *             \"h2\", \"http\/1.1\", rfc7301Grease8A, HUK_UN_I});\n","filename":"src\/java.base\/share\/classes\/javax\/net\/ssl\/SSLParameters.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
