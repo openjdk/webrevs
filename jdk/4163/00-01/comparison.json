@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -155,4 +155,0 @@\n-inline intptr_t p2i(const void* p) {\n-  return (intptr_t) p;\n-}\n-\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
