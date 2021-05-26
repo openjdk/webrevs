@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2142,2 +2142,1 @@\n-        } else {\n-          assert(r->affiliation() == OLD_GENERATION, \"Should not be updating references on FREE regions\");\n+        } else if (r->affiliation() == OLD_GENERATION) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
