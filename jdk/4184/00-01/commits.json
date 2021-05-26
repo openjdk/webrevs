@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add assert that the thread is terminated before taking Heap_lock"},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"3dc9b3b92af9382e688da7e398c2ff008579009d"}]
