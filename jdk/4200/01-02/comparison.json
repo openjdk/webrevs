@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -628,1 +628,0 @@\n-#ifdef ASSERT\n@@ -630,1 +629,0 @@\n-#endif\n","filename":"src\/hotspot\/share\/opto\/block.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
