@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -316,0 +316,1 @@\n+        vmOptFinalFlag(map, \"UseVtableBasedCHA\");\n","filename":"test\/jtreg-ext\/requires\/VMProps.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
