@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -326,1 +326,1 @@\n-    RegisterMap map(thread, false);\n+    RegisterMap map(thread, false, false);\n@@ -340,1 +340,1 @@\n-  RegisterMap map(thread, false);\n+  RegisterMap map(thread, false, false);\n","filename":"src\/hotspot\/share\/prims\/forte.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
