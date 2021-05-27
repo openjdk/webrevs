@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rewind and remove the unused hash_table_size calculations; ThreadScanHashtable is now fixed size."},"files":[{"filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp"},{"filename":"src\/hotspot\/share\/utilities\/hashtable.cpp"}],"sha":"b57ebc2ec770f2a56970020790091ea29498dcd7"}]
