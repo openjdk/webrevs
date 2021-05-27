@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267845: Add @requires to avoid running G1 large pages test with wrong page size"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestLargePageUseForAuxMemory.java"},{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestLargePageUseForHeap.java"}],"sha":"e1c2434b5f34d361993823b5c00d298cb60cbe44"}]
