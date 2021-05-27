@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @bug 8200151\n+ * @bug 8200151 8265309\n","filename":"test\/jdk\/com\/sun\/jndi\/dns\/ConfigTests\/Timeout.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
