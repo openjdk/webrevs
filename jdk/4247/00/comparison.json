@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1161,0 +1161,1 @@\n+    loop->compute_trip_count(this);\n","filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
