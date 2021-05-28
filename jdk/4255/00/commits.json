@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix overflow in strconcat"},"files":[{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/stringopts\/TestFetchStaticField.java"}],"sha":"da17bb3675114f104c55c2360bd45d331bd6ea22"}]
