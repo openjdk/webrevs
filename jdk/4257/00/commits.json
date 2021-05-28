@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267926: AsyncLogGtest.java fails on assert with: decorator was not part of the decorator set specified at creation."},"files":[{"filename":"src\/hotspot\/share\/logging\/logDecorations.hpp"}],"sha":"0bde28768f43ed6608614ceb11c4102591bc1182"}]
