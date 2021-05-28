@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -471,0 +471,2 @@\n+\n+\/\/ These end up in the vm_operation log.\n","filename":"src\/hotspot\/share\/utilities\/events.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
