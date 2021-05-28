@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266286: Add LoadVectorGather and StoreVectorScatter's partial version"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_sve.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_sve_ad.m4"}],"sha":"7a87daf9b7f26f44d3669f63ff783827587f8e2f"}]
