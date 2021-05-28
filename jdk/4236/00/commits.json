@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264624: change the guarantee() calls added by JDK-8264123 to assert() calls"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp"},{"filename":"src\/hotspot\/share\/runtime\/threadSMR.hpp"}],"sha":"1b410fe2884f0179f7f5da54e798a3734b17ee3b"}]
