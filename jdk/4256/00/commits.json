@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8236569: -Xss not multiple of 4K does not work for the main thread on macOS"},"files":[{"filename":"src\/java.base\/macosx\/native\/libjli\/java_md_macosx.m"},{"filename":"src\/java.base\/unix\/native\/libjli\/java_md.c"}],"sha":"fb9b22d52faa1224ff092e173716c2d3bdc34a23"}]
