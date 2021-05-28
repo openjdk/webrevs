@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoiding unnecessary StackMap point."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"},{"filename":"test\/langtools\/tools\/javac\/stackmap\/OrdinarySwitchStackMapTest.java"}],"sha":"a57d306b5fc59a50651b4095911c6e42950a6c60"}]
