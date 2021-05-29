@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reverted JUnit4 orderEntry\n\nLooks like the gradle settings did the trick."},"files":[{"filename":".idea\/base.iml"},{"filename":".idea\/controls.iml"},{"filename":".idea\/fxml.iml"},{"filename":".idea\/graphics.iml"},{"filename":".idea\/web.iml"}],"sha":"e6963285b2a494a52b1fcf658b2cbcf1f83c0869"}]
