@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267953: restore 'volatile' to ObjectMonitor::_owner field"},"files":[{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.hpp"}],"sha":"cba76bceb6d4b76d085f914ba4c6100abf0b8e37"}]
