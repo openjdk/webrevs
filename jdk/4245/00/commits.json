@@ -1,0 +1,1 @@
+[{"commit":{"message":"Expose runtime invisible annotations via Class.getAnnotation when -XX:+PreserveAllAnnotations is on"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/reflect\/annotation\/AnnotationParser.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/TestAllAnnotationsPreserved.java"}],"sha":"e1aa800ed147a4176bf11f567aee6004755ae799"}]
