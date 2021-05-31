@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,0 @@\n-      guarantee(G1RSetSparseRegionEntries > 0, \"\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Arguments.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
