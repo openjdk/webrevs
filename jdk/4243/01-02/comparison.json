@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -437,0 +437,2 @@\n+  NONCOPYABLE(EventMarkBase);\n+\n@@ -441,1 +443,0 @@\n- public:\n","filename":"src\/hotspot\/share\/utilities\/events.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
