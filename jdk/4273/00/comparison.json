@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,3 @@\n+}\n+:not(h1, h2, h3, h4, h5, h6) > code,\n+:not(h1, h2, h3, h4, h5, h6) > tt {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/resources\/stylesheet.css","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
