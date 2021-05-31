@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace: box -> buffer"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"20ecae3f9187d0340b7cd499f2190b414f3761f5"},{"commit":{"message":"Move the test"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/BlackholeTest.java"}],"sha":"01551fc2bf4229655361de3eb73ffe60c9630627"}]
