@@ -1,0 +1,1 @@
+[{"commit":{"message":"Increase reader's counter before creating LogDecoration."},"files":[{"filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp"},{"filename":"src\/hotspot\/share\/logging\/logTagSet.cpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_logConfiguration.cpp"}],"sha":"3b2d763617d0780e8d79507ebc27c6d4e6939f71"}]
