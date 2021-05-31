@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267947: CI: Preserve consistency between has_subklass() and is_subclass_of()"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.hpp"},{"filename":"src\/hotspot\/share\/ci\/ciKlass.cpp"}],"sha":"9eefb1630e6db41026a62715f412221ee66ae7f1"}]
