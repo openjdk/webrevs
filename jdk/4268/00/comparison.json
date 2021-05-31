@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,4 +127,0 @@\n-        while (clazz.isArray()) {\n-            clazz = clazz.getComponentType();\n-        }\n-\n","filename":"src\/java.base\/share\/classes\/sun\/reflect\/misc\/ReflectUtil.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
