@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid dumping local affinity map when local affinity is disabled"},"files":[{"filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/infra\/processors\/JCStressTestProcessor.java"},{"filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/infra\/runners\/ForkedTestConfig.java"}],"sha":"199a8e4228c19c42efbcbbdcf357e03355dd2bea"}]
