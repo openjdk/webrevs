@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261549: Adjust memory size in MTLTexurePool.m\n\nUsed MTLDevice recommendedMaxWorkingSetSize property for optimal size of the texture pool"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLTexurePool.m"}],"sha":"2c52dbfb33d1bf5603f0d260a0a483dcae51e778"}]
