@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reworked the new logging to seperate Info and Debug levels to reduce verbosity, per\nfeedback from @coleenp @iklam"},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"}],"sha":"57561f1dfbe9bd47e2c9b464f5477b8c21df637b"}]
