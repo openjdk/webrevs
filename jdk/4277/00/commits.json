@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268014: Build failure on SUSE Linux Enterprise Server 11.4 (s390x) due to 'SYS_get_mempolicy' was not declared"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"9fc63d7e50225b6d8faf4ba1cf0813e1b1a23187"}]
