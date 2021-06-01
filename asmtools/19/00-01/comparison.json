@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7,1 +7,1 @@\n-    <groupId>org.openjdk<\/groupId>\n+    <groupId>org.openjdk.[PRODUCT_NAME]<\/groupId>\n@@ -9,1 +9,1 @@\n-    <artifactId>[PRODUCT_NAME]<\/artifactId>\n+    <artifactId>[PRODUCT_NAME]-core<\/artifactId>\n","filename":"maven\/pom.xml.in","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
