@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267982: Set the node after peephole optimization to be removed"},"files":[{"filename":"src\/hotspot\/share\/adlc\/output_c.cpp"},{"filename":"src\/hotspot\/share\/opto\/buildOopMap.cpp"},{"filename":"src\/hotspot\/share\/opto\/node.hpp"}],"sha":"d2e500615f71af0b055854490a78f6e50afb8316"}]
