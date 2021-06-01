@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow dynamic implementation of user-agent stylesheet\nFixes JDK-8263095"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/css\/StyleManager.java"},{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/layout\/Region.java"}],"sha":"3cffaccd7eaf11238e786e31f8c1b6fb16121471"}]
