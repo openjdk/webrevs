@@ -1,0 +1,1 @@
+[{"commit":{"message":"7262: Add rule for when the JVM version is < OpenJDK 8u302\n\nSince the test flight recording was created with 8u302 EA, a method\n`JavaVersion.isGreaterOrEqualThanDisregardEa` had to be added to compare\njava versions disregarding early access status."},"files":[],"sha":"ec8c6473f10432e4c1f73e9608f60f25275b37b7"}]
