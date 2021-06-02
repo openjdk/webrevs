@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-            if (hashes != null) {\n+            if (hashes != null && hashes.size() > 1) {\n","filename":"jcheck\/src\/main\/java\/org\/openjdk\/skara\/jcheck\/DuplicateIssuesCheck.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
