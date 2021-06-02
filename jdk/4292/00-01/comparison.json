@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1655,1 +1655,1 @@\n-  _names_chars[_count] = os::strdup(thread->name());\n+  _names_chars[_count] = os::strdup_check_oom(thread->name());\n","filename":"src\/hotspot\/share\/services\/management.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
