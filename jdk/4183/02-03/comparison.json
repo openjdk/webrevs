@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4734,1 +4734,1 @@\n-  oflags |= rewrite_existing ? O_TRUNC : O_EXCL;\n+  oflags |= rewrite_existing ? _O_TRUNC : _O_EXCL;\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
