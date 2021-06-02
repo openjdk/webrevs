@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,2 @@\n-  uint used_worker_limit = MAX2(heap->num_used_regions(), 1u);\n+  uint used_worker_limit = heap->num_used_regions();\n+  assert(used_worker_limit > 0, \"Should never have zero used regions.\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1FullCollector.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
