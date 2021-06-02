@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -12,1 +12,1 @@\n-Require-Bundle: org.lz4.lz4-java\n+Require-Bundle: org.lz4.lz4-java, org.openjdk.jmc.flightrecorder\n","filename":"core\/org.openjdk.jmc.flightrecorder.serializers\/META-INF\/MANIFEST.MF","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
