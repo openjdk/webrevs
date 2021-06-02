@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268103: JNI functions incorrectly return a double after JDK-8265836"},"files":[{"filename":"src\/jdk.management\/aix\/native\/libmanagement_ext\/UnixOperatingSystem.c"},{"filename":"src\/jdk.management\/macosx\/native\/libmanagement_ext\/UnixOperatingSystem.c"}],"sha":"2d3c01dc30a509fd75e33d395d4b4d6fab857cb1"}]
