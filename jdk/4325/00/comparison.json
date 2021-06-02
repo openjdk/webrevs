@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n-    requires testng;\n+    requires org.testng;\n","filename":"test\/jdk\/java\/foreign\/handles\/lookup_module\/module-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
