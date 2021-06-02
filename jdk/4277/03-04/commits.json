@@ -1,0 +1,1 @@
+[{"commit":{"message":"#ifdef SYS_get_mempolicy in numa_syscall_check"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"c8f7ce42a6a4e629cce64e1d5c225f214d25c030"}]
