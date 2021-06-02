@@ -1,0 +1,1 @@
+[{"commit":{"message":"    JDK-8267764: jpackage cannot handle window screensaver files when EXE renamed as SCR"},"files":[{"filename":"src\/jdk.jpackage\/windows\/native\/common\/WinFileUtils.cpp"}],"sha":"cfd8ce4d8fc85f048c800297f2bfb3298b6a087e"}]
