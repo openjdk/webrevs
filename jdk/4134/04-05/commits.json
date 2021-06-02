@@ -1,0 +1,1 @@
+[{"commit":{"message":"Corrected change from IllegalArgumentException to IllegalStateException and tests."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Process.java"},{"filename":"test\/jdk\/java\/lang\/ProcessBuilder\/ReaderWriterTest.java"}],"sha":"bf5fc724cd6e275996ec02fd3315ca9125a2680c"}]
