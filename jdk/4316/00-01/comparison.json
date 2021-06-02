@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-                lookup.lookup(\"distance_ptrs\").get(),\n+            lookup.lookup(\"distance_ptrs\").get(),\n","filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/foreign\/points\/support\/PanamaPoint.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
