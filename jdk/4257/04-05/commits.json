@@ -1,0 +1,1 @@
+[{"commit":{"message":"Safeguard _stream is NULL due to rotation."},"files":[{"filename":"src\/hotspot\/share\/logging\/logFileOutput.cpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_logConfiguration.cpp"}],"sha":"a52019d2e413398b97ed36463cd0d439f3caed4d"}]
