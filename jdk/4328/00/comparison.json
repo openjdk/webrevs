@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @library ${jtreg.home}\/lib\/junit.jar\n+ * @library ${jtreg.home}\/lib\/junit.jar ${jtreg.home}\/lib\/hamcrest.jar\n","filename":"test\/jdk\/tools\/jpackage\/junit\/junit.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
