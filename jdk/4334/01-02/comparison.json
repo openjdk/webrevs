@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-    assert(t->is_Worker_thread(), \"incorrect cast to const WorkerThread\");\n+    assert(t->is_Worker_thread(), \"incorrect cast to WorkerThread\");\n","filename":"src\/hotspot\/share\/runtime\/nonJavaThread.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
