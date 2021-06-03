@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,2 +35,2 @@\n-        \/\/testNPE();\n-        \/\/testIAE();\n+        testNPE();\n+        testIAE();\n","filename":"test\/jdk\/java\/lang\/invoke\/lambda\/MetafactoryArgValidationTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
