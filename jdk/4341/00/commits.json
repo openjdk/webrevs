@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into 8268142-macos-aarch64-jdk17"},"files":[{"filename":"make\/conf\/jib-profiles.js"}],"sha":"6ac9ca982c2d8765376d1eb33975dd203968c30c"},{"commit":{"message":"8268142: Switch to jdk-17+24 for macosx-aarch64 at Oracle"},"files":[{"filename":"make\/conf\/jib-profiles.js"}],"sha":"158bde4e002fe78b35e657d59b0151282f892648"}]
