@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,0 @@\n-  size_t cap() const                          { return _cap; }\n","filename":"src\/hotspot\/share\/memory\/metaspace\/commitLimiter.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
