@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use RAII to protect _rotation_semaphore."},"files":[{"filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp"},{"filename":"src\/hotspot\/share\/logging\/logFileOutput.cpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_logConfiguration.cpp"}],"sha":"07a790513469e925d7baf62790520647e04b5bf8"}]
