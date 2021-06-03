@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268165: AsyncLogging will crash if rotate() fails"},"files":[{"filename":"src\/hotspot\/share\/logging\/logFileOutput.cpp"}],"sha":"8e6cb1c8a85d91b4a4314140f152afa6113f8ebf"}]
