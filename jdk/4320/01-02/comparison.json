@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -553,1 +553,1 @@\n-    int large_page_size = os::large_page_size();\n+    size_t large_page_size = os::large_page_size();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
