@@ -1,0 +1,1 @@
+[{"commit":{"message":"use bash for build.sh"},"files":[{"filename":".github\/workflows\/submit.yml"}],"sha":"d75952d7e62f9c9a461cd1295e68646b39c53389"},{"commit":{"message":"JDK-8268185: Update GitHub Actions for jtreg 6"},"files":[{"filename":".github\/workflows\/submit.yml"},{"filename":"make\/conf\/test-dependencies"}],"sha":"1e6a6b1cc6d8230ebbd95fc7cba863a93f7c15eb"}]
