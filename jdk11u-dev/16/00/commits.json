@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport c7f00640627eab38b77d23d07876cf0247fa18f3"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmti.xml"},{"filename":"src\/hotspot\/share\/prims\/jvmtiExtensions.cpp"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/scenarios\/extension\/EX03\/ex03t001\/ex03t001.c"}],"sha":"ac7ddda8a1ff1c31605ce7abbd0bb949913cd088"}]
