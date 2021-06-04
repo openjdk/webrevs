@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -432,1 +432,1 @@\n-  assert(DumpTimeTable_lock->owned_by_self(), \"sanity\");\n+  assert_lock_strong(DumpTimeTable_lock);\n","filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
