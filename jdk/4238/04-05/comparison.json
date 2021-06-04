@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4468,1 +4468,0 @@\n-        record_for_igvn(init_out);\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
