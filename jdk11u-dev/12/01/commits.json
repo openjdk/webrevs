@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 83b360729060abaefb00a0b3f6165926db956bf8"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.hpp"},{"filename":"src\/hotspot\/share\/prims\/resolvedMethodTable.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/MemberName\/ResolvedMethodTableHash.java"}],"sha":"449769dd9659189da1b0ad9a8c2a71c949f108bc"}]
