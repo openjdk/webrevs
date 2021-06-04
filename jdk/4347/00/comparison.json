@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -494,0 +494,2 @@\n+                \"--with-zlib=system\",\n+                \"--disable-dtrace\",\n","filename":"make\/conf\/jib-profiles.js","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
