@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8268165"},"files":[],"sha":"20c08df63e7fac11fb49224125e2c3fb64a9adc3"},{"commit":{"message":"8268165: AsyncLogging will crash if rotate() fails"},"files":[{"filename":"src\/hotspot\/share\/logging\/logFileOutput.cpp"}],"sha":"8e6cb1c8a85d91b4a4314140f152afa6113f8ebf"}]
