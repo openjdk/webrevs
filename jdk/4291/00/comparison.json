@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -159,0 +159,1 @@\n+            getScrollPane().getViewport().validate();\n@@ -172,0 +173,1 @@\n+            getScrollPane().getViewport().validate();\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/DiagramScene.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
