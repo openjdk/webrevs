@@ -1,0 +1,1 @@
+[{"commit":{"message":"Print multi-line for non-ANSI platforms in non-interactive cases"},"files":[{"filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/infra\/grading\/ConsoleReportPrinter.java"}],"sha":"2a8ed5299db9743b1f1a3df28dac5725c27eb629"}]
