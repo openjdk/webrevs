@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into fixes\/JDK-8267059"},"files":[{"filename":"build.gradle"}],"sha":"111b23d620f75c9ea0b1f9a676a8e420b1ffdbe0"},{"commit":{"message":"Use cmd \/s option when building on Windows"},"files":[{"filename":"build.gradle"}],"sha":"b11d0b1e5350eea0d23fd2366da33741972b224c"}]
