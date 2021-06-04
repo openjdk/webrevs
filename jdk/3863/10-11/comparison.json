@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-     * {@code String} or {@code Integer} and {@code Class}.\n+     * {@code String} or {@code Integer} or {@code Class}.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/SwitchBootstraps.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
