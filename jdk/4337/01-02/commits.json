@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix Windows build"},"files":[{"filename":"src\/hotspot\/share\/code\/icBuffer.cpp"}],"sha":"53c879d9abea5d6e7ab66831344b4587a7937abb"},{"commit":{"message":"Fix zero build"},"files":[{"filename":"src\/hotspot\/cpu\/zero\/zeroInterpreter_zero.cpp"}],"sha":"106702cd672bbc0969420a611682652a0a5bc09a"}]
