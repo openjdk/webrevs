@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-  int code_size = align_up(10*K, 2*BytesPerWord);\n+  int code_size = (int)align_up(10*K, 2*BytesPerWord);\n","filename":"src\/hotspot\/share\/code\/icBuffer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
