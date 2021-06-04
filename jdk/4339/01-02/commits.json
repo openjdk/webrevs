@@ -1,0 +1,1 @@
+[{"commit":{"message":"renamed socketSupported() to init()"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/UnixDomainSockets.java"},{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/UnixDomainSockets.c"},{"filename":"src\/java.base\/windows\/native\/libnio\/ch\/UnixDomainSockets.c"}],"sha":"50361f2bca3f0704be67f4013a3f9a44099ed981"}]
