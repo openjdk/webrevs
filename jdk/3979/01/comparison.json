@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3247,0 +3247,1 @@\n+            assert(new != NULL);\n","filename":"src\/java.base\/share\/native\/libverify\/check_code.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
