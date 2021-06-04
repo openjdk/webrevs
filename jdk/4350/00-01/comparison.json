@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,4 @@\n-  if (tsc_freq == 0.0f) {\n+\n+  \/\/ If no invariant TSC, or the system failed to report a useful maximum frequency,\n+  \/\/ use an estimation.\n+  if (tsc_freq == 0.0) {\n","filename":"src\/hotspot\/cpu\/x86\/rdtsc_x86.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
