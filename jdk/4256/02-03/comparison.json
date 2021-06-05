@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -175,0 +175,2 @@\n+\\                      The actual size may be round up to multiple of system\\n\\\n+\\                      page size as required by the operating system.\\n\\\n","filename":"src\/java.base\/share\/classes\/sun\/launcher\/resources\/launcher.properties","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
