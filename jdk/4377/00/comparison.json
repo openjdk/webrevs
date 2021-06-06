@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n- *                    -XX:UseAVX=3 -XX:AVX3Threshold=0\n+ *                    -XX:+UnlockDiagnosticVMOptions -XX:UseAVX=3 -XX:AVX3Threshold=0\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/VectorizedMismatchTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
