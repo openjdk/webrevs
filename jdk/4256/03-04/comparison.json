@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -685,1 +685,1 @@\n-            if (adjusted_stack_size != stack_size) {\n+            if (adjusted_stack_size != (size_t) stack_size) {\n","filename":"src\/java.base\/unix\/native\/libjli\/java_md.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
