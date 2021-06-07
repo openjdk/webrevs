@@ -1,0 +1,1 @@
+[{"commit":{"message":"8240349: jlink --vm with not present VM does not fail fast"},"files":[{"filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/JlinkTask.java"},{"filename":"test\/jdk\/tools\/jlink\/JLinkTest.java"}],"sha":"f12e6a298f9f881380fb159bba9fdb093e12824a"}]
