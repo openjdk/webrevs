@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move compaction cause in enum to under evacuation cause."},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gcCause.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/gcCause.hpp"}],"sha":"1f357578b92d6ed2978f3be4e05c8d6dd1dbce44"}]
