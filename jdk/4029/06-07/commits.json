@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove movs from asm\n\nCustomizedGitHooks: yes\nChange-Id: I49215be1acaf39b56ce739a8b37d303f672f3a80"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/pauth_bsd_aarch64.inline.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/pauth_linux_aarch64.inline.hpp"}],"sha":"47805b964eb2d6a71007fa9ed4fbd592ced72952"}]
