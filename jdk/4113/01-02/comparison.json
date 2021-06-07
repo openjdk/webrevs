@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1327,1 +1327,1 @@\n-        if (target instanceof javax.swing.RootPaneContainer) {\n+        if (SunToolkit.isInstanceOf(target, \"javax.swing.RootPaneContainer\")) {\n","filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XDecoratedPeer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changed the check for the XDecoratedPeer target being javax.swing.RootPaneContainer in\norder to avoid unnecessary class loading if it isn't."},"files":[{"filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XDecoratedPeer.java"}],"sha":"c83c721682d5784b0378aad5e26e19d3252c4f49"}]
