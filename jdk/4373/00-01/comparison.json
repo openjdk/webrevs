@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -266,1 +266,1 @@\n- * Method:    nativeSetDisplayMode\n+ * Method:    nativeResetDisplayMode\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/CGraphicsDevice.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
