@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -675,1 +675,2 @@\n-  void *stackmem = alloca(((pid ^ counter++) & 7) * 128);\n+  int random = ((pid ^ counter++) & 7) * 128;\n+  void *stackmem = alloca(random != 0 ? random : 1); \/\/ ensure we allocate > 0\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
