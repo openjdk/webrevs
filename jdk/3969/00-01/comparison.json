@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -716,1 +716,1 @@\n-    if (!FLAG_IS_DEFAULT(CompressedClassSpaceBaseAddress) && CompressedClassSpaceBaseAddress != 0) {\n+    if (CompressedClassSpaceBaseAddress != 0) {\n","filename":"src\/hotspot\/share\/memory\/metaspace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
