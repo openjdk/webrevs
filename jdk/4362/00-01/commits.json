@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add case for positive stride*scale"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/rangechecks\/TestRangeCheckLimits.java"}],"sha":"698139483da63a05cbf75594380fb33c92a57452"}]
