@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,4 @@\n-    while (fgetc(f) != '\\n');\n+    int c;\n+    do {\n+        c = fgetc(f);\n+    } while (c != '\\n' && c != EOF);\n","filename":"src\/jdk.management\/linux\/native\/libmanagement_ext\/UnixOperatingSystem.c","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
