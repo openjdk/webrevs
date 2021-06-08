@@ -1,0 +1,1 @@
+[{"commit":{"message":"8210199: [linux \/ macOS] fileChooser can't handle emojis\n\nReviewed-by: pbansal, kcr"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/GlassCommonDialogs.cpp"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassDialogs.m"}],"sha":"16df36345dadab00ec289975450295eae7e28de3"}]
