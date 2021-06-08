@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-    } while(c != '\\n' && c != EOF);\n+    } while (c != '\\n' && c != EOF);\n","filename":"src\/jdk.management\/linux\/native\/libmanagement_ext\/UnixOperatingSystem.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
