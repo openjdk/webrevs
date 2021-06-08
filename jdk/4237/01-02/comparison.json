@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -146,0 +146,2 @@\n+vmTestbase\/nsk\/jvmti\/SuspendThread\/suspendthrd003\/TestDescription.java 8264605 generic-all\n+vmTestbase\/nsk\/jvmti\/PopFrame\/popframe011\/TestDescription.java 8266593 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
