@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -352,1 +352,1 @@\n-    @Ignore(\"Passes only for Button\")\n+    @Ignore(\"JDK-8268374\")\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/AcceleratorParameterizedTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
