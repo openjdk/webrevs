@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268390: G1 concurrent gc upgrade to full gc not working"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1VMOperations.cpp"}],"sha":"0acddf1a256a719a08df0012eeefa30cc2d579b4"}]
