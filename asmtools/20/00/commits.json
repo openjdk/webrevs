@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added missing sonatype informations\n\ndevelopers, license and project url are mandatory"},"files":[{"filename":"maven\/pom.xml.in"}],"sha":"69d8a4f3c2d7d24e2013912fdccff7c803a45843"},{"commit":{"message":"Added gpg plugin and steps for release"},"files":[{"filename":"maven\/pom.xml.in"}],"sha":"0d5821599b37e7409e4f4ba1ab9eb7917504c02d"}]
