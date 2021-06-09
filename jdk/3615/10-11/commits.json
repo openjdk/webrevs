@@ -1,0 +1,1 @@
+[{"commit":{"message":"c1 can not handle 0 constant value when  using cmp"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"}],"sha":"63f1c30d2813a0e68f2dae476e7f0a4ef84d7d30"},{"commit":{"message":"fix"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"}],"sha":"4d2bbef4155244edb5442bb4402061f5ec729be0"}]
