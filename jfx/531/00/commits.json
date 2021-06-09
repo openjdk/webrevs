@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255015: Copy pixel scale factors from graphics object to subscene graphics so that the position of lights will be scaled correctly on retina displays"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/sg\/prism\/NGSubScene.java"}],"sha":"66b361a0ae1b5620ec32464da81601370cce5679"}]
