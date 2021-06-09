@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268418: [lworld] VM assert illegal mirror klass when calling Class::getInterfaces on a flat array"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"},{"filename":"test\/jdk\/valhalla\/valuetypes\/BasicTest.java"}],"sha":"148b6c1839666bc72eb2b300818b10fab0680dfc"}]
