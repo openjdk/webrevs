@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,2 +94,1 @@\n- *\n- * <p>If a URL uses the \"data\" scheme, the data must be base64-encoded\n+ * If a URL uses the \"data\" scheme, the data must be base64-encoded\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/image\/Image.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
