@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove superfluous whitespace."},"files":[{"filename":"src\/hotspot\/cpu\/arm\/arm.ad"}],"sha":"a4bf76500f6b755651a5b85fc2468abc0b1019f1"},{"commit":{"message":"Check vector_size_supported in match_rule_supported_vector, like on other platforms."},"files":[{"filename":"src\/hotspot\/cpu\/arm\/arm.ad"}],"sha":"0d7a4be569af97dcda9f190a413c8a24a325f5d4"}]

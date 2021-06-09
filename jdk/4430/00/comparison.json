@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -980,1 +980,1 @@\n-  bool ret_value = match_rule_supported(opcode);\n+  bool ret_value = match_rule_supported(opcode) && vector_size_supported(bt, vlen);\n","filename":"src\/hotspot\/cpu\/arm\/arm.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
