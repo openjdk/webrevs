@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8263928: Add JAWT test files for mac\"\n\nThis reverts commit f3eed052367fc6f7adb19dd8afeaf5e654098aa0."},"files":[{"filename":"test\/jdk\/java\/awt\/JAWT\/MyMacCanvas.java"},{"filename":"test\/jdk\/java\/awt\/JAWT\/jawt-mac-buildrun.sh"},{"filename":"test\/jdk\/java\/awt\/JAWT\/myfile.m"}],"sha":"3681be6fe02008ae1594d945899662c5ea5d20ff"}]
