@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,1 @@\n+            Asserts.assertFalse(file.exists());\n@@ -71,1 +72,1 @@\n-            file.deleteOnExit(); \/\/ Clean up after test\n+            file.delete();\n","filename":"test\/hotspot\/jtreg\/serviceability\/logging\/TestFullNames.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
