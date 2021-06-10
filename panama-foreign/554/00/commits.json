@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix toCString for wider character sets"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/CLinker.java"},{"filename":"test\/jdk\/java\/foreign\/TestToCStringWide.java"}],"sha":"1983faadcedd4b8e0120db1e97c3bd152bf43db7"}]
