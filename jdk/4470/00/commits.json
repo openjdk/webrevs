@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257038: Remove expired flags in JDK 18\n - remove 4 expired flags\n - move the now obsoleted flags to the obsoleted flag section\n - update the dummy obsoleted flag"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"303362acec59722179e172e6eb6226b9dcbec351"}]
