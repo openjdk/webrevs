@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,2 @@\n-jint Agent_OnLoad(JavaVM* vm, char* options, void* reserved) {\n+JNIEXPORT jint JNICALL\n+Agent_OnLoad(JavaVM* vm, char* options, void* reserved) {\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/DynamicCodeGenerated\/libDynamicCodeGenerated.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
