@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2118,1 +2118,1 @@\n-\\f[B]Source file AnnocProc.java\\f[R]:\n+\\f[B]Source file AnnoProc.java\\f[R]:\n@@ -2125,1 +2125,1 @@\n-import\\ javaz.lang.model.element.*;\n+import\\ javax.lang.model.element.*;\n","filename":"src\/jdk.compiler\/share\/man\/javac.1","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
