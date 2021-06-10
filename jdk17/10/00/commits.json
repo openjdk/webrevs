@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix incorrect calculation of has_fpu_registers in C1 and add test"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LinearScan.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c1\/TestLinearScanHasFPURegisters.java"}],"sha":"853d9428e26ba6a6ac703c2b9427f6c6f1bae182"}]
