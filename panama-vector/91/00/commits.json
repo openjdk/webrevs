@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267294: [vector] Fix unsigned comparison crashes on x86 CPUs with UseAVX=1"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/matcher_x86.hpp"}],"sha":"18558592269b5e1638fe2994d5f325e54e31d08d"}]
