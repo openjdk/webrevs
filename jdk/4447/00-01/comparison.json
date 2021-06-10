@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -163,0 +163,3 @@\n+\n+            \/\/ Don't do println's from this point until we have exited the loop,\n+            \/\/ else we can suspend in the println in an unexpected state.\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/GetThreadState\/thrstat002.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
