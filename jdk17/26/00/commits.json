@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268333: javac crashes when pattern matching switch contains default case which is not last"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Switches.java"}],"sha":"02be724030268eb39d1350725cf0d41145819991"}]
