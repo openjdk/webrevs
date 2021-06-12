@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change ClassLoaderDataGraph_lock to _safepoint_check_always to be consistent with later version"},"files":[{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"}],"sha":"548b75adc17fecd8fe72772ca2160bf07a0d1087"}]
