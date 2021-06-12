@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268641: [foreign] assert(allocates2(pc)) failed: not in CodeBuffer memory with ShenandoahGC"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/universalUpcallHandler_x86_64.cpp"}],"sha":"c50eea4f6fb46dbf4397d7e8a0baf971aea45874"}]
