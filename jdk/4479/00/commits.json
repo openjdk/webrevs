@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268638: semaphores of AsyncLogWriter may be broken when JVM is exiting."},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp"},{"filename":"src\/hotspot\/share\/runtime\/semaphore.hpp"}],"sha":"634c164b9f03f5024d137671615320d6081dd2b1"}]
