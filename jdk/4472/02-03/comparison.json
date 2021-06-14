@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,2 +35,0 @@\n-import java.util.Optional;\n-\n@@ -117,0 +115,1 @@\n+            final var clientSocket = this.clientSocket;\n","filename":"test\/jdk\/sun\/net\/www\/http\/KeepAliveStream\/KeepAliveStreamCloseWithWrongContentLength.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
