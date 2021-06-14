@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-import static org.testng.Assert.assertTrue;\n+import static jdk.test.lib.Asserts.assertTrue;\n","filename":"test\/jdk\/java\/foreign\/stackwalk\/TestAsyncStackWalk.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
