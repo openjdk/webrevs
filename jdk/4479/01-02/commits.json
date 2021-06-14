@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change AsyncLogLocker to SemaphoreLock.\n\nPer reviewer's feedback, Semaphore declares SemaphoreLocker as a friend.\nnow SemaphoreLocker is a general RAII class."},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/runtime\/semaphore.hpp"}],"sha":"63e1fddf36783c079c6752a62420a1f675cfc4fb"}]
