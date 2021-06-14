@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -856,1 +856,1 @@\n-#undef XTOP\n\\ No newline at end of file\n+#undef XTOP\n","filename":"src\/hotspot\/share\/gc\/shared\/c2\/barrierSetC2.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
