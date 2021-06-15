@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make all byte heap segment \"small\" by default"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/HeapMemorySegmentImpl.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/foreign\/TestSmallCopy.java"}],"sha":"e00ff201fc2539d680e1470d753361c2e4b85a16"}]
