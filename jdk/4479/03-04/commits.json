@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use AsyncLogWriter::_instance->_lock directly."},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp"}],"sha":"12acaca48fd1922d845d984ec9e707cb20c18224"}]
