@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -238,1 +238,1 @@\n-          st->print(\"\\t- eliminated <owner is scalar replaced> (a %s)\", k->external_name());\n+          st->print_cr(\"\\t- eliminated <owner is scalar replaced> (a %s)\", k->external_name());\n","filename":"src\/hotspot\/share\/runtime\/vframe.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
