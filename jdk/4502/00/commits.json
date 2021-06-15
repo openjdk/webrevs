@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268592: JDK-8262891 causes an NPE in Lint.augment"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Flow.java"},{"filename":"test\/langtools\/tools\/javac\/T8268592\/T8268592.java"}],"sha":"b5b2d54d1010b13ab0056d2b4cfa001aa4b89480"}]
