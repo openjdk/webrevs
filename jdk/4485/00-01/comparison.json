@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -498,1 +498,1 @@\n-HeapWord* DefNewGeneration::expand_and_allocate(size_t size, bool   is_tlab) {\n+HeapWord* DefNewGeneration::expand_and_allocate(size_t size, bool is_tlab) {\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
