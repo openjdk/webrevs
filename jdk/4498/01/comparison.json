@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,1 @@\n-  if (_file) {\n+  if (_file != NULL) {\n@@ -92,0 +92,2 @@\n+  delete _indy_items;\n+  delete _interfaces;\n","filename":"src\/hotspot\/share\/cds\/classListParser.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
