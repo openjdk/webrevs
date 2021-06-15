@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not do sanity check for AsyncLogLocker"},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/runtime\/semaphore.hpp"}],"sha":"e683f30b02a5d156adb87a3f21f4bb7274e4b913"}]
