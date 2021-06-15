@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,5 +68,0 @@\n-    @Test(expectedExceptions = IllegalArgumentException.class)\n-    public void testNULLtoJavaStringCharset() {\n-        CLinker.toJavaString(MemoryAddress.NULL, Charset.defaultCharset());\n-    }\n-\n","filename":"test\/jdk\/java\/foreign\/TestNULLAddress.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
