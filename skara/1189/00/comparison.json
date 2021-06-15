@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -504,0 +504,4 @@\n+        \"ide-support\": [\n+            \"bin\/idea.sh\",\n+            \"make\/ide\/\"\n+        ],\n","filename":"config\/mailinglist\/rules\/jdk.json","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
