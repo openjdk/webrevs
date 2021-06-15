@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -429,2 +429,0 @@\n-  log_error(gc)(\"MT parallel part start\");\n-\n@@ -440,2 +438,0 @@\n-  log_error(gc)(\"MT parallel part, added \" SIZE_FORMAT \" duplicate \" SIZE_FORMAT, cl.added(), cl.found());\n-\n","filename":"test\/hotspot\/gtest\/gc\/g1\/test_g1CardSet.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
