@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268778: CDS check_excluded_classes needs DumpTimeTable_lock"},"files":[{"filename":"src\/hotspot\/share\/cds\/dynamicArchive.cpp"},{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"}],"sha":"260a42f35dd51bc2fb3330a937314af85ba97a99"}]
