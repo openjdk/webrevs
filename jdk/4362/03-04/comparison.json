@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2355,0 +2355,1 @@\n+  set_subtree_ctrl(inner_result_long, false);\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
