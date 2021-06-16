@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,1 @@\n-                .setTimestamp(true, false)\n+                .setTimestamp(!configuration.notimestamp, false)\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/IndexRedirectWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
