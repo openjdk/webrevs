@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,2 @@\n+BUILD_JDK_JTREG_LIBRARIES_LDFLAGS_libAsyncStackWalk := $(LIBCXX)\n+\n@@ -66,0 +68,1 @@\n+  BUILD_JDK_JTREG_LIBRARIES_CFLAGS_libAsyncStackWalk := \/EHsc\n","filename":"make\/test\/JtregNativeJdk.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
