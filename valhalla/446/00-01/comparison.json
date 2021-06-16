@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-  JavaThread* current = Thread::current()->as_Java_thread();\n+  Thread* current = Thread::current();\n","filename":"src\/hotspot\/share\/oops\/oop.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
