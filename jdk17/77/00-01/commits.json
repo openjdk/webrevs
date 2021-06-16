@@ -1,0 +1,1 @@
+[{"commit":{"message":"Exclude test on unsupported platforms\n\nThis test indirectly initializes CABI, which fails on Linux x86"},"files":[{"filename":"test\/jdk\/java\/foreign\/TestStringEncoding.java"}],"sha":"20565c8706c2f9b6c8455a19db7a5a592346564e"}]
