@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-  return (addr - region_base) < (ptrdiff_t)(ONE << _region_size_words_shift);\n+  return uintptr_t(addr - region_base) < (ONE << _region_size_words_shift);\n","filename":"src\/hotspot\/share\/gc\/shared\/slidingForwarding.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
