@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268852: AsyncLogWriter should not overide is_Named_thread()"},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"209377a9b9a18cb0af21e586dfc28d59bc2868b8"}]
