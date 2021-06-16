@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8265369 [macos-aarch64] java\/net\/MulticastSocket\/Promiscuous.java failed with \"SocketException: Cannot allocate memory\"\namendments as per suggestion from Chris Hegarty"},"files":[{"filename":"src\/java.base\/unix\/native\/libnet\/PlainDatagramSocketImpl.c"}],"sha":"ac82b8dfb1ffc5994f41b467b14507f0cf485e04"}]
