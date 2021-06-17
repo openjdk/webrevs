@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-        if (!members[1].equals(Inner.class))\n+        if (!members[1].equals(Inner.class.asPrimaryType()))\n","filename":"test\/langtools\/tools\/javac\/valhalla\/lworld-values\/UnifiedPrimitiveClassNestHostTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
