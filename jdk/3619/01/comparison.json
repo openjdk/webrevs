@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -514,1 +514,1 @@\n-        if (isPrinting(g)) {\n+        if (isPrinting(g) && !FontUtilities.isMacOSX) {\n","filename":"src\/java.desktop\/share\/classes\/sun\/swing\/SwingUtilities2.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
