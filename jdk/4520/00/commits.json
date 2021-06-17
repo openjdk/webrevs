@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268965: TCP Connection Reset when connecting simple socket to SSL server"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketImpl.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSocketImpl\/SSLSocketReset.java"}],"sha":"cebf52aab3a809652ddb4e112418c8dc3729d72d"}]
