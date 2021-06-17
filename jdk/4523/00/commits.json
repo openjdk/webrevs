@@ -1,0 +1,1 @@
+[{"commit":{"message":"8263926: JavacFileManager.hasExplicitLocation fails with NPE while compiling"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Modules.java"},{"filename":"test\/langtools\/tools\/javac\/modules\/SourceLocationNotExist.java"}],"sha":"30b06d0c0518bdaab8f3b5a9f952f51942005764"}]
