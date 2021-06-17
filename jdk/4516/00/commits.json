@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268927: Windows: link error: unresolved external symbol \"int __cdecl convert_to_unicode(char const *,wchar_t * *)\""},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"60887bb5d9a5e5d4235144a02a77d0cd5e02422b"}]

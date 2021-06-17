@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -895,1 +895,1 @@\n-errno_t convert_to_unicode(char const* char_path, LPWSTR* unicode_path);\n+static errno_t convert_to_unicode(char const* char_path, LPWSTR* unicode_path);\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
