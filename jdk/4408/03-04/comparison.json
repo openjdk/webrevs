@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-  friend class PrimitiveConversions::Translate<LogDecorators>;\n+  friend struct PrimitiveConversions::Translate<LogDecorators>;\n","filename":"src\/hotspot\/share\/logging\/logDecorators.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
