@@ -1,0 +1,1 @@
+[{"commit":{"message":"[BACKOUT] JDK-8196415 Disable SHA-1 Signed JARs."},"files":[{"filename":"src\/java.base\/share\/conf\/security\/java.security"}],"sha":"b8cffa7cf940de471dfe0f5ccdc1bad627ddaee9"}]
