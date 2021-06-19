@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269063: Build failure due to VerifyReceiverTypes was not declared after JDK-8268405"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"}],"sha":"edbaf998dcf35c667ceaf46b2a7ce8f20d80940d"}]
