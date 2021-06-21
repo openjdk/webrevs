@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n-#include \"gc\/g1\/heapRegionRemSet.hpp\"\n+#include \"gc\/g1\/heapRegionRemSet.inline.hpp\"\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
