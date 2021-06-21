@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -356,1 +356,1 @@\n-    int indexAtStartEdit;\n+    private int indexAtStartEdit;\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/ListCell.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
