@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2309,0 +2309,1 @@\n+  ResourceMark rm; \/\/ for verify\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
