@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,2 @@\n-const type name = ((type)value)\n+const type name = ((type)value);                                \\\n+enum { name##_##type##EnumValue = (value) }\n","filename":"src\/hotspot\/share\/asm\/register.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
