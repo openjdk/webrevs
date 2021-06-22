@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269095: Fix Valhalla Zero build failures"},"files":[{"filename":"make\/hotspot\/lib\/JvmFeatures.gmk"},{"filename":"src\/hotspot\/cpu\/zero\/sharedRuntime_zero.cpp"},{"filename":"src\/hotspot\/cpu\/zero\/vtableStubs_zero.cpp"}],"sha":"20c52cc78bd2ed2d307de60079746a17d49b0bd8"}]
