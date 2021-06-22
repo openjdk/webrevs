@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,1 @@\n+import java.lang.ref.Reference;\n@@ -72,1 +73,1 @@\n-        System.out.println(data);\n+        Reference.reachabilityFence(data);\n","filename":"test\/jdk\/jdk\/jfr\/event\/gc\/detailed\/TestEvacuationFailedEvent.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
