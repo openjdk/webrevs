@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8269172: Add java.util.Objects.newIdentity method\nReplaces the existing Objects.newIdentity() method with the matching method in JDK17."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Objects.java"},{"filename":"test\/jdk\/java\/util\/Objects\/BasicObjectsTest.java"}],"sha":"319400260ca161fdf2fca4de67bd7307c8f22313"}]
