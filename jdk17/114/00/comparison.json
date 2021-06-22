@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1035,0 +1035,4 @@\n+  if (stopped()) {\n+    return true;\n+  }\n+\n@@ -1042,4 +1046,0 @@\n-  if (stopped()) {\n-    return false;\n-  }\n-\n@@ -1064,1 +1064,1 @@\n-    return false;\n+    return true;\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":5,"deletions":5,"binary":false,"changes":10,"status":"modified"}]}
