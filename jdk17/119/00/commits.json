@@ -1,0 +1,1 @@
+[{"commit":{"message":"Klass enqueue element size calculation wrong when traceid value cross compress limit"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/traceid\/jfrTraceIdKlassQueue.cpp"},{"filename":"src\/hotspot\/share\/jfr\/utilities\/jfrEpochQueue.inline.hpp"}],"sha":"309b36f44e1aafdd5077119e3f77146069c75bbd"}]
