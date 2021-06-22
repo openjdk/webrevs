@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269138: Move typeArrayOop.inline.hpp include to vectorSupport.cpp"},"files":[{"filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp"},{"filename":"src\/hotspot\/share\/prims\/vectorSupport.hpp"}],"sha":"596b4283276c6082664d7454c5205d58bb20310a"}]
