@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269120: Build failure with GCC 6.3.0 after JDK-8017163"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CardSetContainers.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CardSetMemory.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CardSetMemory.inline.hpp"}],"sha":"5ae1901c396158a3caef4cf10acf34740dd920de"}]
