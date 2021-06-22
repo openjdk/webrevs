@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,4 @@\n+    char* s = msg.message();\n+    if (s != nullptr) {\n+      os::free(s);\n+    }\n","filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
