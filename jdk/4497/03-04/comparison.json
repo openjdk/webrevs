@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5056,2 +5056,0 @@\n-    \/\/ make sure caller's args_size will be less than 0 even for non-static\n-    \/\/ method so it will be recomputed in compute_size_of_parameters().\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
