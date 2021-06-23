@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -494,0 +494,1 @@\n+     * The class does not override any of the methods of {@code java.lang.Object}.\n","filename":"src\/java.base\/share\/classes\/java\/util\/Objects.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
