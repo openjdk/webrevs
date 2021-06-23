@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269223: -Xcheck:jni WARNINGs working with fonts on Linux"},"files":[{"filename":"src\/java.desktop\/share\/native\/libfontmanager\/freetypeScaler.c"},{"filename":"test\/jdk\/java\/awt\/font\/JNICheck\/FreeTypeScalerJNICheck.java"}],"sha":"1622a16911740b8bcd97c9387505f717c39aad7b"}]
