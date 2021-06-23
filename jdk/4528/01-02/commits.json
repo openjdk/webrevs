@@ -1,0 +1,1 @@
+[{"commit":{"message":"confirm HttpExchange::sendResponseHeaders fails if key\/value null"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/com\/sun\/net\/httpserver\/Headers.java"},{"filename":"test\/jdk\/com\/sun\/net\/httpserver\/HeadersTest.java"}],"sha":"1e0ea047dcdd94d5048c444dffb85266ced0ce01"}]
