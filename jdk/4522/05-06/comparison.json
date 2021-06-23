@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2025,1 +2025,1 @@\n-      JavaThread* jt = th->as_Java_thread();\n+      JavaThread* jt = JavaThread::cast(th);\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
