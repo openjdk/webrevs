@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,1 +194,1 @@\n-        currentLine.append(args.length > 0 ? String.format(s, args) : s);\n+        currentLine.append(args != null && args.length > 0 ? String.format(s, args) : s);\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/dcmd\/AbstractDCmd.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
