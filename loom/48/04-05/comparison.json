@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -631,0 +631,2 @@\n+  \/\/ This tested for _handshakee->threadObj() != NULL as well, but the test doesn't work\n+  \/\/ for that.  TODO: can you suspend a thread during initialization ?\n","filename":"src\/hotspot\/share\/runtime\/handshake.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
