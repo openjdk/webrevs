@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n-            if (errno == EINVAL) {\n+            if (errno == EINVAL || errno == ENOSYS) {\n","filename":"src\/java.base\/unix\/native\/libnio\/fs\/UnixCopyFile.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
