@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269141: Switch statement containing pattern case label element gets in the loop during execution"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Switches.java"}],"sha":"8cbee6bb81c63213d787166879f8cad84fe00e30"}]
