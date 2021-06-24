@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,1 +193,1 @@\n-    if (rindex < 0)\n+    if (rindex < 0 && m->constants()->resolved_references() != NULL)\n","filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
