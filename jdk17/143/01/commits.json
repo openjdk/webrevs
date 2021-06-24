@@ -1,0 +1,1 @@
+[{"commit":{"message":"use dll_locate_lib"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"cc59fb49c974e9860703222b365953b541738f3f"},{"commit":{"message":"8269335: Unable to load svml library"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"83b26eb0d9268b24ab646b6b9082f2cd7fba580e"}]
