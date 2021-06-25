@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -565,3 +565,1 @@\n-  __ mov(rscratch2, ShenandoahHeap::MARKING);\n-  __ tst(tmp, rscratch2);\n-  __ br(Assembler::EQ, done);\n+  __ tbz(tmp, ShenandoahHeap::MARKING_BITPOS, done);\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoahBarrierSetAssembler_aarch64.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
