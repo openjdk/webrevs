@@ -1,0 +1,1 @@
+[{"commit":{"message":"6766844: ByteArrayInputStream#read with a byte array of length 0 not consistent with InputStream when at EOF"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ByteArrayInputStream.java"},{"filename":"test\/jdk\/java\/io\/ByteArrayInputStream\/ReadAllReadNTransferTo.java"}],"sha":"3ea4e18d926f73149718748713c3760ab781f84a"}]
