@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-  JavaThread*           _definer;       \/\/ owner of define token\n+  JavaThread*       _definer;       \/\/ owner of define token\n","filename":"src\/hotspot\/share\/classfile\/placeholders.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
