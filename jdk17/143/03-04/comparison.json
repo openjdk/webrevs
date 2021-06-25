@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7005,0 +7005,3 @@\n+#ifdef _WINDOWS\n+    int ret = jio_snprintf(dll_path, sizeof(dll_path), \"%s%sbin\", Arguments::get_java_home(), os::file_separator());\n+#else\n@@ -7006,0 +7009,1 @@\n+#endif\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
