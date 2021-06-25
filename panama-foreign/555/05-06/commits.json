@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove argument type profiling for MemoryCopy methods"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmSymbols.hpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"}],"sha":"572d46f34be45b41100aae682d8e679538598d27"}]
