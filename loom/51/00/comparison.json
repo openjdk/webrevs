@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3217,1 +3217,1 @@\n-  StackChunkAllocator allocator(klass, size_in_words, stack_size, _thread);\n+  StackChunkAllocator allocator(klass, size_in_words, stack_size, current);\n","filename":"src\/hotspot\/share\/runtime\/continuation.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

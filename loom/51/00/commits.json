@@ -1,0 +1,1 @@
+[{"commit":{"message":"ContMirror::allocate_stack_chunk was using the wrong thread for allocation."},"files":[{"filename":"src\/hotspot\/share\/runtime\/continuation.cpp"}],"sha":"2e0eee25bd447929ba70364a305f7d49f595dc37"}]
