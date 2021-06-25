@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,1 +237,1 @@\n-                while (!connection.isConnected() && error != null) {\n+                while (!connection.isConnected() && error == null) {\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/jpda\/SocketIOPipe.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
