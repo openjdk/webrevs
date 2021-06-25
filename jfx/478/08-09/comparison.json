@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-    @Ignore(\"see JDK-8267951\")\n+    @Ignore(\"JDK-8267951\")\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/com\/sun\/javafx\/scene\/control\/SelectedItemsReadOnlyObservableListTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
