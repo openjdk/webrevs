@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269354: javac crashes when processing parenthesized pattern in instanceof"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Parenthesized.java"}],"sha":"9bb7d8806c861f7b44ab001d2035f7eac96e902d"}]
