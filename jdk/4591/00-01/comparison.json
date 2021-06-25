@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n- * @bug 8180451\n+ * @bug 6766844 8180451\n","filename":"test\/jdk\/java\/io\/ByteArrayInputStream\/ReadAllReadNTransferTo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
