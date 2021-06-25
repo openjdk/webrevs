@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269260: Add AVX512 and other SSE + AVX combinations testing for tests which generate vector instructions"},"files":[{"filename":"test\/hotspot\/jtreg\/TEST.groups"}],"sha":"66c31765ebaa403e6850999622427bf09d21d59f"}]
