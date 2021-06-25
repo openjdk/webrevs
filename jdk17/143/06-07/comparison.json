@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-            \"LoadSvmlTest$VectorTest\");\n+            VectorTest.class.getName());\n","filename":"test\/jdk\/jdk\/incubator\/vector\/LoadSvmlTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
