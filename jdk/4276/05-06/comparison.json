@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -469,1 +469,1 @@\n-\t  if ( def->is_Mach() && def->as_Mach()->get_removed() ) {\n+          if ( def->is_Mach() && def->as_Mach()->get_removed() ) {\n","filename":"src\/hotspot\/share\/opto\/buildOopMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
