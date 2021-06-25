@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -470,2 +470,2 @@\n-\t    \/\/do nothing. peephole has removed the node.\n-\t  } else {\n+            \/\/do nothing. peephole has removed the node.\n+          } else {\n@@ -474,1 +474,1 @@\n-\t  }\n+          }\n","filename":"src\/hotspot\/share\/opto\/buildOopMap.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
