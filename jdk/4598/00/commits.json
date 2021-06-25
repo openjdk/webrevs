@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268902: Testing for threadObj != NULL is unnecessary in suspend handshake"},"files":[{"filename":"src\/hotspot\/share\/runtime\/handshake.cpp"}],"sha":"5c3cdb611acdc0c6c133b06b0c98551612a73719"}]
