@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4517,1 +4517,3 @@\n-    if (size != locks_list->origin_cnt()) {\n+    if (size == 0) {\n+      unbalanced = false; \/\/ All locks were eliminated - good\n+    } else if (size != locks_list->origin_cnt()) {\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
