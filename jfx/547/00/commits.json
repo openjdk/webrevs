@@ -1,0 +1,1 @@
+[{"commit":{"message":"Register system fonts so that they are retrieved via CTFontCollectionCreateFromAvailableFonts.\nFix for JDK-8246104"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/font\/MacFontFinder.java"}],"sha":"2695bfbe78a1107e4a119f1e2f63c476271a9bf4"}]
