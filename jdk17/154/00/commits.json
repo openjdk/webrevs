@@ -1,0 +1,1 @@
+[{"commit":{"message":"move access to global from thread destructor to exit()"},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"8c2620757c035463285bb253b947b60fa8ad117d"}]
