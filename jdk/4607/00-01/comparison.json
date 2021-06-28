@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,2 @@\n- * @run testng LargeEntrySizeTest\n+ * @requires (sun.arch.data.model == \"64\" & os.maxMemory >= 5g)\n+ * @run testng\/othervm -Xmx4g LargeEntrySizeTest\n","filename":"test\/jdk\/jdk\/nio\/zipfs\/LargeEntrySizeTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
