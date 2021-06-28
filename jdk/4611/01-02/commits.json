@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rework tests for much better reliability, passes slowdebug+Xcomp"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/mxbeans\/TestChurnNotifications.java"},{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/mxbeans\/TestPauseNotifications.java"}],"sha":"029ed18f5a72e41a055478a28fda84a1516ece12"}]
