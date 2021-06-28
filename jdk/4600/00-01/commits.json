@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clarify cmpxchg only fail due to try_pop."},"files":[{"filename":"src\/hotspot\/share\/utilities\/nonblockingQueue.inline.hpp"}],"sha":"e7890729ee284fd69bc86689868251d9a9f2f59e"}]
