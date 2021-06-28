@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -455,1 +455,1 @@\n-  uint truncated_length() { return _truncated_length; }\n+  size_t truncated_length() { return _truncated_length; }\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
