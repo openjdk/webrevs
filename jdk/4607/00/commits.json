@@ -1,0 +1,1 @@
+[{"commit":{"message":"8190753: (zipfs): Accessing a large entry (> 2^31 bytes) leads to a negative initial size for ByteArrayOutputStream"},"files":[{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"},{"filename":"test\/jdk\/jdk\/nio\/zipfs\/LargeEntrySizeTest.java"}],"sha":"8d6f3407c179c4787b02a75e13cc1c44af2720c8"}]
