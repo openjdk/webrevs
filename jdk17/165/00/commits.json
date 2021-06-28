@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't decrement strongCount if already 0"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/commonRef.c"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdwp\/ObjectReference\/EnableCollection\/enablecol001.java"}],"sha":"89d5bd0d1fc4da228867acbb6fe2481ad54888f3"}]
