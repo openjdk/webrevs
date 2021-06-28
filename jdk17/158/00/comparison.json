@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4016,0 +4016,6 @@\n+\n+  \/\/ Check for bailout, and return\n+  if (C->failing()) {\n+    return;\n+  }\n+\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
