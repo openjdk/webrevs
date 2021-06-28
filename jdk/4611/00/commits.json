@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269478: Shenandoah: gc\/shenandoah\/mxbeans tests should fail when no notifications arrive"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/mxbeans\/TestChurnNotifications.java"},{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/mxbeans\/TestPauseNotifications.java"}],"sha":"77278d435dbada807a8d72740997a5bd129fff73"}]
