@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1611,0 +1611,1 @@\n+    \/\/ Ensure the sweeper can't collect this nmethod until it become \"active\" with JvmtiThreadState::nmethods_do.\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
