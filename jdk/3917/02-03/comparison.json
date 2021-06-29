@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1175,1 +1175,0 @@\n-    assert(!unaligned, \"unexpected\");\n@@ -1304,1 +1303,0 @@\n-    assert(!unaligned, \"unexpected\");\n","filename":"src\/hotspot\/cpu\/ppc\/c1_LIRAssembler_ppc.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
