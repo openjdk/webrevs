@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4582,0 +4582,1 @@\n+      \/\/ Iterate over outs - endless loops is unreachable from below\n@@ -4607,0 +4608,1 @@\n+      \/\/ Iterate over outs - endless loops is unreachable from below\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
