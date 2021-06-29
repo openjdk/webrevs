@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -931,0 +931,1 @@\n+    HandleMark hm(self);\n","filename":"src\/hotspot\/share\/runtime\/safepoint.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
