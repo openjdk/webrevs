@@ -1,0 +1,1 @@
+[{"commit":{"message":"respect ErrorFileToStdout and ErrorFileToStderr flags"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmci.cpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.cpp"}],"sha":"ba004ef0b39f2d8d526a8195b497f9e4f2e56b3e"}]
