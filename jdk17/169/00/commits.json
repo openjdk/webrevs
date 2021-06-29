@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269285: Crash\/miscompile in CallGenerator::for_method_handle_inline after JDK-8191998"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/types\/TestMethodHandleSpeculation.java"}],"sha":"86b6f2cfa19356ffb505296531749171833d10aa"}]
