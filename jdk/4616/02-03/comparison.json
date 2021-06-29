@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1115,0 +1115,1 @@\n+    \/\/ Avoid using st->print_cr() because path length maybe longer than O_BUFLEN.\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
