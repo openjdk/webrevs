@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3771,1 +3771,0 @@\n-  const int mask = 1 << Klass::_lh_instance_slow_path_bit;\n@@ -3773,1 +3772,1 @@\n-  __ z_tmll(Rsize, mask);\n+  __ z_tmll(Rsize, Klass::_lh_instance_slow_path_bit);\n","filename":"src\/hotspot\/cpu\/s390\/templateTable_s390.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
