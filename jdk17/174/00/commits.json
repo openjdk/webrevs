@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269528: VectorAPI Long512VectorTest fails on X86 KNL target"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"e9ec4ebb06702c876dc7af75ae60363e447ece50"}]
