@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4757,1 +4757,1 @@\n-        destinationDirectory = file(\"${standaloneLibDir}\")\n+        destinationDirectory = file(\"${standaloneSdkDir}\")\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
