@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2909,0 +2909,2 @@\n+\/\/ The code relies on the fact that GCTraceTimeWrapper stores the string passed\n+\/\/ initially as a reference only, so that we can modify it as needed.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
