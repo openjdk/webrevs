@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -223,1 +223,0 @@\n-    static char name_buffer[O_BUFLEN];\n@@ -229,0 +228,1 @@\n+      static char name_buffer[O_BUFLEN];\n","filename":"src\/hotspot\/share\/jvmci\/jvmci.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
