@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8225667: Clarify the behavior of System::gc w.r.t. reference processing"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Runtime.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/System.java"}],"sha":"e97659842d7bbef173ad25b1ced0ae439b97dc94"}]
