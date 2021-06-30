@@ -1,0 +1,1 @@
+[{"commit":{"message":"optimize gc-locker in GetStringCritical for latin str"},"files":[{"filename":"src\/hotspot\/share\/prims\/jni.cpp"}],"sha":"40e06f7ca01e4478a25e3a46c11a5887a1dd02eb"}]
