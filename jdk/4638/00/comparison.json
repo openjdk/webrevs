@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -149,4 +149,0 @@\n-  virtual bool needs_inactive_gc_locker() const {\n-    return true;\n-  }\n-\n","filename":"src\/hotspot\/share\/gc\/z\/zDriver.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
