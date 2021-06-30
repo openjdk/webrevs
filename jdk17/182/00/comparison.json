@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -583,1 +583,1 @@\n-sun\/management\/jdp\/JdpDefaultsTest.java                         8241865 macosx-all\n+sun\/management\/jdp\/JdpDefaultsTest.java                         8241865 linux-aarch64,macosx-all\n","filename":"test\/jdk\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
