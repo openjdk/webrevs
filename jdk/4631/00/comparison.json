@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n- *      -XX:StartFlightRecording\n+ *      -XX:StartFlightRecording:jdk.ExecutionSample#enabled=false\n","filename":"test\/jdk\/jdk\/jfr\/api\/consumer\/log\/TestVerbosity.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
