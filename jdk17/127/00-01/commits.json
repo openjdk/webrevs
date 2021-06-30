@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use getDocumnt().getLength() instead of requesting password as an array of chars and counting its length"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JPasswordField.java"}],"sha":"6c57265c9262beb6e35cbbc73e7dc1b905dcce8a"}]
