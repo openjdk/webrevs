@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268788: Annotations with lambda expressions can still cause AnnotationFormatError"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/reflect\/annotation\/AnnotationInvocationHandler.java"},{"filename":"test\/jdk\/java\/lang\/annotation\/EqualityTest.java"}],"sha":"bb08498f3b63ea0c141f0c43481e90e823b255b3"}]
