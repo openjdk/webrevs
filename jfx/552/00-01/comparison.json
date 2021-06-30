@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,1 +117,1 @@\n- * property is invoked regardless if the cycle is to be repeated or not.\n+ * property is invoked regardless of whether the cycle is to be repeated or not.\n","filename":"modules\/javafx.media\/src\/main\/java\/javafx\/scene\/media\/MediaPlayer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
