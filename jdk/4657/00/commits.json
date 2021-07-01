@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change the condition on defined(_LP64) rather than enumerating arches"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"59eb60fb49205a2039e15ed1b8d490d258458380"}]

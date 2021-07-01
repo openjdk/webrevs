@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -415,1 +415,1 @@\n-  #if defined(AMD64) || (defined(_LP64) && defined(SPARC)) || defined(PPC64) || defined(S390)\n+  #if defined(_LP64)\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
