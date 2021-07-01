@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,1 +130,1 @@\n-                                   initialFactor , 10, 0);\n+                                   initialFactor, 10, 0);\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/gc\/gctests\/PhantomReference\/phantom001\/phantom001.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
