@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make test headless again\nDo not test assumption that icon on Windows is always a MultiResolution\nthe specification does not state it and under some circumstances it is\nnot."},"files":[{"filename":"test\/jdk\/javax\/swing\/JFileChooser\/FileSystemView\/SystemIconTest.java"}],"sha":"6537dca98b6a1d68edc9e1bb320e231ae37579fb"}]
