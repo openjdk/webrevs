@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -485,0 +485,1 @@\n+    rp->disable_discovery();\n","filename":"src\/hotspot\/share\/gc\/shared\/genCollectedHeap.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
