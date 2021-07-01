@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore null check to appease static analysis.\nAdd assertion on osthread()"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"c081ea6907446efe1e34fc1880295b5bcc97fcb1"}]
