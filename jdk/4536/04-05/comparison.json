@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -222,0 +222,1 @@\n+  ~FixedResourceHashtableStorage() = default;\n","filename":"src\/hotspot\/share\/utilities\/resourceHash.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
