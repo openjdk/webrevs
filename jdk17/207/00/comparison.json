@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,0 +42,2 @@\n+%global __os_install_post %{nil}\n+\n","filename":"src\/jdk.jpackage\/linux\/classes\/jdk\/jpackage\/internal\/resources\/template.spec","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
