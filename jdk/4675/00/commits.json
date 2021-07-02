@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267303: Replace MinObjectAlignmentSize usages for non-Java heap objects"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.hpp"},{"filename":"src\/hotspot\/share\/oops\/symbol.hpp"}],"sha":"acc23f38d087b0ec4749718afa831fe5770e3b6e"}]
