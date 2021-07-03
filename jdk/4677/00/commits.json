@@ -1,0 +1,1 @@
+[{"commit":{"message":"8249004: Reduce ThreadListHandle overhead in relation to direct handshakes"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"},{"filename":"src\/hotspot\/share\/runtime\/handshake.cpp"},{"filename":"src\/hotspot\/share\/runtime\/handshake.hpp"}],"sha":"8162b22f73f7c6b4d3584e8ad80bfe679e1de7e8"}]
