@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269738: AssertionError when combining pattern maching and function closure"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/LambdaCannotCapturePatternVariables.java"}],"sha":"8c5dc7109c7c449d9f4bc57227162f93a3166bd1"}]
