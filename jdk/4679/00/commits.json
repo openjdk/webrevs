@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269113: Javac throws when compiling switch (null)"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Switches.java"}],"sha":"f2e477124154b724fd3d2397725bff8ce565e938"}]
