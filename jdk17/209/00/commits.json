@@ -1,0 +1,1 @@
+[{"commit":{"message":"conditionally lock the string value array"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/stringdedup\/stringDedup.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/stringdedup\/stringDedup.hpp"},{"filename":"src\/hotspot\/share\/prims\/jni.cpp"}],"sha":"ea8bd3861bfbf44626b3bfc72c60413baeda2873"}]
