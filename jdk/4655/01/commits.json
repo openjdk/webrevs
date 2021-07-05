@@ -1,0 +1,1 @@
+[{"commit":{"message":"use CYGPATH variable instead of calling cygpath directly"},"files":[{"filename":"bin\/idea.sh"}],"sha":"a95d415452848bdc46f624898cb35e5864607bb9"},{"commit":{"message":"Allow specifying conf to idea.sh"},"files":[{"filename":"bin\/idea.sh"}],"sha":"9d47df9d24eada056970cd3dc67556db852fbe86"}]
