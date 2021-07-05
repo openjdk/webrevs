@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-java\/util\/BitSet\/stream javax\/rmi\n+java\/util\/BitSet\/stream javax\/rmi java\/net\/httpclient\/websocket\n","filename":"test\/jdk\/TEST.ROOT","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
