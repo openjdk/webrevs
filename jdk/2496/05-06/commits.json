@@ -1,0 +1,1 @@
+[{"commit":{"message":"\"acquire\" is too slow on aarch64, and does not seem neccessary anyway"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahForwarding.inline.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.inline.hpp"}],"sha":"0e78dc9818fc72a71136f4a53f7a57f7dfb8ef0a"}]
