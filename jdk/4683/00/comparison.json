@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -979,1 +979,1 @@\n-  DT_RETURN_MARK(NewObjectA, jobject, (const jobject)obj);\n+  DT_RETURN_MARK(NewObjectA, jobject, (const jobject&)obj);\n","filename":"src\/hotspot\/share\/prims\/jni.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
