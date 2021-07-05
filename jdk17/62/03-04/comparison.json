@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,1 @@\n-    self.opaque = FALSE;\n+    self.opaque = NO;\n@@ -294,1 +294,1 @@\n-        [mtlLayer setOpaque:(BOOL)opaque];\n+        [mtlLayer setOpaque:(opaque == JNI_TRUE)];\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLLayer.m","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
