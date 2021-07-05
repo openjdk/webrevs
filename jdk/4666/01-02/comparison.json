@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -674,1 +674,1 @@\n-            out.write(size);\n+            out.writeInt(size);\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/utilities\/HeapHprofBinWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
