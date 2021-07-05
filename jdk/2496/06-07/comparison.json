@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,2 @@\n+ *\n+ * TODO: When \"Consume\" is available, load mark words with \"consume\" for extra safety.\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahForwarding.inline.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
