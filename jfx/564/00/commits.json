@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8269921\nFixing a crash related to Text and TextFlow with bounds listeners"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/text\/Text.java"},{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/scene\/text\/TextFlowCrashTest.java"}],"sha":"720905a364e7759bdb258787a8d050726cc12b5b"}]
