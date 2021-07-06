@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266743: crash on macOS 10.11 due to ignored check on 10.12\n\nRevert minimum version of macOS for x64 platforms to 10.10"},"files":[{"filename":"buildSrc\/mac.gradle"}],"sha":"9e56104bcd4d744c7ffeb95982921725842a6140"}]
