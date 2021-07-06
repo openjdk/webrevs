@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269897: Shenandoah: Treat UNKNOWN refs access as strong"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp"}],"sha":"07d7a9f1cb49bda21947569b59752752a064fca3"}]
