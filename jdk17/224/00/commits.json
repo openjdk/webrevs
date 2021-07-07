@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270006: Switches with 'case null:' should be exhaustive"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Flow.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/SwitchErrors.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/SwitchErrors.out"}],"sha":"95e7fc04392635d1d8522cdff74bc03d2e219052"}]
