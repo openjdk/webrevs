@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269851: OperatingSystemMXBean getProcessCpuLoad reports incorrect process cpu usage inside a container"},"files":[{"filename":"src\/jdk.management\/unix\/classes\/com\/sun\/management\/internal\/OperatingSystemImpl.java"}],"sha":"8c39483f1a54177e89548fa9728d08b49c08a250"}]
