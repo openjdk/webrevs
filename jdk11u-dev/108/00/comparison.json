@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -417,1 +417,1 @@\n-  if (get_block_for_node(ctrl) == not_null_block) {\n+  if (ctrl != NULL && get_block_for_node(ctrl) == not_null_block) {\n","filename":"src\/hotspot\/share\/opto\/lcm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
