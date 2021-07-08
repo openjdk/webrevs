@@ -1,0 +1,1 @@
+[{"commit":{"message":"Properly resolve access strength in load, cmpxchg and xchg"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp"}],"sha":"7647b234cb33bb48b8a63cd1903082d1fdb24482"}]
