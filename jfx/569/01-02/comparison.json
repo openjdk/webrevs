@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,0 @@\n-import javafx.scene.control.TableRow;\n@@ -52,0 +51,1 @@\n+import javafx.scene.control.TableRow;\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/TableCellTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
