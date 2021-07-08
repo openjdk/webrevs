@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,4 @@\n+If your shell is not compatible with `bash`, you may need to invoke `bash` explicitly:\n+\n+    % bash make\/build.sh --jdk JDK-directory\n+\n","filename":"README.md","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
