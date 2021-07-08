@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,1 +141,1 @@\n-  assert((decorators & ON_UNKNOWN_OOP_REF) != 0, \"no unknown accesses\");\n+  assert((decorators & ON_UNKNOWN_OOP_REF) == 0, \"no unknown accesses\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
