@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266345: (fs) Custom DefaultFileSystemProvider security related loops"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/PolicyFile.java"},{"filename":"test\/jdk\/java\/nio\/file\/spi\/SetDefaultProvider.java"},{"filename":"test\/jdk\/java\/nio\/file\/spi\/fs.policy"}],"sha":"cfae837ab68d7cc4f683dbe3b5a32946adab41a4"}]
