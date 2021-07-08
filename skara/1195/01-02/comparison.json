@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,4 @@\n+    tasks.withType(JavaCompile).configureEach {\n+        options.release.set(16)\n+    }\n+\n","filename":"build.gradle","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
