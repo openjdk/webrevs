@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -796,0 +796,1 @@\n+    record_modified_oops();\n","filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
