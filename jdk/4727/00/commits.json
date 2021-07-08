@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270100: Fix some inaccurate GC logging"},"files":[{"filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.hpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/cardGeneration.cpp"}],"sha":"dcb1f71edc71cd6b6d44a74fd0c653e281cc728e"}]
