@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270196: [11u] [JVMCI] JavaType.toJavaName() returns incorrect type name for lambdas\n\nThis is a partial backport of JDK-8225810 covering only MetaUtil.java\nchanges."},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk.vm.ci.meta\/src\/jdk\/vm\/ci\/meta\/MetaUtil.java"}],"sha":"9fdfb2caf8ecfb5d24eeecbae1e0225e015e6c47"}]
