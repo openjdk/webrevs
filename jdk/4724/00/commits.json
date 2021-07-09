@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270091: The path of JFR emergency dump should be able to specified by the user"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/repository\/jfrEmergencyDump.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"74c53fe7961ea4c8dfe0eefc2dbecf2e8827eb6a"}]
