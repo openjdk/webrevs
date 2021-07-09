@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270160 Remove redundant bounds check from AbstractStringBuilder.charAt()"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/StringLatin1.java"}],"sha":"b1e3c0c78edac71dac29c2e73612151aa3cc0707"}]
