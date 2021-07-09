@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-        List<HeaderFilter> l = new ArrayList<>();\n+        List<HeaderFilter> l = new ArrayList<>(filterClasses.size());\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/FilterFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
