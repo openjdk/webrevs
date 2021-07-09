@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-     * {@link #print(Diagnostic.Kind, DocTreePath,String) print(kind, path, message)};\n+     * {@link #print(Diagnostic.Kind, DocTreePath, String) print(kind, path, message)}.\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/doclet\/Reporter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
