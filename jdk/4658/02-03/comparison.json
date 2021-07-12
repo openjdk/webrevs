@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -883,1 +883,1 @@\n-  const int max_stride_size = MIN2(max_jint \/ 2 - 2, initial_stride_sz * future_unroll_cnt);\n+  const int max_stride_size = MIN2<int>(max_jint \/ 2 - 2, initial_stride_sz * future_unroll_cnt);\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
