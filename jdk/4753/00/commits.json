@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270290: NTLM authentication fails if HEAD request is used"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/http\/HttpURLConnection.java"},{"filename":"test\/jdk\/sun\/net\/www\/protocol\/http\/NTLMHeadTest.java"}],"sha":"c1c100d8bfc3d59bfa26d562ce4a83d37b8ab37f"}]
