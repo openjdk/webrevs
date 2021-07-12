@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-                ((SIGN_BIT_MASK | MAG_BIT_MASK) == ~0));\n+                ((SIGN_BIT_MASK | MAG_BIT_MASK) == ~0L));\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/math\/DoubleConsts.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
