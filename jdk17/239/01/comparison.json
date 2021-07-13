@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -860,0 +860,3 @@\n+  # jdk.jfr-gendata uses TOOL_JFR_GEN from buildtools-hotspot\n+  jdk.jfr-gendata: buildtools-hotspot\n+\n","filename":"make\/Main.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
