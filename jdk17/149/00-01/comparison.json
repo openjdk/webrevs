@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -357,0 +357,1 @@\n+  assert(frame.is_optimized_entry_frame(), \"wrong frame\");\n","filename":"src\/hotspot\/cpu\/x86\/frame_x86.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
