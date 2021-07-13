@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,0 @@\n-    static private final int BUFFER = 8; \/\/ added as an upper bound\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2Connection.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
