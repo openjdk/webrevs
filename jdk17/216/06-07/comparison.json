@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,0 +139,1 @@\n+  \/\/ Can't use a Monitor here as we need a low-level API that can be used without Thread::current().\n","filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
