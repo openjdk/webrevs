@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269269: [macos11] SystemIconTest fails with ClassCastException\nDo not test situation where UIResource icon is returned\nAdded a whole bunch of debug information to see what file test is filed\nupon."},"files":[{"filename":"test\/jdk\/javax\/swing\/JFileChooser\/FileSystemView\/SystemIconTest.java"}],"sha":"91d23515a9b2708394b7f41941245815c0489f22"}]
