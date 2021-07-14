@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270459: Conflict inlining decisions by C1\/C2 with the same CompileCommand"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/TestConflictInlineCommands.java"}],"sha":"2022cb17e7082d7972c3b5bbdf0d420202006edf"}]
