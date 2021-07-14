@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270317: Large Allocation in CipherSuite"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/CipherSuite.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/security\/CipherSuiteBench.java"}],"sha":"f7814afb803fb7c9a5cd7ccc3c7e2a8cac30ff34"}]
