@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -375,0 +375,3 @@\n+     * @implSpec\n+     * The default implementation throws {@link UnsupportedOperationException}.\n+     *\n","filename":"src\/java.compiler\/share\/classes\/javax\/tools\/StandardJavaFileManager.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
