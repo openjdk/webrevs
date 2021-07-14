@@ -1,0 +1,1 @@
+[{"commit":{"message":"8211002: Change so that Tests.testUlpDiff() handles the NaNs and accepts a ulp tolerance of 2"},"files":[{"filename":"test\/jdk\/java\/lang\/Math\/PowTests.java"}],"sha":"2fe3ff3504e13ef6ff9cee824362300bb0e35182"}]
