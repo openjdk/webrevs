@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,0 +354,1 @@\n+      \/\/ option_list lists options in reverse order. So the first option we find is the last which was specified.\n","filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
