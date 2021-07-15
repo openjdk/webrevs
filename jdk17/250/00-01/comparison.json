@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-        if (md1.getProvider().equals(md2.getProvider())) {\n+        if (md1.getProvider().getName().equals(md2.getProvider().getName())) {\n","filename":"test\/jdk\/sun\/security\/pkcs11\/MessageDigest\/ReinitDigest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
