@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-            frh = bounds.height - insets.top - insets.bottom;\n+            frh = bounds.height - insets.top - insets.bottom - 25;\n","filename":"test\/jdk\/javax\/swing\/JComponent\/7154030\/bug7154030.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
