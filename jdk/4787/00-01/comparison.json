@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1701,1 +1701,1 @@\n-    {EM_LOONGARCH,   EM_LOONGARCH,   ELFCLASS64, ELFDATA2LSB, (char*)\"LoongArch\"},\n+    {EM_LOONGARCH,   EM_LOONGARCH, ELFCLASS64, ELFDATA2LSB, (char*)\"LoongArch\"},\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
