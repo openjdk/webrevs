@@ -1,0 +1,1 @@
+[{"commit":{"message":"ok, so this is in the new code, how hard it will be to reimplement these methods to call invokeAndWait only once per callback from the native, as it usually was done before?"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CAccessibility.java"}],"sha":"76cba143ea0c0fe118982e55d5b06c78429dd088"}]
