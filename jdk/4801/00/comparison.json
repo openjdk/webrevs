@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3992,0 +3992,5 @@\n+  if (log_is_enabled(Info, arguments)) {\n+    LogStream st(Log(arguments)::info());\n+    Arguments::print_on(&st);\n+  }\n+\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
