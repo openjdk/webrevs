@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270830: Aarch64: Use stp to initialize object on C1"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_MacroAssembler_aarch64.cpp"}],"sha":"b6a60a0830b104cc4fa67a993cec4d7394361178"}]
