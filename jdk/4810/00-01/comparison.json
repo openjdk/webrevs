@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,0 +210,2 @@\n+\\    --enable-native-access\\n\\\n+\\                          Allow code to run restricted native methods\\n\\\n","filename":"src\/jdk.jshell\/share\/classes\/jdk\/internal\/jshell\/tool\/resources\/l10n.properties","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
