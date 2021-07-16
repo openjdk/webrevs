@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -734,4 +734,0 @@\n-    private int stiFileTableIndex(int sti, int lti) {\n-        return fileTableIndex(sti, lineTable[lti].fileId);\n-    }\n-\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/SDE.c","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
