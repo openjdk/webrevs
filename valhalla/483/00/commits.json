@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8270350: [lworld] GeneratedMethodAccessor contains incorrect cast"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/reflect\/MethodAccessorGenerator.java"}],"sha":"39029c561ffc1bb1768a8ca5f6bc5df2ebf35933"}]
