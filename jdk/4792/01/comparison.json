@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,0 +79,1 @@\n+                    frame.setUndecorated(true);\n","filename":"test\/jdk\/javax\/swing\/JComponent\/7154030\/bug7154030.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
