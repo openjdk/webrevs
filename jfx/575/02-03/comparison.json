@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -292,0 +292,5 @@\n+    \/**\n+     * Gets the value of the property {@code tableRow}.\n+     * @return the value of the property {@code tableRow}\n+     * @since 17\n+     *\/\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/TreeTableCell.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
