@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add a callback in case set position doesn’t match actual position. Include test"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassWindow+Java.m"},{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/stage\/StageAtTopPositionTest.java"}],"sha":"fb07b048fa18d73bcf7dcd555309ebf74c0a1d7f"}]
