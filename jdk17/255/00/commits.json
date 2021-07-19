@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269820: C2 PhaseIdealLoop::do_unroll get wrong opaque node"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestCanonicalLoopEntryOpaqueOrder.java"}],"sha":"3e195fda8f4cd94f1d3366b5dfd688790524413e"}]
