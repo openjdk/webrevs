@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270894: Use acquire semantics in ObjectSynchronizer::read_stable_mark()"},"files":[{"filename":"src\/hotspot\/share\/oops\/oop.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.inline.hpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"b49cd0185066a469078022a04fa33b72f1b042de"}]
