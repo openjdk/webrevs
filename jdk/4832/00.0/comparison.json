@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3607,1 +3607,1 @@\n-  if (!PhaseIdealLoop::is_canonical_loop_entry(cl)) {\n+  if (cl->is_canonical_loop_entry() == NULL) {\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
