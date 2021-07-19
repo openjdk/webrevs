@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6576,1 +6576,1 @@\n-\n+    CHECK_NULL(obj);\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Component.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
