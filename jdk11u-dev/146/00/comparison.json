@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -362,0 +362,1 @@\n+#if INCLUDE_SERVICES\n@@ -367,0 +368,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
