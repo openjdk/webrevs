@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -309,0 +309,1 @@\n+\/\/ withfield support used by aarch64 but not x86 (see withfield2 below)\n@@ -375,0 +376,1 @@\n+\/\/ withfield support for x86, avoiding costly calls to retrieve last Java frame\n","filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
