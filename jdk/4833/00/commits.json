@@ -1,0 +1,1 @@
+[{"commit":{"message":"8269984: [macos] JTabbedPane title looks like disabled\nFixed verion analysis so it works correctly with new naming scheme of\nmacOS 11.x and beyond"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/apple\/laf\/JRSUIUtils.java"}],"sha":"9783a0dc19222bb6641923e49108e9d63945e64d"}]
