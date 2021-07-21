@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-            Objects.checkFromIndexSize(len, off, b.length);\n+            Objects.checkFromIndexSize(off, len, b.length);\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/media\/sound\/AudioFloatInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
