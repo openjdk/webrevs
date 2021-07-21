@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-  assert(DumpSharedSpaces, \"must be called during dump time only\");\n+  assert(DumpSharedSpaces, \"this function is only used with -Xshare:dump\");\n","filename":"src\/hotspot\/share\/cds\/heapShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
