@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1665,1 +1665,0 @@\n-      \/\/ tty->print_cr(\" %d %d %s\", fd.offset(), fs.offset(), fd.name()->as_C_string());\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
