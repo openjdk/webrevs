@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,1 @@\n+        output.shouldNotHaveExitValue(0);\n","filename":"test\/hotspot\/jtreg\/runtime\/handshake\/HandshakeTimeoutTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
