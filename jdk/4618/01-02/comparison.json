@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -758,1 +758,1 @@\n- *    <li><p> In Perl, <i>free-spacing mode<\/i> (which is called <i>comments\n+ *    <li><p><i>Free-spacing mode<\/i> in Perl (called <i>comments\n","filename":"src\/java.base\/share\/classes\/java\/util\/regex\/Pattern.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
