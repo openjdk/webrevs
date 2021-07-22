@@ -1,0 +1,1 @@
+[{"commit":{"message":"Inject jvmti state into Thread."},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"},{"filename":"src\/hotspot\/share\/classfile\/javaClasses.hpp"},{"filename":"src\/hotspot\/share\/classfile\/vmSymbols.hpp"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/Thread.java"}],"sha":"55747b91704251a4f6cd5b94358550a70f437e7f"}]
