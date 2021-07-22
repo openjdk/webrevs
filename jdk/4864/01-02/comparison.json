@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-    int allocationIterations = 10;\n+    int allocationIterations = 20;\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/HeapMonitor\/MyPackage\/HeapMonitorStatIntervalTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
