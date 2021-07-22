@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8271113: [lworld] java\/lang\/constant\/MethodHandleDescTest.java fails after JDK-8247376"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ClassDesc.java"},{"filename":"test\/jdk\/valhalla\/valuetypes\/ValueConstantDesc.java"}],"sha":"1f5896a070c71fbeee08141f126d4b3f84220c91"}]
