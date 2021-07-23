@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,0 @@\n-    static boolean isBigSurOrAbove = isMacOSXBigSurOrAbove();\n","filename":"src\/java.desktop\/macosx\/classes\/apple\/laf\/JRSUIUtils.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
