@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-        MemorySegment.copy(s1.segment, 0, s2.segment, 0, size);\n+        MemorySegment.copy(s1.segment, s2.segment, size);\n","filename":"test\/jdk\/java\/foreign\/TestCopyFrom.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
