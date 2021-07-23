@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -416,1 +416,1 @@\n-     * Path}\"{@code foo\/bar}\" with the {@code String} \"{@code bar\/}\" returns\n+     * Path} \"{@code foo\/bar}\" with the {@code String} \"{@code bar\/}\" returns\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/Path.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
