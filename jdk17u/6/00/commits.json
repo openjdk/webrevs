@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268261: C2: assert(n != __null) failed: Bad immediate dominator info.\n\nReviewed-by: iveresov, vlivanov"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestIdomAfterLoopUnswitching.java"}],"sha":"3fb5714cbb632db22298ebc0eaa785f3b5802755"}]
