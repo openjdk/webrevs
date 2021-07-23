@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,5 +85,1 @@\n-    if (i % 2 == 0) {\n-      boolBuf[i] = JNI_TRUE;\n-    } else {\n-      boolBuf[i] = JNI_FALSE;\n-    }\n+    boolBuf[i] = (i % 2 == 0) ? JNI_TRUE : JNI_FALSE;\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/stress\/jni\/libjnistress003.cpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
