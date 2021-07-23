@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert 7d2825e4219671bdaef6586864afecbca7b33e48 and comment why"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"},{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestEagerReclaimHumongousRegionsClearMarkBits.java"}],"sha":"c7628e6483d39555077f36f5ae2e55f1e91bc206"}]
