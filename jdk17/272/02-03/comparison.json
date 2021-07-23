@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,5 @@\n-        app.start();\n+        try {\n+            app.start();\n+        } finally {\n+            frame.dispose();\n+        }\n","filename":"test\/jdk\/java\/awt\/Focus\/DeiconifiedFrameLoosesFocus\/DeiconifiedFrameLoosesFocus.java","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
