@@ -1,0 +1,1 @@
+[{"commit":{"message":"Implement review suggestions:\n - remove unnecessary \"synchronized\"\n - no need to open the temp file twice"},"files":[{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"}],"sha":"9e78ba06a6fa9cdcee5b7ec7f792bc0f3f618ddd"}]
