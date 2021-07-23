@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-  ~PeriodicTask();\n+  virtual ~PeriodicTask();\n","filename":"src\/hotspot\/share\/runtime\/task.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
