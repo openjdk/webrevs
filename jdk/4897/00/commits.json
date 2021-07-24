@@ -1,0 +1,1 @@
+[{"commit":{"message":"reintroduce CICountNative"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"},{"filename":"src\/hotspot\/share\/compiler\/compileBroker.hpp"},{"filename":"src\/hotspot\/share\/compiler\/compiler_globals.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/ciReplay\/CiReplayBase.java"}],"sha":"ba0569e2dab579a6b5a0e75d5d1522ad50ff3d10"}]
