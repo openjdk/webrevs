@@ -1,0 +1,1 @@
+[{"commit":{"message":"use STS-joiner to prevent GC safepoint concurrency"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1PeriodicGCTask.cpp"}],"sha":"32907edd29e993723778f394799f83ac18c489d8"}]
