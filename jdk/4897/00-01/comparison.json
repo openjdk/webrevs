@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,0 +85,1 @@\n+            \/\/ explicitly trigger native compilation\n","filename":"test\/hotspot\/jtreg\/compiler\/ciReplay\/CiReplayBase.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
