@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271140: Fix native frame handling in vframeStream::asJavaVFrame()"},"files":[{"filename":"src\/hotspot\/share\/runtime\/vframe.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/compilerToVM\/IterateFramesNative.java"}],"sha":"a681b616a1389e00ed56e116c5492ddccb63d1b0"}]
