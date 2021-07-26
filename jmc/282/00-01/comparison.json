@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-\t\t\t\t\tsingleton = create();\n+\t\t\t\tsingleton = create();\n","filename":"application\/org.openjdk.jmc.console.agent\/src\/main\/java\/org\/openjdk\/jmc\/console\/agent\/manager\/model\/PresetRepositoryFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
