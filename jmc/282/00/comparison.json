@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,0 @@\n-\t\t\t\tif (singleton == null) {\n@@ -55,1 +54,0 @@\n-\t\t\t\t}\n","filename":"application\/org.openjdk.jmc.console.agent\/src\/main\/java\/org\/openjdk\/jmc\/console\/agent\/manager\/model\/PresetRepositoryFactory.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
