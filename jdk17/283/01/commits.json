@@ -1,0 +1,1 @@
+[{"commit":{"message":"add assert in do_self_suspend"},"files":[{"filename":"src\/hotspot\/share\/runtime\/handshake.cpp"}],"sha":"4ecb736effaadb47f9363b7c5efa967afd90ee9c"},{"commit":{"message":"fix self-suspend handshake"},"files":[{"filename":"src\/hotspot\/share\/runtime\/handshake.cpp"}],"sha":"e040266f6a6889f8e518d075a515eee5876fee55"}]
