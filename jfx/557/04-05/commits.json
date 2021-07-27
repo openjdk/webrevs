@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed another NPE on skin creation when the cbx selection model is null"},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/ComboBoxListViewSkin.java"},{"filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/ComboBoxTest.java"}],"sha":"40a30e086ff121e8e5373353d118bb418aefbcf4"}]
