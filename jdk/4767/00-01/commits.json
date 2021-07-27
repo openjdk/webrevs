@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use __SOFTFP__ instead of __ABI_HARD__, shrink ifdef blocks."},"files":[{"filename":"src\/hotspot\/cpu\/arm\/templateTable_arm.cpp"}],"sha":"13c7824a7118ffac9403aa59a22e6476f4015d0c"}]
