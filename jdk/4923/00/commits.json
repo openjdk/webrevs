@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268744: Improve sinking algorithm in partial peeling to avoid redundant clones"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestPartialPeelingSinkNodes.java"}],"sha":"8ae0e1a06558a1678521dcb4ed32708a1821b47d"}]
