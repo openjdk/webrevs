@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1792,0 +1792,4 @@\n+  case 0xA5:\n+    \/\/ Not in Intel documentation.\n+    \/\/ 06_A5H |    | 10th Generation Intel® Core™ Processor Family based on microarchitecture code name Comet Lake S\/H\n+    return true;\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
