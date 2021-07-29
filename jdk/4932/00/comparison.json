@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -921,1 +921,1 @@\n-    if (xtty != NULL) {\n+    if (Verbose && xtty != NULL) {\n","filename":"src\/hotspot\/share\/utilities\/ostream.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
