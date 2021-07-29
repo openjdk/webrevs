@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271485: Javadoc \"Method Summary\" table is misaligned if overriden JDK method has {@inheritDoc} tag\n\nDo not generate javadoc for overridden method with no spec change"},"files":[{"filename":"build.gradle"}],"sha":"1d53bfbd90b6f01036acbd3341f84585f874918b"}]
