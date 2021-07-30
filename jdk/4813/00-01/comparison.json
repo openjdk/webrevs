@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,5 +181,1 @@\n-    bool ret_value = false;\n-    if (UseAVX > 2) {\n-      return true;\n-    }\n-    return ret_value;\n+    return VM_Version::supports_evex();\n","filename":"src\/hotspot\/cpu\/x86\/matcher_x86.hpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
