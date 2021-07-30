@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4640,0 +4640,1 @@\n+        && Thread::current()->is_Compiler_thread()\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

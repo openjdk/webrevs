@@ -1,0 +1,1 @@
+[{"commit":{"message":"Guard ciEnv::current() check with a test to ensure this is a compiler thread."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"}],"sha":"e0f00afa7dee7b455fbae7d5126368a13b060c2a"}]
