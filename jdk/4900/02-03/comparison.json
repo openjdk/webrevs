@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1604,1 +1604,0 @@\n-        boolean dotOrDotDotFound = false;\n@@ -1622,1 +1621,1 @@\n-        return dotOrDotDotFound;\n+        return false;\n","filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
