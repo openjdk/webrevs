@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,1 @@\n-          if (('0' <= next && next <= '9') || next == '*') {\n+          if (isdigit(next) || next == '*') {\n","filename":"src\/hotspot\/share\/compiler\/methodMatcher.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
