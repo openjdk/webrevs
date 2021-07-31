@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271366: Adding pessimistic check to skip rotate auto-vectorization for targets which do not support variable shifts."},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"130e82d81c437dcc3bec37f2557d0560de8e4329"}]
