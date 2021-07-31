@@ -1,0 +1,1 @@
+[{"commit":{"message":"Draft: Throwing IllegalBlockingModeException if src is SelectableChannel and dst is FileChannel"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ChannelInputStream.java"}],"sha":"8e2889fd6138d8aa8e308a1cd2aea3546a7c43a7"}]

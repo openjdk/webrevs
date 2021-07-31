@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -159,0 +159,3 @@\n+                if (ch instanceof SelectableChannel sc && !sc.isBlocking())\n+                    throw new IllegalBlockingModeException();\n+\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ChannelInputStream.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
