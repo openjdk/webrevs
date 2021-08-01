@@ -1,0 +1,1 @@
+[{"commit":{"message":"[Draft] Using blocking lock to prevent concurrently switching into non-blocking mode"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ChannelInputStream.java"}],"sha":"f4485d5b6a3b5c471feff5642dfef0fc747d3fac"}]
