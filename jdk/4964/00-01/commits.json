@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8271150: Remove EA from JDK 17 version string starting with Initial RC promotion on Aug 5, 2021(B34)\"\n\nThis reverts commit f8fb5713074b8960f5530d7aca954f84d57c1f30."},"files":[{"filename":"make\/conf\/version-numbers.conf"}],"sha":"e353ddcc8064413458ea7a2abab71747eaf62253"}]
