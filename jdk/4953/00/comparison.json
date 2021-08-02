@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -275,1 +275,1 @@\n- *     dialog.show();\n+ *     dialog.setVisible(true);\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JOptionPane.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
