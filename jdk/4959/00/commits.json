@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into thread_access"},"files":[],"sha":"361c72ab3eba3d7a58db658dddc59e4fb0f85e53"},{"commit":{"message":"Avoid calling ThreadGroup.checkAccess when no SecurityManager is installed"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Thread.java"}],"sha":"4b68aec3b4f1f5fe134e391eff376b60e7be43f7"}]
