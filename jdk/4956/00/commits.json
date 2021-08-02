@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271589: fatal error with variable shift count integer rotate operation."},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/cr6340864\/TestIntVectRotate.java"}],"sha":"6243cf9637f7f339471ada5e00936d3cd0d7ac01"}]
