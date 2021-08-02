@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix typo and change to require _MSC_VER >= 1928 to be safe"},"files":[{"filename":"src\/hotspot\/os_cpu\/windows_x86\/orderAccess_windows_x86.hpp"}],"sha":"e17b37c6796d112568fc03a8c3c4211f60a3b2ef"}]
