@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1401,1 +1401,1 @@\n-        if ((mod ^ y) < 0 && mod != 0) {\n+        if ((x ^ y) < 0 && mod != 0) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Math.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
