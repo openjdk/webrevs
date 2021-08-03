@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -993,0 +993,1 @@\n+        \/\/ Use separate cr() printing to avoid unnecessary buffer operations that might cause truncation.\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
