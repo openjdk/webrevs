@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1163,1 +1163,0 @@\n-    assert(VectorNode::is_invariant_vector(cnt), \"Broadcast expected\");\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
