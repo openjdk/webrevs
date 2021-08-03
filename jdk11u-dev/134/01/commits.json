@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge master"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"}],"sha":"6098c619c155968885f61024443e645e5832f4ac"},{"commit":{"message":"8234510: Remove file seeking requirement for writing a heap dump"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"}],"sha":"4b146be9cba527c9eb4f7181aee8b0cff7dfe38d"}]
