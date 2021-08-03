@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254270: linux 32 bit build doesn't compile libjdwp\/log_messages.c\n\nReviewed-by: redestad, cjplummer, dholmes, stuefe"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/log_messages.c"}],"sha":"155c5cc1c6f5c2004bf65ac9a537ed28d386d4da"}]
