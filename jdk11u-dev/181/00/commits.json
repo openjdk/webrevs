@@ -1,0 +1,1 @@
+[{"commit":{"message":"8221988: add possibility to build with Visual Studio 2019\n\nReviewed-by: erikj, ysuenaga"},"files":[{"filename":"doc\/building.html"},{"filename":"doc\/building.md"},{"filename":"make\/autoconf\/toolchain_windows.m4"},{"filename":"make\/devkit\/createWindowsDevkit2019.sh"}],"sha":"5210d9c0b97f1033c25ddfa67951535895b425a9"}]
