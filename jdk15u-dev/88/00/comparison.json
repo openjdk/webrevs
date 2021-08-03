@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2825,1 +2825,1 @@\n-        __ ldr(tmp, mdo_addr);\n+        __ str(tmp, mdo_addr);\n","filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
