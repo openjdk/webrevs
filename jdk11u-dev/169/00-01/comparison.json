@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,0 +263,1 @@\n+        \/\/ JDK-8266761 removes one line from JDK-8218554, here, but the latter is not backported.\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ExchangeImpl.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
