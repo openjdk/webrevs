@@ -1,0 +1,1 @@
+[{"commit":{"message":"G1: move copy before CAS to improve performance"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ParScanThreadState.cpp"}],"sha":"997fdc190d996b14a0b0714dc69e817a9a6944db"}]
