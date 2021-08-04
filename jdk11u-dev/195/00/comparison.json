@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -363,2 +363,1 @@\n-    NSPrintJobDispositionValue jobDisposition = [src jobDisposition];\n-    if (jobDisposition == NSPrintSaveJob) {\n+    if (src.jobDisposition == NSPrintSaveJob) {\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/CPrinterJob.m","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
