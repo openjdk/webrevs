@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5809,0 +5809,1 @@\n+#ifdef _LP64\n@@ -5849,0 +5850,1 @@\n+#endif \/\/ _LP64\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
