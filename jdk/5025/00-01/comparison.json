@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,0 +99,2 @@\n+                        if (n > LINUX_MAX_TRANSFER_SIZE)\n+                            throw new RuntimeException(\"Unexpected transfer size: \" + n);\n","filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/Transfer2GPlus.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
