@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -373,0 +373,1 @@\n+                case BOOL -> \"C_BOOL\";\n","filename":"src\/jdk.incubator.jextract\/share\/classes\/jdk\/internal\/jextract\/impl\/ConstantBuilder.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
