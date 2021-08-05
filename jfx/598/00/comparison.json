@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1391,0 +1391,2 @@\n+    gtk_window_set_accept_focus(GTK_WINDOW(gtk_widget), (enabled) ? TRUE : FALSE);\n+\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
