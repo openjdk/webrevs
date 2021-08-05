@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,1 @@\n-static bool is_hidden_class_pattern(const char * current, const char* start) {\n+static bool is_hidden_class_pattern(const char * current, const char * start) {\n","filename":"src\/hotspot\/share\/compiler\/methodMatcher.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
