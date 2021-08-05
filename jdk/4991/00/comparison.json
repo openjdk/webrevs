@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-    return ::open(path, 0);\n+    return ::open(path, O_CLOEXEC);\n","filename":"src\/java.base\/unix\/native\/libjimage\/osSupport_unix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
