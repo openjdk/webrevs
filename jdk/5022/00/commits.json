@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271951: Consolidate preserved marks overflow stack in SerialGC"},"files":[{"filename":"src\/hotspot\/share\/gc\/serial\/genMarkSweep.cpp"},{"filename":"src\/hotspot\/share\/gc\/serial\/markSweep.cpp"},{"filename":"src\/hotspot\/share\/gc\/serial\/markSweep.hpp"}],"sha":"fb48de4d24eb990d0b8169ad7996c265a68e93b0"}]
