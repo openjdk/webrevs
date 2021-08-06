@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,1 +118,1 @@\n-          error_msg = \"Method pattern uses '\/' together with '::'\";\n+          error_msg = \"Method pattern uses '\/' together with '::' (tips: replace '\/' with '+' for hidden classes)\";\n","filename":"src\/hotspot\/share\/compiler\/methodMatcher.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
