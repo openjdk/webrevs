@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264792: The NumberFormat for locale sq_XK formats price incorrectly."},"files":[{"filename":"make\/data\/currency\/CurrencyData.properties"},{"filename":"test\/jdk\/java\/util\/Currency\/CurrencyTest.java"},{"filename":"test\/jdk\/java\/util\/Currency\/ValidateISO4217.java"}],"sha":"352c0bac3454882fc37c5871582fec1c78539d27"}]
