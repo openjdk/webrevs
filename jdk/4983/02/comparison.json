@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -469,0 +469,1 @@\n+  Copy::aligned_disjoint_words(cast_from_oop<HeapWord*>(old), obj_ptr, word_sz);\n@@ -473,1 +474,0 @@\n-    Copy::aligned_disjoint_words(cast_from_oop<HeapWord*>(old), obj_ptr, word_sz);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ParScanThreadState.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
