@@ -1,0 +1,1 @@
+[{"commit":{"message":"Switch order of bulk write method parameters (so that segment is always first)."},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/MemoryAccess.java"},{"filename":"test\/jdk\/java\/foreign\/TestMemoryCopy.java"}],"sha":"5dc0cb3dbb03040dda6ca96091c3435b61315789"}]
