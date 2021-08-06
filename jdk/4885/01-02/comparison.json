@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-        if (!logs.contains(\"line 1\\nline 2\\\\nstring\")) {\n+        if (!logs.contains(\"line 1\" + System.lineSeparator() + \"line 2\\\\nstring\")) {\n","filename":"test\/hotspot\/jtreg\/runtime\/logging\/FoldMultilinesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
