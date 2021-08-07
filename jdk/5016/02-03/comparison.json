@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,0 +94,1 @@\n+  _vm_op_name = nullptr;\n","filename":"src\/hotspot\/share\/runtime\/vmThread.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
