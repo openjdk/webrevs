@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,0 @@\n-  assert(Thread::current()->is_VM_thread(), \"Check timeout on VM thread\");\n","filename":"src\/hotspot\/share\/runtime\/vmThread.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
