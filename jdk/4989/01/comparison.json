@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1308,0 +1308,1 @@\n+     * Setting <code>null<\/code> icon is unsupported and may throw NPE if used.\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JInternalFrame.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
