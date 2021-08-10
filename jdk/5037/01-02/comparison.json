@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -280,1 +280,1 @@\n-  \/\/ regular object case. Is_survivor() may not have been set, but to_array must\n+  \/\/ regular object case. G1HeapRegionAttr::is_new_survivor() may not have been set, but to_array must\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ParScanThreadState.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
