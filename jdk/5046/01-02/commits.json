@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272138: ZGC: Adopt release ordering for self-healing"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zBarrier.inline.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zForwarding.inline.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp"}],"sha":"348c1c046634264553f4e1e78ce694fc8328ff30"}]
