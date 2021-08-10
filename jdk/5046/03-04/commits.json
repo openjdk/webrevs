@@ -1,0 +1,1 @@
+[{"commit":{"message":"replace release() to a single place in insert()"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zForwarding.inline.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp"}],"sha":"3b8ed5f5ba955b17ab1951774ea9330ae5d95e34"}]
