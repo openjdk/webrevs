@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271732: Regression in StringBuilder.charAt bounds checking"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StringBuilders.java"}],"sha":"e72d9e152ea617332ba3675a0d068d253c90b88a"}]
