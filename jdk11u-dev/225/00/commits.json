@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 782d45bdec6efdb7e689e0839718ecd7bac2c767"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarFile.java"},{"filename":"test\/jdk\/java\/util\/jar\/JarFile\/LargeManifestOOMTest.java"}],"sha":"e92757da77f2ab941db17d2404ea808dbc275b1a"}]
