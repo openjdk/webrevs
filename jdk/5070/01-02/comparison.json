@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -322,0 +322,2 @@\n+  \/\/ Note that release_tag_at_put is not needed here because this is called only when\n+  \/\/ constructing a ConstantPool in a single thread, with no possibility of concurrent access.\n","filename":"src\/hotspot\/share\/oops\/constantPool.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
