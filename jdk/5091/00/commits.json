@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272332: --with-harfbuzz=system doesn't add -lharfbuzz after JDK-8255790"},"files":[{"filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk"}],"sha":"105e0ed3b241c9c6dfcaf26e0ee7c947afaf3ce6"}]
