@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove load_symbol(), fix comments"},"files":[{"filename":"src\/hotspot\/share\/memory\/iterator.hpp"},{"filename":"src\/hotspot\/share\/oops\/constantPool.hpp"},{"filename":"src\/hotspot\/share\/oops\/symbol.hpp"},{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"}],"sha":"383a02a7c9ef0c04f73b9f0006a0e2c9b1a364e2"}]
