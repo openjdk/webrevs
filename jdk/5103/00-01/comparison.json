@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-                    .collect(Collectors.toList());\n+                    .toList();\n","filename":"test\/jdk\/java\/nio\/file\/spi\/SetDefaultProvider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
