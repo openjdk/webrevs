@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -271,0 +271,1 @@\n+        fileMenu.add( new MenuItemV2( \"Exit\", this ));\n","filename":"src\/demo\/share\/jfc\/Font2DTest\/Font2DTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
