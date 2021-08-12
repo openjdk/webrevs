@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,1 +180,1 @@\n-            fail(\"PrinterException thrown.\");\n+            fail(\"Transparent ring colors are not printed correctly\");\n","filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/XparColor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
