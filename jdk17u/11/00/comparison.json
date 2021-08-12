@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -438,1 +438,1 @@\n-   BUILD_LIBFONTMANAGER_FONTLIB += $(LIBHARFBUZZ_LIBS)\n+   BUILD_LIBFONTMANAGER_FONTLIB += $(HARFBUZZ_LIBS)\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
