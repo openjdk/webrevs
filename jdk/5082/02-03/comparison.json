@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -338,1 +338,1 @@\n-        Color ringColor = UIManager.getLookAndFeelDefaults().getColor(\"Focus.color\");\n+        Color ringColor = UIManager.getColor(\"Focus.color\");\n","filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaButtonUI.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
