@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove vmovq vmovd\n\nSigned-off-by: Marcus G K Williams <marcus.williams@intel.com>"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"1399d579611de50d963cc1be801a5819bc818588"}]
