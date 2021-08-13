@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-    if (_first) {\n+    if (_first != nullptr) {\n@@ -171,1 +171,1 @@\n-  \/\/ Try to reuse a cached chunk from the pool\n+  \/\/ Try to reuse a freed chunk from the pool\n","filename":"src\/hotspot\/share\/memory\/arena.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
