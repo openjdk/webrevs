@@ -1,0 +1,1 @@
+[{"commit":{"message":"8258604: Use 'isb' instruction in SpinPause on linux-aarch64\n\nFix: SpinPause() should return 1 if it executes code."},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/os_linux_aarch64.cpp"}],"sha":"d9febbdfe27b3cca03316a07d9e455be0f414b20"}]
