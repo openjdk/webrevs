@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266079: Lanai: AlphaComposite shows differences on Metal compared to OpenGL\n\nRemoved unnecessary initialisation of opacity"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/LWWindowPeer.java"}],"sha":"020561389660007290c956bd3515ef6e4b614d56"}]
