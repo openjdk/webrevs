@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -385,1 +385,4 @@\n-    return 0;\n+    \/\/ ISB creates a small delay without consuming ALU resources.\n+    \/\/ This allows it to act as x86 PAUSE.\n+    __asm volatile(\"isb\");\n+    return 1;\n","filename":"src\/hotspot\/os_cpu\/linux_aarch64\/os_linux_aarch64.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
