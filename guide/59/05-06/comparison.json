@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -999,1 +999,2 @@\n-    $ git remote add upstream git@github.com:openjdk\/jdk.git\n+    $ cd jdk\n+    $ git remote add upstream https:\/\/github.com\/openjdk\/jdk.git\n","filename":"src\/index.md","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
