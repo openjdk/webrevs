@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,2 +110,1 @@\n-  \/\/ Cleans the card table from temporary duplicate detection information.\n-  void cleanup_after_scan_heap_roots();\n+\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
