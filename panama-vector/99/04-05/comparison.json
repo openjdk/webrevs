@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1949,1 +1949,1 @@\n-      if (bt == T_BYTE && VM_Version::supports_avx512_vbmi()) {\n+      if (bt == T_BYTE && !VM_Version::supports_avx512_vbmi()) {\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
