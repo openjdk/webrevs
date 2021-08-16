@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,0 @@\n-  OverflowTaskQueue<oop, mtGC>        _claimed_stack_breadth;\n","filename":"src\/hotspot\/share\/gc\/parallel\/psPromotionManager.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
