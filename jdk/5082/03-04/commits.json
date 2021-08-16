@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore Graphics2D rendering state so we do not interfere with next stages of button painting."},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaButtonUI.java"}],"sha":"87ab3e3a395cbe29455d307d00a1f6df3df105d4"}]
