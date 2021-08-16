@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -290,1 +290,1 @@\n-          _string_dedup_requests.add(o);\n+        _string_dedup_requests.add(o);\n","filename":"src\/hotspot\/share\/gc\/parallel\/psPromotionManager.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
