@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'origin\/master' into 8272446_UnsafeGet_raw_load_barrier"},"files":[],"sha":"16917907c2f32043ff443f032dc69bd706cf93b4"},{"commit":{"message":"8272446 C1: Raw version of UnsafeGet performs load barriers"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"}],"sha":"6c9f8fc92d1e50d913670263d72e505eefae1948"}]
