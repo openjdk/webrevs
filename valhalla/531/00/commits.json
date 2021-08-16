@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272511: [lworld] Disable PhaseIdealLoop::try_sink_out_of_loop until optimization is stable in mainline"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"}],"sha":"d729bfd15f3602e50138813ccf0dba74dd6b18a9"}]
