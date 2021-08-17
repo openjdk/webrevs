@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -334,0 +334,1 @@\n+        Color oldColor = g.getColor();\n@@ -354,0 +355,1 @@\n+        g.setColor(oldColor);\n","filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaButtonUI.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
