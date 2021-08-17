@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,0 +81,1 @@\n+        Collections.addAll(argsList, \"-XX:+ClassUnloading\");\n","filename":"test\/hotspot\/jtreg\/runtime\/logging\/ClassLoadUnloadTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
