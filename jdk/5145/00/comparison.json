@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -561,4 +561,1 @@\n-\n-    if (pss == NULL) {\n-      continue;\n-    }\n+    assert(pss != nullptr, \"must be initialized\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ParScanThreadState.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
