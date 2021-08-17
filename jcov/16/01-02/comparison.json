@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,2 +38,2 @@\n- *\/ \n-public class Env{\n+ *\/\n+public class Env {\n","filename":"plugins\/data_coverage\/src\/openjdk\/jcov\/data\/Env.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
