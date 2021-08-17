@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -174,1 +174,1 @@\n-     * Build a container image based on given Dockerfile and image build directory.\n+     * Build a container image based on image build directory.\n","filename":"test\/lib\/jdk\/test\/lib\/containers\/docker\/DockerTestUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
