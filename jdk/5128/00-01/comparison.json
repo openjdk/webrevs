@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,0 +108,1 @@\n+    assert(!thread->has_last_Java_frame() || thread->frame_anchor()->walkable(), \"Unwalkable stack in native transition\");\n","filename":"src\/hotspot\/share\/runtime\/interfaceSupport.inline.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
