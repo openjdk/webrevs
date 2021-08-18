@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270098: ZGC: ZBarrierSetC2::clone_at_expansion fails with \"Guard against surprises\" assert\n\nReviewed-by: neliasso, kvn"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/c2\/zBarrierSetC2.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/arraycopy\/TestObjectArrayClone.java"}],"sha":"5c225e2e80b5c10e220d1939bcbc7534ee4d059a"}]
