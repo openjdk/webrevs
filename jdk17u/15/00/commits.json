@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271925: ZGC: Arraycopy stub passes invalid oop to load barrier\n\nReviewed-by: neliasso, kvn"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/c2\/zBarrierSetC2.cpp"}],"sha":"88697eae36a947fa18d1714f33f714169ae4e055"}]
