@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271276: C2: Wrong JVM state used for receiver null check\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/inlining\/LateInlineVirtualNullReceiverCheck.java"}],"sha":"f903f2cc677564925a480519219621923ded446a"}]
