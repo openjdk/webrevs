@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268019: C2: assert(no_dead_loop) failed: dead loop detected\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/ifnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestDeadLoopSplitIfLoop.java"}],"sha":"2861dca9be1eb6ec7bd44b8e50b296a328261a93"}]
