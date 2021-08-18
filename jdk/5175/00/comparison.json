@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-\t    ( $$($1_POST_PROCESS) < $$($1_$2_PANDOC_OUTPUT) > $$($1_$2_OUTPUT_FILE) ) )\n+\t    ( $$($1_POST_PROCESS) $$($1_$2_PANDOC_OUTPUT) > $$($1_$2_OUTPUT_FILE) ) )\n","filename":"make\/common\/ProcessMarkdown.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
