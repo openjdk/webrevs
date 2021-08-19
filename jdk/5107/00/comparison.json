@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,1 @@\n+#include \"classfile\/classLoaderDataGraph.hpp\"\n@@ -189,0 +190,4 @@\n+  ~ZVerifyOopClosure() {\n+    ClassLoaderDataGraph::clear_claimed_marks(ClassLoaderData::_claim_other);\n+  }\n+\n","filename":"src\/hotspot\/share\/gc\/z\/zVerify.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
