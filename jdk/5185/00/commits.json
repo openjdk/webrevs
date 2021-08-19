@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271954: C2: assert(false) failed: Bad graph detected in build_loop_late"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestUnswitchWithSunkNodes.java"}],"sha":"5031633a075bb7e7ba2ec343c6c87360babf9b75"}]
