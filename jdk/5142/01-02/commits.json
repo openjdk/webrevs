@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix test and add a guard"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestLoopPredicateDep.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopstripmining\/LoadSplitThruPhi.java"}],"sha":"613809fdc084ab3171ac30e887998d34cdb2735d"}]
