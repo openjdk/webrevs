@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,0 @@\n-                    trees.isAccessible(s, member, (DeclaredType) name.asType());\n","filename":"test\/langtools\/tools\/javac\/api\/TestIsAccessible.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
