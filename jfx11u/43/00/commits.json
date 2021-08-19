@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268718: [macos] Video stops, but audio continues to play when stopTime is reached\n\nReviewed-by: kcr, arapte"},"files":[{"filename":"modules\/javafx.media\/src\/main\/native\/jfxmedia\/platform\/osx\/avf\/AVFMediaPlayer.mm"}],"sha":"249f82aef2ad3b6f3520a469644f214cf84c5cbd"}]
