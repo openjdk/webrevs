@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -704,1 +704,1 @@\n-        if (fetchedPackages.size > 0) {\n+        if (fetchedPackages.size() > 0) {\n@@ -763,1 +763,1 @@\n-        if (errors.size > 0) {\n+        if (errors.size() > 0) {\n","filename":"build.gradle","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
