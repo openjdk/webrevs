@@ -1,0 +1,1 @@
+[{"commit":{"message":"changes to make sure that ghash_long_swap_mask and counter_mask_addr calls are not duplicated"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"c31bfe9ae545cbf44ea5776ca4c1ea442a5c0a73"}]
