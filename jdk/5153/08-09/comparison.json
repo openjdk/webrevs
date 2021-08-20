@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n-#include \"gc\/serial\/serialStringDedup.hpp\"\n@@ -32,0 +31,2 @@\n+#include \"classfile\/javaClasses.inline.hpp\"\n+#include \"gc\/serial\/serialStringDedup.hpp\"\n","filename":"src\/hotspot\/share\/gc\/serial\/markSweep.inline.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
