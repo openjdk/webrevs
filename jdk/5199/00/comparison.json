@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1444,0 +1444,1 @@\n+      !n->is_ConstraintCast() &&\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
