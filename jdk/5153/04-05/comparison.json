@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,0 +99,1 @@\n+#include \"memory\/allocation.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shared\/stringdedup\/stringDedup.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
