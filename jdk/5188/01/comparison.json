@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,0 +42,2 @@\n+  \/\/ _needs_remset_update_t is essentially bool, but we need precise control\n+  \/\/ on the size, and sizeof(bool) is implementation specific.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HeapRegionAttr.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
