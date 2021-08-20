@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix the printing code"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"}],"sha":"c79121549c00216053734142d2f854a5998c7fc2"},{"commit":{"message":"8272417: ZGC: fastdebug build crashes when printing ClassLoaderData"},"files":[],"sha":"bcf609ef6463e949dfebb06e609589c4e7962f9e"}]
