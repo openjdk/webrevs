@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prevent pinned loadi, and assert if found wrong loop predication"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"},{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"}],"sha":"66bd853a787d41f469afc6093510a9e59b13fc41"}]
