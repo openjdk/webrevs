@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272806: [macOS] \"Apple AWT Internal Exception\" when input method is changed"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/CInputMethod.m"},{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/LWCToolkit.m"}],"sha":"f8b42f50ce27ae7b740ba93f8eba678dcf45969e"}]
