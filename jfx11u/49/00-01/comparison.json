@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2758,1 +2758,1 @@\n-        implementation group: \"org.apache.ant\", name: \"ant\", version: \"1.8.2\"\n+        antpluginImplementation group: \"org.apache.ant\", name: \"ant\", version: \"1.8.2\"\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
