@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262751: RenderPipelineState assertion error in J2DDemo\n\nProvide correct pipeline state for MTLPaint after reset"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLPaints.h"},{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLPaints.m"}],"sha":"ce91902990e1bb394ab1f87c473939f4fedf5359"}]
