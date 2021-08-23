@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268885: duplicate checkcast when destination type is not first type of intersection type"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransTypes.java"},{"filename":"test\/langtools\/tools\/javac\/cast\/intersection\/DuplicatedCheckcastTest.java"}],"sha":"2648dff70f7002ecccd1b23d245a919df5330830"}]
