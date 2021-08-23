@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -327,0 +327,1 @@\n+     * @throws NullPointerException if any argument but {@code lookup} is {@code null}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/ObjectMethods.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272347: ObjectMethods::bootstrap should specify NPE if any argument except lookup is null"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/ObjectMethods.java"}],"sha":"b7489b4152ec323a752de9c1962da4f65dd60ff0"}]
