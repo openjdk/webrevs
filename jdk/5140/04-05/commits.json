@@ -1,0 +1,1 @@
+[{"commit":{"message":"ci failure due to \"TEST RESULT: Error. Parse Exception: [-Xbatch]: vm option(s) found, need to specify \/othervm\""},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/regalloc\/TestGCMRecalcPressureNodes.java"}],"sha":"57c7d8e71828ab3215fdcf8856cf6f3bb540ad72"}]

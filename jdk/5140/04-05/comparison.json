@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @run main -Xbatch TestGCMRecalcPressureNodes\n+ * @run main\/othervm -Xbatch TestGCMRecalcPressureNodes\n","filename":"test\/hotspot\/jtreg\/compiler\/regalloc\/TestGCMRecalcPressureNodes.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
