@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1447,1 +1447,1 @@\n-      !is_raw_to_oop_cast && \/\/ don't extend live ranges of raw pointers\n+      !is_raw_to_oop_cast && \/\/ don't extend live ranges of raw oops\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
