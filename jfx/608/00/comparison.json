@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3906,0 +3906,1 @@\n+                '--module-version', \"$RELEASE_VERSION_SHORT\",\n@@ -3928,0 +3929,1 @@\n+                '--module-version', \"$RELEASE_VERSION_SHORT\",\n","filename":"build.gradle","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
