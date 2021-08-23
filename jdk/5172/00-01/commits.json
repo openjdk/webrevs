@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272481: [macos] javax\/swing\/JFrame\/NSTexturedJFrame\/NSTexturedJFrame.java fails\n\nUpdate window layer opacity to align with the peer translucency"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CPlatformView.java"}],"sha":"9948d3569101867fb9d44e0c2819d58da9e57e3d"}]
