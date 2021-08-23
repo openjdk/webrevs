@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270349: Strengthening vector mask reinterpretation predications."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"cc6530fc3361e537ce63a70f233ac58440d388b9"}]
