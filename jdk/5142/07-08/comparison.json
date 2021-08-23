@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -674,1 +674,1 @@\n-      \/\/ This situation can occur when pinning nodes too conservatively. - can we do better?\n+      \/\/ This situation can occur when pinning nodes too conservatively - can we do better?\n","filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
