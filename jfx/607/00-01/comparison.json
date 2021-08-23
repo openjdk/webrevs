@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n-import javafx.scene.Scene;\n@@ -34,0 +33,1 @@\n+import javafx.scene.Scene;\n","filename":"tests\/manual\/web\/InputTypeAcceptAttributeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
