@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272473: Parsing epoch seconds at a DST transition with a non-UTC parser is wrong"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/time\/format\/Parsed.java"},{"filename":"test\/jdk\/java\/time\/test\/java\/time\/format\/TestDateTimeParsing.java"}],"sha":"e9016f27918d41c98ec1bea9674c31aa97dbc9f5"}]
