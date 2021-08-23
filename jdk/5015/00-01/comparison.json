@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -717,1 +717,1 @@\n-  \/\/ only regions in old generation contain valid BOT\n+  \/\/ Only regions in old generation contain valid BOT.\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
