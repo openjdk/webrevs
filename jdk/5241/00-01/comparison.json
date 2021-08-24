@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -457,0 +457,1 @@\n+  -runtime\/InvocationTests \\\n@@ -480,1 +481,0 @@\n- -runtime\/InvocationTests \\\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
