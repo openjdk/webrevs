@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1499,1 +1499,1 @@\n-  assert(imm64 < (1ul << 48), \"48-bit overflow in address constant\");\n+  assert(imm64 < (1ull << 48), \"48-bit overflow in address constant\");\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
