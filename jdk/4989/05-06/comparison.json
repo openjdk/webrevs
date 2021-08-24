@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,1 +192,1 @@\n-     * during construction and nor subsequently set this to null.\n+     * during construction and not subsequently set this to null.\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JInternalFrame.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
