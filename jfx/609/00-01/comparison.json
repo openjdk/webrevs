@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-   The content to be displayed is specified with the {@link #setContent} method\n+   The content to be displayed is specified with the SwingNode.setContent method\n","filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/package.html","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
