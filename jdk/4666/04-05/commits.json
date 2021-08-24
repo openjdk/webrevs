@@ -1,0 +1,1 @@
+[{"commit":{"message":"make calculateGlobalJNIHandlesDumpRecordSize abstract"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/utilities\/AbstractHeapGraphWriter.java"},{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/utilities\/HeapGXLWriter.java"}],"sha":"32e6b4cb0d4376da485e898d9f68ecdf0155d447"}]
