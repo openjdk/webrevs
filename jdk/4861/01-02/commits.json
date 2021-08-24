@@ -1,0 +1,1 @@
+[{"commit":{"message":"Return null if printers are not found in sandboxed app on MacOS"},"files":[{"filename":"src\/java.desktop\/unix\/classes\/sun\/print\/CUPSPrinter.java"}],"sha":"067d00256ddcc554b3972b14b5017a873d4094b8"}]
