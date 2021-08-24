@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,0 +123,1 @@\n+        System.out.printf(\"  client bound port: %d%n\", client.getLocalPort());\n","filename":"test\/jdk\/java\/net\/MulticastSocket\/UnreferencedMulticastSockets.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
