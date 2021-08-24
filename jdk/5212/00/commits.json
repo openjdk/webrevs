@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed trailing whitespace"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.hpp"}],"sha":"bd7a9653d0f1d33a690db5cbbc37471200ae8e08"},{"commit":{"message":"8272811: Document the affects of building with _GNU_SOURCE in os_posix.hpp"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.hpp"}],"sha":"3df5d95b172004685f43b0989b5ef40c4b76ba42"}]
