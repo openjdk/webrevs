@@ -1,0 +1,1 @@
+[{"commit":{"message":"8244675: assert(IncrementalInline || (_late_inlines.length() == 0 && !has_mh_late_inlines()))"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"},{"filename":"src\/hotspot\/share\/opto\/doCall.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestNoInline.java"}],"sha":"b80d2464b03fea69fa0c2a965737aefcd075b310"}]
