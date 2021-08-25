@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n- * @bug 8266510 8271315 \n+ * @bug 8266510 8271315\n@@ -70,1 +70,1 @@\n-        }\t    \n+        }\n@@ -78,1 +78,1 @@\n-        }\t    \n+        }\n","filename":"test\/jdk\/javax\/swing\/plaf\/nimbus\/NimbusJTreeSelTextColor.java","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
