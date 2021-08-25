@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-            0L : (long) (Utils.adjustTimeout(Utils.DEFAULT_TEST_TIMEOUT) * 0.9);\n+            0L : (long) (Utils.adjustTimeout(Utils.DEFAULT_TEST_TIMEOUT) * 0.2);\n","filename":"test\/jdk\/java\/lang\/invoke\/LFCaching\/LambdaFormTestCase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
