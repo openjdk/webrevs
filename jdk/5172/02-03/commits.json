@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272481: [macos] javax\/swing\/JFrame\/NSTexturedJFrame\/NSTexturedJFrame.java fails\n\nMove the initialization to better place"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CPlatformWindow.java"}],"sha":"e68e26876d841d48ddeb55d370c00a7562585006"}]
