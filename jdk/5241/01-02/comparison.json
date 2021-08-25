@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -448,1 +448,0 @@\n-  -:tier1 \\\n@@ -450,0 +449,1 @@\n+  :hotspot_tier2_runtime_platform_agnostic \\\n@@ -454,2 +454,0 @@\n-  -:tier1 \\\n-  -:tier2 \\\n@@ -457,1 +455,0 @@\n-  -runtime\/InvocationTests \\\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
