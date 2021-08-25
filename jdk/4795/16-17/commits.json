@@ -1,0 +1,1 @@
+[{"commit":{"message":"Format code closer to the ambient style\n\nMakes new constructs look more natural in their context by adopting the surrounding style."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/source\/doctree\/DocTreeVisitor.java"}],"sha":"87e765b03e9689f7762cd9c6027bb714964082a2"}]
