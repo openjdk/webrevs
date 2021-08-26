@@ -1,0 +1,1 @@
+[{"commit":{"message":"test"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestAddXorIdeal.java"}],"sha":"2f6ceb3d9f62888e73960fffd7fc69a495b5c6e2"},{"commit":{"message":"2scomplement"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/addnode.hpp"}],"sha":"159f3cadefe11267e7173ecdb285f0c844320e2e"}]
