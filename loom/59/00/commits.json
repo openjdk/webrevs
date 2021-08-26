@@ -1,0 +1,1 @@
+[{"commit":{"message":"avoid extra park of vthread when using fixed thread pool"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/VirtualThread.java"},{"filename":"test\/jdk\/java\/lang\/Thread\/virtual\/ParkWithFixedThreadPool.java"}],"sha":"6654bfe6a1769e0503c406304c3b733ca1505a3a"}]
