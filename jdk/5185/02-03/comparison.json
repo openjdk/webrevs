@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -225,0 +225,1 @@\n+        set_ctrl(data, if_uct);\n","filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
