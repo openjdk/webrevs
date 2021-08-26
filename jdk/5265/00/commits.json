@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273020: LibraryCallKit::sharpen_unsafe_type does not handle narrow oop array"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"967ef80482e8c7b8da666ec7beec2daabff594e1"}]

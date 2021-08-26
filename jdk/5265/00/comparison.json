@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2175,1 +2175,1 @@\n-      const TypeOopPtr *elem_type = adr_type->is_aryptr()->elem()->isa_oopptr();\n+      const TypeOopPtr* elem_type = adr_type->is_aryptr()->elem()->make_oopptr();\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
