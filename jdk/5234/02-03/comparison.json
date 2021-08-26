@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n-       float val = rand.nextFloat()\/Float.MAX_VALUE;\n+       float val = rand.nextFloat();\n","filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/BlackScholes.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
