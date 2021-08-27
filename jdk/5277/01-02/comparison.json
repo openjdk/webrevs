@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -508,0 +508,1 @@\n+                onComplete.accept(t);\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/ResponseContent.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
