@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -492,1 +492,0 @@\n-            boolean completed = false;\n@@ -509,3 +508,0 @@\n-                if (!completed) {\n-                    onComplete.accept(t);\n-                }\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/ResponseContent.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
