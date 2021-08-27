@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2554,1 +2554,1 @@\n-        setBackgroundColor(backgroundColor.hashCode());\n+        setBackgroundColor(getColorInt32Value(backgroundColor));\n","filename":"modules\/javafx.web\/src\/main\/java\/com\/sun\/webkit\/WebPage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
