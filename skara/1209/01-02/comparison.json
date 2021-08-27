@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,1 +127,0 @@\n-                localRepo.checkout(targetBranch);\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/BackportCommand.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
