@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -270,0 +270,2 @@\n+  gc\/CriticalNativeArgs.java \\\n+  gc\/stress\/CriticalNativeStress.java \\\n@@ -280,2 +282,0 @@\n-  gc\/CriticalNativeArgs.java \\\n-  gc\/stress\/CriticalNativeStress.java \\\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
