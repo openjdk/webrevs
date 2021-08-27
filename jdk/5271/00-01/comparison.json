@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -301,1 +301,1 @@\n-     * @throws java.util.regex.PatternSyntaxException if the regular expression's\n+     * @throws PatternSyntaxException if the regular expression's\n","filename":"src\/java.base\/share\/classes\/javax\/net\/ssl\/SNIHostName.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
