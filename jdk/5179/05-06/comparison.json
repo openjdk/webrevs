@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-            in.readNBytes(posIn);\n+            in.skipNBytes(posIn);\n","filename":"test\/jdk\/sun\/nio\/ch\/ChannelInputStream\/TransferTo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
