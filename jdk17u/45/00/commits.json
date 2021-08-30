@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8225083: Remove Google certificate that is expiring in December 2021\"\n\nThis reverts commit 551354e0d3c7fba5c304c20fc38db38e3c49b01d."},"files":[{"filename":"make\/data\/cacerts\/globalsignr2ca"},{"filename":"test\/jdk\/sun\/security\/lib\/cacerts\/VerifyCACerts.java"}],"sha":"1caf4ae1af6c8a8260252999d8fd5bc9ed5e2a4f"}]
