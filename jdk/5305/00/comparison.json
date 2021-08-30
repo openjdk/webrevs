@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -287,1 +287,0 @@\n-          _ifop_count++;\n@@ -289,0 +288,1 @@\n+            _ifop_count++;\n","filename":"src\/hotspot\/share\/c1\/c1_Optimizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
