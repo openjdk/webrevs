@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify and call getBytes(String, int, byte) when possible"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java"}],"sha":"6dfaff5a46e6488d9e52f12df7f042f1a65f0a01"}]
