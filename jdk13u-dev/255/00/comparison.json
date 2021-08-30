@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-static NSString* JavaRunLoopMode = @\"javaRunLoopMode\";\n+static NSString* JavaRunLoopMode = @\"AWTRunLoopMode\";\n","filename":"src\/java.desktop\/macosx\/native\/libosxapp\/ThreadUtilities.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
