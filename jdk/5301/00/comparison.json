@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -277,1 +277,1 @@\n-  printf \"* Cores to use:   $JOBS\\n\"\n+  printf \"* Build jobs:     $JOBS\\n\"\n","filename":"make\/autoconf\/help.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
