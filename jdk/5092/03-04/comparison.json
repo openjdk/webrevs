@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,0 @@\n-\/\/Asserts in JUnit5\n@@ -84,1 +83,1 @@\n-import static org.testng.Assert.expectThrows; \/\/Replaced by assertThrows in JUnit5\n+import static org.testng.Assert.expectThrows;\n","filename":"test\/jdk\/java\/util\/regex\/RegExTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
