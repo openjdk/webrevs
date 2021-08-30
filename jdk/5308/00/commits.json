@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273153: Consolidate file_exists into os:file_exists"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/share\/logging\/logFileOutput.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.hpp"}],"sha":"a69be517134618bfaa601a447a67153640978459"}]
