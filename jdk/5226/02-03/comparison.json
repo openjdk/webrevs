@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -345,2 +345,2 @@\n-        if (type instanceof MethodType)\n-            methodType = (MethodType) type;\n+        if (type instanceof MethodType mt)\n+            methodType = mt;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/ObjectMethods.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
