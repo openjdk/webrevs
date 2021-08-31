@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @requires os.maxMemory >= 5g\n+ * @requires os.maxMemory >= 5g & vm.bits == 64\n","filename":"test\/jdk\/java\/util\/regex\/NegativeArraySize.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
