@@ -1,0 +1,1 @@
+[{"commit":{"message":"8211362: Restrict export of libjpeg symbols from libjavafx_iio.so\n\nReviewed-by: kcr"},"files":[{"filename":"buildSrc\/linux.gradle"},{"filename":"buildSrc\/src\/main\/groovy\/com\/sun\/javafx\/gradle\/LinkTask.groovy"}],"sha":"606db963a4634f6d87f104df7c097bb493025a39"}]
