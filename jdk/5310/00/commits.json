@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268084: [macos] Disabled JMenuItem arrow is not disabled"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaMenuPainter.java"},{"filename":"test\/jdk\/javax\/swing\/plaf\/aqua\/JMenuItemDisableArrowButtonTest.java"}],"sha":"c3510ba1128080f3bc92b21aa507ae209d5a8fa2"}]
