@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix error message for @Setup helpers on a class missing @State\n\nSuch error messages previously incorrectly referred to @TearDown."},"files":[{"filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/generators\/core\/StateObjectHandler.java"}],"sha":"5e08308f98cf1681dbc5d11ff2abe9acd84242f4"}]
