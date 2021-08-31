@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272776: NullPointerException not reported"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/NullSwitch.java"}],"sha":"6d67de8b95a8501d65c8ccfe6551ac87cb383651"}]
