@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-        test(false, true, true);\n+        if (Platform.is64bit()) test(false, true, true);\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/TestEpsilonGCWithCDS.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
