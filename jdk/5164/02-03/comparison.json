@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,0 @@\n-    __ move(addr, tmp);\n","filename":"src\/hotspot\/share\/gc\/shared\/c1\/cardTableBarrierSetC1.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
