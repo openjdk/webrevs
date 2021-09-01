@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -689,1 +689,1 @@\n-            \/\/XXX: if it looks a spoof just return the address?\n+            \/\/XXX: if it looks like a spoof just return the address?\n","filename":"src\/java.base\/share\/classes\/java\/net\/InetAddress.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
