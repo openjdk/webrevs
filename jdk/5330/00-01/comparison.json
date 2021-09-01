@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -519,2 +519,1 @@\n-  bool recv_can_be_null = TypePtr::NULL_PTR->higher_equal(recv_type);\n-  if (recv_can_be_null) {\n+  if (recv_type->maybe_null()) {\n","filename":"src\/hotspot\/share\/opto\/callGenerator.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
