@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -270,1 +270,1 @@\n-  def(NonJavaThreadsList_lock      , PaddedMutex,   leaf+1,      true,  _safepoint_check_never);\n+  def(NonJavaThreadsList_lock      , PaddedMutex,   barrier,     true,  _safepoint_check_never);\n","filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
