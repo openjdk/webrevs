@@ -1,0 +1,1 @@
+[{"commit":{"message":"Migrate to Type::maybe_null()"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"}],"sha":"3cb083418a591d7236c94673d287964e29f4a3fc"},{"commit":{"message":"Require non-null receiver"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"}],"sha":"5b3132be97d1860529f6f13858282c6333c6b12b"}]
