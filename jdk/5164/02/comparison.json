@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,2 @@\n+    LIR_Opr addr_opr = LIR_OprFact::address(new LIR_Address(addr, addr->type()));\n+    __ leal(addr_opr, tmp);\n","filename":"src\/hotspot\/share\/gc\/shared\/c1\/cardTableBarrierSetC1.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
