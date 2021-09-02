@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1152,1 +1152,2 @@\n-     * the initializing thread.\n+     * the initializing thread. In the latter case a subsequent call to\n+     * {@link #shouldBeInitialized} will return {@code true}.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
