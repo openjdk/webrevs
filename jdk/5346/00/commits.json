@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273234: extended 'for' with expression of type tvar causes the compiler to crash"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/foreach\/ExprTypeIsTypeVariableTest.java"}],"sha":"eba149750cfa24e6ade5ee4b37c2fd9fa97504b6"}]
