@@ -1,0 +1,1 @@
+[{"commit":{"message":"guarrantee that address dependency on a control node above memory's control."},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestLoopPredicateDep.java"}],"sha":"967eecab85a5c20dcb96913d7022a1d37c2d148d"}]
