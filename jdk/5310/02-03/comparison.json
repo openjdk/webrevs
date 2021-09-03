@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,0 @@\n-import sun.swing.ImageIconUIResource;\n@@ -78,2 +77,0 @@\n-    static Icon disabledIcon = null;\n-\n","filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaMenuPainter.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
