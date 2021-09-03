@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273205: [vector] Crash in C2_MacroAssembler::vprotate_var after JDK-8271366"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"1bfc8154c3d5c02db02b5f78ed07178bbbfce79a"}]
