@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1755,1 +1755,0 @@\n-        if (charsetName == null) throw new NullPointerException();\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
