@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -427,1 +427,1 @@\n-  switch(ref_type) {\n+  switch (ref_type) {\n@@ -448,1 +448,1 @@\n-  \/\/ Only Final refs are not enqueued.\n+  \/\/ Only Final refs are not enqueued and cleared here.\n","filename":"src\/hotspot\/share\/gc\/shared\/referenceProcessor.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
