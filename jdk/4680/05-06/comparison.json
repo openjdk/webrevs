@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1577,2 +1577,1 @@\n-        String[] retValue = new String[temp.size()];\n-        temp.toArray(retValue);\n+        String[] retValue = temp.toArray(new String[0]);\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSS.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271603: Unnecessary Vector usage in java.desktop\none more place to call toArray with zero-sized array"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSS.java"}],"sha":"f0ab7f174561d2780e4267798884c2d95bd69704"}]
