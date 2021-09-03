@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272164: DumpAllocStats shouldn't subclass from ResourceObj\n\nSigned-off-by: Dan Heidinga <heidinga@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/cds\/dumpAllocStats.hpp"}],"sha":"e742c19c9fa431b0cc8b15708bdd46247631a631"}]
