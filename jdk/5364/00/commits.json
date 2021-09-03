@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273332: [Vector API] C2 fails to check whether the rotate operation is directly supported by the target ISA after JDK-8271366"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"b28636a4eb7f92d2bd2cf41e562f9571bee61f55"}]
