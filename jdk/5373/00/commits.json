@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273355: Lanai: Flickering on tooltip appearance IntelliJ IDEA 2021.2.1\n\nUsed setOpaque() method to set correct background of platform window"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/LWWindowPeer.java"}],"sha":"752c21333e6b35e4ba1c4fa79bcd8268530e2809"}]

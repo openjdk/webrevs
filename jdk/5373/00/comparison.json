@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -292,0 +292,4 @@\n+        if (visible) {\n+            \/\/ Set correct background for a window before making it visible\n+            platformWindow.setOpaque(!isTranslucent());\n+        }\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/LWWindowPeer.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
