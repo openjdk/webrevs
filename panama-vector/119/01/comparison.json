@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -545,0 +545,1 @@\n+      operation = gvn().transform(operation);\n@@ -2277,0 +2278,1 @@\n+      operation = gvn().transform(operation);\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
