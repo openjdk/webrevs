@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8273246 fix logic error in testReceive method change reader.send to sender.send"},"files":[{"filename":"test\/jdk\/java\/nio\/channels\/DatagramChannel\/ManySourcesAndTargets.java"}],"sha":"0effbcd4d292b69386e047285ad0bc3b7726023c"}]
