@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,0 @@\n- * @requires vm.flavor != \"zero\"\n@@ -28,0 +27,1 @@\n+ * @requires vm.flavor != \"zero\"\n","filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/PrintTouchedMethods.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
