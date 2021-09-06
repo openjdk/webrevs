@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -467,1 +467,1 @@\n-# Everything not in other tiers, except vmTestbase and long-running application tests\n+# Everything not in other tiers\n@@ -472,3 +472,1 @@\n- -:tier3 \\\n- -applications\/ \\\n- -vmTestbase\/\n+ -:tier3\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}
