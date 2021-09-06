@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1932,0 +1932,2 @@\n+      } else if ((bt == T_INT || bt == T_FLOAT) && size_in_bits < 256) {\n+        return false; \/\/ Implementation limitation\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273371: [Vector API] Crash in Assembler::evpermd when code-gen for masked rearrange operation on AVX512"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"6589df604540ced71c3c15100d80bd256576d320"}]
