@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1963,1 +1963,1 @@\n-        if (anotherString != null) {\n+        if (anotherString == null) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

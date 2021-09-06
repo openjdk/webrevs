@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8272192 Shortcut String equality checks by checking equality of the value array"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/String.java"}],"sha":"4fe9f85ef3438917a7f10097666881438f7241ab"}]
