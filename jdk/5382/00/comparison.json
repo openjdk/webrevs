@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -310,2 +310,0 @@\n-  enqueue_all_paused_buffers();\n-  verify_num_cards();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1DirtyCardQueue.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
