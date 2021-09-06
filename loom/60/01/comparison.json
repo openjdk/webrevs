@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,3 @@\n-            Thread.sleep(1000);\n+            while (server.connectionCount() == 0) {\n+                Thread.sleep(100);\n+            }\n","filename":"test\/jdk\/java\/lang\/Thread\/virtual\/InterruptHttp.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
