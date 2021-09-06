@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2051,1 +2051,1 @@\n-      Node* zero = gvn().makecon(TypeInt::ZERO);\n+      Node* zero = gvn().makecon(Type::get_zero_type(elem_bt));\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
