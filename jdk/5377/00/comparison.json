@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,2 @@\n+#ifndef ZERO\n+\n@@ -53,0 +55,2 @@\n+\n+#endif\n","filename":"test\/hotspot\/gtest\/code\/test_vtableStub.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
