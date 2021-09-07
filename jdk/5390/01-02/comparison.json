@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,1 +171,2 @@\n-  KernelGenerator *generators[unrolls()];\n+  KernelGenerator **generators\n+    = NEW_RESOURCE_ARRAY(KernelGenerator *, unrolls());\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64_aes.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
