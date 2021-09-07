@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,0 +150,3 @@\n+  if (p == nullptr) {\n+    return;\n+  }\n","filename":"src\/hotspot\/share\/memory\/allocation.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

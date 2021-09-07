@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273414: ResourceObj::operator delete should handle nullptr in debug builds"},"files":[{"filename":"src\/hotspot\/share\/memory\/allocation.cpp"}],"sha":"eef68df61ea65622b94ce32c45963fe4f64b06e7"}]
