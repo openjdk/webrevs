@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-    \/\/ Run \"jcmd -l\" in a sidecar container, find the target process.\n+    \/\/ Run \"jcmd -l\", find the target process.\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TestJcmd.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
