@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273358: macOS Monterey does not have the font Times needed by Serif"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/font\/CFontManager.java"},{"filename":"test\/jdk\/java\/awt\/FontClass\/LogicalFontsTest.java"}],"sha":"e773c737ac1df52c9da445f36cf811280f449ee8"}]
