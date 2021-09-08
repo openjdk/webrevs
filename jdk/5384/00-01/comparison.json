@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -598,1 +598,0 @@\n-        fp_gtk_paint_diamond = dl_symbol(\"gtk_paint_diamond\");\n","filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/gtk2_interface.c","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
