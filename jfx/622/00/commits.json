@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8273485\nFixing deadlock when switching to fullscreen, when also swing is used."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassApplication.m"}],"sha":"bbe006d68fb2024e1f7fddeff6272d9fe3e63fb2"}]

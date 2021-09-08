@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -740,2 +740,0 @@\n-    (*env)->CallStaticObjectMethod(env, jApplicationClass,\n-            javaIDs.Application.enterNestedEventLoop);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassApplication.m","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
