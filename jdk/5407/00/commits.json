@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273471: Add foldmultilines to UL for stdout\/err"},"files":[{"filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp"},{"filename":"src\/java.base\/share\/man\/java.1"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/FoldMultilinesTest.java"}],"sha":"057b06ea9492aeb8273a94b16abf1e620fa066ee"}]
