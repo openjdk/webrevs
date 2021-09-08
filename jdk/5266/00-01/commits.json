@@ -1,0 +1,1 @@
+[{"commit":{"message":"constatn is ensured in the second operand due to commute; combine conditional checks; random num in test"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestAddXorIdeal.java"}],"sha":"ff3087afad11121916916252c23f309e6205cf57"}]
