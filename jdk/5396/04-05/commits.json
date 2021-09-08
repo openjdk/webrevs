@@ -1,0 +1,1 @@
+[{"commit":{"message":"Corrected the calculation for MILLIS as well."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/time\/Instant.java"},{"filename":"src\/java.base\/share\/classes\/java\/time\/LocalTime.java"},{"filename":"test\/jdk\/java\/time\/test\/java\/time\/TestInstant.java"}],"sha":"1f6fd470125763d1c0d9580f3f76928df53c15da"}]
