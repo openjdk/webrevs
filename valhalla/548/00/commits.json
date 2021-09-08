@@ -1,0 +1,1 @@
+[{"commit":{"message":"Updated heapDumper to support inlined objects"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/Valhalla\/HeapDump\/HeapDump.java"},{"filename":"test\/lib\/jdk\/test\/lib\/hprof\/model\/JavaValueArray.java"}],"sha":"4f1ea264b16d2b35afa97ea6d11b3a9ed9f75f53"}]
