@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -905,1 +905,1 @@\n-         p2i(referent), p2i(obj), concurrent ? \"non-\" : \"\");\n+         p2i(referent), p2i(obj), concurrent ? \"\" : \"non-\");\n","filename":"src\/hotspot\/share\/gc\/shared\/referenceProcessor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
