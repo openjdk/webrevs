@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n- * @summary tests that the Properties.store() APIs generate output that is reproducible\n+ * @summary Tests that the Properties.store() APIs generate output that is reproducible\n","filename":"test\/jdk\/java\/util\/Properties\/StoreReproducibilityTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
