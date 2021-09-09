@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -288,1 +288,0 @@\n-  void pin() { _control_dependency = Pinned; }\n","filename":"src\/hotspot\/share\/opto\/memnode.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
