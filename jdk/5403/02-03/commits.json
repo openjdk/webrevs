@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix node in place instead of creating new node"},"files":[{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/mulnode.hpp"}],"sha":"71aa6ac439b67b27828e9aabe51845fa34602837"}]
