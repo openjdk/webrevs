@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * itself simply overrides key methods of {@code InputStream} with versions\n+ * itself simply overrides select methods of {@code InputStream} with versions\n","filename":"src\/java.base\/share\/classes\/java\/io\/FilterInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
