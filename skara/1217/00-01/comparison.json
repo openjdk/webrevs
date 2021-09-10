@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -17,1 +17,1 @@\n-            \"make\/jdk\/src\/classes\/build\/tools\/(generatenimbus\/|x11wrappergen)\",\n+            \"make\/jdk\/src\/classes\/build\/tools\/(generatenimbus|x11wrappergen)\",\n","filename":"config\/mailinglist\/rules\/jdk.json","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
