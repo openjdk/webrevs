@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,0 @@\n-               \"jdk.internal.vm.ci\/jdk.vm.ci.code\",\n@@ -77,0 +76,1 @@\n+               \"jdk.internal.vm.ci\/jdk.vm.ci.code\",\n","filename":"test\/jdk\/jdk\/modules\/etc\/JdkQualifiedExportTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
