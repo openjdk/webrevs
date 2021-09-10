@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1148,1 +1148,1 @@\n-    os->print(\", si_band: %ld\", si->si_band);\n+    os->print(\", si_band: %ld\", (long) si->si_band);\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
