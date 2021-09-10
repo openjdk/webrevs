@@ -1,0 +1,1 @@
+[{"commit":{"message":"allow free-form text for java.util.Properties.storeDate system property"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Properties.java"},{"filename":"test\/jdk\/java\/util\/Properties\/StoreReproducibilityTest.java"}],"sha":"1d24a3a839bf3ca2d70307a1d826c7c0e5db2f3e"}]
