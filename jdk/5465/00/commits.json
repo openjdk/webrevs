@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273584: TypeElement.getSuperclass crashes for a record TypeElement when j.l.Record is not available"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TypeEnter.java"},{"filename":"test\/langtools\/tools\/javac\/records\/RecordsErrorRecovery.java"}],"sha":"3f6a3850797b59c24b8298f486036e5466507fab"}]
