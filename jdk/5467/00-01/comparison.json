@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -358,1 +358,0 @@\n-  assert(!Thread::current()->is_Worker_thread(), \"Should not be acquired by workers\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahCodeRoots.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
