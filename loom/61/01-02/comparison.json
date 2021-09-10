@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -262,1 +262,1 @@\n-    ml.wait(;\n+    ml.wait();\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
