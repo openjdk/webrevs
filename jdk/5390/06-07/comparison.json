@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3176,1 +3176,1 @@\n-\t\t\t\tlen, \/*unrolls*\/4);\n+                                len, \/*unrolls*\/4);\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
