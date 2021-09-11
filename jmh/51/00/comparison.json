@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-        <kotlin.version>1.0.2<\/kotlin.version>\r\n+        <kotlin.version>1.5.30<\/kotlin.version>\r\n","filename":"jmh-archetypes\/jmh-kotlin-benchmark-archetype\/src\/main\/resources\/archetype-resources\/pom.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
