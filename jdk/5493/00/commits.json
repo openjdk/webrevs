@@ -1,0 +1,1 @@
+[{"commit":{"message":"Notify everyone to abort at VM exit instead of waiting until marking finishes."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMarkThread.cpp"}],"sha":"87e17d4aeecd59b4b65003b8e39db1d5e1ca8a9e"}]
