@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -373,0 +373,3 @@\n+      if (m == NULL) {\n+        return NULL;\n+      }\n@@ -440,0 +443,3 @@\n+      if (k == NULL) {\n+        return NULL;\n+      }\n","filename":"src\/hotspot\/share\/ci\/ciReplay.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
