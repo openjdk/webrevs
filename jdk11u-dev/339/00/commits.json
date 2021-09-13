@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport d4377afb999f4f03d384ded97771c83ea1c1f513"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopstripmining\/TestPinnedUseInOuterLSMUnusedBySfpt.java"}],"sha":"619bbef0152571eb6acba55152de301e34fdd0e8"}]
