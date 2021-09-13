@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run main runtime.valhalla.inlinetypes.CircularityTest\n+ * @run main\/othervm -Xint runtime.valhalla.inlinetypes.CircularityTest\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/CircularityTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
