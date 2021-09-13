@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rollled back _base_region_crc to private, changed CDSConst's value from type int to size_t"},"files":[{"filename":"src\/hotspot\/share\/cds\/cdsConstants.cpp"},{"filename":"src\/hotspot\/share\/cds\/cdsConstants.hpp"},{"filename":"src\/hotspot\/share\/cds\/dynamicArchive.hpp"}],"sha":"c290e7c15c5abf177a882e99a92a31d1be614682"}]
