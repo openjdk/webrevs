@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -434,4 +434,0 @@\n-    static void setAccessible(Field field) {\n-        doPrivileged(() -> field.setAccessible(true), new ReflectPermission(\"suppressAccessChecks\"));\n-    }\n-\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/SecuritySupport.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
