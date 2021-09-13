@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1933,2 +1933,0 @@\n-    case Op_RotateRightV:\n-    case Op_RotateLeftV:\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
