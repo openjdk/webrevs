@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1865,1 +1865,4 @@\n-      ResourceMark rm;\n+      Thread* current_thread = Thread::current();\n+      ResourceMark rm(current_thread);\n+      HandleMark hm(current_thread);\n+\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
