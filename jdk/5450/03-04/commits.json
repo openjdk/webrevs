@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove including <cstddef>, instead include globalDefinitions.hpp explicitly"},"files":[{"filename":"src\/hotspot\/share\/cds\/cdsConstants.cpp"}],"sha":"5eaf079b4c93dc0a1bef8d6dd2eb26e5ffb92287"}]
