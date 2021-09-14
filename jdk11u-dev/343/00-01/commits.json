@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace FontUtilities.logSevere\/Warning which are not available in 11u"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/font\/CFontManager.java"}],"sha":"3b5452ec56e9fc41c4538c749502eb7f6c3ace9e"}]
