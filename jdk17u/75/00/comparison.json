@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,0 +84,2 @@\n+                                       \/\/ Parallel full gc can distribute live objects into different regions.\n+                                       \"-XX:ParallelGCThreads=1\",\n","filename":"test\/hotspot\/jtreg\/gc\/g1\/TestMixedGCLiveThreshold.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
