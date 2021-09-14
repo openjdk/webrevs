@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport d3ad8cd344681fe8442f821f97f05996bb972abe"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopstripmining\/TestPinnedNodeInInnerLoop.java"}],"sha":"7fc6e4e78e384aa3b670bed2a80026569333ca1a"}]
