@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,1 @@\n-\/**\n+\/*\n@@ -168,1 +168,1 @@\n-    public static void creatUI() {\n+    public static void createUI() {\n@@ -179,1 +179,1 @@\n-        creatUI();\n+        createUI();\n","filename":"test\/jdk\/java\/awt\/Graphics\/LCDTextAndGraphicsState.java","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
