@@ -1,0 +1,1 @@
+[{"commit":{"message":"- Clarify how overriden Properties#entrySet() method impacts the order of stored properties\n- Tests to verify subclasses of Properties"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Properties.java"},{"filename":"test\/jdk\/java\/util\/Properties\/PropertiesStoreTest.java"}],"sha":"79d1052775dd8e98fb7078710eda0fd6dd83b164"}]
