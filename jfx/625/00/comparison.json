@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4789,0 +4789,5 @@\n+            manifest {\n+                attributes(\n+                        'Automatic-Module-Name':\"${moduleName}Empty\"\n+                )\n+            }\n","filename":"build.gradle","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
