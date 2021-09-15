@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,1 +314,0 @@\n-        \/\/ HEY! Should we do this if the cycle was cancelled\/degenerated?\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
