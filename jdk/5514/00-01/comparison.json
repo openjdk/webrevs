@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @requires vm.cds\n+ * @requires vm.cds.write.archived.java.heap\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/cacheObject\/VerifyArchivedFields.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
