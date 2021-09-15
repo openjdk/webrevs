@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,0 +80,4 @@\n+        if (arch() == Platform.Architecture.UNKNOWN) {\n+            return (System.getProperty(\"os.arch\").indexOf(\"64\") != -1);\n+        }\n+\n","filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/Platform.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
