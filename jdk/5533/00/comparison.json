@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,3 @@\n+\n+# These are GUI tests, they cannot run in parallel with other tests\n+exclusiveAccess.dirs=SwingSet\/src\n\\ No newline at end of file\n","filename":"test\/jdk\/sanity\/client\/TEST.properties","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
