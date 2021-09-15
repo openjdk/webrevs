@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -328,1 +328,1 @@\n-                r, Thread.MIN_PRIORITY - 2);\n+                r, Thread.MAX_PRIORITY - 2);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/ref\/CleanerImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
