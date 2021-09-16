@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8273902: Memory leak in OopStorage due to bug in OopHandle::release()"},"files":[{"filename":"src\/hotspot\/share\/oops\/oopHandle.inline.hpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiImpl.cpp"}],"sha":"98afd1506835c0604defb186f2286634f799a708"}]
