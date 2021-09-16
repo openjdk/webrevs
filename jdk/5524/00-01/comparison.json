@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-        ENABLE_JAR_INDEX = p != null ? p.equals(\"true\") : false;\n+        ENABLE_JAR_INDEX = p != null ? p.equals(\"true\") || p.isEmpty() : false;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/URLClassPath.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
