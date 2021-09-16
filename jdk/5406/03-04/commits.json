@@ -1,0 +1,1 @@
+[{"commit":{"message":"implement verification based on conversions used at MethodHandle::asType"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/AbstractValidatingLambdaMetafactory.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/lambda\/MetafactoryDescriptorTest.java"}],"sha":"3c3944250b9ad42f42009d163ca00b7f8929d964"}]
