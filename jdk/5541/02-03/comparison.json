@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-  \/\/ Only 2M large pages are supported\n+  \/\/ Large page size must match granule size\n","filename":"src\/hotspot\/share\/gc\/z\/zArguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
