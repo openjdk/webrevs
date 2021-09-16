@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,1 @@\n-    private static final String className = \"nsk.stress.except.except011.except011oops\";\n+    private static final String className = \"nsk.stress.except.except011oops\";\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/stress\/except\/except011.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
