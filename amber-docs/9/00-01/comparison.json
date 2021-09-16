@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n-where `STR` is a static field of `TemplatePolicy` which captures the obvious\n+where `STR` is a static instance of `TemplatePolicy` which captures the obvious\n","filename":"site\/design-notes\/templated-strings.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
