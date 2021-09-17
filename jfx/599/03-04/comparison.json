@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -916,0 +916,1 @@\n+                            guchar* origdata = data;\n@@ -917,0 +918,1 @@\n+                            g_free(origdata);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_dnd.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
