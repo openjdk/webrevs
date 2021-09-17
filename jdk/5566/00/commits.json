@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273505: runtime\/cds\/appcds\/loaderConstraints\/DynamicLoaderConstraintsTest.java#default-cl crashed with SIGSEGV in MetaspaceShared::link_shared_classes"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"}],"sha":"8c7b394619d12c4a063aeaa9d3db9db670ec8975"}]
