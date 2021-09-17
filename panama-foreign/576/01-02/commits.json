@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix javadoc issues with `confined` and an unused import in `MemorySegmentProxy`."},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/foreign\/MemorySegmentProxy.java"},{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/MemorySegment.java"}],"sha":"3396e401777c7fdf585535bcb34cedf1b662d85a"}]
