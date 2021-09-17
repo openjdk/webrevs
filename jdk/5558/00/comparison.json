@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -498,0 +498,3 @@\n+#endif\n+#ifdef LIBARCH_riscv64\n+  res = \"riscv:rv64\";\n","filename":"src\/utils\/hsdis\/hsdis.c","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
