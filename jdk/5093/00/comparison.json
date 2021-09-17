@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -184,1 +184,0 @@\n-  static PerfCounter* _perf_native_compilation;\n@@ -191,1 +190,0 @@\n-  static PerfCounter* _perf_total_native_compile_count;\n","filename":"src\/hotspot\/share\/compiler\/compileBroker.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
