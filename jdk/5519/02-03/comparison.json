@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,0 +52,3 @@\n+        if (!Platform.isDefaultCDSArchiveSupported())\n+            throw new SkippedException(\"not a supported platform\");\n+\n","filename":"test\/jdk\/tools\/jlink\/plugins\/CDSPluginTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
