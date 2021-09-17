@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * A default implementation is given for Linux, Solaris and Windows.\n+ * A default implementation is given for Linux, Mac OS and Windows.\n","filename":"src\/java.desktop\/share\/classes\/sun\/font\/FontManagerFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
