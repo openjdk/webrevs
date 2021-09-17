@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,2 @@\n+import jtreg.SkippedException;\n+\n","filename":"test\/jdk\/tools\/jlink\/plugins\/CDSPluginTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
