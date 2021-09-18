@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8273959-Some-metaspace-diagnostic-switches-should-be-develop"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/hotspot\/jtreg\/gtest\/MetaspaceGtests.java"}],"sha":"90c575af134aab47171b3ae52be951ff8ed49b72"}]
