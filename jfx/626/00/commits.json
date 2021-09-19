@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8273969\nfix for leak and unit-test"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/QuantumToolkit.java"},{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/scene\/PlatformStartupMemoryLeakTest.java"}],"sha":"7897fd6460e52a8650949e670337b20a7af39728"}]
