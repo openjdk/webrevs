@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run main\/othervm -XX:-ProfileTraps jit.t.t105.t105\n+ * @run main\/othervm -XX:-OmitStackTraceInFastThrow jit.t.t105.t105\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/jit\/t\/t105\/t105.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
