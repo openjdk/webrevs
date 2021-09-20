@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n- * @summary Validate that Files.getFileAttributeView will not throw\n+ * @summary Validate that Files.getFileAttributeView will not throw an\n","filename":"test\/jdk\/jdk\/nio\/zipfs\/testng\/test\/PosixAttributeViewTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
