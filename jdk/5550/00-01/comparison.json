@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,2 +55,1 @@\n-       safepoint      = leaf           +  10,\n-       barrier        = safepoint      +   1,\n+       barrier        = leaf           +  10,\n","filename":"src\/hotspot\/share\/runtime\/mutex.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
