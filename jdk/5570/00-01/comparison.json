@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-vmTestbase\/vm\/mlvm\/anonloader\/stress\/oome\/heap\/Test.java 8273095 generic-all\n+vmTestbase\/vm\/mlvm\/hiddenloader\/stress\/oome\/heap\/Test.java 8273095 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList-Xcomp.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
