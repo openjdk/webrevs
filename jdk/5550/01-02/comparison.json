@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,0 +42,3 @@\n+\/\/ A thread is not allowed to safepoint while holding a mutex whose rank\n+\/\/ is nosafepoint or lower.\n+\n@@ -46,1 +49,1 @@\n-  enum lock_types {\n+  enum Rank {\n","filename":"src\/hotspot\/share\/runtime\/mutex.hpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
