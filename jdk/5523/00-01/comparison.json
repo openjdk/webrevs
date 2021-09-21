@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,2 +87,0 @@\n-        } else if (verifyOpensslVersion(\"\/usr\/bin\/openssl\", version)) {\n-            return \"\/usr\/bin\/openssl\";\n","filename":"test\/lib\/jdk\/test\/lib\/security\/OpensslArtifactFetcher.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
