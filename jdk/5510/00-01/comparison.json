@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -290,6 +290,1 @@\n-try {\n-    checker.scan(dc, p);\n-} catch (Throwable t) {\n-    t.printStackTrace();\n-    throw t;\n-}\n+                    checker.scan(dc, p);\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclint\/DocLint.java","additions":1,"deletions":6,"binary":false,"changes":7,"status":"modified"}]}
