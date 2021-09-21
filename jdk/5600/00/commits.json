@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backout JDK-8270842 because it's buggy."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1EvacFailure.cpp"}],"sha":"1029142866e7d0402ee92e3d992596c9e2a8ef3b"}]
