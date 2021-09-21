@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,0 +65,1 @@\n+        robot.delay(1000);\n@@ -72,0 +73,1 @@\n+        robot.delay(1000);\n","filename":"test\/jdk\/javax\/swing\/RepaintManager\/IconifyTest\/IconifyTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
