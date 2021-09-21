@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -588,1 +588,1 @@\n-                inLen-= len;\n+                inLen-= partlen;\n","filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/GaloisCounterMode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
