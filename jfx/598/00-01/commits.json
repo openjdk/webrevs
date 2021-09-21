@@ -1,0 +1,1 @@
+[{"commit":{"message":"handleFocusDisabled() should bring up the blocker window not the previous one."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/WindowStage.java"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp"}],"sha":"850cfc8ba11bf1eaf6201fcad5aa5ed742d120b1"}]
