@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -402,0 +402,2 @@\n+# No need to run ever test with EpsilonGC. A small subset will provide enough\n+# coverage. Also avoid some tests that may OOM.\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
