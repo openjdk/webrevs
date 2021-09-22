@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -554,1 +554,1 @@\n-     * from same method as the \"causative exception\" is caught.  The above\n+     * from the same method as the \"causative exception\" is caught.  The above\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Throwable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
