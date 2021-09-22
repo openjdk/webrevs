@@ -1,0 +1,1 @@
+[{"commit":{"message":"* Add scope check to UpcallStub::address\n* Beefed up SafeFunctionAccessTest"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/abi\/UpcallStubs.java"},{"filename":"test\/jdk\/java\/foreign\/SafeFunctionAccessTest.java"}],"sha":"4ab40717e256356827898d3ab7517a9e7a94ab62"}]
