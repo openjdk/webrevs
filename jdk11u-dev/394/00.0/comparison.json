@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4245,0 +4245,1 @@\n+    _adrp(reg1, (address)adrp_target);\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
