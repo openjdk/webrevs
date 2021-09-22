@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1403,1 +1403,1 @@\n-  if (comp->is_c2()) {\n+  if (comp->is_c2() || comp->is_jvmci()) {\n","filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
