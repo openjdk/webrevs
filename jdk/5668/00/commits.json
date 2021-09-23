@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274136: -XX:+ExitOnOutOfMemoryError calls exit while threads are running"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.hpp"},{"filename":"src\/hotspot\/share\/utilities\/debug.cpp"}],"sha":"4c5d79428bf528420317f284ce3eaeb0e5c5feab"}]
