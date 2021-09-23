@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename pause_aarch64.hpp to spin_wait_aarch64.hpp"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/spin_wait_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.hpp"}],"sha":"2f8dc2aedea9c98b5b5aeb880c17fe4aef17c6d1"}]
