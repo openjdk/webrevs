@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271303: jcmd VM.cds {static, dynamic}_dump should print more info"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmSymbols.hpp"},{"filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/CDS.java"}],"sha":"e0310efc397bdf8951d818d384402fd3b7606295"}]
