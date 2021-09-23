@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274112: Modify transfer_read_write() not to throw if read or write fails"},"files":[{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/FileChannelImpl.c"},{"filename":"src\/java.base\/windows\/native\/libnio\/ch\/FileChannelImpl.c"}],"sha":"6ad473daa5f31796827da03dab13cd1ab88b709d"}]
