@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -441,1 +441,1 @@\n-        default: fatal(\"MASK_TRUECOUNT: %s\", type2name(bt));\n+        default: fatal(\"MASK_TOLONG: %s\", type2name(bt));\n","filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
