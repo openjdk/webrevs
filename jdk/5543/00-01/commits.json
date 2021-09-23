@@ -1,0 +1,1 @@
+[{"commit":{"message":"Assert that only the name of the JAR file (without its path) is appended"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/ModulePath.java"},{"filename":"test\/jdk\/java\/lang\/module\/AutomaticModulesTest.java"}],"sha":"5afba0bd05b0e997857bc2d39c0e04b0c5fc23c5"}]
