@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -656,4 +656,0 @@\n-\n-    if (![self.nsWindow inLiveResize]) {\n-        [AWTWindow synthesizeMouseEnteredExitedEventsForAllWindows];\n-    }\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/AWTWindow.m","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
