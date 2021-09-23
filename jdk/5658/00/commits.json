@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274205: Handle KDC_ERR_SVC_UNAVAILABLE error code from KDC"},"files":[{"filename":"src\/java.security.jgss\/share\/classes\/sun\/security\/krb5\/KdcComm.java"},{"filename":"src\/java.security.jgss\/share\/classes\/sun\/security\/krb5\/internal\/Krb5.java"}],"sha":"6bf7dfc058fe767c814cd5bdaa0c33b5a150f0b9"}]
