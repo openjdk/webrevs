@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -656,1 +656,1 @@\n-\/\/ int maskReductionCoerced(int oper, Class<? extends M> maskClass, Class<?> elemClass,\n+\/\/ long maskReductionCoerced(int oper, Class<? extends M> maskClass, Class<?> elemClass,\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
