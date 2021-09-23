@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268435: (ch) ChannelInputStream could override readAllBytes"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ChannelInputStream.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Channels\/Basic.java"}],"sha":"11baa3796561e7556822dcc3e74cdeec45ac8175"}]
