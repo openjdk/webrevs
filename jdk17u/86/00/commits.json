@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274215: Remove globalsignr2ca root from 17.0.2"},"files":[{"filename":"make\/data\/cacerts\/globalsignr2ca"},{"filename":"test\/jdk\/sun\/security\/lib\/cacerts\/VerifyCACerts.java"}],"sha":"f136e2c7b142e04948b45c8738642188e3ea27a4"}]
