@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274293: Build failure with Xcode 13.0 due to vfork is deprecated"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/java.base\/unix\/native\/libjava\/ProcessImpl_md.c"}],"sha":"89bb9c31ad6ce290ae2ee3ca60e758afdf208a4e"}]
