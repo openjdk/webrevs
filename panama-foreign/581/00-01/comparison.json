@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,1 @@\n-    public MemoryAddress panama_identity_memory_address() throws Throwable {\n+    public MemoryAddress panama_identity_memory_address_null() throws Throwable {\n","filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/foreign\/CallOverheadVirtual.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
