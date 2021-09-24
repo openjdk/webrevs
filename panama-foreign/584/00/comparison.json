@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-            var allocator = SegmentAllocator.arenaAllocator(C_POINTER.byteSize(), scope);\n+            var allocator = SegmentAllocator.arenaBounded(C_POINTER.byteSize(), scope);\n","filename":"test\/jdk\/tools\/jextract\/test8246341\/LibTest8246341Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
