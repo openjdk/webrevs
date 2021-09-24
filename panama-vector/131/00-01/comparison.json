@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1498,1 +1498,1 @@\n-      if (UseSSE < 3) {\n+      if (UseSSE < 4) {\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
