@@ -1,0 +1,1 @@
+[{"commit":{"message":"8250678: ModuleDescriptor.Version parsing treats empty segments inconsistently"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/module\/ModuleDescriptor.java"},{"filename":"test\/jdk\/java\/lang\/module\/VersionTest.java"}],"sha":"86defea9ddbab01908617d995c9750c794217f89"}]
