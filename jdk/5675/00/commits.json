@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274265: Suspicious string concatenation in test code"},"files":[{"filename":"test\/hotspot\/gtest\/logging\/logTestUtils.inline.hpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_logFileOutput.cpp"}],"sha":"b8af64779b7f4b8db5c71f0b633f0f9870c1aa95"}]
