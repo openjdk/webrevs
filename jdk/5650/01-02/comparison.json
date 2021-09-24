@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -278,1 +278,1 @@\n-          \"occurring at object copying\")                                    \\\n+          \"occurring at object copying per thread\")                         \\\n","filename":"src\/hotspot\/share\/gc\/g1\/g1_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
