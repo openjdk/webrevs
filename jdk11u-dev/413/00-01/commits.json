@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changed _safepoint_counter from uint64_t to int"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciMethodData.cpp"}],"sha":"3b2baa583e3e931e77ffcbf758aa619c01aa7456"}]

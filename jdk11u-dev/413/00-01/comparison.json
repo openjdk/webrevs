@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-  uint64_t               _safepoint_counter;\n+  int                    _safepoint_counter;\n","filename":"src\/hotspot\/share\/ci\/ciMethodData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
