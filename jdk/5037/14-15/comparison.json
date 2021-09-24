@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,0 +114,2 @@\n+  assert(dest_attr.is_in_cset() == (obj->forwardee() == obj),\n+         \"Only evac-failed objects must be in the collection set here but \" PTR_FORMAT \" is not\", p2i(obj));\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ParScanThreadState.inline.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
