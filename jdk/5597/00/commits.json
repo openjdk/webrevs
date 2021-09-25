@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Remove reentrant synchronized block in java.awt.Cursor.loadSystemCustomCursorProperties\n\nNo need to use 'synchronized(systemCustomCursors)' in 2 places. One is enough."},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/Cursor.java"}],"sha":"9041bfa04ec78135cba98ca09fb65fd442ace927"}]
