@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,1 +169,1 @@\n-    public long testToLonglong(Blackhole bh) {\n+    public long testToLongInt(Blackhole bh) {\n","filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/MaskQueryOperationsBenchmark.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
