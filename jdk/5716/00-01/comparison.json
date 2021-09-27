@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1449,1 +1449,1 @@\n-      (n->Opcode() == Op_CastII && ((CastIINode*)n)->has_range_check())) {\n+      !n->is_Type()) {\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
