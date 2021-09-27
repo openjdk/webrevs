@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274391: Suppress more warnings on non-serializable non-transient instance fields in java.util.concurrent"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinTask.java"}],"sha":"a20d9afbd7b49b452b3c9bdc9f2d56442b5e2fc6"}]
