@@ -1,0 +1,1 @@
+[{"commit":{"message":"MSVC barfs when precompiled.hpp is not included in .cpp that is \"if 0\"-ed. Bad MSVC. Bad."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/oopMapStubGenerator_x86.cpp"}],"sha":"4689f94f434e4b7455ed1ad933d4368e50c680b0"}]

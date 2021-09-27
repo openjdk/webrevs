@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,2 @@\n+#include \"precompiled.hpp\"\n+\n@@ -27,2 +29,0 @@\n-\n-#include \"precompiled.hpp\"\n","filename":"src\/hotspot\/cpu\/x86\/oopMapStubGenerator_x86.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
