@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1601,1 +1601,1 @@\n-  oop o = NativeAccess<AS_NO_KEEPALIVE>::oop_load(obj_p);\n+  oop o = *obj_p;\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

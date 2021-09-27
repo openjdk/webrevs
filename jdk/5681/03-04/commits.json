@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove load barrier for JNI local roots"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"}],"sha":"db77cdaa5d2794530b413cb10ea592e2e9a16aad"}]
