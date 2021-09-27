@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274401: C2: GraphKit::load_array_element bypasses Access API"},"files":[{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"src\/hotspot\/share\/opto\/graphKit.hpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"}],"sha":"cff80206a02cd7f53ac88c8d3d3d609a17434d2f"}]
