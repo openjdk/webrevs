@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-    GET_CACCESSIBILITY_CLASS_RETURN(nil);\n+    GET_CACCESSIBILITY_CLASS_RETURN(NSZeroSize);\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/JavaAccessibilityUtilities.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
