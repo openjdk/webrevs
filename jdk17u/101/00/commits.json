@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270886: Crash in PhaseIdealLoop::verify_strip_mined_scheduling\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestRenumberLiveNodesInfiniteLoop.java"}],"sha":"69a35b3f109f7c99f0fcded57bd2146ff7955474"}]
