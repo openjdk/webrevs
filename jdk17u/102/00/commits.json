@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271600: C2: CheckCastPP which should closely follow Allocate is sunk of a loop\n\nReviewed-by: chagedorn, roland"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"}],"sha":"b246943baee0deeb61e717f406b85c2248aa728b"}]
