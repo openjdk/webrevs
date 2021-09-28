@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert alignment of 64-bytes; Add align64()"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/globals_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"f6eefd34fa49542cd958642e46223386497d365f"}]
