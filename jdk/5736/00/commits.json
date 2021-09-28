@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8274435: EXCEPTION_ACCESS_VIOLATION in BFSClosure::closure_impl"},"files":[{"filename":"src\/hotspot\/share\/jfr\/leakprofiler\/chains\/bitset.inline.hpp"}],"sha":"3fd8ccec25ec91eb2336a3b54fec69530d619523"}]
