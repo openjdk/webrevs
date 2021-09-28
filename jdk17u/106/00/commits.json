@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271341: Opcode() != Op_If && Opcode() != Op_RangeCheck) || outcnt() == 2 assert failure with Test7179138_1.java\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/Test7179138_1.java"}],"sha":"fa53794eb36a61ce16ab0467c67420ea848c0785"}]
