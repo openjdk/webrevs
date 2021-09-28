@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -394,1 +394,1 @@\n-    \/\/ Whitelist of annotation classes that are allowed, even though\n+    \/\/ List of annotation classes that are allowed, even though\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/AnnotationElement.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
