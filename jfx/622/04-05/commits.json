@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8273485\nremoved the toggle fullscreen before closing - to avoid the beep and improve the user experience"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassViewDelegate.m"}],"sha":"e263f379a23d3b79b91da31e5bc09d16d329aee4"}]

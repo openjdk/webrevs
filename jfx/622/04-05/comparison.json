@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1345,1 +1345,0 @@\n-            [self->nativeFullScreenModeWindow performSelector:@selector(toggleFullScreen:) withObject:nil];\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassViewDelegate.m","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
