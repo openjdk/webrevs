@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274074: SIGFPE with C2 compiled code with -XX:+StressGCM\n\nReviewed-by: roland, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestSinkingDivisorLostPin.java"}],"sha":"a8c42ff3f4d9d5e7c1cf5db7435414cbdcf3dca3"}]
