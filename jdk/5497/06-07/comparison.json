@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -656,0 +656,4 @@\n+\n+    if (([self.nsWindow styleMask] & NSWindowStyleMaskFullScreen) != 0) {\n+        [AWTWindow synthesizeMouseEnteredExitedEventsForAllWindows];\n+    }\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/AWTWindow.m","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
