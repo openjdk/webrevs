@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -930,1 +930,1 @@\n-    if (top != NULL && plab->waste() > waste) {\n+    if (top != NULL && plab->waste() > waste && is_in_old(top)) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
