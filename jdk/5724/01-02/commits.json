@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274397: Stop setting env. var JAVA_MAIN_CLASS_<pid> in launcher code"},"files":[{"filename":"src\/java.base\/macosx\/native\/libjli\/java_md_macosx.m"}],"sha":"96a5590cb8c8bd1fd04e8e72320932522c5f9f36"}]
