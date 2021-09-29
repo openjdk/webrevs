@@ -1,0 +1,1 @@
+[{"commit":{"message":"Exit bulk free if in place relocation happens"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp"}],"sha":"639ca2fe1d3199a3498a44e7b06c6f77430646cb"},{"commit":{"message":"Bulk free in relocate"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp"}],"sha":"1b16e9ddf3cf10c4b94b934716a0b44315e2ddb0"}]
