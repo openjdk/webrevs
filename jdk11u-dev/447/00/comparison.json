@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-                s.connect(remote, 2000);\n+                s.connect(remote, 10000);\n","filename":"test\/jdk\/java\/net\/Socket\/Timeouts.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
