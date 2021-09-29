@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1181,2 +1181,0 @@\n-  \/\/ 8273459: Ensure alignment is possible with current segment alignment\n-  assert(modulus <= CodeEntryAlignment, \"Alignment must be <= CodeEntryAlignment\");\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
