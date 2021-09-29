@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,0 @@\n-#if INCLUDE_JVMTI\n@@ -88,1 +87,0 @@\n-#endif\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
