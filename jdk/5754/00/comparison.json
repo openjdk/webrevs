@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -279,1 +279,1 @@\n-  __ ldr(rscratch2, Address(rscratch1, ClassLoaderData::keep_alive_offset()));\n+  __ ldrw(rscratch2, Address(rscratch1, ClassLoaderData::keep_alive_offset()));\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/shared\/barrierSetAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

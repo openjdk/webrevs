@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274501: c2i entry barriers read int as long on AArch64"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/shared\/barrierSetAssembler_aarch64.cpp"}],"sha":"a354eef78f10f1f6618554e73a342f96ab676773"}]
