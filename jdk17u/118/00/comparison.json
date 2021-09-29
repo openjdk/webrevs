@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,1 +113,1 @@\n-            while (!stop.get()) {\n+            while (!stop.get() && !isComplete()) {\n","filename":"test\/jdk\/java\/awt\/color\/ICC_ColorSpace\/MTTransformReplacedProfile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
