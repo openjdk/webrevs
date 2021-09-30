@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -636,1 +636,1 @@\n-    [ \"linux-x64\", \"macosx-x64\", \"windows-x64\" ]\n+    [ \"linux-x64\", \"macosx-x64\", \"windows-x64\", \"linux-aarch64\" ]\n","filename":"make\/conf\/jib-profiles.js","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
