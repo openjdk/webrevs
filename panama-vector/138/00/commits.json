@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274533: [Vector API] Incorrect computation by VectorMask.toLong operation after JDK-8273949"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorMaskToLong.java"}],"sha":"bc5a36a6f31c5f4a2785421b27383315e378ee8d"}]
