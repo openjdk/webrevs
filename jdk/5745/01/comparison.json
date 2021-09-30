@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-  bool in_mixed_phase() const { return !in_young_only_phase() && !_in_full_gc; }\n+  bool in_mixed_phase() const { return !_in_young_only_phase && !_in_full_gc; }\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectorState.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
