@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-            client.setSoTimeout(2000);\n+            client.setSoTimeout(10000);\n","filename":"test\/jdk\/sun\/net\/ftp\/TestFtpTimeValue.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
