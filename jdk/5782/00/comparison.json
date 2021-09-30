@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -320,1 +320,1 @@\n-#ifdef _SYS_XATTR_H_\n+#if defined(_SYS_XATTR_H) || defined(_SYS_XATTR_H_)\n@@ -1333,1 +1333,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"src\/java.base\/unix\/native\/libnio\/fs\/UnixNativeDispatcher.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
