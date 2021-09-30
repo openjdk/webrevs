@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274550: c2i entry barriers read int as long on PPC"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetAssembler_ppc.cpp"}],"sha":"0a71308bd6fb04deb390e71c8c22396555e13edb"}]

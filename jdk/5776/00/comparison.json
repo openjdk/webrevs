@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,1 +181,1 @@\n-  __ ld(tmp2, in_bytes(ClassLoaderData::keep_alive_offset()), tmp1_class_loader_data);\n+  __ lwz(tmp2, in_bytes(ClassLoaderData::keep_alive_offset()), tmp1_class_loader_data);\n","filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetAssembler_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
