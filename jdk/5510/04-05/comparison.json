@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -225,1 +225,1 @@\n-        return Position.NOPOS;\n+        return NOPOS;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/tree\/DCTree.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
