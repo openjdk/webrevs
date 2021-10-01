@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reimplemented readLock, added lock in readHandshakeRecord"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketImpl.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketInputRecord.java"}],"sha":"065073d17a35ccd67c21c7cec5a9502b4db7f8a0"}]
