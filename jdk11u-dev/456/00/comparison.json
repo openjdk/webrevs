@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -344,0 +344,9 @@\n+tier2 = \\\n+  :hotspot_tier2_runtime \\\n+  :hotspot_tier2_runtime_platform_agnostic \\\n+  :tier2_gc_shenandoah\n+\n+tier3 = \\\n+  :hotspot_tier3_runtime \\\n+  :tier3_gc_shenandoah\n+\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":9,"deletions":0,"binary":false,"changes":9,"status":"modified"}]}
