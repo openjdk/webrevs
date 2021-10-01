@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274397: Stop setting env. var JAVA_MAIN_CLASS_<pid> in launcher code"},"files":[{"filename":"test\/jdk\/tools\/launcher\/MacOSAppNamePropertyTest.java"},{"filename":"test\/jdk\/tools\/launcher\/SystemPropertyTest.java"}],"sha":"4c8fb9af866c6b5b276cbe51362deee65b4ecd7a"}]
