@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-        \/\/ tests input stream with a lenght between 1k and 4k\n+        \/\/ tests input stream with a length between 1k and 4k\n","filename":"test\/jdk\/java\/nio\/channels\/Channels\/TransferTo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
