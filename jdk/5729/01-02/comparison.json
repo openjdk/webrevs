@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,0 +80,3 @@\n+  ~markWord() = default;\n+  markWord(const markWord&) = default;\n+  markWord& operator=(const markWord&) = default;\n","filename":"src\/hotspot\/share\/oops\/markWord.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
