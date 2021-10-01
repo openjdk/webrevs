@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274349: ForkJoinPool.commonPool() does not work with 1 CPU"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/forkjoin\/Uniprocessor.java"}],"sha":"7199b2b6152a039b5206cd897f20086be18ae022"}]
