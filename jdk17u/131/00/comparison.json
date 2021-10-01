@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @requires (vm.simpleArch == \"x64\")\n+ * @requires vm.cpu.features ~= \".*sse4.*\"\n","filename":"test\/hotspot\/jtreg\/compiler\/cpuflags\/TestSSE4Disabled.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
