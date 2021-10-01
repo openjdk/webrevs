@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Replace 'while' cycles with iterator with enhanced-for in jdk.hotspot.agent"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/DeadlockDetector.java"},{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/ui\/FindInHeapPanel.java"}],"sha":"d6430625c3e5576d6c7d656a4f0772ee9c06dece"}]
