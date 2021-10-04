@@ -1,0 +1,1 @@
+[{"commit":{"message":"Minor addition: Copyright header and don't synchronize on close() in DTLSInputRecord"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/DTLSInputRecord.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/DTLSOutputRecord.java"}],"sha":"a75d36e9401d666e14cc33a0271f61e029ccac0e"}]
