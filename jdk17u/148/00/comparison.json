@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -305,0 +305,2 @@\n+ -runtime\/Metaspace\/elastic\/TestMetaspaceAllocationMT1.java \\\n+ -runtime\/Metaspace\/elastic\/TestMetaspaceAllocationMT2.java \\\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
