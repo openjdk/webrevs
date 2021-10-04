@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix: use `Long#hashCode(long)` for `UUID#hashCode()`"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/UUID.java"}],"sha":"47df59662968b796a649682246e10d2ac2aa6589"}]

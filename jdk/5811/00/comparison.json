@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -471,2 +471,1 @@\n-        long hilo = mostSigBits ^ leastSigBits;\n-        return ((int)(hilo >> 32)) ^ (int) hilo;\n+        return Long.hashCode(mostSigBits ^ leastSigBits);\n","filename":"src\/java.base\/share\/classes\/java\/util\/UUID.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
