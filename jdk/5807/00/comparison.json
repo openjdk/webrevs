@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-  return NULL;\n+  return vmSymbols::void_signature(); \/\/ return a default value (for code analyzers)\n","filename":"src\/hotspot\/share\/runtime\/fieldDescriptor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
