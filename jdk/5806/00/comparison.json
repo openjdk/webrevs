@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,3 @@\n+ * @implSpec the default implementations of methods either return false, null\n+ *           or do nothing and does not throw any exceptions\n+ *\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/im\/InputContext.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
