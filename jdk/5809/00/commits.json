@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274738: ZGC: Use relaxed atomic load when reading bits in the live map"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zLiveMap.inline.hpp"}],"sha":"86d03fed16a11bf58ae3919f71ed5239c4d18d6f"}]
