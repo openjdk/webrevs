@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -370,1 +370,1 @@\n-  const Register rthread = NOT_LP64(rdi) LP64_ONLY(r15_thread);\n+  const Register rthread = NOT_LP64(rcx) LP64_ONLY(r15_thread);\n","filename":"src\/hotspot\/cpu\/x86\/templateInterpreterGenerator_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
