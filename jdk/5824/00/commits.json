@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274780: ChannelInputStream.readNBytes(int) incorrectly calls readAllBytes()"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ChannelInputStream.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Channels\/ReadXBytes.java"}],"sha":"ef27e26f1723994e80aa6007f6fa186f725bf6f6"}]
