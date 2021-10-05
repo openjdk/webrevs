@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -319,2 +319,0 @@\n-        \/\/ if the checksum type is one of the keyed checksum types,\n-        \/\/ use session key.\n","filename":"src\/java.security.jgss\/share\/classes\/sun\/security\/krb5\/KrbTgsReq.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
