@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 75d987a0dd6f8cc41808f7ba566e914817e465dc"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/lambda\/8262095\/T8262095.java"},{"filename":"test\/langtools\/tools\/javac\/lambda\/8262095\/T8262095.out"}],"sha":"82cd0d2eb7d785aa52226449da7b3a872888adf8"}]
