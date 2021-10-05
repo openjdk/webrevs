@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274793: Suppress warnings on non-serializable non-transient instance fields in sun.net"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/http\/KeepAliveCache.java"},{"filename":"src\/java.base\/unix\/classes\/sun\/net\/www\/protocol\/http\/ntlm\/NTLMAuthentication.java"}],"sha":"826753ef56ae4c9032f18fad7543012aed282816"}]
