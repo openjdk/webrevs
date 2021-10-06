@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,1 +216,0 @@\n-                        buf.position(pos);  \/\/ temporarily restore position in user buffer\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/IOUtil.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
