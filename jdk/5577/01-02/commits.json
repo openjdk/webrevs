@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274755: Replace 'while' cycles with iterator with enhanced-for in jdk.jdi\nremove empty space before casts in InvokableTypeImpl too"},"files":[{"filename":"src\/jdk.jdi\/share\/classes\/com\/sun\/tools\/jdi\/InvokableTypeImpl.java"}],"sha":"669f2a31466a3fb4b3aaa9d14bf5ef34c13ffc8c"}]
