@@ -1,0 +1,1 @@
+[{"commit":{"message":"Inline usage of pointer_delta\n\nCard table sometimes erroneously triggers assert added in JDK-8260046"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/cardTable.hpp"}],"sha":"fc999d29a01306b6c18999100a6c69bd22003c16"}]

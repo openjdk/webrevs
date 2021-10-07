@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -191,1 +191,1 @@\n-    size_t delta = pointer_delta(p, _byte_map_base, sizeof(CardValue));\n+    size_t delta =  (((uintptr_t) p) - ((uintptr_t) _byte_map_base)) \/ sizeof(CardValue);\n","filename":"src\/hotspot\/share\/gc\/shared\/cardTable.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
