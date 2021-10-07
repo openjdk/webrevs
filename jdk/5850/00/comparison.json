@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -359,1 +359,1 @@\n-        return normalize(userDir);\n+        return userDir;\n","filename":"src\/java.base\/windows\/classes\/java\/io\/WinNTFileSystem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
