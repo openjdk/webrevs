@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,2 +66,3 @@\n-    private String manifestFileName;\n-    private Manifest man;\n+\n+    private final String manifestFileName; \/\/ never null\n+    private final Manifest man;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/ManifestEntryVerifier.java","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
