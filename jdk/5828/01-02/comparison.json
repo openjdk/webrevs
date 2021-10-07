@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1410,1 +1410,1 @@\n-    __ pop(RegSet::range(r18, r30), sp);\n+    __ pop(RegSet::range(r18_tls, r30), sp);\n","filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
