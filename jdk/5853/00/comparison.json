@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,3 @@\n+\n+compiler\/vectorapi\/VectorCastShape64Test.java 8274855 generic-x64\n+compiler\/vectorapi\/VectorCastShape128Test.java 8274855 generic-x64\n","filename":"test\/hotspot\/jtreg\/ProblemList-Xcomp.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
