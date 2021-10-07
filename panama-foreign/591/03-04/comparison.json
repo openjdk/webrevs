@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -230,1 +230,1 @@\n-     * Create a new shared scope, managed by the provided cleaner instance.\n+     * Creates a new shared scope, managed by the provided cleaner instance.\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/ResourceScope.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
