@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274319: Replace usages of Collections.sort with List.sort call in jdk.jfr\nfix post-review comments"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/dcmd\/AbstractDCmd.java"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/tool\/Summary.java"}],"sha":"0003b0e23e86254a6e11705244f5dfe5021205bd"}]
