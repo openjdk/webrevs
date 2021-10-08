@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the remaining mentions of AOT"},"files":[{"filename":"src\/hotspot\/share\/aot\/aotCompiledMethod.hpp"},{"filename":"src\/hotspot\/share\/aot\/compiledIC_aot.hpp"},{"filename":"test\/hotspot\/jtreg\/ProblemList-vthread.txt"}],"sha":"a4d57ec3e321333772f49a6a1e71052c88ab78bf"}]
