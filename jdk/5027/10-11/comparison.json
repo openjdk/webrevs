@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -288,1 +288,0 @@\n-        c = nextRnd();\n@@ -510,1 +509,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/reflect\/ReflectionSpeedBenchmark.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
