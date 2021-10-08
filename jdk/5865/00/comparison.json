@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-  _alloc_failure_waiters_lock(Mutex::safepoint, \"ShenandoahAllocFailureGC_lock\", true),\n+  _alloc_failure_waiters_lock(Mutex::safepoint-2, \"ShenandoahAllocFailureGC_lock\", true),\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
