@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update copyright year"},"files":[{"filename":"make\/hotspot\/lib\/CompileGtest.gmk"}],"sha":"ee5c244562801a53b579c273365cedfa93a9f82c"},{"commit":{"message":"8275008: gtest build failure due to stringop-overflow warning with gcc11"},"files":[{"filename":"make\/hotspot\/lib\/CompileGtest.gmk"}],"sha":"0a10a5a7032b28ae24f06bba37303b057561e86c"}]
