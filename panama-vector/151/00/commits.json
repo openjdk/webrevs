@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275025: Unable to inline vectmask convert\n\nJDK-8274631 introduced an incorrect fix, which blocked all vector mask\ncast operations, since currently a vector mask type is also a vector\ntype (See Type::isa_vect())."},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"07ba4e902e33efced5ff82d901170779e997566f"}]
