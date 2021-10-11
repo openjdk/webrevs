@@ -1,0 +1,1 @@
+[{"commit":{"message":"275002: Remove unused AbstractStringBuilder.MAX_ARRAY_SIZE\nupdate javadoc of 'newCapacity' method to refer ArraysSupport.SOFT_MAX_ARRAY_LENGTH instead"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java"}],"sha":"4ba785b35e767c42c4a2349b4224f839428dfd14"}]
