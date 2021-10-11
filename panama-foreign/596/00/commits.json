@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle races between release vs. acquire in confined scopes."},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/ConfinedScope.java"},{"filename":"test\/jdk\/java\/foreign\/TestResourceScope.java"}],"sha":"0befcbe5c154f1529bd2b0c074090c01a234d44b"}]
