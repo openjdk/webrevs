@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274548: On macOS, remove dependence on Darwin version in native writevMax()"},"files":[{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/IOUtil.c"}],"sha":"079ce1950734b1aa97654843d028d449bf65a32d"}]
