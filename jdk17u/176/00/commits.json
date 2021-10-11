@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272562: C2: assert(false) failed: Bad graph detected in build_loop_late\n\nReviewed-by: chagedorn, kvn"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestSunkCastOnUnreachablePath.java"}],"sha":"e1ba859a82cda664485891cd414c330677502def"}]
