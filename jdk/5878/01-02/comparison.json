@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,1 +239,1 @@\n-     * <code>({@link ArraysSupport#SOFT_MAX_ARRAY_LENGTH} >> coder)<\/code>\n+     * {@code (SOFT_MAX_ARRAY_LENGTH >> coder)}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
