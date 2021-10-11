@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,1 +178,1 @@\n-  double z,fw,f[20],fq[20],q[20];\n+  double z,fw,f[20],fq[20] = {0.0} ,q[20];\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntimeTrig.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

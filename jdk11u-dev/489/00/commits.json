@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into gcc-10.2.1"},"files":[],"sha":"b93f0a7cd4ed7463499fef6357c64ec3cddb4ba1"},{"commit":{"message":"Fix uninitialized warnings with GCC-10.2.1."},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntimeTrig.cpp"}],"sha":"394acaf923b61a18dab425d9711e2ab520b248a2"}]
