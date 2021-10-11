@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1339,1 +1339,1 @@\n-  develop(int, ErrorLogPrintCodeLimit, 3,                                   \\\n+  product(int, ErrorLogPrintCodeLimit, 3, DIAGNOSTIC,                       \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
