@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix eager toString conversion for compound assignment"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/StringConcat.java"},{"filename":"test\/langtools\/tools\/javac\/StringConcat\/StringAppendEvaluatesInOrder.java"}],"sha":"53dddf6d29e2b1b7f5ad332340d640f75e527162"}]
