@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274879: Replace uses of StringBuffer with StringBuilder within java.base classes\nrevert changes in spec to avoid CSR"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Character.java"}],"sha":"c8d68c2a07d880c3a5658452c50bfe537b632d61"}]
