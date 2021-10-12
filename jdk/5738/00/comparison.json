@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,0 @@\n-    requires transitive jdk.jfr;\n@@ -37,0 +36,1 @@\n+    requires transitive jdk.jfr;\n","filename":"src\/jdk.management.jfr\/share\/classes\/module-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
