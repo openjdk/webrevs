@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,0 +157,1 @@\n+        applyIf = {\"TieredCompilation\", \"true\"},\n@@ -178,0 +179,1 @@\n+        applyIf = {\"TieredCompilation\", \"true\"},\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestPostParseCallDevirtualization.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
