@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change to VM unconditionally as long as current thread is JavaThread.\n\nHoist VMErrorForceNative out of While."},"files":[{"filename":"src\/hotspot\/share\/runtime\/interfaceSupport.inline.hpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.cpp"}],"sha":"09d59f4777e11d62878174f0f5a0fcfb8835398b"}]
