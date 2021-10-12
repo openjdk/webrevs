@@ -1,0 +1,1 @@
+[{"commit":{"message":"7419: Insecure XML parsing: XXE injection"},"files":[{"filename":"agent\/src\/main\/java\/org\/openjdk\/jmc\/agent\/impl\/DefaultTransformRegistry.java"}],"sha":"9ef7ce02263f89be9059fea50c20de6905834218"}]
