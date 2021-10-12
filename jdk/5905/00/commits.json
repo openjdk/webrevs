@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275097: Wrong span of the 'default' tag"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/parser\/JavacParserTest.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/SwitchErrors.out"}],"sha":"c10d093fa6be958d27db072208f794d399ad3d1f"}]
