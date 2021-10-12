@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n- *                    Notifies \"main\" about it.\n+ *                    The JDWP agent notifies \"main\" about it.\n","filename":"test\/jdk\/com\/sun\/jdi\/ResumeAfterThreadResumeCallTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
