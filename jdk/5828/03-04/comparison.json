@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1400,1 +1400,1 @@\n-    __ push_CPU_state();\n+    __ push_call_clobbered_registers();\n@@ -1404,1 +1404,1 @@\n-    __ pop_CPU_state();\n+    __ pop_call_clobbered_registers();\n","filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
