@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -498,0 +498,1 @@\n+     * @throws ReadOnlyBufferException if the given output buffer is read-only\n@@ -677,0 +678,1 @@\n+     * @throws ReadOnlyBufferException if the given output buffer is read-only\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/Deflater.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
