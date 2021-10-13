@@ -1,0 +1,1 @@
+[{"commit":{"message":"4619075: (ch) newChannel() should return Gathering\/ScatteringByteChannel"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/Channels.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Channels\/GatherAndScatter.java"}],"sha":"fd41d0fb21a3561fbfcef608687740779b2682c5"}]
