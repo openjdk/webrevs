@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,0 +58,1 @@\n+    @SuppressWarnings(\"serial\") \/\/ Array component type is not Serializable\n","filename":"src\/jdk.management\/share\/classes\/com\/sun\/management\/internal\/GcInfoCompositeData.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

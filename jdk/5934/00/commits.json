@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8275244: Suppress warnings on non-serializable array component types in jdk.management"},"files":[{"filename":"src\/jdk.management\/share\/classes\/com\/sun\/management\/internal\/GcInfoCompositeData.java"}],"sha":"2d8ff29bb1e47b6e04dcbf32d5765ef9f144dbe7"}]
