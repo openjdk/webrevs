@@ -1,0 +1,1 @@
+[{"commit":{"message":"forgot to handle non aarch64 architecture"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"9d3fcaa1fce53972cafc24026ccc58dbba5d5a32"},{"commit":{"message":"do not report CPU speed on M1, because macOS does not provide it"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"3cc9f5f0fec2cee4d45ce322655369b180dae252"}]
