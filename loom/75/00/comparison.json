@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3210,0 +3210,1 @@\n+#if (defined(X86) || defined(AARCH64)) && !defined(ZERO)\n@@ -3211,0 +3212,4 @@\n+#else\n+  frame sender = frame();\n+  Unimplemented();\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/continuation.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
