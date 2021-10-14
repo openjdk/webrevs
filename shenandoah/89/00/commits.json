@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not coalesce dead objects in global cycle if GC was cancelled"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp"}],"sha":"5d3e7028217ef134f43f1da11cb44b454893dcac"}]
