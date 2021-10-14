@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274131: [lworld] [aarch64] ClassInitializationFailuresTest.java stop: klass not initialized\n\nThis check was removed on x86 as part of JDK-8273650."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"}],"sha":"019f368188500542f1e25d450abef41b0b654bce"}]
