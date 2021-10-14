@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -969,0 +969,1 @@\n+        region->reset_coalesce_and_fill_boundary();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
