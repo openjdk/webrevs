@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reinstate r15_thread reinitialization"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"b4b6c696b8d9e43f88cbd6ccd1220e42959c3fde"},{"commit":{"message":"Drop x86_32 code from x86_64-specific files"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"6441e303210ff823dbabc60cb91e682428afcd3d"}]
