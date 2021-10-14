@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2588,1 +2588,1 @@\n-    \/\/ array classes aren't observed while they are being created.\n+    \/\/ array classes aren't observed while they are being restored.\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
