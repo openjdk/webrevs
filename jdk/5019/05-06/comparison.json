@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -146,0 +146,1 @@\n+    *_path_buffer = '\\0';\n","filename":"src\/hotspot\/share\/jfr\/recorder\/repository\/jfrEmergencyDump.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
