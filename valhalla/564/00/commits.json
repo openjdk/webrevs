@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275276: [lworld] C2 compilation fails with assert \"adr_type for memory phis only\""},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLoopUnswitchingWithFlatArrayCheck.java"}],"sha":"d4fcf909fd2476e7777ad33041eae1fcd61fbcb6"}]
