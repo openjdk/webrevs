@@ -1,0 +1,1 @@
+[{"commit":{"message":"* Fix javadoc issue in VaList\n* Fix bug in concurrent logic for shared scope acquire"},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/incubator\/foreign\/VaList.java"},{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/SharedScope.java"}],"sha":"5ed94c30ced640092fa4788d70d0ea9b5b27911a"}]
