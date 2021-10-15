@@ -1,0 +1,1 @@
+[{"commit":{"message":"8257534: vmTestbase\/gc\/lock\/jvmti\/alloc\/jvmtialloclock03\/TestDescription.java failed with \"NoClassDefFoundError: Could not initialize class java.util.concurrent.ThreadLocalRandom\""},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/gc\/gp\/GarbageUtils.java"}],"sha":"e302daf9dca055db68a099b67e1eda207d729bf7"}]
