@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,1 +131,1 @@\n-            DECLARE_METHOD(sjm_handleGestureFromNative, jc_GestureHandler,\n+            DECLARE_STATIC_METHOD(sjm_handleGestureFromNative, jc_GestureHandler,\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/AWTWindow.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
