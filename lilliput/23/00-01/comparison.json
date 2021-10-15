@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -339,0 +339,1 @@\n+#ifdef _LP64\n@@ -355,0 +356,3 @@\n+#else\n+  return forward_to_atomic(oop(this), compare, order);\n+#endif\n","filename":"src\/hotspot\/share\/oops\/oop.inline.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
