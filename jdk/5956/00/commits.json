@@ -1,0 +1,1 @@
+[{"commit":{"message":"Throw SocketExceptions instead of Errors in NetworkInterface"},"files":[{"filename":"src\/java.base\/windows\/native\/libnet\/NetworkInterface.c"},{"filename":"src\/java.base\/windows\/native\/libnet\/NetworkInterface_winXP.c"}],"sha":"2322f15d4c5bf1efbdc65eb4ec30662b30bf2d5e"}]
