@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1030,1 +1030,1 @@\n-            execute(ptr -> nativePushNSWindowToFront(ptr));\n+            orderAboveSiblings();\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CPlatformWindow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
