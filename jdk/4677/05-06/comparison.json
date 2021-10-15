@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -624,1 +624,1 @@\n-    for (; state != NULL; state = state->next()) {\n+    for (; state != nullptr; state = state->next()) {\n","filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
