@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix self-forwarding on 32 bit platforms"},"files":[{"filename":"src\/hotspot\/share\/oops\/oop.inline.hpp"},{"filename":"test\/hotspot\/gtest\/gc\/shared\/test_preservedMarks.cpp"}],"sha":"5b39c96265b3536bbf06c6fe46aaf332f9f16cde"}]
