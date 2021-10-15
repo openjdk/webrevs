@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -630,0 +630,3 @@\n+                for (String line : lines) {\n+                    logger.accept(line);\n+                }\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/config\/JDK.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
