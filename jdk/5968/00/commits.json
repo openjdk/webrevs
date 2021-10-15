@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275334: Move class loading Events to a separate section in hs_err files"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/utilities\/events.cpp"},{"filename":"src\/hotspot\/share\/utilities\/events.hpp"}],"sha":"315dfd7829dc0621ea9613727145cd3cdeba7080"}]
