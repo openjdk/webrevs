@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-  ThreadToNativeFromVM transition(JavaThread::current());\n+  ThreadBlockInVM transition(JavaThread::current());\n","filename":"src\/hotspot\/share\/jfr\/recorder\/service\/jfrPostBox.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
