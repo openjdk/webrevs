@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -232,1 +232,1 @@\n-    DWORD ret, flags;\n+    int ret, flags;\n","filename":"src\/java.base\/windows\/native\/libnet\/NetworkInterface_winXP.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
