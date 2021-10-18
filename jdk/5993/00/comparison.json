@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-    size_t num_chunks = (total_bytes + chunk_size - 1) \/ chunk_size;\n+    size_t num_chunks = ((total_bytes - 1) \/ chunk_size) + 1;\n","filename":"src\/hotspot\/share\/gc\/shared\/pretouchTask.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
