@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,1 +114,1 @@\n-  assert(dest_attr.is_in_cset() == (obj->forwardee() == obj),\n+  assert(dest_attr.is_in_cset() == (obj->is_forwarded() && obj->forwardee() == obj),\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ParScanThreadState.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
