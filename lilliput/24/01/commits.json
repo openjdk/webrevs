@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert unrelated changes"},"files":[],"sha":"30625a4e78ee4eb141b681b0f09c98c70f0f213b"},{"commit":{"message":"Use jmp instead of jmpb in load_klass asm routine"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vtableStubs_x86_64.cpp"}],"sha":"818132d0f3dc32f33829f0617f45ebf63b8b4e4d"}]
