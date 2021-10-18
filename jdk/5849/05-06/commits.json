@@ -1,0 +1,1 @@
+[{"commit":{"message":"Call blockOnDebuggerSuspend() after setup of the resumer tracking."},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/threadControl.c"},{"filename":"test\/jdk\/com\/sun\/jdi\/ResumeAfterThreadResumeCallTest.java"}],"sha":"0b0fef0e6670c20a0e1e34323847c5a622878469"}]
