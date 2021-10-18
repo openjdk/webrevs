@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -290,1 +290,1 @@\n-  assert(old_next != nullptr, \"only static mutexes don't have a next\");\n+  assert(old_next != nullptr, \"this list can never be empty\");\n","filename":"src\/hotspot\/share\/runtime\/mutex.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
