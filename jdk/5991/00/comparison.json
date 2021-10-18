@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -396,1 +396,0 @@\n-  void set_array_klasses(ObjArrayKlass* k) { _array_klasses = k; }\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
