@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into jmethodid"},"files":[],"sha":"cc2ae480530a7bd00831e8815060420ded202377"},{"commit":{"message":"8271124: CTW tests crashed with assert(is_valid_method(o)) failed: should be valid jmethodid"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace\/virtualSpaceList.cpp"}],"sha":"ea62b5ceb772e61e9268ace203a3f588ddfa1042"}]
