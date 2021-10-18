@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -226,0 +226,1 @@\n+  MutexLocker fcl(Metaspace_lock, Mutex::_no_safepoint_check_flag);\n","filename":"src\/hotspot\/share\/memory\/metaspace\/virtualSpaceList.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
