@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -175,1 +175,1 @@\n-  \/\/ G1CardSetAllocOptions provides parameters for allocation buffer\n+  \/\/ G1SegmentedArrayAllocOptions provides parameters for allocation buffer\n","filename":"src\/hotspot\/share\/gc\/g1\/g1SegmentedArray.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
