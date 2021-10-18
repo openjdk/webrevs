@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't create load_klass C1 runtime call stub in 32bit builds"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_Runtime1_x86.cpp"}],"sha":"7f89b3144306ba6ac8a4344dd2c24dae3060133b"}]

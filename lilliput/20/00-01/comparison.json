@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1114,1 +1114,0 @@\n-    case load_klass_id:\n@@ -1116,0 +1115,1 @@\n+    case load_klass_id:\n@@ -1123,3 +1123,0 @@\n-#else\n-      __ should_not_reach_here();\n-#endif\n@@ -1127,0 +1124,1 @@\n+#endif\n","filename":"src\/hotspot\/cpu\/x86\/c1_Runtime1_x86.cpp","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}
