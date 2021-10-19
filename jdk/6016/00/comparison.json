@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -589,1 +589,1 @@\n-ul.ui-autocomplete  li {\n+ul.ui-autocomplete li {\n@@ -592,1 +592,1 @@\n-    width:100%;\n+    min-width:100%;\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/resources\/stylesheet.css","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
