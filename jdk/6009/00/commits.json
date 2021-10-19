@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275302: unexpected compiler error: cast, intersection types and sealed"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Types.java"},{"filename":"test\/langtools\/tools\/javac\/sealed\/SealedCompilationTests.java"}],"sha":"57880d78f48fa0b91f341416a74dabc950bb8116"}]
