@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,0 +58,1 @@\n+            frame.setUndecorated(true); \/\/ workaround JDK-8256257\n@@ -102,1 +103,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/jdk\/java\/awt\/FullScreen\/FullscreenWindowProps\/FullscreenWindowProps.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
