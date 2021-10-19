@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1582,2 +1582,1 @@\n-  \/\/ TODO Disabled until JDK-8272448 is fixed.\n-  \/\/ try_sink_out_of_loop(n);\n+  try_sink_out_of_loop(n);\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
