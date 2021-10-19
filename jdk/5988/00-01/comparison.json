@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -641,1 +641,1 @@\n-                    throw new ExceptionInInitializerError(re);\n+                    throw re;\n","filename":"src\/java.base\/share\/classes\/java\/io\/ObjectInputFilter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
