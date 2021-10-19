@@ -1,0 +1,1 @@
+[{"commit":{"message":"refactoring to remove code duplication by using a common routine for UMulHiLNode and MulHiLNode"},"files":[{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/mulnode.hpp"}],"sha":"a10a9fbe209f67d3fe044a3ef6de290b222d9fb1"}]
