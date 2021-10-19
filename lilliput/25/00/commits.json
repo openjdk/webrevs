@@ -1,0 +1,1 @@
+[{"commit":{"message":"Load Klass* without causing monitor inflation"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.hpp"}],"sha":"03bbc6f311d1a2fe27319a1d7b3db345e00dbf0e"}]
