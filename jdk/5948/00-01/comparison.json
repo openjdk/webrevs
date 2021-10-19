@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-        CertificateFactory cf = CertificateFactory.getInstance(\"X509\");\n+        CertificateFactory cf = CertificateFactory.getInstance(\"X.509\");\n","filename":"make\/jdk\/src\/classes\/build\/tools\/generatecacerts\/GenerateCacerts.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
