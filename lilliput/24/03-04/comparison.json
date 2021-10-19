@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-  static const int first_vtableStub_size = 128;\n+  static const int first_vtableStub_size = 256;\n","filename":"src\/hotspot\/share\/code\/vtableStubs.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
