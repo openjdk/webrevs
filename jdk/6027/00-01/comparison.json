@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -687,6 +687,0 @@\n-\n-    @Override\n-    public FontMetrics getFontMetrics(Font font) {\n-        return super.getFontMetrics(font);\n-    }\n-\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WToolkit.java","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
