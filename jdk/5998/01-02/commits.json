@@ -1,0 +1,1 @@
+[{"commit":{"message":"Keep SPECIES_REOLVE classes shared, but filtered them out as regular classes in DumpLoadedClassList"},"files":[{"filename":"src\/hotspot\/share\/cds\/classListWriter.cpp"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandleStatics.java"}],"sha":"e70705f01652ad0147be0f65970e0bd5f11d768f"}]
