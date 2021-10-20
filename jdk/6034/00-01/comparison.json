@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,2 +93,0 @@\n-    assert(num_buffers >= 0, \"Must be\");\n-    assert(mem_size >= 0, \"Must be\");\n@@ -111,2 +109,0 @@\n-    assert(buffers >= 0, \"Must be\");\n-    assert(mem >= 0, \"Must be\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1SegmentedArray.inline.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
