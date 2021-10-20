@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,0 +117,1 @@\n+  _segmented_array.drop_all();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardSetMemory.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
