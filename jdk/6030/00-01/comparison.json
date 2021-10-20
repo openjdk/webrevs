@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,1 @@\n-  # the lambda type as a template parameter. The usage of those classes wont\n+  # the lambda type as a template parameter. The usage of those classes won't\n","filename":"make\/hotspot\/lib\/JvmMapfile.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
