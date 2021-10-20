@@ -1,0 +1,1 @@
+[{"commit":{"message":"Propagate IOException at setDumpPath() to the caller"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/Options.java"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/dcmd\/DCmdConfigure.java"}],"sha":"9e11ae4e4257458f67979ae5d354a5ba344aa0e0"}]
