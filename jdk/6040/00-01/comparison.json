@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,0 +78,1 @@\n+        d.setLocationRelativeTo(null);\n@@ -82,1 +83,1 @@\n-        robot.setAutoDelay(20);\n+        robot.setAutoDelay(100);\n","filename":"test\/jdk\/java\/awt\/Mixing\/MixingOnDialog.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
