@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,0 +156,2 @@\n+\n+        process.command().add(1, \"-DReproduce=true\"); \/\/ Add after \"\/path\/to\/bin\/java\" in order to rerun the test VM directly\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/driver\/TestVMProcess.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
