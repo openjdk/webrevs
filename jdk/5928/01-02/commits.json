@@ -1,0 +1,1 @@
+[{"commit":{"message":"- Skip digest alg decomposing check for algorithms that don't contain \"SHA\".\n- Remove hasLoop method and fold code into decomposeName method."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/util\/AlgorithmDecomposer.java"}],"sha":"f20311263443041ba0054808645dc4243213cb45"}]
