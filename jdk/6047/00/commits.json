@@ -1,0 +1,1 @@
+[{"commit":{"message":"8185844: MSCAPI doesn't list aliases correctly\n\n8185844: MSCAPI doesn't list aliases correctly"},"files":[{"filename":"src\/jdk.crypto.mscapi\/windows\/classes\/sun\/security\/mscapi\/CKeyStore.java"},{"filename":"test\/jdk\/sun\/security\/mscapi\/SetDupNameEntry.java"}],"sha":"472e0ab3b10275de2165d8ff4b2ef77af4305ae4"}]
