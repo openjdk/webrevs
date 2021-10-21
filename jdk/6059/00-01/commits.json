@@ -1,0 +1,1 @@
+[{"commit":{"message":"32 bit compatibility - limit region size to 32M there as before. Fix test."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1_globals.hpp"},{"filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestG1HeapRegionSize.java"}],"sha":"216504de117e3cb2c63b1c50cac19d4dc263afdf"}]
