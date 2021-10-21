@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275715: D3D pipeline processes multiple PaintEvent at initial drawing"},"files":[{"filename":"src\/java.desktop\/windows\/classes\/sun\/java2d\/d3d\/D3DScreenUpdateManager.java"},{"filename":"test\/jdk\/sun\/java2d\/DirectX\/MultiPaintEventTest\/MultiPaintEventTest.java"}],"sha":"fcf362333c0927afbc851e23db11a7190c1ce3d3"}]
