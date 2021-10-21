@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8275686: Suppress warnings on non-serializable non-transient instance fields in java.rmi"},"files":[{"filename":"src\/java.rmi\/share\/classes\/sun\/rmi\/server\/UnicastRef.java"}],"sha":"86c631197411f015f01280bbf45d95efb6910c91"}]
