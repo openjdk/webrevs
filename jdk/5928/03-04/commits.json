@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add setTrustAnchorAndKeys method and change ctor and trySetTrustAnchor to call it."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/AlgorithmChecker.java"}],"sha":"d163b5b1ff60ec48b6da0191175fd693a9a1383c"}]
