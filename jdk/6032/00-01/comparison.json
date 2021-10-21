@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,0 @@\n-    assert(_alignment == BufferAlignment, \"Must be\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardSetMemory.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
