@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1504,1 +1504,0 @@\n-  HeapRegion* last = NULL;\n@@ -1515,2 +1514,0 @@\n-\n-    last = curr;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
