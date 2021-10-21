@@ -1,0 +1,1 @@
+[{"commit":{"message":"Enforce maximum capacity of young generation when allocating"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahInitLogger.cpp"}],"sha":"c4ea432c8ff8183c259b363edae8d1ca32efe4c8"}]
