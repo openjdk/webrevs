@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make FileHeaderHelper::read_base_archive_name return char*, also cleaned up some check code"},"files":[{"filename":"src\/hotspot\/share\/cds\/dynamicArchive.cpp"},{"filename":"src\/hotspot\/share\/cds\/filemap.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"5c6e5b3eef969905fe2f60ca73f0a94272d86e0e"}]
