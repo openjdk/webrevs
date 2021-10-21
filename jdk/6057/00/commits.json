@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix replay line termination"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciReplay.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/ciReplay\/CiReplayBase.java"}],"sha":"6f9e39b2b5e5603c845be7420511f092945aad83"}]
