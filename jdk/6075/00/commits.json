@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275775 VM.metaspace prints flag 'f' for classes that overrided finalize()"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace\/printCLDMetaspaceInfoClosure.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspace\/printMetaspaceInfoKlassClosure.cpp"}],"sha":"80559583c460245a4ff551556a0baea9205718cb"}]
