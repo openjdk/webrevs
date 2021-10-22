@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1603,2 +1603,0 @@\n-  CleanupDumpTimeLambdaProxyClassTable() {}\n-\n","filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
