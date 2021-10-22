@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2553,1 +2553,1 @@\n-    private static int ordinalHashCode(final Iterable<? extends Enum<?>> enums) {\n+    private static int ordinalHashCode(Iterable<? extends Enum<?>> enums) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/module\/ModuleDescriptor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
