@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed `@throws IllegalCharsetNameException`"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/Console.java"},{"filename":"src\/java.base\/share\/classes\/java\/nio\/charset\/Charset.java"},{"filename":"test\/jdk\/java\/nio\/charset\/Charset\/ForName.java"}],"sha":"7c73c5ba8d6fbb0c92fa2746a1bb43c791e85281"}]
