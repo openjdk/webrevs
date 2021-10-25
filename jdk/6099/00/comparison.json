@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1626,0 +1626,3 @@\n+  if (is_LongCountedLoopEnd()) {\n+    return NULL;\n+  }\n","filename":"src\/hotspot\/share\/opto\/ifnode.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
