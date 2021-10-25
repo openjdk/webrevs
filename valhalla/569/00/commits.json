@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275797: [lworld] Scalar replacement fails with ShouldNotReachHere() due to unexpected load type"},"files":[{"filename":"src\/hotspot\/share\/opto\/macro.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestArrays.java"}],"sha":"5ae3ff5df48917fca57822fb0c7ac758bf850000"}]
