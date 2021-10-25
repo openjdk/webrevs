@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -515,2 +515,0 @@\n-  SystemDictionaryShared::start_dumping();\n-\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
