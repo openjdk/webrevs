@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274112: Make transferTo0() static; remove check for null FileDescriptor"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/FileChannelImpl.java"}],"sha":"001ffa2fd1b1ae1514176aabe28c0f30e6a7c685"}]
