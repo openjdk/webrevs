@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275800: Redefinition leaks MethodData::_extra_data_lock"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp"}],"sha":"09b9bfcbc725b4a191785cb128b847147ecb11f6"}]
