@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,1 @@\n-    _hr->cross_threshold(obj_addr, obj_end);\n+    _hr->alloc_block_in_bot(obj_addr, obj_end);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1EvacFailure.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
