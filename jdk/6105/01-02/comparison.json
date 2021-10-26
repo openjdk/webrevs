@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2692,3 +2692,0 @@\n-  if (release_constant_pool) {\n-    constants()->release_C_heap_structures();\n-  }\n@@ -2733,0 +2730,4 @@\n+\n+  if (release_constant_pool) {\n+    constants()->release_C_heap_structures();\n+  }\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":4,"deletions":3,"binary":false,"changes":7,"status":"modified"}]}
