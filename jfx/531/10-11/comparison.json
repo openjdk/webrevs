@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-    private static Scene testScene;\n+    private static volatile Scene testScene = null;\n@@ -180,1 +180,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/test3d\/PointLightIlluminationTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
