@@ -1,0 +1,1 @@
+[{"commit":{"message":"8193682 : Infinite loop in ZipOutputStream.close()"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/DeflaterOutputStream.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPOutputStream.java"}],"sha":"5f1922bf84d601e889f257f64df62f7691cea171"}]
