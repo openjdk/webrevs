@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1090,0 +1090,1 @@\n+         * @throws NullPointerException     if addr is {@code null}\n@@ -1141,0 +1142,1 @@\n+         * @throws NullPointerException if either parameter is {@code null}\n","filename":"src\/java.base\/share\/classes\/java\/net\/InetAddress.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
