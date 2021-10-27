@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -712,1 +712,1 @@\n-#if defined(__APPLE__) && !defined(AARCH64)  \/\/ See JDK-8273967.\n+#if defined(__APPLE__)  \/\/ See JDK-8273967.\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
