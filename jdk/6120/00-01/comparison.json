@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -709,1 +709,0 @@\n-  assert(is_a_block_safe_state(state), \"Illegal threadstate encountered: %d\", state);\n","filename":"src\/hotspot\/share\/runtime\/safepoint.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
