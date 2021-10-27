@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-  \/\/ Print a 'f' for classes that having a non-trivial finalize() method\n+  \/\/ Print a 'f' for classes that have an non-trivial finalize() method\n","filename":"src\/hotspot\/share\/memory\/metaspace\/printMetaspaceInfoKlassClosure.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
