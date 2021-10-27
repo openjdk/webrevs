@@ -1,0 +1,1 @@
+[{"commit":{"message":"8276066: Reset LoopPercentProfileLimit for x86 due to suboptimal performance"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_globals_x86.hpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/LoopUnroll.java"}],"sha":"66c9a5a5b376d1f169aac043e83720a9224bc14b"}]
