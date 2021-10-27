@@ -1,0 +1,1 @@
+[{"commit":{"message":"request aleksey"},"files":[{"filename":"test\/hotspot\/gtest\/code\/test_codestrings.cpp"}],"sha":"f651b6ae24506ff6ca9bae03bfc4fb9196963754"},{"commit":{"message":"disable codestrings gtest on s390, ppc"},"files":[{"filename":"test\/hotspot\/gtest\/code\/test_codestrings.cpp"}],"sha":"0f3e2cf3a280ba024b622ee4b1ab8d2643344332"}]

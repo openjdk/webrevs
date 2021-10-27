@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,3 @@\n+\/\/ Neither ppc nor s390 compilers use code strings.\n+#ifndef PPC\n+#ifndef S390\n@@ -265,0 +268,2 @@\n+#endif \/\/ not S390\n+#endif \/\/ not PPC\n","filename":"test\/hotspot\/gtest\/code\/test_codestrings.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
