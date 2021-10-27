@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1264,1 +1264,1 @@\n-    java_lang_Class:set_init_lock(archived_mirror, NULL);\n+    java_lang_Class::set_init_lock(archived_mirror, NULL);\n","filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
