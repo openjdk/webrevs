@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix assert after merge - the assert depends on current heap region configuration, so move it to the correct constructor"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CardSet.cpp"}],"sha":"bdf9950ba288154057e751b8c0bb080963000dce"}]
