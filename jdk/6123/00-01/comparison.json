@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,1 +281,1 @@\n-  def(JfieldIdCreation_lock        , PaddedMutex  , safepoint);  \/\/ jfieldID, Used in VM_Operation\n+  def(JfieldIdCreation_lock        , PaddedMutex  , safepoint);\n","filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
