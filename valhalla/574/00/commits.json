@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix handling of values with failed class initialization"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp"},{"filename":"src\/hotspot\/share\/oops\/inlineKlass.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/ClassInitializationFailuresTest.java"}],"sha":"947c73703ed8649dbc80ad1ce24a420751a6f35c"}]
