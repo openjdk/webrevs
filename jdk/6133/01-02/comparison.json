@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,2 +29,1 @@\n-#ifndef PPC\n-#ifndef S390\n+#if !defined(PPC) && !defined(S390)\n@@ -268,2 +267,1 @@\n-#endif \/\/ not S390\n-#endif \/\/ not PPC\n+#endif \/\/ not S390 not PPC\n","filename":"test\/hotspot\/gtest\/code\/test_codestrings.cpp","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}
