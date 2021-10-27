@@ -1,0 +1,1 @@
+[{"commit":{"message":"Temporary disable certain tests"},"files":[{"filename":"configuration\/spotbugs\/spotbugs-exclude.xml"}],"sha":"edbaa84530ee6f268feb33ea9e76daaa93a86d4e"},{"commit":{"message":"7432: Update the spotbugs maven plugin\n\nSigned-off-by: Patrick Reinhart <patrick@reini.net>"},"files":[{"filename":"pom.xml"}],"sha":"193e219c859edeb61a88ee78a0ccf0fec1571236"}]
