@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore support for IPv6-only operation"},"files":[{"filename":"src\/java.base\/windows\/native\/libnet\/NetworkInterface.c"},{"filename":"src\/java.base\/windows\/native\/libnet\/NetworkInterface_winXP.c"}],"sha":"f440a6e0f79179469ffa36cc35863efd3301a494"}]
