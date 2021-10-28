@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -355,1 +355,1 @@\n-  if (obj->forward_to_atomic(obj, obj_mark)) {\n+  if (obj->forward_to_atomic(obj, obj_mark) == NULL) {\n","filename":"src\/hotspot\/share\/gc\/parallel\/psPromotionManager.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
