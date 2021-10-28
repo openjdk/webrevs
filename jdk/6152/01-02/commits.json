@@ -1,0 +1,1 @@
+[{"commit":{"message":"IS_EMPTY define did not work on msvc"},"files":[{"filename":"make\/autoconf\/spec.gmk.in"},{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"},{"filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.cpp"}],"sha":"3c93c740e6d0d8624be6f87b5495d61b408167bd"}]
