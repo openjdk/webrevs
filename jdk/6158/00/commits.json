@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8275909: [JVMCI] c2v_readFieldValue use long instead of jlong for the offset parameter"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"58da590458f59b79e6f64e3c7273aafe97f53fc2"}]
