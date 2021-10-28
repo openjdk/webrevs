@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use existing UseAESCTRIntrinsics flag"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/globals_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"4adf21b397bdf7d8f1646b0f3459862d7dcaa0a5"}]
