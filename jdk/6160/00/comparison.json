@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1448,1 +1448,1 @@\n-  if (required_regions > _g1h->num_free_regions() - alloc_region_count) {\n+  if (required_regions > _g1h->num_free_or_available_regions() - alloc_region_count) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
