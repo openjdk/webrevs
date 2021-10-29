@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-  assert(obj == from_offset(offset), \"must be\");\n+  assert(obj == from_offset(static_cast<OffsetInRegion>(offset)), \"must be\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1EvacFailureObjectsSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
