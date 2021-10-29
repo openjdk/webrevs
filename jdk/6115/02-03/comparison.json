@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,0 +86,1 @@\n+  guarantee(T != Q, \"Invalid register variant\");\n@@ -391,0 +392,1 @@\n+  guarantee(nbits == 8 || nbits == 12, \"invalid nbits value\");\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
