@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271056: C2: \"assert(no_dead_loop) failed: dead loop detected\" due to cmoving identity"},"files":[{"filename":"src\/hotspot\/share\/opto\/cfgnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestDeadDataLoopCmoveIdentity.java"}],"sha":"fd97ac9d25664ea29ef0010a59a11006280c5603"}]
