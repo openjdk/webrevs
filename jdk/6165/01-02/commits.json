@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid use of String.toLowerCase() without locale and reverse renaming artefact"},"files":[{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testSnippetTag\/TestSnippetTag.java"}],"sha":"06ac2372c50bda6f7ac3fd3ad99dae464f100f65"}]
