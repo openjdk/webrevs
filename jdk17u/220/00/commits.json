@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport fd10f1996ef94529b5b12e547957cd904ade1956"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Types.java"},{"filename":"test\/langtools\/tools\/javac\/sealed\/SealedCompilationTests.java"}],"sha":"226090f4288b317108a93993e51971a74f4dc525"}]
