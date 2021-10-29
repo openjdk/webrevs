@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1313,1 +1313,1 @@\n-  return regions_to_expand > 0;\n+  return expanded_by > 0;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
