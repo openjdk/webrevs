@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8275786: Avoid use of String.toLowerCase() without locale"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/taglets\/SnippetTaglet.java"}],"sha":"1b418f54babc1548c9af5cbf520ac58cbb2c2a84"}]

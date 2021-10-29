@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -320,1 +320,1 @@\n-        return switch (fileName.substring(lastDot).toLowerCase()) {\n+        return switch (Utils.toLowerCase(fileName.substring(lastDot))) {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/taglets\/SnippetTaglet.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
