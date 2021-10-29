@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,0 @@\n-import java.awt.event.InputEvent;\n@@ -88,0 +87,3 @@\n+                if (frame2 != null) {\n+                    return;\n+                }\n","filename":"test\/jdk\/java\/awt\/Mouse\/GetMousePositionTest\/GetMousePositionWithPopup.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
