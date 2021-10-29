@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added two tests of using archive which contains only dynamic magic number as content"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/TestAutoCreateSharedArchive.java"},{"filename":"test\/lib\/jdk\/test\/lib\/cds\/CDSArchiveUtils.java"}],"sha":"723c755c893e9c16e1091ccafe8c0bd00db86952"}]
