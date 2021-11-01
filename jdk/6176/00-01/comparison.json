@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,1 @@\n-    set_req(1,in(1)->in(1));\n+    set_req(1, in(1)->in(1));\n","filename":"src\/hotspot\/share\/opto\/convertnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
