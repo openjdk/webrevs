@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -914,3 +914,1 @@\n-        ProjNode* tmp = proj0;\n-        proj0 = proj1;\n-        proj1 = tmp;\n+        swap(proj0, proj1);\n","filename":"src\/hotspot\/share\/opto\/block.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
