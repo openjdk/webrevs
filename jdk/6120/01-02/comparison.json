@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -231,1 +231,1 @@\n-    \/\/ Change to transition state and ensure it is seen by the VM thread.\n+    \/\/ Change back to _thread_in_vm and ensure it is seen by the VM thread.\n","filename":"src\/hotspot\/share\/runtime\/interfaceSupport.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
