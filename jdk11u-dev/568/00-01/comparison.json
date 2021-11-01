@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1745,1 +1745,3 @@\n-    MemTracker::record_virtual_memory_type((address)result, flags);\n+    if (flags != mtOther) {\n+      MemTracker::record_virtual_memory_type((address)result, flags);\n+    }\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
