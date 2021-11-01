@@ -1,0 +1,1 @@
+[{"commit":{"message":"address PR comments\n* change method name to isQuotedStringContent\n* update api note and throws declaration"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/com\/sun\/net\/httpserver\/BasicAuthenticator.java"},{"filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/Utils.java"}],"sha":"556330d5ad38f5e615afbe716e113e878cc39169"}]
