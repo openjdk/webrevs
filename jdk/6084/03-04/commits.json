@@ -1,0 +1,1 @@
+[{"commit":{"message":"avoid modifying DTLSOutputRecord"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/DTLSOutputRecord.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/OutputRecord.java"}],"sha":"8c9508c29a1b294fcc97d677dde19d82836e0e6e"}]
