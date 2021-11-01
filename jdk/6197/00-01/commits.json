@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add separate tests that isolate TLS 1.3 an 1.2 handshakes"},"files":[{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSessionImpl\/NoInvalidateSocketException.java"}],"sha":"8d7af4b132fab8ece679396fedd725fb21850fe7"}]
