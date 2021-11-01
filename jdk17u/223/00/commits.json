@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport c0cda1db4fe74b86faa12136336bdf98c96758d2"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/security\/auth\/login\/LoginContext.java"},{"filename":"test\/jdk\/javax\/security\/auth\/spi\/Loader.java"},{"filename":"test\/jdk\/javax\/security\/auth\/spi\/SecondLoginModule.java"}],"sha":"39e5f5eff8e3a73fd670c180301b8429305e2af1"}]
