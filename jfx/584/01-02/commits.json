@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8269907\nWe now require the rendering lock when cleaning up dirty nodes. To do so, we moved some code required for snapshot into a reusable method."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/Scene.java"}],"sha":"28b793b53a852630169dd158cdccf44fe2a80049"}]
