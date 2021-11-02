@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274860: gcc 10.2.1 produces an uninitialized warning in sharedRuntimeTrig.cpp"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntimeTrig.cpp"}],"sha":"5c8647d73fbc8ff4b9f2cd2117870b13b7fde7ae"}]
