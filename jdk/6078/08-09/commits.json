@@ -1,0 +1,1 @@
+[{"commit":{"message":"Test case changes:\n - Test all boot layer modules instead of just the java.sql module\n - Reduce the number of processes launched for reproducibility testing from 50 to 2"},"files":[{"filename":"test\/jdk\/java\/lang\/module\/ModuleDescriptorHashCodeTest.java"}],"sha":"3552edf0cef2de3d21e58d29808fa111f7244cd8"}]
