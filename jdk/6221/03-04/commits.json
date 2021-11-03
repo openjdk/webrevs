@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix aarch64 and arm builds"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/arm\/c1_LIRGenerator_arm.cpp"}],"sha":"d881f81d7c8db5b901ce44e36ce0e17e69619cbe"}]
