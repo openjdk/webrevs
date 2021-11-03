@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1141,1 +1141,1 @@\n-     * {@code Long} object that represents the integer value\n+     * {@code Long} object that represents the {@code Long} value\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Long.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

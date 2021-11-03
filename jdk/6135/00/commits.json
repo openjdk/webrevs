@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update Long.java\n\n8276048: Error in javadoc regarding Long method public static Long valueOf(String s)\nFix: Changing integer to {@code Long}"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Long.java"}],"sha":"2b7c8132cbbe2c29ea3b691d3710becb540f6fad"}]
