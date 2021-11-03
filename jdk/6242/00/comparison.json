@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -422,1 +422,3 @@\n-                input.position(inputPos + read);\n+                if (read > 0) {\n+                    input.position(inputPos + read);\n+                }\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/Inflater.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
