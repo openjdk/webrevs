@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -100,1 +100,0 @@\n-  void add(G1SegmentedArrayBuffer<flag>& elem) { _list.prepend(elem); }\n","filename":"src\/hotspot\/share\/gc\/g1\/g1SegmentedArray.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
