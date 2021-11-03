@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix TestUpcall\n* reverse() has a bug, as it doesn't tweak parameter types\n* reverse() is applied to the wrong MH"},"files":[{"filename":"test\/jdk\/java\/foreign\/TestUpcall.java"}],"sha":"b9432473a181955f314275bfddc112d649d42f59"}]
