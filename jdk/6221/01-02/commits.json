@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove constructor that takes int to fix build error"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_FrameMap_x86.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_LIR.hpp"}],"sha":"71c8528eb0d49d8156306196158ca5e9449af4f8"}]
