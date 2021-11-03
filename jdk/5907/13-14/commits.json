@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify ArenaAllocator impl.\nThe arena should respect its boundaries and never allocate more memory than its size specifies."},"files":[{"filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/ArenaAllocator.java"}],"sha":"7f847271898ddbdb7f496626ce64aff277fb8e95"}]
