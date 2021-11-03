@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -333,1 +333,1 @@\n-        for (uint i = 0; i < config->max_cards_in_region(); i++) {\n+        for (uint i = 0; i < config->num_cards_in_howl_bitmap(); i++) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardSetContainers.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
