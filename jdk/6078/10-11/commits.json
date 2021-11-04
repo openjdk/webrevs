@@ -1,0 +1,1 @@
+[{"commit":{"message":"use Enum#name() for hashCode() generation instead of Enum#ordinal()"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/module\/ModuleDescriptor.java"}],"sha":"a0c4f84776e35758ad5cdcc09598eaedd955db84"}]
