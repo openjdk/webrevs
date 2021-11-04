@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -356,1 +356,1 @@\n-     * {@code ThreadLocal} object. This implementation behavior is subject to\n+     * {@code ThreadLocal} object. This behavior is subject to\n","filename":"src\/java.base\/share\/classes\/javax\/security\/auth\/Subject.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
