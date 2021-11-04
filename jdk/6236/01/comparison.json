@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -496,0 +496,5 @@\n+    if (should_terminate()) {\n+      \/\/ Abort\n+      break;\n+    }\n+\n","filename":"src\/hotspot\/share\/gc\/z\/zDriver.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
