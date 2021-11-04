@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,2 +118,0 @@\n-    private static final Map<Object, Integer> idMap = new HashMap<Object, Integer>();\n-\n","filename":"modules\/javafx.web\/src\/android\/java\/javafx\/scene\/web\/WebView.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
