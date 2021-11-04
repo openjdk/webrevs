@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3066,1 +3066,0 @@\n-  Address mdo_addr = as_Address(op->mdp()->as_address_ptr());\n@@ -3077,0 +3076,1 @@\n+  Address mdo_addr = as_Address(op->mdp()->as_address_ptr(), rscratch2);\n","filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
