@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add new WhiteBox functionality to sun\/hotspot\/WhiteBox.java as well to avoid warnings in the tests which are still using it."},"files":[{"filename":"test\/lib\/sun\/hotspot\/WhiteBox.java"}],"sha":"99db7e54a9ebab32cbbd10526f47516704417812"}]
