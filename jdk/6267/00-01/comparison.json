@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -233,1 +233,1 @@\n-    val = *_lock;\n+    val = Atomic::load(_lock);\n","filename":"src\/hotspot\/share\/services\/mallocSiteTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
