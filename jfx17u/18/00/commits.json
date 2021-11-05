@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275723: Crash on macOS 12 in GlassRunnable::dealloc\n\nReviewed-by: kcr, jvos"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassApplication.m"}],"sha":"7e4c0cb24827b964e18b223fe45d317d209f7e67"}]
