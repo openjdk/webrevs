@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not reinstantiate SSLContext, add more iterations, add test batch without using session tickets"},"files":[{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSessionImpl\/NoInvalidateSocketException.java"}],"sha":"5ddd05354f5cb936a6d5dd2da9310dd3cfbebd71"}]
