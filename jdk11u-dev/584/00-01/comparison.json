@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1630,0 +1630,2 @@\n+  \/\/ To get a consistent list of classes we need MultiArray_lock to ensure\n+  \/\/ array classes aren't created.\n","filename":"src\/hotspot\/share\/memory\/metaspaceShared.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
