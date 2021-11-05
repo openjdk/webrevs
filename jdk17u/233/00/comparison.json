@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,5 @@\n+\n+\/\/ Simple dummy function so this library appears as a normal library to tooling.\n+char* syslookup() {\n+  return \"syslookup\";\n+}\n","filename":"src\/jdk.incubator.foreign\/share\/native\/libsyslookup\/syslookup.c","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
