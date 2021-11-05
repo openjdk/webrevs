@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -614,1 +614,1 @@\n-      if (u != NodeSentinel) {    \/\/ Junk Phi.  Remove\n+      if (u != NodeSentinel || phi->outcnt() == 0) {    \/\/ Junk Phi.  Remove\n","filename":"src\/hotspot\/share\/opto\/postaloc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
