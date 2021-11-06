@@ -1,0 +1,1 @@
+[{"commit":{"message":"dont uncommit when returning chunks but leave uncommitting to Metaspace::purge()"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace\/chunkManager.cpp"}],"sha":"6ff3bf99632d46d921c39fff3907f8ca69e0704a"}]
