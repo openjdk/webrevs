@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,1 +158,1 @@\n-    unsigned addr_bits = (unsigned)((uintptr_t)this >> (LogBytesPerWord + 3));\n+    unsigned addr_bits = (unsigned)((uintptr_t)this >> LogBytesPerWord);\n","filename":"src\/hotspot\/share\/oops\/symbol.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
