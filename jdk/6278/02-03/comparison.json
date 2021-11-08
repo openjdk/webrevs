@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,2 @@\n-\t    $(call sequence,$(GENERATE_SYMBOLS_FROM_JDK_VERSION),$(JDK_SOURCE_TARGET_VERSION)))}.txt\n+\t\t$(call sequence,$(GENERATE_SYMBOLS_FROM_JDK_VERSION), \\\n+\t\t\t\t$(JDK_SOURCE_TARGET_VERSION)))}.txt\n","filename":"make\/modules\/jdk.javadoc\/Gendata.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
