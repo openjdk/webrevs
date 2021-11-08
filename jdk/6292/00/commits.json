@@ -1,0 +1,1 @@
+[{"commit":{"message":"8153133: Thread.dumpStack() can use StackWalker"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Thread.java"},{"filename":"test\/jdk\/java\/lang\/Thread\/DumpStackTest.java"},{"filename":"test\/jdk\/java\/lang\/Thread\/dump-stack-test.policy"}],"sha":"318c7e7632b8d21cccbf8ec0e068dc22d0d1f707"}]
