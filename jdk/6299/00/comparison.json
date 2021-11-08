@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n- * @run testng\/othervm TransferTo\n+ * @run testng\/othervm\/timeout=180 TransferTo\n","filename":"test\/jdk\/java\/nio\/channels\/Channels\/TransferTo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
