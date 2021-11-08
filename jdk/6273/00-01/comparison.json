@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-                    d.setVisible(true);\n+\n@@ -127,0 +127,2 @@\n+\n+                    d.setVisible(true);\n@@ -153,1 +155,0 @@\n-        waitForIdle();\n","filename":"test\/jdk\/java\/awt\/KeyboardFocusmanager\/TypeAhead\/TestDialogTypeAhead.java","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
