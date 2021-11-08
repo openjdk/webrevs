@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1198,2 +1198,1 @@\n-        int endoff = off + len;\n-        Objects.checkFromToIndex(off, endoff, buf.length);\n+        Objects.checkFromToIndex(off, len, buf.length);\n","filename":"src\/java.base\/share\/classes\/java\/io\/ObjectInputStream.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
