@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -526,0 +526,2 @@\n+     * The filter is created as if {@link #createFilter(String) createFilter} is called;\n+     * if the filter string is invalid, an {@link ExceptionInInitializerError} is thrown.\n","filename":"src\/java.base\/share\/classes\/java\/io\/ObjectInputFilter.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

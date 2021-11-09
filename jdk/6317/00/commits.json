@@ -1,0 +1,1 @@
+[{"commit":{"message":"8276609: Invalid system property `jdk.serialFilter` set on the command line should cause `ExceptionInInitializerError`"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ObjectInputFilter.java"}],"sha":"e6bbeb5b97475c1e528f0120289d6198d3bce156"}]
