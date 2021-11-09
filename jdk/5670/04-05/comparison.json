@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -208,0 +208,1 @@\n+    bulk_free_pages()->clear_and_deallocate();\n","filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
