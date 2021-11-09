@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add flag to prevent multiple deopts on the same nmethod."},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/compiledMethod.cpp"},{"filename":"src\/hotspot\/share\/code\/compiledMethod.hpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"5dfd79e1d30f62782b128ef60aba85f80fe271e2"}]
