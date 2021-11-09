@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1794,1 +1794,1 @@\n-Tests that use preview features must use the `--enable-option` to compile\n+Tests that use preview features must use the `--enable-preview` to compile\n","filename":"src\/share\/doc\/javatest\/regtest\/faq.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
