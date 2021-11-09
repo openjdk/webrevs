@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274929: Crash while reading specific clipboard content"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/GlassClipboard.cpp"},{"filename":"tests\/system\/src\/test\/addExports"},{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/scene\/input\/ClipboardTest.java"}],"sha":"abcd51c456a86a36f1262b55d5e1c30410bb60aa"}]
