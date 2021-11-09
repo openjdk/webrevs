@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,0 @@\n-public:\n@@ -44,1 +43,0 @@\n-private:\n@@ -73,1 +71,0 @@\n-private:\n","filename":"src\/hotspot\/share\/gc\/g1\/g1EvacFailureObjectsSet.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
