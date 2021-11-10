@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -731,1 +731,0 @@\n-\/\/ To remove these from requires an incompatible change and CSR review.\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
