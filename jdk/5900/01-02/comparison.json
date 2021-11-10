@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -456,1 +456,1 @@\n-# L10N: do not localize these words: warn info\n+# L10N: do not localize the option parameters: warn info\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/resources\/standard.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
