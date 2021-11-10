@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1738,1 +1738,3 @@\n-      op_final_mark();\n+      if (is_concurrent_mark_in_progress()) {\n+        op_final_mark();\n+      }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
