@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,1 +314,2 @@\n-            def.end();\n+            if (usesDefaultDeflater)\n+                def.end();\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipOutputStream.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
