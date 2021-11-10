@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-                    apiHash = MessageDigest.getInstance(\"MD5\");\n+                    apiHash = MessageDigest.getInstance(\"SHA-256\");\n","filename":"make\/jdk\/src\/classes\/build\/tools\/depend\/Depend.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
