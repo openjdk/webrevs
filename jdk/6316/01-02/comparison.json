@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,1 +114,1 @@\n-  assert(CodeCache_lock->owned_by_self(), \"Must have CodeCache_lock held\");\n+  assert_locked_or_safepoint(CodeCache_lock);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahCodeRoots.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
