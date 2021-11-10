@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,0 @@\n-  SYSROOT_FLAGS := --sysroot=$(MINGW_SYSROOT)\n","filename":"make\/Hsdis.gmk","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
