@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2189,1 +2189,1 @@\n-         * trackAppResume() (indirectly) aquires handlerLock. For proper lock\n+         * trackAppResume indirectly aquires handlerLock. For proper lock\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/threadControl.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
