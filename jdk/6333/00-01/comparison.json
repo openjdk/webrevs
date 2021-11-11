@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,0 @@\n- *                   -XX:CompileCommand=inline,java.lang.Integer.valueOf::valueOf\n","filename":"test\/hotspot\/jtreg\/compiler\/eliminateAutobox\/TestSafepointDebugInfo.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
