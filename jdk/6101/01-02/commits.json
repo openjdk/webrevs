@@ -1,0 +1,1 @@
+[{"commit":{"message":"replace cmpx->Opcode() with cmpx_op"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"}],"sha":"4dada5fcf7db00952c60ae25202255c2ce9c4635"},{"commit":{"message":"address reviews, remove checks for subtraction operatios"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"}],"sha":"88722be5904b62152cf4d8b418fe48301db01ae4"}]
