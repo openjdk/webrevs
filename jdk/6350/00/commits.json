@@ -1,0 +1,1 @@
+[{"commit":{"message":"Error in javac caused by switch expression without result expressions: Internal error: stack sim error"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"},{"filename":"test\/langtools\/tools\/javac\/switchexpr\/SwitchExpressionWithoutResult.java"}],"sha":"d2e6c8f1c87fa35da8f2f4f18f9182e2c14163ac"}]
