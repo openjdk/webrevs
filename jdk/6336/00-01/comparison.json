@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,1 +142,1 @@\n-VMThread::VMThread() : NamedThread() {\n+VMThread::VMThread() : NamedThread(), _is_running(false) {\n","filename":"src\/hotspot\/share\/runtime\/vmThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
