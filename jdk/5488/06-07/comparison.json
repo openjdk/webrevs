@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2692,1 +2692,1 @@\n-jint Deoptimization::deoptimization_count(char *reason_str, char *action_str) {\n+jint Deoptimization::deoptimization_count(const char *reason_str, const char *action_str) {\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
