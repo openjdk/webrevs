@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,1 +157,1 @@\n-  FloatRegister successor() const { return this + 1; }\n+  FloatRegister successor() const { return as_FloatRegister((encoding() + 1) % 32); }\n","filename":"src\/hotspot\/cpu\/aarch64\/register_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
