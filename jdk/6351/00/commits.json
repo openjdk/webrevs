@@ -1,0 +1,1 @@
+[{"commit":{"message":"Bump timeout for tests that don't expect SocketTimeoutException"},"files":[{"filename":"test\/jdk\/java\/nio\/channels\/SocketChannel\/AdaptorStreams.java"}],"sha":"467179723296f7cd1908ef89b4386f5338722db5"}]
