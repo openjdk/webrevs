@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1621,4 +1621,0 @@\n-    \/\/ Set the concurrency level. The phase was already set prior to\n-    \/\/ executing the remark task.\n-    set_concurrency(active_workers);\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
