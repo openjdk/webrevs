@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+ * @requires vm.gc.G1\n","filename":"test\/jdk\/jdk\/jfr\/event\/gc\/detailed\/TestGCLockerEvent.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
