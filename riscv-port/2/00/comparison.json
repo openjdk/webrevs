@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-    \"zr\", \"ra\", \"sp\", \"gp\", \"tp\", \"lr\", \"x6\", \"x7\", \"fp\", \"x9\",\n+    \"zr\", \"ra\", \"sp\", \"gp\", \"tp\", \"x5\", \"x6\", \"x7\", \"fp\", \"x9\",\n","filename":"src\/hotspot\/cpu\/riscv\/register_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
