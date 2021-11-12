@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2779,0 +2779,1 @@\n+  DEBUG_ONLY( _late_inlines.clear(); )\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
