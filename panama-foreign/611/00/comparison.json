@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -744,0 +744,2 @@\n+  trace_new_stub(blob, \"OptimizedEntryBlob\");\n+\n","filename":"src\/hotspot\/share\/code\/codeBlob.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
