@@ -1,0 +1,1 @@
+[{"commit":{"message":"Bug fix: C1 should not allocate x3, which is the gp register"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c1_Defs_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/c1_FrameMap_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/c1_Runtime1_riscv.cpp"}],"sha":"1b3057246bdd7ae0d81bd2c53b6f589f11e10010"}]
