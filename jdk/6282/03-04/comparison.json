@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2266,1 +2266,1 @@\n-                    props.setProperty(\"sun.jnu.encoding\", \"UTF-8\");\n+            props.setProperty(\"sun.jnu.encoding\", \"UTF-8\");\n","filename":"src\/java.base\/share\/classes\/java\/lang\/System.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
