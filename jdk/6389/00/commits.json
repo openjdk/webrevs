@@ -1,0 +1,1 @@
+[{"commit":{"message":"8227020: Unclosed input streams in URL Class Loader for JARs with META-INF\/INDEX.LIST"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/URLClassPath.java"},{"filename":"test\/jdk\/java\/net\/URLClassLoader\/IndexedJarResourceLeakTest.java"}],"sha":"7e359b0de65daa64e189ff70d567809a02cc92b2"}]
