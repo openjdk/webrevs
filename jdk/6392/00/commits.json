@@ -1,0 +1,1 @@
+[{"commit":{"message":"4337793: Mark non-serializable fields of java.security.cert.Certificate and CertPath"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/security\/cert\/CertPath.java"},{"filename":"src\/java.base\/share\/classes\/java\/security\/cert\/Certificate.java"}],"sha":"98803b81df624db01590192efbd0dd0aa288cc3c"}]
