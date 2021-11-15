@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace jnuEncoding in jni_util.c with UTF-8, if platform encoding is not supported"},"files":[{"filename":"src\/java.base\/share\/native\/libjava\/jni_util.c"}],"sha":"c241e8da1a9ad82057830ae47b446115fbfb2fec"}]
