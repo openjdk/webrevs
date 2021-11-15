@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix white space error"},"files":[{"filename":"build.gradle"}],"sha":"c5b76ee82a5d01b8f6dcad8c5e7ff171005958d0"},{"commit":{"message":"Allow apiguardian as dependency"},"files":[{"filename":"build.gradle"},{"filename":"gradle\/verification-metadata.xml"}],"sha":"1a1155c6e5e3020d3d2ca247c1dd5e0d9d3533a0"}]
