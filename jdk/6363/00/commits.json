@@ -1,0 +1,1 @@
+[{"commit":{"message":"explicitly pass output array size and check it in hotspot"},"files":[{"filename":"src\/hotspot\/share\/include\/jmm.h"},{"filename":"src\/hotspot\/share\/services\/management.cpp"},{"filename":"src\/jdk.management\/share\/native\/libmanagement_ext\/DiagnosticCommandImpl.c"}],"sha":"65dad518176bdbf7052842247c0ac6197ccb5271"}]
