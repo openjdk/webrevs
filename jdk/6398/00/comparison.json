@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -470,0 +470,1 @@\n+        ik->link_class(CHECK_NULL);\n@@ -930,0 +931,1 @@\n+      skip_remaining();\n","filename":"src\/hotspot\/share\/ci\/ciReplay.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
