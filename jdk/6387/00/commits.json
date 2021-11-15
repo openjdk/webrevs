@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8277028: Use service type documentation as fallback for @provides"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/ModuleWriterImpl.java"},{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testModules\/TestModuleServices.java"}],"sha":"ac2c4380c3e0690c70f9853db64a1905a43cbdf2"}]
