@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4789,2 +4789,0 @@\n-\/\/ !!! If the instructions that get generated here change then function\n-\/\/ instr_size_for_decode_klass_not_null() needs to get updated.\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
