@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,0 +50,1 @@\n+        \"jaccessinspector-32\", \/\/ gui, don't test, win-32 only\n@@ -51,0 +52,1 @@\n+        \"jaccesswalker-32\", \/\/ gui, don't test, win-32 only\n","filename":"test\/jdk\/tools\/launcher\/HelpFlagsTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
