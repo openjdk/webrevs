@@ -1,0 +1,1 @@
+[{"commit":{"message":"use duplicate dst instead of noreg, use lzcnt for hardwares support it"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"de9de8f5cd53f801faa81267279eb216f16c349d"}]
