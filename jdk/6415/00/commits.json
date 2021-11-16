@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277137: Set OnSpinWaitInst default value to \"isb\" for Arm Neoverse N1"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/onSpinWait\/TestOnSpinWaitAArch64DefaultFlags.java"}],"sha":"b3b8a23e79005737001dc1cfe45c7d2eb716559e"}]
