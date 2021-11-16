@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277180: Intrinsify recursive ObjectMonitor locking for C2 x64 and A64"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"}],"sha":"e6feec1e12d10badd0f48b144d753565febdb4ae"}]
