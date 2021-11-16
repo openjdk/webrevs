@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -780,2 +780,0 @@\n-  void wait_for_root_region_scanning();\n-\n@@ -939,3 +937,0 @@\n-  \/\/ Try to minimize the remembered set.\n-  void scrub_rem_set();\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
