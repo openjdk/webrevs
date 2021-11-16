@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,1 +354,1 @@\n-     * server (see RFC 3161, section 2.3).\n+     * server. RFC 3161 section 2.3 only requires EKU with id-kp-timeStamping.\n","filename":"src\/java.base\/share\/classes\/sun\/security\/validator\/EndEntityChecker.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
