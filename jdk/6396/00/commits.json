@@ -1,0 +1,1 @@
+[{"commit":{"message":"    JDKJDK-8276150: Quarantined jpackage apps are labeled as \"damaged\""},"files":[{"filename":"src\/jdk.jpackage\/macosx\/classes\/jdk\/jpackage\/internal\/MacAppImageBuilder.java"},{"filename":"test\/jdk\/tools\/jpackage\/macosx\/SigningAppImageTest.java"}],"sha":"1168af9a722c803b655ac4bb357caff0eb79619d"}]
