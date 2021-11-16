@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -208,0 +208,1 @@\n+      FLAG_SET_DEFAULT(OnSpinWaitInstCount, 1);\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
