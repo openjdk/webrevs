@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,2 +78,0 @@\n-#define USE_POINTERS_TO_REGISTER_IMPL_ARRAY\n-\n","filename":"src\/hotspot\/cpu\/x86\/globalDefinitions_x86.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
