@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277178: Reduce the priority of data dependent nodes when OptoScheduling enabled"},"files":[{"filename":"src\/hotspot\/share\/opto\/lcm.cpp"},{"filename":"src\/hotspot\/share\/opto\/output.cpp"}],"sha":"33a142e1454ef0fa8e2264e7ec7c3eeb1b643f94"}]
