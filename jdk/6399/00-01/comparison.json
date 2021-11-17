@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n- * @bug 4313887 6873621 6979526 7006126 7020517 8264400 8277159\n+ * @bug 4313887 6873621 6979526 7006126 7020517 8264400\n","filename":"test\/jdk\/java\/nio\/file\/FileStore\/Basic.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
