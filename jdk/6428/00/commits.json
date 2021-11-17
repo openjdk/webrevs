@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275643: C2's unaryOp vector intrinsic does not properly handle LongVector.neg"},"files":[{"filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestLongVectorNeg.java"}],"sha":"c45cdc1c69e24038125e2ed4d4c0ede1c8a6bac4"}]
