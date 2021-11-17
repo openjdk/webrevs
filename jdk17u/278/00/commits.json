@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272170: Missing memory barrier when checking active state for regions\n\nReviewed-by: sjohanss, ayang"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CommittedRegionMap.inline.hpp"}],"sha":"bba9abbf719d0ad55ecd71ee95e3fb3802bfcf3c"}]
