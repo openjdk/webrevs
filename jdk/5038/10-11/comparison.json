@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -802,0 +802,2 @@\n+     * An {@linkplain #isAutomaticModule automatic module} will have a\n+     * null file since it is implicitly declared.\n","filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/util\/Elements.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
