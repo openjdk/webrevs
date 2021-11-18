@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename InstanceKlass::finalization_enabled to is_finalization_enabled. Minor cleanups."},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"},{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"5df8bf9f52768d2fb2b08ca50f28facf779756cc"}]
