@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277342: vmTestbase\/nsk\/stress\/strace\/strace004.java fails with SIGSEGV in InstanceKlass::jni_id_for"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"}],"sha":"47cb164bdcc5d51a1b23f34d38766f2a9831562b"}]
