@@ -1,0 +1,1 @@
+[{"commit":{"message":"8276174: Set default TARGET_ARCH to \"arm64\" on apple silicon machines"},"files":[{"filename":"build.gradle"},{"filename":"buildSrc\/mac.gradle"}],"sha":"dad95b14a1b8125113ce2a7752d4f284ba8a87f3"}]
