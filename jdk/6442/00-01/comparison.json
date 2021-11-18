@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,1 @@\n+#include \"oops\/instanceKlass.hpp\"\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
