@@ -1,0 +1,1 @@
+[{"commit":{"message":"Young generation should not hold reference to old mark queues after a global collect"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGlobalGeneration.cpp"}],"sha":"5c8fc86524497e826d28af0ac045bb77868c55d7"}]
