@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -482,0 +482,2 @@\n+      \/\/ This inline cache is a megamorphic vtable call. Those ICs never hold\n+      \/\/ any Metadata and should therefore never be cleaned by this function.\n","filename":"src\/hotspot\/share\/code\/compiledMethod.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
