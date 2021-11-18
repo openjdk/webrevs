@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -741,1 +741,1 @@\n-    LogTarget(Debug, gc, phases, thread, start) log;\n+    LogTarget(Trace, gc, phases, start) log;\n@@ -760,1 +760,1 @@\n-    LogTarget(Debug, gc, phases, thread) log;\n+    LogTarget(Trace, gc, phases) log;\n","filename":"src\/hotspot\/share\/gc\/z\/zStat.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
