@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use $GREP to check \/proc\/interrupts"},"files":[{"filename":"make\/autoconf\/basic_windows.m4"}],"sha":"13f1f8b92035096387af324e0010b4d5cc91858f"},{"commit":{"message":"8277370: configure script cannot distinguish WSL version"},"files":[{"filename":"make\/autoconf\/basic_windows.m4"}],"sha":"5f58daa307b117f8666e6cb5302f736a5e48201e"}]
