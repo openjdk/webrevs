@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,1 @@\n+#include \"gc\/shared\/cardTable.hpp\"\n@@ -28,1 +29,0 @@\n-#include \"gc\/shared\/cardTable.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
