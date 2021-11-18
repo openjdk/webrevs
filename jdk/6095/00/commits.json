@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8276939: Fix AbstractLdapNamingEnumeration next to throw NoSuchElementException instead of NullPointerException"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/AbstractLdapNamingEnumeration.java"}],"sha":"c74ffd0da817796c05092d35f5198046b61ef50f"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -202,0 +202,3 @@\n+        if (!more) {\n+            throw new NoSuchElementException();\n+        }\n","filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/AbstractLdapNamingEnumeration.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
