@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,0 +94,2 @@\n+\n+#ifdef USE_LIBRARY_BASED_TLS_ONLY\n@@ -95,0 +97,3 @@\n+#else\n+static THREAD_LOCAL bool _lookup_shared_first = false;\n+#endif\n","filename":"src\/hotspot\/share\/classfile\/symbolTable.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
