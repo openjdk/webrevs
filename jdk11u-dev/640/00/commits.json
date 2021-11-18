@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport d2b0ea1d01a0628065115a0f163ff763ad70296e"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/TestGZippedHeapDumpOnOutOfMemoryError.java"}],"sha":"a1e2fcb88b158f646b6546a1589c18ae46ceef68"}]
