@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -532,5 +532,0 @@\n-\n-#ifdef ASSERT\n-  if (!preserve_gp_registers) { __ clobber_volatile_gprs(dst); }\n-  if (!needs_frame) { __ clobber_carg_stack_slots(tmp1); }\n-#endif\n","filename":"src\/hotspot\/cpu\/ppc\/gc\/shenandoah\/shenandoahBarrierSetAssembler_ppc.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
