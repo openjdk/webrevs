@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,2 @@\n-    _lock = new Monitor(Mutex::safepoint, \"CompileTask_lock\");\n+    \/\/ May hold MethodCompileQueue_lock\n+    _lock = new Monitor(Mutex::safepoint-1, \"CompileTask_lock\");\n","filename":"src\/hotspot\/share\/compiler\/compileTask.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
