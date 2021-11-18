@@ -1,0 +1,1 @@
+[{"commit":{"message":"get rid of the checks in jvmti handshakes: java_thread->threadObj() == NULL"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"}],"sha":"435ab513f09c9a994296ddcb21aa86857f42c7fe"}]
