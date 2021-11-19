@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2808,1 +2808,1 @@\n-      CASE(_fast_faccess_0): {\n+      CASE(_fast_iaccess_0): {\n@@ -2823,1 +2823,1 @@\n-      CASE(_fast_iaccess_0): {\n+      CASE(_fast_faccess_0): {\n","filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreter.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
