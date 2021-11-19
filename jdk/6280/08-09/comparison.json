@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,0 @@\n-    number_of_byte_registers      = 32,\n@@ -63,1 +62,0 @@\n-  bool has_byte_register() const   { return this >= first() && this - first() < number_of_byte_registers; }\n","filename":"src\/hotspot\/cpu\/aarch64\/register_aarch64.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
