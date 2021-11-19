@@ -1,0 +1,1 @@
+[{"commit":{"message":"keep extension order same as HWCAP_ISA"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp"}],"sha":"492ca943c765c0e600d4cb3ebe03cf409efb51ec"}]
