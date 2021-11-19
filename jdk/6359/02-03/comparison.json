@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-public interface Style {\n+public sealed interface Style {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/taglets\/snippet\/Style.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
