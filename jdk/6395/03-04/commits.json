@@ -1,0 +1,1 @@
+[{"commit":{"message":"8276764: Enable deterministic file content ordering for Jar and Jmod\n\nSigned-off-by: Andrew Leonard <anleonar@redhat.com>"},"files":[{"filename":"src\/jdk.jartool\/share\/man\/jar.1"},{"filename":"src\/jdk.jlink\/share\/man\/jmod.1"},{"filename":"test\/jdk\/tools\/jar\/ContentOrder.java"}],"sha":"18776eb3ecade32bfe211a8e28da40d8f68b089a"}]
