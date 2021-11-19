@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-      grep Hyper-V \/proc\/interrupts > \/dev\/null 2>&1\n+      $GREP -q Hyper-V \/proc\/interrupts\n","filename":"make\/autoconf\/basic_windows.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
