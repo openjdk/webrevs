@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -251,0 +251,2 @@\n+            q = q.setScale(40, RoundingMode.HALF_EVEN);\n+\n@@ -254,0 +256,1 @@\n+                c = c.setScale(40, RoundingMode.HALF_EVEN);\n","filename":"test\/jdk\/java\/awt\/geom\/Path2D\/GetBounds2DPrecisionTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
