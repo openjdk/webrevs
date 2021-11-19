@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,0 +96,2 @@\n+      HWCAP_ISA_B |\n+      HWCAP_ISA_C |\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
