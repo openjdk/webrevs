@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-import java.awt.event.MouseListener;\n@@ -42,1 +41,1 @@\n- * @run main\/manual ScrollBarBorderTest\n+ * @run main ScrollBarBorderTest\n","filename":"test\/jdk\/java\/awt\/Scrollbar\/AquaLFScrollbarTest\/ScrollBarBorderTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
