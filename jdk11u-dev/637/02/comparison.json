@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -826,1 +826,1 @@\n-        case JVMTI_REFERENCE_ARRAY_ELEMENT:\n+        case JVMTI_HEAP_REFERENCE_ARRAY_ELEMENT:\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/unit\/FollowReferences\/followref003\/followref003.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
