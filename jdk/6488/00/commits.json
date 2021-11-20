@@ -1,0 +1,1 @@
+[{"commit":{"message":"8003417: WeakHashMap$HashIterator removes wrong entry"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/WeakHashMap.java"},{"filename":"test\/jdk\/java\/util\/WeakHashMap\/IteratorRemovalTest.java"}],"sha":"74f29222c23eb686b7cbb446af5272a9c349dc41"}]
