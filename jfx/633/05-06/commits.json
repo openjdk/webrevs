@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add trivial assert to JUnit5Test"},"files":[{"filename":"modules\/javafx.base\/src\/test\/java\/test\/JUnit5Test.java"}],"sha":"d06d657007c3af86ba2ff908b546cae18e775bfb"},{"commit":{"message":"Add explicit dependencies in build.gradle"},"files":[{"filename":"build.gradle"}],"sha":"cecc02a06036aedc2e18ba01aa64fe459d6984a6"}]
