@@ -1,0 +1,1 @@
+[{"commit":{"message":"1188: The pr\/NNNN branches are not always deleted when a PR is closed"},"files":[{"filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/NotifyBot.java"},{"filename":"bots\/notify\/src\/test\/java\/org\/openjdk\/skara\/bots\/notify\/prbranch\/PullRequestBranchNotifierTests.java"}],"sha":"2abc8413f1b048e47c830942855691f2c2fc1647"}]
