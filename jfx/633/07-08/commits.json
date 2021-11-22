@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove remaining references to old JUnit 4.8.2"},"files":[{"filename":"gradle\/verification-metadata.xml"}],"sha":"5f4f695bccacf74bb65b7d0fc94d139ac37af230"},{"commit":{"message":"Upgrade to JUnit 4.13.2"},"files":[{"filename":"buildSrc\/build.gradle"}],"sha":"0b8433a90381a587d88c067fc3cb4a7c2a9946d9"}]
