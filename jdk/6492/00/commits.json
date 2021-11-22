@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277508: missed to check has_predicated_vectors before calling scalable_predicate_reg_slots"},"files":[{"filename":"src\/hotspot\/share\/opto\/matcher.cpp"}],"sha":"b3171c26a986a198ab66928b9db333e004c6c536"}]
