@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277531: Print actual default stacksize on Windows thread logging"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/TestLogThreadStackSize.java"}],"sha":"85d114f8339809b0cd67effdf0cafbbc91fa6180"}]
