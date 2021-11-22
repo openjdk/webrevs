@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -340,1 +340,1 @@\n-      \/\/ If we would a decipherable interpreted frame, this is our initial frame.\n+      \/\/ If we find a decipherable interpreted frame, this is our initial frame.\n","filename":"src\/hotspot\/share\/prims\/forte.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
