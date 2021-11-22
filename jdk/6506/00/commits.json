@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8268582: javadoc throws NPE with JDK 11"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/util\/Utils.java"},{"filename":"test\/langtools\/jdk\/javadoc\/tool\/IgnoreSourceErrors.java"}],"sha":"db08127c5f73c53f23a7ebff3e0d8ff0f7b5f290"}]
