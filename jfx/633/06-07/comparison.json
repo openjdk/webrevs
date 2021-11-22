@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n-import static org.junit.Assert.assertNotNull;\n+import static org.junit.jupiter.api.Assertions.assertNotNull;\n","filename":"modules\/javafx.base\/src\/test\/java\/test\/JUnit5Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
