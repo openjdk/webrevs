@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,2 +43,1 @@\n- * @use java.util.random.RandomGenerator\n- * @use jdk.internal.util.random.RandomSupport\n+ * @uses java.util.random.RandomGenerator\n","filename":"src\/jdk.random\/share\/classes\/module-info.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
