@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix default value allocation in CDS, more asserts"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"},{"filename":"src\/hotspot\/share\/oops\/flatArrayOop.inline.hpp"},{"filename":"src\/hotspot\/share\/oops\/inlineKlass.cpp"}],"sha":"ceca1e678f51dde7e152a880b402b193540a3c36"}]
