@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266435: WBMPImageReader.read() should not truncate the input stream"},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/wbmp\/WBMPImageReader.java"},{"filename":"test\/jdk\/javax\/imageio\/plugins\/wbmp\/WBMPStreamTruncateTest.java"}],"sha":"e9d3c1ad7ae4d00f192efbc2059a2912fdb0579c"}]
