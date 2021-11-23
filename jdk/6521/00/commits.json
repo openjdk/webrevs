@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277503: compiler\/onSpinWait\/TestOnSpinWaitAArch64DefaultFlags.java failed with \"OnSpinWaitInst with the expected value isb not found.\""},"files":[{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"},{"filename":"test\/hotspot\/jtreg\/compiler\/onSpinWait\/TestOnSpinWaitAArch64DefaultFlags.java"}],"sha":"f9f44e11f9e57f3f1c0071586a3b2277fbe00338"}]
