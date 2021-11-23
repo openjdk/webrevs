@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make flag deprecation product-only; Add flag to VMDeprecatedOptions test"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java"}],"sha":"4a95e03395ab9adb6d13f5cd63b304245a119b89"}]
