@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274893: Update java.desktop classes to use try-with-resources\nclose nested streams too to unify code"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/HTMLEditorKit.java"},{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/StyleSheet.java"}],"sha":"483b0cfd7cc0a738cb55775bd7dd2f1d122028d2"}]
