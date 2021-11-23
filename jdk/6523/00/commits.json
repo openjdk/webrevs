@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8277507: Add jlink.debug system property while launching jpackage tests to help diagonize recent intermittent failures\"\n\nThis reverts commit 12f08ba4d47cb70a0629b17bc3639ce170309f21."},"files":[{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/HelloApp.java"}],"sha":"c8d3afb70aa2af23b609aaffd1097fc9ab6621ef"}]
