@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the USE_LIBRARY_BASED_TLS_ONLY macro to use tls instead of pthread_getspecific"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"9fa339c5dbd1e479a701c037e32484ddef5539bd"}]
