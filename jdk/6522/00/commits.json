@@ -1,0 +1,1 @@
+[{"commit":{"message":"Properly handle optimized entry frame callers during deopt"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/universalUpcallHandler_x86_64.cpp"},{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"},{"filename":"src\/hotspot\/share\/runtime\/frame.hpp"}],"sha":"443b93e3131dbcf4e6a9949e7aee4650faaa4e2b"}]
