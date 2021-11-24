@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277457: AccessControlException: access denied (\"java.net.NetPermission\" \"getCookieHandler\")"},"files":[{"filename":"modules\/javafx.web\/src\/main\/java\/com\/sun\/webkit\/network\/CookieJar.java"},{"filename":"tests\/manual\/web\/HTTP2SecurityManagerTest.java"}],"sha":"ca436714fb456b484332c4141294c25c698ae8b2"}]
