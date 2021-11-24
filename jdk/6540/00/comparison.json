@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -387,2 +387,0 @@\n-  static size_t trampoline_size();\n-\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
