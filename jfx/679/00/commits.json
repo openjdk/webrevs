@@ -1,0 +1,1 @@
+[{"commit":{"message":"8191995: Regression: DatePicker must commit on focusLost"},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/DatePicker.java"},{"filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/DatePickerTest.java"}],"sha":"3fe5ae3fe0c313e7bbeb1c94f6b6bb40fe3db593"}]
