@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8277375: jdeps errors on a class path with a file path with no permission"},"files":[{"filename":"src\/jdk.jdeps\/share\/classes\/com\/sun\/tools\/jdeps\/ClassFileReader.java"},{"filename":"test\/langtools\/tools\/jdeps\/TestClassPath.java"}],"sha":"1602a939a0840f432557b564064ffe0ac02880c8"}]
