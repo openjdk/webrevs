@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,1 +168,1 @@\n-  static const bool supports_encode_ascii_array = false;\n+  static const bool supports_encode_ascii_array = true;\n","filename":"src\/hotspot\/cpu\/ppc\/matcher_ppc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
