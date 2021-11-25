@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -196,0 +196,1 @@\n+        threadConsumer.join();\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/ThreadOnSpinWaitProducerConsumer.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
