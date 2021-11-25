@@ -1,0 +1,1 @@
+[{"commit":{"message":"8267767: Redundant condition check in SafepointSynchronize::thread_not_running"},"files":[{"filename":"src\/hotspot\/share\/runtime\/safepoint.cpp"}],"sha":"caa39a441538e3f431de2f4db153e4e8daaaa677"}]
