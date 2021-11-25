@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277659: [TESTBUG] ThreadOnSpinWaitProducerConsumer hangs\n\nFix java\/lang\/ThreadOnSpinWaitProducerConsumer by waiting for consumer\nthread to finish before restarting trial method."},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/ThreadOnSpinWaitProducerConsumer.java"}],"sha":"bd497ba231078491b9c62148b7b763df9d9ede68"}]
