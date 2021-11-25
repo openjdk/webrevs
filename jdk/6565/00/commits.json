@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277846: Implement fast-path for ASCII-compatible CharsetEncoders on ppc64"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/c2_MacroAssembler_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/c2_MacroAssembler_ppc.hpp"},{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"96b7e6c8ff3901ab7869f03eb4ea45076520b51b"}]
