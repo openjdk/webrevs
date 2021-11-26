@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -15,1 +15,0 @@\n-    \/\/  final int ROW_COUNT = 400_000;\n@@ -17,1 +16,1 @@\n-    \/\/ final int ROW_COUNT = 7_000;\n+    \/\/  final int ROW_COUNT = 7_000;\n","filename":"tests\/manual\/controls\/SelectListViewTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
