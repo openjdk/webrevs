@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -773,1 +773,1 @@\n-    const uint regions_per_thread = 1000;\n+    const double regions_per_thread = 1000;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
