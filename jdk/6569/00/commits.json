@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277854: The upper bound of GCCardSizeInBytes should be limited to 512 for 32-bit platforms"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp"}],"sha":"15ec0a3a673bee1d4fd62daffbbfeb1ead9152c7"}]

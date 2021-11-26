@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -699,1 +699,1 @@\n-          range(128, 1024)                                                  \\\n+          range(128, NOT_LP64(512) LP64_ONLY(1024))                         \\\n","filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
