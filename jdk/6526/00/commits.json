@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277654: Shenandoah: Don't produce new memory state in C2 LRB runtime call"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.hpp"}],"sha":"294389df541f18221ad26aa855c2685c8a26aedc"}]
