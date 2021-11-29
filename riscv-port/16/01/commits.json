@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix a temp register usage in eden_allocate"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/barrierSetAssembler_riscv.cpp"}],"sha":"ed811e7438f663b0818fc3b1ad7fc6305c53cfac"}]
