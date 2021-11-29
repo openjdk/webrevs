@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -231,1 +231,0 @@\n-  size_t max_entries() const { return _size; }\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardSetContainers.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
