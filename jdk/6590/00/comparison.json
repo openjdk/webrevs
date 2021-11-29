@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -482,1 +482,1 @@\n-               \"must be, was: %ld, %d\", _offset, size);\n+               \"must be, was: \" INT64_FORMAT \", %d\", _offset, size);\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
