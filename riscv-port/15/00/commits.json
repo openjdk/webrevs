@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix cmpxchg_narrow_value that needs to sign-extend non-bool results"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"18da03c5780ca64c7dc9c0c1c574eeeb51926860"}]
