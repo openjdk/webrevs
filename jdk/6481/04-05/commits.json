@@ -1,0 +1,1 @@
+[{"commit":{"message":"8276766: Enable jar and jmod to produce deterministic timestamped content\n\nSigned-off-by: Andrew Leonard <anleonar@redhat.com>"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipEntry.java"},{"filename":"test\/jdk\/tools\/jmod\/JmodTest.java"}],"sha":"7f24db784c13979b900e2b99ed21c834b6e9cbd4"}]
