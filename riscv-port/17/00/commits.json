@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277890: riscv: fix the infinite LR\/SC loop in BarrierSetAssembler::eden_allocate"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/barrierSetAssembler_riscv.cpp"}],"sha":"4a88b0cb90565b8c9e03c223eec80d723cd7d121"}]
