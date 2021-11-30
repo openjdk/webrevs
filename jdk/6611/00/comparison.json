@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,3 @@\n+  if (!EventFinalizerStatistics::is_enabled()) {\n+    return;\n+  }\n","filename":"src\/hotspot\/share\/jfr\/periodic\/jfrFinalizerStatisticsEvent.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
