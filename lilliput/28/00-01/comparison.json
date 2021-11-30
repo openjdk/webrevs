@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -616,0 +616,2 @@\n+\/\/ We might access the dead object headers for parsable heap walk, make sure\n+\/\/ headers are in correct shape, e.g. monitors deflated.\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
