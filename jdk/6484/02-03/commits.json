@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove the unused stream parameter in ClassLoaderExt::record_result()"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderExt.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderExt.hpp"}],"sha":"f3eee00db33b27d4fe9d96680d9e1ee4f33142d2"}]
