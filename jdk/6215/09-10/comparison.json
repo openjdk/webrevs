@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -378,0 +378,3 @@\n+     * <p>\n+     * A property can either be defined in this {@code XPathFactory}, or by the\n+     * underlying implementation.\n","filename":"src\/java.xml\/share\/classes\/javax\/xml\/xpath\/XPathFactory.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
