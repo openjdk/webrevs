@@ -1,0 +1,1 @@
+[{"commit":{"message":"8265150: AsyncGetCallTrace crashes on ResourceMark"},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"}],"sha":"54728c4335f4397f10571d2420b3385c6b8bca83"}]
