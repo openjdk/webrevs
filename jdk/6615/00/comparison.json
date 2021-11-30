@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,1 +156,1 @@\n-     * used to convert the epoch time to the MS-DOS data and time.\n+     * used to convert the epoch time to the MS-DOS date and time.\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipEntry.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
