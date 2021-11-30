@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -164,1 +164,1 @@\n-  _dead_factor_for_cleanup = percent_of(StringDeduplicationCleanupDeadPercent, 100);\n+  _dead_factor_for_cleanup = StringDeduplicationCleanupDeadPercent \/ 100.0;\n","filename":"src\/hotspot\/share\/gc\/shared\/stringdedup\/stringDedupConfig.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
