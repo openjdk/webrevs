@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277965: Enclosing instance optimization affects serialization"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"},{"filename":"test\/langtools\/tools\/javac\/optimizeOuterThis\/OptimizeOuterThis.java"}],"sha":"dada8f529d7d7713ff6f37e23dbdcac62896d706"}]
