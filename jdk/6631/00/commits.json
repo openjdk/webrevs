@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278047: Few javax\/imageio test regressed after JDK-8262297 fix"},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/bmp\/BMPImageWriter.java"},{"filename":"test\/jdk\/javax\/imageio\/plugins\/bmp\/BMPBitsPerPixelTest.java"}],"sha":"8ce751e49d5ccbeabcb6200f07e8df788cee2f3e"}]
