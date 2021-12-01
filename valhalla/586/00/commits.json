@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274800: [lworld] Primitive classes can't be retransformed"},"files":[{"filename":"src\/hotspot\/share\/include\/jvm_constants.h"},{"filename":"src\/hotspot\/share\/prims\/jvmtiClassFileReconstituter.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/RedefinePrimitive.java"}],"sha":"2c2e26b6bdb4373f638ff8de7c48eb7e1926cefa"}]
