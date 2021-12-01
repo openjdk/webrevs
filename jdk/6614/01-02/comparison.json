@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1589,2 +1589,1 @@\n-  if (end != NULL)\n-  if (x->number_of_sux() > 0) {\n+  if (end != NULL && x->number_of_sux() > 0) {\n","filename":"src\/hotspot\/share\/c1\/c1_LIR.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
