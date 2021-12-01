@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix the situation  when the csr issue not existing. Revise the reply message."},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CSRCommand.java"},{"filename":"bots\/pr\/src\/test\/java\/org\/openjdk\/skara\/bots\/pr\/CSRTests.java"}],"sha":"83fa15f26c524b5cfa02146ef64f231d3bfcdf1e"}]
