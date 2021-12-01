@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278078: cannot reference super before supertype constructor has been called"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/8278078\/EclosingSuperTest.java"}],"sha":"f0242397dfdea62eff9d2b697992f9f0095544b2"}]
