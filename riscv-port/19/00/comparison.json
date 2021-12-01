@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2482,1 +2482,1 @@\n-  sc_w(tmp, counter_addr, tmp);\n+  sc_w(tmp, tmp, counter_addr);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
