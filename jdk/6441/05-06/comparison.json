@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -162,4 +162,0 @@\n-static bool ok_to_convert(Node* inc) {\n-  return !is_cloop_increment(inc);\n-}\n-\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
