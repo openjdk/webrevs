@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,0 +72,1 @@\n+                       \"-XX:+UnlockDiagnosticVMOptions\",\n@@ -84,0 +85,1 @@\n+                       \"-XX:+UnlockDiagnosticVMOptions\",\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/LambdaWithJavaAgent.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
