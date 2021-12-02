@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1181,1 +1181,0 @@\n-  int argc;\n@@ -1190,1 +1189,1 @@\n-      (end_arg > (argc = this_cp->bootstrap_argument_count_at(index))) ||\n+      (end_arg > this_cp->bootstrap_argument_count_at(index)) ||\n","filename":"src\/hotspot\/share\/oops\/constantPool.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
