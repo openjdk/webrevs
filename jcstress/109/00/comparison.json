@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -145,1 +145,1 @@\n-                    if (!forks[f1] && !forks[f1]) {\n+                    if (!forks[f1] && !forks[f2]) {\n","filename":"jcstress-samples\/src\/main\/java\/org\/openjdk\/jcstress\/samples\/problems\/classic\/Classic_01_DiningPhilosophers.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
