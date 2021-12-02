@@ -1,0 +1,1 @@
+[{"commit":{"message":"8276241: JVM does not flag constant class entries ending in '\/'"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/classFileParserBug\/TrailingSlashTest.java"}],"sha":"d3fdf28360bc6b7ebf9b94afefbc5234087c1df1"}]
