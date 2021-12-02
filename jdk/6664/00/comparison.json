@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-    \/\/ FIXME: JDK-8274295, JDK-8266666\n+    \/\/ FIXME: JDK-8274295, JDK-8266666, JDK-8278077\n@@ -67,0 +67,1 @@\n+            \"--link-modularity-mismatch\",\n","filename":"test\/langtools\/jdk\/javadoc\/tool\/CheckManPageOptions.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
