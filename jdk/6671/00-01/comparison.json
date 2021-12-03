@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1183,1 +1183,1 @@\n-  \/\/ tag at index, start..end in range [0..argc],\n+  \/\/ tag at index, start..end in range [0..this_cp->bootstrap_argument_count],\n","filename":"src\/hotspot\/share\/oops\/constantPool.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
