@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -312,1 +312,1 @@\n-        return length;\n+        return current - offset + length;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/jimage\/ImageStringsReader.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
