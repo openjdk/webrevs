@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,0 +45,1 @@\n+       isText:(jboolean)isText\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/EncoderManager.m","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
