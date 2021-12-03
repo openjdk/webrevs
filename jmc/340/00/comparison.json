@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-\t\t\t\t\t<argLine>-Djava.net.preferIPv4Stack=true<\/argLine>\n+\t\t\t\t\t<argLine>-Djava.net.preferIPv4Stack=true @{surefireArgLine}<\/argLine>\n","filename":"core\/tests\/org.openjdk.jmc.jdp.test\/pom.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
