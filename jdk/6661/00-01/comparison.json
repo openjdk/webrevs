@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,0 +78,1 @@\n+            robot.waitForIdle();\n@@ -80,0 +81,1 @@\n+            robot.waitForIdle();\n","filename":"test\/jdk\/javax\/swing\/JTree\/4908142\/bug4908142.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
