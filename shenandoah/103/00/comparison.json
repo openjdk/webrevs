@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -402,1 +402,1 @@\n-  size_t prev_offset;\n+  size_t prev_offset = offset;\n@@ -442,1 +442,0 @@\n-      prev_offset = offset;\n@@ -445,0 +444,1 @@\n+        prev_offset = offset;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.inline.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
