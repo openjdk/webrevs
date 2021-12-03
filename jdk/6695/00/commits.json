@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277864: Compilation error thrown while doing a boxing conversion on selector expression"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Switches.java"}],"sha":"aaef2ceca54ddff159b3292c2ba3487da0a7527a"}]
