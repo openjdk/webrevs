@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278044: ObjectInputStream methods invoking the OIF.CFG.getSerialFilterFactory() silent about error cases."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ObjectInputStream.java"}],"sha":"ecb9aa90e88fbfb995f0221ae516f88bba64683e"}]
