@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-  assert((int)_card_size == (int)(CardTable::card_size()), \"Sanity\");\n+  assert(_card_size == CardTable::card_size(), \"Sanity\");\n","filename":"src\/hotspot\/share\/gc\/parallel\/objectStartArray.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
