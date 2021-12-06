@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -563,0 +563,5 @@\n+  \/\/ java.lang.Class may not be loaded by AppClassLoader\n+  if (found_klass == NULL && sym == vmSymbols::java_lang_Class()) {\n+    return Class_klass();\n+  }\n+\n","filename":"src\/hotspot\/share\/ci\/ciEnv.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
