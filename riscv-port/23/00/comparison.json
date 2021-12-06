@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1664,2 +1664,1 @@\n-    \/\/ TODO: Fix this typo. See JDK-8267625.\n-    __ ld(tmp, mdo_addr);\n+    __ sd(tmp, mdo_addr);\n","filename":"src\/hotspot\/cpu\/riscv\/c1_LIRAssembler_riscv.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
