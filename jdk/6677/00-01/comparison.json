@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,0 @@\n-private:\n@@ -98,0 +97,1 @@\n+  virtual void work() = 0;\n@@ -103,1 +103,0 @@\n-  virtual void work() = 0;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1VMOperations.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
