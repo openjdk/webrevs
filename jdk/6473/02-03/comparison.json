@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1101,2 +1101,0 @@\n-                \/\/ Release DC\n-                ReleaseDC(NULL, dc);\n@@ -1111,0 +1109,2 @@\n+            \/\/ Release DC\n+            ReleaseDC(NULL, dc);\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/ShellFolder2.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
