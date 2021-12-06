@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -405,0 +405,1 @@\n+        Objects.requireNonNull(action);\n","filename":"src\/java.base\/share\/classes\/javax\/security\/auth\/Subject.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
