@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix cast; add testcase to cover memory pressure"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ClassCache.java"},{"filename":"test\/jdk\/java\/io\/ObjectStreamClass\/TestOSCClassLoaderLeak.java"}],"sha":"e6e34ceae491684a9ed0641809dad11d450d778f"}]
