@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -342,1 +342,1 @@\n-        public Listener(ListPropertyBase<E> ref) {\n+        public BaseInvalidationListener(ListPropertyBase<E> ref) {\n","filename":"modules\/javafx.base\/src\/main\/java\/javafx\/beans\/property\/ListPropertyBase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
