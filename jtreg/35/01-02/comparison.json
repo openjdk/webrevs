@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,1 +139,1 @@\n-        String[] props = { \"user.name\", \"os.name\", \"os.arch\", \"os.version\" };\n+        String[] props = { \"user.name\" };\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/RegressionScript.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
