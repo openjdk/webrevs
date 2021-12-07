@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,3 +63,0 @@\n-        if (!Platform.isDebugBuild()) {\n-            deprecated.add(new String[]{\"UseHeavyMonitors\", \"false\"});\n-        }\n","filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
