@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -668,0 +668,1 @@\n+  DEBUG_ONLY(::memset(inner_ptr, uninitBlockPad, size);)\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
