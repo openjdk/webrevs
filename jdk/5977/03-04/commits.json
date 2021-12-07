@@ -1,0 +1,1 @@
+[{"commit":{"message":"undo hoisting since it can interleave with epoch shift"},"files":[{"filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrThreadSampler.cpp"},{"filename":"src\/hotspot\/share\/jfr\/utilities\/jfrEpochQueue.inline.hpp"}],"sha":"0c34fab9b2e5fd6b29d638e5dfc107230482883f"}]
