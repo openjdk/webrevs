@@ -1,0 +1,1 @@
+[{"commit":{"message":"add missing deallocate to avoid memory leaks"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/GetThreadState\/thrstat002\/thrstat002.cpp"}],"sha":"7e703a52eef2d04af6c7690f27472b3b84792e4e"}]
