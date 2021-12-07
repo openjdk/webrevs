@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n-\/\/ options: --debug=dumpLambdaToMethodDeduplication\n+\/\/ options: -g:none --debug=dumpLambdaToMethodDeduplication\n","filename":"test\/langtools\/tools\/javac\/diags\/examples\/LambdaDeduplicate.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
