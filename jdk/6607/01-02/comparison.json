@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-  virtual Node* Ideal(PhaseGVN *phase, bool can_reshape);\n+  virtual Node* Ideal(PhaseGVN* phase, bool can_reshape);\n","filename":"src\/hotspot\/share\/opto\/addnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
