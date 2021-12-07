@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -220,0 +220,5 @@\n+\n+        @Override\n+        public boolean isAlive() {\n+            return true;\n+        }\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/ResourceScopeImpl.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
