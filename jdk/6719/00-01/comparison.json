@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,1 @@\n-            String actual = new String(out.toByteArray());\n+            String actual = new String(out.toByteArray()).replace(\"\\\\R\", \"\\n\");\n","filename":"test\/langtools\/tools\/javac\/classwriter\/IndyCorrectInvocationName.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
