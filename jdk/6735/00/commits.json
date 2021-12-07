@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed: 8278330 dump stack trace if the jvmti test nsk\/jvmti\/GetThreadState\/thrstat002 is failed with wrong thread state"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/GetThreadState\/thrstat002\/thrstat002.cpp"}],"sha":"f85565e60e81e1d275b6ad840eb06f9333067cd3"}]
