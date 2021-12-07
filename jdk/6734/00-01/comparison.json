@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -678,0 +678,2 @@\n+\n+  \/\/ Initial state is ALLOCATED but not INITIALIZED\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
