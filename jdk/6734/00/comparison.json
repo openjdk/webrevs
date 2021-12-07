@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -678,0 +678,1 @@\n+  osthread->set_state(ALLOCATED);\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
