@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport e39bdc9ddb7ba50160d07a27e6038cdea6a594a8"},"files":[{"filename":"src\/hotspot\/share\/classfile\/verifier.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/verifier\/PutfieldProtectedTest.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/verifier\/putfieldProtected.jasm"}],"sha":"46aba325e8de7194272adf0fc2172cd99773b8d2"}]
