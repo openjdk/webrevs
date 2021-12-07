@@ -1,0 +1,1 @@
+[{"commit":{"message":"add comment mirroring linux version"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"f7e72498f5f227f283d1df01574e9d7f1ae8fb9e"},{"commit":{"message":"initialize osthread state on windows"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"e85638e2c8c33a18f1476e272a41a958729b9f90"}]
