@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,2 @@\n-      \/\/ nothing to assert\n+      \/\/ should early-return above\n+      ShouldNotReachHere();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCCompactTask.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
