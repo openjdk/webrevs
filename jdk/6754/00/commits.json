@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277980: ObjectMethods::bootstrap throws NPE when lookup is null"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/ObjectMethods.java"},{"filename":"test\/jdk\/java\/lang\/runtime\/ObjectMethodsTest.java"}],"sha":"6dbd35ca8ea6ce277c7aa037bcb6481b156a9a71"}]
