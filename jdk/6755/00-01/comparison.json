@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-        Float.NEGATIVE_INFINITY\n+        Float.NEGATIVE_INFINITY,\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestAbs.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
