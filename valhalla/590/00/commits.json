@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278352: [lworld] nmethod assembly snippet in hs_err file misses method name and parameters"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/MachCodeFramesInErrorFile.java"}],"sha":"4db236868428b36b4253b1a233edae60d2a8c519"}]
