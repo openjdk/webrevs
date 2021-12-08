@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278379: Zero VM is broken due to UseRTMForStackLocks was not declared after JDK-8276901"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"bb65d395775ea06b4bc11e7df2cf7372c7339a34"}]

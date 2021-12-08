@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2029,1 +2029,1 @@\n-#if defined(X86) || defined(PPC64)\n+#if (defined(X86) || defined(PPC64)) && !defined(ZERO)\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
