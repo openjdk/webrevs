@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1750,1 +1750,1 @@\n-  if ((1L << shift_con) > mask_t->hi_as_long() && mask_t->lo_as_long() >= 0) {\n+  if ((((long)1) << shift_con) > mask_t->hi_as_long() && mask_t->lo_as_long() >= 0) {\n","filename":"src\/hotspot\/share\/opto\/mulnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
