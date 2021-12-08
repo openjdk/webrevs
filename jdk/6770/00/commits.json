@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278428: ObjectInputStream.readFully range check incorrect\nCorrect to use Objects.checkFromIndexSize"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ObjectInputStream.java"},{"filename":"test\/jdk\/java\/io\/Serializable\/oldTests\/WritePrimitive.java"}],"sha":"b6c4499e527954452f83963ea042aca0df104aaf"}]
