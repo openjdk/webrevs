@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278463: [test] WritePrimitive revised with readFully test fails\nCorrected length to read in readFully(byte[], off, len)"},"files":[{"filename":"test\/jdk\/java\/io\/Serializable\/oldTests\/WritePrimitive.java"}],"sha":"40a8dbe0ff6721bda97327e8f406ea7d15c31c3b"}]
