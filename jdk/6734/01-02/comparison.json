@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -783,1 +783,1 @@\n-  \/\/ Initial thread state is INITIALIZED, not SUSPENDED\n+  \/\/ Thread state now is INITIALIZED, not SUSPENDED\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
