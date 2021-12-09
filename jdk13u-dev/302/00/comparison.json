@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -672,1 +672,1 @@\n-    DISABLED_WARNINGS_gcc := sign-compare unused-function, \\\n+    DISABLED_WARNINGS_gcc := sign-compare unused-function int-to-pointer-cast, \\\n","filename":"make\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
