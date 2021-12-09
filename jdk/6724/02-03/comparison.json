@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n- * @requires vm.cpu.features ~= \".*neon.*\"\n+ * @requires vm.cpu.features ~= \".*simd.*\"\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/reshape\/TestVectorCastNeon.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
