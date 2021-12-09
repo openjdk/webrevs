@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n- * @run main\/othervm\/timeout=3600\n+ * @run main\/othervm\/timeout=7200\n","filename":"test\/hotspot\/jtreg\/compiler\/arraycopy\/stress\/TestStressArrayCopy.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
