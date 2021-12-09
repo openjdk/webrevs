@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278381: [GCC 11] Address::make_raw() does not initialize rspec"},"files":[{"filename":"src\/hotspot\/cpu\/arm\/assembler_arm_32.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"}],"sha":"8fb18ca3a495a17124f4af776623e64fad2a363d"}]
