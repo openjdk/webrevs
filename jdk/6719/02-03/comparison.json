@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,1 @@\n-                        private static final String NL = \"\\\\n\";\n+                        private static final String NL = System.lineSeparator();\n","filename":"test\/langtools\/tools\/javac\/classwriter\/IndyCorrectInvocationName.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
