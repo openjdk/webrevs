@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,0 @@\n-  check_internal_types();\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/jfrMetadataEvent.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
