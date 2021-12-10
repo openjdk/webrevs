@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -386,1 +386,1 @@\n-    MutexLocker lock(ClassLoaderDataGraph_lock);\n+    MutexLocker lock(SafepointSynchronize::is_at_safepoint() ? nullptr : ClassLoaderDataGraph_lock);\n","filename":"src\/hotspot\/share\/jfr\/leakprofiler\/checkpoint\/objectSampleCheckpoint.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
