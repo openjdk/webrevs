@@ -1,0 +1,1 @@
+[{"commit":{"message":"Apply Base64 buffer overrun fix to JDK 18"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/base64\/TestBase64.java"}],"sha":"e791fc04743ee19c0b4ea06ea9efec9baf40f55c"}]
