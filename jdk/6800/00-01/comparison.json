@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -311,1 +311,1 @@\n-        print_debug(\"can't read the value of 'UseSharedSpaces' flag\\n\");\n+        print_debug(\"can't read the value of 'UseSharedSpaces' symbol\\n\");\n","filename":"src\/jdk.hotspot.agent\/share\/native\/libsaproc\/ps_core_common.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
