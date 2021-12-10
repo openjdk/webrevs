@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -321,1 +321,0 @@\n-        pr.setState(PullRequest.State.CLOSED);\n@@ -323,0 +322,1 @@\n+        pr.setState(PullRequest.State.CLOSED);\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/IntegrateCommand.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
