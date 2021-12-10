@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -100,2 +100,0 @@\n-  bool bailout = false;\n-\n@@ -258,4 +256,0 @@\n-      case Bytecodes::_breakpoint:\n-        \/\/ Bail out of there are breakpoints in here.\n-        bailout = true;\n-        break;\n","filename":"src\/hotspot\/share\/compiler\/methodLiveness.cpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
