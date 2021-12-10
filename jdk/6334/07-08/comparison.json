@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -901,1 +901,1 @@\n-  UTIL_ARG_ENABLE(NAME: branch-protection, DEFAULT: auto,\n+  UTIL_ARG_ENABLE(NAME: branch-protection, DEFAULT: false,\n","filename":"make\/autoconf\/flags-cflags.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
