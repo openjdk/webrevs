@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -159,1 +159,1 @@\n-        throw new IllegalStateException(\"Hg tag commit issue - should not happen\");\n+        log.fine(\"ignored: invalid tag commit\");\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/PullRequestCheckIssueVisitor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
