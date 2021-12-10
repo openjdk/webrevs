@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,1 +281,1 @@\n-  assert(ClassLoaderDataGraph_lock->owned_by_self(), \"invariant\");\n+  assert_locked_or_safepoint(ClassLoaderDataGraph_lock);\n","filename":"src\/hotspot\/share\/jfr\/leakprofiler\/checkpoint\/objectSampleCheckpoint.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
