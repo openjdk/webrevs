@@ -1,0 +1,1 @@
+[{"commit":{"message":"8276167: Avoid additional Toolkit.getToolkit().firePulse()\n\nAvoid using of additional Toolkit.getToolkit().firePulse() in the test,\nadjust expected values instead."},"files":[{"filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/ListViewKeyInputTest.java"}],"sha":"73e11f4b295f7f35538f92876a038500d2b7e87b"}]
