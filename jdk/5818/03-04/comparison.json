@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,2 +72,1 @@\n-                 BufferedInputStream bin = new BufferedInputStream(in))\n-            {\n+                 BufferedInputStream bin = new BufferedInputStream(in)) {\n","filename":"src\/java.base\/share\/classes\/sun\/net\/NetProperties.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
