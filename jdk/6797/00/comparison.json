@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -152,4 +152,0 @@\n-    oop obj = cast_to_oop(q);\n-    if (obj->klass_or_null_acquire() == NULL) {\n-      return q;\n-    }\n","filename":"src\/hotspot\/share\/gc\/g1\/g1BlockOffsetTable.inline.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
