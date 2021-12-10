@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278420: C2: assert(!n->is_Store() && !n->is_LoadStore()) failed: no node with a side effect"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestSinkingBadStore.java"}],"sha":"18b9e98ad8744fdc6eaf0220debee94f1b97e806"}]
