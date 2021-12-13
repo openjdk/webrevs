@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,1 +239,1 @@\n-                                       \" initializing pipeline \"+ className);\n+                                       \" initializing pipeline \" + className);\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/GraphicsPipeline.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
