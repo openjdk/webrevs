@@ -1,0 +1,1 @@
+[{"commit":{"message":"add a security manager test to verify proper permission checks happen when local address is configured on HTTPClient"},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/HttpClientLocalAddrTest.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/httpclient-localaddr-security.policy"}],"sha":"9107b2aca65fd55ff2d02daa668981a280df6889"}]
