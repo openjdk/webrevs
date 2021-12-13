@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check if StubRoutines::aarch64::spin_wait() is not null"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/os_linux_aarch64.cpp"}],"sha":"419508b9558f0643120cbb94a6a1a85728dbbded"}]
