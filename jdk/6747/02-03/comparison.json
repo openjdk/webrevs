@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,0 @@\n-  return worker;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahWorkGroup.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
