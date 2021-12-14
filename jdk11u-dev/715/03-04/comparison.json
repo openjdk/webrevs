@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,4 +97,0 @@\n-static inline Address at_rsp() {\n-  return Address(esp, 0);\n-}\n-\n","filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
