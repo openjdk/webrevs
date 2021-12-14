@@ -1,0 +1,1 @@
+[{"commit":{"message":"RET only StubRoutines::aarch64::spin_wait() for SpinWait::NONE"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/os_linux_aarch64.cpp"}],"sha":"53d165801a06eb517206880448b21924fd49c16b"}]
