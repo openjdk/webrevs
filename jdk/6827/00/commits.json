@@ -1,0 +1,1 @@
+[{"commit":{"message":"Strip out code that looks for vtable pointers in locations other than the 1st word of the object."},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/types\/basic\/BasicTypeDataBase.java"}],"sha":"7ce6bfcad3e7be906e46f70a56ded51f1a8374cd"}]
