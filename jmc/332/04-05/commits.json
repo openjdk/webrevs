@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed -XstartOnFirstThread as it is not valid for some JVMs"},"files":[{"filename":"application\/tests\/org.openjdk.jmc.jolokia.test\/pom.xml"}],"sha":"955e3f8ac8793bf98c551f8d77e7c4e1819dc1fe"}]
