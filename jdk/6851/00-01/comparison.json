@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n-  JVM_ACC_HAS_RESOLVED_METHODS    = 0x00200000,     \/\/ True if the klass is has resolved methods\n+  JVM_ACC_HAS_RESOLVED_METHODS    = 0x00200000,     \/\/ True if the klass has resolved methods\n","filename":"src\/hotspot\/share\/utilities\/accessFlags.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
