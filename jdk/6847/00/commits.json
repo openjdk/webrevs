@@ -1,0 +1,1 @@
+[{"commit":{"message":"Apply manual inline and unroll, plus moving data into local variables to help C2 with SHA3 impl"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/SHA3.java"}],"sha":"dd889460feb6323467d2853f2a3906b46d391827"}]
