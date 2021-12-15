@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,3 +39,0 @@\n-public:\n-  static const uint INVALID_WORKER_ID = uint(-1);\n-\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahThreadLocalData.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
