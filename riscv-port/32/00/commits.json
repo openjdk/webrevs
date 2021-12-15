@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278547: riscv: Refactor moving assembler functions for vector instructions into separate file"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv_v.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"3a87feaf9dc26fbf1249a637e0e06d0a6fee047f"}]
