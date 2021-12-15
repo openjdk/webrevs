@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -464,0 +464,1 @@\n+ext.IS_RELEASE = !ext.IS_DEBUG_JAVA\n@@ -4980,1 +4981,1 @@\n-        def doStrip = targetProperties.containsKey('strip') && !IS_DEBUG_NATIVE\n+        def doStrip = targetProperties.containsKey('strip') && IS_RELEASE\n","filename":"build.gradle","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
