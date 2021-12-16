@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278384: Bytecodes::result_type() for arraylength returns T_VOID instead of T_INT"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/bytecodeUtils.cpp"},{"filename":"src\/hotspot\/share\/interpreter\/bytecodes.cpp"}],"sha":"cb3aee9217b0b757f1857af2e77d22e0c44fb1a5"}]
