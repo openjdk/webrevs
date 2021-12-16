@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-     * Returns a vertical ScrollBar of the control.\n+     * Returns a horizontal ScrollBar of the control.\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/com\/sun\/javafx\/scene\/control\/infrastructure\/VirtualizedControlTestUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
