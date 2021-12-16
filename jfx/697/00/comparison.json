@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -227,1 +227,1 @@\n-        return \"EnumConveter[\" + enumClass.getName() + \"]\";\n+        return \"EnumConverter[\" + enumClass.getName() + \"]\";\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/css\/converter\/EnumConverter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
