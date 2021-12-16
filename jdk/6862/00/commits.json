@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove GCworkerdelaymillis"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/parallel_globals.hpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psCardTable.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psPromotionManager.inline.hpp"}],"sha":"d88f34c42b85b22b6c94e83c76c4aec589336d07"}]
