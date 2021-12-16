@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -260,3 +260,1 @@\n-#ifndef PRODUCT\n-  _hir->verify_local(blocks_to_verify_later);\n-#endif \/\/ PRODUCT\n+  NOT_PRODUCT(_hir->verify_local(blocks_to_verify_later));\n","filename":"src\/hotspot\/share\/c1\/c1_Optimizer.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
