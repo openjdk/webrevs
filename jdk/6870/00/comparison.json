@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3823,0 +3823,1 @@\n+        ReflectionFactory reflectionFactory = Class.reflectionFactory;\n@@ -3824,1 +3825,1 @@\n-            reflectionFactory =\n+            return Class.reflectionFactory =\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
