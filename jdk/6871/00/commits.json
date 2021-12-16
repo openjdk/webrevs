@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270929: Obsolete the FilterSpuriousWakeups flag in JDK 19"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"380a15349e7f76848c79eba36f1644f74f1b14c6"}]
