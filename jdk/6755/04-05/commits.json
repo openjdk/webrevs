@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use uabs() to calculate the absolute value of constant\n\nChange-Id: Ie6f37ab159fb7092e1443b9af8d620562a45ae47"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"}],"sha":"e254d9f7ebf5b4b10669a5969077091bca8aeb2d"}]
