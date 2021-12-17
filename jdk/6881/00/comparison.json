@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,3 +97,0 @@\n-  \/\/ Allocate the object aligned to \"alignment_in_bytes\".\n-  inline HeapWord* allocate_aligned(size_t word_sz, unsigned short alignment_in_bytes);\n-\n","filename":"src\/hotspot\/share\/gc\/shared\/plab.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
