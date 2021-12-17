@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+    JAVA_ARGS := -Djava.security.manager, \\\n","filename":"make\/modules\/java.rmi\/Launcher.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
