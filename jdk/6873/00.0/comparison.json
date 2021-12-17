@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,1 @@\n+#include \"oops\/instanceKlass.hpp\"\n@@ -422,0 +423,5 @@\n+  if (!InstanceKlass::is_finalization_enabled()) {\n+    output()->print_cr(\"Finalization is disabled\");\n+    return;\n+  }\n+\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
