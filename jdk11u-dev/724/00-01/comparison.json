@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -817,1 +817,0 @@\n-    Thread* current_thread = Thread::current();\n@@ -819,0 +818,1 @@\n+    Thread* current_thread = Thread::current();\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
