@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,2 +80,0 @@\n-    static double d = 123;\n-    static float f = 456;\n@@ -86,3 +84,0 @@\n-    public void doit(Runnable r) {\n-        r.run();\n-    }\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/test-classes\/LotsUnloadApp.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
