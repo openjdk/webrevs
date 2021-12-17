@@ -1,0 +1,1 @@
+[{"commit":{"message":"8239927: Product variable PrefetchFieldsAhead is unused and should be removed"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"ec81c677e4c94a077d5fa04206e02330ebacab7b"}]
