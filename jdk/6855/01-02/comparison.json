@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1984,1 +1984,1 @@\n-      \/\/ JVMCI separates trap history for OSE compilations from normal compilations\n+      \/\/ JVMCI separates trap history for OSR compilations from normal compilations\n","filename":"src\/hotspot\/share\/oops\/methodData.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
