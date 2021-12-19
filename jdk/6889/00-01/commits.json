@@ -1,0 +1,1 @@
+[{"commit":{"message":"Just use volatile directly to ensure read order"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/reflect\/ReflectionFactory.java"}],"sha":"1deb52073f142e3fa73a8fee07caa272f6119776"}]
