@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,0 +46,1 @@\n+import jdk.internal.misc.Unsafe;\n@@ -693,0 +694,2 @@\n+        \/\/ ensure previous fields are visible before initted is\n+        Unsafe.getUnsafe().storeStoreFence();\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/reflect\/ReflectionFactory.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
