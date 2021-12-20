@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1415,1 +1415,2 @@\n-     * otherwise, returns false.\n+     * otherwise, returns false. The default value of this property may be\n+     * derived from the underlying Operating System.\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JFileChooser.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
