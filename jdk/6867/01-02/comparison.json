@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1266,1 +1266,0 @@\n-#ifdef ASSERT\n@@ -1271,1 +1270,0 @@\n-#endif\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
