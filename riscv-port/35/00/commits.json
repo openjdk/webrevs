@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278890: riscv: Missing features string in VM_Version"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp"}],"sha":"5a899e24d7581a785aee2376b3d0e1adc87d7c17"}]
