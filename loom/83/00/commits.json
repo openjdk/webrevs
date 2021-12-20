@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update running count of ForkJoinPool when thread pinned"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/VirtualThread.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"},{"filename":"test\/jdk\/java\/lang\/Thread\/virtual\/VTCompensate.java"}],"sha":"eb712a06a9f6c9559bb6c94bc1ccf5d9daf6a3b6"}]
