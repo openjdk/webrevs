@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 110e38ded8e09361f24c582c770d35f5cfdabf82"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/loaderConstraints\/DynamicLoaderConstraintsTest.java"}],"sha":"6e33940330bc71b67b2715ce5df567b500ee3875"}]
