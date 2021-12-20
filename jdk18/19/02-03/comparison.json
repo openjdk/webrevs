@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4456,1 +4456,0 @@\n-    __ addptr(rsp, 96 * longSize);\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}

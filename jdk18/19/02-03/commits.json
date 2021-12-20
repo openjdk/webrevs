@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed __addptr instruction as it was not needed"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"0140f672d43eda92e2250d9fb8ed5610ef23c946"}]
