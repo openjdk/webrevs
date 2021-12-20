@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,0 @@\n-  int          _crc;                      \/\/ header crc checksum\n@@ -72,0 +71,1 @@\n+  int          _crc;                      \/\/ header crc checksum\n","filename":"src\/hotspot\/share\/include\/cds.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
