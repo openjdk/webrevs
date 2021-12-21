@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,1 +117,1 @@\n-    return 1u << (log_region_size \/ 2 - 7);\n+    return 1u << (log_region_size \/ 2 - 4);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
