@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,1 +256,0 @@\n-        launcher.addVMArg(\"-Djava.security.manager=allow\");\n","filename":"test\/jdk\/sun\/tools\/jstatd\/JstatdTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
