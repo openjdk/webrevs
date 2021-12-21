@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,2 +80,1 @@\n-\/\/ No performance work done here yet.\n-define_pd_global(bool, CompactStrings, false);\n+define_pd_global(bool, CompactStrings, true);\n","filename":"src\/hotspot\/cpu\/zero\/globals_zero.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
