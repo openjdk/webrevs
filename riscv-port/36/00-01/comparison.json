@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3062,1 +3062,1 @@\n-  for (unsigned i = 0; i < unroll; i++) {\n+  for (int i = 0; i < unroll; i++) {\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
