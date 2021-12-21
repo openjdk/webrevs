@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,3 @@\n-    :jdk_jfr_tier3\n+    :jdk_svc \\\n+   -:jdk_svc_sanity \\\n+   -:svc_tools\n@@ -286,3 +288,0 @@\n-jdk_jfr_tier3 = \\\n-    jdk\/jfr\/event\/metadata\/TestLookForUntestedEvents.java\n-\n","filename":"test\/jdk\/TEST.groups","additions":3,"deletions":4,"binary":false,"changes":7,"status":"modified"}]}
