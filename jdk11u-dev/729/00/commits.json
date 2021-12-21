@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279077: JFR crashes on Linux ppc due to missing crash protector in signal handler"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_ppc\/os_linux_ppc.cpp"}],"sha":"f40de34dd626cc257a136b76f761a23f5f6c3ce0"}]
