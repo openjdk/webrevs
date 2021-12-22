@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -568,0 +568,1 @@\n+        if (role == null) return 0;\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/win\/WinAccessible.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
