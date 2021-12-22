@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278766: Enable OpenJDK build support for reproducible jars and jmods using --date\n\nSigned-off-by: Andrew Leonard <anleonar@redhat.com>"},"files":[{"filename":"make\/common\/JarArchive.gmk"}],"sha":"75c9d6924ac96e90a6ed666ace2f66f89f9897c7"}]
