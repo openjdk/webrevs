@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255739: x509Certificate returns � for invalid subjectAlternativeNames"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/util\/DerValue.java"},{"filename":"test\/jdk\/sun\/security\/x509\/GeneralName\/DNSNameErrorTest.java"}],"sha":"b11495d9d6dca567dac55a4160e04ff99f42ee94"}]
