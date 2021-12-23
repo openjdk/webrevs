@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reseed NativePRNG on checkpoint restore"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/security\/provider\/NativePRNG.java"},{"filename":"test\/jdk\/jdk\/crac\/SecureRandom\/Test.java"},{"filename":"test\/jdk\/jdk\/crac\/SecureRandom\/Test.sh"}],"sha":"894576ee46dddb6ec118f49213610e8e86dcb098"}]
