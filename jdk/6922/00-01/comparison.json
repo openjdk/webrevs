@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,0 +88,3 @@\n+  \/\/ The ever running loop for the VMThread\n+  void loop();\n+\n@@ -94,3 +97,0 @@\n-  \/\/ The ever running loop for the VMThread\n-  void loop();\n-\n","filename":"src\/hotspot\/share\/runtime\/vmThread.hpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
