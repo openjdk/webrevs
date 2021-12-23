@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272746: ZipFile can't open big file (NegativeArraySizeException)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipFile.java"},{"filename":"test\/jdk\/java\/util\/zip\/ZipFile\/TestTooManyEntries.java"}],"sha":"a85ef0f5a410a2cfec1ece5373f1f9e28b232e78"}]
