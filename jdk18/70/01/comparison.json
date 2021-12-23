@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1152,1 +1152,1 @@\n-                    Service prevAliasService = legacyMap.get(aliasAlg);\n+                    Service prevAliasService = legacyMap.get(aliasKey);\n","filename":"src\/java.base\/share\/classes\/java\/security\/Provider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
