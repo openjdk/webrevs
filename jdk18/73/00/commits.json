@@ -1,0 +1,1 @@
+[{"commit":{"message":"Bailout in case live range extension produces invalid phi"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c1\/Test8271202.java"}],"sha":"ed8740e7274682a2b0f15163ac50180426afb15b"}]
