@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1501,1 +1501,1 @@\n-                    zerror(\"invalid END header (too large central directory size)\");\n+                    zerror(\"invalid END header (central directory size too large)\");\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
