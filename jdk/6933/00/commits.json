@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279258: Auto-vectorization enhancement for two-dimensional array operations"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/AutoVectorization.java"}],"sha":"7f4fc92e9f4b94574b093ae95a33e99728b76f94"}]
