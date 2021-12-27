@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -491,1 +491,1 @@\n-    public long transferTo(OutputStream out) throws IOException {\n+    public synchronized long transferTo(OutputStream out) throws IOException {\n","filename":"src\/java.base\/share\/classes\/java\/io\/BufferedInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
