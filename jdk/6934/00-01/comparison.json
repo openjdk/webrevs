@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1823,1 +1823,1 @@\n-        __ cmp(xlo, ylo);\n+        __ subs(Rtemp, xlo, ylo);\n","filename":"src\/hotspot\/cpu\/arm\/c1_LIRAssembler_arm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
