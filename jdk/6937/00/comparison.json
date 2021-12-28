@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1683,0 +1683,3 @@\n+      if (!Assembler::is_arith_imm_in_range(c)) {\n+        BAILOUT(\"illegal arithmetic operand\");\n+      }\n","filename":"src\/hotspot\/cpu\/arm\/c1_LIRAssembler_arm.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
