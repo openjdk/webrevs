@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set ArchiveClassesAtExit when AutoCreateSharedArchive is enabled"},"files":[{"filename":"src\/hotspot\/share\/cds\/dynamicArchive.cpp"},{"filename":"src\/hotspot\/share\/cds\/filemap.cpp"}],"sha":"8bbf190c3979980df10e3a32318fddb664de0a95"}]
