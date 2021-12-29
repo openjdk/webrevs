@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -540,1 +540,1 @@\n-  NetworkInterface* head = NULL;\n+  NetworkInterface* head = *network_interfaces;\n@@ -545,1 +545,1 @@\n-  *network_interfaces = NULL;\n+  head = NULL;\n@@ -573,1 +573,0 @@\n-\n","filename":"src\/hotspot\/os\/aix\/os_perf_aix.cpp","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
