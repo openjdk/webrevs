@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3235,0 +3235,1 @@\n+#ifdef SYS_get_mempolicy\n@@ -3239,0 +3240,1 @@\n+#endif\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
