@@ -1,0 +1,1 @@
+[{"commit":{"message":"Free invoker result and exception refs before sending the reply packet."},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/invoker.c"}],"sha":"ce7cf1fdfb4ac715cd67c1a2d086e43793a98576"}]
