@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -204,1 +204,1 @@\n-        if (ownerThread() != null && Thread.currentThread() != ownerThread()) {\n+        if (owner != null && Thread.currentThread() != owner) {\n","filename":"src\/jdk.incubator.foreign\/share\/classes\/jdk\/internal\/foreign\/ResourceScopeImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
