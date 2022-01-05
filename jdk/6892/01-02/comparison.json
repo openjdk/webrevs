@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -377,1 +377,0 @@\n-    \/\/assert( n_loop == add_loop, \"\" );\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
