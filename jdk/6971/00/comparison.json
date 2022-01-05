@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,1 +112,0 @@\n-    private final JCDiagnostic.Factory diags;\n@@ -140,1 +139,0 @@\n-        diags = JCDiagnostic.Factory.instance(context);\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TypeEnter.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
