@@ -1,0 +1,1 @@
+[{"commit":{"message":"incorporate Dan's feedback"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp"}],"sha":"4e06e7bd1ad6747df0b985b881a609edff88e10c"},{"commit":{"message":"only use executable memory if supported"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp"}],"sha":"202a636fda5106df482332f9b462c90ae1d9b767"}]
