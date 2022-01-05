@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update popcount long test to use IR framework"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestPopCountVectorLong.java"}],"sha":"e84c6bdbbecd59ee078b254c26015fa33cb04a07"}]
