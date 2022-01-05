@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1775,0 +1775,3 @@\n+    case Op_RotateRight:\n+    case Op_RotateLeft:\n+      return UseRVB;\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
