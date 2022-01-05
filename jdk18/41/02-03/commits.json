@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add \"assert\" for immI cases\n\nDefine helper assert_not_var_shift() and use it for immI cases.\n\nBesides, update the copyright year to 2022."},"files":[{"filename":"src\/hotspot\/cpu\/arm\/arm.ad"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"6b09742ff3211faaec723d9cf561d2556879f3fb"}]
