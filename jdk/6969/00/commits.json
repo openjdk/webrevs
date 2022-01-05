@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279520: SPNEGO has not passed channel binding info into the underlying mechanism"},"files":[{"filename":"src\/java.security.jgss\/share\/classes\/sun\/security\/jgss\/spnego\/SpNegoContext.java"},{"filename":"test\/jdk\/sun\/security\/krb5\/auto\/IgnoreChannelBinding.java"}],"sha":"2d2c96c2a1e25565c1109ea8a0085951d2237b64"}]
