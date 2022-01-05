@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -466,1 +466,1 @@\n-  } else if (Universe::is_out_of_memory_error_metaspace(exception())) {\n+  } else if (Universe::is_out_of_memory_error_class_metaspace(exception())) {\n","filename":"src\/hotspot\/share\/utilities\/exceptions.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
