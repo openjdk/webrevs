@@ -1,0 +1,1 @@
+[{"commit":{"message":"4884570: StreamPrintService.isAttributeValueSupported does not work properly for SheetCollate"},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/print\/PSStreamPrintService.java"},{"filename":"test\/jdk\/javax\/print\/attribute\/StreamServiceSheetCollateTest.java"}],"sha":"a360aee68ef553bdf291d67013887810b7723d6c"}]
