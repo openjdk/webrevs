@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4941,1 +4941,1 @@\n-\/\/       Using 'umaxv' in the ASCII-case is considered acceptable and does\n+\/\/       Using 'umaxv' in the ASCII-case comes with a small penalty but does\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
