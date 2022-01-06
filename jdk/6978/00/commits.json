@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279333: Some JFR tests do not accept 'GCLocker Initiated GC' as a valid GC cause"},"files":[{"filename":"test\/jdk\/jdk\/jfr\/event\/gc\/collection\/TestGCCauseWithG1ConcurrentMark.java"},{"filename":"test\/jdk\/jdk\/jfr\/event\/gc\/collection\/TestGCCauseWithG1FullCollection.java"}],"sha":"cb12ea9057a52f559f4c0e6ad987c50fae306916"}]
