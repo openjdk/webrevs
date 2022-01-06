@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-            return o1.getKey().getPriority().ordinal() - o2.getKey().getPriority().ordinal();\n+            return o1.getKey().getPriority().compareTo(o2.getKey().getPriority());\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/crac\/JDKContext.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
