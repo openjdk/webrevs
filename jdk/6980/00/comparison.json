@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-    ClassLoaderDataGraph::clear_claimed_marks();\n+    ClassLoaderDataGraph::clear_claimed_marks(ClassLoaderData::_claim_strong);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootProcessor.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

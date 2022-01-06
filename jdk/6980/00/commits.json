@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279540: Shenandoah: Should only clear CLD::_claim_strong mark for strong CLD iterations"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootProcessor.inline.hpp"}],"sha":"5688bc8d1d5a0783f299b260b667c5d092f808a5"}]
