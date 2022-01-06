@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,2 +31,0 @@\n-#ifndef _WINDOWS\n-\n@@ -57,0 +55,2 @@\n+#ifndef _WINDOWS\n+\n","filename":"src\/hotspot\/cpu\/aarch64\/copy_aarch64.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
