@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278930: javac tries to compile a file twice via PackageElement.getEnclosedElements"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/ClassFinder.java"},{"filename":"test\/langtools\/tools\/javac\/processing\/model\/element\/TestListPackageFromAPI.java"}],"sha":"c3473de4860e18b649daa5cbade86e1376163711"}]
