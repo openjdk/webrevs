@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -332,1 +332,1 @@\n-#if (defined(X86) && !defined(AMD64)) || defined(RISCV)\n+#if defined(X86) && !defined(AMD64)\n","filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagConstraintsCompiler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
