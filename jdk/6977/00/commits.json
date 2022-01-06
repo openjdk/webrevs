@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279290: symbol not found error, implicit lambdas and diamond constructor invocations"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/lambda\/CantFindSymbolImplicitLambdaAndDiamondTest.java"}],"sha":"4c2e90d7b420b2a91783410e9cce45b751b8f2fc"}]
