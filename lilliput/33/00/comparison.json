@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,2 @@\n+#ifdef _LP64\n+\n@@ -41,1 +43,0 @@\n-#ifdef _LP64\n@@ -45,1 +46,0 @@\n-#endif\n@@ -48,0 +48,2 @@\n+#endif \/\/ _LP64\n+\n","filename":"src\/hotspot\/cpu\/zero\/compressedKlass_zero.cpp","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
