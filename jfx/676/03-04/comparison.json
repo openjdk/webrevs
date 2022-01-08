@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -488,3 +488,1 @@\n-        if (stream.read(header) <= 0) {\n-            return null;\n-        }\n+        ImageTools.readFully(stream, header);\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/iio\/ImageStorage.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
