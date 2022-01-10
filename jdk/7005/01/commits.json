@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use AVX_256bit literal"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.hpp"}],"sha":"e52bdf0a10d05aee93783d8d4e3a3b349cf4c174"},{"commit":{"message":"Fix"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.hpp"}],"sha":"3012705b329689cac4aa6e1ad29786417a5e3abb"}]
