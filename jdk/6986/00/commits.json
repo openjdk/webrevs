@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277748: Obsolete the MinInliningThreshold flag in JDK 19"},"files":[{"filename":"src\/hotspot\/share\/opto\/bytecodeInfo.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"c7f0325a3aa3a4c6d0fa41ad891469c7a5f82f49"}]
