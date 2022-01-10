@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4147,1 +4147,1 @@\n-#ifdef __LP64\n+#ifdef _LP64\n@@ -4193,1 +4193,1 @@\n-#else \/\/ __LP64\n+#else \/\/ _LP64\n@@ -4209,1 +4209,1 @@\n-#endif \/\/ __LP64\n+#endif \/\/ _LP64\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
