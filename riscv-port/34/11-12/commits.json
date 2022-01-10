@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove `nmethod_entry_barrier`-related things"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/barrierSetAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/barrierSetNMethod_riscv.cpp"}],"sha":"c0c4416b8f7d97a3a4bf79cef1a5b4280b188e56"}]
