@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5340,0 +5340,1 @@\n+      __ align(OptoLoopAlignment);\n@@ -5344,1 +5345,0 @@\n-        __ align(OptoLoopAlignment);\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
