@@ -1,0 +1,1 @@
+[{"commit":{"message":"Wildcard in object filter to permit proxies, in case other activity in this JVM changes the nameing\/numbering of proxy classes."},"files":[{"filename":"src\/jdk.jstatd\/share\/classes\/sun\/tools\/jstatd\/Jstatd.java"}],"sha":"e49b9fe24caf860d99bcf15046e5cb287ab9ddf9"}]
