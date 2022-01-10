@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n-inline HeapWord* G1BlockOffsetTablePart::align_up_by_card_size(HeapWord* const addr) const{\n+inline HeapWord* G1BlockOffsetTablePart::align_up_by_card_size(HeapWord* const addr) const {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1BlockOffsetTable.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
