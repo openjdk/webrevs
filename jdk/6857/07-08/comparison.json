@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,2 @@\n+* @requires vm.compiler2.enabled\n+* @requires os.arch==\"x86\" | os.arch==\"i386\" | os.arch==\"amd64\" | os.arch==\"x86_64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestPopCountVectorLong.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
