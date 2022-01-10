@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,0 @@\n-  bool force_not_compacted = false;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCPrepareTask.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
