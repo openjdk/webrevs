@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,1 +300,1 @@\n-    uint64_t mask = 0xffffe00000000000ULL;\n+    uint64_t mask = UCONST64(0xffffe00000000000);\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64_log.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
