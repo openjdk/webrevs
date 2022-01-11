@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop x86_32 changes"},"files":[],"sha":"dc1a66331d98a8c7f781a18c9f2069544025653e"},{"commit":{"message":"Handle AVX-512 in x86_32"},"files":[],"sha":"38df280a64662a20bb230420abca492326549398"},{"commit":{"message":"Fix"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"03dd6dcd066a592eff2f5d0047f0cdbaa00cf574"}]
