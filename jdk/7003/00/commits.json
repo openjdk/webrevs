@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279124: VirtualMachineImpl should check signal handler has installed before sending SIGQUIT"},"files":[{"filename":"src\/jdk.attach\/linux\/native\/libattach\/VirtualMachineImpl.c"}],"sha":"9714321123b2caf3d64b907fb5fa6671bad5818a"}]
