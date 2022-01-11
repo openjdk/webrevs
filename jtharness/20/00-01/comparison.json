@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-        addUsedFile(mainFrame.createWorkDirectoryInTemp());\n+        mainFrame.createWorkDirectoryInTemp();\n","filename":"gui-tests\/src\/gui\/src\/jthtest\/Config_Edit\/Config_Edit6.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
