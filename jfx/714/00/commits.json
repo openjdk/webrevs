@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prevent OS crash when contentView is set to nil while processing shortcut"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassWindow.m"}],"sha":"5674733b734a82d7085e556b5e03d6dfd41b47cb"}]
