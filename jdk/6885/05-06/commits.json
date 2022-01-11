@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clean up & testing\n\n- Run JFR tests in test\/jdk\/jdk\/jfr\n- Fix issues found from above test suite\n- Remove unecessary jtreg & gtest tests\n- Remove ineffective `qpic=large`\n- TODO: jdk\/jfr\/event\/runtime\/TestNativeLibrariesEvent.java"},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"}],"sha":"cc04740aedec4db58ddaa1ed6b15e0be40c4d0a9"}]
