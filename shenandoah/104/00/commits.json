@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reset top bitmap when region is immediately made into trash"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMarkingContext.cpp"}],"sha":"0380cce9a834e53e76ab4b4b7603288c66b7dba9"}]
