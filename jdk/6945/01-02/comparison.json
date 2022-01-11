@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4956,1 +4956,1 @@\n-#define ASCII(insn) if (ascii) { insn; }\n+#define ASCII(insn) do { if (ascii) { insn; } } while (0)\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
