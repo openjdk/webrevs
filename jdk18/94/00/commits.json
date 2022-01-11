@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279837: C2: assert(is_Loop()) failed: invalid node class: Region"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestIterationSplitWithRegionHead.java"}],"sha":"94cacb3cc5ce60b43d9e451f28cb7a0641b8b644"}]
