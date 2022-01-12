@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279900: compiler\/vectorization\/TestPopCountVectorLong.java fails due to vpopcntdq is not supported"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestPopCountVectorLong.java"}],"sha":"91b058236a6e3ef1f896cd51f9354b2971c9161c"}]
