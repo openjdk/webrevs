@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-                if (!out.getOutput().contains(\"-XX:+TieredCompilation not supported in this VM\")) {\n+                if (Platform.isTieredSupported()) {\n","filename":"test\/hotspot\/jtreg\/compiler\/codecache\/CheckSegmentedCodeCache.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
