@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279914: riscv：Wrong result caused by incorrect use of iregL2I operand in some c2 match rules"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"9ed5f2d855e34dc961f90adc231adb0a41d6bfaa"}]
