@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -12,1 +12,1 @@\n- org.jolokia.jmx-adapter.standalone;bundle-version=\"1.7.1\",\n+ org.jolokia.jmx-adapter.standalone;bundle-version=\"1.7.1\";visibility:=reexport,\n","filename":"application\/org.openjdk.jmc.jolokia\/META-INF\/MANIFEST.MF","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
