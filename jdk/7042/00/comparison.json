@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,1 +200,1 @@\n-        BigInteger lhs = y.modPow(BigInteger.valueOf(2), p).mod(p);\n+        BigInteger lhs = y.modPow(BigInteger.TWO, p);\n","filename":"src\/jdk.crypto.ec\/share\/classes\/sun\/security\/ec\/ECDHKeyAgreement.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
