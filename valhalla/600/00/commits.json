@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added JVM_ACC_VALUE for primitive classes"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiClassFileReconstituter.cpp"},{"filename":"src\/java.base\/share\/native\/include\/classfile_constants.h.template"}],"sha":"bbf9a1e51cddfca54b42766ce161e74938a55875"}]
