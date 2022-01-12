@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279853: [lworld] Multiple issues with speculative type at checkcast"},"files":[{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorld.java"}],"sha":"f5641a4edbb317ce260e39ce4fc4e59b24956b3a"}]
