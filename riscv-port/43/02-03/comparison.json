@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -265,1 +265,1 @@\n-             as_Register($src1$$reg)\n+             as_Register($src1$$reg),\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_b.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
