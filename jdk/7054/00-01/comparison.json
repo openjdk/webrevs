@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1670,2 +1670,0 @@\n-    \/* Replace with ConcurrentReferenceHashMap when\/if it appears in a future\n-     * release *\/\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Thread.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
