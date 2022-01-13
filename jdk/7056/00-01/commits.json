@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change permittedAlgs variable name.\nMove put methods out of checkConstraints()."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/util\/ManifestEntryVerifier.java"}],"sha":"b551c2b99b96e4a8123e042c831ead1cae9db4fd"}]
