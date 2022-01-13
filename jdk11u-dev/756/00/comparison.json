@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -414,0 +414,1 @@\n+  _last = NULL;\n","filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
