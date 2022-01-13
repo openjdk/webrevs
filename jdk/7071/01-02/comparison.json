@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -826,2 +826,1 @@\n-     * <p> The resulting file should be deleted once it is no longer needed.\n-     * The file may be opened using the {@link\n+     * <p> The file may be opened using the {@link\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/Files.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
