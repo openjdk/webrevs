@@ -1,0 +1,1 @@
+[{"commit":{"message":"reverted windows\/aarch64 workaround and added to documentation"},"files":[{"filename":"doc\/building.html"},{"filename":"doc\/building.md"},{"filename":"make\/autoconf\/toolchain_microsoft.m4"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1HeapRegionAttr.hpp"}],"sha":"6429bad26940169aafab123b0d238a65069dfa91"}]
