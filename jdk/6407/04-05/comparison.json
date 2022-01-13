@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+    public static final int Ival = 2;\n@@ -32,1 +33,0 @@\n-    public static final double Ival = 2;\n","filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/InstructionScheduling.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
