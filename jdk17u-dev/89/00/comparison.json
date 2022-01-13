@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,1 +314,1 @@\n-    return getMethodCompilationLevel(method, false \/*not ost*\/);\n+    return getMethodCompilationLevel(method, false \/*not osr*\/);\n","filename":"test\/lib\/sun\/hotspot\/WhiteBox.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
