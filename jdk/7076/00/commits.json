@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279301: c1 getObjectSize intrinsic should guard round mask constant"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"}],"sha":"ec181f3d8d1245d841ad0f9065923e0d55fe5c0b"}]
