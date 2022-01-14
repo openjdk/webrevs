@@ -1,0 +1,1 @@
+[{"commit":{"message":"8251481: TableCell accessing row: NPE on auto-sizing"},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/TableColumnHeader.java"},{"filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/TableCellTest.java"}],"sha":"0ba6b28385925f6d853003bb6db5039934918222"}]
