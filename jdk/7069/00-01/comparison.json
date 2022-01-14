@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -368,1 +368,1 @@\n-    } else if (k->is_objArray_klass()) {\n+    } else if (k->is_shared() && k->is_objArray_klass()) {\n","filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
