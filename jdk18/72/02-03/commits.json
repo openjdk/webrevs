@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix converting coordinates when getting GC at point\n\nAlso move GraphicsConfiguration search into AccessibilityGraphicsEnvironment"},"files":[{"filename":"src\/jdk.accessibility\/windows\/classes\/com\/sun\/java\/accessibility\/internal\/AccessBridge.java"}],"sha":"b0c2037644c306861491086ebb5f05bdfd0b78de"}]
