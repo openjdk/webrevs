@@ -1,0 +1,1 @@
+[{"commit":{"message":"transform ~(x+c) to (-c-1)-x."},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestIRAddIdealNotXPlusC.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/AddIdealNotXPlusC.java"}],"sha":"c540be302b885a717dc49335b678bf8d67b71b5c"}]
