@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -965,1 +965,1 @@\n-    Node* neg_c_minus_one = phase->longcon(java_add(-c, -1L));\n+    Node* neg_c_minus_one = phase->longcon(java_add(-c, (jlong)-1));\n","filename":"src\/hotspot\/share\/opto\/addnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
