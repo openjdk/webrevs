@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4823,1 +4823,1 @@\n-  if (need && !_printer) {\n+  if (need && _printer == nullptr) {\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
