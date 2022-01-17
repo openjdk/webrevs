@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279699: Parallel: More precise boundary in ObjectStartArray::object_starts_in_range"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/objectStartArray.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/objectStartArray.hpp"}],"sha":"a3ad3883d12dc323f304f1a857c06feb81708979"}]
