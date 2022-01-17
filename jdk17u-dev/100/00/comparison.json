@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,2 +84,0 @@\n-    \/\/ May be used by optimizations like LoopInvariantCodeMotion or RangeCheckEliminator.\n-    DEBUG_ONLY( __ untested(\"RangeCheckStub: predicate_failed_trap_id\"); )\n","filename":"src\/hotspot\/cpu\/ppc\/c1_CodeStubs_ppc.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
