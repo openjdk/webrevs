@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -809,1 +809,1 @@\n-  \/\/ In glibc versions prior to 2.7 the guard size mechanism\n+  \/\/ In glibc versions prior to 2.27 the guard size mechanism\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
