@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -976,1 +976,0 @@\n-    MutexLocker mcld(ClassLoaderDataGraph_lock);\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
