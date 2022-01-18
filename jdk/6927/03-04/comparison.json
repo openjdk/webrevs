@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n-     * Validates that an appropriate exception is thrown when the ZipFile class\n+     * Validates that the ZipException is thrown when the ZipFile class\n","filename":"test\/jdk\/java\/util\/zip\/ZipFile\/TestTooManyEntries.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
