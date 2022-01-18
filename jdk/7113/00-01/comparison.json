@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1132,2 +1132,1 @@\n-          f = check_and_truncate_frequency(f);\n-          return f;\n+          return check_and_truncate_frequency(f);\n","filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
