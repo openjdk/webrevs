@@ -1,0 +1,1 @@
+[{"commit":{"message":"No longer keep a stongref count for RefNodes. Just track whether the ref is strong due to a pin, pinAll, or both."},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/commonRef.c"},{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.h"}],"sha":"f1a1177fe2f878769eb730ce172acb6b8f9e5429"}]
