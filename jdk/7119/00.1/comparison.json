@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -245,1 +245,0 @@\n-java\/awt\/Graphics2D\/CopyAreaOOB.java 7001973 windows-all,macosx-all\n@@ -652,2 +651,0 @@\n-sun\/security\/pkcs11\/KeyStore\/SecretKeysBasic.java                 8209398 generic-all\n-\n","filename":"test\/jdk\/ProblemList.txt","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
