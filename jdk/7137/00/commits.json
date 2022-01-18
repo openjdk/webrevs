@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into logcrash"},"files":[],"sha":"7f2f9a7eaa726f260cc93d5c5a82a94cc2c21842"},{"commit":{"message":"8258814: Compilation logging crashes for thread suspension \/ debugging tests"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"}],"sha":"1c6e80e7448cd1f5d4c2bc07e7371ee88308e5e2"}]
