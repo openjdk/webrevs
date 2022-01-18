@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280116: riscv: RVB: Add rest instructions of zba, zbb, and bitwise rotation"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_b.ad"}],"sha":"33436edfde388afd6aa08e3d018b518629e40350"}]
