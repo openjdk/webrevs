@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Read volatile field uncaughtExceptionHandler only once to avoid race"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Thread.java"}],"sha":"b397e3f9bce9e5e8cdf9dd51753d9a44e9851542"}]
