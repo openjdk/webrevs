@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -408,0 +408,2 @@\n+                      .filter(o -> o.contains(\"target_type\") &&\n+                                   o.get(\"target_type\").asString().equals(\"Note\"))\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/gitlab\/GitLabRepository.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
