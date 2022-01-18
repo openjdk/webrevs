@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @bug 8276673\n+ * @bug 8276673 8280089\n@@ -33,0 +33,1 @@\n+ * @requires os.arch==\"amd64\" | os.arch==\"x86_64\" | os.arch==\"aarch64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestIRAbs.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
