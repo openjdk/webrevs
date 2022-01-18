@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,0 +86,1 @@\n+    assert(!toASCII, \"Can't compress strings to 7-bit ASCII\");\n","filename":"src\/hotspot\/cpu\/s390\/c2_MacroAssembler_s390.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
