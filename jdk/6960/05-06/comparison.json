@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -357,2 +357,2 @@\n-\/\/ we need to verify that we can do so by asking for a tiny exectuable\n-\/\/ memory chunk\n+\/\/ we need to verify that we can do so by asking for a tiny executable\n+\/\/ memory chunk.\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
