@@ -1,0 +1,1 @@
+[{"commit":{"message":"Intercept SIGQUIT in the early stage of HotSpot."},"files":[{"filename":"src\/hotspot\/os\/posix\/signals_posix.cpp"},{"filename":"src\/jdk.attach\/linux\/native\/libattach\/VirtualMachineImpl.c"}],"sha":"2f25753997f5374350ef7b54395f7a0ad2d9b1b8"}]
