@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,6 @@\n+\r\n+## List of Security fixes\r\n+\r\n+Issue key|Summary|Subcomponent\r\n+---------|-------|------------\r\n+JDK-8272546 (not public) | Better TrueType font loading | graphics\r\n","filename":"doc-files\/release-notes-17.0.2.md","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
