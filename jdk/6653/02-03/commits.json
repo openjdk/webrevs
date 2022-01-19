@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use InstanceKlass::do_local_static_fields for some field iterations"},"files":[{"filename":"src\/hotspot\/share\/cds\/cdsHeapVerifier.cpp"},{"filename":"src\/hotspot\/share\/cds\/cdsHeapVerifier.hpp"}],"sha":"e27d3523f0d8f83abb683039b940119d42cd3c43"}]
