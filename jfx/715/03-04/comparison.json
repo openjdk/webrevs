@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,1 @@\n+\n@@ -66,1 +67,1 @@\n-        if (testApp.failed())\n+        if (testApp.failed()) {\n@@ -68,0 +69,1 @@\n+        }\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/DoubleShortcutProcessingTest.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
