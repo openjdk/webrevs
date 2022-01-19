@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278834: Error \"Cannot read field \"sym\" because \"this.lvar[od]\" is null\" when compiling"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/BindingsInitializer.java"}],"sha":"edae781f688af9e6ea27e9d3405ab17284d89ea2"}]
