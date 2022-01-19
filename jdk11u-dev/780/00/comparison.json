@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,4 @@\n-    :jdk_client_sanity\n+    :jdk_client_sanity \\\n+    :jdk_svc \\\n+   -:jdk_svc_sanity \\\n+   -:svc_tools\n","filename":"test\/jdk\/TEST.groups","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
