@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1960,1 +1960,1 @@\n-      while (cur < hr->end()) {\n+      while (cur < hr->top()) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
