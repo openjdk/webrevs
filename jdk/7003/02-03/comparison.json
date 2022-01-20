@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -598,1 +598,1 @@\n-    assert(!ReduceSignalUsage, \"Should not happen with -Xrs\/-XX:-ReduceSignalUsage\");\n+    assert(!ReduceSignalUsage, \"Should not happen with -Xrs\/-XX:+ReduceSignalUsage\");\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
