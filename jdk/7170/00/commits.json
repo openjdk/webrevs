@@ -1,0 +1,1 @@
+[{"commit":{"message":"8251466: test\/java\/io\/File\/GetXSpace.java fails on Windows with mapped network drives.\n\nDo not skip first character after match. On Windows it skips first symbol of name."},"files":[{"filename":"test\/jdk\/java\/io\/File\/GetXSpace.java"}],"sha":"79bb05eaefd6cb4b8d3763c1c48a42d40ef5204e"}]
