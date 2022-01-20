@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -285,1 +285,1 @@\n-    if (base == null)\n+    if (base == null || base.length() == 0)\n","filename":"src\/java.xml\/share\/classes\/com\/sun\/org\/apache\/xml\/internal\/serializer\/utils\/SystemIDResolver.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
