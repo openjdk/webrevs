@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280401: [sspi] gss_accept_sec_context leaves output_token uninitialized\n\n8280401: [sspi] gss_accept_sec_context leaves output_token uninitialized"},"files":[{"filename":"src\/java.security.jgss\/windows\/native\/libsspi_bridge\/sspi.cpp"}],"sha":"e9d51ba4cc2c18aae9df673de6f0ddb9cced5b01"}]
