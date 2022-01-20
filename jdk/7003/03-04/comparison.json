@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -599,1 +599,0 @@\n-    log_info(os, init)(\"Ignore BREAK_SIGNAL in the initialization phase.\");\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
