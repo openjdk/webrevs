@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280067: Incorrect code generated for unary - on char operand"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Items.java"},{"filename":"test\/langtools\/tools\/javac\/code\/CharImmediateValue.java"}],"sha":"983ebec54571915dbf50718a494cceb3e488b8a5"}]
