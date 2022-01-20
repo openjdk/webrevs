@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2371,1 +2371,3 @@\n-  it->push(&_fields);\n+\n+  \/\/ _fields might be written into by Rewriter::scan_method() -> fd.set_has_initialized_final_update()\n+  it->push(&_fields, MetaspaceClosure::_writable);\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
