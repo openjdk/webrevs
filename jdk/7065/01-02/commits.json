@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed sasl module dependency and added SaslException cause"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/sasl\/LdapSasl.java"},{"filename":"src\/java.security.jgss\/share\/classes\/module-info.java"}],"sha":"fd56b5e32b33f0f524a5961bbdd0d07c7b6f11a8"}]
