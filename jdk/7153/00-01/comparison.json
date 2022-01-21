@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,2 @@\n-  \/\/ and the mark bitmap accordingly.\n+  \/\/ accordingly. Since we clear and use the prev bitmap for marking objects that\n+  \/\/ failed evacuation, there is no work to be done there.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1EvacFailure.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
