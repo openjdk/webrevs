@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,2 @@\n-    private static boolean initted = false;\n+    \/\/ volatile ensures static fields set before are published\n+    private static volatile boolean initted = false;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/reflect\/ReflectionFactory.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
