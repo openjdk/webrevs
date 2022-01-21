@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280377: MethodHandleProxies does not correctly invoke default methods with varags"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandleProxies.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/MethodHandlesProxiesTest.java"}],"sha":"56542fc28de58164dda098ebb24a4eb5c887feda"}]
