@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,1 @@\n-        return new HtmlTree(TagName.LI).setStyle(HtmlStyle.blockList);\n+        return new HtmlTree(TagName.LI);\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/HtmlSerialMethodWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
