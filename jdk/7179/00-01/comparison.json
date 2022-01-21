@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,0 +192,1 @@\n+        \/\/ Only search the directory in which the VM is running (user.dir property).\n","filename":"test\/hotspot\/jtreg\/runtime\/8176717\/TestInheritFD.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
