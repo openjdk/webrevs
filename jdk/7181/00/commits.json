@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix default Accept header"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/http\/HttpURLConnection.java"},{"filename":"test\/jdk\/sun\/net\/www\/B8185898.java"}],"sha":"be017d19303b3f0989c7ae92ceda5c90ea4583ba"}]
