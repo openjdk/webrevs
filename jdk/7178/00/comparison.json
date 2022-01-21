@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1293,1 +1293,1 @@\n-        int length = (int)((elements + elements \/ 20) \/ lf) + 3;\n+        int length = (int)(elements * 1.05f \/ lf) + 3;\n","filename":"src\/java.base\/share\/classes\/java\/util\/Hashtable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
