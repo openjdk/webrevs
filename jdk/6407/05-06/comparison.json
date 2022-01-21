@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -522,1 +522,1 @@\n-  Node *last_n = block->get_node(--sched_slot);\n+  Node* last_n = C->do_scheduling() ? block->get_node(--sched_slot) : nullptr;\n@@ -607,1 +607,1 @@\n-    if (last_n) {\n+    if (last_n != nullptr) {\n","filename":"src\/hotspot\/share\/opto\/lcm.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
