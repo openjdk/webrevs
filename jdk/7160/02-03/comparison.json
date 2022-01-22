@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -683,1 +683,1 @@\n-    if (_p >= rgn->base() && _p < rgn->base() + rgn->size()) {\n+    if (rgn->contain_address(_p)) {\n","filename":"src\/hotspot\/share\/services\/virtualMemoryTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
