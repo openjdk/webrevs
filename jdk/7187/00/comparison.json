@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,1 @@\n+import jdk.test.lib.Platform;\n@@ -178,0 +179,4 @@\n+        if (!Platform.areCustomLoadersSupportedForCDS()) {\n+            return;\n+        }\n+\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/TestDumpClassListSource.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
