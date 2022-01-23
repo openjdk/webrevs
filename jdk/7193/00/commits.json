@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280422: thread_from_jni_environment can never return NULL"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/interfaceSupport.inline.hpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"f47198c7fc7328fb548e02235f95f96c4a561d85"}]
