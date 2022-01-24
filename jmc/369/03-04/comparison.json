@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -297,1 +297,1 @@\n-                JVM_ARGUMENTS=\"${JVM_ARGUMENTS} -DskipJDPMulticastTests=true \"\n+                JVM_ARGUMENTS=\"${JVM_ARGUMENTS} -DskipJDPMulticastTests=true\"\n","filename":"build.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
