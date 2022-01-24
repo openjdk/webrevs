@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1752,0 +1752,2 @@\n+    \/\/ This is a return address, so requires authenticating for PAC.\n+    __ authenticate_return_address(c_rarg1, rscratch1);\n","filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
