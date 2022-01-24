@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix ConnectEx address retrieval on IPv4-only Windows machines"},"files":[{"filename":"src\/java.base\/windows\/native\/libnio\/ch\/WindowsAsynchronousServerSocketChannelImpl.c"},{"filename":"src\/java.base\/windows\/native\/libnio\/ch\/WindowsAsynchronousSocketChannelImpl.c"}],"sha":"2f2207db02b5a5bf4e492a51fcfb734ed5a14b1a"}]
