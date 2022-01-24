@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3684,1 +3684,1 @@\n-    if (mp_length >= 0) {\n+    if (mp_length > 0) {\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
