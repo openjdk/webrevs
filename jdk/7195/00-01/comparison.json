@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1786,1 +1786,1 @@\n-    marking_phase(vmthread_cm, &_gc_tracer);\n+    marking_phase(&_gc_tracer);\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
