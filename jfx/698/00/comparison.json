@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,1 @@\n+        new GLGPUInfo(\"amd\", null),\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/es2\/X11GLFactory.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
