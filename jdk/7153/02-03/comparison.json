@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -138,1 +138,0 @@\n-    assert(!_cm->is_marked_in_next_bitmap(cast_to_oop(start)), \"should not be marked in next bitmap\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1EvacFailure.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
