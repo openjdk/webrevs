@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280524: [lworld] Interpreter incorrectly handles uninitialized static inline type field"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/templateTable_x86.cpp"},{"filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp"}],"sha":"20d2c90b6c797be5c0a12b9158898ed464bacd98"}]
