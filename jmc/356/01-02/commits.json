@@ -1,0 +1,1 @@
+[{"commit":{"message":"Bump lz4-java, removes the osgi bundle name override"},"files":[{"filename":"application\/org.openjdk.jmc.feature.core\/feature.xml"},{"filename":"application\/org.openjdk.jmc.feature.flightrecorder\/feature.xml"},{"filename":"releng\/third-party\/pom.xml"}],"sha":"661c87508d9ddd342053d517fc3c234dbe638f98"}]
