@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,0 +165,4 @@\n+\n+  jint                   layout_helper_size_in_bytes()  {\n+    return Klass::layout_helper_size_in_bytes(layout_helper());\n+  }\n","filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
