@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,1 +193,1 @@\n-     * in which case an error or \"reference not found\" is reduced to warning,\\\n+     * in which case an error for \"reference not found\" is reduced to warning,\n","filename":"test\/langtools\/jdk\/javadoc\/tool\/doclint\/DocLintReferencesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
