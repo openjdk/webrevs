@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,0 @@\n-    \/\/ Zapping clears the bitmap, make sure it didn't clear too much.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1EvacFailure.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
