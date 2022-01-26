@@ -1,0 +1,1 @@
+[{"commit":{"message":"8139173: [macosx] JInternalFrame shadow is not properly drawn"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaInternalFrameBorder.java"},{"filename":"test\/jdk\/javax\/swing\/plaf\/aqua\/JInternalFrameBorderTest.java"}],"sha":"44ea0e12708666e3972bc3e4c64396cb91a06e11"}]
