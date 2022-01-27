@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8269907\nRemoved the sync methods for the scene, because they don't work when peer is null, and they are not necessary."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/Scene.java"}],"sha":"22326ccf35aadae0580eb7015961653a5ac29f30"}]
