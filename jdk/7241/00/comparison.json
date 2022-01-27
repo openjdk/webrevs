@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -958,0 +958,3 @@\n+    if (DynamicDumpSharedSpaces) {\n+      warning(\"-XX:ArchiveClassesAtExit is unsupported when base CDS archive is not loaded. Run with -Xlog:cds for more info.\");\n+    }\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

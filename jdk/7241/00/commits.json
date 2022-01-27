@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280353: -XX:ArchiveClassesAtExit should print warning if base archive failed to load"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"aaa5dd089db44b7f9b13e1e76bbaf2c860f905dc"}]
