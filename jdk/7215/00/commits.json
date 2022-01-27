@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280593: [PPC64, S390] redundant allocation of MacroAssembler in StubGenerator ctor"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/s390\/stubGenerator_s390.cpp"}],"sha":"f0218ce5b1fdcbe64aef2c9ae01e5f44c0254b61"}]
