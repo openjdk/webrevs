@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280707: [lworld] More issues with C2's arraycopy intrinsic"},"files":[{"filename":"src\/hotspot\/share\/opto\/macroArrayCopy.cpp"},{"filename":"src\/hotspot\/share\/opto\/type.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestIntrinsics.java"}],"sha":"605aae4f7524be7451709ac4cb3fdba75d2fdf96"}]
