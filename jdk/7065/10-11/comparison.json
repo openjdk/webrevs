@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,1 +200,1 @@\n-        } catch (Exception e) {\n+        } catch (IOException e) {\n","filename":"test\/jdk\/sun\/security\/krb5\/auto\/HttpsCB.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
