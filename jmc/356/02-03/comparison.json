@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,2 @@\n- org.openjdk.jmc.flightrecorder.stacktrace\n+ org.openjdk.jmc.flightrecorder.stacktrace,\n+ org.owasp.encoder\n","filename":"core\/org.openjdk.jmc.flightrecorder.rules.jdk\/META-INF\/MANIFEST.MF","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
