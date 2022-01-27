@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -701,0 +701,2 @@\n+\/* JDK modification *\/\n+#elif defined(__sun__)\n@@ -702,1 +704,1 @@\n-#elif defined(__sun__) || defined(__digital__)\n+#elif defined(__digital__)\n","filename":"src\/java.desktop\/unix\/native\/common\/java2d\/opengl\/J2D_GL\/glxext.h","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
