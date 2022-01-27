@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,0 +126,2 @@\n+  check_cancellation_and_abort(ShenandoahDegenPoint::_degenerated_mark);\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
