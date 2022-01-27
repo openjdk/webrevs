@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -286,1 +286,1 @@\n-        if (type.isValueClass()) {\n+        if (type.isValue()) {\n","filename":"test\/jdk\/valhalla\/valuetypes\/BasicTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
