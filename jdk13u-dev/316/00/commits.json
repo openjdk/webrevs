@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport c4df79117d9613750e327a733e23c2a71131938e"},"files":[{"filename":"src\/java.base\/share\/lib\/security\/default.policy"},{"filename":"src\/java.xml.crypto\/share\/classes\/com\/sun\/org\/slf4j\/internal\/Logger.java"},{"filename":"test\/jdk\/javax\/xml\/crypto\/dsig\/LogParameters.java"}],"sha":"bfbd5e38c13a946ef1206321f59d56da357ff7ec"}]
