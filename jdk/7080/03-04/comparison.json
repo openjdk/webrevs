@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -291,2 +291,1 @@\n-  bool imm_in_range = (x >= 0) && (x <= UINT_MAX) &&\n-          AsmOperand::is_rotated_imm(checked_cast<unsigned int>(x));\n+  bool imm_in_range = AsmOperand::is_rotated_imm((unsigned int)(x));\n","filename":"src\/hotspot\/cpu\/arm\/c1_LIRGenerator_arm.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
