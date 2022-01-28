@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-  _masm = new MacroAssembler(code );\n+  _masm = new MacroAssembler(code);\n","filename":"src\/hotspot\/share\/runtime\/stubCodeGenerator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
