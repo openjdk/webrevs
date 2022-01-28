@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -282,1 +282,1 @@\n-      assert (offset >= 0, \"Derived pointer offset is %ld\", offset);\n+      assert (offset >= 0, \"Derived pointer offset is \" INTPTR_FORMAT, offset);\n","filename":"src\/hotspot\/share\/oops\/instanceStackChunkKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
