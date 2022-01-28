@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n-import jdk.crac.CheckpointException;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/SecureRandom.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
