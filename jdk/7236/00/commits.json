@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make hugeArray static so it is not collected."},"files":[{"filename":"test\/hotspot\/jtreg\/resourcehogs\/serviceability\/sa\/LingeredAppWithLargeArray.java"}],"sha":"b8b836cc1fcc654aaae90852b8bdf7fd00870393"}]
