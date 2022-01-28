@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make sure allocated objects are kept live."},"files":[{"filename":"test\/hotspot\/jtreg\/resourcehogs\/serviceability\/sa\/ClhsdbRegionDetailsScanOopsForG1.java"},{"filename":"test\/hotspot\/jtreg\/resourcehogs\/serviceability\/sa\/LingeredAppWithLargeStringArray.java"}],"sha":"99235d74fa697d03d206adf5fa6964edc3035aed"}]
