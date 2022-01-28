@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,1 @@\n+#include \"metaprogramming\/enableIf.hpp\"\n","filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
