@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280817: Clean up and unify empty VM operations"},"files":[{"filename":"src\/hotspot\/share\/runtime\/vmOperation.hpp"},{"filename":"src\/hotspot\/share\/runtime\/vmOperations.hpp"},{"filename":"src\/hotspot\/share\/runtime\/vmThread.cpp"},{"filename":"test\/hotspot\/gtest\/threadHelper.inline.hpp"}],"sha":"f46abe109e780a73e0c4f30301fa8f061ce7b766"}]
