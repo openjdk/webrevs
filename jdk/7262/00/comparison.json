@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -968,0 +968,1 @@\n+        ((codePoint == 0x73) && ([(NSString *)kbdLayout containsString:@\"Finnish\"])) ||\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/AWTView.m","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
