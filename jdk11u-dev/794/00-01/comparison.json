@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3070,1 +3070,0 @@\n-                declaredUsingVar = true;\n@@ -3078,0 +3077,1 @@\n+                    declaredUsingVar = true;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
