@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -379,0 +379,3 @@\n+jdk_editpad = \\\n+     jdk\/editpad\n+\n@@ -386,1 +389,2 @@\n-    :jfc_demo\n+    :jfc_demo \\\n+    :jdk_editpad\n","filename":"test\/jdk\/TEST.groups","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
