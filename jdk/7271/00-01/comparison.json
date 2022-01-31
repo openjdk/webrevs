@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -260,1 +260,1 @@\n-     * only set if the member and the declaring class are public, and\n+     * only be set if the member and the declaring class are public, and\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/AccessibleObject.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
