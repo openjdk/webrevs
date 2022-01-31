@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,0 +72,4 @@\n+\n+        \/* Keep next priorities last to ensure handling of pending References\n+         * appeared on earlier priorities. *\/\n+\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/crac\/JDKResource.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
