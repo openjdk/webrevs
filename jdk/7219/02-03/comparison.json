@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+ * @requires (os.family==\"mac\")\n","filename":"test\/jdk\/javax\/swing\/JTableHeader\/8016524\/JTHeaderBorderTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
