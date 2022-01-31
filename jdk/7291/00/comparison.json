@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9304,1 +9304,1 @@\n-  emit_int24(0x73, (0xC0 | encode), shift & 0xFF);\n+  emit_int24(0x72, (0xC0 | encode), shift & 0xFF);\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
