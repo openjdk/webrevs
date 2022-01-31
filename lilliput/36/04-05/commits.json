@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cleanups and document load_klass(), preserve rscratch1 and rscratch2 in runtime call stub"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"}],"sha":"a43c0c85a7e33dbd47f700799ad1c54d2c155f0f"}]
