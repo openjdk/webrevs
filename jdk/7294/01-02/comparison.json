@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,1 +112,1 @@\n-  int64_t _marked_pos;\n+  long _marked_pos;\n","filename":"src\/hotspot\/share\/utilities\/elfFile.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
