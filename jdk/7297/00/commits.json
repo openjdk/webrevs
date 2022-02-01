@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix NMT integration into pp() debug command"},"files":[{"filename":"src\/hotspot\/share\/services\/virtualMemoryTracker.cpp"},{"filename":"src\/hotspot\/share\/services\/virtualMemoryTracker.hpp"},{"filename":"src\/hotspot\/share\/utilities\/debug.cpp"}],"sha":"6ad3018a40dd078434e5d6c9fb9d6f265c69ae21"}]
