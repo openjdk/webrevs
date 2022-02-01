@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280123: C2: Infinite loop in CMoveINode::Ideal during IGVN\n\nReviewed-by: kvn, thartmann, chagedorn"},"files":[{"filename":"src\/hotspot\/share\/opto\/movenode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestCMoveInfiniteGVN.java"}],"sha":"30ea535382755867748c1d168e086becb059d4c6"}]
