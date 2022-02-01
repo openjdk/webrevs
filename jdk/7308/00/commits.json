@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278039: Code completion not woking after some statements such as \"if\" or \"while\""},"files":[{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/SourceCodeAnalysisImpl.java"},{"filename":"test\/langtools\/jdk\/jshell\/CompletionSuggestionTest.java"}],"sha":"396cb8381dd5221dde60269ac2130814fc9fbd40"}]
