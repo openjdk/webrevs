@@ -1,0 +1,1 @@
+[{"commit":{"message":"8276990: Memory leak in invoker.c fillInvokeRequest() during JDI operations"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/invoker.c"}],"sha":"52eac5b2f32e368b5a14cd63609713419c7392db"}]

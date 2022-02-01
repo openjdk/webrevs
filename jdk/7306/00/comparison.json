@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,0 +235,4 @@\n+    char* oldSignature = request->methodSignature;\n+    if (oldSignature != NULL) {\n+      jvmtiDeallocate(oldSignature);\n+    }\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/invoker.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
