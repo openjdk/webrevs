@@ -1,0 +1,1 @@
+[{"commit":{"message":"Respond to reviewer feedback\n\nnull out object_starts reference in ShenandoahCardCluster destructor."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.hpp"}],"sha":"8e94bfbd0d6082652f936415be51d469f226b319"}]
