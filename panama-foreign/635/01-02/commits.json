@@ -1,0 +1,1 @@
+[{"commit":{"message":"Except class instances directly instead of internal names. Remove unused constants"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/BindingSpecializer.java"}],"sha":"6510e2b183f2e217a861ac15409f29f0cf515f3d"}]
