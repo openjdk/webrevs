@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run main\/othervm TestSharedHeadExceptionBackedges\n+ * @run main\/othervm -XX:-BackgroundCompilation TestSharedHeadExceptionBackedges\n","filename":"test\/hotspot\/jtreg\/compiler\/profiling\/TestSharedHeadExceptionBackedges.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
