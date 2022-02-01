@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273139: C2: assert(f <= 1 && f >= 0) failed: Incorrect frequency\n\nReviewed-by: thartmann, chagedorn, roland"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"}],"sha":"e8cf2d13a943c71efd96e8932193935f5020c225"}]
