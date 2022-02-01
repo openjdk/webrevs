@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -833,1 +833,0 @@\n-\n@@ -835,2 +834,0 @@\n-  BoolTest::mask mask = exit_test->as_BaseCountedLoopEnd()->test_trip();\n-  Node* cmp = exit_test->as_BaseCountedLoopEnd()->cmp_node();\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
