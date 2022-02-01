@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 47564caeb0628e5c03a0e7f04093adce77d6dd3b"},"files":[{"filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestLongVectorNeg.java"}],"sha":"16ab27266b1fe3371b2219e2683761dd9f3e3a3e"}]
