@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add an assertion in debug build.\n\nThis patch ensures the result is same as recursion."},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"}],"sha":"b9d4092549c7981e023d145bf40700e1f67f2886"}]
