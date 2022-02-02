@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Use jlong instead of int64_t\""},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.hpp"},{"filename":"src\/hotspot\/share\/runtime\/sweeper.cpp"},{"filename":"src\/hotspot\/share\/runtime\/sweeper.hpp"},{"filename":"src\/hotspot\/share\/runtime\/vmStructs.cpp"}],"sha":"01f3b1f2cdf5573c87d5cc03ed758803c6b76525"}]
