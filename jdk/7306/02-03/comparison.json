@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,0 +176,1 @@\n+    methodSignature_init(request->methodSignature, &cursor);\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/invoker.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
