@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move freeing of methodSignature after deleteGlobalArgumentRefs()"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/invoker.c"}],"sha":"b3e7a52982a9aa0e0db9f389c378091af48159ff"}]
