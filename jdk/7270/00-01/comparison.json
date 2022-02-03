@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,0 +132,4 @@\n+  assert(count > 0, \"must be\");\n+  assert(nbits > 0, \"must be\");\n+  assert(count * nbits <= 64, \"must be\");\n+\n@@ -135,1 +139,0 @@\n-    assert(count <= 1, \"must be\");\n","filename":"src\/hotspot\/cpu\/aarch64\/immediate_aarch64.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
