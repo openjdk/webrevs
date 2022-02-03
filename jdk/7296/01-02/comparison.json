@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-    private volatile boolean buttonPressed = false;\n+    private volatile boolean buttonPressed;\n","filename":"test\/jdk\/javax\/swing\/JButton\/4659800\/EnterKeyActivatesButton.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
