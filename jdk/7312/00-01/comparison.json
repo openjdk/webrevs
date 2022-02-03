@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-      if (is_in_full_stack((address)istate)) {\n+      if (!is_in_full_stack((address)istate)) {\n","filename":"src\/hotspot\/os_cpu\/linux_s390\/thread_linux_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
