@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -301,1 +301,1 @@\n-  if (CanUseSafeFetchN() && os::is_readable_pointer(p)) {\n+  if (CanUseSafeFetch32() && os::is_readable_pointer(p)) {\n","filename":"src\/hotspot\/share\/services\/mallocTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
