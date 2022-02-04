@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-            } else if (arg.charAt(0) == '$') {\n+            } else if (arg.length() > 1 && arg.charAt(0) == '$') {\n","filename":"test\/lib\/jdk\/test\/lib\/SecurityTools.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
