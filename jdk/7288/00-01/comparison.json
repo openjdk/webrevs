@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -490,1 +490,1 @@\n-  \/\/ ...re-reserve the middle stripes. This should work unless release failed.\n+  \/\/ ...re-reserve the middle stripes. This should work unless release silently failed.\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
