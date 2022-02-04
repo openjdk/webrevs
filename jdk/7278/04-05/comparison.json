@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n- * @summary Check whether the default button is honored when <Enter> key is typed.\n+ * @summary Check whether the default button is honored when <Enter> key is pressed.\n","filename":"test\/jdk\/javax\/swing\/JRootPane\/DefaultButtonTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
