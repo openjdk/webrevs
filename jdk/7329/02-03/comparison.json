@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,1 @@\n+                 \/\/ java.lang.invoke.BoundMethodHandle$Species_JL is generated from CDSLambdaInvoker\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/TestLambdaInvokers.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
