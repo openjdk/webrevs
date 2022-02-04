@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix adaptation in non-specialized path, and fix TestMatrix"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/ProgrammableInvoker.java"},{"filename":"test\/jdk\/java\/foreign\/TestMatrix.java"}],"sha":"bce66ffa2436b242d73034a8733f26470cb50a00"}]
