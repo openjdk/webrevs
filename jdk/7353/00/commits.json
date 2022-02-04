@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272996: JNDI DNS provider fails to resolve SRV entries when IPV6 stack is enabled"},"files":[{"filename":"src\/jdk.naming.dns\/share\/classes\/com\/sun\/jndi\/dns\/DnsClient.java"}],"sha":"c6e5b1f3cdd3e1c9b9150042bbf7ffa98952199b"}]
