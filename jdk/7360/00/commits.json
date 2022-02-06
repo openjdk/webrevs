@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8281183: RandomGenerator:NextDouble() default behavior partially fixed by JDK-8280950"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/random\/RandomSupport.java"},{"filename":"test\/jdk\/java\/util\/Random\/RandomNextDoubleBoundary.java"}],"sha":"14be84ef12c2de9b8aec214fdce7753f1048c4d8"}]
