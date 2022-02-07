@@ -1,0 +1,1 @@
+[{"commit":{"message":"8281336: Remove workaround in LambdaToMethod to circumvent BootstrapMethodError"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/AbstractValidatingLambdaMetafactory.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/LambdaToMethod.java"}],"sha":"f14e9afad346c0c60950cb731396d9453d327492"}]
