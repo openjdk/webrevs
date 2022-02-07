@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-  \/\/ sizes etc. in os::init_2(). The option values are given in the 4K units,\n+  \/\/ sizes etc. in os::init_2(). The option values are given in 4K units,\n","filename":"src\/hotspot\/share\/runtime\/stackOverflow.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
