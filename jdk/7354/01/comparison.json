@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2177,1 +2177,5 @@\n-    st->print_cr(\"%d\", i);\n+    if (ActiveProcessorCount > 0) {\n+      st->print_cr(\"%d, but overridden by -XX:ActiveProcessorCount\", i);\n+    } else {\n+      st->print_cr(\"%d\", i);\n+    }\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
