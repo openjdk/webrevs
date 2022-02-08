@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1771,1 +1771,1 @@\n-      if (cur == last) break;\n+      if (cur >= last) break;\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
