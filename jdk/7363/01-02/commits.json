@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed review comments: Seperated createUI and JSpinner access in two EDT calls,variables renamed"},"files":[{"filename":"test\/jdk\/javax\/swing\/JSpinner\/4515999\/JSpinnerMouseAndKeyPressTest.java"}],"sha":"0ad1a2e7e779e39a82300ff636f1b2fbd57b8b8f"}]
