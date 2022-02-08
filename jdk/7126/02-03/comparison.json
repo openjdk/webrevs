@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-  LOG_TAG(dwarf) \\\n+  NOT_PRODUCT(LOG_TAG(dwarf)) \\\n","filename":"src\/hotspot\/share\/logging\/logTag.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
