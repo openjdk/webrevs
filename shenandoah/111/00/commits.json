@@ -1,0 +1,1 @@
+[{"commit":{"message":"Coalesce and fill dead objects after class unloading"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahDegeneratedGC.cpp"}],"sha":"b49fe5c92a1b0e4ef264e711fff9d13afd8d4545"}]
