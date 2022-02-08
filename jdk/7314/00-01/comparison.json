@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -753,1 +753,1 @@\n-    fatal(\"unknown tag: %d (%s)\", tag.value(), tag.internal_name());\n+    assert(false, \"unknown tag: %d (%s)\", tag.value(), tag.internal_name());\n","filename":"src\/hotspot\/share\/ci\/ciEnv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
