@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'origin\/klass-from-header-c2' into klass-from-header-c2"},"files":[],"sha":"0488ff4bc282531f2e4b45faef55f5696a2767c9"},{"commit":{"message":"Disable compN_mem_imm_klass by predicate, not commenting out"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"}],"sha":"967a15b25636c0fa9ab6aa5c44f71624184b02f3"}]
