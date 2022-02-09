@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -388,1 +388,1 @@\n-    LeakKlassWriter lkw(_leakp_writer, _artifacts, _class_unload);\n+    LeakKlassWriter lkw(_leakp_writer, _class_unload);\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrTypeSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
