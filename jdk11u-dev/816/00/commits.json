@@ -1,0 +1,1 @@
+[{"commit":{"message":"8262894: [macos_aarch64] SIGBUS in Assembler::ld_st2\n\nCo-authored-by: Mikael Vidstedt <mikael@openjdk.org>\nReviewed-by: dholmes, gziemski"},"files":[{"filename":"src\/hotspot\/share\/prims\/jni.cpp"}],"sha":"720d1ee54ed6e53e7c659b2a76eddb414580acd5"}]
