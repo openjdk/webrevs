@@ -1,0 +1,1 @@
+[{"commit":{"message":"8275345: RasterFormatException thrown when drawing a tiled image made of non-writable rasters."},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/java2d\/SunGraphics2D.java"},{"filename":"test\/jdk\/java\/awt\/image\/DrawImage\/TiledImage.java"}],"sha":"c3db29784c556852ee4903962a9087cd7bf2d971"}]
