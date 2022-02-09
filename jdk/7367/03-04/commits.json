@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Replacing multiple if statements with single one\"\n\nThis reverts commit 34713cf2619c594527022a6ac29ee55df8e61f97."},"files":[{"filename":"src\/hotspot\/share\/interpreter\/oopMapCache.cpp"}],"sha":"684ee0dd50617a72acc29f1ae43d7249e92bd69f"}]
