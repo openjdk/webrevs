@@ -1,0 +1,1 @@
+[{"commit":{"message":"6792: Previously opened JFR remains opened in JMC despite graceful relaunch"},"files":[{"filename":"application\/org.openjdk.jmc.flightrecorder.ui\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/ui\/FlightRecorderUI.java"}],"sha":"110db4298c48a51c4cb453c540f94b05ef1bb260"}]
