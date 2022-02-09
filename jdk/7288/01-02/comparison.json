@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -444,1 +444,1 @@\n-  TEST_VM(os, release_multi_mappings) {\n+TEST_VM(os, release_multi_mappings) {\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
