@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use active generation, rather than young exclusively when preparing for update refs"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"61a47337820621bd8a4cd6a6b8b1561bc8b5f0cb"}]
