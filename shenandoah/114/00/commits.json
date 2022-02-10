@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixes for running in non-generational modes"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahDegeneratedGC.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"}],"sha":"78c7de9bdf3d2b876c406cebde774afc5ab22ea7"}]
