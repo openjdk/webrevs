@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1675,1 +1675,0 @@\n-  rawmem = make_store(control, rawmem, object, oopDesc::nklass_offset_in_bytes(), klass_node, T_METADATA);\n","filename":"src\/hotspot\/share\/opto\/macro.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
