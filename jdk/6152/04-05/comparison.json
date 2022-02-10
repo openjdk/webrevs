@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -252,1 +252,1 @@\n-            = (ver.length == 2)\n+            = (ver.length >= 2)\n","filename":"test\/jdk\/java\/lang\/RuntimeTests\/Version\/Basic.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
