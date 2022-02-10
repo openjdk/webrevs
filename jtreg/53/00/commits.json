@@ -1,0 +1,1 @@
+[{"commit":{"message":"7903093: Detect invalid class names in CleanAction\n\nCheck the validity of all given class names by delegating\nthe check to the `javax.lang.model.SourceVersion#isName` method."},"files":[{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/CleanAction.java"}],"sha":"6eb46cd0e7f0c4695f7acb539bbbb82f5683e397"}]
