@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-                        if (ae.getTypeName().equals(\"sensors.Temperature\")) {\n+                        if (ae.getTypeName().equals(\"com.example.Temperature\")) {\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/snippet-files\/Snippets.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
