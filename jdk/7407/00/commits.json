@@ -1,0 +1,1 @@
+[{"commit":{"message":"8281553: Ensure we only require liveness from mach-nodes with barriers"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/c2\/zBarrierSetC2.cpp"}],"sha":"1c88967820b458bb36b748a3fb91ab92cd456fe0"}]

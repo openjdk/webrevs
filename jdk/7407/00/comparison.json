@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -138,1 +138,3 @@\n-  return *barrier_set_state()->live(_node);\n+  RegMask* mask = barrier_set_state()->live(_node);\n+  assert(mask!=NULL, \"must be mach-node with barrier\");\n+  return *mask;\n","filename":"src\/hotspot\/share\/gc\/z\/c2\/zBarrierSetC2.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
