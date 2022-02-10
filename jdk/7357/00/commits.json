@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changed return type for young_list_target_length() to uint\n\nChanged return type for young_list_target_length() to uint to be consistent with the underlying variable and all related variables and functions."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.hpp"}],"sha":"8fe92b17951ba25db4147853688427b5253fdc40"}]

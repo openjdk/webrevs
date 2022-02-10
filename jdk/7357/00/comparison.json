@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -385,1 +385,1 @@\n-  size_t young_list_target_length() const { return _young_list_target_length; }\n+  uint young_list_target_length() const { return _young_list_target_length; }\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
