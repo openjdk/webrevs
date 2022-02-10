@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-        testInfoOpt(\"-fullversion\", \"javac\", specVersion, \"+\");\n+        testInfoOpt(\"-fullversion\", \"javac\", specVersion);\n","filename":"test\/langtools\/tools\/javac\/options\/modes\/InfoOptsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
