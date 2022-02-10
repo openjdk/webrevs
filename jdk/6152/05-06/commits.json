@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove \"build 0\" from GHA builds"},"files":[{"filename":".github\/workflows\/submit.yml"}],"sha":"d433de3a865062423db5e69dfa55ebb8a80a1662"},{"commit":{"message":"Warn that build 0 is \"no build\""},"files":[{"filename":"make\/autoconf\/jdk-version.m4"}],"sha":"3cb40be97ba4a0f29b070fa7a8c76eecac0ae8de"}]
