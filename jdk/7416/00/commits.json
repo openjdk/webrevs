@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277922: Unable to click JCheckBox in JTable through Java Access Bridge"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JTable.java"},{"filename":"test\/jdk\/javax\/accessibility\/JTable\/JCheckBoxInJTableCannotBeClickedTest.java"}],"sha":"2b1d4f85c09f4841cf8589e9ac59257a35f6b95f"}]
