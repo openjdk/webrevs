@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,1 +139,1 @@\n-  assert(mask!=NULL, \"must be mach-node with barrier\");\n+  assert(mask != NULL, \"must be mach-node with barrier\");\n","filename":"src\/hotspot\/share\/gc\/z\/c2\/zBarrierSetC2.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
