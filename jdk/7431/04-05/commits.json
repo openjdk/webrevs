@@ -1,0 +1,1 @@
+[{"commit":{"message":"9072610: HashMap.putAll can cause redundant space waste"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/WeakHashMap.java"}],"sha":"4e42cae1b9389c3bb94a66790ed9a5dcbd3829c4"}]
