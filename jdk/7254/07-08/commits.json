@@ -1,0 +1,1 @@
+[{"commit":{"message":"5041655: Modify existing tests to verify that creating a lock with size zero yields size Long.MAX_VALUE - position"},"files":[{"filename":"test\/jdk\/java\/nio\/channels\/AsynchronousFileChannel\/Basic.java"},{"filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/Lock.java"}],"sha":"537525ea7817161060b728ff51a1b5f2e0973eb9"}]
