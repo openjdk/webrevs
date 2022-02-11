@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1500,0 +1500,1 @@\n+#ifdef _LP64\n@@ -1503,0 +1504,4 @@\n+#else\n+      \/\/ x86_32.ad has a special match rule for SqrtD.\n+      \/\/ Together with common x86 rules, this handles all UseSSE cases.\n+#endif\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
