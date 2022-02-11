@@ -1,0 +1,1 @@
+[{"commit":{"message":"8242544: CMD+ENTER key event crashes the application when invoked on dialog\n\nReviewed-by: jpereda, kcr"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassWindow.m"}],"sha":"6176c0e1aed245e9cb982e0e6e2a2934ca4b9e8f"}]
