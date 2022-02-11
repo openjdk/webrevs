@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -388,0 +388,1 @@\n+#ifdef COMPILER2\n@@ -400,0 +401,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/compiler\/compilerDirectives.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
