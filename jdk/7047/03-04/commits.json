@@ -1,0 +1,1 @@
+[{"commit":{"message":"Sync marked words to HeapRegion; Fix compilation error on windows"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1EvacFailure.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1GCPhaseTimes.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1GCPhaseTimes.hpp"}],"sha":"76a26feb0b6a55e3a8bdcd482a0fa421c623c7f9"}]
