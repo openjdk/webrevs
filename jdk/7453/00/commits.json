@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279949: JavaThread::_free_handle_block leaks native memory"},"files":[{"filename":"src\/hotspot\/share\/runtime\/jniHandles.cpp"}],"sha":"dea76c0a4548f7bac78650ad0b3c31d3d4381ed8"}]
