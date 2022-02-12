@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace C-style casts with checked_cast"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp"}],"sha":"c5f9428ff66ebae8b8e0da75239da6dedc8e211e"}]
