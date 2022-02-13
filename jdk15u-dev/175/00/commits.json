@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore the \"import java.util.stream.Collectors;\""},"files":[{"filename":"test\/jdk\/build\/AbsPathsInImage.java"}],"sha":"50cb043fccf648b44e36f7d5db610c6ab2aaaffb"},{"commit":{"message":"Backport dd93c6e27b66acebb221583fd28d03c65bfc1f24"},"files":[{"filename":"test\/jdk\/build\/AbsPathsInImage.java"}],"sha":"c7532c05db41a49d124879afdb0a2d057a7b9586"}]
