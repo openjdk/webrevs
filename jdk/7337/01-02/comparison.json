@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,1 +97,1 @@\n-final class TiledImage implements RenderedImage {\n+public class TiledImage implements RenderedImage {\n@@ -178,1 +178,1 @@\n-        return new Vector();\n+        return new Vector<>();\n","filename":"test\/jdk\/java\/awt\/image\/DrawImage\/TiledImage.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
