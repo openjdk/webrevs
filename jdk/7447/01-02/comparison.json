@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,1 +113,1 @@\n-     * there is no caller frame on the stack (e.g when called directly\n+     * there is no caller frame on the stack (e.g. when called directly\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandles.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
