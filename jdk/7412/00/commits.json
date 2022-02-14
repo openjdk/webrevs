@@ -1,0 +1,1 @@
+[{"commit":{"message":"8281317: CompactNumberFormat displays 4-digit values when rounding to a new range"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/text\/CompactNumberFormat.java"},{"filename":"test\/jdk\/java\/text\/Format\/CompactNumberFormat\/TestCompactPatternsValidity.java"}],"sha":"8ea8ccfa88ff56d82f3cf8c4064f919bc055c3b0"}]
