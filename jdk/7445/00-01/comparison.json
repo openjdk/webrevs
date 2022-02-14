@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -206,1 +206,1 @@\n-    public boolean sourceModifer() {\n+    public boolean sourceModifier() {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/AccessFlag.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
