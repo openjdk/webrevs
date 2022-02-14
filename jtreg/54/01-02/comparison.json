@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-        int code = jtreg.run(System.out, System.err, \"--version\");\n+        int code = jtreg.run(System.out, System.err, \"-help\");\n","filename":"test\/toolprovider\/Pass.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
