@@ -1,0 +1,1 @@
+[{"commit":{"message":"change lseek64() calls to os::lseek()"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"e0abfdb4aeebf4f38fa7aed98e69b2aa5ba6c94d"}]
