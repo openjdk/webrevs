@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use local variable for inital scope slots array (instead of storing it in the scopeSlots field)"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/BindingSpecializer.java"}],"sha":"078e77e9a9aaf5446abfed601dcd9202e4c62988"}]
