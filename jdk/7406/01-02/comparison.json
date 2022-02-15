@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n- *     or {@link java.util.spi.ToolProvider#findFirst ToolProvider.findFirst(\"deps\")}\n+ *     or {@link java.util.spi.ToolProvider#findFirst ToolProvider.findFirst(\"jdeps\")}\n","filename":"src\/jdk.jdeps\/share\/classes\/module-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
