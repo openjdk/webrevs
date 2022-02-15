@@ -1,0 +1,1 @@
+[{"commit":{"message":"No need for explicit locking for raw loading"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/NativeLibraries.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/RawNativeLibraries.java"}],"sha":"1be1afad507b5c812948af8aca0501954a1bf9fd"}]
