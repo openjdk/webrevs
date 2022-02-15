@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle unknown instructions from LLVM. Solution suggested by ngasson."},"files":[{"filename":"src\/utils\/hsdis\/llvm\/hsdis-llvm.cpp"}],"sha":"7d8667257f911bfcf19f673326d1a2c094b1dcda"}]
