@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed review comments: frame created in EDT, waitForIdle() added after frame creation, editor access in EDT"},"files":[{"filename":"test\/jdk\/javax\/swing\/JTextArea\/4514331\/TabShiftsFocusToNextComponent.java"}],"sha":"bc9bc1e9b25397ac5f7bd07f16640bc9b08b87bc"}]
