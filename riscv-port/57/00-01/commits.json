@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove local vars"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.cpp"}],"sha":"415a75c930226be54ebbdc0c4a48125fb679e27f"},{"commit":{"message":"A little optimization"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.hpp"}],"sha":"a6283981569c498e77f72c79f47ffb0a6466853c"}]
