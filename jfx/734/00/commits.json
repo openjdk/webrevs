@@ -1,0 +1,1 @@
+[{"commit":{"message":"8281089: JavaFX built with VS2019 and jlinked into JDK 11.x fails to start"},"files":[{"filename":"build.gradle"},{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/utils\/NativeLibLoader.java"}],"sha":"e8466ebceb536b9f0f85c6c429508878bb574465"}]
