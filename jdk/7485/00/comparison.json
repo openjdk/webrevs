@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3005,1 +3005,1 @@\n-  CodeBuffer buffer(name, 1000, 512);\n+  CodeBuffer buffer(name, (UseAVX > 2) ? 1200 : 1000, 512);\n","filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
