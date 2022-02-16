@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278260: JavaFX shared libraries not stripped on Linux or macOS\n\nReviewed-by: jvos, aghaisas"},"files":[{"filename":"build.gradle"},{"filename":"buildSrc\/linux.gradle"},{"filename":"buildSrc\/mac.gradle"}],"sha":"9ba5a4113d2402adfdea0a80be6468a76a042738"}]
