@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -100,3 +100,0 @@\n-  template <typename T, class OopClosureType, class Contains>\n-  static void do_next(oop obj, OopClosureType* closure, Contains& contains);\n-\n","filename":"src\/hotspot\/share\/oops\/instanceRefKlass.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
