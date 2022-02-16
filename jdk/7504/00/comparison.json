@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -295,1 +295,1 @@\n-        if (str.endsWith(\"\\\\\\\"\")) {\n+        if (str.endsWith(\"\\\\\\\"\") && !str.startsWith(\"\\\"\")) {\n","filename":"src\/java.base\/windows\/classes\/java\/lang\/ProcessImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
