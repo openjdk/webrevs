@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run main\/othervm IsParallelCapableBadCaller\n+ * @run main\/othervm BadRegisterAsParallelCapableCaller\n","filename":"test\/jdk\/java\/lang\/ClassLoader\/BadRegisterAsParallelCapableCaller.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
