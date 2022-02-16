@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1,1 +1,1 @@\n-package java.util.Map;\/*\n+\/*\n@@ -31,0 +31,1 @@\n+ * @build jdk.test.lib.util.OptimalCapacity\n","filename":"test\/jdk\/java\/util\/Map\/HashMapsPutAllOverAllocateTableTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
