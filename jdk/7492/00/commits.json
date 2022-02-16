@@ -1,0 +1,1 @@
+[{"commit":{"message":"8281962: Avoid unnecessary native calls in InflaterInputStream"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/InflaterInputStream.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/zip\/InflaterInputStreams.java"}],"sha":"8314380e9ff77eefd6cb65f760d77efd3998291a"}]
