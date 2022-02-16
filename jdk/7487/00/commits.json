@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279969: NULL check missing in HeapShared::load_regions()"},"files":[{"filename":"src\/hotspot\/share\/cds\/filemap.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/SharedArchiveConsistency.java"}],"sha":"ec6c489a32e055d518e4a9928b2598fa5a359806"}]
