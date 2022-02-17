@@ -1,0 +1,1 @@
+[{"commit":{"message":"Export _sha3_implCompress, _md5_implCompress and aarch64::_has_negatives stubs to JVMCI compiler."},"files":[{"filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp"}],"sha":"0d8da9e60d6c62552163201b7e57f543c52bfda6"}]
