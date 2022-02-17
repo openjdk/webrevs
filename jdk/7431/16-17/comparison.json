@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,2 +32,1 @@\n- * @compile HashMapsPutAllOverAllocateTableTest.java\n- * @run junit\/othervm HashMapsPutAllOverAllocateTableTest\n+ * @run junit HashMapsPutAllOverAllocateTableTest\n","filename":"test\/jdk\/java\/util\/Map\/HashMapsPutAllOverAllocateTableTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
