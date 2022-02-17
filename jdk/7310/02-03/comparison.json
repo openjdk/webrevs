@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -310,2 +310,0 @@\n-\n-        \/\/ use zero insets for view since\n@@ -313,0 +311,1 @@\n+            \/\/ use zero insets for view since layout only handles text calculations\n","filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaButtonUI.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
