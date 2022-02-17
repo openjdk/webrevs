@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-        return from(name, uri, (Credential) null);\n+        return from(name, uri, null, null);\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/Forge.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
