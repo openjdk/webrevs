@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-            robot.mouseMove(p.x+ 480, p.y+6);\n+            robot.mouseMove(p.x+ 380, p.y+6);\n","filename":"test\/jdk\/javax\/swing\/text\/Caret\/TestCaretPositionJTextPane.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
