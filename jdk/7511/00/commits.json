@@ -1,0 +1,1 @@
+[{"commit":{"message":"Export _sha3_implCompress, _md5_implCompress and aarch64::_has_negatives stubs to JVMCI."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubRoutines_aarch64.hpp"},{"filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp"}],"sha":"e4fffaee84a9c01e1bd6889c0715a603437cad72"}]
