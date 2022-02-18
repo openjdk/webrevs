@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282077: PKCS11 provider C_sign() impl should handle CKR_BUFFER_TOO_SMALL error"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/p11_sign.c"}],"sha":"19d1451abb88651500382096dcc6e8d5297f48d0"}]
