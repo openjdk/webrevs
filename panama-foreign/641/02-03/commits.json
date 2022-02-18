@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address review comments\n* replace spurious usages of `scope` in direct buffer template"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/JavaNioAccess.java"}],"sha":"2ee6f16b95e8763ef3a23df45670d06ce325bcba"}]
