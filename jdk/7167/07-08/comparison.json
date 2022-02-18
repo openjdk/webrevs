@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-            throw new IOException(\"value is not [0]\");\n+            throw new IOException(\"value is not EXPLICTly tagged [0]\");\n","filename":"src\/java.base\/share\/classes\/sun\/security\/x509\/OtherName.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
