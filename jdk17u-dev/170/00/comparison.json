@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,5 @@\n-GENDATA_CACERTS_SRC := $(TOPDIR)\/make\/data\/cacerts\/\n+ifneq ($(CACERTS_SRC), )\n+  GENDATA_CACERTS_SRC := $(CACERTS_SRC)\n+else\n+  GENDATA_CACERTS_SRC := $(TOPDIR)\/make\/data\/cacerts\/\n+endif\n","filename":"make\/modules\/java.base\/Gendata.gmk","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
