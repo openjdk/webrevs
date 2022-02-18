@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8280783: Parallel: Refactor PSCardTable::scavenge_contents_parallel\"\n\nThis reverts commit 2597206242356d42ca5d08be809cfdff79df924d."},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psCardTable.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psCardTable.hpp"}],"sha":"c2b1f9a3736667ea50fe33ed6aa5d76550c9703e"}]
