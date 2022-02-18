@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1427,1 +1427,4 @@\n-    var args = [\"--with-version-build=\" + common.build_number];\n+    var args = [];\n+    if (common.build_number != 0) {\n+        args = concat(args, \"--with-version-build=\" + common.build_number);\n+    }\n","filename":"make\/conf\/jib-profiles.js","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
