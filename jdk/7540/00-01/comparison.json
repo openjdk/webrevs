@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,1 +151,1 @@\n-            return NULL;\n+            goto cleanup;\n@@ -162,0 +162,1 @@\n+cleanup:\n","filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/p11_sign.c","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
