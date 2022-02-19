@@ -1,0 +1,1 @@
+[{"commit":{"message":"Review comments fixed: A CountDownLatch used instead of polling loop, frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE)"},"files":[{"filename":"test\/jdk\/javax\/swing\/JButton\/SpaceKeyActivatesButton.java"}],"sha":"00b4d7aa9ea4e18ae9a9ad1a127f54ee7ef2214e"}]
