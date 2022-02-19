@@ -1,0 +1,1 @@
+[{"commit":{"message":"Review comments fixed: A CountDownLatch used instead of polling loop, frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE)"},"files":[{"filename":"test\/jdk\/javax\/swing\/JTextArea\/4514331\/TabShiftsFocusToNextComponent.java"}],"sha":"0f6f205f63e5b604b2cf0e41b46ae433ee9e03f8"}]
