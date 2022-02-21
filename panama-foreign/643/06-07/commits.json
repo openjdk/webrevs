@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix reference to boolean return type in ScopedMemoryAccess::closeScope"},"files":[{"filename":"src\/hotspot\/share\/prims\/scopedMemoryAccess.cpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/X-ScopedMemoryAccess.java.template"}],"sha":"fee2a483391d5601e0459c5bddd00a8252e3481d"}]
