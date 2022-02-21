@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n-package java.security;\n+package sun.security.util;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/ECParameters.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
