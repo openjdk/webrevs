@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2031,0 +2031,5 @@\n+  if (!Thread::current()->is_Java_thread()) {\n+    \/\/ Metaspace failure not from a Java\/compiler thread, no need to log.\n+    return;\n+  }\n+\n","filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
