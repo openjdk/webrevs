@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,0 @@\n-        final int length = gV.getNumGlyphs();\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CTextPipe.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
