@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1576,1 +1576,1 @@\n-     * @return the locale of this formatter, not null\n+     * @return the DecimalStyle of this formatter, not null\n","filename":"src\/java.base\/share\/classes\/java\/time\/format\/DateTimeFormatter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
