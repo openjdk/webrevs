@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-\t\t\t\t\t\tthrow new RuntimeException(\"Exception while creating UI\");\n+                        throw new RuntimeException(\"Exception while creating UI\");\n","filename":"test\/jdk\/javax\/swing\/JTable\/8236907\/LastVisibleRow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
