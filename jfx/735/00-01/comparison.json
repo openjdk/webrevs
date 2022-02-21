@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-        assertEquals(new Point2D(0,0), point);\n+        assertEquals(new Point2D(0, 0), point);\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/skin\/TextInputControlSkinTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
