@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -776,1 +776,1 @@\n-  \/\/ do nothing for now\n+  ShouldNotReachHere(); \/\/ caller should never have to gc arguments\n","filename":"src\/hotspot\/share\/code\/codeBlob.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
