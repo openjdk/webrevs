@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7830,1 +7830,1 @@\n-  effect( KILL cr, KILL cx, KILL bx );\n+  effect(CALL);\n@@ -7878,1 +7878,1 @@\n-  effect( KILL cr, KILL cx, KILL bx );\n+  effect(CALL);\n","filename":"src\/hotspot\/cpu\/x86\/x86_32.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
