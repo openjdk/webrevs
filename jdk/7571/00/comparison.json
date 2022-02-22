@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2825,1 +2825,1 @@\n-        if (font != oldFont) {\n+        if (font != null && !font.equals(oldFont)) {\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JComponent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
