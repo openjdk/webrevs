@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,4 @@\n+ *\n+ * @run testng\/othervm -Xint -XX:+IgnoreUnrecognizedVMOptions -XX:-VerifyDependencies\n+ *   --enable-native-access=ALL-UNNAMED -Dgenerator.sample.factor=100000\n+ *   TestDowncall\n","filename":"test\/jdk\/java\/foreign\/TestDowncall.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
