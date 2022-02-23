@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-                    replace(\"SHA\", \"SHA-\").toUpperCase(Locale.ENGLISH);\n+                    toUpperCase(Locale.ENGLISH).replace(\"SHA\", \"SHA-\");\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/TlsChannelBinding.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
