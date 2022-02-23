@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1183,2 +1183,1 @@\n-#endif\n-\n+#else\n@@ -1214,0 +1213,1 @@\n+#endif\n@@ -1222,1 +1222,1 @@\n-#endif\n+#else\n@@ -1228,0 +1228,2 @@\n+\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":5,"deletions":3,"binary":false,"changes":8,"status":"modified"}]}
