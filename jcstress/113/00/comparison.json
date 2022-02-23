@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8,0 +8,4 @@\n+concurrency:\n+  group: ${{ github.workflow }}-${{ github.ref }}\n+  cancel-in-progress: true\n+\n","filename":".github\/workflows\/pre-integration.yml","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
