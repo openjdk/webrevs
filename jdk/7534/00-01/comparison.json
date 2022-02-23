@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -498,0 +498,2 @@\n+            } else {\n+                sprops.user_home = \"?\";\n","filename":"src\/java.base\/unix\/native\/libjava\/java_props_md.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
