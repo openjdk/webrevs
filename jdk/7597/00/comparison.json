@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -182,1 +182,1 @@\n-        this(sp, true, false);\n+        this(sp, false, true);\n","filename":"src\/java.base\/windows\/classes\/sun\/nio\/ch\/PipeImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
