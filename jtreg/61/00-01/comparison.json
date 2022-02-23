@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,3 @@\n-TESTS.jtreg += $(BUILDDIR)\/TestSanityTest.ok\n+# Test disabled following cleanup to `make sanity` in $(TOPDIR)\/make\/Makefile\n+# See CODETOOLS-7903111\n+# TESTS.jtreg += $(BUILDDIR)\/TestSanityTest.ok\n","filename":"test\/sanityTest\/SanityTest.gmk","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
