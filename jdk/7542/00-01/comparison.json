@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,1 @@\n+ * @requires vm.compMode != \"Xcomp\"\n@@ -71,1 +72,0 @@\n- * @requires vm.compMode != \"Xcomp\"\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/ClhsdbFindPC.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
