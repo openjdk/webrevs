@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -293,0 +293,2 @@\n+     * @exception  ArrayIndexOutOfBoundsException if <code>columnIndex<\/code>\n+     *             is not in valid range (< 0 or >= getColumnCount())\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/table\/DefaultTableColumnModel.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
