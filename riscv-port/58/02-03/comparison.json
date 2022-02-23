@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -913,1 +913,1 @@\n-  __ bnez(t0, L_goog_watermark);\n+  __ bnez(t0, L_good_watermark);\n","filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
