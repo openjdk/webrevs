@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -326,1 +326,1 @@\n-#endif \/\/ CPU_X86_C2_MACROASSEMBLER_X86_HPP\n\\ No newline at end of file\n+#endif \/\/ CPU_X86_C2_MACROASSEMBLER_X86_HPP\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
