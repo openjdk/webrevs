@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -583,1 +583,0 @@\n-  PartialArrayScanTask() : _src() {}\n","filename":"src\/hotspot\/share\/gc\/shared\/taskqueue.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
