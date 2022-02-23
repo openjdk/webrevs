@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-  ADD_EXCL(\"java\/lang\/ClassLoader\",                      \"scl\");                   \/\/ A \n+  ADD_EXCL(\"java\/lang\/ClassLoader\",                      \"scl\");                   \/\/ A\n","filename":"src\/hotspot\/share\/cds\/cdsHeapVerifier.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
