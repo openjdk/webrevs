@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8282144 RandomSupport.convertSeedBytesToLongs sign extension overwrites previous bytes"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/random\/RandomSupport.java"},{"filename":"test\/jdk\/java\/util\/Random\/T8282144.java"}],"sha":"86628e3106daab51ab3c3ee2bb460eb15a3034a4"}]
