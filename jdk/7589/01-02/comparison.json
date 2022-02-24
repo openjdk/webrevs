@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,0 +180,1 @@\n+                break;  \/\/ return succesfully\n","filename":"test\/jdk\/javax\/management\/remote\/mandatory\/connection\/DefaultAgentFilterTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
