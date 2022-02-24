@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,1 +219,0 @@\n-\/\/ on riscv, vector registers are awlays saved when RVV is enabled.\n","filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
