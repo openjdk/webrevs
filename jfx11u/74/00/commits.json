@@ -1,0 +1,1 @@
+[{"commit":{"message":"8223377: JavaFX can crash due to loading the wrong native libraries if system libraries are installed\n\nReviewed-by: kcr, jvos"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/utils\/NativeLibLoader.java"}],"sha":"19d82a6ad2babd5c81f98993435b15107ad6f260"}]
