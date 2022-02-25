@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282360: Merge POSIX implementations of ThreadCritical"},"files":[{"filename":"src\/hotspot\/os\/bsd\/threadCritical_bsd.cpp"},{"filename":"src\/hotspot\/os\/linux\/threadCritical_linux.cpp"},{"filename":"src\/hotspot\/os\/posix\/threadCritical_posix.cpp"}],"sha":"d89255c1182f480254cbc633ecc8b3f1e5fc7105"}]
