@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-                .collect(Collectors.toCollection(() -> new HashSet<>()));\n+                .collect(Collectors.toCollection(HashSet::new));\n","filename":"test\/jdk\/java\/util\/Properties\/PropertiesStoreTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
