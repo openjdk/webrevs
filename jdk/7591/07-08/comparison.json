@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+#include \"runtime\/frame.inline.hpp\"\n@@ -875,1 +876,1 @@\n-  EXPECT_FALSE(!os::is_first_C_frame(&cur_frame));\n+  EXPECT_FALSE(os::is_first_C_frame(&cur_frame));\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
