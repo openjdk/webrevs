@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+import javafx.scene.input.KeyCode;\n@@ -212,1 +213,1 @@\n-            robot.mouseClick(MouseButton.PRIMARY);\n+            robot.keyType(KeyCode.ESCAPE);\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/web\/PointerEventTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
