@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -420,1 +420,1 @@\n-        final ArrayList listTest = new ArrayList<Integer>();\n+        final var listTest = new ArrayList<Integer>();\n","filename":"test\/jdk\/java\/util\/Random\/RandomTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
