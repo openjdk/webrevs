@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4346,1 +4346,1 @@\n-\/\/  a. Count the number of 1s in 4 MSB bits each byte. These bits are used as\n+\/\/  c. Count the number of 1s in 4 MSB bits each byte. These bits are used as\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
