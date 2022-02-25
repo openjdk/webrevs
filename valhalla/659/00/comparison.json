@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2110,1 +2110,1 @@\n-  if (!holder->is_loaded() || !holder->is_inlinetype()) {\n+  if (!holder->is_loaded() || !holder->is_inlinetype() || !will_link) {\n","filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
