@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-             > (1ULL << log2_intptr(Universe::narrow_klass_range()))));\n+             > (1ULL << log2_intptr(checked_cast<uintptr_t>(Universe::narrow_klass_range())))));\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

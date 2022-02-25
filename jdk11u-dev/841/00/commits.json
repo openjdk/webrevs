@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282372: [11] build issue on MacOS\/aarch64 12.2.1 using Xcode 13.1: call to 'log2_intptr' is ambiguous"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp"}],"sha":"7f881f45932a8f65b531f286469f14a62ddcf90c"}]
