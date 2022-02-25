@@ -1,0 +1,1 @@
+[{"commit":{"message":"use Collections.toCollection() instead of Collectors.toSet() to allow for mutability guarantees"},"files":[{"filename":"test\/jdk\/java\/util\/Properties\/PropertiesStoreTest.java"}],"sha":"1d14f1c7b00bd7ad4ecea052e632fadbf888aa97"}]

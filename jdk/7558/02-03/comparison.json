@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+import java.util.HashSet;\n@@ -109,1 +110,1 @@\n-                .collect(Collectors.toSet());\n+                .collect(Collectors.toCollection(() -> new HashSet<>()));\n","filename":"test\/jdk\/java\/util\/Properties\/PropertiesStoreTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
