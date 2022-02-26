@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -399,0 +399,1 @@\n+  NOT_PRODUCT(it->push(&_name);)\n","filename":"src\/hotspot\/share\/oops\/method.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
