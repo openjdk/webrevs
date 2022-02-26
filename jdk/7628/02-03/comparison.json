@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1928,1 +1928,1 @@\n-    \/\/ cmpl    $0x80000000,%eax\n+    \/\/ cmp    $0x80000000,%eax\n@@ -1937,1 +1937,1 @@\n-    \/\/ cmpl    $0xffffffffffffffff,%ecx\n+    \/\/ cmp    $0xffffffffffffffff,%ecx\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
