@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280498: AIX does not respond internally to 0.0.0.0; ::0 is invalid - skip test"},"files":[{"filename":"test\/jdk\/java\/net\/Inet4Address\/PingThis.java"}],"sha":"c4f1d7b575a8aa47221f2f416e03d54c750c10ed"}]
