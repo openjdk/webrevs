@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -339,2 +339,0 @@\n-  register_thread_stack_with_NMT();\n-\n@@ -342,0 +340,2 @@\n+  \n+  register_thread_stack_with_NMT();\n","filename":"src\/hotspot\/share\/runtime\/thread.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
