@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -542,1 +542,0 @@\n-#define NOT_AARCH64_PORT_ONLY(code)\n@@ -545,1 +544,0 @@\n-#define NOT_AARCH64_PORT_ONLY(code) code\n","filename":"src\/hotspot\/share\/utilities\/macros.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
