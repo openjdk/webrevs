@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5759,2 +5759,2 @@\n-    Node* ctrl_out = least->unique_ctrl_out();\n-    if (ctrl_out && ctrl_out->is_Loop() &&\n+    Node* ctrl_out = least->unique_ctrl_out_or_null();\n+    if (ctrl_out != NULL && ctrl_out->is_Loop() &&\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
