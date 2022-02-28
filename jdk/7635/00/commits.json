@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282160: JShell circularly-required classes cannot be defined"},"files":[{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/Diag.java"},{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/DiagList.java"},{"filename":"test\/langtools\/jdk\/jshell\/ClassesTest.java"}],"sha":"43ee65a7968820dcfc03b5be812b060d2d4ec8dd"}]
