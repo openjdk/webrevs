@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4836,1 +4836,1 @@\n-  ss.print_raw(CompilerPhaseTypeHelper::to_name(cpt));\n+  ss.print_raw(CompilerPhaseTypeHelper::to_description(cpt));\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
