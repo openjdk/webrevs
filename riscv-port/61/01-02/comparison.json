@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2899,1 +2899,1 @@\n-    __ shadd(newArr, t0, oldArr, t1, 2);\n+    __ shadd(newArr, t0, newArr, t1, 2);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
