@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -230,0 +230,1 @@\n+    @ForceInline\n@@ -255,0 +256,1 @@\n+    @ForceInline\n","filename":"src\/java.base\/share\/classes\/java\/util\/Objects.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
