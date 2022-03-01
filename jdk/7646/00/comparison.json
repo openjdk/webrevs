@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * This is the type of the expression {@code null},\n+ * This is the type of the expression {@code null}.\n","filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/type\/NullType.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
