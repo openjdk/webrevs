@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove extra space"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"8069cf97492ef62a1b19058c9ca8c88fbb0a0809"},{"commit":{"message":"8282328: riscv: Intrinsify bigIntegerRightShift"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"511c94fed01a103a476454eb30a5431542aa1b8f"}]
