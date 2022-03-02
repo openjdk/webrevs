@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address review comments\n* remove remaining references to native symbol in CLinker javadoc\n* improve javadoc of ClassLoader::findNative"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/ClassLoader.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/CLinker.java"}],"sha":"10b6fb4cee151b126c514e5756a1aceb7277c6f5"}]
