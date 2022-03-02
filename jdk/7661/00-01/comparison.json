@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-(JNIEnv *env, jclass cls, jstring name, jlong address)\n+  (JNIEnv *env, jclass cls, jstring name, jlong address)\n@@ -98,1 +98,2 @@\n-}\n\\ No newline at end of file\n+}\n+\n","filename":"src\/java.base\/share\/native\/libjava\/RawNativeLibraries.c","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
