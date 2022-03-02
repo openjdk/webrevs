@@ -1,0 +1,1 @@
+[{"commit":{"message":" [PATCH] Cleanup unnecessary calls to Throwable.initCause() in jdk.compiler module"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/processing\/JavacProcessingEnvironment.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/tree\/Pretty.java"}],"sha":"d1f02b19c223986976d74bf33cef1c1ad947bf38"}]
