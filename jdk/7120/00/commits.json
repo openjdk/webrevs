@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Properly initialize L32X64MixRandom state\n\nDid a cursory review of the other generators, they seem to set the state correctly."},"files":[{"filename":"src\/jdk.random\/share\/classes\/jdk\/random\/L32X64MixRandom.java"}],"sha":"0b42241a203f26c001ee78fcba80d03c7c4d4d4e"}]
