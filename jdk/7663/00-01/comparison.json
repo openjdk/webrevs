@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1588,1 +1588,1 @@\n-                caller.getClassLoader() : getLoader(getCallerModule(caller));\n+              ClassLoader loader = getLoader(getCallerModule(caller));\n","filename":"src\/java.base\/share\/classes\/java\/util\/ResourceBundle.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
