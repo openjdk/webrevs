@@ -1,0 +1,1 @@
+[{"commit":{"message":"backport of JDK-8252250 to 11u"},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions_gcc.hpp"},{"filename":"src\/java.base\/unix\/native\/libjava\/jdk_util_md.h"}],"sha":"b2ce09909c748761fe05fd5ae590b7f1cebd064e"}]
