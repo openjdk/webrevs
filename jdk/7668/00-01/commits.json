@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282577: ICC_Profile.setTagData() invalidates the profile"},"files":[{"filename":"src\/java.desktop\/share\/native\/liblcms\/LCMS.c"},{"filename":"test\/jdk\/java\/awt\/color\/ICC_Profile\/MTGetData.java"}],"sha":"2ecf8211a68c8cac3f22597bee1c8d416bdfb1a4"}]
