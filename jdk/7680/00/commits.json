@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282617: sun.net.www.protocol.https.HttpsClient#putInKeepAliveCache() doesn't use a lock while dealing with inCache field"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/https\/HttpsClient.java"}],"sha":"d9d03cb5070bc508aaeb9ef1fefe9cebef1b22c5"}]
