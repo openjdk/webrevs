@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,2 @@\n- * @run main AccessibleJSliderTest\n+ * @run main\/manual AccessibleJSliderTest\n+ * @requires (os.family == \"windows\" | os.family == \"mac\")\n","filename":"test\/jdk\/java\/awt\/a11y\/AccessibleJSliderTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
