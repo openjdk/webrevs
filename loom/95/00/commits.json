@@ -1,0 +1,1 @@
+[{"commit":{"message":"Inject StackChunk fields."},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"},{"filename":"src\/hotspot\/share\/classfile\/javaClasses.hpp"},{"filename":"src\/hotspot\/share\/classfile\/vmSymbols.hpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/vm\/StackChunk.java"}],"sha":"278ea3f5318a356355dc89aeab9cd2e6cca3d9c8"}]
