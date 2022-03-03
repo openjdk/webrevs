@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8806542\n+ * @bug 8065422\n","filename":"test\/jdk\/javax\/net\/ssl\/ServerName\/EndingDotHostname.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
