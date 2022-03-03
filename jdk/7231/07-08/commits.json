@@ -1,0 +1,1 @@
+[{"commit":{"message":"Document that it's allowed for implementations to return values less than the exact count (iff there are negative bytes)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/StringCoding.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestCountPositives.java"}],"sha":"85be36aed8c6f11f6ecd7a94d31ef15c60d03918"}]
