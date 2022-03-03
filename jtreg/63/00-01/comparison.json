@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -559,1 +559,1 @@\n-        JUNIT_JAR=\"${JUNIT_DEPS_DIR}\/junit.jar\"\n+        JUNIT_JAR=\"${JUNIT_DEPS_DIR}\/$(basename ${JUNIT_JAR_URL})\"\n","filename":"make\/build.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
