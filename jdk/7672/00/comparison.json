@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-\n+#ifdef _LP64\n@@ -60,1 +60,0 @@\n-\n@@ -73,1 +72,0 @@\n-\n@@ -77,1 +75,1 @@\n-\n+#endif\n@@ -92,1 +90,1 @@\n-\n+#ifdef _LP64\n@@ -102,1 +100,0 @@\n-\n@@ -111,0 +108,1 @@\n+#endif\n","filename":"test\/hotspot\/gtest\/runtime\/test_largeOptions.cpp","additions":4,"deletions":6,"binary":false,"changes":10,"status":"modified"}]}
