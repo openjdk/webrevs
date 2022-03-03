@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,1 +219,1 @@\n-        if (x == x && y == y && x != y) {\n+        if (x != y) {\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/unsafe\/ByteBufferTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
