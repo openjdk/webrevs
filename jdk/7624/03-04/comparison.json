@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -577,1 +577,1 @@\n-  Thread::ResourceAreaSwitcher ra_switcher(thread);\n+  Thread::ResourceAreaSwitcher ra_switcher(Thread::current_or_null_safe());\n","filename":"src\/hotspot\/share\/prims\/forte.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
