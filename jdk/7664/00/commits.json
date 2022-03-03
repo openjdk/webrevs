@@ -1,0 +1,1 @@
+[{"commit":{"message":"SSLSocketImpl: Do not use user_canceled workaround if the other side has already half-closed the connection."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketImpl.java"}],"sha":"f16499bc6f267450b30bfb5d2127769ce9df2950"}]
