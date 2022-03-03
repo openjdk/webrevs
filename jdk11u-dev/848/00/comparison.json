@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 7029048\n+ * @bug 7029048 8217340\n@@ -29,0 +29,1 @@\n+ * @library \/test\/lib\n","filename":"test\/jdk\/tools\/launcher\/Test7029048.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
