@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,1 +194,1 @@\n-     * @return the the locale used to create this instance\n+     * @return locale used to create this instance\n","filename":"src\/java.base\/share\/classes\/java\/text\/DecimalFormatSymbols.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
