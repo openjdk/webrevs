@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282628: Potential memory leak in sun.font.FontConfigManager.getFontConfig()"},"files":[{"filename":"src\/java.base\/share\/native\/libjava\/jni_util.h"},{"filename":"src\/java.desktop\/unix\/native\/common\/awt\/fontpath.c"}],"sha":"0ff07ddd86a8171932e15d5f3a3ea784ed97a628"}]
