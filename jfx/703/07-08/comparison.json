@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -856,0 +856,1 @@\n+#if !PLATFORM(JAVA)\n@@ -862,0 +863,1 @@\n+#endif\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/page\/DOMWindow.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
