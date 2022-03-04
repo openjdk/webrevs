@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -964,1 +964,1 @@\n-           \"F = has finialize method, \"\n+           \"F = has finalize method, \"\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
