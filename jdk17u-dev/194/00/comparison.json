@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n-        return compiler.contains(\"Tiered Compilers\");\n+        return (compiler != null) && compiler.contains(\"Tiered Compilers\");\n","filename":"test\/lib\/jdk\/test\/lib\/Platform.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
