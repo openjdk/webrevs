@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable tests, remove unsupported --with-msvc-toolset-version, add missing dependency for x86 build, turn on verbose logging for x64"},"files":[{"filename":".github\/workflows\/submit.yml"}],"sha":"12fe949662193dcfca05592c6fd820cc7883d638"}]
