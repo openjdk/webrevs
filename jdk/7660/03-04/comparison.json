@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,1 +219,1 @@\n-  elif test \"x$SOURCE_DATE\" != xcurrent; then\n+  elif test \"x$SOURCE_DATE\" != xupdated; then\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
