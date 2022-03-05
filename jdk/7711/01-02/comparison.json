@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-        super(reason);\n+        super(reason, cause);\n","filename":"src\/java.base\/share\/classes\/java\/io\/InvalidObjectException.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
