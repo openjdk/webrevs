@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,1 +158,1 @@\n-                    \"Could not generate secret\", gse));\n+                        \"Could not generate secret\", gse);\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLTrafficKeyDerivation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
