@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282722: Regard mapping array in enum switches as stable for constant folding"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"src\/hotspot\/share\/oops\/fieldInfo.hpp"}],"sha":"13b84aeb19bba915cffab8363f4aed82f45bf47a"}]
