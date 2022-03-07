@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,3 +112,0 @@\n-                robot.keyPress(KeyEvent.VK_ENTER);\n-                robot.keyRelease(KeyEvent.VK_ENTER);\n-\n@@ -129,1 +126,0 @@\n-\n@@ -141,1 +137,0 @@\n-\n","filename":"test\/jdk\/javax\/swing\/JTextField\/4532513\/DefaultCaretRequestsFocusTest.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
