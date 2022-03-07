@@ -1,0 +1,1 @@
+[{"commit":{"message":"use 32-bit mask to calculate correct remainder value"},"files":[{"filename":"src\/hotspot\/cpu\/s390\/c2_MacroAssembler_s390.cpp"}],"sha":"934b5b8adb848feb7e624c1aa5b8886de079c2a2"},{"commit":{"message":"ary1 not required to have USE_KILL effect"},"files":[{"filename":"src\/hotspot\/cpu\/s390\/s390.ad"}],"sha":"5c6194b62488951e57e44e7304db77392ee27d37"}]
