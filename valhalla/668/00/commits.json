@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix naked oop and missing exception checks"},"files":[{"filename":"src\/hotspot\/share\/memory\/oopFactory.cpp"},{"filename":"src\/hotspot\/share\/oops\/objArrayKlass.cpp"}],"sha":"17d48d023b7382abbc562c2756f06c29ec6b8c11"}]
