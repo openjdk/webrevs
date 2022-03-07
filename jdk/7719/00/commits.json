@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282469: Allow considered use of C++ thread_local in Hotspot"},"files":[{"filename":"src\/hotspot\/share\/memory\/operator_new.cpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"fdddd89d57157db50ccea45c549c48477dfe5377"}]
