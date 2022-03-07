@@ -1,0 +1,1 @@
+[{"commit":{"message":"make sure String(StringBuffer) is still synchronized."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/String.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/StringBuffer.java"}],"sha":"a5e3a162fe6501f8a70d38aff78f296e63740609"}]
