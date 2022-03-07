@@ -1,0 +1,1 @@
+[{"commit":{"message":"added regression test, and fixed a small similar bug as the others"},"files":[{"filename":"src\/hotspot\/share\/opto\/arraycopynode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/arraycopy\/TestArrayCopyAsLoadsStores.java"}],"sha":"954785058a72166fb9a4015b11b0e55d888afc93"}]
