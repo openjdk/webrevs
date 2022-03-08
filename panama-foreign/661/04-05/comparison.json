@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,0 @@\n-import jdk.internal.ref.CleanerFactory;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemorySession.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
