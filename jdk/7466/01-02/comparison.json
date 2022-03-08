@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4008,2 +4008,1 @@\n-            }\n-            else {\n+            } else {\n","filename":"src\/java.base\/share\/classes\/java\/util\/regex\/Pattern.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
