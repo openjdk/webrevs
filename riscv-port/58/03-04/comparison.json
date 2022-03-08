@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -923,1 +923,1 @@\n-  for (int p = 1; p <= n_shadow_pages ; p++) {\n+  for (int p = 1; p <= n_shadow_pages; p++) {\n","filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
