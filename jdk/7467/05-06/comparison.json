@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -189,1 +189,1 @@\n-                    close(sfd, null);\n+                    close(sfd, e -> null);\n","filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixCopyFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
