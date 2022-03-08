@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -646,1 +646,1 @@\n-      if (!forward_ctl->is_top() && forward_ctl->outcnt() == 0) {\n+      if (!forward_mem->is_top() && forward_mem->outcnt() == 0) {\n","filename":"src\/hotspot\/share\/opto\/arraycopynode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
