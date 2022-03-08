@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -780,1 +780,1 @@\n-    event_serial = 0;\n+    event_serial = GDK_CURRENT_TIME;\n@@ -1391,0 +1391,1 @@\n+        event_serial = GDK_CURRENT_TIME;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
