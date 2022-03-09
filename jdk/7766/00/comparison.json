@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -418,0 +418,1 @@\n+            Objects.requireNonNull(recv, \"null receiver\");\n@@ -446,0 +447,1 @@\n+            Objects.requireNonNull(recv, \"null receiver\");\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/DirectMethodHandle.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

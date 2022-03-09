@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8282776: Bad NullPointerException message when invoking an interface MethodHandle on a null receiver"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/DirectMethodHandle.java"}],"sha":"8af60582ec8a97be02d2203e308305465943d249"}]
