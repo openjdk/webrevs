@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1568,1 +1568,1 @@\n-        Module callerModule = (caller != null) ? caller.getModule()\n+        return  (caller != null) ? caller.getModule()\n@@ -1570,1 +1570,0 @@\n-        return callerModule;\n","filename":"src\/java.base\/share\/classes\/java\/util\/ResourceBundle.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
