@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+ * @requires !(os.family == \"linux\" & os.maxMemory < 512M)\n","filename":"test\/hotspot\/jtreg\/runtime\/Thread\/Fibonacci.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
