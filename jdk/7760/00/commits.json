@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282883: Use JVM_LEAF to avoid ThreadStateTransition for some simple JVM entries"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"0126f2c003943d17e230c3915dbbec47e56c4a10"}]
