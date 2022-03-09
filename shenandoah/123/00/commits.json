@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Mutator may fail to evacuate\"\n\nThis reverts commit 2132a6d151e4c46b71a220100fa478a8be676f13."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"fcea6bd38149c5e1131721fc236cc21d3cdbc44c"}]
