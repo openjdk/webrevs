@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282881: Print exception message in VM crash with -XX:AbortVMOnException"},"files":[{"filename":"src\/hotspot\/share\/utilities\/exceptions.cpp"}],"sha":"103c16a1f604a2217246cae1d5491858cd7f2b7e"}]
