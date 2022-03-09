@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert encodeUTF8 for this PR due issues with fragile optimization"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/String.java"}],"sha":"58ee73bbf0b154b921081e5f14141f90d47bdaf1"}]
