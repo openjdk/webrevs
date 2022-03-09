@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix 8282852. No longer assert just because class has been seen before."},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/classTrack.c"}],"sha":"6e79c93f805eeac4005f91a5e39390b36080ce92"}]
