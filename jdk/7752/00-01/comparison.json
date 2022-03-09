@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-            char* oldSignature = (char*)tag;\n+            char* oldSignature = (char*)jlong_to_ptr(tag);\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/classTrack.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
