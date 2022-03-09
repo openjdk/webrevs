@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282293: Domain value for system property jdk.https.negotiate.cbt should be case-insensitive"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/https\/AbstractDelegateHttpsURLConnection.java"},{"filename":"test\/jdk\/sun\/security\/krb5\/auto\/HttpsCB.java"}],"sha":"6899fe364360e67887aeb713dfb2aeef75f0359b"}]
