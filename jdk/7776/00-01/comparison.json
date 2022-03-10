@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8245462 8229822\n+ * @bug 8245462 8229822 8254786\n","filename":"test\/jdk\/java\/net\/httpclient\/CancelRequestTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
