@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -324,0 +324,1 @@\n+                assert acquired == true;\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http1Response.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
