@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -552,1 +552,6 @@\n-    MACOSX_BUNDLE_BUILD_VERSION=\"$VERSION_BUILD\"\n+    if test \"x$VERSION_BUILD\" != x; then\n+      MACOSX_BUNDLE_BUILD_VERSION=\"$VERSION_BUILD\"\n+    else\n+      MACOSX_BUNDLE_BUILD_VERSION=0\n+    fi\n+\n","filename":"make\/autoconf\/jdk-version.m4","additions":6,"deletions":1,"binary":false,"changes":7,"status":"modified"}]}
