@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-final class Carrier {\n+public final class Carrier {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/Carrier.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
