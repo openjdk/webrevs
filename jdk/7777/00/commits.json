@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282887: Potential memory leak in sun.util.locale.provider.HostLocaleProviderAdapterImpl.getNumberPattern() on Windows"},"files":[{"filename":"src\/java.base\/windows\/native\/libjava\/HostLocaleProviderAdapter_md.c"}],"sha":"e76c0bf988b5cf4a3ba69f681a57e6bfa0600879"}]
