@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,2 @@\n+ * @run main\/othervm -Djdk.net.hosts.file=TestHosts\n+ *          -Djdk.https.negotiate.cbt=domain:*.Invalid,*.WEB.Domain HttpsCB true true\n","filename":"test\/jdk\/sun\/security\/krb5\/auto\/HttpsCB.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
