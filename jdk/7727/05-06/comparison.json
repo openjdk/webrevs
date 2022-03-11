@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-#include \"runtime\/thread.inline.hpp\"\n@@ -77,1 +76,0 @@\n-  JavaThread* thread = JavaThread::thread_from_jni_environment(env);\n","filename":"src\/hotspot\/cpu\/aarch64\/jniFastGetField_aarch64.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
