@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -989,1 +989,1 @@\n-                env.messages.warning(REFERENCE, tree, \"dc.return.not.first\");\n+                env.messages.warning(SYNTAX, tree, \"dc.return.not.first\");\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclint\/Checker.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
