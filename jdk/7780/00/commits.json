@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283049: Fix non-singleton LoggerFinder error message: s\/on\/one"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/logger\/LoggerFinderLoader.java"},{"filename":"test\/jdk\/java\/lang\/System\/LoggerFinder\/internal\/LoggerFinderLoaderTest\/LoggerFinderLoaderTest.java"}],"sha":"a78180d5adc1eca66180c3c080f6883be89670aa"}]
