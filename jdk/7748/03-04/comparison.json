@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -448,1 +448,0 @@\n-  DEBUG_ONLY(zap_filler_array(start, words, zap);)\n@@ -454,0 +453,2 @@\n+  } else {\n+    DEBUG_ONLY(zap_filler_array(start, words, zap);)\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
