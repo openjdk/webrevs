@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2041,0 +2041,3 @@\n+\n+            AutoNodeBudget node_budget(phase);\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
