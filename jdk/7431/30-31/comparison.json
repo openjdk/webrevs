@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,2 @@\n-        putMap(map, i);\n+        KeyStructure keyStructure = new KeyStructure(i);\n+        map.put(keyStructure, keyStructure);\n","filename":"test\/jdk\/java\/util\/HashMap\/WhiteBoxResizeTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
