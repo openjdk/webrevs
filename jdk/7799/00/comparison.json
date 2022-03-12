@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -166,1 +166,1 @@\n-     * Constructs an empty list with an initial capacity of ten.\n+     * Constructs an empty list with default sized empty instances.\n","filename":"src\/java.base\/share\/classes\/java\/util\/ArrayList.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
