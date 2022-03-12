@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-        String[] strLines = str2.split(System.lineSeparator());\n+        String[] strLines = str2.split(\"\\\\R\");\n","filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/compilerToVM\/DisassembleCodeBlobTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
