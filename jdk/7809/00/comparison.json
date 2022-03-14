@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -837,0 +837,1 @@\n+                                   \"-XX:+IgnoreUnrecognizedVMOptions\",\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestMaskedMacroLogicVector.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
