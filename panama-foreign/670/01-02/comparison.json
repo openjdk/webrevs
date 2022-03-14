@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n- * {@link ByteBuffer#allocateDirect(int)} method will be backed by off-heap memory.\n+ * {@link ByteBuffer#allocateDirect(int)} method will be backed by off-heap memory.<\/li>\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemorySegment.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
