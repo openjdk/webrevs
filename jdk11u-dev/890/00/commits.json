@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 902858e3ceb43bf92ea9fa038b9edcf1ee0c48b5"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/LoopRotateBadNodeBudget.java"}],"sha":"5d6906609fc1296f5d0bdfd169be0738654c3256"}]
