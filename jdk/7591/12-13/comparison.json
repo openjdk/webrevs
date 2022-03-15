@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-  if (Thread::current_or_null_safe() == NULL) {\n+  if (Thread::current_or_null_safe() == NULL) { \/\/ workaround for JDK-8282475\n","filename":"src\/hotspot\/share\/runtime\/safefetch.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
