@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid memset twice in os::malloc(); added comments about NMTPreInit::handle_malloc vs DumpSharedSpaces"},"files":[{"filename":"src\/hotspot\/share\/runtime\/os.cpp"}],"sha":"f202bcbf9734848034a44d7e0e905783fc5a6d1f"}]
