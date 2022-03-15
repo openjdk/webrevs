@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+import java.lang.reflect.Modifier;\n@@ -575,0 +576,1 @@\n+            .filter(method -> (method.getModifiers() & Modifier.STATIC) == 0)\n","filename":"test\/jdk\/java\/util\/concurrent\/tck\/SplittableRandomTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
