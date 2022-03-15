@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1239,0 +1239,1 @@\n+      _fullgc_alot_dummy_array = OopHandle(); \/\/ NULL out OopStorage pointer.\n","filename":"src\/hotspot\/share\/memory\/universe.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
