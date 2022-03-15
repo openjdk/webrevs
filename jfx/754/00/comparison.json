@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,0 +37,1 @@\n+import org.junit.Ignore;\n@@ -81,0 +82,1 @@\n+    @Ignore(\"JDK-8282449\")\n@@ -96,0 +98,1 @@\n+    @Ignore(\"JDK-8282449\")\n","filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/shape\/PredefinedMeshManagerTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
