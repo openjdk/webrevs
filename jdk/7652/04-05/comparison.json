@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,1 +121,1 @@\n-            } catch (NullPointerException | NoSuchAlgorithmException ne) {\n+            } catch (NoSuchAlgorithmException ne) {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/SecurityProviderConstants.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
