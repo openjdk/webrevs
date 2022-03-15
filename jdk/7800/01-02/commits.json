@@ -1,0 +1,1 @@
+[{"commit":{"message":"rename max_stubs --> max_aligned_stubs, update copyright year"},"files":[{"filename":"src\/hotspot\/share\/runtime\/stubRoutines.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestCodeEntryAlignment.java"}],"sha":"89f9c6c4e83f4c084902c8943a3b452753cb1e23"}]
