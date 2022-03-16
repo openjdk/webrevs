@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -485,1 +485,1 @@\n-    ThreadInVMfromJava __tiv(thread);                                \\\n+    ThreadInVMfromJavaNoAsyncException __tiv(thread);                \\\n","filename":"src\/hotspot\/share\/runtime\/interfaceSupport.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
