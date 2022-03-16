@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -810,1 +810,1 @@\n-                IOException x = new IOException(\"Invalid Jar file\");\n+                IOException x = new IOException(\"Invalid Jar file: \" + jar.getName());\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/URLClassPath.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
