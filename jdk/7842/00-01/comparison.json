@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,1 @@\n- * Signature: ()I\n+ * Signature: ()Z\n@@ -92,5 +92,1 @@\n-    if (ipv6_available()) {\n-        return JNI_TRUE;\n-    } else {\n-        return JNI_FALSE;\n-    }\n+    return ipv6_available();\n","filename":"src\/java.base\/share\/native\/libnet\/InetAddress.c","additions":2,"deletions":6,"binary":false,"changes":8,"status":"modified"}]}
