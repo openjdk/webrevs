@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-  \/\/ Print native stack for non-java thread\n+  \/\/ Print native stack\n","filename":"src\/hotspot\/share\/utilities\/vmError.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
