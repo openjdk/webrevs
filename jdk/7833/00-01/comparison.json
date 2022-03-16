@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3702,1 +3702,1 @@\n-        if (current_thread = thread) {\n+        if (current_thread == thread) {\n","filename":"src\/hotspot\/share\/runtime\/thread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
