@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1327,1 +1327,1 @@\n-        if (s1_in->Opcode() != s1_in->Opcode()) return false;\n+        if (s1_in->Opcode() != s2_in->Opcode()) return false;\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
