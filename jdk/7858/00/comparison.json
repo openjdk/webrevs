@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1247,2 +1247,4 @@\n-  \/\/ Save handler setup for later checking\n-  vm_handlers.set(sig, &sigAct);\n+  \/\/ Save handler setup for possible later checking\n+  if (do_check) {\n+    vm_handlers.set(sig, &sigAct);\n+  }\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
