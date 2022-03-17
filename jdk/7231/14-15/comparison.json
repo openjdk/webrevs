@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-                        if (calculated < expected && expected != len) {\n+                        if (expected != len && calculated >= 0 && calculated < expected) {\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestCountPositives.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
