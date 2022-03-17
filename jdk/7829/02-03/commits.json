@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve comment\n\n- Reword to avoid double use of malloc(X)\n- Remove bug id"},"files":[{"filename":"src\/java.base\/share\/native\/libjava\/ClassLoader.c"}],"sha":"f0e2800eb4e28af5c5bf6a9e7c29df46787f64c6"}]
