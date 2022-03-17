@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -254,1 +254,0 @@\n-            builder.appendMulti(optOutput);\n","filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/profile\/AsyncProfiler.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
