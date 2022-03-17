@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -303,1 +303,1 @@\n-      if (can_reshape && !src_offset->is_top()) {\n+      if (can_reshape) {\n","filename":"src\/hotspot\/share\/opto\/arraycopynode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
