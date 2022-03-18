@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,0 @@\n-    # -bexpall should be used instead of -bnoexpall if -qvisibility option is not defined\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
