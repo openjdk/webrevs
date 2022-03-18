@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,1 @@\n-  const uint start_chunk_id = worker_id * _chunks.size() \/ total_workers;\n+  const uint start_chunk_id = worker_id * static_cast<uint>(_chunks.size()) \/ total_workers;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HeapRegionChunk.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
