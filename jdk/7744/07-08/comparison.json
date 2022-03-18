@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1044,1 +1044,1 @@\n-     * @return  array of get component {@link MethodHandle MethodHandles,}\n+     * @return  array of component accessors {@link MethodHandle MethodHandles,}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/Carrier.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
