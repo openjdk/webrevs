@@ -1,0 +1,1 @@
+[{"commit":{"message":"8204541: Correctly support AIX xlC 16.1 symbol visibility flags"},"files":[{"filename":"make\/autoconf\/flags-ldflags.m4"},{"filename":"make\/common\/modules\/LauncherCommon.gmk"},{"filename":"make\/common\/modules\/LibCommon.gmk"}],"sha":"a4c73abb2db503fe9995a8858a4cd744a118e84b"}]
