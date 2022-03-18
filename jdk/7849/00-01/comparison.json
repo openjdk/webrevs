@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-        return getClass().hashCode()+7;\n+        return System.identityHashCode(theInstance);\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/common\/SimpleCMYKColorSpace.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
