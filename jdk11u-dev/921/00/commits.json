@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283409: JDK11 fails to build when C1 is disabled"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/gc\/z\/zBarrierSetAssembler_x86.cpp"},{"filename":"src\/hotspot\/share\/code\/codeBlob.cpp"}],"sha":"a364c0839e2bd161d19594473d97cd6b373fcfe2"}]
