@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-    public void testCreateObservableArrayListFromList() {\n+    public void testCreateObservableArrayListFromCollection() {\n","filename":"modules\/javafx.base\/src\/test\/java\/test\/javafx\/collections\/FXCollectionsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
