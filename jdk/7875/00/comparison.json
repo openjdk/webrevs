@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,2 +192,0 @@\n-    private byte[] b = new byte[512];\n-\n@@ -208,0 +206,1 @@\n+        byte[] b = new byte[512];\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/InflaterInputStream.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
