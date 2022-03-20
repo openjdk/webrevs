@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283424: compiler\/loopopts\/LoopUnswitchingBadNodeBudget.java fails with release VMs due to lack of -XX:+UnlockDiagnosticVMOptions"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/LoopUnswitchingBadNodeBudget.java"}],"sha":"44522845401cb234fd19377a4cfd44bdc3e458ae"}]
