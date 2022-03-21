@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,0 @@\n-  heap->set_concurrent_old_mark_in_progress(in_progress);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGlobalGeneration.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
