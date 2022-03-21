@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283413: Adding Ideal transform for (ReverseV (ReverseV VEC)) => VEC and (ReverseV (ReverseV VEC MASK) MASK)) => VEC"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"2c7815a470689d01c38859e2db9970acd3f5d584"}]
