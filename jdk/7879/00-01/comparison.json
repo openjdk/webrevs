@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -201,1 +201,1 @@\n-     * The exception enforce clients not to use it.\n+     * The exception enforces clients not to use it.\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CPlatformEmbeddedFrame.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
