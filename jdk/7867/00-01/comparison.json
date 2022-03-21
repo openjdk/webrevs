@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -322,3 +322,0 @@\n-#ifdef _LP64\n-  __ call_VM_leaf(CAST_FROM_FN_PTR(address, G1BarrierSetRuntime::write_ref_field_post_entry), card_addr, r15_thread);\n-#else\n@@ -326,1 +323,0 @@\n-#endif\n","filename":"src\/hotspot\/cpu\/x86\/gc\/g1\/g1BarrierSetAssembler_x86.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
