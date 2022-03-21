@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 0cbc4b85bf8ab2ccfb8762322098c4cc7996df7d"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk.vm.ci.meta\/src\/jdk\/vm\/ci\/meta\/MetaUtil.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/jdk.vm.ci.runtime.test\/src\/jdk\/vm\/ci\/runtime\/test\/TestResolvedJavaType.java"}],"sha":"17cad3ee334d1d284c1fea2a273cb97d5830fdec"}]
