@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283474: Include detailed heap object info in CDS map file"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.hpp"}],"sha":"0605470003b4581af746c0125b5afc1101b099c7"}]
