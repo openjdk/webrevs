@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-FONTCONFIG_OUT_BIN_FILE := $(FONTCONFIG_DEST_DIR)\/fontconfig.properties.bfc\n+FONTCONFIG_OUT_BIN_FILE := $(FONTCONFIG_DEST_DIR)\/fontconfig.bfc\n","filename":"make\/modules\/java.desktop\/gendata\/GendataFontConfig.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
