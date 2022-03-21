@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,0 +75,2 @@\n+PRAGMA_DIAG_PUSH\n+PRAGMA_NONNULL_IGNORED\n@@ -103,0 +105,1 @@\n+PRAGMA_DIAG_POP\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.inline.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
