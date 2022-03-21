@@ -1,0 +1,1 @@
+[{"commit":{"message":"comment out \"x+(0-y)\" -> \"(x-y)\" and \"(0-y)+x\" -> \"(x-y)\" because they\nare covered already."},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestIRAddIdealXPlus_ConMinusY_.java"}],"sha":"7c899d8abd81b794d2aa29762e35e0eaf19f29bc"}]
