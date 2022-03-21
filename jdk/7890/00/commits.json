@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283456: Make CompiledICHolder::live_count\/live_not_claimed_count debug only"},"files":[{"filename":"src\/hotspot\/share\/oops\/compiledICHolder.cpp"},{"filename":"src\/hotspot\/share\/oops\/compiledICHolder.hpp"}],"sha":"76e94c5ea9713cb6565815bea80f2ea762ccfc3e"}]
