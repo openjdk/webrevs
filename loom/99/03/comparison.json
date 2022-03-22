@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+#include \"jfr\/support\/jfrThreadId.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shared\/copyFailedInfo.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
