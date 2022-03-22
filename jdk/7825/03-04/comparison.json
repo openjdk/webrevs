@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -462,1 +462,2 @@\n-  \/\/ Note: this code runs on startup, and therefore should not be slow.\n+  \/\/ Note: this code runs on startup, and therefore should not be slow,\n+  \/\/ see JDK-8283200.\n","filename":"src\/hotspot\/os_cpu\/linux_x86\/os_linux_x86.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
