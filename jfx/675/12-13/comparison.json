@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -164,1 +164,1 @@\n-     *     mapping function on its value, or {@code null} when it\n+     *     mapping function on this value, or {@code null} when it\n","filename":"modules\/javafx.base\/src\/main\/java\/javafx\/beans\/value\/ObservableValue.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
