@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1111,1 +1111,1 @@\n-          assert(stride_t->hi_as_long() == stride_t->lo_as_long(), \"bad stride type\");\n+          assert(stride_t->is_con(), \"bad stride type\");\n","filename":"src\/hotspot\/share\/opto\/cfgnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
