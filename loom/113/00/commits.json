@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix SerialGC bug in full_process_roots"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/genCollectedHeap.cpp"}],"sha":"4b0c3191f0359bb56a912458535b4cec644d9f6e"}]
