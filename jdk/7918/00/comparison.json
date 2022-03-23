@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -761,1 +761,1 @@\n-                           NULL);                      \/\/ header provides liveness info\n+                           &_is_alive_closure);        \/\/ header provides liveness info\n","filename":"src\/hotspot\/share\/gc\/parallel\/psScavenge.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
