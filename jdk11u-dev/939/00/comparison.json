@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -564,1 +564,1 @@\n-       maybe-uninitialized class-memaccess unused-result\n+       maybe-uninitialized class-memaccess unused-result extra\n","filename":"make\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
