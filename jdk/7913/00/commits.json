@@ -1,0 +1,1 @@
+[{"commit":{"message":"8254935: Deprecate the PSSParameterSpec(int) constructor\n\nAdd @Deprecate javadoc tag and wording."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/security\/spec\/PSSParameterSpec.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/rsa\/PSSParameters.java"}],"sha":"ef502bc921e6c156d137cb834a1ccf417f239dce"}]
