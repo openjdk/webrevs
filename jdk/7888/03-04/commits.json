@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop redundant javadoc statements re. handling of nulls\n(handling of nulls is specified once and for all in the package javadoc)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/CLinker.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemoryLayout.java"}],"sha":"c9bc9a70cd19220f770e4c60c8e532983a810b69"}]
