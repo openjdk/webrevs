@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -380,1 +380,1 @@\n-            c.completer = Completer.NULL_COMPLETER;\n+                c.completer = Completer.NULL_COMPLETER;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Enter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
