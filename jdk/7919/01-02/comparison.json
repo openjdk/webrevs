@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -489,1 +489,2 @@\n-  # causing a massive spike in compile time.\n+  # causing a massive spike in compile time. We don't care about these\n+  # particular files anyway, so lower optimization level.\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
