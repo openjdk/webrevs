@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-  \/\/ CodeEntryAlignment twice. So we additional size due to alignment.\n+  \/\/ CodeEntryAlignment twice. So we need additional size due to alignment.\n","filename":"src\/hotspot\/share\/interpreter\/templateInterpreter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
