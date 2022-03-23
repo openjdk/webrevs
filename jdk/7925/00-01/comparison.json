@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -351,1 +351,1 @@\n-  IS_GNU_TIME=`$TIME --version 2>&1 | $GREP 'GNU [[Tt]]ime'`\n+  [ IS_GNU_TIME=`$TIME --version 2>&1 | $GREP 'GNU [Tt]ime'` ]\n","filename":"make\/autoconf\/basic_tools.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
