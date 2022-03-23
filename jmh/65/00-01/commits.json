@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix async-profiler v2 with text format: it rejects summary"},"files":[{"filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/profile\/AsyncProfiler.java"}],"sha":"d3b9cb51635e1846ca2a7c44bdf9869df1ada5e0"}]
