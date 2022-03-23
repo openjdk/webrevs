@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,1 +171,1 @@\n-            throw new RuntimeException(\"Timeout : User did not decided \" +\n+            throw new RuntimeException(\"Timeout : User did not decide \" +\n","filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/InitToBlack.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
