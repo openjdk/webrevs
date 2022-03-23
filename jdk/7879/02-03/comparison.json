@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-     * Validate that an SerialException is thrown when the object specified\n+     * Validate that a SerialException is thrown when the object specified\n","filename":"test\/jdk\/javax\/sql\/testng\/test\/rowset\/serial\/SerialJavaObjectTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
