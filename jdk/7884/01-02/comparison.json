@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4049,0 +4049,2 @@\n+  assert(offset != NULL || C->has_unsafe_access(),\n+         \"Only array fills with unsafe have no extra offset\");\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
