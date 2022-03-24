@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,1 @@\n+import java.lang.foreign.MemoryLayout;\n@@ -7937,0 +7938,1 @@\n+     * @see MemoryLayout#varHandle(MemoryLayout.PathElement...)\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandles.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
