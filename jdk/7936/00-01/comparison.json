@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-  static const KlassKind ID = InstanceRefKlassKind;\n+  static const KlassKind Kind = InstanceRefKlassKind;\n","filename":"src\/hotspot\/share\/oops\/instanceRefKlass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
