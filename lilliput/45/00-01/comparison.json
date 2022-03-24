@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+#include \"gc\/shared\/collectedHeap.hpp\"\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
