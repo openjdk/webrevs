@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-  assert(obj->is_stackChunk(), \"Wrong type\");\n+  assert(obj == nullptr || obj->is_stackChunk(), \"Wrong type\");\n","filename":"src\/hotspot\/share\/oops\/stackChunkOop.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
