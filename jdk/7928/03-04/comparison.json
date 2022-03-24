@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1350,1 +1350,1 @@\n-    public static <K, V>  WeakHashMap<K, V> newWeakHashMap(int expectedSize) {\n+    public static <K, V> WeakHashMap<K, V> newWeakHashMap(int expectedSize) {\n","filename":"src\/java.base\/share\/classes\/java\/util\/WeakHashMap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
