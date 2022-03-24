@@ -1,0 +1,1 @@
+[{"commit":{"message":"vthreads don't support the reserved stack zone"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"df139bc5bfe46d43b10f40d4bf9fe88b9d903c48"}]
