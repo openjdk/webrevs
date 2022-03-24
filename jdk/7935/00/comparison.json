@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,1 +157,1 @@\n-  void Win32AttachOperation::complete(jint result, bufferedStream* result_stream);\n+  void complete(jint result, bufferedStream* result_stream);\n","filename":"src\/hotspot\/os\/windows\/attachListener_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
