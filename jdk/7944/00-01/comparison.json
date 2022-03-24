@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,0 +127,1 @@\n+  assert(threshold >= 0, \"must be\");\n@@ -131,0 +132,1 @@\n+    assert(v >= 0, \"must be\");\n@@ -133,2 +135,0 @@\n-    } else if (v < min_intx) {\n-      return min_intx;\n","filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
