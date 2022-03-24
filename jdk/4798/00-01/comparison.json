@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,6 @@\n+\/\/ Define these manually when building with old Freetype (before 2.5)\n+#if !defined(FT_LOAD_COLOR)\n+#define FT_LOAD_COLOR ( 1L << 20 )\n+#define FT_PIXEL_MODE_BGRA 7\n+#endif\n+\n","filename":"src\/java.desktop\/share\/native\/libfontmanager\/freetypeScaler.c","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
