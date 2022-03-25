@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -497,0 +497,1 @@\n+    @SuppressWarnings(\"removal\")\n","filename":"src\/java.desktop\/unix\/classes\/sun\/print\/CUPSPrinter.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
