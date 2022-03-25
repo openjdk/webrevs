@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-public class ThreadLocalRandom extends Random {\n+public final class ThreadLocalRandom extends Random {\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ThreadLocalRandom.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
