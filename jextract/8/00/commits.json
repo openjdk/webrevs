@@ -1,0 +1,1 @@
+[{"commit":{"message":"ignore .idea folder"},"files":[{"filename":".gitignore"}],"sha":"2237d18b4383f5e98efa9cc902fafe9f22ce84fe"},{"commit":{"message":"Improve error reporting around missing LLVM paths in the gradle build."},"files":[{"filename":"build.gradle"}],"sha":"65fd3d36d8e86d11419b8a10e00b8dd8220d1636"}]
