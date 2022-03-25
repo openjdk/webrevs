@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-            new Locale(\"\", \"\", \"\"), };\n+            Locale.ROOT, };\n","filename":"src\/demo\/share\/jfc\/CodePointIM\/com\/sun\/inputmethods\/internal\/codepointim\/CodePointInputMethodDescriptor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
