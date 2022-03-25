@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-    private FontMetrics metrics;\n+    private final FontMetrics metrics;\n","filename":"src\/utils\/IdealGraphVisualizer\/Graph\/src\/main\/java\/com\/sun\/hotspot\/igv\/graph\/Figure.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
