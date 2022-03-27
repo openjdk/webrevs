@@ -1,0 +1,1 @@
+[{"commit":{"message":"movzx is not elided with same input and output"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"}],"sha":"52bf8a410fb2eec9586a302d37f9ee2cd7830e22"}]
