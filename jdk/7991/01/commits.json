@@ -1,0 +1,1 @@
+[{"commit":{"message":"Updated code comments"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/relocInfo_aarch64.hpp"}],"sha":"9b040c312ea51b4b4b15cd2735ef641a5621f4e7"},{"commit":{"message":"8283626: AArch64: Set relocInfo::offset_unit to 4"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/relocInfo_aarch64.hpp"}],"sha":"1104f4e453b07a0b74220bac2154e5185f702a51"}]
