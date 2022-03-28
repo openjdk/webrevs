@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -472,0 +472,3 @@\n+                if (parent == null || !parent.isVisible()) {\n+                    return null;\n+                }\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CAccessibility.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283215: [macos] Screen Magnifier: Getting java.awt.IllegalComponentStateException when menu item is selected\n\nCheck parent component visibility status before asking it for the screen position."},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CAccessibility.java"}],"sha":"badef48d803d9e27e7f548e226609c6846c7b2d8"}]
