@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n- * @requires vm.bits == \"64\" & os.maxMemory > 5G\n+ * @requires vm.bits == \"64\" & os.maxMemory > 8G\n@@ -57,1 +57,1 @@\n- *        -mx5G\n+ *        -mx8G\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestStringIntrinsics2.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
