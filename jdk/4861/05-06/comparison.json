@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -243,1 +243,0 @@\n-        JNU_ThrowOutOfMemoryError(env, \"OutOfMemoryError\");\n@@ -259,1 +258,0 @@\n-                JNU_ThrowOutOfMemoryError(env, \"OutOfMemoryError\");\n","filename":"src\/java.desktop\/unix\/native\/common\/awt\/CUPSfuncs.c","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
