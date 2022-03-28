@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,0 +158,2 @@\n+        this.x0 = x0;\n+        this.x1 = x1;\n","filename":"src\/jdk.random\/share\/classes\/jdk\/random\/L32X64MixRandom.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
