@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,2 +99,2 @@\n-  static int to_bitmask(CompilerPhaseType cpt) {\n-    return (1 << cpt);\n+  static uint64_t to_bitmask(CompilerPhaseType cpt) {\n+    return (UINT64_C(1) << cpt);\n","filename":"src\/hotspot\/share\/opto\/phasetype.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
