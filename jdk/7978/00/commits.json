@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283725: Launching java with \"-Xlog:gc*=trace,safepoint*=trace,class*=trace\" crashes the JVM"},"files":[{"filename":"src\/hotspot\/share\/logging\/logOutput.cpp"}],"sha":"0ce5d15805fa2d90ddf3e58c2cd4a67cb283c13a"}]
