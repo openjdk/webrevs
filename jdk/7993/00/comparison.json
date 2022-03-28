@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,2 +118,0 @@\n- private:\n-  Klass* _dependee;\n","filename":"src\/hotspot\/share\/runtime\/vmOperations.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
