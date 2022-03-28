@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore fwd-loading"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahForwarding.inline.hpp"}],"sha":"0942889d27d9b97a19738ffc2e477a26e4e82a4c"},{"commit":{"message":"Revert extra newline"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp"}],"sha":"c928f94cb79fa3bd6ebf660aff103f663d7230b7"}]
