@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,0 @@\n-PROGRAMFILES=\"$($WINDOWS_PATH_TO_UNIX_PATH \"$(cmd.exe \/c set | sed -n 's\/^PROGRAMFILES=\/\/p' | tr -d '\\r')\")\"\n","filename":"make\/devkit\/createWindowsDevkit.sh","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
