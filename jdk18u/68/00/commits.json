@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280600: C2: assert(!had_error) failed: bad dominance\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestCastIIMakesMainLoopPhiDead.java"}],"sha":"f043dfddc0932482575fa86f9cba9897e53cf33e"}]
