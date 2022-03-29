@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -419,3 +419,1 @@\n-        if (stripe > 0) {\n-          carefully_release_multiple(p, stripe, stripe_len);\n-        }\n+        carefully_release_multiple(p, stripe, stripe_len);\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
