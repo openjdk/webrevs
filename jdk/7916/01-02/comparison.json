@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -896,0 +896,1 @@\n+  \/\/ strtod allows leading whitespace, but our flag format does not.\n@@ -897,1 +898,0 @@\n-    \/\/ strtod allows leading whitespace, but our flag format does not.\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
