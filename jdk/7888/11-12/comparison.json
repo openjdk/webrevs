@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-    jint result = vm->functions->AttachCurrentThread(vm, (void**) &p_env, nullptr);\n+    jint result = vm->functions->AttachCurrentThreadAsDaemon(vm, (void**) &p_env, nullptr);\n","filename":"src\/hotspot\/share\/prims\/universalUpcallHandler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
