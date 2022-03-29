@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2413,3 +2413,0 @@\n-#ifdef _LP64\n-  emit_int8(0x67); \/\/ addr32\n-#endif \/\/ LP64\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
