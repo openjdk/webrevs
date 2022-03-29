@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283408: Fix a C2 crash when filling arrays with unsafe\n\nReviewed-by: roland, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/FillArrayWithUnsafe.java"}],"sha":"d47f9b373b974ec562adfb9717da7e48d1d2f1db"}]
