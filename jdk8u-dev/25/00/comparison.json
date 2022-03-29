@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,2 @@\n-    $(notdir $(MSVCR_DLL))\n+    $(notdir $(MSVCR_DLL)) \\\n+    $(wildcard $(JDK_OUTPUTDIR)\/bin\/api-ms-win-*.dll)\n","filename":"jdk\/make\/Images.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
