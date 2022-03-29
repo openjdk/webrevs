@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,0 +117,2 @@\n+        \/\/ A special value to make sure correct rounding of\n+        \/\/ conversion from long to float. See: JDK-8282764.\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorCastShape128Test.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
