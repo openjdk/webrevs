@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-public class ObjectStreamClass implements Serializable {\n+public final class ObjectStreamClass implements Serializable {\n","filename":"src\/java.base\/share\/classes\/java\/io\/ObjectStreamClass.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
