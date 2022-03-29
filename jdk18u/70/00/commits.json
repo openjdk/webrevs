@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280867: Cpuid1Ecx feature parsing is incorrect for AMD CPUs\n\nReviewed-by: kvn, dlong"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"}],"sha":"16c0fd3ff677a84bdc58b284be15ad2a91aba456"}]
