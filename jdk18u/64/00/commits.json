@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282172: CompileBroker::log_metaspace_failure is called from non-Java\/compiler threads\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"}],"sha":"2172dfd9381a97c7b230d8cb9966e05bec4ae42c"}]
