@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280901: MethodHandle::linkToNative stub is missing w\/ -Xint\n\nReviewed-by: shade, kvn"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"},{"filename":"test\/jdk\/java\/foreign\/TestDowncall.java"}],"sha":"6e05d4b99f9e3d327288c519e093fc575ea3584c"}]
