@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282231: x86-32: runtime call to SharedRuntime::ldiv corrupts registers\n\nReviewed-by: shade, jiefu"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86_32.ad"}],"sha":"2463a8541b7d4edee9e329420c594598753dd727"}]
