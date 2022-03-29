@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283451: C2: assert(_base == Long) failed: Not a Long\n\nReviewed-by: thartmann, chagedorn"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestModDivTopInput.java"}],"sha":"925cd7a17f925a000df8a746ce9eea4544e9ee8d"}]
