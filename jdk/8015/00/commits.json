@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283794: CCE in XRTextRenderer.drawGlyphList and XRMaskFill.MaskFill\n\nThrowing InvalidPipeException for incompatible surfaces"},"files":[{"filename":"src\/java.desktop\/unix\/classes\/sun\/font\/XRTextRenderer.java"},{"filename":"src\/java.desktop\/unix\/classes\/sun\/java2d\/xr\/XRMaskFill.java"}],"sha":"f85f497bc6589782784bea09c6f04f1b72039810"}]
