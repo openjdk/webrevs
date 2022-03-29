@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277055: Assert \"missing inlining msg\" with -XX:+PrintIntrinsics\n\nReviewed-by: roland, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/print\/PrintInlining.java"}],"sha":"ec35d50e5fb085ee610864bf76963ce235ce6ab4"}]
