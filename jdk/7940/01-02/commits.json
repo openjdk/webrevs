@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update AllPlatforms.java\n\nUpdated exception handling to ignore the case where the running platform doesn't match the test case. In that case required native library loading will fail."},"files":[{"filename":"test\/jdk\/com\/sun\/security\/auth\/module\/AllPlatforms.java"}],"sha":"b7e3bc044d419b18264ca6213532faa090af9c87"}]
