@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284023: java.sun.awt.X11GraphicsDevice.getDoubleBufferVisuals() leaks XdbeScreenVisualInfo"},"files":[{"filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/awt_GraphicsEnv.c"}],"sha":"55655fadd1028749af0546515e485326745390f5"}]
