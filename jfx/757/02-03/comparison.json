@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -715,1 +715,0 @@\n-        assert tableRow.getSkin() instanceof SkinBase<?>;\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/TableColumnHeader.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
