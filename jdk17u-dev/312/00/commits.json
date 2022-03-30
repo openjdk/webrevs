@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 2c5d266f9f20005bc2a6c30dcaa95b059ea59d74"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestStripMiningDropsSafepoint.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java"}],"sha":"0ea41304df1ccdc69bd674de909f31a1560f51f3"}]
