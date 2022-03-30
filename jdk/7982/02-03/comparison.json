@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2798,1 +2798,1 @@\n-  INSN(bne, c_bnez, _bne);\n+  INSN(bne, c_beqz, _bne);\n","filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert the c.beqz commit: put it into another patch as the suggestion\n\nThis reverts commit cd4a37b655af41f20d00b71a542b00161ff88e22."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp"}],"sha":"91341179553b5a3aedaf4182b7737fc33b577501"}]
