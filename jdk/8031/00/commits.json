@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283784: java_lang_String::as_platform_dependent_str stores to oop in native state"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"}],"sha":"52d5a47438d4a276026fbdcb7848e5e22ee2afe2"}]
