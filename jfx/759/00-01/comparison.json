@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1121,1 +1121,1 @@\n-        \/\/ Traverse all menus in menubar to find nextIndex\n+        \/\/ Traverse all visible menus in menubar to find nextIndex\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/MenuBarSkin.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
