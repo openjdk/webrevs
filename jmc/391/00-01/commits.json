@@ -1,0 +1,1 @@
+[{"commit":{"message":"run 'mvn spotless:apply' (hint given by GHA)."},"files":[{"filename":"core\/org.openjdk.jmc.common\/src\/main\/java\/org\/openjdk\/jmc\/common\/item\/Aggregators.java"},{"filename":"core\/org.openjdk.jmc.flightrecorder\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/jdk\/JdkAggregators.java"}],"sha":"894bfa4db1a3f071ed1f47138113178a642fb36c"}]
