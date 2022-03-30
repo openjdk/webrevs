@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,4 +70,0 @@\n- * @see java.util.Collections\n- * @see java.util.List\n- * @see java.util.ArrayList\n- * @see java.util.HashMap\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/ClassWriterImpl.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
