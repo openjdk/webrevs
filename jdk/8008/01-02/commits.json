@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change try\/catch to only surround the problematic call instead of the entire method body."},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CAccessibility.java"}],"sha":"f70486d4e30d8fb011d1b0c1a3e56932af6438d2"}]
