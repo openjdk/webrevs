@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+import java.util.Collections;\n@@ -72,1 +73,1 @@\n-        return argLayouts;\n+        return Collections.unmodifiableList(argLayouts);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/FunctionDescriptor.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
