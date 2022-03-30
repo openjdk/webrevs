@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1069,0 +1069,4 @@\n+  if (name_len == 0) {\n+    return false;\n+  }\n+\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
