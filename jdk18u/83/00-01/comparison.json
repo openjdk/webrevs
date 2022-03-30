@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-        cw.visit(V19, ACC_PUBLIC | ACC_SUPER, name, null, \"java\/lang\/Object\", null);\n+        cw.visit(V18, ACC_PUBLIC | ACC_SUPER, name, null, \"java\/lang\/Object\", null);\n","filename":"test\/hotspot\/jtreg\/compiler\/runtime\/TestConstantsInError.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
