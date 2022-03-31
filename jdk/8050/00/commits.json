@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284033: Leak XVisualInfo in getAllConfigs in awt_GraphicsEnv.c"},"files":[{"filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/awt_GraphicsEnv.c"}],"sha":"a2baa3bbaa0b4c62693cca80f641162796eb6c15"}]
