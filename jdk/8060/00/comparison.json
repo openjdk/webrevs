@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1301,0 +1301,1 @@\n+            free(image->obdata);\n","filename":"src\/java.desktop\/unix\/native\/common\/java2d\/x11\/X11SurfaceData.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
