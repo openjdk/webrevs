@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed problem with currency name for Chinese, updated LocaleData file for test"},"files":[{"filename":"src\/jdk.localedata\/share\/classes\/sun\/util\/resources\/ext\/CurrencyNames_zh_CN.properties"},{"filename":"test\/jdk\/sun\/text\/resources\/LocaleData"}],"sha":"7e01ed83a7a2f2dd0b4ba857c81fa4b386dd50f7"}]
