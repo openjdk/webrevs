@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -677,1 +677,0 @@\n-     * is greater than {@link Long#MAX_VALUE}.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemoryLayout.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
