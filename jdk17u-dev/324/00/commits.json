@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport eff5dafba9f72bd0612357712ffa472ce1c9166a"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CRobot.java"},{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/CRobot.m"},{"filename":"test\/jdk\/java\/awt\/Robot\/CheckCommonColors\/CheckCommonColors.java"}],"sha":"832577d3a004fa1fdf2ed293fc08961c9087156a"}]
