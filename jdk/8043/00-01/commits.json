@@ -1,0 +1,1 @@
+[{"commit":{"message":"Is the check for the AccessibleRole.POPUP_MENU is needed here? How it will work if the Menu is added to some container other than POPUP_MENU?"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CAccessible.java"}],"sha":"fc925248b8646e3a51d9dbdbc5433d55d84acd03"}]
