@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,1 @@\n-#if defined(PPC64) || defined (AARCH64)\n+#if defined(PPC64) || defined (AARCH64) || defined(RISCV64)\n","filename":"src\/hotspot\/share\/runtime\/thread.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

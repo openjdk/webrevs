@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8284068: riscv: should call Atomic::release_store in JavaThread::set_thread_state"},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.inline.hpp"}],"sha":"197116dbe5d0e1be0f89fb488a805689226386fe"}]
