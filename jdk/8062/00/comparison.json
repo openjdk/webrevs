@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -454,1 +454,1 @@\n-        private @Stable MethodHandle asCollectorCache;\n+        private MethodHandle asCollectorCache;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandleImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
