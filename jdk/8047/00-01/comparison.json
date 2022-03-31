@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1431,0 +1431,1 @@\n+    AWT_LOCK();\n@@ -1432,0 +1433,1 @@\n+    AWT_UNLOCK();\n","filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/awt_GraphicsEnv.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
