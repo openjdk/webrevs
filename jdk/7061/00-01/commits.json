@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280035: Use Class.isInstance instead of Class.isAssignableFrom where applicable\napply suggestion to avoid second Method.invoke call"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/TypeLibrary.java"}],"sha":"d4e9ae9d623f5ba12ca3fa2fe4a061b4d2057290"}]
