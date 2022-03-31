@@ -1,0 +1,1 @@
+[{"commit":{"message":"Be sure to call ObjectReference.disableColleciton() on allocated objects."},"files":[{"filename":"test\/jdk\/com\/sun\/jdi\/MethodInvokeWithTraceOnTest.java"}],"sha":"92ee6a5e0a87a6ba7c59bc887594b3e77ab7b226"}]
