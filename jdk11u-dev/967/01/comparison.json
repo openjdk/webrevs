@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-            dc = DatagramChannel.open().bind(new InetSocketAddress(0));\n+            dc = DatagramChannel.open().bind(new InetSocketAddress(InetAddress.getLoopbackAddress(), 0));\n","filename":"test\/jdk\/java\/nio\/channels\/DatagramChannel\/Connect.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
