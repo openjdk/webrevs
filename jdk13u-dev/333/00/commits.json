@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 84868e39be4522ba87e603beea0f8da9efa43b6d"},"files":[{"filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_logConfiguration.cpp"}],"sha":"cbbab0f8ac3043833608cd94a51967b7b2eeb10f"}]
