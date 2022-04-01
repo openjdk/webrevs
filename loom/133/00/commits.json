@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert refactoring frame::oops_interpreted_do"},"files":[{"filename":"src\/hotspot\/share\/runtime\/frame.cpp"},{"filename":"src\/hotspot\/share\/runtime\/frame.hpp"}],"sha":"f7afd682f598ccbbe5a16550df5fb90b13eb6230"}]
