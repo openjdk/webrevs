@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8284019: [lworld] Constructor::newInstance on abstract Object class throws InstantiationException"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/reflect\/ReflectionFactory.java"},{"filename":"test\/jdk\/valhalla\/valuetypes\/ObjectNewInstance.java"}],"sha":"1397fcddc5f27a31e254624b1febb073dc50319c"}]
