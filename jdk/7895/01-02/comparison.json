@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1077,1 +1077,1 @@\n-      size_t unitsize = sizeof(address);\n+      int unitsize = sizeof(address);\n","filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
