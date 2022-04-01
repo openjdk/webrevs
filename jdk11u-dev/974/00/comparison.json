@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-  \"OS\", \"PROCESSOR_IDENTIFIER\", \"_ALT_JAVA_HOME_DIR\",\n+  \"OS\", \"PROCESSOR_IDENTIFIER\", \"_ALT_JAVA_HOME_DIR\", \"TMP\", \"TEMP\",\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
