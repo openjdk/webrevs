@@ -1,0 +1,1 @@
+[{"commit":{"message":"@tstuefe comments - write_xxx -> log_xxx; 32-bit words for compressed oops; more efficient use of _original_object_table"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.hpp"}],"sha":"2a61777b4f235088184e10a4ab2a70552d3505cd"}]
