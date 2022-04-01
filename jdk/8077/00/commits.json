@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284190: disable G1RegionToSpaceMapper.largeStressAdjacent_vm on windows"},"files":[{"filename":"test\/hotspot\/gtest\/gc\/g1\/test_stressCommitUncommit.cpp"}],"sha":"34653cbb100f19e25fc728541fdc147c5102066a"}]

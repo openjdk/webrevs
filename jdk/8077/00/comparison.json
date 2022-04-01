@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -100,0 +100,4 @@\n+#if defined(_WINDOWS)\n+\/\/ See JDK-8283899.\n+TEST_VM(G1RegionToSpaceMapper, DISABLED_largeStressAdjacent) {\n+#else\n@@ -101,0 +105,1 @@\n+#endif\n","filename":"test\/hotspot\/gtest\/gc\/g1\/test_stressCommitUncommit.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
