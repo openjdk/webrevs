@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove not SafepointSynchronize::is_at_safepoint() checks in verification code"},"files":[{"filename":"src\/hotspot\/share\/oops\/stackChunkOop.cpp"}],"sha":"99778a868a9c324d4cc35bdd527c2e9dce726c3c"}]
