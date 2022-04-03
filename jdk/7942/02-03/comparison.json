@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n- *          the \"My Documents\" folder on Windows, and the user's home directory\n+ *          the \"Documents\" folder on Windows, and the user's home directory\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/4400728\/JFileChooserDefaultDirectoryTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
