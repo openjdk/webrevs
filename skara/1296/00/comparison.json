@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9,1 +9,2 @@\n-            \"src\/utils\/\",\n+            \"src\/utils\/hsdis\/\",\n+            \"src\/utils\/src\/\",\n","filename":"config\/mailinglist\/rules\/jdk.json","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
