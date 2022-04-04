@@ -1,0 +1,1 @@
+[{"commit":{"message":"8235385: Crash on aarch64 JDK due to long offset"},"files":[{"filename":"hotspot\/src\/cpu\/aarch64\/vm\/aarch64.ad"},{"filename":"hotspot\/src\/cpu\/aarch64\/vm\/ad_encode.m4"}],"sha":"d1bb2168e9e244071eba94d8a1ca736e30f45f29"}]
