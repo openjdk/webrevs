@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,2 @@\n-  Atomic::add(&ConnectionGraph::_time_elapsed, et.milliseconds());\n+  \/\/ casting jlong to long since Atomic needs Integral type\n+  Atomic::add(&ConnectionGraph::_time_elapsed, (long)et.milliseconds());\n","filename":"src\/hotspot\/share\/opto\/escape.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
