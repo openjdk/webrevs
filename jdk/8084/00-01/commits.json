@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284220: TypeMirror#toString omits enclosing class names after JDK-8281238"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Type.java"},{"filename":"test\/langtools\/tools\/javac\/tree\/NestedTypeToString.out"}],"sha":"76108ab8fca8c09db902029203c97bf91f0b9490"}]
