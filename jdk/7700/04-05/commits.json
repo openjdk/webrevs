@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve performance of short strings"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"test\/jdk\/java\/lang\/String\/HashCode.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StringHashCode.java"}],"sha":"95f56b1f0796b886d94feb456614233a58301f5c"}]
