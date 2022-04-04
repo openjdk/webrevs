@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2194,1 +2194,1 @@\n-        int _prev_scalar_replaced = PhaseMacroExpand::_objs_scalar_replaced_counter;\n+        int _prev_scalar_replaced = Atomic::load(&PhaseMacroExpand::_objs_scalar_replaced_counter);\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
