@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -856,0 +856,1 @@\n+    assert(outer_loop != NULL, \"no outer loop\");\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
