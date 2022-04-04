@@ -1,0 +1,1 @@
+[{"commit":{"message":"8253435: Cgroup: 'stomping of _mount_path' crash if manually mounted cpusets exist\n\nReviewed-by: sgehwolf, bobv"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp"},{"filename":"test\/hotspot\/jtreg\/containers\/cgroup\/CgroupSubsystemFactory.java"}],"sha":"a880241a032293be91ee561f5f915fc29c5e996d"}]
