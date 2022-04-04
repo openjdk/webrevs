@@ -1,0 +1,1 @@
+[{"commit":{"message":"addressing the build issue, fixing the test and polishing the IC stub size arithmetic"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/icBuffer_aarch64.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/aarch64\/TestFarJump.java"}],"sha":"fafa67440a2b6be30657fc95d74de592953789d1"}]
