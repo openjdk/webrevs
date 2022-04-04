@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283709: Removed redundant downcasting operation needed only for auto-vectorized generated IR."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"aab71a7a2bf0991c910d201706b5af414294f924"}]
