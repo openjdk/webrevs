@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-    \/\/ size, in words, of frame metadata (e.g. pc and link)\n+    \/\/ size, in words, of maximum shift in frame position due to alignment\n","filename":"src\/hotspot\/cpu\/aarch64\/frame_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
