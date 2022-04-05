@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport e44dc638b8936b1b76ca9ddf9ece0c5c4705a19c"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/interpreter\/Custom.jasm"},{"filename":"test\/hotspot\/jtreg\/compiler\/interpreter\/VerifyStackWithUnreachableBlock.java"}],"sha":"7632e5912d1f4a7a45903710c149cc34fd808510"}]
