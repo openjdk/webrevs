@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-                throw new RuntimeException(\"Test Case Failed!!\");\n+                throw new RuntimeException(\"Test Case Failed!!, Last Row not Visible!!!\");\n","filename":"test\/jdk\/javax\/swing\/JTable\/8236907\/LastVisibleRow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
