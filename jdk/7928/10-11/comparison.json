@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2556,1 +2556,1 @@\n-        return (int) Math.ceil(numMappings \/ 0.75);\n+        return (int) Math.ceil(numMappings \/ (double) DEFAULT_LOAD_FACTOR);\n","filename":"src\/java.base\/share\/classes\/java\/util\/HashMap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
