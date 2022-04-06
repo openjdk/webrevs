@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283709: Integer.bitCount((int)(byte_val) & 0xFF) is folded as LoadUB, this is auto-vectorized as load from Boolean vector. Adding missing types in macroassembler to cover these cases."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"}],"sha":"05772da1f8caea5c9a5f27d25de96e5bc6ede69d"}]

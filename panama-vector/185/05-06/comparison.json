@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4530,0 +4530,1 @@\n+    case T_CHAR:\n@@ -4534,0 +4535,1 @@\n+    case T_BOOLEAN:\n@@ -4554,0 +4556,1 @@\n+    case T_CHAR:\n@@ -4559,0 +4562,1 @@\n+    case T_BOOLEAN:\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
