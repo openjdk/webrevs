@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1060,0 +1060,3 @@\n+    if (_header != nullptr) {\n+      FREE_C_HEAP_ARRAY(char, _header);\n+    }\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
