@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed one wrong conditional check: removed ! operator from 'if (focusGainedLatch.await(3, TimeUnit.SECONDS))'"},"files":[{"filename":"test\/jdk\/javax\/swing\/JLabel\/4138746\/JLabelMnemonicsTest.java"}],"sha":"40bbfaacd1dad502536695295637b3d718035509"}]

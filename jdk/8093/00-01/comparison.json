@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,1 +113,1 @@\n-                if (!focusGainedLatch.await(3, TimeUnit.SECONDS)) {\n+                if (focusGainedLatch.await(3, TimeUnit.SECONDS)) {\n","filename":"test\/jdk\/javax\/swing\/JLabel\/4138746\/JLabelMnemonicsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
