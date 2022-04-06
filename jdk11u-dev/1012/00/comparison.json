@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1285,1 +1285,0 @@\n-  clear_upper_avx();\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
