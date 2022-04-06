@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -326,1 +326,1 @@\n-        if (Boolean.class.isInstance(value)) {\n+        if (value instanceof Boolean) {\n","filename":"src\/java.xml\/share\/classes\/jdk\/xml\/internal\/JdkXmlFeatures.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
