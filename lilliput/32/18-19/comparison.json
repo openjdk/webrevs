@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1354,1 +1354,1 @@\n-public:\n+ public:\n@@ -1367,1 +1367,1 @@\n-private:\n+ private:\n@@ -1373,1 +1373,1 @@\n-public:\n+ public:\n@@ -1413,0 +1413,1 @@\n+\n@@ -1451,1 +1452,1 @@\n-public:\n+ public:\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":5,"deletions":4,"binary":false,"changes":9,"status":"modified"}]}
