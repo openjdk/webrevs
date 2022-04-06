@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n- * thread is interrupted\n+ *          thread is interrupted\n","filename":"test\/jdk\/javax\/swing\/ImageIcon\/LoadInterruptTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
