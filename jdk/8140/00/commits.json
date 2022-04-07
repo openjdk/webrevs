@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8075816: AliasLevel is broken and should be deprecated"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java"}],"sha":"84412b89ddcd2b92a03fdfe8c0663d51748aee01"}]
