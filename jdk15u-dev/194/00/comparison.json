@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -485,1 +485,0 @@\n-    IA32_ONLY(assert(istate->_stack_limit == istate->_thread->last_Java_sp() + 1, \"wrong\"));\n","filename":"src\/hotspot\/share\/interpreter\/bytecodeInterpreter.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
