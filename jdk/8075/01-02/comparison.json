@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1680,1 +1680,1 @@\n-         p2i(addr), p2i(addr + bytes));\n+         p2i(addr), p2i(addr) + bytes);\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
