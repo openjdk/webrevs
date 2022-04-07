@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @summary AccessibleJTableCell.isShowing() returns false \n+ * @summary AccessibleJTableCell.isShowing() returns false\n@@ -75,1 +75,1 @@\n-        \n+\n","filename":"test\/jdk\/javax\/accessibility\/4529616\/AccessibleJTableCellTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
