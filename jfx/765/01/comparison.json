@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -346,0 +346,3 @@\n+    if (widths.size() == 0)\n+        return;\n+\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/platform\/graphics\/java\/GraphicsContextJava.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
