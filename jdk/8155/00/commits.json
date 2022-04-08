@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282395: URL.openConnection can throw IOOBE"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/ParseUtil.java"},{"filename":"test\/jdk\/sun\/net\/www\/ParseUtil_8282395.java"}],"sha":"dd9d042317705af425cb749245f36f01e9931a40"}]
