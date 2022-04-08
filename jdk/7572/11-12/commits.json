@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix the divmod crash due to lack of control node"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestIntegerUnsignedDivMod.java"}],"sha":"a71ea2384cc5d9845fa163e974a46094fd61278f"}]
