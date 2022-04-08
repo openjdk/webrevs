@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n-VALID_VS_VERSIONS=\"2017 2019 2013 2015 2012 2010\"\n+VALID_VS_VERSIONS=\"2013 2015 2012 2010 2017 2019\"\n","filename":"common\/autoconf\/toolchain_windows.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
