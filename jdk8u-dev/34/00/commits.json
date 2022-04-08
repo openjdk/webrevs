@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256722: handle VC++:1927 VS2019 in  abstract_vm_version\n\nBackport-of: e838d71d6151655980c8a96673f5db65f9168aee"},"files":[{"filename":"hotspot\/src\/share\/vm\/runtime\/vm_version.cpp"}],"sha":"bcf01a36dc45c508aa713a70eb82ed25e4a37763"}]
