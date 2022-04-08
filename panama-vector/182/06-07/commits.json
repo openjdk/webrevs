@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283413: Adding strict constraints for Reverse\/ReverseBytes related transformation."},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/node.hpp"},{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"7967d9d3e8c1d1e2eeeecb36776d5979e2bafae1"}]
