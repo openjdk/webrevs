@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix build, add GCC flag gdwarf-4 to exclude DWARF 5, add assertions"},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"},{"filename":"src\/hotspot\/share\/utilities\/decoder_elf.cpp"},{"filename":"src\/hotspot\/share\/utilities\/elfFile.cpp"},{"filename":"src\/hotspot\/share\/utilities\/elfFile.hpp"}],"sha":"f24c284d9dd36c6e31be5f13491e27313aa8a66c"}]
