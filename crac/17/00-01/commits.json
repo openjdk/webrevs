@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'zip-fix' of https:\/\/github.com\/AntonKozlov\/crac into zip-fix"},"files":[],"sha":"8718c10a8a33a90b3ca31337be11e42251fcab58"},{"commit":{"message":"Fix NPE on ZipFile$Source access"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipFile.java"}],"sha":"97d6b0f0c08379b0a347da19f28c7181b8b1c0cd"}]
