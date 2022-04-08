@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,0 +118,1 @@\n+        f.setUndecorated(true);\n@@ -151,0 +152,1 @@\n+        dialog.setUndecorated(true);\n","filename":"test\/jdk\/javax\/swing\/JTable\/PrintAllPagesTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
