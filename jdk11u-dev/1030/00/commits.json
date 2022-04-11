@@ -1,0 +1,1 @@
+[{"commit":{"message":"8217233: Update build settings for AIX\/xlc\n\nReviewed-by: clanger, sgroeger\n\nBackport Conflicts:\n- minor conflict in flags-cflags.m4 (potentially caused by comment\naddition?)"},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"}],"sha":"3509aa662346d2b9de3e6114334f4aba9ac71a06"}]
