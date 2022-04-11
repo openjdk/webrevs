@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,1 +161,1 @@\n-        if (layout.byteAlignment() > layout.byteSize()) {\n+        if (layout.bitAlignment() > layout.bitSize()) {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/Utils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

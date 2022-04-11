@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use a less expensive array element alignment check\nThe bit to byte conversion shows up in hot paths"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/Utils.java"}],"sha":"a68195aede70023b178b8c5b25c81ab60957a3ac"}]
