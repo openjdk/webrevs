@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284686: Interval of < 1 ms disables ExecutionSample events"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/settings\/PeriodSetting.java"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/package-info.java"}],"sha":"f678d1e150f72e6839a0bad985542a3ffe913f85"}]
