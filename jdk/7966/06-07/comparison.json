@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    private static String info = \"\"\"\n+    private static final String info = \"\"\"\n@@ -55,0 +55,1 @@\n+\n","filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/PrintLatinCJKTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
