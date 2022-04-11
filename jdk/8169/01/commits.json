@@ -1,0 +1,1 @@
+[{"commit":{"message":"add jmh"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StringJoin.java"}],"sha":"9df28a89ae94a6ece2da0520922f0a922fc74049"},{"commit":{"message":"refine performance of String#join"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/String.java"}],"sha":"e6cf3fa24a1ef4db69c0479d1fdc52bc023a70fd"}]
