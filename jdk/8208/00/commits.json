@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284760: Correct type\/array element offset in LibraryCallKit::get_state_from_digest_object()"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.hpp"}],"sha":"150a6402407f196aeb03eae71e66c88a6f3193fa"}]
