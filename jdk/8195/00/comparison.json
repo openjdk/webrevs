@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,4 @@\n+#ifndef FFI_GO_CLOSURES\n+#define FFI_GO_CLOSURES 0\n+#endif\n+\n","filename":"src\/hotspot\/cpu\/zero\/globalDefinitions_zero.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
