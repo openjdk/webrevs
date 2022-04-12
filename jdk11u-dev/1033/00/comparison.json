@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -509,2 +509,0 @@\n-    private static native boolean isUseContainerSupport();\n-\n","filename":"src\/java.base\/linux\/classes\/jdk\/internal\/platform\/cgroupv1\/CgroupV1Subsystem.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}

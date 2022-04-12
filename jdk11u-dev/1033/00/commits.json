@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284756: [11u] Remove unused isUseContainerSupport in CgroupV1Subsystem\n\nThe actual native method in use is in CgroupsMetrics.java"},"files":[{"filename":"src\/java.base\/linux\/classes\/jdk\/internal\/platform\/cgroupv1\/CgroupV1Subsystem.java"}],"sha":"f3fccd0fba3f7edbfea09ea0db63419d091ed0fb"}]
