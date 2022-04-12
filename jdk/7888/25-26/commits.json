@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add @ForceInline annotation on session accessor\nBeef up UnrolledAccess benchmark"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/UnrolledAccess.java"}],"sha":"66cebe77b38eaa989090ad3b09b33f675bd7f5b3"}]
