@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1048,1 +1048,0 @@\n-#define SAFEFETCH_DEFAULT true\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
