@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -535,0 +535,1 @@\n+    # set -qtbtable=full for a better traceback table\/better stacks in hs_err when xlc16 is used\n","filename":"make\/autoconf\/flags-cflags.m4","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
