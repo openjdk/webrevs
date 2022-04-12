@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1,1 +1,1 @@\n-jextract -C \"-D FORCE_OPENBLAS_COMPLEX_STRUCT\" \\\n+jextract -C-DFORCE_OPENBLAS_COMPLEX_STRUCT \\\n","filename":"samples\/cblas\/compile.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

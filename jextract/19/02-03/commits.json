@@ -1,0 +1,1 @@
+[{"commit":{"message":"-C \"-D FORCE_OPENBLAS_COMPLEX_STRUCT\" does not work. For now changing it to -C-DFORCE_OPENBLAS_COMPLEX_STRUCT"},"files":[{"filename":"samples\/cblas\/compile.sh"}],"sha":"d68a258c2226eb97cc698d7d3c0d7946a1470721"}]
