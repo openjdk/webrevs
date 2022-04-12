@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283083: java.util.random L128X256MixRandom constructor fails to use byte[] seed"},"files":[{"filename":"src\/jdk.random\/share\/classes\/jdk\/random\/L128X256MixRandom.java"},{"filename":"test\/jdk\/java\/util\/Random\/LXMRandomWithSeed.java"}],"sha":"6bd9a5e9c25d153335101a2b214194b874667984"}]
