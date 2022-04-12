@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix assertion in aarch64, x86 and riscv"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/frame_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/frame_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/frame_x86.cpp"}],"sha":"778e8418d6732b30acfde3bbdff5af4388a57601"}]
