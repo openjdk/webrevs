@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,2 @@\n-  \"LANG\", \"LC_ALL\", \"LC_CTYPE\", \"TZ\",\n+  \"LANG\", \"LC_ALL\", \"LC_CTYPE\", \"LC_NUMERIC\", \"LC_TIME\",\n+  \"TERM\", \"TMPDIR\", \"TZ\",\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
