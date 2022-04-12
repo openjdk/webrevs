@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,4 +24,0 @@\n-\/*\n- * @test\n- * @compile --enable-preview -source 19 DuplicateTotalPattern.java\n- *\/\n","filename":"test\/langtools\/tools\/javac\/diags\/examples\/DuplicateTotalPattern.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
