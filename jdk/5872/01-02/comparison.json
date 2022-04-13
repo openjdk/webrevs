@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -543,1 +543,0 @@\n-        int nr;\n@@ -557,1 +556,1 @@\n-            nr = read(skipBuffer, 0, (int)Math.min(size, remaining));\n+            int nr = read(skipBuffer, 0, (int)Math.min(size, remaining));\n","filename":"src\/java.base\/share\/classes\/java\/io\/InputStream.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
