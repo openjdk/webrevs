@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284642: Unexpected behavior of -XX:MaxDirectMemorySize=0"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/VM.java"},{"filename":"test\/jdk\/java\/nio\/Buffer\/LimitDirectMemory.java"}],"sha":"c178c602c0022aaf233bb9cd9ce6d14e3f653f21"}]
