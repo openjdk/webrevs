@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,6 @@\n-    $(notdir $(MSVCR_DLL))\n+    $(notdir $(MSVCR_DLL)) \\\n+    $(notdir $(MSVCP_DLL))\n+\n+ifneq ($(UCRT_DLL_DIR), )\n+  WINDOWS_JDK_BIN_FILES += $(notdir $(wildcard $(UCRT_DLL_DIR)\/*.dll))\n+endif\n","filename":"jdk\/make\/Images.gmk","additions":6,"deletions":1,"binary":false,"changes":7,"status":"modified"}]}
