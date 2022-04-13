@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,1 +147,1 @@\n-        if (item.l !== noResult && item.category !== currentCategory) {\n+        if (item.l !== messages.noResult && item.category !== currentCategory) {\n","filename":"test\/langtools\/jdk\/javadoc\/doclet\/testSearchScript\/javadoc-search.js","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
