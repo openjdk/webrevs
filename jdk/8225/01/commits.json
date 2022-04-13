@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check for Thread::current_or_null_safe and other stuff"},"files":[{"filename":"src\/hotspot\/share\/prims\/forte.cpp"}],"sha":"80d227cdf41cfdc5d9f262338d3444cd4e81dd5e"},{"commit":{"message":"Wrap ASGCT in crash protection code"},"files":[{"filename":"src\/hotspot\/share\/prims\/forte.cpp"}],"sha":"4b5f34c6de344ccaf1eee794bc59924b80913b6c"}]
