@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-      MutexLocker mu(JNICritical_lock);\n+      MutexLocker ml(JNICritical_lock);\n","filename":"src\/hotspot\/share\/gc\/shared\/gcLocker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
