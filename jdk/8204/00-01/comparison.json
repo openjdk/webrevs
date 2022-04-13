@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5198,1 +5198,1 @@\n-  eor(rscratch1, rscratch1, 1ul << 63); \/\/ flip sign bit\n+  eor(rscratch1, rscratch1, UCONST64(1) << 63); \/\/ flip sign bit\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
