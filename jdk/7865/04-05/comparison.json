@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,3 @@\n+\/\/ Safefetch allows to load a value from a location that's not known\n+\/\/ to be valid. If the load causes a fault, the error value is returned.\n+\n","filename":"src\/hotspot\/share\/runtime\/safefetch.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
