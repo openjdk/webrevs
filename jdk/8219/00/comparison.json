@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -179,1 +179,1 @@\n-    return ((value() & monitor_value) != 0);\n+    return ((value() & lock_mask_in_place) == monitor_value);\n","filename":"src\/hotspot\/share\/oops\/markWord.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
