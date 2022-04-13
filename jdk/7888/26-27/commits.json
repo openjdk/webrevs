@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop `UnsupportedOperationException` from throws clause in FileChannel\/FileChannelImpl"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/FileChannel.java"},{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/FileChannelImpl.java"}],"sha":"3a87df5ef812552996268c3015d3d2d59e22cab0"}]
