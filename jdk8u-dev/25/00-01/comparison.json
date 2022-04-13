@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -149,1 +149,5 @@\n-    $(wildcard $(JDK_OUTPUTDIR)\/bin\/api-ms-win-*.dll)\n+    $(notdir $(MSVCP_DLL))\n+\n+ifneq ($(UCRT_DLL_DIR), )\n+  WINDOWS_JDK_BIN_FILES += $(notdir $(wildcard $(UCRT_DLL_DIR)\/*.dll))\n+endif\n","filename":"jdk\/make\/Images.gmk","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
