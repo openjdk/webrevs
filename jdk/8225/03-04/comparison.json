@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -461,2 +461,0 @@\n-  NoHandleMark nhm;\n-\n@@ -669,0 +667,1 @@\n+  NoHandleMark nhm;\n","filename":"src\/hotspot\/share\/prims\/forte.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
