@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1819,1 +1819,1 @@\n-        items = HashMap.newHashMap(size*2+1);\n+        items = HashMap.newHashMap(size);\n","filename":"src\/java.xml\/share\/classes\/com\/sun\/org\/apache\/xerces\/internal\/impl\/xs\/traversers\/XSAttributeChecker.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
