@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -848,1 +848,1 @@\n-      guarantee(object->mark() == markWord::INFLATING(), \"invariant\");\n+      assert(object->mark() == markWord::INFLATING(), \"invariant\");\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
