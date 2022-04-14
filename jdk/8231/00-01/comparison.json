@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -218,1 +218,1 @@\n-        System.out.println(\"Expected: \" + list);\n+        System.out.println(\"Expected: \" + expected);\n","filename":"test\/jdk\/java\/lang\/StackWalker\/StackStreamTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
