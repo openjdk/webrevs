@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284877: Check type compatibility before looking up method from receiver's vtable"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/linkResolver.cpp"}],"sha":"5318589be50887494bb0113c8a9f6abeef2393a2"}]
