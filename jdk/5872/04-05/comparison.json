@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n-import java.util.Random;\n@@ -33,1 +32,0 @@\n-import java.util.function.Supplier;\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/io\/InputStreamSkipBenchmark.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
