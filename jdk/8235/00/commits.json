@@ -1,0 +1,1 @@
+[{"commit":{"message":"6478546: FileInputStream.read() throws OutOfMemoryError when there is plenty available"},"files":[{"filename":"src\/java.base\/share\/native\/libjava\/io_util.c"},{"filename":"test\/jdk\/java\/io\/FileInputStream\/ReadXBytes.java"}],"sha":"8bb1e14fdb3715c96ae15588f50bfe558ce4ffb3"}]
