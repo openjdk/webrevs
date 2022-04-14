@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284681: compiler\/c2\/aarch64\/TestFarJump.java fails with \"RuntimeException: for CodeHeap < 250MB the far jump is expected to be encoded with a single branch instruction\""},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/aarch64\/TestFarJump.java"}],"sha":"e81862db186b63609b1c1da66429c4609ab221fe"}]
