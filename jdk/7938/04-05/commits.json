@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280761 UseCompressedOops should be set after limit_heap_by_allocatable_memory"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestUseCompressedOopsFlagsWithUlimit.java"}],"sha":"65223a523c7d536138bf4cf7c4edeb90c0703d72"}]
