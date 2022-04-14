@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,0 +169,2 @@\n+            sslSession = t.getSSLSession();\n+\n@@ -174,1 +176,0 @@\n-            sslSession = t.getSSLSession();\n","filename":"test\/jdk\/java\/net\/httpclient\/http2\/TLSConnection.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
