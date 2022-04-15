@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284900: Check InitialHeapSize and container memory limits before startup"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gcArguments.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp"}],"sha":"6f9f8ad1914eff7e0375717df01934063a582ebb"}]
