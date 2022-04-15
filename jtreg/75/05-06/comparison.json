@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-        java --version\n+        ${JAVA_HOME}\/bin\/java --version\n@@ -58,0 +58,1 @@\n+      if: false\n","filename":".github\/workflows\/test.yml","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
