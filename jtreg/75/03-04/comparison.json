@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-        if (!osVersion.equals(expectVersion)) {\n+        if (!osVersion.startsWith(expectVersion)) {\n@@ -46,1 +46,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"make\/CheckJavaOSVersion.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
