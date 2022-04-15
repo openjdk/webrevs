@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2152,1 +2152,1 @@\n-                                     \"or the thread is a virtual thread and the target \"\n+                                     \"the thread is a virtual thread and the target \"\n","filename":"src\/java.se\/share\/data\/jdwp\/jdwp.spec","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
