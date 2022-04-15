@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -383,1 +383,1 @@\n-    \/\/ Virtual threads support. There is a performance impact of VTMT transitions enabled.\n+    \/\/ Virtual threads support. There is a performance impact when VTMT transitions are enabled.\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
