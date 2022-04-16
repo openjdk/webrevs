@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284926: Share the certificate NamedGroup in SignatureScheme::getSignerOfPreferableAlgorithm"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SignatureScheme.java"}],"sha":"4367d8129a1676dadf2be6a5eb962e924b9f2c63"}]
