@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -310,1 +310,1 @@\n-     *  Forcibly pass the test.\n+     *  Forcibly fail the test.\n","filename":"test\/jdk\/java\/awt\/regtesthelpers\/PassFailJFrame.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
