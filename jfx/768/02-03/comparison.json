@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,3 @@\n+#ifdef GSTREAMER_LITE\n+#include <string.h>\n+#endif \/\/ GSTREAMER_LITE\n","filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/gstreamer-lite\/gstreamer\/libs\/gst\/base\/gstbytereader.h","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
