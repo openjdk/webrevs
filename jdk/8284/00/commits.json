@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add support for 32-bit risc-v zero"},"files":[{"filename":"make\/autoconf\/libraries.m4"},{"filename":"make\/autoconf\/platform.m4"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/waitBarrier_linux.cpp"}],"sha":"a26633b2c218a80dbcc02da6bc38955b76073e8e"}]
