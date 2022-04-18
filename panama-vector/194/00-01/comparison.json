@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,1 +239,0 @@\n-      echo XXX $kernel_filename $perf_vector_filename\n","filename":"test\/jdk\/jdk\/incubator\/vector\/gen-template.sh","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
