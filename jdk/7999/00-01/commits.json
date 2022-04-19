@@ -1,0 +1,1 @@
+[{"commit":{"message":"Generate SVE reduction for MIN\/MAX\/ADD as before\n\nChange-Id: Ibc6b9c1f46c42cd07f7bb73b81ed38829e9d0975"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_sve.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_sve_ad.m4"}],"sha":"d81fb9c45754cc3767d522a545f2db0282871546"}]
