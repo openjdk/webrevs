@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -864,1 +864,1 @@\n-  \/\/ Uncommon traps in the JVM can result in a \"crash. We just ignore them.\n+  \/\/ Uncommon traps in the JVM can result in a \"crash\". We just ignore them.\n","filename":"src\/jdk.hotspot.agent\/macosx\/native\/libsaproc\/MacosxDebuggerLocal.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
