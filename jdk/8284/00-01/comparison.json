@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,2 +42,2 @@\n-#ifndef SYS_futex\n-  #if defined(RISCV32) && defined(SYS_futex_time64)\n+#ifdef RISCV32\n+  #if !defined(SYS_futex) && defined(SYS_futex_time64)\n","filename":"src\/hotspot\/os\/linux\/waitBarrier_linux.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

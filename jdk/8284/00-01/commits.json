@@ -1,0 +1,1 @@
+[{"commit":{"message":"adjust SYS_futex define for RISCV32"},"files":[{"filename":"src\/hotspot\/os\/linux\/waitBarrier_linux.cpp"}],"sha":"dae310f94f73385b2d6747cf9738d641550e2807"}]
