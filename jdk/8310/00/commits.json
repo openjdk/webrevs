@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8280594: Refactor annotation invocation handler handling to use Objects.toIdentityString"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/reflect\/annotation\/AnnotationInvocationHandler.java"}],"sha":"d48deb6205a3e82277a3b040fd2a6412da5afe5c"}]
