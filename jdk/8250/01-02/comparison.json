@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-        \/\/ that contains the set of Vertices we're considering.\n+        \/\/ that contains the set of vertices we're considering.\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/AdjacencyList.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
