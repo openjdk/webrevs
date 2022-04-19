@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -197,1 +197,1 @@\n-     *                                   dispose frames on EDT\n+     *                                   disposing of frames on EDT\n","filename":"test\/jdk\/java\/awt\/regtesthelpers\/PassFailJFrame.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
