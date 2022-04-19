@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,1 +169,1 @@\n-        super(Math.max(2*c.size(), 11), .75f, true);\n+        super(HashMap.calculateHashMapCapacity(Math.max(c.size(), 12)), .75f, true);\n","filename":"src\/java.base\/share\/classes\/java\/util\/LinkedHashSet.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
