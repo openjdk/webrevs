@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed (incorrect) volatile modifier from JVMCIRuntime::_shared_library_javavm"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.hpp"}],"sha":"8aacbbaa2c3909694e83000ca0f8366fc6dc7931"}]
