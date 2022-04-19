@@ -1,0 +1,1 @@
+[{"commit":{"message":"8186902: jcmd GC.run should not be blocked by DisableExplicitGC"},"files":[{"filename":"hotspot\/src\/share\/vm\/services\/diagnosticCommand.cpp"}],"sha":"92be9a6e3880ade7b5b42e357e21da8b25273db2"}]
