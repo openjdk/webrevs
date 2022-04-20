@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,3 +61,0 @@\n-    \/** Skip buffer, null until allocated *\/\n-    private byte[] skipBuffer = null;\n-\n","filename":"src\/java.base\/share\/classes\/java\/io\/InputStream.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
