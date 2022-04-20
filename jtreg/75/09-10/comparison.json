@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,2 @@\n+        \/\/ The os.version property may be more detailed than the expected value determined in the makefiles.\n+        \/\/ For example, \"11.6.5\" is a valid match for an expected \"11.6\" version.\n","filename":"make\/CheckJavaOSVersion.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
