@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,2 +68,1 @@\n-    private byte[] skipBufferReference(long remaining) {\n-        int size = (int) Math.min(MAX_SKIP_BUFFER_SIZE, remaining);\n+    private byte[] skipBufferReference(int size) {\n","filename":"src\/java.base\/share\/classes\/java\/io\/InputStream.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
