@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,1 +168,1 @@\n-     * \"Native frames:\" (\"current frame:\" on AIX) or \"Java frames:\" up to the next blank line\n+     * \"Native frame\" or \"Java frame\" up to the next blank line\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/MachCodeFramesInErrorFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
