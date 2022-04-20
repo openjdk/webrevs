@@ -1,0 +1,1 @@
+[{"commit":{"message":"8201793: (ref) Reference object should not support cloning"},"files":[{"filename":"jdk\/src\/share\/classes\/java\/lang\/ref\/Reference.java"},{"filename":"jdk\/test\/java\/lang\/ref\/ReferenceClone.java"}],"sha":"365622e17ebd5ae38bccddc39a6232e56826053e"}]
