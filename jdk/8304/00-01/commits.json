@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove UDivI and UModI again because they don't improve performance."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"d19eef58cf45ea3063c4a61a8fc7dbd8f219b8d6"}]
