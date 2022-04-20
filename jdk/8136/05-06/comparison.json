@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -377,1 +377,0 @@\n-            cleanable.clean();\n@@ -379,0 +378,1 @@\n+            cleanable.clean();\n","filename":"src\/java.security.jgss\/share\/classes\/sun\/security\/jgss\/wrapper\/NativeGSSContext.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
