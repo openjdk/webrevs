@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,0 +77,2 @@\n+                    desktop.setBackground(Color.WHITE);\n+                    desktop.setForeground(Color.BLACK);\n","filename":"test\/jdk\/javax\/swing\/JComponent\/7154030\/bug7154030.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8266247: Swing test bug7154030.java sometimes fails on macOS 11 ARM\n\nChanging background and foreground of the window to the basic colors to\navoid color shift."},"files":[{"filename":"test\/jdk\/javax\/swing\/JComponent\/7154030\/bug7154030.java"}],"sha":"2d3c8e7b3b48b9d6f784a0ec4ee485350cbd63d8"}]
