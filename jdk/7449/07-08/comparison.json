@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-        g.drawLine(0, h-(stkWidth-stkWidth\/2),\n+        g.drawLine((3*stkWidth\/2), h-(stkWidth-stkWidth\/2),\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/border\/EtchedBorder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
