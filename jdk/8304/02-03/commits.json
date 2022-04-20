@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add back Integer nodes after enabling UseDivMod optimization. That makes the difference."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"449ae83f2faea8e63117283f22794a42d4212a81"}]
