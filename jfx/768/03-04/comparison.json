@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,0 +95,1 @@\n+#define GLIB_SIZEOF_SSIZE_T 4\n","filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/3rd_party\/glib\/build\/win32\/vs100\/glibconfig.h","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
