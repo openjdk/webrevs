@@ -1,0 +1,1 @@
+[{"commit":{"message":"8285266: compiler\/intrinsics\/sha\/cli\/TestUseSHA256IntrinsicsOptionOnUnsupportedCPU.java fails after JDK-8284563"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.hpp"}],"sha":"a51cffdc9382261edaa62f8dad36ca2428314fb3"}]
