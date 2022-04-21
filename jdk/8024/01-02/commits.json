@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make SharedStubToInterpRequest ResourceObj and set initial size of SharedStubToInterpRequests to 8"},"files":[{"filename":"src\/hotspot\/share\/asm\/codeBuffer.cpp"},{"filename":"src\/hotspot\/share\/asm\/codeBuffer.hpp"}],"sha":"a5f126c04007fb695d6addeab7808809e0657179"}]
