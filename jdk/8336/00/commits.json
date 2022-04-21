@@ -1,0 +1,1 @@
+[{"commit":{"message":"Emit reduction flags in node, loop, and IGV graph dumps"},"files":[{"filename":"src\/hotspot\/share\/opto\/idealGraphPrinter.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"}],"sha":"781a7528bc3e89b394adeb4bf5b7dcd2306719b8"}]
