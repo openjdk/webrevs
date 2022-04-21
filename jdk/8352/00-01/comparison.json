@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n- * @bug 8186958 8210280 8281631\n+ * @bug 8186958 8210280 8281631 8285386\n","filename":"test\/jdk\/java\/util\/HashMap\/WhiteBoxResizeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
