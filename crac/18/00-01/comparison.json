@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5840,1 +5840,5 @@\n-  if (!pid) {\n+  if (pid == -1) {\n+    perror(\"cannot fork for crengine\");\n+    return -1;\n+  }\n+  if (pid == 0) {\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
