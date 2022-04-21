@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add bug id."},"files":[{"filename":"test\/jdk\/java\/util\/HashMap\/WhiteBoxResizeTest.java"}],"sha":"4191e2a0047537c671be8a2aba94f720965ee5ce"},{"commit":{"message":"Add -Xmx2g to ensure JVM has enough heap."},"files":[{"filename":"test\/jdk\/java\/util\/HashMap\/WhiteBoxResizeTest.java"}],"sha":"2e892be493caa255884b0f2a6f0bc419eac8b32f"}]
