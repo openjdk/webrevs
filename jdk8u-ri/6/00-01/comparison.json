@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -252,1 +252,3 @@\n-     * @returns never returns normally\n+     * @apiNote This method is defined in Java SE 8 Maintenance Release 4.\n+     *\n+     * @return  never returns normally\n","filename":"jdk\/src\/share\/classes\/java\/lang\/ref\/Reference.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
