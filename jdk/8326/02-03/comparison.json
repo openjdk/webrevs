@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-    static Button heavy;\n+    static volatile Button heavy;\n@@ -95,1 +95,1 @@\n-        SwingUtilities.invokeLater(() -> d.dispose());\n+        SwingUtilities.invokeAndWait(() -> d.dispose());\n","filename":"test\/jdk\/java\/awt\/Mixing\/MixingOnDialog.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
