@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -381,1 +381,1 @@\n-  li(t0, (uintptr_t)(address)b);\n+  mv(t0, (address)b);\n@@ -417,1 +417,1 @@\n-  li(t0, (uintptr_t)(address)b);\n+  mv(t0, (address)b);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
