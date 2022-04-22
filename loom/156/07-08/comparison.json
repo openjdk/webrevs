@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -506,2 +506,2 @@\n-  \n-  DEBUG_ONLY(_fast_freeze_size = size_if_fast_freeze_available();) \n+\n+  DEBUG_ONLY(_fast_freeze_size = size_if_fast_freeze_available();)\n@@ -509,1 +509,1 @@\n-  \n+\n","filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
