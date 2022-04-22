@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n-          \"and set JVMCIThreadsPerNativeLibraryRuntime to 1.\"               \\\n+          \"and set JVMCIThreadsPerNativeLibraryRuntime to 1.\")              \\\n","filename":"src\/hotspot\/share\/jvmci\/jvmci_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
