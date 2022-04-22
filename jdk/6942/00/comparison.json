@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5606,1 +5606,1 @@\n-     * {@code cc.addAll(Collections.unmodifiableList(Arrays.asList(elements)))}.\n+     * {@code c.addAll(Collections.unmodifiableList(Arrays.asList(elements)))}.\n","filename":"src\/java.base\/share\/classes\/java\/util\/Collections.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
