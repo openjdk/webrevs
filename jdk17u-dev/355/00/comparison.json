@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1431,0 +1431,3 @@\n+    AWT_LOCK();\n+    XdbeFreeVisualInfo(visScreenInfo);\n+    AWT_UNLOCK();\n","filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/awt_GraphicsEnv.c","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
