@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update\/fix mark of copy object before CASing forward pointer"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahForwarding.inline.hpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.hpp"}],"sha":"fb48066915a84d77b6fa58a506a726e69d38b16e"}]
