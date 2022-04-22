@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix incorrect reg mask of call_VM_leaf_base"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp"}],"sha":"f6ec240debd57a7ee2535c1406fa9f2aca50252d"}]
