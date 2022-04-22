@@ -1,0 +1,1 @@
+[{"commit":{"message":"StackChunk only special in null loader."},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/vthread\/StackChunk.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/vthread\/StackChunkClassLoaderTest.java"}],"sha":"58fb14feda3b5dbf206f12a2e0b039ed383bcd6f"}]
