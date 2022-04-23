@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,2 @@\n+\techo $(@:%.ok=%\/jt.log)\n+\techo $(@:%.ok=%\/work\/NPE.jtr)\n@@ -48,0 +50,1 @@\n+INITIAL_TESTS += $(BUILDTESTDIR)\/JUnitTrace.ok\n","filename":"test\/junitTrace\/JUnitTrace.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
