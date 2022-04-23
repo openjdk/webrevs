@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+\tcat $(@:%.ok=%\/jt.log)\n@@ -41,0 +42,1 @@\n+\tcat $(@:%.ok=%\/work\/NPE.jtr)\n","filename":"test\/junitTrace\/JUnitTrace.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
