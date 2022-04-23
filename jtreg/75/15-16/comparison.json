@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,3 @@\n-      run: git config --global core.autocrlf false\n+      run: |\n+        git config --global core.autocrlf false\n+        git config --global core.eol lf\n","filename":".github\/workflows\/test.yml","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
