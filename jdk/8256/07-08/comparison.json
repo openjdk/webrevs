@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -146,1 +146,1 @@\n-    jlong limit = OSContainer::memory_and_swap_limit_in_bytes();\n+    jlong limit = os::physical_memory();\n","filename":"src\/hotspot\/share\/gc\/shared\/gcArguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
