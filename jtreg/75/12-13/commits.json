@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename .github\/actions\/build.yml to .github\/actions\/build\/action.yml"},"files":[{"filename":".github\/actions\/build\/action.yml"}],"sha":"56cd9a093297188d49b7d56fa221e2d573239294"},{"commit":{"message":"One job per OS"},"files":[{"filename":".github\/workflows\/test.yml"}],"sha":"f2040fad973fc6d0ba8068a84ecc0eb8a82b0871"}]
