@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename inner class to EnumCtx ; use homeCtx() in AbstractLdapNamingEnumeration for consistencty ; new instance vars can be final"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/AbstractLdapNamingEnumeration.java"}],"sha":"1df8515bed914d7d57cd61407f3f83f5b6c133b1"}]
