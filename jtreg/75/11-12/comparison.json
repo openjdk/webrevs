@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6,0 +6,4 @@\n+    - name: 'Check out repository'\n+      uses: actions\/checkout@v3\n+      with:\n+        fetch-depth: 1\n","filename":".github\/actions\/build.yml","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
