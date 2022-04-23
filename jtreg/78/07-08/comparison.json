@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-\t\ttrue \"non-zero exit code from JavaTest intentionally ignored\"\n+\t\t\ttrue \"non-zero exit code from JavaTest intentionally ignored\"\n@@ -47,2 +47,0 @@\n-\n-INITIAL_TESTS += $(BUILDTESTDIR)\/JUnitTrace.ok\n","filename":"test\/junitTrace\/JUnitTrace.gmk","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
