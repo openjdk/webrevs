@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -872,1 +872,1 @@\n-           throw new IOException(\"getSecretKey failed: \" + e.getMessage(), e);\n+            throw new IOException(\"getSecretKey failed: \" + e.getMessage(), e);\n","filename":"src\/java.base\/share\/classes\/sun\/security\/pkcs12\/PKCS12KeyStore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
