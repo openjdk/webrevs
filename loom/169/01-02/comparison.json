@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,0 @@\n-    final AtomicBoolean isJNITestingCompleted = new AtomicBoolean(false);\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/InterruptThreadTest\/InterruptThreadTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
