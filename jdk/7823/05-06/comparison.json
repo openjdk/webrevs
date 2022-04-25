@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2158,1 +2158,0 @@\n-        const Type* limit_t = _igvn.type(limit);\n@@ -2161,2 +2160,0 @@\n-        limit = new CastIINode(limit, limit_t);\n-        register_new_node(limit, opaq_ctrl);\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
