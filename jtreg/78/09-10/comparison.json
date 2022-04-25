@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-            var summary = summaryGeneratingListener.getSummary();\n+            TestExecutionSummary summary = summaryGeneratingListener.getSummary();\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/agent\/JUnitRunner.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
