@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-        if (!\"Java heap space\".equals(message)) {\n+        if (!message.startsWith(\"Java heap space\")) {\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/mlvm\/hiddenloader\/stress\/oome\/heap\/Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
