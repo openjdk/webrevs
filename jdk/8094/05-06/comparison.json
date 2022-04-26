@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,1 @@\n-                \/\/ AIX does not prohibit low address reads\n+                \/\/ Low address reads are allowed on PPC\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/MachCodeFramesInErrorFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
