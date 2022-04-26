@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-#elif defined(ZERO) || defined (_AIX)\n+#elif defined(ZERO) || defined (_AIX) || defined (ARM32)\n@@ -41,0 +41,1 @@\n+  \/\/ (arm32 uses sigsetjmp\/longjmp as long as JDK-8284997 is not solved)\n","filename":"src\/hotspot\/share\/runtime\/safefetch.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
