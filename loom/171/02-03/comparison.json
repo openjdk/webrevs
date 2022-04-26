@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-  DEBUG_ONLY(intptr_t* sp_before = thread->last_Java_sp(););\n+  DEBUG_ONLY(intptr_t* sp_before = thread->last_Java_sp();)\n","filename":"src\/hotspot\/share\/runtime\/safepointMechanism.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
