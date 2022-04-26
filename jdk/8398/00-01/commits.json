@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add micros using non-constant arguments to assess performance in absense of constant folding"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/invoke\/MethodTypeAcquire.java"}],"sha":"fcc020e657ac85def6964332673af700f414d329"}]
