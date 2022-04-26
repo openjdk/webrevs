@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+#include \"utilities\/vmError.hpp\"\n@@ -210,0 +211,4 @@\n+    if (VMError::is_error_reported()) {\n+      return;\n+    }\n+\n","filename":"src\/hotspot\/share\/oops\/accessBackend.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
