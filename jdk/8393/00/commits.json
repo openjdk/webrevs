@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8285610: TreeInfo.pathFor and its uses appear to be dead code"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/api\/JavacTaskImpl.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/tree\/TreeInfo.java"}],"sha":"61c129e7f03f77250ff2add316624dd78905f85c"}]
