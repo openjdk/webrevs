@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -340,0 +340,1 @@\n+        \/\/ Filter out any carrier thread that starts while running the test.\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/jdi\/EventFilters.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
