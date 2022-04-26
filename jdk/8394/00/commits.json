@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282227: Locale information for nb is not working properly"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/util\/cldr\/CLDRLocaleProviderAdapter.java"},{"filename":"test\/jdk\/sun\/util\/resources\/cldr\/NorwegianFallbackTest.java"}],"sha":"6edba2610e9178d1f66d331b62f19ebab6c8109f"}]
