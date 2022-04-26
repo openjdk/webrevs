@@ -1,0 +1,1 @@
+[{"commit":{"message":"Take into account scale factor;\nCreate a new Graphics2D object instead of juggle the rendering hints;"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/ImageIcon.java"}],"sha":"a6aef9a92e9fc740455feb3a13bb86783ee46bb1"}]
