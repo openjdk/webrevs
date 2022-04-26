@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -600,0 +600,3 @@\n+java\/nio\/channels\/etc\/PrintSupportedOptions.java                8285671 macosx-x64\n+java\/nio\/channels\/DatagramChannel\/AfterDisconnect.java          8285671 macosx-x64\n+\n","filename":"test\/jdk\/ProblemList.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
