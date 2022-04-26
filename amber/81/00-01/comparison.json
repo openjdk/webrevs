@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,2 +306,0 @@\n-            } else {\n-                extraTest = makeLit(syms.booleanType, 1);\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
