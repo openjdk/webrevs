@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,3 +49,0 @@\n-\/\/ Parallel iteration not available unless INCLUDE_ALL_GCS\n-#if INCLUDE_ALL_GCS\n-\n@@ -232,2 +229,0 @@\n-\n-#endif \/\/ INCLUDE_ALL_GCS\n","filename":"test\/hotspot\/gtest\/gc\/shared\/test_oopStorage_parperf.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
