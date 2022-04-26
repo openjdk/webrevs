@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport fcce24c5b3cd1dab755fd9b6779af71f4dd78773"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/compiler\/TestBarrierAboveProj.java"}],"sha":"00ea7ad222b817bfbc0be491b74d2e1104b6baef"}]
