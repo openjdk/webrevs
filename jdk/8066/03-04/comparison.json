@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -353,1 +353,1 @@\n-     *         if non-empty, may not contain a leading or trailing dot \n+     *         if non-empty, may not contain a leading or trailing dot\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/Path.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
