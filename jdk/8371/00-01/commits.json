@@ -1,0 +1,1 @@
+[{"commit":{"message":"7131823: Loading some animated GIFs fails with ArrayIndexOutOfBoundsException: Index 4096 out of bounds for length 4096"},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/gif\/GIFImageReader.java"}],"sha":"dac34ed487fb9001fde6d98e7279a114aeb55caf"}]
