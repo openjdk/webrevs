@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -622,0 +622,2 @@\n+java\/nio\/channels\/DatagramChannel\/ManySourcesAndTargets.java    8264385 macosx-aarch64\n+\n@@ -687,0 +689,1 @@\n+sun\/security\/ssl\/SSLSessionImpl\/NoInvalidateSocketException.java 8277970 linux-all,macosx-x64\n","filename":"test\/jdk\/ProblemList.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
