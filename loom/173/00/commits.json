@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip carriers in deadlock detection"},"files":[{"filename":"src\/hotspot\/share\/services\/threadService.cpp"},{"filename":"test\/jdk\/java\/lang\/management\/ThreadMXBean\/VirtualThreadDeadlocks.java"}],"sha":"026f0e43d2761d197ca9f4599bc7510768b1a9a8"}]
