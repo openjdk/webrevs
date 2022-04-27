@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,1 @@\n-      VALID_VALUES: [none recurse line target], DEFAULT: recurse,\n+      VALID_VALUES: [none recurse line target], DEFAULT: none,\n","filename":"make\/autoconf\/basic_tools.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
