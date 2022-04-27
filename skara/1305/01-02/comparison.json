@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-        if (check instanceof ReviewersCheck) {\n+        if (check instanceof ReviewersCheck && configuration != null) {\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/PullRequestCheckIssueVisitor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
