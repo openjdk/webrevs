@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8285712: Bail if os::vsnprintf fails during logging\n\nA negative return value will cause wraparound when cast to size_t.\nThis in turn causes LogMessageBuffer::grow() to attempt a large memory allocation."},"files":[{"filename":"src\/hotspot\/share\/logging\/logMessageBuffer.cpp"}],"sha":"3798bf8bfb788baaca9c9a8f1fb637380dc28b2d"}]
