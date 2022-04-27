@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,0 @@\n-            Thread.sleep(100);\n","filename":"test\/jdk\/javax\/security\/auth\/callback\/PasswordCallback\/CheckCleanerBound.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
