@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @summary Check that the cleaner is not bound to the PasswordCallback object. \n+ * @summary Check that the cleaner is not bound to the PasswordCallback object\n","filename":"test\/jdk\/javax\/security\/auth\/callback\/PasswordCallback\/CheckCleanerBound.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
