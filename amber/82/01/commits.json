@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix NPE and exhaustivity bug in record patterns with nested primitive type patterns"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Flow.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/NestedPrimitiveDeconstructionPattern.java"}],"sha":"4cb3f6c09f4020de99db5dcdaebe0b0a864d2894"}]
