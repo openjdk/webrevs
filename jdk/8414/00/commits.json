@@ -1,0 +1,1 @@
+[{"commit":{"message":"8155701: The compiler fails with an AssertionError: typeSig ERROR"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Resolve.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/MissingAnnotationClassFile.java"}],"sha":"b7ddd87f4643892842735c675acc81f9de44a292"}]
