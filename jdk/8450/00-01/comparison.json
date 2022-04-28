@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,1 @@\n+                frame[i].setContentPane(panel);\n","filename":"test\/jdk\/javax\/swing\/border\/TestTitledBorderLeak.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
