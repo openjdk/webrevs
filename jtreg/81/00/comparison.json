@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4,6 +4,3 @@\n-  push:\n-    branches:\n-      - master\n-  pull_request:\n-    branches:\n-      - '*'\n+  branches-ignore:\n+    - master\n+    - pr\/*\n","filename":".github\/workflows\/test.yml","additions":3,"deletions":6,"binary":false,"changes":9,"status":"modified"}]}
