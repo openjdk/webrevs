@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-  \/\/ Bootstrapping: this is either of the four direct subclasses of java.lang.ref.Reference\n+  \/\/ Bootstrapping: this is one of the direct subclasses of java.lang.ref.Reference\n","filename":"src\/hotspot\/share\/oops\/instanceRefKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
