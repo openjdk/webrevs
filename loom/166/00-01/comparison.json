@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-                if (Poller.useRecursivePoll()) {\n+                if (Poller.useRecursivePoll() && Thread.currentThread().isVirtual()) {\n","filename":"src\/java.base\/linux\/classes\/sun\/nio\/ch\/EPollSelectorImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
