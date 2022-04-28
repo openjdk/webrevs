@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6524,1 +6524,1 @@\n-    __ sub(sp, rfp, ((unsigned)framesize-4) << LogBytesPerInt); \/\/ prolog\n+    __ sub(sp, rfp, ((uint64_t)framesize-4) << LogBytesPerInt); \/\/ prolog\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
