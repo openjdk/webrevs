@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -215,1 +215,1 @@\n-      addw(Rd, Rn, (uint64_t)0);\n+      Assembler::addw(Rd, Rn, 0U);\n@@ -224,1 +224,1 @@\n-      add(Rd, Rn, (uint64_t)0);\n+      Assembler::add(Rd, Rn, 0U);\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
