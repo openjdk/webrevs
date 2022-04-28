@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,1 @@\n+            rootGroup.getChildren().add(light);\n","filename":"tests\/performance\/3DLighting\/attenuation\/Environment.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
