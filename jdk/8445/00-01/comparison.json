@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-    \/\/ On MacOSX systems we use disconnectx\n+    \/\/ On macOS systems we use disconnectx\n","filename":"src\/java.base\/unix\/native\/libnio\/ch\/DatagramChannelImpl.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
