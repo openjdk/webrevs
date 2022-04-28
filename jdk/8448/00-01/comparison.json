@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2218,1 +2218,1 @@\n-  if (operand_valid_for_add_sub_immediate((int)imm)) {\n+  if (operand_valid_for_add_sub_immediate(imm)) {\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
