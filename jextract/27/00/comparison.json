@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,0 +78,1 @@\n+    LDFLAGS += -L\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX.sdk\/usr\/lib\n","filename":"make\/NativeCompilation.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
