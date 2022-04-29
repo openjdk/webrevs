@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,1 @@\n-        osname = System.getProperty(\"os.name\")\n+        osname = System.getProperty(\"os.name\");\n","filename":"test\/jdk\/java\/net\/Inet4Address\/PingThis.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
