@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,5 +51,1 @@\n-        String sabc = \"\"\"\n- \n-a\n-b\n-c\"\"\";\n+        String sabc = \" \" + System.lineSeparator() + abc;\n","filename":"test\/jdk\/java\/nio\/file\/Files\/FileUtilsTest.java","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
