@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -643,2 +643,1 @@\n-# In some environments, a certain algorithm or key length may be undesirable\n-# but is not yet disabled.\n+# In some environments, a certain algorithm or key length may be undesirable.\n","filename":"src\/java.base\/share\/conf\/security\/java.security","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
