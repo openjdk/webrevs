@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274274: Update JUnit to version 5.8.1\n\nReviewed-by: kcr, mstrauss, jvos"},"files":[{"filename":"build.gradle"},{"filename":"buildSrc\/build.gradle"},{"filename":"modules\/javafx.base\/.classpath"},{"filename":"modules\/javafx.base\/src\/test\/java\/test\/JUnit5Test.java"}],"sha":"348b515f7ae09984ba6059262925d86a4d1e3275"}]
