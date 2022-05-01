@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-public class Track {\n+public final class Track {\n","filename":"src\/java.desktop\/share\/classes\/javax\/sound\/midi\/Track.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
