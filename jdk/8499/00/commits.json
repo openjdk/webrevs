@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not run the test if user specified UseCompressedOops flag as we set it ourselves"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestUseCompressedOopsFlagsWithUlimit.java"}],"sha":"48da2d4e1b18d285a6e762273301cfc50b70d43f"}]
