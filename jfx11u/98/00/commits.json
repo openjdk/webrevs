@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280275: JUnit5 tests using Assumptions API fail to compile in some cases\n\nReviewed-by: aghaisas"},"files":[{"filename":"build.gradle"},{"filename":"modules\/javafx.base\/src\/test\/java\/test\/JUnit5Test.java"}],"sha":"5a04f3a945683da53009467b70fc3d5262c32392"}]
