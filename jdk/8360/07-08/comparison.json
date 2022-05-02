@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-        Asserts.assertEQ(output, expected);\n+        Asserts.assertEQ(output, (expected != null) ? expected.replaceAll(\"\\n\", System.lineSeparator()) : null);\n","filename":"test\/lib-test\/jdk\/test\/lib\/FileUtilsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
