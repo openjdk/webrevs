@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -223,1 +223,1 @@\n-    static String shadowSizes[] = { null, \"30\", \"40\" };\n+    static String shadowSizes[] = { null, \"30\" };\n","filename":"test\/hotspot\/jtreg\/runtime\/Thread\/TooSmallStackSize.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

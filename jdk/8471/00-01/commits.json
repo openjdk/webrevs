@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed 40 for StackShadowPages as it exceeds windows range.  Just check with 30."},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/Thread\/TooSmallStackSize.java"}],"sha":"db3db3513bbddd9eeae2a67481bd7c8eff6d6148"}]
