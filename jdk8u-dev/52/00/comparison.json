@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,0 +131,2 @@\n+    \/\/ free any overflow storage\n+    delete _overflow_arena;\n@@ -133,2 +135,0 @@\n-  \/\/ free any overflow storage\n-  delete _overflow_arena;\n@@ -940,0 +940,1 @@\n+  cb->_overflow_arena = NULL;\n","filename":"hotspot\/src\/share\/vm\/asm\/codeBuffer.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
