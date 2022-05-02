@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284184: Crash in GraphicsContextJava::drawLinesForText on https:\/\/us.yahoo.com\/\n\nReviewed-by: kcr, arapte"},"files":[{"filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/platform\/graphics\/java\/GraphicsContextJava.cpp"}],"sha":"8949bdace7cb927ecdf8fa6688000eca6ab59b66"}]
