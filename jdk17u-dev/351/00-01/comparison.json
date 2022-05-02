@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -320,1 +320,1 @@\n-  def(JfrMsg_lock                  , PaddedMonitor, leaf,        true,  _safepoint_check_always);\n+  def(JfrMsg_lock                  , PaddedMonitor, leaf,        true,  _safepoint_check_never);\n","filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
