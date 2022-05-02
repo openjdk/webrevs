@@ -1,0 +1,1 @@
+[{"commit":{"message":"8285979: G1: G1SegmentedArraySegment::header_size() is incorrect since JDK-8283368"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1SegmentedArray.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1SegmentedArray.hpp"}],"sha":"785b9312b75167a2defed11a15cabbfac392f9d1"}]
