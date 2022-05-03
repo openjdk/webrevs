@@ -1,0 +1,1 @@
+[{"commit":{"message":"1422: Remove the need to type `JEP-` or `jep-` prefix in `jep` command"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/JEPCommand.java"},{"filename":"bots\/pr\/src\/test\/java\/org\/openjdk\/skara\/bots\/pr\/JEPCommandTests.java"}],"sha":"5f9f5203d75052c3eed227b6022d7b553a9999d7"}]
