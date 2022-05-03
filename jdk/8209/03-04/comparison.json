@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -720,2 +720,0 @@\n-  vmassert(Thread::current() == thread, \"not current thread\");\n-  vmassert(last_Java_sp() != NULL, \"not called from Java code?\");\n","filename":"src\/hotspot\/cpu\/x86\/frame_x86.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
