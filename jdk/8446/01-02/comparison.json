@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-#include \"runtime\/thread.hpp\"\n@@ -577,1 +576,1 @@\n-  JavaThread* thread = (JavaThread*)raw_thread;\n+  JavaThread* thread = JavaThread::cast(raw_thread);\n","filename":"src\/hotspot\/share\/prims\/forte.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
