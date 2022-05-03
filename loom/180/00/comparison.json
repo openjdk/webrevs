@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -179,3 +179,0 @@\n-# obsolete test using Thread.stop\n-runtime\/Thread\/StopAtExit.java                                               8283610 generic-all\n-\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
