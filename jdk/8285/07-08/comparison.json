@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,0 @@\n-        \n@@ -100,1 +99,1 @@\n-    } \n+    }\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TestCgroupV1Memory.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
