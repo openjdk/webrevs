@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -696,0 +696,3 @@\n+            if (sprops.sun_jnu_encoding == NULL) {\n+                sprops.sun_jnu_encoding = \"UTF-8\";\n+            }\n","filename":"src\/java.base\/windows\/native\/libjava\/java_props_md.c","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
