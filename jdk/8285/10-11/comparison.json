@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,0 @@\n-            Common.prepareWhiteBox();\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TestCgroupV1Memory.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
