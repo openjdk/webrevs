@@ -1,0 +1,1 @@
+[{"commit":{"message":"set _WIN32_WINNT=0x0601 centrally in flags-cflags.m4"},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"},{"filename":"src\/java.base\/windows\/native\/libnio\/ch\/wepoll.c"}],"sha":"dff223c5aae85b76df868a3e08f16d5e2f0457c3"}]
