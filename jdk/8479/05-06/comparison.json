@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,1 @@\n+    \/\/ Default time between polls (seconds)\n@@ -253,0 +254,1 @@\n+        \/\/ Wait between thread creation and first poll (seconds)\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/fs\/PollingWatchService.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
