@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286056: AArch64: clarify uses of MacroAssembler::far_call\/MacroAssembler::far_jump"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_CodeStubs_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp"}],"sha":"9e6e89dfca0c2fd300217d89c5ce8dbd83d1caa1"}]
