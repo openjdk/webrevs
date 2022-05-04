@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,3 +144,1 @@\n-        if (csr.isEmpty()) {\n-            log.warning(\"The CSR issue of the issue \" + issue + \" does not exist\");\n-        } else {\n+        if (csr.isPresent()) {\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckRun.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
