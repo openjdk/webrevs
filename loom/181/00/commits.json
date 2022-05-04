@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't assert for getting the name of thread->threadObj() if debugging."},"files":[{"filename":"src\/hotspot\/share\/oops\/accessBackend.cpp"}],"sha":"8e30ddc5396bf039ab0c4176fb09ec6aa630dc9a"}]
