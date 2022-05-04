@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1827,1 +1827,1 @@\n-      int ret = iter.next(); \/\/ Get item\n+      bool ret = iter.next(); \/\/ Get item\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
