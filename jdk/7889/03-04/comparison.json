@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1736,1 +1736,1 @@\n-            assert(cisc->memory_operand() == 0, \"no memory operand, only stack\");\n+            assert(cisc->memory_operand() == nullptr, \"no memory operand, only stack\");\n","filename":"src\/hotspot\/share\/opto\/chaitin.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
