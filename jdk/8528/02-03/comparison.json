@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1808,1 +1808,0 @@\n-    bool patch_call = false;\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
