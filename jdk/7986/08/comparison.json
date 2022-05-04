@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -202,1 +202,1 @@\n-     * {@code b[b.length-1]} unaffected.\n+     * {@code b[b.length-1]} undefined.\n@@ -242,1 +242,1 @@\n-     * {@code b[off+len-1]} unaffected.\n+     * {@code b[off+len-1]} undefined.\n","filename":"src\/java.base\/share\/classes\/java\/io\/InputStream.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
