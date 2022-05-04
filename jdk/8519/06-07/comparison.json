@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @summary FillerObject_klass should be loaded as early as possible\n+ * @summary VM crash caused by unloaded FillerObject_klass\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/FillerObjectLoadTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
