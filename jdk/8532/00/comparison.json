@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -687,3 +687,0 @@\n-# macos12 failure\n-javax\/swing\/JMenu\/4515762\/bug4515762.java 8276074 macosx-all\n-\n@@ -693,1 +690,0 @@\n-javax\/swing\/JTree\/4908142\/bug4908142.java 8278348 macosx-all\n","filename":"test\/jdk\/ProblemList.txt","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
