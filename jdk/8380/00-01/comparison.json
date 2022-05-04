@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -241,1 +241,1 @@\n-            final int colorTolerance = 25;\n+            final int colorTolerance = 1;\n","filename":"test\/jdk\/javax\/swing\/JInternalFrame\/8146321\/JInternalFrameIconTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
