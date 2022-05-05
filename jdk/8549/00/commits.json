@@ -1,0 +1,1 @@
+[{"commit":{"message":"8283849: AsyncGetCallTrace may crash JVM on guarantee"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"src\/hotspot\/share\/prims\/forte.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"2f009671cc2ffd75053ec36624573d5cdfd67742"}]
