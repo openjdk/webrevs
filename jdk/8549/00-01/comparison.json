@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -658,1 +658,1 @@\n-    return result != NULL || result->is_zombie() ? NULL : result;\n+    return (result == NULL || result->is_zombie()) ? NULL : result;\n","filename":"src\/hotspot\/share\/code\/codeCache.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
