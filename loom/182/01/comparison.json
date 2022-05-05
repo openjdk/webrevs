@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,1 +141,1 @@\n-#endif\n+#endif \/\/ ASSERT\n@@ -180,0 +180,1 @@\n+#if (defined(AMD64) || defined(AARCH64)) && !defined(ZERO)\n@@ -181,0 +182,1 @@\n+\n@@ -184,0 +186,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/signature.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
