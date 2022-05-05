@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused JVM_GetModifiableProperties\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"make\/data\/hotspot-symbols\/symbols-unix"},{"filename":"src\/hotspot\/share\/include\/jvm.h"},{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"04c4f970aadf4c5ccd9db6cc00b7ccd3658e557f"}]
