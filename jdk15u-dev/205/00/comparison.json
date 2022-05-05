@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,6 @@\n-   \/**\n+    \/**\n+     * Returns the value of 'test.nativepath' system property\n+     *\/\n+    public static final String TEST_NATIVE_PATH = System.getProperty(\"test.nativepath\", \".\");\n+\n+    \/**\n","filename":"test\/lib\/jdk\/test\/lib\/Utils.java","additions":6,"deletions":1,"binary":false,"changes":7,"status":"modified"}]}
