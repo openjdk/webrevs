@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -571,1 +571,1 @@\n-         \"destination of far call not found in code cache\");\n+         \"destination of trampoline call not found in code cache\");\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
