@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282060: RemoteRuntimeImageTest is not actually testing on JDK 8"},"files":[{"filename":"make\/RunTests.gmk"},{"filename":"test\/jdk\/jdk\/internal\/jrtfs\/remote\/Main.java"},{"filename":"test\/jdk\/jdk\/internal\/jrtfs\/remote\/RemoteRuntimeImageTest.java"}],"sha":"18bd4d0bbde3850930b38be1a1e2cc72538596f4"}]
