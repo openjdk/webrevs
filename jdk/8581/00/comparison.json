@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -821,1 +821,1 @@\n-  int bitsIdx = BitsPerByte * idx;\n+  uint32_t bitsIdx = BitsPerByte * idx;\n@@ -828,1 +828,1 @@\n-  int bitsIdx = BitsPerByte * idx;\n+  uint32_t bitsIdx = BitsPerByte * idx;\n","filename":"src\/hotspot\/share\/runtime\/atomic.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
