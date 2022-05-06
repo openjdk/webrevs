@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286163: micro-optimize Instant.plusSeconds\n\nProvide micro-benchmark for comparison"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/time\/Instant.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/time\/InstantBench.java"}],"sha":"41990fd73ec486b173b0452a877effeb12154e54"}]
