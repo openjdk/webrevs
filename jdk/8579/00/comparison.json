@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2236,1 +2236,1 @@\n-    result = AllocateHeap(length + 1, mtInternal, 0, AllocFailStrategy::RETURN_NULL);\n+    result = AllocateHeap(length + 1, mtInternal, AllocFailStrategy::RETURN_NULL);\n","filename":"src\/hotspot\/share\/prims\/jni.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
