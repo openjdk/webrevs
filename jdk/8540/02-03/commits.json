@@ -1,0 +1,1 @@
+[{"commit":{"message":"exclude lambda proxy class in CleanupDumpTimeLambdaProxyClassTable"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"}],"sha":"93f434d75b2a40513c6f7bb384a1df69631de1fb"}]
