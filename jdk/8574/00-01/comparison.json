@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,4 +298,0 @@\n-  void print(outputStream* os) {\n-    os->print(\"TBL \" PTR_FORMAT \" size %zu mem %zu \", p2i(&_table), _table.get_size_log2(Thread::current()), _table.get_mem_size(Thread::current()));\n-  }\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardSet.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
