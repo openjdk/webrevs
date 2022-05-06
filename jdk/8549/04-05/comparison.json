@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -995,1 +995,1 @@\n-  _in_asgct(fasle),\n+  _in_asgct(false),\n","filename":"src\/hotspot\/share\/runtime\/thread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
