@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move 'in_asgct' flag to JavaThread"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"33ac63ebd3c789e7a1c84d4a3f1177e0d88d4b6f"}]
