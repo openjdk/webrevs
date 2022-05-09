@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286376: Wrong condition for using non-immediate oops on AArch64"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"}],"sha":"221086e42d1e02f27379e8bf462a08372d620bf7"}]
