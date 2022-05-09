@@ -1,0 +1,1 @@
+[{"commit":{"message":"8285739: disable EA when both JVMTI and Preview are enabled"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2compiler.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp"},{"filename":"src\/hotspot\/share\/runtime\/escapeBarrier.hpp"}],"sha":"3e0c6ee687ad1c075a7c8089489899c960c6b8c3"}]
