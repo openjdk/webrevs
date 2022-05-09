@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1089,0 +1089,3 @@\n+                if (prevUnionCharset != NULL) {\n+                    (*FcCharSetDestroy)(prevUnionCharset);\n+                }\n","filename":"src\/java.desktop\/unix\/native\/common\/awt\/fontpath.c","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
