@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,0 @@\n- *         6. reference.clear() does not throw any exception.\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/gc\/gctests\/PhantomReference\/phantom001\/phantom001.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
