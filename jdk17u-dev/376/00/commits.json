@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport c936e7059b848d0e0be5f3234c4367657f2af2a7"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/s390\/stubGenerator_s390.cpp"},{"filename":"src\/hotspot\/share\/runtime\/stubCodeGenerator.cpp"}],"sha":"f08840f2e40be29f574a03213aa061bb66542cb1"}]
