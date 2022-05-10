@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fallback for 32-bit port signature helpers"},"files":[{"filename":"src\/hotspot\/share\/runtime\/signature.cpp"}],"sha":"e1f7a5f219aeacaa9d7236554b09bfecaa49e7ac"},{"commit":{"message":"Fix jdk_jfr"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_32.cpp"}],"sha":"b98322be058c86ec614a567c3ecd273c508ff13c"}]
