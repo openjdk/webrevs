@@ -1,0 +1,1 @@
+[{"commit":{"message":"Filter out invalid pointers picked up by old gen SATB"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahSATBMarkQueueSet.cpp"}],"sha":"e1fa77a65aa72d7cd22732bb95b73af950b589b1"}]
