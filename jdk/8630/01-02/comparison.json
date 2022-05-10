@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,1 +181,0 @@\n-#ifdef ASSERT\n@@ -183,0 +182,1 @@\n+#ifdef ASSERT\n","filename":"src\/hotspot\/share\/runtime\/signature.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
