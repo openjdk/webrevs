@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286287: Reading file as UTF-16 causes Error which \"shouldn't happen\""},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/String.java"},{"filename":"test\/jdk\/java\/lang\/String\/NewStringNoRepl.java"},{"filename":"test\/jdk\/java\/lang\/StringCoding\/Enormous.java"}],"sha":"0fa7cd388f4428f7ea7ded8cbafed51973b2cfcf"}]
