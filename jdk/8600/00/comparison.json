@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -734,1 +734,1 @@\n-            int size = 0;\n+            long size = 0;\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/PlatformRecording.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
