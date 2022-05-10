@@ -1,0 +1,1 @@
+[{"commit":{"message":"use IsWindowsServer"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"6743b766c3eb9b4bb9d27b5dbab5d54558aab873"},{"commit":{"message":"suppress deprecation warning for GetVersionEx"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"9c06f99aa297552785e488468cea199b43e26fc3"}]
