@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3233,0 +3233,5 @@\n+  if (!is_string_hashcode) {\n+    \/\/ result = vcoef0[0];\n+    movdl(result, vcoef0);\n+  }\n+\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
