@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @summary Check for ability to decode arrays of odd sizes > 16MB\n+ * @summary Check for ability to recode arrays of odd sizes > 16MB\n","filename":"test\/jdk\/java\/lang\/StringCoding\/Enormous.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
