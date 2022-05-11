@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,1 +137,1 @@\n-    private int typeId;\n+    private long typeId;\n@@ -261,1 +261,1 @@\n-        long v = (b & 0x7FL);\n+        int v = (b & 0x7F);\n","filename":"src\/jdk.management.jfr\/share\/classes\/jdk\/management\/jfr\/DiskRepository.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
