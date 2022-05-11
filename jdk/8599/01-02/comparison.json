@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,1 +210,1 @@\n-    Warn about compiler possible lossy conversions.\n+    Warn about possible lossy conversions in compound assignment.\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/javac.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
