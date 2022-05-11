@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix build issues with bundled zlib on macosx"},"files":[{"filename":"make\/autoconf\/lib-bundled.m4"},{"filename":"src\/java.base\/share\/native\/libzip\/zlib\/gzwrite.c"},{"filename":"src\/java.base\/share\/native\/libzip\/zlib\/patches\/ChangeLog_java"}],"sha":"eee12c2500bbab41d07914fdb75e5b754765c0d2"}]
