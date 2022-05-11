@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -267,1 +267,1 @@\n-                case \"iw\" -> \"HEBREW_CHARSET\";\n+                case \"iw\", \"he\" -> \"HEBREW_CHARSET\";\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WFontConfiguration.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
