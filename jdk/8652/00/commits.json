@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286391: Address possibly lossy conversions in jdk.compiler"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassWriter.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Code.java"}],"sha":"aeddff62b89d24fdfce1f3f13d35db357981bd72"}]
