@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -277,1 +277,1 @@\n-    if (_num_pruned > _max_pruned ||\n+    if (_num_pruned >= _max_pruned ||\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSetChooser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
