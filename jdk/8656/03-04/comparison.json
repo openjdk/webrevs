@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,2 +42,0 @@\n-    static final char FIN_BIT = 0b10000000_00000000;\n-    static final char RSV1_BIT = 0b01000000_00000000;\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/websocket\/Frame.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
