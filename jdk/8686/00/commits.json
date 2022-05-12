@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286637: (fc) Memory mapped regions bigger than 2GB do not work correctly on Windows"},"files":[{"filename":"src\/java.base\/windows\/native\/libnio\/ch\/FileChannelImpl.c"},{"filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/LargeMapTest.java"}],"sha":"95f7a0ae3689472d34f24e7e6ca94680954f8b99"}]
