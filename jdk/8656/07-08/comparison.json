@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-        \/\/ is code on 5 bits which means casting to int here is safe: the\n+        \/\/ is coded on 5 bits which means casting to int here is safe: the\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/hpack\/QuickHuffman.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
