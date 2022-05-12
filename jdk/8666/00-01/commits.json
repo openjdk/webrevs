@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286122: [macos]: App bundle cannot upload to Mac App Store due to info.plist embedded in java exe [v2]"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/macosx\/MacAppStoreJlinkOptionsTest.java"},{"filename":"test\/jdk\/tools\/jpackage\/macosx\/MacAppStoreRuntimeTest.java"}],"sha":"c9ebcee1c2d0c53c3de66748cd30af37c56dc442"}]
