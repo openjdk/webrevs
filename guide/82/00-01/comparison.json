@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,5 @@\n+FOUND_GUIDE_CHAPTERS := $(wildcard src\/guide\/*.md)\n+ifneq ($(sort $(FOUND_GUIDE_CHAPTERS)), $(sort $(GUIDE_CHAPTER_FILES)))\n+  $(error \"The guide chapters in src\/guide do not match the chapters in src\/toc.conf\")\n+endif\n+\n","filename":"Makefile","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
