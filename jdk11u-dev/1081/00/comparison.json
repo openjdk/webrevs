@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -545,3 +545,1 @@\n-  # Modern HarfBuzz requires c++11.\n-  HARFBUZZ_CXXFLAGS := -std=c++11\n-\n+  # Modern HarfBuzz requires c++11; but VS does not have the flag\n@@ -549,0 +547,1 @@\n+    HARFBUZZ_CXXFLAGS := -std=c++11\n","filename":"make\/lib\/Awt2dLibraries.gmk","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
