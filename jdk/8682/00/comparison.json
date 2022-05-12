@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -274,1 +274,1 @@\n-\n+  __ authenticate_return_address();\n","filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
