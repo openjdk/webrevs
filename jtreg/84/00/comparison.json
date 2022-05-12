@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,0 +69,1 @@\n+\t\t    -e 's|%BUILD%.images.jtreg.lib.hamcrest[A-Za-z0-9.-]*\\.jar.||g' \\\n","filename":"test\/rerun\/RerunTest.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
