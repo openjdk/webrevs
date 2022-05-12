@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -561,1 +561,1 @@\n-  product(bool, SpecialArraysHashCode, false, DIAGNOSTIC,                    \\\n+  product(bool, SpecialArraysHashCode, true, DIAGNOSTIC,                    \\\n","filename":"src\/hotspot\/share\/opto\/c2_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
