@@ -1,0 +1,1 @@
+[{"commit":{"message":"jib profile - don't explicitly set system zlib for macosx-aarch64"},"files":[{"filename":"make\/conf\/jib-profiles.js"}],"sha":"32fd6a513f8117cfd24910e631fc0fbb005ff001"},{"commit":{"message":"default to bundled zlib on macos aarch64"},"files":[{"filename":"make\/autoconf\/lib-bundled.m4"}],"sha":"16e3fca96fc4ba613e0c73c8a55186e7ff9249d7"}]
