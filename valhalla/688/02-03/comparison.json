@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,1 +161,1 @@\n-                  \"#CK Test#GK #EK { }\\n\"\n+                  \"identity #CK Test#GK #EK { }\\n\"\n","filename":"test\/langtools\/tools\/javap\/TestSuperclass.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
