@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,3 @@\n-system.dmesg.app=dmesg\n+system.dmesg.app=sudo\n+system.dmesg.args=dmesg\n+\n","filename":"test\/failure_handler\/src\/share\/conf\/mac.properties","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
