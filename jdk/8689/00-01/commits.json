@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286671: Rename initIDs() to allocationGranularity0()"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/FileChannelImpl.java"},{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/FileChannelImpl.c"},{"filename":"src\/java.base\/windows\/native\/libnio\/ch\/FileChannelImpl.c"}],"sha":"0c707e41492a682967f522ce03894f87a133a16f"}]
