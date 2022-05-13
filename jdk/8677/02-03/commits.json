@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add precise error for enums with empty parameter lists"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/T8286057.out"}],"sha":"bcbafe97231e17a3829709e6279c9564388121cc"}]
