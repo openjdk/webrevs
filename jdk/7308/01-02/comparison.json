@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -780,0 +780,1 @@\n+        assertCompletion(\"if (s.ch|\", (Boolean) null, \"charAt(\", \"chars()\");\n","filename":"test\/langtools\/jdk\/jshell\/CompletionSuggestionTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
