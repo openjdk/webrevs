@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert change for java.c , parse_manifest.c , LinuxPackage.c"},"files":[{"filename":"src\/java.base\/share\/native\/libjli\/java.c"},{"filename":"src\/java.base\/share\/native\/libjli\/parse_manifest.c"},{"filename":"src\/jdk.jpackage\/linux\/native\/applauncher\/LinuxPackage.c"}],"sha":"d5ef2c631610105548c9d51b08c26c7c60e8c9e8"}]
