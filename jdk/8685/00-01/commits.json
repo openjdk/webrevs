@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use unaligned layout constants when filling in reconstituted structs (was accidentally dropped change)"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/BindingSpecializer.java"}],"sha":"80640bac0e7b56381aa16f0161e8ae71a9a9b438"}]
