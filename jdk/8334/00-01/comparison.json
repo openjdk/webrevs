@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-    jboolean available;    \/* Is the thread in an invocable state? *\/\n+    jboolean available;    \/* Is the thread in an invokable state? *\/\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/invoker.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
