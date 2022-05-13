@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3,0 +3,1 @@\n+ * Copyright (C) 2022 THL A29 Limited, a Tencent company. All rights reserved.\n@@ -481,0 +482,1 @@\n+         cause == GCCause::_codecache_GC_threshold ||\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
