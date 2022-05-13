@@ -1,0 +1,1 @@
+[{"commit":{"message":"copyright year"},"files":[{"filename":"test\/failure_handler\/src\/share\/conf\/mac.properties"}],"sha":"f85acab5bce853b268e9b400416dc083856ac02c"},{"commit":{"message":"8286744: use sudo dmesg on macos for failure handler"},"files":[{"filename":"test\/failure_handler\/src\/share\/conf\/mac.properties"}],"sha":"db538083dfae44f1446032cd8c25ffcfc0964955"}]
