@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use the byte[] address form for testing the client address instead of relying on hostname which\ndoesn't always return localhost for 127.0.0.1 on Windows"},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/HttpClientLocalAddrTest.java"}],"sha":"1584ab9ebb42e8a9cbc3848a9f153f523e8506e7"}]
