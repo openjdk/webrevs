@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-        try (FileChannel fc = FileChannel.open(p, WRITE);) {\n+        try (FileChannel fc = FileChannel.open(p, CREATE, WRITE);) {\n","filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/LargeMapTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
