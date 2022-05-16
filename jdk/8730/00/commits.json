@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272094: compiler\/codecache\/TestStressCodeBuffers.java crashes with \"failed to allocate space for trampoline\""},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"}],"sha":"ae6335a3585307b8c7bea1327398a51017fbec38"}]
