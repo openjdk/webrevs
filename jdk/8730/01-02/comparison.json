@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4860,1 +4860,1 @@\n-  address result;\n+  address result = nullptr;\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
