@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1801,1 +1801,1 @@\n-                                types.isSubtype(types.erasure(seltype),\n+                                types.isSubtype(types.boxedTypeOrType(types.erasure(seltype)),\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
