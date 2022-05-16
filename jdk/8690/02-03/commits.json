@@ -1,0 +1,1 @@
+[{"commit":{"message":"Just do full 512-bit memory accesses when -XX:+UseKNLSetting is set"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp"}],"sha":"014035e2079416043de9fc922456fe20db5353c4"}]
