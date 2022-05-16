@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -634,1 +634,1 @@\n-                        StringUtils.join(cmdArgs, \"\\\" \"), scratchDir, rc);\n+                        StringUtils.join(cmdArgs, \"\\\" \\\"\"), scratchDir, rc);\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/config\/JDK.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
