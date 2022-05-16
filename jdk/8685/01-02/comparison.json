@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-            throw new BootstrapMethodError(e);\n+            throw new ExceptionInInitializerError(e);\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/LinkUpcall.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
