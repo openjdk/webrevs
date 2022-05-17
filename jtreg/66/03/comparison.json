@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,0 +127,1 @@\n+                 && !arch.equals(\"riscv64\")\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/config\/OS.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
