@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-     * DataProvider: valid xsd\n+     * DataProvider: valid xsd strings.\n@@ -79,1 +79,1 @@\n-     * DataProvider: valid xsd\n+     * DataProvider: valid external xsd files.\n","filename":"test\/jaxp\/javax\/xml\/jaxp\/unittest\/validation\/SchemaTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
