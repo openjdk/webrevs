@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-     * @implSpec This implementation retuyrns {@code null}.\n+     * @implSpec This implementation returns {@code null}.\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/source\/doctree\/ValueTree.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
