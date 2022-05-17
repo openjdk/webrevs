@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7654,1 +7654,0 @@\n-\n@@ -7656,0 +7655,1 @@\n+\n@@ -8271,1 +8271,1 @@\n-#ifndef PRODUCT\n+#ifdef ASSERT\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
