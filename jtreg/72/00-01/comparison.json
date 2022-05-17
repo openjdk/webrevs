@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,1 @@\n-\tif [ ! -d $(@D) ] ; then $(MKDIR) -p $(@D) ; fi\n+\t$(MKDIR) -p $(@D)\n","filename":"make\/jtreg.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
