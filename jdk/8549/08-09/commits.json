@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove extra new line"},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"356462a885da945e03d6073abdc260cbfd5a08b4"},{"commit":{"message":"Fix ASGCTMark safety issues"},"files":[{"filename":"src\/hotspot\/share\/prims\/forte.cpp"},{"filename":"src\/hotspot\/share\/prims\/forte.hpp"}],"sha":"217892c3e3ae8231db34445dffc4719ee6562d89"}]
