@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8284944: # assert(cnt++ < 40) failed: infinite cycle in loop optimization"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestMaxLoopOptsCountReached.java"}],"sha":"e50f9442d29524cd7bb8c4ae6f7bd63faa738d5c"}]
