@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8285281\n+ * @bug 8283894\n@@ -31,0 +31,2 @@\n+ * @requires vm.cpu.features ~= \".*bmi1.*\"\n+ * @requires vm.cpu.features ~= \".*sse2.*\"\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestBitShuffleOpers.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
