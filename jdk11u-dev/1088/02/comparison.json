@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-            obj[i] = new byte[10 * 1024 * 1024];\n+            obj[i] = new byte[1024 * 1024];\n","filename":"test\/hotspot\/jtreg\/runtime\/logging\/RedefineClasses.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
