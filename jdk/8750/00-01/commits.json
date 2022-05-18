@@ -1,0 +1,1 @@
+[{"commit":{"message":"use readdir, opendir, closedir from global scope"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"}],"sha":"2229b51dfecef605f5669fa74de8d5bdaafc3d42"}]
