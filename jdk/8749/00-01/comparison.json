@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -747,1 +747,1 @@\n-    SendTrayMessage(NIM_MODIFY);\n+    ModifyTrayIcon();\n@@ -867,1 +867,1 @@\n-    SendTrayMessage(NIM_MODIFY);\n+    ModifyTrayIcon();\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_TrayIcon.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

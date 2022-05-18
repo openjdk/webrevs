@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286872: Replace SendTrayMessage(NIM_MODIFY) with ModifyTrayIcon()"},"files":[{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_TrayIcon.cpp"}],"sha":"67625852803ce734e51cdaa306ea43ea1aa50ad1"}]
