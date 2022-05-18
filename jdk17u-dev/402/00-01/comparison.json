@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1592,0 +1592,2 @@\n+  static void verify_cross_modify_fence_failure(JavaThread *thread) PRODUCT_RETURN;\n+\n","filename":"src\/hotspot\/share\/runtime\/thread.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
