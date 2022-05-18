@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1882,1 +1882,1 @@\n-  BasicType   tag_bt = tag.is_dynamic_constant() ? bt : tag.basic_type();\n+  BasicType   tag_bt = (tag.is_dynamic_constant() || tag.is_dynamic_constant_in_error()) ? bt : tag.basic_type();\n","filename":"src\/hotspot\/share\/oops\/generateOopMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
