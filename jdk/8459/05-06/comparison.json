@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4765,0 +4765,1 @@\n+  andl(dst, 0xff);\n@@ -4801,1 +4802,0 @@\n-\n@@ -4815,0 +4815,1 @@\n+  andq(dst, 0xffL);\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
