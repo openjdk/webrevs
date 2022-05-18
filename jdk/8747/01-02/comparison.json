@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @summary Verify javac behaves properly in absence of zip\/jar FileSystemProvider\n+ * @summary Verify javac behaves properly in JDK image limited to jdk.compiler module\n","filename":"test\/langtools\/tools\/javac\/file\/LimitedImage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
