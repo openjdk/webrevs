@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -516,1 +516,1 @@\n-    this case label has a when constant expression that is false\n+    this case label has a guard that is a constant expression with value false\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
