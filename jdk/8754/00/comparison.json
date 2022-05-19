@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,3 @@\n+  #ifdef _AIX\n+    UpcallContext() {}\n+  #endif\n","filename":"src\/hotspot\/share\/prims\/universalUpcallHandler.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
