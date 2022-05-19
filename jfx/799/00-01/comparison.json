@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,5 +110,0 @@\n-    @AfterClass\n-    public static void cleanupOnce() {\n-        Platform.exit();\n-    }\n-\n","filename":"modules\/javafx.web\/src\/test\/java\/test\/javafx\/scene\/web\/EventListenerLeakTest.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
