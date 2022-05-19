@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -533,1 +533,1 @@\n-\t\t&& $(ZIP) -q $$@ $$(notdir $$($1_DEBUGINFO_FILES))\n+\t\t&& $(ZIP) -q $$@ $$(subst $$($1_OBJECT_DIR)\/,,$$($1_DEBUGINFO_FILES))\n","filename":"make\/common\/NativeCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
