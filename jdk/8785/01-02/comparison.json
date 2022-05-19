@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,1 +194,1 @@\n-  static G1CardSetCoarsenStats _last_coarsen_stats; \/\/ Coarsening statistics before recent GC.\n+  static G1CardSetCoarsenStats _last_coarsen_stats; \/\/ Coarsening statistics before last GC.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardSet.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
