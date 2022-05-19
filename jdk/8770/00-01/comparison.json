@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2168,1 +2168,1 @@\n-        if (in(i)->in(AddPNode::Offset) != base) {\n+        if (in(i)->in(AddPNode::Base) != base) {\n","filename":"src\/hotspot\/share\/opto\/cfgnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
