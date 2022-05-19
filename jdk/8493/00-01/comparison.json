@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1432,3 +1432,0 @@\n-        if ((*env)->ExceptionCheck(env)) {\n-            break;\n-        }\n","filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/awt_GraphicsEnv.c","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
