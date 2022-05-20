@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix WinPerfAsmProfiler init exception when Utils.tryWith return Collections.singleton"},"files":[{"filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/profile\/WinPerfAsmProfiler.java"}],"sha":"9ea06aa287cfdb82f314fd395c76378de2d8185a"}]
