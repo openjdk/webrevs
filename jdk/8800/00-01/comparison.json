@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,0 @@\n-    private static final String JL_CLASSLOADER = \"java\/lang\/ClassLoader\";\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/ProxyGenerator.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
