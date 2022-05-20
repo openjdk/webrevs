@@ -1,0 +1,1 @@
+[{"commit":{"message":"avoid the use of FileChannel.write"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/SharedArchiveConsistency.java"},{"filename":"test\/lib\/jdk\/test\/lib\/cds\/CDSArchiveUtils.java"}],"sha":"752e64a43aba078656b882d1ab7ccbb5047cb631"}]
