@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-            CgroupInfo anyController = infos.get(MEMORY_CTRL);\n+            CgroupInfo anyController = infos.values().iterator().next();\n","filename":"src\/java.base\/linux\/classes\/jdk\/internal\/platform\/CgroupSubsystemFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
