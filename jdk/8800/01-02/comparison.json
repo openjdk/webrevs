@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -601,2 +601,0 @@\n-        mv.visitLabel(L_startBlock);\n-\n@@ -610,0 +608,1 @@\n+        mv.visitLabel(L_startBlock);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/ProxyGenerator.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
