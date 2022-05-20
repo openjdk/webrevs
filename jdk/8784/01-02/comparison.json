@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n- *         \"threads:\": [...],\n+ *         \"threads\": [...],\n","filename":"test\/lib\/jdk\/test\/lib\/threaddump\/ThreadDump.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
