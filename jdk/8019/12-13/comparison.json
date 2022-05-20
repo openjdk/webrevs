@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,1 +217,1 @@\n-    int count_MemBar(Compile *C);\n+    static int count_MemBar(Compile *C);\n","filename":"src\/hotspot\/share\/opto\/macro.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
