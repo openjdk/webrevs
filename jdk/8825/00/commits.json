@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287121: Fix typo in jlink's description resource key lookup"},"files":[{"filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/Main.java"},{"filename":"test\/jdk\/java\/util\/spi\/ToolProviderDescriptionTest.java"}],"sha":"a5107cbf726c4cd7e9c1635627d9f99dc1107673"}]
