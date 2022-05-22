@@ -1,0 +1,1 @@
+[{"commit":{"message":"8176501: Method Shape.getBounds2D() incorrectly includes Bezier control points in bounding box\n\nRenaming \"moveX\"\/\"moveY\" to \"startX\"\/\"startY\" at Laurent's suggestion."},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/geom\/Path2D.java"}],"sha":"88346f4df39e06b51f14c25b59e565b13ea4062a"}]
