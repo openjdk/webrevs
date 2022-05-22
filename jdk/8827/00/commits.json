@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287104: AddressChangeListener thread inherits CCL and can cause memory leak for webapp-servers"},"files":[{"filename":"src\/java.base\/windows\/classes\/sun\/net\/dns\/ResolverConfigurationImpl.java"}],"sha":"e4b71f6b8540652be3cb055177240f1619402db0"}]
