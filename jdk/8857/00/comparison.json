@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,0 +298,1 @@\n+    jboolean success = JNI_FALSE;\n@@ -568,0 +569,1 @@\n+    success = JNI_TRUE;\n@@ -572,0 +574,3 @@\n+    if (success != JNI_TRUE) {\n+        free(graphicsConfigs);\n+    }\n","filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/awt_GraphicsEnv.c","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
