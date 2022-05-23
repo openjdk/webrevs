@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n- * a tool may be a the target of multiple {@code run} method invocations,\n+ * a tool may be the target of multiple {@code run} method invocations,\n","filename":"src\/java.base\/share\/classes\/java\/util\/spi\/ToolProvider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
