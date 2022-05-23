@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only invoke initOwner, initGroup, and initPermissions when supportsPosix is true"},"files":[{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"}],"sha":"eb6e3f8e8d87d16331d41b854637f4713a0e9f70"}]
