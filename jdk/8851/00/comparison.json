@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,1 +139,1 @@\n-    if (exp > 63) {\n+    if (exp > LP64_ONLY(63) NOT_LP64(31)) {\n@@ -142,1 +142,3 @@\n-    return (intx)(v);\n+    intx r = (intx)(v);\n+    assert(r >= 0, \"must be\");\n+    return r;\n","filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
