@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,1 @@\n-                    ImageIO.getImageReadersByFormatName(\"BMP\").next();\n+                    ImageIO.getImageReadersByFormatName(format).next();\n","filename":"test\/jdk\/javax\/imageio\/plugins\/shared\/CanDecodeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
