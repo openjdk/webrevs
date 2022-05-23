@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,1 +139,2 @@\n-    if (exp > LP64_ONLY(63) NOT_LP64(31)) {\n+    int max_exp = sizeof(intx) * BitsPerByte - 1;\n+    if (exp > max_exp) {\n","filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
