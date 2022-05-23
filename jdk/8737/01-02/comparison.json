@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-  * @build InvokeCloneValid InvokeCloneInvalid VerifyObjArrayCloneTestApp\n+ * @build InvokeCloneValid InvokeCloneInvalid VerifyObjArrayCloneTestApp\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/VerifyObjArrayCloneTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
