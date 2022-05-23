@@ -1,0 +1,1 @@
+[{"commit":{"message":"Extend SelfDestructTimer to accept fractional minutes"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/vmThread.cpp"}],"sha":"4c2b4deb039c5f8eae63f60d505eaf49f3ef1d67"}]
