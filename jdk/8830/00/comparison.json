@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,0 +92,4 @@\n+            if(table != null)\n+            {\n+                header = table.getTableHeader();\n+            }\n","filename":"src\/java.desktop\/windows\/classes\/com\/sun\/java\/swing\/plaf\/windows\/WindowsTableHeaderUI.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
