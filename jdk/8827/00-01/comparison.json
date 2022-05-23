@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -202,1 +202,1 @@\n-        String name = \"Net-address-change-listener\";\n+        String name = \"Jndi-Dns-address-change-listener\";\n","filename":"src\/java.base\/windows\/classes\/sun\/net\/dns\/ResolverConfigurationImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
