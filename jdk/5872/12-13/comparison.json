@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,0 @@\n-     *             notice that this param input MUST be equal or less than {@link #MAX_SKIP_BUFFER_SIZE MAX_SKIP_BUFFER_SIZE}.\n","filename":"src\/java.base\/share\/classes\/java\/io\/InputStream.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
