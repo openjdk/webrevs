@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277756: DatePicker listener are now always added regardless of which constructor was used"},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/DatePicker.java"},{"filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/DatePickerTest.java"}],"sha":"74ad0cc822fc1ed30dfbc771f0aaa85b1c3e6a0c"}]
