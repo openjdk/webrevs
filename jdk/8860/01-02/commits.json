@@ -1,0 +1,1 @@
+[{"commit":{"message":"roll back changes that are not needed to reproduce JVMTI problem with CLEARING_MASK"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/VThreadTest\/libVThreadTest.cpp"}],"sha":"f4ec32ef89fef5b2b0268d14c9330bac7c70da91"}]
