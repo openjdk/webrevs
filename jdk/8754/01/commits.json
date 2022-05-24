@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove AIX-specific macro"},"files":[{"filename":"src\/hotspot\/share\/prims\/universalUpcallHandler.cpp"}],"sha":"5dd935837616e43233991641c67f4c27246432ee"},{"commit":{"message":"XL C compiler bug workaround"},"files":[{"filename":"src\/hotspot\/share\/prims\/universalUpcallHandler.cpp"}],"sha":"060739586d16ccda384c856500a4ce7e7198607e"}]
