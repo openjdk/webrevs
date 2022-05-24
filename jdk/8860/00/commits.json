@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286490: JvmtiEventControllerPrivate::set_event_callbacks CLEARING_MASK computation is incorrect"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp"}],"sha":"d77b8dcb748246a81ac90d967132f74f2bb8f38a"}]
