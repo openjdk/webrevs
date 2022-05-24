@@ -1,0 +1,1 @@
+[{"commit":{"message":"8222799: java.beans.Introspector uses an obsolete methods cache\n\nReviewed-by: prr"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/beans\/Introspector.java"},{"filename":"src\/java.desktop\/share\/classes\/java\/beans\/ThreadGroupContext.java"}],"sha":"11652aa17e26462d30b5fec1e0511310079cc6fa"}]
