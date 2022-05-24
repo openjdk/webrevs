@@ -1,0 +1,1 @@
+[{"commit":{"message":"rename function skipBufferReference to skipBuffer"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/InputStream.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/io\/InputStreamSkipBenchmark.java"}],"sha":"580a542cb0364987eb6d37edc0acebaee62e7b28"}]
