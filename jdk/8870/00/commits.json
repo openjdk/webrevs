@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check for required DSA parameters instead of letting KeyFactory provider do it."},"files":[{"filename":"src\/java.xml.crypto\/share\/classes\/org\/jcp\/xml\/dsig\/internal\/dom\/DOMKeyValue.java"}],"sha":"e53e205cf8d57e0e1bd171cc837bba4c20859dc1"}]
