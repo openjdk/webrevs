@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,1 +142,1 @@\n-        synchronized(lock) {\n+        synchronized (lock) {\n","filename":"jdk\/src\/share\/classes\/java\/lang\/Shutdown.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
