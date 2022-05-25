@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,0 @@\n-        f.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);\n","filename":"test\/jdk\/javax\/swing\/JTable\/PrintAllPagesTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
