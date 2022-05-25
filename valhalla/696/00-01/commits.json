@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add Objects.requireIdentity(obj, Supplier<String> supplier);\nupdate copyright"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Objects.java"},{"filename":"test\/jdk\/valhalla\/valuetypes\/WeakReferenceTest.java"}],"sha":"0785a81fee0508db005c6151b63636680bc280c7"}]
