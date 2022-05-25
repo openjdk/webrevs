@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -13,1 +13,1 @@\n-        default: \"Linux additional (hotspot only), Linux x64, Linux x86, Windows x64, macOS x64\"\n+        default: \"Linux additional (hotspot only), Linux x64, Linux x86, Windows x64, macOS x64, macOS aarch64\"\n","filename":".github\/workflows\/submit.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
