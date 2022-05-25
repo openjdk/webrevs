@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286960: Test serviceability\/jvmti\/vthread\/SuspendResume2 crashed: missing ThreadsListHandle in calling context"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"f894c659edfc77a54525adbd840002434a20427e"}]
