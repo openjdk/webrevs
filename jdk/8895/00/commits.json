@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287003: InputStreamReader::read() can return zero despite writing a char in the buffer"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/StreamDecoder.java"},{"filename":"test\/jdk\/java\/io\/InputStreamReader\/ReadCharBuffer.java"}],"sha":"f334868f22d94df6a7376e51261e95257ae31424"}]
