@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286045: Use ForceGC for cleaner test cases"},"files":[{"filename":"test\/jdk\/javax\/security\/auth\/callback\/PasswordCallback\/CheckCleanerBound.java"},{"filename":"test\/jdk\/sun\/security\/jgss\/GssContextCleanup.java"},{"filename":"test\/jdk\/sun\/security\/jgss\/GssNameCleanup.java"}],"sha":"947860d786b882f280e61628f31d0e88ecbc28a4"}]
