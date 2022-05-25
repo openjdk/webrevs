@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -283,0 +283,1 @@\n+                    static {\n@@ -293,1 +294,0 @@\n-            out.println(\"    static {\");\n","filename":"make\/jdk\/src\/classes\/build\/tools\/cldrconverter\/ResourceBundleGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
