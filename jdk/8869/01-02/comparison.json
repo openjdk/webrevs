@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -273,1 +273,1 @@\n-      while (index > 0 && --index >= limit) {\n+      while (index-- > limit) {\n","filename":"src\/hotspot\/share\/utilities\/bitMap.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
