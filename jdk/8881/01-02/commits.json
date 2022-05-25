@@ -1,0 +1,1 @@
+[{"commit":{"message":"Missed correctly taking b1 into account in of(byte, int, int...) (java\/lang\/String\/concat\/ImplicitStringConcatShapes.java test failure)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/LambdaFormEditor.java"}],"sha":"612b4eceb891008e0475e08116e230a49f36d6e7"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -207,1 +207,1 @@\n-            long packedBytes = packedBytes(kind, b234);\n+            long packedBytes = packedBytes(kind, b1, b234);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/LambdaFormEditor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
