@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -294,1 +294,1 @@\n-  inline bool HeapRegion::is_marked_in_bitmap(oop obj) const;\n+  inline bool is_marked_in_bitmap(oop obj) const;\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
