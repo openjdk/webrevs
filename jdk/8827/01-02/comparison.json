@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-    private static volatile boolean changed = true;\n+    private static boolean changed = true;\n","filename":"src\/java.base\/windows\/classes\/sun\/net\/dns\/ResolverConfigurationImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
