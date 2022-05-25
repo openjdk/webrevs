@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -411,4 +411,0 @@\n-    private String packageName(PackageElement pkg, Utils utils) {\n-        return utils.getPackageName(pkg);\n-    }\n-\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/taglets\/SnippetTaglet.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
