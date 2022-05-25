@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3945,1 +3945,1 @@\n-\/\/        shutdown hooks, run finalizers if finalization-on-exit\n+\/\/        shutdown hooks\n","filename":"hotspot\/src\/share\/vm\/runtime\/thread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
