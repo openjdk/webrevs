@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1861,1 +1861,3 @@\n-  _unstable_ifs.append(trap);\n+  if (AggressiveLivenessForUnstableIf) {\n+    _unstable_ifs.append(trap);\n+  }\n@@ -1892,0 +1894,3 @@\n+  if (!AggressiveLivenessForUnstableIf)\n+    return;\n+\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":6,"deletions":1,"binary":false,"changes":7,"status":"modified"}]}
