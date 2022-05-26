@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -742,1 +742,1 @@\n-        \/\/ This flag is needed so VirtualThread.allThreads() includes known vthreads.\n+        \/\/ This flag is needed so VirtualMachine.allThreads() includes known vthreads.\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/jdi\/Binder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
