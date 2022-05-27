@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,0 @@\n-import java.lang.invoke.MethodHandle;\n","filename":"test\/hotspot\/jtreg\/compiler\/jsr292\/NullConstantMHReceiver.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
