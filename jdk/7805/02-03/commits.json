@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use small icon pointer for icons less than 24 pixels wide - this way we\nget the 16x16 icon which is better for scaling purposes."},"files":[{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/ShellFolder2.cpp"}],"sha":"b6e099b81338b5f9914eaf46767cfea2d4289da4"}]
