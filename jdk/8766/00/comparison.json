@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -361,1 +361,1 @@\n- * different regions parts of that shared state cycle. This strategy is\n+ * different regions of that shared state cycle. This strategy is\n","filename":"src\/java.base\/share\/classes\/java\/util\/random\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
