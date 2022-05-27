@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,2 +56,1 @@\n-\n-         if (it->second && it->second->use_count() > 1)\n+         else if (it->second && it->second->use_count() > 1)\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/bindings\/java\/EventListenerManager.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
