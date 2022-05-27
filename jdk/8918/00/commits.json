@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287433: [PPC64] g1_write_barrier_pre needs extension for Loom"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/gc\/g1\/g1BarrierSetAssembler_ppc.cpp"}],"sha":"c5cd99b934f0a829112238eded8f428c393c61e5"}]
