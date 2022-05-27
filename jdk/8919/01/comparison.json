@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -415,0 +415,1 @@\n+#if defined(AMD64) || defined(AARCH64)\n@@ -416,0 +417,3 @@\n+#else\n+  return false;\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/continuation.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
