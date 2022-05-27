@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287437: Temporarily disable Continuations::enabled() for platforms which don't have an implementation, yet"},"files":[{"filename":"src\/hotspot\/share\/runtime\/continuation.cpp"}],"sha":"64556dda6d337056db0f3adc2f5a6bf1d7c4db4b"}]

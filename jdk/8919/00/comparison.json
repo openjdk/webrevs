@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -415,0 +415,3 @@\n+#if defined(PPC64) || defined(S390) || defined(RISCV) || defined(ARM32) || defined(IA32)\n+  return false;\n+#else\n@@ -416,0 +419,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/continuation.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
