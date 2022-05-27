@@ -1,0 +1,1 @@
+[{"commit":{"message":"Send empty ticket when resuming TLS1.3"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SessionTicketExtension.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/SSLSession\/ResumeTLS13withSNI.java"}],"sha":"258930f5543cf0525ca271e667c02bbf5f4c055c"}]
