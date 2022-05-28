@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'upstream\/master' into JDK-8287363"},"files":[],"sha":"e1e00e7a433aa79d8ae43208b5e60eb80e226a68"},{"commit":{"message":"8287363: null pointer should use NULL instead of 0"},"files":[{"filename":"src\/java.base\/unix\/native\/libjli\/java_md_common.c"}],"sha":"f29af59ea16e5238f25f0ed1f2606c24b7cee039"}]
