@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8287349: Merge LDR instructions to improve C1 OSR performance"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRAssembler_aarch64.cpp"}],"sha":"b4b8a9421c7409809c4049bfdeec53aeaaca6249"}]
