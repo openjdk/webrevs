@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -848,0 +848,1 @@\n+        outStream_destroy(&out);\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/invoker.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
