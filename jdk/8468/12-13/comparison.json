@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1225,1 +1225,0 @@\n-  void dump_format(PhaseRegAlloc *ra) const; \/\/ debug access to MachNode::format(...)\n","filename":"src\/hotspot\/share\/opto\/node.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
