@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+ * @requires vm.bits == 64\n","filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/LargeMapTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
