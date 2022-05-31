@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1154,0 +1154,2 @@\n+The actual size may be rounded up to a multiple of the system page size as\n+required by the operating system.\n","filename":"src\/java.base\/share\/man\/java.1","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
