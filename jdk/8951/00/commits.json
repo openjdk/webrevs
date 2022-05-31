@@ -1,0 +1,1 @@
+[{"commit":{"message":"Enhance interpreter stack bang\n\nAlign sp to page boundary when set to growth watermark."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/templateInterpreterGenerator_x86.cpp"}],"sha":"a3a1e0e79a357ea3a5614c8121dc078c4343bda3"}]
