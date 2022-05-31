@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -188,1 +188,1 @@\n-            String ext = getFileExtension(fname.substring(0, hashIndex - 1));\n+            String ext = getFileExtension(fname.substring(0, hashIndex));\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/MimeTable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
