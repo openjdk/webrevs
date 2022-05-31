@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -228,1 +228,1 @@\n-Track all threads as they are created, including Virtual Threads.\n+Track all threads as they are created, including virtual threads.\n","filename":"src\/jdk.jdi\/share\/man\/jdb.1","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
