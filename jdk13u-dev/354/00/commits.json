@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 6afcf5f5a243be10e2ec61229819c298ccce3267"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestRenumberLiveNodesInfiniteLoop.java"}],"sha":"025b483760a2781c0a300651edf580fff9ebd595"}]
