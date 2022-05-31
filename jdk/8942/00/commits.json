@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Replace uses of StringBuffer with StringBuilder in java.naming"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/LdapName.java"},{"filename":"src\/java.naming\/share\/classes\/javax\/naming\/NameImpl.java"}],"sha":"4f34fd898a6b1e47295716d31cdd479e2ef53e8f"}]
