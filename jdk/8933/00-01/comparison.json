@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -285,2 +285,1 @@\n-      __ ldr(r19, Address(OSR_buf, slot_offset + 0));\n-      __ ldr(r20, Address(OSR_buf, slot_offset + 1*BytesPerWord));\n+      __ ldp(r19, r20, Address(OSR_buf, slot_offset));\n","filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRAssembler_aarch64.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
