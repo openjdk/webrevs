@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,2 @@\n-        int month = time.getMonth();\n+        \/\/ Add 1 since getMonth() starts from 0.\t\n+        int month = time.getMonth() + 1;\n@@ -64,1 +65,0 @@\n-\n","filename":"test\/jdk\/java\/util\/TimeZone\/CustomTzIDCheckDST.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
