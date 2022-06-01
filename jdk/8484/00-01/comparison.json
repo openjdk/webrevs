@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,2 +158,1 @@\n-                assert cached == null;\n-                return cached;\n+                return null;\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/http\/AuthenticationInfo.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}

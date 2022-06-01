@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287390: Cleanup Map usage in AuthenticationInfo.requestAuthentication\nremove obvious assert"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/http\/AuthenticationInfo.java"}],"sha":"f850d61f8696dc36ac568a8e0484641ba9620b7c"}]
