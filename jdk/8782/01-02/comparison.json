@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -841,1 +841,1 @@\n-    log_warning(os)(\"Failed to load hsdis library: %s\", buf);\n+    log_warning(os)(\"Try to load hsdis library failed\");\n","filename":"src\/hotspot\/share\/compiler\/disassembler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
