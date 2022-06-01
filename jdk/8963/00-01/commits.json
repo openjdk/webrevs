@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287097: Ignore SecurityException when attemping to write POSIX permissions"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/file\/CopyMoveHelper.java"}],"sha":"80961915b339fb3bf39acf120e25c363aff16afc"}]
