@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only check the Skara generated part. Adjust log. Avoid adding marker multiple times."},"files":[{"filename":"bots\/csr\/src\/main\/java\/org\/openjdk\/skara\/bots\/csr\/CSRBot.java"},{"filename":"bots\/csr\/src\/test\/java\/org\/openjdk\/skara\/bots\/csr\/CSRBotTests.java"}],"sha":"8ce8880ff2a6aee484bcb3140c91dde7dc020a1a"}]
