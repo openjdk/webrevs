@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,0 @@\n-    private String DATE = \"2021-01-06T14:36:00+02:00\";\n@@ -116,1 +115,0 @@\n-        Collections.addAll(args, \"--date\", DATE);\n","filename":"test\/jdk\/tools\/jmod\/hashes\/HashesOrderTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
