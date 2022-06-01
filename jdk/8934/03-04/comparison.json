@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,1 +176,1 @@\n-    \/\/ call an method returning an object checking for exceptions and\n+    \/\/ call a method returning an object checking for exceptions and\n","filename":"test\/jdk\/jni\/nullCaller\/CallHelper.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
