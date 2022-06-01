@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Avoid redundant Hashtable.containsKey call in JarVerifier"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarVerifier.java"}],"sha":"e293a2b09e960e58c67ecc1e60fb0eb5bda2945b"}]
