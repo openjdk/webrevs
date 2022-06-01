@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287600: AA Ovals not rendered under metal\n\nCommit command buffer after MTL_OP_MASK_OP operation"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLRenderQueue.m"}],"sha":"66c656f35a14e6cf014f8d0d760219c0e0eddea4"}]
