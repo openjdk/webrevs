@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287580: (se) CancelledKeyException during channel registration"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/SelectorImpl.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Selector\/KeyCancelled.java"}],"sha":"a379cdd27807f001f66b297f7af097fdbd27f434"}]
