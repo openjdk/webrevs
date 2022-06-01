@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,1 +113,2 @@\n-    jdk\/modules\n+    jdk\/modules \\\n+    jni\/nullCaller\n@@ -317,2 +318,1 @@\n-    lib\/testlibrary \\\n-    jni\/nullCaller\n+    lib\/testlibrary\n","filename":"test\/jdk\/TEST.groups","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
