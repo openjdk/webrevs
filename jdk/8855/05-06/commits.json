@@ -1,0 +1,1 @@
+[{"commit":{"message":"We now don't need big Species classes for shorter concats, so on some tests the improvements meant more Species class generation. Adjusting HelloClasslist"},"files":[{"filename":"make\/jdk\/src\/classes\/build\/tools\/classlist\/HelloClasslist.java"}],"sha":"aaa442d573bd6c7b07ef68b3c67a1b33300b0452"}]
