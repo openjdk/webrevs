@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1736,1 +1736,5 @@\n-      _control = _memory = _data = _mixed = _other = true;\n+      _control = true;\n+      _memory = true;\n+      _data = true;\n+      _mixed = true;\n+      _other = true;\n","filename":"src\/hotspot\/share\/opto\/node.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
