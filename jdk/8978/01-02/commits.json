@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287580: Revert change to AbstractSelectableChannel; reduce iterations in test"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/spi\/AbstractSelectableChannel.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Selector\/KeyCancelled.java"}],"sha":"98bcd22e8ba60c7499fab332f943616bb88b03f5"}]
