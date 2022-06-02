@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disallow handshaking with self"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExtensions.cpp"},{"filename":"src\/hotspot\/share\/runtime\/handshake.cpp"},{"filename":"src\/hotspot\/share\/runtime\/handshake.hpp"}],"sha":"14bee58cfb858aa6340422292dc34ad0c049c960"}]
