@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -663,1 +663,1 @@\n-sun\/security\/ssl\/SSLSessionImpl\/NoInvalidateSocketException.java 8277970 linux-all,macosx-x64\n+sun\/security\/ssl\/SSLSessionImpl\/NoInvalidateSocketException.java 8277970,8280158 generic-all\n","filename":"test\/jdk\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
