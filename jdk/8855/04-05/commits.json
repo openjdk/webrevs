@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clarify that consts are always reduced to null, even if calling with constants. Also clarify that the number of constants is paramCount + 1 by refactoring to an array"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/StringConcatFactory.java"}],"sha":"444cdd395c6572bb12ce4d5cb6f98be4facd50d9"}]
