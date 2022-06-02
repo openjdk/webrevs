@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287740 NSAccessibilityShowMenuAction not working for text editors"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/a11y\/CommonComponentAccessibility.m"},{"filename":"test\/jdk\/java\/awt\/a11y\/AccessibleActionsTest.java"}],"sha":"50601c1202c881cb130ba9cd1a4923d1294ec7dc"}]
