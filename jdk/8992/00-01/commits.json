@@ -1,0 +1,1 @@
+[{"commit":{"message":"Call do_thread if handshaking with current thread as target"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExtensions.cpp"},{"filename":"src\/hotspot\/share\/runtime\/handshake.cpp"},{"filename":"src\/hotspot\/share\/runtime\/handshake.hpp"}],"sha":"b7b4c086aa070e3a640f4e8c7a2ce9a2c5de6bbd"}]
