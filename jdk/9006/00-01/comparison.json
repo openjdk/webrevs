@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,1 +190,1 @@\n-        checkOutput(Output.OUT, true,expect.message);\n+        checkOutput(Output.OUT, true, expect.message);\n","filename":"test\/langtools\/jdk\/javadoc\/doclet\/testDoclintDocletMessages\/TestDocLintDocletMessages.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
