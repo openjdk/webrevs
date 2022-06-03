@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,2 +29,0 @@\n-* @requires (os.simpleArch == \"x64\" & vm.cpu.features ~= \".*avx2.*\") |\n-*           (os.simpleArch == \"aarch64\" & vm.cpu.features ~= \".*sve.*\")\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/cr8287517.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
