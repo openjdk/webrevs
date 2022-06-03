@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8287671: Adjust ForceGC to invoke System::gc fewer times for negative case"},"files":[{"filename":"test\/lib\/jdk\/test\/lib\/util\/ForceGC.java"}],"sha":"b7307c935032294654e9b4eb419e7d2191c2a798"}]
