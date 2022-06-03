@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -355,0 +355,5 @@\n+  if (self->is_handshake_safe_for(target)) {\n+    hs_cl->do_thread(self);\n+    return;\n+  }\n+\n","filename":"src\/hotspot\/share\/runtime\/handshake.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
