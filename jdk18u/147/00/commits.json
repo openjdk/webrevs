@@ -1,0 +1,1 @@
+[{"commit":{"message":"8285515: (dc) DatagramChannel.disconnect fails with \"Invalid argument\" on macOS 12.4 beta2"},"files":[{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/DatagramChannelImpl.c"},{"filename":"test\/jdk\/java\/nio\/channels\/DatagramChannel\/Disconnect.java"}],"sha":"1c818f5c210ebfa868333241f1ac521de24ad8d4"}]
