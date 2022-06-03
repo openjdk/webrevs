@@ -1,0 +1,1 @@
+[{"commit":{"message":"Re-add skipping of scanning for remembered sets if unnecessary"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentRebuildAndScrub.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentRebuildAndScrub.hpp"}],"sha":"5f497f3d4e2ac0d4cd6b4060a95f858d8de594c4"}]
