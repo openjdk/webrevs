@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286160: (fs) Files.exists returns unexpected results with C:\\pagefile.sys because it's not readable"},"files":[{"filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsFileSystemProvider.java"},{"filename":"test\/jdk\/java\/nio\/file\/Files\/Misc.java"}],"sha":"5082b94d4b169e27c24d34cd8f8e52e948a351a2"}]
