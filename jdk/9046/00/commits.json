@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287869: -XX:+AutoCreateSharedArchive doesn't work when JDK build is switched"},"files":[{"filename":"src\/hotspot\/share\/cds\/filemap.cpp"},{"filename":"src\/hotspot\/share\/include\/cds.h"}],"sha":"8eded2fa27b3d6c843caac46d2a069e8e8c1e19a"}]
