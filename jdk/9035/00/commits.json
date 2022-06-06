@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update copyright year."},"files":[{"filename":"src\/hotspot\/share\/opto\/node.cpp"}],"sha":"45b7d84669e8a334eb527c42a57e899772ce5da5"},{"commit":{"message":"8287840: Dead copy region node blocks IfNode's fold-compares"},"files":[{"filename":"src\/hotspot\/share\/opto\/node.cpp"}],"sha":"4d5c587a7ae0757fea26bed97fab25f126410b71"}]
