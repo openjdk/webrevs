@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,1 @@\n-tier1 = .\n+exclusiveAccess.dirs=.\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TEST.properties","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"test\/lib-test\/TEST.groups","status":"copied"}]}
