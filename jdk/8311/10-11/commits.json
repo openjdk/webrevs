@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore EnumCtx to being an inner class, to keep all the state together in the code"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/AbstractLdapNamingEnumeration.java"}],"sha":"c8bdac443da1293bf2c437cc9946271556502341"}]
