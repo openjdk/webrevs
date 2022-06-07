@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287894: use fixed timestamp instead of __DATE__ macro to fix reproducible Windows build"},"files":[{"filename":"make\/modules\/jdk.jdi\/Lib.gmk"},{"filename":"src\/jdk.jdi\/share\/native\/libdt_shmem\/shmemBase.h"},{"filename":"src\/jdk.jdi\/windows\/native\/libdt_shmem\/shmem_md.c"}],"sha":"4a76f38c93db7299b60fe9978a315b9588c105ad"}]
