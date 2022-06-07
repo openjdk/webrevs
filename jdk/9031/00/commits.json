@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Avoid redundant HashMap.containsKey call in EnvHelp.mapToHashtable"},"files":[{"filename":"src\/java.management\/share\/classes\/com\/sun\/jmx\/remote\/util\/EnvHelp.java"}],"sha":"c6a9548635d3d85fdfc7e9088e634e6070a96515"}]
