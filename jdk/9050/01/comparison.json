@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,4 @@\n+compiler\/c2\/irTests\/TestSkeletonPredicates.java 8286361 generic-all\n+\n+vmTestbase\/nsk\/jvmti\/AttachOnDemand\/attach022\/TestDescription.java 8277573 generic-all\n+\n","filename":"test\/hotspot\/jtreg\/ProblemList-Xcomp.txt","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
