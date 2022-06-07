@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,1 +181,1 @@\n-                        mres.withDoNotResolveByDefault();\n+                        mres = mres.withDoNotResolveByDefault();\n","filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/GNUStyleOptions.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
