@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,0 +48,3 @@\n+        if (baseName.equals(\"UnreadableRB\") && System.getProperty(\"os.name\").startsWith(\"Windows\")) {\n+            return;\n+        }\n","filename":"test\/jdk\/java\/util\/ResourceBundle\/Control\/MissingResourceCauseTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
