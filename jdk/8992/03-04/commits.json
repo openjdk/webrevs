@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused variable"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvThreadState.cpp"}],"sha":"c476d3001e3d7081624563f963984f8221f64218"},{"commit":{"message":"Use current instead of self as name for current thread"},"files":[{"filename":"src\/hotspot\/share\/runtime\/handshake.cpp"}],"sha":"d4aea87a13974f55578ea4cafe003856c996270c"}]
