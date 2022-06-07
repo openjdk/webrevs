@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-  Windows*|CYGWIN*)\n+  Windows*|CYGWIN*|MSYS*|MINGW*)\n","filename":"test\/langtools\/tools\/javac\/Paths\/Util.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
