@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 0c42e43f77b91a50fedc3fddb74e17f910d8df2a"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/random\/RandomSupport.java"},{"filename":"test\/jdk\/java\/util\/Random\/RandomNextDoubleBoundary.java"}],"sha":"edc3e7b8b43f07b52555ff58ba1acc1be2c5aa13"}]
