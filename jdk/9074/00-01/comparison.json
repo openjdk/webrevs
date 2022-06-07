@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-#define __ _masm.\n+#define __ masm.\n","filename":"src\/hotspot\/cpu\/aarch64\/compiledIC_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
