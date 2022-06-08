@@ -1,0 +1,1 @@
+[{"commit":{"message":"8247907: XMLDsig logging does not work"},"files":[{"filename":"src\/java.base\/share\/lib\/security\/default.policy"},{"filename":"src\/java.xml.crypto\/share\/classes\/com\/sun\/org\/slf4j\/internal\/Logger.java"},{"filename":"test\/jdk\/javax\/xml\/crypto\/dsig\/LogParameters.java"}],"sha":"0d9c068fbe9f00d027e75d395015502940f17787"}]
