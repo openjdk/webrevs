@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288082: Build failure due to __clang_major__ is not defined after JDK-8214976"},"files":[{"filename":"src\/hotspot\/share\/utilities\/compilerWarnings_gcc.hpp"}],"sha":"d8ca4f500f4e4912d4b8797360f3d873fd287f0c"}]
