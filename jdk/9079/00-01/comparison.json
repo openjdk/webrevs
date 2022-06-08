@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,0 +88,2 @@\n+      case Op_PopCountVI:\n+      case Op_PopCountVL:\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
