@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1345,1 +1345,1 @@\n-    log_debug(gc, ergo, heap)(\"Did not expand the heap (heap shrinking operation failed)\");\n+    log_debug(gc, ergo, heap)(\"Did not shrink the heap (heap shrinking operation failed)\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
