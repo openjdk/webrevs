@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287980: Build is broken due to SuperWordMaxVectorSize when C2 is disabled after JDK-8287697"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"5fc097ee2ba56d13684968577f2ad0c079358018"}]
