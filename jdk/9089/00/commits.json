@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Avoid redundant HashMap.containsKey call in Type1Font.expandAbbreviation"},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/font\/Type1Font.java"}],"sha":"6f4fe0ef4362ea9104ee7c3eb756cfcdb6210c50"}]
