@@ -1,0 +1,1 @@
+[{"commit":{"message":"disable Op_PopCountV* in op_vec_supported"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"958f10425209c13c307a64e1ed54a0a47164a276"},{"commit":{"message":"remove C2 instruction vpopcountI"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"6a05b12cda5022dceb5552533f0c3bfc03e3065c"}]
