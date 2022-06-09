@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -552,1 +552,1 @@\n-#ifndef PRODUCT\n+#ifdef ASSERT\n@@ -559,1 +559,1 @@\n-#ifndef PRODUCT\n+#ifdef ASSERT\n","filename":"src\/hotspot\/cpu\/aarch64\/nativeInst_aarch64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
