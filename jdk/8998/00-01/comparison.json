@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -14117,1 +14117,1 @@\n-      case T_DOUBLE:\n+      case T_LONG:\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
