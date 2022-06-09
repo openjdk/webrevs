@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -668,1 +668,1 @@\n-  \/\/ buffer content: [contants + code_align] + [code + stubs_align] + [stubs]\n+  \/\/ buffer content: [constants + code_align] + [code + stubs_align] + [stubs]\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCodeInstaller.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
