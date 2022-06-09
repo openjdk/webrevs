@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -777,1 +777,1 @@\n-     JDKHOME=\"${JAVA_HOME}\"                                   \\\n+     JDKHOME=\"$(mixed_path ${JAVA_HOME})\"                     \\\n","filename":"make\/build.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
