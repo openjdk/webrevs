@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n-  static const char *dll_path(void* lib); \n+  static const char *dll_path(void* lib);\n","filename":"src\/hotspot\/os\/linux\/os_linux.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
