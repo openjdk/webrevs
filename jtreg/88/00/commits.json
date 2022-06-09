@@ -1,0 +1,1 @@
+[{"commit":{"message":"7903206: Support MSYS2 for building jtreg on Windows\n\nReviewed-by: ihse, jjg\n\n(cherry picked from commit d60381de853f9e17d358b6a5c745be595f71e5c9)"},"files":[{"filename":"make\/Defs.gmk"},{"filename":"make\/build-support\/build-common.sh"},{"filename":"make\/build.sh"}],"sha":"0b10dbfdea0c169f813f89c0a87a924ca91c9f2b"}]
