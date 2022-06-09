@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix opto assembly in integer mod patterns."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"}],"sha":"7fe1cbd39f4afcc32d4dd4263466635874c3a419"},{"commit":{"message":"8287926: AArch64: Unsigned div and mod instructions"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"}],"sha":"9af63d080f9b363cc535008ba0857e587abce755"}]
