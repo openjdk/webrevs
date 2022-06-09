@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -279,1 +279,1 @@\n-     * @since 19\n+     * @since 20\n@@ -320,1 +320,1 @@\n-     * @since 19\n+     * @since 20\n@@ -365,1 +365,1 @@\n-     * @since 19\n+     * @since 20\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/Path.java","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
