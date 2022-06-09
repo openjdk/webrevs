@@ -1,0 +1,1 @@
+[{"commit":{"message":"delete assert(false, \"not supported: %s\", type2name(bt))"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"}],"sha":"bbc65c8ef76ff4fac9d82333e05354dba3d47c60"}]
