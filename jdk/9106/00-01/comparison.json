@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,1 +112,1 @@\n-        int actualTotal = result.split(\"Concurrent refinement threads times\").length - 1;\n+        int actualTotal = result.split(\"Current rem set statistics\").length - 1;\n","filename":"test\/hotspot\/jtreg\/gc\/g1\/TestRemsetLoggingTools.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
