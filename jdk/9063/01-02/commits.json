@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use Java 11 to build jtreg. Also temporarily switch out jtreg source ref to PR that fixes build on msys2. (This will be updated once the fix is in an official jtreg release.)"},"files":[{"filename":".github\/actions\/get-jtreg\/action.yml"}],"sha":"220f9209bfb7931bdb1dbb0f77c7457b199cbcf0"}]
