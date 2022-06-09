@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change Dictionary verification to use keep_alive peeking of the _class_loader"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.hpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.inline.hpp"},{"filename":"src\/hotspot\/share\/classfile\/dictionary.cpp"}],"sha":"c67021eb8bbc23782d7ca295c099581e0aab7ea2"}]
