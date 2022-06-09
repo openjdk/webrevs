@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,2 +52,2 @@\n-        repository: openjdk\/jtreg\n-        ref: pull\/87\n+        repository: sormuras\/jtreg\n+        ref: 7903206-build-on-msys2\n","filename":".github\/actions\/get-jtreg\/action.yml","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
