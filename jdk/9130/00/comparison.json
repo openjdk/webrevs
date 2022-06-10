@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8,1 +8,1 @@\n-          <option name=\"linkRegexp\" value=\"https:\/\/bugs.openjdk.java.net\/browse\/JDK-$0\" \/>\n+          <option name=\"linkRegexp\" value=\"https:\/\/bugs.openjdk.org\/browse\/JDK-$0\" \/>\n","filename":"make\/ide\/idea\/jdk\/template\/vcs.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
