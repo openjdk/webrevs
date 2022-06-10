@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -233,1 +233,2 @@\n-        if (ob instanceof WindowsFileStore other) {\n+        if (ob instanceof WindowsFileStore) {\n+            WindowsFileStore other = (WindowsFileStore)ob;\n","filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsFileStore.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
