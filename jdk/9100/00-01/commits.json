@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288140: Avoid redundant Hashtable.get call in Signal.handle\napply dmlloyd's suggestion"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Signal.java"}],"sha":"829f9e23d69bd35dc1ae190f840fc52260ebfc79"}]
