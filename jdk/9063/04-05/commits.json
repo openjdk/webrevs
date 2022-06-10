@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use MSYS2 as name as consistently as possible"},"files":[{"filename":".github\/actions\/get-msys\/action.yml"},{"filename":".github\/actions\/get-msys2\/action.yml"},{"filename":".github\/workflows\/build-windows.yml"},{"filename":".github\/workflows\/test.yml"}],"sha":"b17e031c8331e7b5298316623ca1897abfba6d77"}]
