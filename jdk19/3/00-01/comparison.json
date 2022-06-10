@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -315,0 +315,3 @@\n+  intptr_t* sender_sp = this->sender_sp();\n+  address   sender_pc = this->sender_pc();\n+\n@@ -324,1 +327,1 @@\n-  return frame(sender_sp(), sender_pc());\n+  return frame(sender_sp, sender_pc);\n","filename":"src\/hotspot\/cpu\/ppc\/frame_ppc.inline.hpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}

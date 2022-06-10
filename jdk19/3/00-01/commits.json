@@ -1,0 +1,1 @@
+[{"commit":{"message":"frame::sender_for_compiled_frame: Put sender_sp and _pc into local variables as needed for the Loom port."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/frame_ppc.inline.hpp"}],"sha":"54b8c52ea8c2d60f6568982c7245ec9ed44f69a6"}]
