@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -164,1 +164,1 @@\n-        \/\/    is represented as (0, 0) in 2D, it’s OK returning 0 as\n+        \/\/    is represented as (0, 0) in 2D, it's OK returning 0 as\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/math\/IntegerModuloP.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
