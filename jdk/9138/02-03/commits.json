@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable lock diagnostics for all zero versions"},"files":[{"filename":"src\/hotspot\/cpu\/zero\/vm_version_zero.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/Monitor\/SyncOnValueBasedClassTest.java"}],"sha":"cfe139fa3ad955708102da8bccd1f976695063d6"}]
