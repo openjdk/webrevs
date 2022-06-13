@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,1 +210,1 @@\n-    \/\/ Logs an warning message and always returns false. This method\n+    \/\/ Logs a warning message and always returns false. This method\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLLogger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
