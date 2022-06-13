@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -397,0 +397,1 @@\n+\/\/ fp is dropped and gets determined by backlink.\n","filename":"src\/hotspot\/cpu\/ppc\/frame_ppc.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
