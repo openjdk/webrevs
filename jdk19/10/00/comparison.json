@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -664,1 +664,2 @@\n-    : _vthread_h(vthread_h),\n+    : _env(env),\n+      _vthread_h(vthread_h),\n@@ -686,1 +687,2 @@\n-    : _vthread_h(vthread_h),\n+    : _env(env),\n+      _vthread_h(vthread_h),\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.hpp","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
