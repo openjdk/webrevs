@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288378: [BACKOUT] DST not applying properly with zone id offset set with TZ env variable\n\nThis reverts commit 9b6d0a7e94fd18d302c559bec6f785d71a919a88."},"files":[{"filename":"src\/java.base\/unix\/native\/libjava\/TimeZone_md.c"},{"filename":"test\/jdk\/java\/util\/TimeZone\/CustomTzIDCheckDST.java"}],"sha":"9cf2b67689c49ae778de2cdb898be6f144089ca2"}]
