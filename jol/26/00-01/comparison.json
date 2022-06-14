@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-            arr[c] = c;\n+            arr[c] = new Integer(c);\n","filename":"jol-benchmarks\/src\/main\/java\/org\/openjdk\/jol\/GraphInstanceBench.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
