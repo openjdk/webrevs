@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert my changes to deoptimization.hpp"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.hpp"}],"sha":"76ff7483ae4c971e4191d468ea23400e79bdcb74"},{"commit":{"message":"Declare log_deopt static"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"}],"sha":"49857d530f5b20d911f54c2dfb7db49c3ac998f8"}]
