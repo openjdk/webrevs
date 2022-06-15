@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Avoid redundant HashMap.get call in NegotiateAuthentication.firstToken"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/http\/NegotiateAuthentication.java"}],"sha":"5141edc349ce76e8314c469ece863788caf0179a"}]
