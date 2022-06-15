@@ -1,0 +1,1 @@
+[{"commit":{"message":"6980847: Remove unnecessary catch of SecurityException and UnsupportedOperationException which are not thrown by blockSize()"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixCopyFile.java"}],"sha":"bc4096c6cd4f1a060a8cacb154ac090c98f94aa3"}]
