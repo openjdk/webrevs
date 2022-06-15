@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-  cancel-in-progress: false\n+  cancel-in-progress: true\n","filename":".github\/workflows\/main.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
