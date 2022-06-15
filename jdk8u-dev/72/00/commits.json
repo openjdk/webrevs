@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288483: JAVA_TOOL_OPTIONS are silently truncated if they exceed 1024 bytes"},"files":[{"filename":"hotspot\/src\/share\/vm\/runtime\/arguments.cpp"},{"filename":"hotspot\/src\/share\/vm\/runtime\/arguments.hpp"}],"sha":"2dcee8ebb5f8dfa75b0a3ceb1ddb9e6ef970c847"}]
