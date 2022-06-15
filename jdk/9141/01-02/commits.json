@@ -1,0 +1,1 @@
+[{"commit":{"message":"Renamed is_reentrant again and added an assert."},"files":[{"filename":"src\/hotspot\/share\/oops\/cpCache.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"2a50f311bd50deb961567ac876d585559dc52a1f"}]
