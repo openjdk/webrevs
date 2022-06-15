@@ -1,0 +1,1 @@
+[{"commit":{"message":"6980847: 1) use UnixFileStoreAttributes.get(file).blockSize(); 2) use @Native instead of transferSize0()"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixCopyFile.java"},{"filename":"src\/java.base\/unix\/native\/libnio\/fs\/UnixCopyFile.c"}],"sha":"f151dc4cf6f4e59fff2d2a0f486929940cafb1ae"}]
