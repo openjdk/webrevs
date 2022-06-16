@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288564: C2: LShiftLNode::Ideal produces wrong result after JDK-8278114"},"files":[{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestIRLShiftIdeal_XPlusX_LShiftC.java"}],"sha":"37040f94ee641781733c603c49d6814707d66e92"}]
