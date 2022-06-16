@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -359,1 +359,1 @@\n-        f *= pow10(H - len);\n+        f *= (int)pow10(H - len);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/math\/FloatToDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
