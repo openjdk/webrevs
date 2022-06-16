@@ -1,0 +1,1 @@
+[{"commit":{"message":"6980847: Use temporary direct buffer for user-space copy"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixCopyFile.java"},{"filename":"src\/java.base\/unix\/native\/libnio\/fs\/UnixCopyFile.c"},{"filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsConstants.java"}],"sha":"c30a6f0be3f45e30c32fbaf7cbd48ea96ca0e450"}]
