@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check in AsyncExceptionHandshake() dtr can assume the caller is a JavaThread."},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.inline.hpp"}],"sha":"6cd771a005f2939020b91c606d21a8f52be19b55"}]
