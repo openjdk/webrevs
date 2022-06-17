@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288596: Random:from() adapter does not delegate to supplied generator in all cases"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Random.java"},{"filename":"test\/jdk\/java\/util\/Random\/RandomTest.java"}],"sha":"e7aff361edc5e51516e582ec1365a3203d8934a6"}]
