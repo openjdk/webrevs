@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287971: Throw exception for missing values in .jpackage.xml [v4]"},"files":[{"filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/AppImageFile.java"},{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/JPackageCommand.java"}],"sha":"d489ee6067583b4fb1671de4323d587e6d462c2b"}]
