@@ -1,0 +1,1 @@
+[{"commit":{"message":"Review comments fixed: Removed -Dsun.java2d.uiScale=1, frame.getLocationOnScreen() removed from EDT, added volatile keyword for actionEventReceivedLatch"},"files":[{"filename":"test\/jdk\/java\/awt\/PopupMenu\/PopupMenuLocation.java"}],"sha":"fbaa185a82c9d1c7e8cb535f728ce7ffc2e736c6"}]
