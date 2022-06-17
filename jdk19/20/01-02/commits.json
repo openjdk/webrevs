@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename cannot_access_oops_safely to is_oop_safe and invert the function's logic."},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.inline.hpp"}],"sha":"3f526bee72481eb8b12a9a1d405649bbc6193d06"}]
