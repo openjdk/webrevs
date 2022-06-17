@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288467: C2: assert(cisc->memory_operand() == nullptr) failed: no memory operand, only stack"},"files":[{"filename":"src\/hotspot\/share\/opto\/chaitin.cpp"}],"sha":"d082aa913256e1ed586b6d0271a043b66365e3d1"}]
