@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Bugfix: need a thread-local instance for throughput test\"\n\nThis reverts commit d903efe57225e916a5450ac31437123050e3377c."},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/random\/RandomGeneratorExponentialGaussian.java"}],"sha":"cab6b5bbade70d37bd4823f3db7bc6a68d9dd1ad"}]
