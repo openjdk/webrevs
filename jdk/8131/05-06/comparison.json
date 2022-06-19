@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-        buffer = new long[size];\n+        buffer = new double[size];\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/random\/RandomGeneratorExponentialGaussian.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
