@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -864,1 +864,1 @@\n-  if (vt->length_in_bytes() < MaxVectorSize) {\n+  if (vt->length_in_bytes() < (uint)MaxVectorSize) {\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
