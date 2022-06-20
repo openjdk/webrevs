@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use real static safefetch on linux arm"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_arm\/safefetch_linux_arm.S"},{"filename":"src\/hotspot\/share\/runtime\/safefetch.hpp"}],"sha":"26c2edccaa1cbf67881aeae35491d60ae28c02d6"}]
