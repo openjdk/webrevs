@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -514,1 +514,1 @@\n-     * Interval, I, might be max_int64_t so the addition\n+     * Interval, I, might be max_jlong so the addition\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrThreadSampler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
