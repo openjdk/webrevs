@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+import org.openjdk.jmh.annotations.OperationsPerInvocation;\n@@ -64,0 +65,1 @@\n+    @OperationsPerInvocation(13)\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/text\/DefFormatterBench.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
