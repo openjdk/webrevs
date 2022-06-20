@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288718: Requesting backport of JDK-8049228 to JDK 8\n\nBackport-of 250fbb065a789a303d692d698c9b69117bf6cd2c"},"files":[{"filename":"jdk\/src\/share\/classes\/java\/net\/InetAddress.java"},{"filename":"jdk\/src\/share\/classes\/sun\/net\/InetAddressCachePolicy.java"}],"sha":"799a4f3962d326d37ee7cc9dfe9f77d55e76a99f"}]
