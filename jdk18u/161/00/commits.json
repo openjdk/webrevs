@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280696: C2 compilation hits assert(is_dominator(c, n_ctrl)) failed\n\nReviewed-by: kvn, chagedorn, roland"},"files":[{"filename":"src\/hotspot\/share\/opto\/cfgnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"}],"sha":"50822424131c1ebc34a95020506dc72dd7a1ae32"}]
