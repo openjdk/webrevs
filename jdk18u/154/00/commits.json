@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273115: CountedLoopEndNode::stride_con crash in debug build with -XX:+TraceLoopOpts\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestBadlyFormedCountedLoop.java"}],"sha":"bef7caa05a364dc95230b89933d52833290ba1af"}]
