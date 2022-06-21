@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282555: Missing memory edge when spilling MoveF2I, MoveD2L etc\n\nReviewed-by: kvn, thartmann, jbhateja"},"files":[{"filename":"src\/hotspot\/share\/opto\/chaitin.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/unsafe\/HeapByteBufferTest.java"}],"sha":"5ef7663a040c3c1c97670b998585c3083ee881bb"}]
