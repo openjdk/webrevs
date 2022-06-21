@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288303: C1: Miscompilation due to broken Class.getModifiers intrinsic\n\nReviewed-by: iveresov, dlong"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/klass\/TestGetModifiers.java"}],"sha":"fd310306e44c04f38ced40e73cc6ede85f528b2c"}]
