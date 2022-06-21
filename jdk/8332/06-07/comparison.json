@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,1 +171,1 @@\n-    assert(vmClasses::Reference_klass()->reference_type() == REF_OTHER, \"sanity\");\n+    assert(vmClasses::Reference_klass()->reference_type() == REF_NONE, \"sanity\");\n","filename":"src\/hotspot\/share\/classfile\/vmClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
