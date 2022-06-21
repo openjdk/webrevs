@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixes LDR instructions to use legitimized addresses"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/ad_encode.m4"},{"filename":"test\/hotspot\/jtreg\/compiler\/unsafe\/NonVolatileMemoryAccessWithLongOffset.java"}],"sha":"0b639f343e0dec5bdb9cfd70fbacff45b826d659"}]
