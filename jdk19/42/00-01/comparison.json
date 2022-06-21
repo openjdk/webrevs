@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -648,1 +648,1 @@\n-      assert(_depth == 0 && Continuation::is_frame_in_continuation(_jvf->thread(), fr), \"sanity check\");\n+      assert(Continuation::is_frame_in_continuation(_jvf->thread(), fr), \"sanity check\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiImpl.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
