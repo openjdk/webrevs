@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-  while (_active_readers != 0) {\n+  while (Atomic::load(&_active_readers) != 0) {\n@@ -49,0 +49,1 @@\n+  OrderAccess::loadstore();\n","filename":"src\/hotspot\/share\/logging\/logOutputList.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
