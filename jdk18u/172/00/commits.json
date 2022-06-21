@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280976: Incorrect encoding of avx512 vpsraq instruction with mask and constant shift.\n\nReviewed-by: neliasso, thartmann"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"}],"sha":"21ccadf73357b50bff44a56c5c66f62fdf347195"}]
