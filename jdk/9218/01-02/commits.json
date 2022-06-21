@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix more GHA builds which are slightly different than what we do internally."},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileTask.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"93cff18da44c191b2de2bf7cd172faff3606cff7"}]
