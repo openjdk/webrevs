@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -223,0 +223,1 @@\n+            je.setCompressedSize(-1);\n@@ -234,0 +235,1 @@\n+            je.setCompressedSize(-1);\n","filename":"src\/java.base\/share\/classes\/com\/sun\/java\/util\/jar\/pack\/Utils.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
