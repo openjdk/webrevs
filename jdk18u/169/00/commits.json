@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286847: Rotate vectors don't support byte or short\n\nReviewed-by: eliu, xgong, jiefu, jbhateja"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestRotateByteAndShortVector.java"}],"sha":"ca4b9e236cc433d7bb5101e8350237c48680c065"}]
