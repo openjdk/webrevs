@@ -1,0 +1,1 @@
+[{"commit":{"message":"8049228: Improve multithreaded scalability of InetAddress cache\n\nBackport-of 250fbb065a789a303d692d698c9b69117bf6cd2c"},"files":[{"filename":"jdk\/src\/share\/classes\/java\/net\/InetAddress.java"},{"filename":"jdk\/src\/share\/classes\/sun\/net\/InetAddressCachePolicy.java"}],"sha":"0846705515f70d88ad5122f2f7a252a2e49a08b6"}]
