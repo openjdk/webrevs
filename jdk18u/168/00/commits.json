@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286638: C2: CmpU needs to do more precise over\/underflow analysis\n\nReviewed-by: kvn, vlivanov, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/rangechecks\/TestRangeCheckCmpUUnderflow.java"}],"sha":"216a54cddc74343bd4522271f89b02eb23d9bf2d"}]
