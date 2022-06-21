@@ -1,0 +1,1 @@
+[{"commit":{"message":"8285885: Replay compilation fails with assert(is_valid()) failed: check invoke\n\nReviewed-by: thartmann, kvn"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciReplay.cpp"}],"sha":"81e075594c3d7100986d0e4a1da292670f0140a5"}]
