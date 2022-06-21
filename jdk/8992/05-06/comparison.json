@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -357,1 +357,1 @@\n-  if (target->is_handshake_safe_for(current)) {\n+  if (target == current) {\n","filename":"src\/hotspot\/share\/runtime\/handshake.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
