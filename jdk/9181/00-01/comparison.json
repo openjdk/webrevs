@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1613,1 +1613,1 @@\n-    tty->print_cr(\"%s\", ss.base());\n+    log_warning(os)(\"%s\", ss.base());\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
