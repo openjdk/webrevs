@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8cd87e731bcaff2d7838995c68056742d577ad3b"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/klass\/TestGetModifiers.java"}],"sha":"d32dc1306ad88e93bfc6f1fa205dd0e0d8d9e49a"}]
