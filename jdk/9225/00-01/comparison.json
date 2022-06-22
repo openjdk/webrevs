@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,2 @@\n+  \/\/ Prevent mutations to the output list to float above the active reader check.\n+  \/\/ Such a reordering would lead to readers loading faulty data.\n","filename":"src\/hotspot\/share\/logging\/logOutputList.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
