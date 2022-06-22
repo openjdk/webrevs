@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,0 +45,1 @@\n+#include \"runtime\/mutexLocker.hpp\"\n","filename":"src\/hotspot\/share\/code\/dependencies.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
