@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1000,0 +1000,3 @@\n+     * @implSpec The default implementation of this method throws\n+     *           {@code UnsupportedOperationException}.\n+     *\n","filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/FileChannel.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
