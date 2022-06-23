@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -654,1 +654,0 @@\n-      \/\/ In such cases the top frames can't be frozen because of an agent callback frame.\n","filename":"src\/hotspot\/share\/prims\/jvmtiImpl.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
