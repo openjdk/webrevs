@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -145,1 +145,1 @@\n-            Map<String, Object> newMap = new HashMap<>(map);\n+            Map<String, Object> newMap = new LinkedHashMap<>(map);\n","filename":"make\/jdk\/src\/classes\/build\/tools\/cldrconverter\/ResourceBundleGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
