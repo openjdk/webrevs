@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,0 +42,2 @@\n+        \/\/ This loop is to confuse the optimizer, so that \"shift\" is\n+        \/\/ optimized to 0 only after loop vectorization. \n","filename":"test\/hotspot\/jtreg\/compiler\/codegen\/ShiftByZero.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
