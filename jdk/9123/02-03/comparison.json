@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-            deprecated.add(new String[] {\"FlightRecorder\",                  \"false\"});\n+            deprecated.add(new String[] {\"FlightRecorder\", \"false\"});\n","filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
