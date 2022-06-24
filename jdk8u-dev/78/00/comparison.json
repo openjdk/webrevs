@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,2 +25,2 @@\n- * @bug 8080287\n- * @run RescaleAlphaTest\n+ * @bug 8080287 8136354\n+ * @run main RescaleAlphaTest\n","filename":"jdk\/test\/java\/awt\/image\/RescaleOp\/RescaleAlphaTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
