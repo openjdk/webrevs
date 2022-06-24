@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,2 +45,1 @@\n- * <p> A <a href=\"#server-impl\">simple file server<\/a> is composed of three\n- * components:\n+ * <p> A simple file server is composed of three components:\n","filename":"src\/jdk.httpserver\/share\/classes\/com\/sun\/net\/httpserver\/SimpleFileServer.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
