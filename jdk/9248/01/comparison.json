@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,0 @@\n- * @requires (os.family == \"windows\")\n@@ -45,1 +44,1 @@\n- * @run main\/othervm -Dsun.java2d.uiScale=1 AwtFramePackTest\n+ * @run main AwtFramePackTest\n","filename":"test\/jdk\/java\/awt\/Frame\/AwtFramePackTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
