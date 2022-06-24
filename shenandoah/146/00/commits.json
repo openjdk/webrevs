@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unnecessary checks identified by reviewer\n\nA previous pull request was integrated before all of the reviewer\ncomments had been addressed.  This commit addresses the lingering\nrequest."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"42a25dbc72f4427ebcd1127226b30cfe4d549256"}]
