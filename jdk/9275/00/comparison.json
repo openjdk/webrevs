@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-    char* buf = (char*)address;\n+    char* buf = (char*)jlong_to_ptr(address);\n","filename":"src\/java.base\/unix\/native\/libnio\/fs\/UnixCopyFile.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
