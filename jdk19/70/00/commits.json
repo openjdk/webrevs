@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8275784: Bogus warning generated for record with compact constructor"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclint\/Checker.java"},{"filename":"test\/langtools\/tools\/doclint\/RecordCompactConstructorTest.java"}],"sha":"40444e97ecc112e72c9612fcac8730428e96aef0"}]
