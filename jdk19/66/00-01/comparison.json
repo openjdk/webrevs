@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -589,0 +589,3 @@\n+  \/\/ Do not reset stub here:  It is too expensive to call find_stub.\n+  \/\/ Instead, rely on caller (nmethod::clear_inline_caches) to clear\n+  \/\/ both the call and its stub.\n","filename":"src\/hotspot\/share\/code\/compiledIC.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
