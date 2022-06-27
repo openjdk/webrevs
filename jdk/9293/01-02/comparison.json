@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,3 +86,1 @@\n-            if (server != null) {\n-                server.stop(0);\n-            }\n+            server.stop(0);\n","filename":"test\/jdk\/java\/util\/zip\/ZipFile\/DeleteTempJar.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
