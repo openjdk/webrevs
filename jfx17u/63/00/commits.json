@@ -1,0 +1,1 @@
+[{"commit":{"message":"8271054: [REDO] Wrong stage gets focused after modal stage creation\n\nReviewed-by: kcr, arapte"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.h"}],"sha":"2527f14065a36332c0ba50b686fb65649bb874ec"}]
