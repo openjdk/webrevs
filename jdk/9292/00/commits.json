@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287984: AArch64: [vector] Make all bits set vector sharable for match rules"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/AllBitsSetVectorMatchRuleTest.java"}],"sha":"0f86596d41d38e70bcdf8dfd52f2f715cce08758"}]
