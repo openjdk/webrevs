@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,0 +129,1 @@\n+  assert(BarrierSet::barrier_set()->barrier_set_nmethod() != NULL, \"Sanity\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahCodeRoots.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
