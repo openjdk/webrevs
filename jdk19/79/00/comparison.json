@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3657,1 +3657,1 @@\n-     *          text cannot be encoded using the specified charset\n+     *          text cannot be encoded using UTF-8\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/Files.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
