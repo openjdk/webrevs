@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,2 +113,0 @@\n-  assert(!lpt->has_reduction_nodes() || cl->is_reduction_loop(),\n-         \"non-reduction loop contains reduction nodes\");\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
