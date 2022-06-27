@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -285,0 +285,1 @@\n+        Objects.requireNonNull(array);\n@@ -286,1 +287,1 @@\n-        int size = array == null ? 0 : Array.getLength(array);\n+        int size = Array.getLength(array);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/SegmentAllocator.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
