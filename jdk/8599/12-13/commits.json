@@ -1,0 +1,1 @@
+[{"commit":{"message":"re-enabled lossy conversions warnings for java.security.jgss, jdk.crypto.ec and jdk.internal.le"},"files":[{"filename":"make\/modules\/java.security.jgss\/Java.gmk"},{"filename":"make\/modules\/jdk.crypto.ec\/Java.gmk"},{"filename":"make\/modules\/jdk.internal.le\/Java.gmk"}],"sha":"6f32938d0ba3291c541b8f3feb3995b659df8a42"}]
