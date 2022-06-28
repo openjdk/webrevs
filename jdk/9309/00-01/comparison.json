@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,0 +50,1 @@\n+        log.enableVerbose(true); \/\/ show log output\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/monitoring\/MemoryPoolMBean\/isUsageThresholdExceeded\/isexceeded001.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
