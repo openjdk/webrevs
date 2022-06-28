@@ -1,0 +1,1 @@
+[{"commit":{"message":"Isolate the code that reserves evacuation budgets into functions"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.hpp"}],"sha":"be1fb125ea0c2856f38f165d71f64baa2b7d573b"}]
