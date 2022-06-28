@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8271252-os-reserve-memory-should-not-default-to-mtOther"},"files":[{"filename":"src\/hotspot\/share\/runtime\/os.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.hpp"}],"sha":"130635bd23b3913fd34c93ec8eff70a6c37259f1"}]
