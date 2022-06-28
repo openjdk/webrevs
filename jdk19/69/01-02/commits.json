@@ -1,0 +1,1 @@
+[{"commit":{"message":"dholmes CR - use Thread::current() instead of Thread::current_or_null()."},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"e2f57577b416dfc50380c2eedf64c1f435fc30fb"}]
