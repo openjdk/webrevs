@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288895: LdapContext doesn't honor set referrals limit"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/AbstractLdapNamingEnumeration.java"},{"filename":"test\/jdk\/com\/sun\/jndi\/ldap\/ReferralLimitSearchTest.java"}],"sha":"09961af731cb7f8cd1c0a3e752dcf25ce0db88ca"}]
