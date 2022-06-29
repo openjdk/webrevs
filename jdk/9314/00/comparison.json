@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -311,2 +311,1 @@\n-            if (filesystems.get(zfpath) == zfs)\n-                filesystems.remove(zfpath);\n+            filesystems.remove(zfpath, zfs);\n","filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystemProvider.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
