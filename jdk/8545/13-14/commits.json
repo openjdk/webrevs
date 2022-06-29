@@ -1,0 +1,1 @@
+[{"commit":{"message":"restore the option OptimizeUnstableIf to diagnostic.\n\nalso update commments."},"files":[{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"},{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/ifnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/parse.hpp"}],"sha":"ed20a8264cda0fc5a5bee0d24890b9cc598faf37"}]
