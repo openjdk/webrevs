@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,0 +59,2 @@\n+\n+    \/\/ only accessed from within synchronized blocks\n@@ -68,0 +70,1 @@\n+    \/\/ only accessed from within synchronized blocks\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2ClientImpl.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
