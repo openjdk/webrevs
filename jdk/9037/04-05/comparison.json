@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3636,1 +3636,1 @@\n-\/\/ SVE predicate generation (32-bit and 64-bit variants)\n+\/\/ SVE integer compare scalar count and limit\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
