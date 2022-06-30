@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 78d371266ae8a629db8176ced4d48e9521702cce"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestRemoveMemBarPrecEdge.java"}],"sha":"a78be11452ac6b16e8f4d4f40e68b2ea8a784bbf"}]
