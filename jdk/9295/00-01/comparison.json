@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -326,1 +326,1 @@\n-  assert((allow_address || t != T_ADDRESS) && t != T_ILLEGAL, \"unexpected basic type\");\n+  assert((allow_address || t != T_ADDRESS) && t <= T_CONFLICT, \"unexpected basic type\");\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
