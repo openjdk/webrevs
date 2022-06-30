@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-    private volatile boolean breakpointReached = false;\n+    private volatile boolean breakpointReached;\n","filename":"test\/jdk\/com\/sun\/jdi\/SuspendAfterDeath.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
