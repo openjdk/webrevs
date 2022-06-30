@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-VMReg SharedInfo::stack0 = (VMReg)VMRegImpl::stack_0()->value();\n+VMReg VMRegImpl::stack0 = (VMReg)VMRegImpl::stack_0()->value();\n","filename":"src\/hotspot\/share\/code\/vmreg.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
