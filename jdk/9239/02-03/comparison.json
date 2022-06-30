@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -911,1 +911,1 @@\n-    \/\/ Load the value of the referent field.\n+  \/\/ Load the value of the referent field.\n","filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
