@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only make oop safety checks in JavaThread::get_thread_name_string() in non-release builds."},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"3f49ab133b054359d286f538110aa0a2e912b3ee"}]

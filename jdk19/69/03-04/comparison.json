@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2218,0 +2218,1 @@\n+#ifdef ASSERT\n@@ -2223,0 +2224,1 @@\n+#endif\n@@ -2240,0 +2242,1 @@\n+#ifdef ASSERT\n@@ -2251,0 +2254,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/thread.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
