@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,1 @@\n-        if (!check(t, t.isVirtual() ? NOT_STARTED : ZOMBIE)) {\n+        if (!check(t, ZOMBIE)) {\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/thread\/GetThreadState\/thrstat03\/thrstat03.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

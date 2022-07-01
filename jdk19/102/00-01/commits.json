@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix serviceability\/jvmti\/thread\/thrstat03 to except correct GetThreadState result for terminated vthreads"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/thread\/GetThreadState\/thrstat03\/thrstat03.java"}],"sha":"7199e962800f4ccaaf5d5757ad824c8d214ce0bb"}]
