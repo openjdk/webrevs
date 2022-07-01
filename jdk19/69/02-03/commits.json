@@ -1,0 +1,1 @@
+[{"commit":{"message":"dholmes CR - use Thread::current_or_null_safe() instead of Thread::current() since threadObj() can be called by a signal handler."},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"088a3bdc0782247ad9f1b60d3f31cd813a00bf98"}]
