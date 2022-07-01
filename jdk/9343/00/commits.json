@@ -1,0 +1,1 @@
+[{"commit":{"message":"8289572: InputStream wrapping with BufferedInputStream is redundant in HttpTimestamper"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/timestamp\/HttpTimestamper.java"}],"sha":"80b141b46f2477a1136e41f9495316c12761addf"}]
