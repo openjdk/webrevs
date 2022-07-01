@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272352: Java launcher can not parse Chinese character when system locale is set to UTF-8\n\nReviewed-by: rriggs"},"files":[{"filename":"src\/java.base\/windows\/native\/libjava\/java_props_md.c"}],"sha":"165db6d678bf4428023359d92329b2c17af99e14"}]
