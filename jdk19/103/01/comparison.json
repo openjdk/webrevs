@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -876,0 +876,6 @@\n+.B \\f[CB]\\-Xcomp\\f[R]\n+Testing mode to exercise JIT compilers.\n+This option should not be used in production environments.\n+.RS\n+.RE\n+.TP\n","filename":"src\/java.base\/share\/man\/java.1","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
