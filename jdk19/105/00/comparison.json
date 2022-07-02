@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,2 +87,0 @@\n-            testJvmtiThreadState(t1, RUNNABLE);\n-\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/SelfSuspendDisablerTest\/SelfSuspendDisablerTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
