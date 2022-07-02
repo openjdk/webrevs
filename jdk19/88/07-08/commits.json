@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename thread to targetThread. Verify targetThread state when the thread dies and when the breakpoint after the join() is reached."},"files":[{"filename":"test\/jdk\/com\/sun\/jdi\/SuspendAfterDeath.java"}],"sha":"1ff59060b9f0b50ceb83a6e36195c707a09f41c2"}]
