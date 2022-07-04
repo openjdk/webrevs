@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Avoid redundant TreeMap.containsKey call in AbstractCharsetProvider"},"files":[{"filename":"src\/jdk.charsets\/share\/classes\/sun\/nio\/cs\/ext\/AbstractCharsetProvider.java"}],"sha":"5dcb9a9f3325611e3f1a3f4c160065e484a31678"}]
