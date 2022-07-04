@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -788,1 +788,1 @@\n-  ALLOW_C_FUNCTION(::realpath, return realpath(buffer, _exePath);)\n+  return os::Posix::realpath(buffer, _exePath, PATH_MAX);\n","filename":"src\/hotspot\/os\/linux\/os_perf_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
