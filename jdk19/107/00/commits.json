@@ -1,0 +1,1 @@
+[{"commit":{"message":"Throw IAE when converting string with null byte."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/SegmentAllocator.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/Utils.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegmentAllocators.java"}],"sha":"70f83902a38e863b96fedb312982f7ac683ed068"}]
