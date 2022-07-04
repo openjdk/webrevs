@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,0 +156,1 @@\n+  relativize_one(vfp, hfp, frame::interpreter_frame_extended_sp_offset);\n@@ -295,0 +296,1 @@\n+  derelativize_one(vfp, frame::interpreter_frame_extended_sp_offset);\n","filename":"src\/hotspot\/cpu\/aarch64\/continuationFreezeThaw_aarch64.inline.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
