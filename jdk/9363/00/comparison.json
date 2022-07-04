@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,0 +93,3 @@\n+        if (c <= 0) {\n+           throw new IOException(\"Invalid chunk size: \" + c);\n+        }\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/consumer\/ChunkHeader.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
