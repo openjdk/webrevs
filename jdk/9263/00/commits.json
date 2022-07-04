@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Refactor I\/O stream copying to use InputStream.readAllBytes in X509CertPath"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/X509CertPath.java"}],"sha":"944723dca5353c735c9234c3c532b6eab3299ed0"}]
