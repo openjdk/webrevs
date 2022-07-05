@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,1 +157,1 @@\n-    if [[ $? -eq 0 ]]; then\n+    if [[ $? -eq 0 && -e \"$unixpath\" ]]; then\n","filename":"make\/scripts\/fixpath.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
