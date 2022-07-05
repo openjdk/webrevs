@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+ * @requires !vm.musl\n@@ -43,1 +44,1 @@\n- * @requires (os.family == \"linux\")\n+ * @requires (os.family == \"linux\" & !vm.musl)\n","filename":"test\/jdk\/java\/lang\/ProcessBuilder\/Basic.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
