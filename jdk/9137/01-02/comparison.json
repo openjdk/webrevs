@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,0 +314,1 @@\n+        \/\/ remove + put in both branches below move the tag to the back of the map's ordering\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/taglets\/TagletManager.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
