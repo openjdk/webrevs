@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9,5 +9,0 @@\n-\t<classpathentry kind=\"src\" output=\"testbin\" path=\"src\/test\/java\">\n-\t\t<attributes>\n-\t\t\t<attribute name=\"test\" value=\"true\"\/>\n-\t\t<\/attributes>\n-\t<\/classpathentry>\n","filename":"modules\/javafx.swing\/.classpath","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
