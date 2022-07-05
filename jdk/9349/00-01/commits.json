@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove additional system in system boot class path."},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/classfile\/modules.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.hpp"}],"sha":"9752b90a59b4fca553f0ee07592aecdf310663dc"}]
