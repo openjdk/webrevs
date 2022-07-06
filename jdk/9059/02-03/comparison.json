@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-  assert(is_aligned(p, BOTConstants::card_size_in_words()), \"must be\");\n+  assert(is_aligned(p, BOTConstants::card_size()), \"must be\");\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
