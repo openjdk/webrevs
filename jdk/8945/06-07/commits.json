@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed strw, zero rename and made methods return 64 bit counter in all cases"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/zero\/zeroInterpreter_zero.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"}],"sha":"b69bc54e1457a05704bd3a845e5d6e44d575c8d1"}]
