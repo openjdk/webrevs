@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make block_start_reaching_into_card() const"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1BlockOffsetTable.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1BlockOffsetTable.inline.hpp"}],"sha":"9e847fc0f9bc20d52729e366123c6fa9b287b882"}]
