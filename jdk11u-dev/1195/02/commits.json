@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport caceaba5594606023ea4eb8d99698243be5b76b8"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestHoistedReductionNode.java"}],"sha":"a27605523d666e053f2484b9221d1f9c8190c3a2"}]
