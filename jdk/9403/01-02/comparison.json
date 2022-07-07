@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-  for (OptoReg::Name i=OptoReg::Name(0); i<OptoReg::Name(REG_COUNT); i = OptoReg::add(i,1)) {\n+  for( OptoReg::Name i=OptoReg::Name(0); i<OptoReg::Name(REG_COUNT); i = OptoReg::add(i,1) ) {\n","filename":"src\/hotspot\/share\/opto\/c2compiler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
