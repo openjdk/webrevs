@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1171,1 +1171,3 @@\n-  Copy::zero_to_bytes(((address)_data) + data_size, extra_size);\n+  if (extra_size > 0) {\n+    Copy::zero_to_bytes(((address)_data) + data_size, extra_size);\n+  }\n","filename":"src\/hotspot\/share\/oops\/methodData.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
