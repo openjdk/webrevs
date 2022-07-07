@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1377,2 +1377,0 @@\n-  Label L_thaw, L_exit;\n-\n@@ -1399,2 +1397,0 @@\n-  AddressLiteral resolve(SharedRuntime::get_resolve_static_call_stub(),\n-                         relocInfo::static_call_type);\n","filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
