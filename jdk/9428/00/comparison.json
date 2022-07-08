@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-                                  g1h->block_start(slice);\n+                                  r->block_start(slice);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMarkObjArrayProcessor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
