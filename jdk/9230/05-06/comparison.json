@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,2 +95,0 @@\n-        \"alt altGraph UP\", DefaultEditorKit.beginLineUpAction,\n-        \"alt altGraph DOWN\", DefaultEditorKit.endLineDownAction,\n","filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaKeyBindings.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
