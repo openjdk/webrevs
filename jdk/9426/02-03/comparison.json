@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,1 +130,1 @@\n-          sudo xcode-select --switch \/Applications\/Xcode_11.3.1.app\/Contents\/Developer\n+          sudo xcode-select --switch \/Applications\/Xcode_11.7.app\/Contents\/Developer\n","filename":".github\/workflows\/test.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
