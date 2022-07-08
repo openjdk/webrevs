@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,1 @@\n-                    (lastTime + 120000) > System.currentTimeMillis()) {\n+                    (lastTime + 120000) < System.currentTimeMillis()) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/j2d\/PrismPrintPipeline.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
