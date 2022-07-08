@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,0 +129,1 @@\n+            lastTime = System.currentTimeMillis();\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/j2d\/PrismPrintPipeline.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
