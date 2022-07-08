@@ -1,0 +1,1 @@
+[{"commit":{"message":"8274235: -Xshare:dump should not call vm_direct_exit"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"5751687d443db2403143622c6a220b91bcaf2668"}]
