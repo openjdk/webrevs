@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -708,0 +708,4 @@\n+\/\/ This directory should be used only by JVM processes own by the\n+\/\/ current user to store PerfMemory files. Any other files found\n+\/\/ in this directory may be removed.\n+\/\/\n","filename":"src\/hotspot\/os\/posix\/perfMemory_posix.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
