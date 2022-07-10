@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 10da56f017804e3618cc02c60bcc10f5e3adeb47"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/T8203277\/PreflowShouldVisitLambdaOrDiamondInsideLambdaTest.java"}],"sha":"c6a690b6f12fa630bec0879df482b208acac910c"}]
