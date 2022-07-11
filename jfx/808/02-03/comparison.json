@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2266,1 +2266,1 @@\n-        assertEquals(cc, 15);\n+        assertEquals(15, cc);\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/ListViewTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
