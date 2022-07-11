@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,1 @@\n-package gc.g1;\n+package gc;\n@@ -33,1 +33,1 @@\n- * @run driver gc.g1.TestPLABAdaptToMinTLABSize\n+ * @run driver gc.TestPLABAdaptToMinTLABSize\n","filename":"test\/hotspot\/jtreg\/gc\/TestPLABAdaptToMinTLABSize.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
