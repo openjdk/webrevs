@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273176: handle latest VS2019 in abstract_vm_version\n\nBackport-of: 0e14bf70cf6e482a2ec7d13ed37df0bee911740d"},"files":[{"filename":"hotspot\/src\/share\/vm\/runtime\/vm_version.cpp"}],"sha":"4000c76bcaa31ca7eae3d6f7e27777f5d8f8dd08"}]
