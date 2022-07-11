@@ -1,0 +1,1 @@
+[{"commit":{"message":"support special linkage rules for jdk.jfr.internal.event.EventWriterFactory.getEventWriter(long) in JVMCI"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/common\/patches\/jdk.internal.vm.ci\/jdk\/vm\/ci\/hotspot\/CompilerToVMHelper.java"}],"sha":"589f205f15c385747b22b781f5cea432a2c91bac"}]
