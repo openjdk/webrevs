@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n-package org.openjdk.bench.vm.compiler;\n+package org.openjdk.bench.java.lang;\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/ArrayCopyObject.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
