@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,3 +95,0 @@\n-        test(CrasherHalt.class, \"\", true, dumppath.toString(), false);\n-        test(CrasherHalt.class, \"\", false, dumppath.toString(), false);\n-\n","filename":"test\/jdk\/jdk\/jfr\/jvm\/TestDumpOnCrash.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
