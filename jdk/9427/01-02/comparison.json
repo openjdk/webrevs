@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-        } catch (InterruptedException ie) {\n+        } catch (Throwable ex) { \/\/ Could be InterruptedExeption or OOME\n","filename":"test\/jdk\/java\/util\/concurrent\/locks\/Lock\/OOMEInAQS.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
