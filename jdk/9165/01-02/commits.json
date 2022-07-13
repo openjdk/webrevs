@@ -1,0 +1,1 @@
+[{"commit":{"message":"Undo applying CompLevel where applicable. It must be a separate change"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciEnv.cpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.hpp"},{"filename":"src\/hotspot\/share\/runtime\/vmStructs.cpp"}],"sha":"2d2a07af65fa895c1942c403693a7bafc06213a1"}]
