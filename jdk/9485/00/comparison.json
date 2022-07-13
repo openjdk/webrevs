@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n- * @required !vm.debug\n+ * @requires !vm.debug\n","filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/TestVerifyJCStress.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
