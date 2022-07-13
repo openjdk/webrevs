@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280233: Temporarily disable Unix domain sockets in Windows PipeImpl\n\nReviewed-by: alanb"},"files":[{"filename":"src\/java.base\/windows\/classes\/sun\/nio\/ch\/PipeImpl.java"}],"sha":"252482acb9f295e3653f6f44707b2ce476865328"}]
