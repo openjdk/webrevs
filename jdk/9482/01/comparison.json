@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -670,1 +670,1 @@\n-#ifdef __APPLE__\n+#if defined(__APPLE__) || defined(_AIX)\n@@ -687,1 +687,1 @@\n-#endif \/\/ __APPLE__\n+#endif \/\/ __APPLE__ || _AIX\n","filename":"src\/hotspot\/share\/prims\/forte.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
