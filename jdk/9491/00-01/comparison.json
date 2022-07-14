@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,0 +101,1 @@\n+                lock.lock();\n@@ -102,1 +103,0 @@\n-                    lock.lock();\n","filename":"test\/jdk\/java\/util\/concurrent\/locks\/Lock\/OOMEInAQS.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
