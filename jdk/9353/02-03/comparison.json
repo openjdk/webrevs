@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n- *   returnType (* name)\n+ *   returnType __declspec(dllimport) (* name)\n","filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/pkcs11.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
