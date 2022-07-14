@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2311,2 +2311,0 @@\n-  if (is_idle()) return false;\n-\n@@ -2316,0 +2314,1 @@\n+  if (is_idle()) return false;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
