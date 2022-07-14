@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -661,1 +661,1 @@\n-    result = get_user_name_slow(vmid, vmid, THREAD);\n+    result = get_user_name_slow(vmid, vmid, CHECK_NULL);\n","filename":"src\/hotspot\/os\/posix\/perfMemory_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
