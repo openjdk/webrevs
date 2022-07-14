@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prepare permissions for new failsafe version und handle 8.3 names for the temp dir"},"files":[{"filename":"agent\/pom.xml"},{"filename":"agent\/src\/test\/resources\/org\/openjdk\/jmc\/agent\/test\/failing_control_permission.policy"}],"sha":"408d812f5dd9b4be439c897611b49cea70fa5747"}]
