@@ -1,0 +1,1 @@
+[{"commit":{"message":"8289003: JavaThread::check_is_terminated() implementation should rely on Thread-SMR"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"},{"filename":"src\/hotspot\/share\/runtime\/vmOperations.cpp"}],"sha":"baf43a887bdf5cca961ce7c570159c52d3e0e6f1"}]
