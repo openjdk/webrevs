@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -345,1 +345,1 @@\n-    __ bge(t0, t1, L);\n+    __ bge(t0, sp, L);\n","filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
