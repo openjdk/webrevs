@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -342,1 +342,0 @@\n-    __ mv(t1, sp);\n","filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
