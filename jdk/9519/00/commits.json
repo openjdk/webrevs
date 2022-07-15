@@ -1,0 +1,1 @@
+[{"commit":{"message":"8290379: Parse error with parenthesized pattern and guard using an array"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/T8290379.java"}],"sha":"32cd4677253b3339c275279b2d3349eb1e6c7cad"}]
