@@ -1,0 +1,1 @@
+[{"commit":{"message":"second get_user_name_slow call should CHECK_NULL too."},"files":[{"filename":"src\/hotspot\/share\/utilities\/exceptions.cpp"}],"sha":"fd1bfeb111fc33e80f334f5458b6f409efc402ea"}]
