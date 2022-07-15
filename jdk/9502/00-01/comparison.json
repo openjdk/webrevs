@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -571,1 +571,1 @@\n-  \/\/ protected by a ThreadsListHandle to avoid potential crashes.\n+  \/\/ be protected by a ThreadsListHandle to avoid potential crashes.\n","filename":"src\/hotspot\/share\/runtime\/javaThread.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
