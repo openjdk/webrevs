@@ -1,0 +1,1 @@
+[{"commit":{"message":"8290402: jpackage exe uninstallers don't return correct exit code in case of failure"},"files":[{"filename":"src\/jdk.jpackage\/windows\/native\/msiwrapper\/MsiWrapper.cpp"}],"sha":"69d8063af48838c49ff894d13e206f6a06bb2e46"}]
