@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3099,1 +3099,1 @@\n-        estSize = estimatedSize \/ itemCount;\n+        double estSize = estimatedSize \/ itemCount;\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/VirtualFlow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
