@@ -1,0 +1,1 @@
+[{"commit":{"message":"JMC-7455: Removed unused logger field to fix spotbugs error"},"files":[{"filename":"application\/org.openjdk.jmc.kubernetes\/src\/main\/java\/org\/openjdk\/jmc\/kubernetes\/JmcKubernetesPlugin.java"}],"sha":"96abdf1f81799ed3039aba22837b30986bd71353"}]
