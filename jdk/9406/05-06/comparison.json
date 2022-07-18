@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-            \/\/ One of the two contains must fail to create the hsperf file.\n+            \/\/ One of the two containers must fail to create the hsperf file.\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/ShareTmpDir.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
