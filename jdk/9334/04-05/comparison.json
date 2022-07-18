@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-            \"DataLoss\", \"IntFlag\", \"ReservedStackActivation\", \"JitRestart\",\n+            \"DataLoss\", \"IntFlag\", \"ReservedStackActivation\",\n","filename":"test\/jdk\/jdk\/jfr\/event\/metadata\/TestLookForUntestedEvents.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
