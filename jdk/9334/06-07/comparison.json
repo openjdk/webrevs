@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n-import sun.hotspot.code.BlobType;\n+import jdk.test.whitebox.code.BlobType;\n","filename":"test\/jdk\/jdk\/jfr\/event\/compiler\/TestJitRestart.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
