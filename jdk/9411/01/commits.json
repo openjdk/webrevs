@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master'"},"files":[],"sha":"c3ad382cb48146750f6b8e060e53708be6e190a6"},{"commit":{"message":"Remove platform dependent method interpreter_frame_last_sp() from shared code"},"files":[{"filename":"src\/hotspot\/share\/runtime\/continuation.cpp"}],"sha":"54d7db651dcf923ef3e6d1c98bc1cfca0399a28e"}]
