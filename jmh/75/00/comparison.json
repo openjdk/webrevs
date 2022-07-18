@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4,2 +4,4 @@\n-  pull_request:\n-    types: [opened, reopened, ready_for_review, synchronize]\n+  push:\n+    branches-ignore:\n+      - master\n+      - pr\/*\n","filename":".github\/workflows\/pre-integration.yml","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
