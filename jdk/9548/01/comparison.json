@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -808,1 +808,0 @@\n-  ResourceMark rm;\n@@ -811,0 +810,1 @@\n+      ResourceMark rm;\n","filename":"src\/hotspot\/share\/oops\/method.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
