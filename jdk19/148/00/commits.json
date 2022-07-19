@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix MemoryAddress typos"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemoryAddress.java"}],"sha":"78c9a3db2bf74d25f84666d71ea69aebac236925"},{"commit":{"message":"Initial push"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemorySegment.java"}],"sha":"442c2cc3d5d5b9ac47b84db5e9102001ceff9c30"}]
