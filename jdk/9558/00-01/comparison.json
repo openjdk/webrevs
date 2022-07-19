@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -611,1 +611,1 @@\n-  MacroAssembler _masm(&cbuf);\n+  C2_MacroAssembler _masm(&cbuf);\n","filename":"src\/hotspot\/cpu\/x86\/x86_32.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
