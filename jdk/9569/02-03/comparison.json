@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1521,1 +1521,1 @@\n-  bs->nmethod_entry_barrier(masm);\n+  bs->nmethod_entry_barrier(masm, NULL \/* slow_path *\/, NULL \/* continuation *\/);\n","filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_32.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
