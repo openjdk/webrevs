@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -285,1 +285,1 @@\n-        assertEquals(42.0, obj.to(Double.class));\n+        assertEquals(new Double(42.0), obj.to(Double.class));\n","filename":"test\/nashorn\/src\/jdk\/nashorn\/api\/scripting\/test\/ScriptObjectMirrorTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
