@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-  HeapWord*volatile *_compaction_tops;\n+  HeapWord* volatile* _compaction_tops;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1FullCollector.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
