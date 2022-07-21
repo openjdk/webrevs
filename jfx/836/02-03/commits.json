@@ -1,0 +1,1 @@
+[{"commit":{"message":"always set recalculating to false at the end (preventing from not updating anymore after a single exception)"},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/VirtualFlow.java"}],"sha":"879fb3dad1ca58d50b8cdab9581cfeb85b157b67"}]
