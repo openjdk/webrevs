@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2535,1 +2535,1 @@\n-\n+      if (out == NULL) continue;\n@@ -2540,1 +2540,1 @@\n-      } else {\n+      } else if (_phase->has_ctrl(out)) {\n@@ -2542,0 +2542,1 @@\n+        assert(ctrl != NULL, \"must be\");\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
