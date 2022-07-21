@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1056,1 +1056,1 @@\n-    __ trampoline_call1(resolve, NULL, false);\n+    __ trampoline_call(resolve);\n@@ -1082,1 +1082,1 @@\n-  __ trampoline_call1(resolve, NULL, false);\n+  __ trampoline_call(resolve);\n","filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
