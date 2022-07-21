@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1354,3 +1354,0 @@\n-  if (collector.some_dead_found() && env()->is_enabled(JVMTI_EVENT_OBJECT_FREE)) {\n-    remove_and_post_dead_objects();\n-  }\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
