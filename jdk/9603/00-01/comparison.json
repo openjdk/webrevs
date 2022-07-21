@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,0 +298,2 @@\n+        \/\/ Unless it's declared and used as a CHeapObj with\n+        \/\/ NONCOPYABLE(TestValue)\n","filename":"test\/hotspot\/gtest\/utilities\/test_resourceHash.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
