@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8271395\nchanges based on codereview\nWe now catch Throwable instead of Exception"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/QuantumToolkit.java"}],"sha":"a41f41dd13f64cb78ada9a5b345886c0e266c6ae"}]
