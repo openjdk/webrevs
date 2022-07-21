@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,1 +194,1 @@\n-                Executor.INFINITE_TIMEOUT, false);\n+                timeout, false);\n","filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/IOUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
