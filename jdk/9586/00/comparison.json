@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1246,1 +1246,1 @@\n-        private static String PREFIX = \"sun.net.www.protocol.\";\n+        private static final String PREFIX = \"sun.net.www.protocol.\";\n","filename":"src\/java.base\/share\/classes\/java\/net\/URL.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
