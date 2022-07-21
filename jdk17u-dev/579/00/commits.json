@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 4f3f74c14121d0a80f0dcf1d593b4cf1c3e4a64c"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestMissedOpaqueInPredicate.java"}],"sha":"0ac83406ca2bb698a56a48adba04057c255d6575"}]
