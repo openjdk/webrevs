@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -317,1 +317,1 @@\n-          \"Update MethodData*s in Tier1-generated code\")                    \\\n+          \"Update MethodData*s in C1 generated code\")                       \\\n","filename":"src\/hotspot\/share\/c1\/c1_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
