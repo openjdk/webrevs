@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,2 @@\n-\/\/ during zeroth-tier (interpreter) execution.\n+\/\/ during zeroth-tier (interpreter) and third-tier (C1 with full profiling)\n+\/\/ execution.\n","filename":"src\/hotspot\/share\/oops\/methodData.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
