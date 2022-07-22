@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not add the deprecated CKR_COPY_PROHIBITED, handle vendor pkcs11 error codes differently"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/wrapper\/PKCS11Exception.java"}],"sha":"f0fc6d731a709e526c86f1477ae9b7ee78bfb0b0"}]
