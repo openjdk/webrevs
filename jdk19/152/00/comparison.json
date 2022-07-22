@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,0 +51,2 @@\n+  \/\/ Wait for concurrent readers of the segment to exit before freeing.\n+  GlobalCounter::write_synchronize();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1SegmentedArray.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
