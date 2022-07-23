@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable colored outlines on Linux to be able to build with old system Freetype"},"files":[{"filename":"src\/java.desktop\/share\/native\/libfontmanager\/freetypeScaler.c"}],"sha":"07150fbdd44275ee005ab548a0c40e3e371fae14"}]
