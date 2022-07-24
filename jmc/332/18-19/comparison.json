@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -15,1 +15,2 @@\n-Export-Package: org.openjdk.jmc.kubernetes\n+Export-Package: org.openjdk.jmc.kubernetes,\n+ org.openjdk.jmc.kubernetes.preferences\n","filename":"application\/org.openjdk.jmc.kubernetes\/META-INF\/MANIFEST.MF","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
