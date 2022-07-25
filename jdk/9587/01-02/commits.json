@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use nativeInstruction_at instead of nativeCall_at to avoid wrongly initializating a call"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/jvmciCodeInstaller_riscv.cpp"}],"sha":"925a26515305f43f70c8745ca0726f767a11dbaa"}]
