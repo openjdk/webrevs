@@ -1,0 +1,1 @@
+[{"commit":{"message":"use RLIM_INFINITY for RLIMIT_NOFILE if possible"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"7c5a4c4fb290d0525a92ec07eaf3850e1cc0fb7c"}]
