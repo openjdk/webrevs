@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4226,3 +4226,1 @@\n-    if (VM_Version::supports_avx2()) {\n-      __ vpbroadcastd($dst$$XMMRegister, $mem$$Address, vlen_enc);\n-    } else if (VM_Version::supports_avx()) {\n+    if (VM_Version::supports_avx()) {\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
