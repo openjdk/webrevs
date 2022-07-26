@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1116,1 +1116,1 @@\n-        if (abs_f <= 0x1.0p-25f) { \/\/ Covers float zeros and subnormals.\n+        if (abs_f <= 0x1.0p-24f * 0.5f) { \/\/ Covers float zeros and subnormals.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Float.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
