@@ -1,0 +1,1 @@
+[{"commit":{"message":"added asserts for get_info(); renamed _no_class_loading_should_happen -> !_class_loading_may_happen to avoid double-negation in the code"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.hpp"}],"sha":"e642dfe8893b77b04649e83157028c249d6ff4db"}]
