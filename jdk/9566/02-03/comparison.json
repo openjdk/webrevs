@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -229,1 +229,1 @@\n-        if (newSize < 0) {\n+        if (newSize <= 0) {\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicSplitPaneDivider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
