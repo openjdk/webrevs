@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,1 @@\n+ * @requires (os.arch != \"x86\" & os.arch != \"i386\") | vm.opt.UseSSE == \"null\" | vm.opt.UseSSE >= 2\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestAutoVectorization2DArray.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
