@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' of http:\/\/github.com\/openjdk\/jdk into JDK-8290322"},"files":[],"sha":"71a8436eb261024291010b6b42f661949137661f"},{"commit":{"message":"8290322: Optimize Vector.rearrange over byte vectors for AVX512BW targets."},"files":[],"sha":"8e80f639666d2391d5845531bb25b7e77d868183"}]
