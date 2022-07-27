@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,2 @@\n+    Component parentComponent;\n+    Object message;\n@@ -90,0 +92,2 @@\n+        parentComponent = parentComponent;\n+        message = message;\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/ProgressMonitorInputStream.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
