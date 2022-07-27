@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2642,1 +2642,1 @@\n-    \/\/ since javafx.swing requires jdk.unsupoprted.desktop, which is\n+    \/\/ since javafx.swing requires jdk.unsupported.desktop, which is\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
