@@ -1,0 +1,1 @@
+[{"commit":{"message":"8291106: ZPlatformGranuleSizeShift is redundant"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/z\/zGlobals_aarch64.hpp"},{"filename":"src\/hotspot\/os\/linux\/gc\/z\/zPhysicalMemoryBacking_linux.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zGlobals.hpp"}],"sha":"78085135616d7fcae1f3122fc6316efa91393136"}]
