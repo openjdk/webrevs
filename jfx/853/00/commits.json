@@ -1,0 +1,1 @@
+[{"commit":{"message":"8291087: Wrong position of focus of screen reader on Windows with screen scale > 1"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/win\/WinAccessible.java"},{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/win\/WinTextRangeProvider.java"}],"sha":"a991c463776bd8bf219795efb9736c1b8e51ff09"}]
