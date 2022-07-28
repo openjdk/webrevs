@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify BindingSpecializer::popType\nFix acquire logic to be layout-based"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/BindingSpecializer.java"}],"sha":"5e6794d9674c9a1cd59ab1f17eff4350eaa5e323"}]
