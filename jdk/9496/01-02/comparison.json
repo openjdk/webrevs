@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -725,1 +725,1 @@\n-     *       {@code (index >= 0 && index <= tab count)}\n+     *       {@code (index >= 0 && index <= getTabCount())}\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JTabbedPane.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
