@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -586,2 +586,1 @@\n-    strftime(offset, 6, \"%z\", &localtm);\n-    if (strlen(offset) != 5) {\n+    if (strftime(offset, 6, \"%z\", &localtm) != 5) {\n","filename":"src\/java.base\/unix\/native\/libjava\/TimeZone_md.c","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
