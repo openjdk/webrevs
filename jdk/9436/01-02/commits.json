@@ -1,0 +1,1 @@
+[{"commit":{"message":"reverted icon change, skipped running test on Aqua L&F"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaButtonUI.java"},{"filename":"test\/jdk\/java\/awt\/image\/multiresolution\/MultiresolutionIconTest.java"}],"sha":"8a626c9699140de2c8a7813a2e43ad328d06c6ae"}]
