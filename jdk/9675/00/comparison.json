@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,4 @@\n+    System.out.println(\"memAlloc1:\"+memAlloc1);\n+    System.out.println(\"memAlloc2:\"+memAlloc2);\n+    System.out.println(\"memAlloc3:\"+memAlloc3);\n+\n","filename":"test\/hotspot\/jtreg\/runtime\/NMT\/ThreadedMallocTestType.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
