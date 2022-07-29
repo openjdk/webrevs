@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6,1 +6,1 @@\n- * @compile -Xlint:-options --release 8 WrongVersion.java\n+ * @compile --release 8 WrongVersion.java\n","filename":"test\/langtools\/tools\/javac\/annotations\/repeatingAnnotations\/WrongVersion.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
