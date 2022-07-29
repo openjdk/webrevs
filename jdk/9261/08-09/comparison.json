@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -786,1 +786,1 @@\n-    const Register rounds = 0;\n+    const Register rounds = rax;\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_aes.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
