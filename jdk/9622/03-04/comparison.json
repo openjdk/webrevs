@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @compile NestedCapture.java\n+ * @compile --release 7 -Xlint:-options NestedCapture.java\n","filename":"test\/langtools\/tools\/javac\/generics\/inference\/NestedCapture.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
