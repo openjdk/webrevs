@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-\/\/ Provide default emptyy implementation.\n+\/\/ Provide default empty implementation.\n","filename":"src\/hotspot\/share\/runtime\/os.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
