@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -149,1 +149,1 @@\n-        D3DLight light = lights[i];\n+        D3DLight& light = lights[i];\n","filename":"modules\/javafx.graphics\/src\/main\/native-prism-d3d\/D3DMeshView.cc","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
