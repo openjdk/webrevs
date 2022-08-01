@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -540,1 +540,1 @@\n-    jchar buf[512];\n+    jchar buf[512] = {0};\n","filename":"src\/java.base\/share\/native\/libjava\/jni_util.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
