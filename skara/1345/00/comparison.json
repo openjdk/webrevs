@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,2 @@\n-        while (start.isBefore(now)) {\n+        \/\/ Iterate all the way until start is equal to now\n+        while (!start.isAfter(now)) {\n","filename":"mailinglist\/src\/main\/java\/org\/openjdk\/skara\/mailinglist\/mailman\/MailmanListReader.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
