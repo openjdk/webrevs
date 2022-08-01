@@ -1,0 +1,1 @@
+[{"commit":{"message":"8290432: C2 compilation fails with assert(node->_last_del == _last) failed: must have deleted the edge just produced"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestUnexpectedParallelIV.java"}],"sha":"e91c448e4fa2254cd862f59a84411871b3f5a331"}]
