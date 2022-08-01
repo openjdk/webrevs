@@ -1,0 +1,1 @@
+[{"commit":{"message":"8289658: Avoid redundant LinkedHashMap.get call in TagletManager.addNewSimpleCustomTag\n\nimprove comment"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/taglets\/TagletManager.java"}],"sha":"f4262e58d7056f5b4bea43eeb4a873d935fbd5b3"}]
