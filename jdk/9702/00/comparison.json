@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -470,0 +470,3 @@\n+    if ((*env)->EnsureLocalCapacity(env, 1) < 0)\n+        return NULL;\n+\n","filename":"src\/java.base\/share\/native\/libjava\/jni_util.c","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
