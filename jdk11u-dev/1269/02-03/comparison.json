@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,0 +66,1 @@\n+        processBuilder.redirectError(ProcessBuilder.Redirect.INHERIT);\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/ClhsdbLauncher.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
