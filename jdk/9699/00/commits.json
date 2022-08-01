@@ -1,0 +1,1 @@
+[{"commit":{"message":"8290908: misc tests fail: assert(->owns_locks()) failed: must release all locks when leaving VM"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp"}],"sha":"d34a77279b8ba964b0f42ec5236f8911c00fccef"}]
