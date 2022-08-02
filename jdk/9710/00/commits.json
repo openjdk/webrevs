@@ -1,0 +1,1 @@
+[{"commit":{"message":"8260892: Compilation fails: lambda parameter not visible in body when generics involved"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/generics\/diamond\/ScopeCopyCanGetAlteredTest.java"}],"sha":"620527fb13297f182a311538609b594889e95797"}]
