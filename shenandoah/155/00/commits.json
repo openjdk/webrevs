@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use os::malloc instead of malloc\n\nThis fixes a compiler error with gcc-10.3.0 used by github actions"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.hpp"}],"sha":"551d3a0b626121fc6636f86cab457b8bf2052c7e"}]
