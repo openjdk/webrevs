@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -341,0 +341,5 @@\n+    \/\/ If we discovered only the string of '[', this means something is wrong.\n+    if (end >= limit) {\n+      assert(false, \"Invalid type detected\");\n+      return limit;\n+    }\n","filename":"src\/hotspot\/share\/runtime\/signature.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
