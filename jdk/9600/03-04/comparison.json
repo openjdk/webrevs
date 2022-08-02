@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -700,1 +700,1 @@\n-  \/\/ Used only on PPC for AIX, or LINUX (ppc but not ppcle). \n+  \/\/ Used only on PPC for AIX, or LINUX (ppc but not ppcle).\n","filename":"src\/hotspot\/share\/runtime\/os.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
