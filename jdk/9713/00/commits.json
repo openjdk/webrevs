@@ -1,0 +1,1 @@
+[{"commit":{"message":"8291718: Remove mark_for_deoptimization from klass unloading"},"files":[{"filename":"src\/hotspot\/share\/code\/dependencyContext.cpp"},{"filename":"src\/hotspot\/share\/code\/dependencyContext.hpp"},{"filename":"src\/hotspot\/share\/prims\/methodHandles.cpp"}],"sha":"6f86211c260f2c2fb01f0216eef2e647055cad31"}]
