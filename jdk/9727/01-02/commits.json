@@ -1,0 +1,1 @@
+[{"commit":{"message":"8291822: ARM32: Build errors with GCC 11 in frame::saved_oop_result\n\nSame workaround was applied for other platforms in\nJDK-8270083 and JDK-8271869"},"files":[],"sha":"5596ea103d7562073d3f4024133af8a44206e889"}]
