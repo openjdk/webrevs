@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -558,1 +558,1 @@\n-    s->last_flush = Z_NO_FLUSH;\n+    s->last_flush = -2;\n@@ -652,1 +652,1 @@\n-        s->high_water) {\n+        s->last_flush != -2) {\n","filename":"src\/java.base\/share\/native\/libzip\/zlib\/deflate.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
