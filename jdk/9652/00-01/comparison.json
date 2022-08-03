@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n- * @requires (os.simpleArch == \"x64\" & vm.cpu.features ~= \".*avx2.*\") | os.arch==\"aarch64\"\n+ * @requires os.arch==\"aarch64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestVectorConditionalMove.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
