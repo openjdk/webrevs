@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-     * Test that ThreadMXBean.getThreadInfo(long) with the thread id of a carrier thread.\n+     * Test ThreadMXBean.getThreadInfo(long) with the thread id of a carrier thread.\n","filename":"test\/jdk\/java\/lang\/management\/ThreadMXBean\/VirtualThreads.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
