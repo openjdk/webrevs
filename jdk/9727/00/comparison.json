@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,0 +200,2 @@\n+  PRAGMA_DIAG_PUSH\n+  PRAGMA_NONNULL_IGNORED\n@@ -201,0 +203,1 @@\n+  PRAGMA_DIAG_POP\n@@ -206,0 +209,2 @@\n+  PRAGMA_DIAG_PUSH\n+  PRAGMA_NONNULL_IGNORED\n@@ -207,0 +212,1 @@\n+  PRAGMA_DIAG_POP\n","filename":"src\/hotspot\/cpu\/arm\/frame_arm.inline.hpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8291822: ARM: fix build warnings with GCC11\n\nSame workaround was applied for other platforms in\nJDK-8270083 and JDK-8271869"},"files":[{"filename":"src\/hotspot\/cpu\/arm\/frame_arm.inline.hpp"}],"sha":"552664080056f6feb1e327e29a017601da32ebc9"}]
