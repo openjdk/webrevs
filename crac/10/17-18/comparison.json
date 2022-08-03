@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6185,1 +6185,1 @@\n-  jcmd_operation->effectively_complete(JNI_OK, buf);\n+  jcmd_operation->effectively_complete_raw(JNI_OK, buf);\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
