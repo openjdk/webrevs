@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -218,0 +218,1 @@\n+  MEMORY_DIVIDER := 2048\n@@ -221,0 +222,2 @@\n+      m = $(MEMORY_SIZE) \/ $(MEMORY_DIVIDER); \\\n+      if (c > m) c = m; \\\n","filename":"make\/RunTests.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
