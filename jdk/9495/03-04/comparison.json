@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -265,1 +265,0 @@\n-template class Hashtable<Symbol*, mtSymbol>;\n@@ -272,1 +271,0 @@\n-template class HashtableEntry<Symbol*, mtSymbol>;\n@@ -279,1 +277,0 @@\n-template class BasicHashtable<mtSymbol>;\n","filename":"src\/hotspot\/share\/utilities\/hashtable.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
