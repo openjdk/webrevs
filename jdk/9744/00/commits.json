@@ -1,0 +1,1 @@
+[{"commit":{"message":"8291899: Zero VM is broken on MacOS after JDK-8290840 due to os::setup_fpu() is missing"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_zero\/os_bsd_zero.cpp"}],"sha":"c24ca2ff3b7ee9e7629e6ed5cc7bc90864a0d9a1"}]
