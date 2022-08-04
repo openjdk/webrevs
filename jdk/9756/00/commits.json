@@ -1,0 +1,1 @@
+[{"commit":{"message":"8291266: RenderPerfTest: missing content while rendering some primitives\n\nDo not cause redundant endEncoder calls with batch processing of drawing primitives"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/java2d\/metal\/MTLRenderQueue.m"}],"sha":"a55f8f175162df2a9ca595d77611947fd3651640"}]
