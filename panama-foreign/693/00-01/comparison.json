@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,3 +306,1 @@\n-     * Returns the global memory session.\n-     *\n-     * @return the global memory session\n+     * {@return the global memory session}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemorySession.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
