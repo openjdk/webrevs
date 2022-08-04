@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix for multi selection and updated the test to handle both single and multi selection"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicFileChooserUI.java"},{"filename":"test\/jdk\/javax\/swing\/JFileChooser\/FileChooserSymLinkTest.java"}],"sha":"dc315aa190989e031764d723e79672cb6940ba49"}]
