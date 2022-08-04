@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -630,1 +630,1 @@\n-            errtext = \"\";\n+            errtext = \"Could not properly determine underlying error\";\n","filename":"src\/java.base\/windows\/native\/libjli\/java_md.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
