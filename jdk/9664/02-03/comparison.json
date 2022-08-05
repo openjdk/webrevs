@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    private String defaultText;\n+    private final String defaultText;\n@@ -70,0 +70,1 @@\n+        this.defaultText = null;\n","filename":"src\/java.base\/share\/classes\/javax\/security\/auth\/callback\/TextInputCallback.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
