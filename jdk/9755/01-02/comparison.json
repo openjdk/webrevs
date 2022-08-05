@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,2 @@\n-                s.close();\n+                if (s != null)\n+                    s.close();\n","filename":"test\/jdk\/sun\/net\/www\/http\/KeepAliveCache\/B8291637.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
