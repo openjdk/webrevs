@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    private String defaultName;\n+    private final String defaultName;\n@@ -69,0 +69,1 @@\n+        this.defaultName = null;\n","filename":"src\/java.base\/share\/classes\/javax\/security\/auth\/callback\/NameCallback.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
