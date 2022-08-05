@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,2 @@\n-struct Foo foo = { a, b };\n\\ No newline at end of file\n+struct Foo foo = { a, b };\n+\n","filename":"test\/jtreg\/generator\/test7903239\/libTest7903239.c","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
