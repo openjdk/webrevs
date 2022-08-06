@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,1 @@\n-                \"[0.001s][info][nmt] MallocLimit: category \\\"GC\\\" limit: 1234567891\",\n+                \"[nmt] MallocLimit: category \\\"GC\\\" limit: 1234567891\",\n","filename":"test\/hotspot\/jtreg\/runtime\/NMT\/MallocLimitTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
