@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,1 @@\n+#include \"code\/codeCache.hpp\"\n@@ -1793,0 +1794,1 @@\n+    ShenandoahIsAliveSelector is_alive;\n@@ -1798,1 +1800,0 @@\n-    ShenandoahIsAliveSelector is_alive;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
