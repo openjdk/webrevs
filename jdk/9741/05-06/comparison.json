@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,1 +268,1 @@\n-  volatile signed char _state;         \/\/ {not_installed, in_use, not_entrant}\n+  volatile signed char _state;         \/\/ {not_installed, in_use, not_used, not_entrant}\n","filename":"src\/hotspot\/share\/code\/nmethod.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
