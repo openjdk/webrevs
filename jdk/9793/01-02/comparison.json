@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -207,2 +207,0 @@\n-    char *err;\n-\n@@ -213,1 +211,1 @@\n-    err = strerror(errno);\n+    char *err = strerror(errno);\n","filename":"src\/java.base\/unix\/native\/libjli\/java_md_common.c","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
