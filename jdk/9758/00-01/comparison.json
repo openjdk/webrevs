@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-\/\/ Static information about the operation system. Initialized exactly once\n+\/\/ Static information about the operating system. Initialized exactly once\n","filename":"src\/hotspot\/share\/runtime\/osInfo.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
