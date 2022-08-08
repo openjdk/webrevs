@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+#include \"jni_util.h\"\n","filename":"src\/java.base\/unix\/native\/libjli\/java_md_common.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
