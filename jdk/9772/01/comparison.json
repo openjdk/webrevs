@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-    memset(igLUTable, 0,  LCDLUTCOUNT);\n+    memset(igLUTable, 0, sizeof igLUTable);\n","filename":"src\/java.desktop\/windows\/native\/libfontmanager\/lcdglyph.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
