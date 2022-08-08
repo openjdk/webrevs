@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,3 @@\n-        \/\/ check above.\n+        \/\/ check above, but we still need to count the start region.\n+        immediate_regions++;\n+        immediate_garbage += garbage;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahOldHeuristics.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
