@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8291734: Return accurate ACC_SUPER access flag for classes"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/AccessFlag\/ClassAccessFlagTest.java"}],"sha":"262f9dfbfad57a645c2531df1c2dc38255d93578"}]
