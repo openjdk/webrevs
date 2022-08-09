@@ -1,0 +1,1 @@
+[{"commit":{"message":"8289952: Visual Studio libs msvcp140_1.dll and msvcp140_2.dll missing from build\n\nReviewed-by: arapte, sykora"},"files":[{"filename":"buildSrc\/win.gradle"},{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/Toolkit.java"}],"sha":"6ea6559102e30c886727fcfbfb79c7f51ebf9860"}]
