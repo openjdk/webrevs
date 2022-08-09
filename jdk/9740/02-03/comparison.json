@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-                            str.append(\"&#39\");\n+                            str.append(\"&#39;\");\n","filename":"src\/utils\/IdealGraphVisualizer\/Util\/src\/main\/java\/com\/sun\/hotspot\/igv\/util\/StringUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
