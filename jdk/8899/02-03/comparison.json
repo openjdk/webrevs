@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2109,1 +2109,1 @@\n-    private static String resolvePath(String base, String child)\n+    private static String resolvePath(String base, String child, boolean absolute)\n","filename":"src\/java.base\/share\/classes\/java\/net\/URI.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
