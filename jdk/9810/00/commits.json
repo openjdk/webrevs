@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292082: Deprecate UseRTM* for removal"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java"}],"sha":"6328279bdf12b6973b0e85ff2c05cd318b6234ef"}]
