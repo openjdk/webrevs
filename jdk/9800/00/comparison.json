@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -258,0 +258,1 @@\n+#if INCLUDE_G1GC\n@@ -262,0 +263,1 @@\n+#endif\n@@ -1525,0 +1527,1 @@\n+#if INCLUDE_G1GC\n@@ -1526,0 +1529,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
