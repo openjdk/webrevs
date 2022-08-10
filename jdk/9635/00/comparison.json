@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -805,0 +805,2 @@\n+    cmpl(len_reg, 0);\n+    jcc(Assembler::belowEqual, EXIT_PRELOOP);\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_aes.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
