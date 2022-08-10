@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+import org.openjdk.skara.test.ManualTestSettings;\n@@ -31,1 +32,0 @@\n-import org.openjdk.skara.test.ManualTestSettings;\n","filename":"issuetracker\/src\/test\/java\/org\/openjdk\/skara\/issuetracker\/jira\/JiraProjectTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
