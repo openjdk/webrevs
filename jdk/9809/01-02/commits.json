@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert modules_do() assert Module_lock and taking it for process_module_table.  This should be fixed separately."},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderExt.cpp"},{"filename":"src\/hotspot\/share\/classfile\/moduleEntry.cpp"}],"sha":"aed1a6dad92b03d3d543fafc3d8cc58d47d5ccd3"}]
