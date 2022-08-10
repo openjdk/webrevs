@@ -1,0 +1,1 @@
+[{"commit":{"message":"8289764: gc\/lock tests failed with \"OutOfMemoryError: Java heap space: failed reallocation of scalar replaced objects\""},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/gc\/lock\/LockerTest.java"}],"sha":"f9b0c3702d2d256ad6a3d70910fb0951db8f3256"}]
