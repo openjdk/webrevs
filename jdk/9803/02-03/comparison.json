@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,0 +78,1 @@\n+        oa.shouldContain(\"T1 finished\");\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/daemonDestroy\/TestDaemonDestroy.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
