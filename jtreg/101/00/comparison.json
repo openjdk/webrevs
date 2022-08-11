@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-\tLANG=en_US.UTF-8 TZ=GMT+0.00 \\\n+\tLANG=en_US.UTF-8 TZ=GMT+0.00 DISPLAY=$${DISPLAY:-dummy} \\\n","filename":"test\/rerun\/RerunTest.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
