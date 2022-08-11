@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix test and remove unaligned of size 8 bits"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/ValueLayout.java"},{"filename":"test\/jdk\/java\/foreign\/TestValueLayouts.java"}],"sha":"a3ac209126b55662ba57910989f9e0d1f42aa6bf"}]
