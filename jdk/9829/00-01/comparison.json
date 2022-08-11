@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,1 +173,1 @@\n-    # NOTE: Disable automatic opimization level and let the explicit cflag control\n+    # NOTE: Disable automatic optimization level and let the explicit cflag control\n","filename":"make\/hotspot\/lib\/JvmFeatures.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
