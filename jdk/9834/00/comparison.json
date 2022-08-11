@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -393,1 +393,1 @@\n-      rslt = hcreate_r(n, symtab->hash_table);\n+      rslt = hcreate_r(htab_sz, symtab->hash_table);\n","filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/symtab.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
