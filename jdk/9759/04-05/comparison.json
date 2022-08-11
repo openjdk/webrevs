@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -389,1 +389,1 @@\n-  \/\/ + We then copy the source objects into the output buffer at \"dumped addrsses\".\n+  \/\/ + We then copy the source objects into the output buffer at \"dumped addresses\".\n","filename":"src\/hotspot\/share\/cds\/archiveBuilder.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
