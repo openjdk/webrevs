@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-  \/\/ Returns the size in bytes of memory blocks which can be allocated.\n+  \/\/ Returns the size, in bytes, of the granularity with which memory can be reserved using os::reserve_memory().\n","filename":"src\/hotspot\/share\/runtime\/osInfo.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
