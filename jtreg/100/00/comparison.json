@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -153,0 +153,2 @@\n+\telif [ -r \/opt\/homebrew\/bin\/tidy ]; then \\\n+\t\techo \/opt\/homebrew\/bin\/pandoc ; \\\n","filename":"make\/Defs.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
