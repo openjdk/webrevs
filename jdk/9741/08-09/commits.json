@@ -1,0 +1,1 @@
+[{"commit":{"message":"Trigger GC from adapter blob allocations"},"files":[{"filename":"src\/hotspot\/share\/code\/codeBlob.cpp"},{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"}],"sha":"8c011d7c400ef47e3964f08b2e25a9b1d55c0515"}]
