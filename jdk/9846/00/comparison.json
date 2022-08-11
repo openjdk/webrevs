@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,1 +281,1 @@\n- * @run main\/othervm -Xmx8g\n+ * @run main\/othervm\/timeout=240 -Xmx8g\n@@ -286,1 +286,1 @@\n- * @run main\/othervm -Xmx8g\n+ * @run main\/othervm\/timeout=240 -Xmx8g\n","filename":"test\/jdk\/java\/lang\/instrument\/GetObjectSizeIntrinsicsTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
