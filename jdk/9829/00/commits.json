@@ -1,0 +1,1 @@
+[{"commit":{"message":"Introduce isCompiler utility"},"files":[{"filename":"make\/common\/Utils.gmk"}],"sha":"af0bbe749e2872f5c2a2a007e4eb30fe7b14d0e4"},{"commit":{"message":"Restrict compiler specific options"},"files":[{"filename":"make\/hotspot\/lib\/JvmFeatures.gmk"}],"sha":"2266a13814cc4b6e3349abdcac9c5091592b2053"}]
