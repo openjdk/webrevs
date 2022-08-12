@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,0 @@\n-class ThreadsList;\n@@ -52,0 +51,1 @@\n+class ThreadsList;\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
