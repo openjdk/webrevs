@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1135,0 +1135,1 @@\n+            nf.setMinimumFractionDigits(1);\n@@ -1187,1 +1188,0 @@\n-            nf.setMinimumFractionDigits(1);\n","filename":"src\/java.desktop\/share\/classes\/sun\/swing\/FilePane.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
