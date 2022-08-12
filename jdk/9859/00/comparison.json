@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,0 +104,3 @@\n+     *\n+     * @exception NullPointerException if {@code input} is null\n+     *\n","filename":"src\/java.base\/share\/classes\/javax\/crypto\/MacSpi.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
