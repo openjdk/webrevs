@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -445,1 +445,1 @@\n-    if (UpdateLayeredWindow && !paletteMode) {\n+    if (!paletteMode) {\n","filename":"src\/java.desktop\/windows\/native\/libsplashscreen\/splashscreen_sys.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
