@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n-            + \"Perform the VO action \\\"Show menu\\\" (VO+m)\\n\\n\"\n+            + \"Perform the VO action \\\"Show menu\\\" (VO+Shift+m)\\n\\n\"\n","filename":"test\/jdk\/java\/awt\/a11y\/AccessibleActionsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
