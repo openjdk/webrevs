@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify comment"},"files":[{"filename":"src\/hotspot\/share\/opto\/block.cpp"}],"sha":"e633fbecde2fc22357394775b70d8ac1ef0196c4"},{"commit":{"message":"Remove unreachable blocks after 'convert_NeverBranch_to_Goto'"},"files":[{"filename":"src\/hotspot\/share\/opto\/block.cpp"}],"sha":"a10f6a90a25b589c3c01346d9ac903f599bb3bfb"}]
