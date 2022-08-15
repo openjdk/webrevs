@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -631,1 +631,1 @@\n-        \terrtext = errconflict;\n+            errtext = errconflict;\n","filename":"src\/java.base\/windows\/native\/libjli\/java_md.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
