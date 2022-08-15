@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -427,1 +427,1 @@\n-  void* resolve_function_descriptor(void* p);\n+  static void* resolve_function_descriptor(void* p);\n","filename":"src\/hotspot\/os\/linux\/os_linux.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
