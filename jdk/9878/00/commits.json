@@ -1,0 +1,1 @@
+[{"commit":{"message":"8291775: C2: assert(r != __null && r->is_Region()) failed: this phi must have a region"},"files":[{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/Test7179138_1.java"}],"sha":"0588362126cfe9662e264b8f79f71303dcc3abf2"}]
