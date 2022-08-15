@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292279: (fs) Use try-with-resources to release NativeBuffer\n\napply Alan's suggestion"},"files":[{"filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsFileAttributes.java"}],"sha":"1784e4ee937b9b3473d866a3cc8837fae48e5d50"}]
