@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backout of previous changes, just warn if both are present"},"files":[{"filename":"src\/java.base\/windows\/native\/libjli\/java_md.c"},{"filename":"src\/java.base\/windows\/native\/libjli\/java_md.h"}],"sha":"aec9e5295367eaee2f16a2468b25f6b106fa827d"}]
