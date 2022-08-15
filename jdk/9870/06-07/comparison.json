@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -626,2 +626,2 @@\n-    \terrtext = strerror(errno);\n-    \tif(errtext == NULL) errtext = unknown;\n+        errtext = strerror(errno);\n+        if(errtext == NULL) errtext = unknown;\n","filename":"src\/java.base\/windows\/native\/libjli\/java_md.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
