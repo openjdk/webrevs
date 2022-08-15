@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -618,0 +618,1 @@\n+    jboolean freeit = JNI_FALSE;\n@@ -640,0 +641,1 @@\n+                freeit = JNI_TRUE;\n@@ -680,0 +682,3 @@\n+    if (freeit) {\n+        (void)LocalFree((HLOCAL)errtext);\n+    }\n","filename":"src\/java.base\/windows\/native\/libjli\/java_md.c","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
