@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,0 @@\n-#define EXIT_FAILURE -1 \/\/ mdu\n@@ -826,0 +825,1 @@\n+            \/\/ #define EXIT_FAILURE -1 \/\/ mdu\n","filename":"src\/java.security.jgss\/windows\/native\/libw2k_lsa_auth\/NativeCreds.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
