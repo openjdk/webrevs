@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6272,2 +6272,0 @@\n-    \/\/ If execution comes here, redirect output to console\n-    ostream = tty;\n@@ -6275,0 +6273,2 @@\n+    \/\/If execution comes here, redirect output to console\n+    ostream = tty;\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
