@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix jtreg build with \/usr\/bin\/git available\n\njtreg:\ngenerate.release.file:\nBUILD FAILED\n...\/jtreg\/build\/deps\/jtharness\/src\/jtharness-jt6.0-b23\/build\/build.xml:277: exec returned: 128"},"files":[{"filename":"build\/build.xml"}],"sha":"9e596578d5dcb46c89ba73aeef1159a37c65f12d"}]
