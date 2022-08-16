@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1851,2 +1851,0 @@\n-      } else if (is_subword_type(bt) && size_in_bits > 256 && !VM_Version::supports_avx512bw()) {\n-        return false; \/\/ Implementation limitation\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
