@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -428,1 +428,1 @@\n-static fdStream g_stdout_stream(os::get_fileno(stdout));\n+static fdStream g_stdout_stream(os::get_fileno(stderr));\n","filename":"src\/hotspot\/share\/utilities\/ostream.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
