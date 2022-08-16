@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-static DWORD procedure(_In_ LPVOID ctxt) {\n+DWORD WINAPI procedure(_In_ LPVOID ctxt) {\n","filename":"test\/lib\/native\/testlib_threads.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
