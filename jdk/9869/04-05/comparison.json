@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2455,1 +2455,1 @@\n-              if (REWRITE_BYTECODES && !Arguments::is_dumping_archive()) {\n+              if (REWRITE_BYTECODES && !UseSharedSpaces && !Arguments::is_dumping_archive()) {\n","filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
