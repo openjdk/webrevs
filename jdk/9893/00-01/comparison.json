@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,1 +281,0 @@\n-template class BasicHashtable<mtTracing>;\n","filename":"src\/hotspot\/share\/utilities\/hashtable.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
