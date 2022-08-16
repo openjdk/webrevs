@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -274,1 +274,0 @@\n-template class BasicHashtableEntry<mtCode>;\n@@ -277,1 +276,0 @@\n-template class BasicHashtable<mtCode>;\n","filename":"src\/hotspot\/share\/utilities\/hashtable.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
