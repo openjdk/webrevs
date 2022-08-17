@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -883,1 +883,1 @@\n-\t\t    le.printStackTrace();\n+                    le.printStackTrace();\n","filename":"src\/java.base\/share\/classes\/javax\/security\/auth\/login\/LoginContext.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
