@@ -1,0 +1,1 @@
+[{"commit":{"message":"restructure conditions for legibility\n\n * split assignment to mem_limit from reading it\n * nest if expressions to avoid comparing mem_limit twice"},"files":[{"filename":"src\/hotspot\/os\/linux\/osContainer_linux.cpp"}],"sha":"7f5307d69bbbc6359d1237994a317443b74d01b9"}]
