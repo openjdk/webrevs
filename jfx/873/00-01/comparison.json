@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1302,0 +1302,1 @@\n+                        case DIALOG: result = \"dialog\"; break;\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/mac\/MacAccessible.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
