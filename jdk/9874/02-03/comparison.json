@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -427,1 +427,1 @@\n-\/\/ to a simple always functioning stdout fdstream.\n+\/\/ to a simple always functioning fdstream pointing to stderr.\n","filename":"src\/hotspot\/share\/utilities\/ostream.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
