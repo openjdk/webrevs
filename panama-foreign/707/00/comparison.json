@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-    private static final Class<?> PREVIEW_API = java.lang.foreign.MemoryAddress.class;\n+    private static final Class<?> PREVIEW_API = java.lang.foreign.MemorySegment.class;\n","filename":"test\/hotspot\/jtreg\/runtime\/ClassFile\/ClassFileVersionTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
