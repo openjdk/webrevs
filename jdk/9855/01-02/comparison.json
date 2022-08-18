@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1810,1 +1810,1 @@\n-  Node* cmp = gvn.transform(new VectorTestNode(opd1, opd2, booltest));\n+  Node* cmp = gvn().transform(new VectorTestNode(opd1, opd2, booltest));\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
