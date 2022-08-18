@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292312: Work around memset() called operator new"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.hpp"},{"filename":"src\/hotspot\/share\/utilities\/resourceHash.hpp"}],"sha":"70d1b352aad135aee6553744e33c53477fdf5500"}]
