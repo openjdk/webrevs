@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-  void safe_stats_add() {\n+  inline void safe_stats_add() {\n@@ -52,1 +52,1 @@\n-  void safe_stats_remove() {\n+  inline void safe_stats_remove() {\n","filename":"src\/hotspot\/share\/utilities\/concurrentHashTable.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
