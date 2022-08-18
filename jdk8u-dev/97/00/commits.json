@@ -1,0 +1,1 @@
+[{"commit":{"message":"8148005: One byte may be corrupted by get_datetime_string()\n\nThe bug has been fixed in jdk9, but it wasn't backported to jdk8u."},"files":[{"filename":"hotspot\/src\/share\/vm\/utilities\/ostream.cpp"}],"sha":"093332abf018ba86bbc732f81e8b14ce58e7e7a5"}]

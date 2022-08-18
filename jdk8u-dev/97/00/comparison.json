@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -388,1 +388,1 @@\n-  while (i-- >= 0) {\n+  while (--i >= 0) {\n","filename":"hotspot\/src\/share\/vm\/utilities\/ostream.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
