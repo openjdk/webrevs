@@ -1,0 +1,1 @@
+[{"commit":{"message":"style + use rscratch instead of tmp"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_vector.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_vector_ad.m4"},{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"14b71c006632784699fceeb29070f3b2d884582a"}]
