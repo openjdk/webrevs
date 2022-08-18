@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-    if (ss == 0) {\n+    if (ss == SEC_E_OK) {\n","filename":"src\/java.base\/windows\/native\/libnet\/NTLMAuthSequence.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
