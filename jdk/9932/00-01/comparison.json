@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -530,2 +530,2 @@\n-    lea(rscratch1, src2);\n-    Assembler::cmpq(src1, Address(rscratch1, 0));\n+    lea(rscratch, src2);\n+    Assembler::cmpq(src1, Address(rscratch, 0));\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
