@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -918,3 +918,0 @@\n-\n- private:\n-  \/\/ Default number of entries in the table\n","filename":"src\/hotspot\/share\/oops\/constantPool.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
