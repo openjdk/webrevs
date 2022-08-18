@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -346,0 +346,1 @@\n+        free(wstr);\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/utf_util.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
