@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,2 +46,0 @@\n-  jlong host_memory = os::Linux::physical_memory();\n-\n","filename":"src\/hotspot\/os\/linux\/osContainer_linux.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
