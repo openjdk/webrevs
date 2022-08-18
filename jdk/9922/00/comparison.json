@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2305,1 +2305,1 @@\n-  _page_sizes.add(os::vm_page_size);\n+  _page_sizes.add(os::vm_page_size());\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
