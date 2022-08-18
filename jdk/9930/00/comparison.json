@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @requires os.arch==\"aarch64\"\n+ * @requires vm.debug & os.arch==\"aarch64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/sharedstubs\/SharedTrampolineTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
