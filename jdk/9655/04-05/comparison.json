@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1472,2 +1472,1 @@\n-      \/\/ TODO: Fix terminology\n-      \/\/ It's a true state change, so mark the method as decompiled.\n+      \/\/ Increment the decompile count\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
