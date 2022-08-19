@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292043: Incorrect decoding near EOF for stateful decoders like UTF-16"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/StreamDecoder.java"},{"filename":"test\/jdk\/java\/io\/InputStreamReader\/StatefulDecoderNearEOF.java"}],"sha":"24977db257f7334810decfe94bd5dd537c93d39d"}]
