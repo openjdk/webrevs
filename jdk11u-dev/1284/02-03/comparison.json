@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3547,1 +3547,1 @@\n-      __ mov(tmp, (address)markOop::unused_mark());\n+      __ mov(tmp, (address)markOop::unused_mark().value());\n","filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
