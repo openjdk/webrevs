@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,1 +151,1 @@\n-  assert(NULL == pointee->mark(), \"invariant\");\n+  assert(NULL == pointee->mark().to_pointer(), \"invariant\");\n","filename":"src\/hotspot\/share\/jfr\/leakprofiler\/chains\/bfsClosure.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
