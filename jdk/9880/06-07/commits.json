@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove cgroup sanity checking logic from os::Linux::available_memory\n\nand rely upon it from os::physical_memory instead."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"caa7913c8a1187cfe506cfbbc66be83551b783b6"}]
