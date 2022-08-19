@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename LoaderConstraintEntry, which isn't a loader constraint, to ClassNameEntry."},"files":[{"filename":"src\/hotspot\/share\/classfile\/loaderConstraints.cpp"}],"sha":"e0b0995b063e78aef4eb14eb57b7ba6024697278"}]
