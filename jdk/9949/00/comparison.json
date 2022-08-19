@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -228,1 +228,1 @@\n-     * @implSpec Implementations should check if a variable is {@code null}\n+     * @implNote Implementations should check if a variable is {@code null}\n","filename":"src\/java.base\/share\/classes\/javax\/security\/auth\/spi\/LoginModule.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
