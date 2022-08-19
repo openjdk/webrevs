@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292562: Do not use copy_file_range() when appending"},"files":[{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/FileChannelImpl.c"}],"sha":"ee29211e7ebdfc6d9127bcf093de2a475f9c1a3a"}]
