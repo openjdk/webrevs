@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n-     *     property1.bindBicirectional(property2);\n+     *     property1.bindBidirectional(property2);\n","filename":"modules\/javafx.base\/src\/main\/java\/javafx\/beans\/property\/Property.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
