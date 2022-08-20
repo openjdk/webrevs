@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292647: javac\/lambda\/T8031967.java fails with StackOverflowError when use -XX:TieredStopAtLevel=3 on aarch64 and LoongArch"},"files":[{"filename":"test\/langtools\/tools\/javac\/lambda\/T8031967.java"}],"sha":"fdd211b43639c8c991e2f61e791b1c623852cd60"}]
