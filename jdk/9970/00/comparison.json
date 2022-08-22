@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -422,0 +422,1 @@\n+  case vmIntrinsics::_allocateInstance:\n@@ -432,1 +433,0 @@\n-  case vmIntrinsics::_allocateInstance:\n","filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
