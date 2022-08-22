@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+#include \"utilities\/resourceHash.hpp\"\n","filename":"src\/hotspot\/share\/oops\/constantPool.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
