@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,3 +41,0 @@\n-    private static final String UNIX_MODULE = \"UnixLoginModule\";\n-    private static final String NT_MODULE = \"NTLoginModule\";\n-\n","filename":"test\/jdk\/javax\/security\/auth\/login\/LoginContext\/OptionalJaas\/UnixNTPlatform.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
