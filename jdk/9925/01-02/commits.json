@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292562: Also exclude sendfile when appending"},"files":[{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/FileChannelImpl.c"}],"sha":"88750dc52fa1d043569a9ccbc3183facf9ce8f56"}]
