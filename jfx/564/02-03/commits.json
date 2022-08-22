@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8269921\nReverted the change to the layout, so we can fix the main-bug without further discussions."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/text\/Text.java"}],"sha":"404f7103495d931f28c501fa9dd457af4f910db8"}]
