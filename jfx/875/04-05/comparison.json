@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,2 @@\n- * Tests wor\/cell seleciton logic for JDK-8292353.\n+ * Tests for:\n+ * - cell seleciton logic JDK-8292353.\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/TreeAndTableViewTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
