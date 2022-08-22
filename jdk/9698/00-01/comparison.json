@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -435,1 +435,1 @@\n-                : ByteBuffer.allocate(capacity + (capacity >> 1));\n+                : ByteBuffer.allocate(capacity);\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/file\/BaseFileManager.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
