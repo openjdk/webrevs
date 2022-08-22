@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-        return Collections.unmodifiableList(elements);\n+        return elements; \/\/ \"elements\" are already unmodifiable.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/layout\/AbstractGroupLayout.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
