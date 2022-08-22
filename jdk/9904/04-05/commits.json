@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix copying to longer array rather than shorter one.  Make ConstraintSet noncopyable."},"files":[{"filename":"src\/hotspot\/share\/classfile\/loaderConstraints.cpp"}],"sha":"a12c0dde251e3a89954f7732df29f2b0e6fb7aa6"}]
