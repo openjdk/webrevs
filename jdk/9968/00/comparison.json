@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,3 @@\n-      Universe::heap()->keep_alive(obj);\n+      if (obj != nullptr) {\n+        Universe::heap()->keep_alive(obj);\n+      }\n","filename":"src\/hotspot\/share\/gc\/shared\/barrierSetNMethod.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
