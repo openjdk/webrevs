@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,0 +45,2 @@\n+import static jdk.test.lib.Asserts.assertNotNull;\n+\n@@ -113,0 +115,1 @@\n+        assertNotNull(goodMem, \"no match for 'total physical memory' in trace output\");\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TestMemoryAwareness.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
