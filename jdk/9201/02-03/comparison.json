@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,1 +268,1 @@\n-        List<String> badInternalNames = List.of(\"I;\", \"[]\",\n+        List<String> badInternalNames = List.of(\"I;\", \"[]\", \"[Ljava\/lang\/String;\",\n","filename":"test\/jdk\/java\/lang\/constant\/ClassDescTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
