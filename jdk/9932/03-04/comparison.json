@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -12238,3 +12238,1 @@\n-  if (!is_reachable) {\n-    assert(!always_reachable(adr), \"sanity\");\n-  }\n+  assert(is_reachable || !always_reachable(adr), \"sanity\");\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
