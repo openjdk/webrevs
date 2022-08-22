@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3916,1 +3916,1 @@\n-     * collapsed into to the single positive zero.\n+     * collapsed to the single positive zero.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/geom\/AffineTransform.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
