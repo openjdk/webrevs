@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-        Objects.requireNonNull(this.inputFileName, \"Input file name should be defined.\");\n+        Objects.requireNonNull(this.inputFileName, \"Input must be defined.\");\n","filename":"src\/org\/openjdk\/asmtools\/common\/Environment.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
