@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove superfluous log line from os::Linux::available_memory\n\nNow that os::Linux::available_memory calls\nOSContainer::memory_limit_in_bytes,  we can remove a log_debug\nthat replicates the logging that takes place there."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"40930a81b6acfd5bace2aa55b2c19ffd75733b7d"}]
