@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -569,0 +569,1 @@\n+  Unique_Node_List _safepoints;\n@@ -585,1 +586,0 @@\n-  Unique_Node_List _safepoints;\n","filename":"src\/hotspot\/share\/opto\/phaseX.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
