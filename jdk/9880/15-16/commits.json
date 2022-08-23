@@ -1,0 +1,1 @@
+[{"commit":{"message":"avoid calling OSContainer::memory_usage_in_bytes\n\nif mem_limit isn't set, avoid calling OSContainer::memory_usage_in_bytes"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"ac6469310bc08ae37fa9a4951c2dbef24e4ad6c3"}]
