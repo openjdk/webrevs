@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292494: Ensure SystemDictionary::set_platform_loader and set_system_loader are called only once"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"4a36f560d2f83a19153275c7df6c429d0fe4d08e"}]
