@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8292769: CompileBroker aborts a compilation when the JVMCIRuntime::AttachCurrentThread fails with JNI_ENOMEM."},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.hpp"}],"sha":"916695af5bad9689bf40a41aefc0a557a021a76f"}]
