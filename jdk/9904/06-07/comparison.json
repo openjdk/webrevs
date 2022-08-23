@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,2 +33,0 @@\n-class LoaderConstraintEntry;\n-class PlaceholderTable;\n","filename":"src\/hotspot\/share\/classfile\/loaderConstraints.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
