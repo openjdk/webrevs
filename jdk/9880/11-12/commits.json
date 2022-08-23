@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid memory_usage_in_bytes when unconstrained\n\nThanks to Severin for the suggestion. When there is no memory limit\nin place, avoid calling OSContainer::memory_usage_in_bytes, instead\npreferring the non-container sysinfo approach."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"608650509542e48c6696f90aa853b499e5760eb3"}]
