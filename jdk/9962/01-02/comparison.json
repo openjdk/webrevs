@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,1 +171,3 @@\n-  ~TestThreadGroup() {}\n+  ~TestThreadGroup() {\n+    FREE_C_HEAP_ARRAY(BasicTestThread<F>*, _threads);\n+  }\n","filename":"test\/hotspot\/gtest\/threadHelper.inline.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
