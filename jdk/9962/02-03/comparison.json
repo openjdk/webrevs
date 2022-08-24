@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,1 @@\n-  char symbol_name[30];\n+  char symbol_name[symbol_name_length];\n","filename":"test\/hotspot\/gtest\/classfile\/test_symbolTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
