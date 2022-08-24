@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292739: Invalid legacy entries may be returned by Provider.getServices() call"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/security\/Provider.java"},{"filename":"test\/jdk\/java\/security\/Provider\/CaseSensitiveServices.java"}],"sha":"81ed8ff0cd0f873f3585e5e3c73b53af4de82cc6"}]
