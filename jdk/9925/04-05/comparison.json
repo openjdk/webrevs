@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -573,0 +573,1 @@\n+            boolean append = fdAccess.getAppend(targetFD);\n@@ -576,1 +577,0 @@\n-                    boolean append = fdAccess.getAppend(targetFD);\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/FileChannelImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
