@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-                objectSize = memoryStrategy.getSize(memory);\n+                objectSize = memoryStrategy.getSize(memory) \/ runParams.getNumberOfThreads();\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/gc\/ArrayJuggle\/Juggle01\/Juggle01.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
