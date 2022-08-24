@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1325,2 +1325,1 @@\n-      if (!r->is_starts_humongous() ||\n-          !g1h->region_attr(r->hrm_index()).is_humongous() ||\n+      if (!g1h->region_attr(r->hrm_index()).is_humongous() ||\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
