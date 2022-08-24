@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -345,0 +345,3 @@\n+  \/\/ In RISC-V, when this method is inlined, the condition behaves\n+  \/\/ incorrectly if the nmethod is compiled by JVMCI, causing the\n+  \/\/ method to return a negative index which is not -1\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
