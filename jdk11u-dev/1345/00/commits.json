@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287741: Fix of JDK-8287107 (unused cgv1 freezer controller) was incomplete\n\nReviewed-by: iklam"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp"}],"sha":"26f635ced0aa294104766780839b309a0aab8b98"}]
