@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,1 +97,1 @@\n-  static address  ptrs_base_addr()           { return &_narrow_oop._base; }\n+  static address  ptrs_base_addr()           { return (address)&_narrow_oop._base; }\n","filename":"src\/hotspot\/share\/oops\/compressedOops.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
