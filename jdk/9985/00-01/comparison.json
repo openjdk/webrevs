@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,1 @@\n-            log(\"just a tiny mint\");\n+            log(\"and finally, a wafer-thin mint\");\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/metaspace\/shrink_grow\/ShrinkGrowTest\/ShrinkGrowTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
