@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4504,1 +4504,1 @@\n-  pushptr(buffer.addr(), rax \/*rscratch*\/);\n+  pushptr(buffer.addr(), rscratch1);\n@@ -4574,1 +4574,1 @@\n-  pushptr(buffer.addr(), rax \/*rscratch*\/);\n+  pushptr(buffer.addr(), rscratch1);\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
