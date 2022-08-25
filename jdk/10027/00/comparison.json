@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,3 @@\n+#if INCLUDE_JVMCI\n+#include \"jvmci\/jvmci_globals.hpp\"\n+#endif\n","filename":"src\/hotspot\/share\/compiler\/oopMap.inline.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

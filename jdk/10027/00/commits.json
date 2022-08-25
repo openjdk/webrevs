@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292919: Build failure due to UseJVMCICompiler was not declared when C2 is disabled after JDK-8292691"},"files":[{"filename":"src\/hotspot\/share\/compiler\/oopMap.inline.hpp"}],"sha":"6d283131a329e2e47f38d504d5bf6c9e41070547"}]
