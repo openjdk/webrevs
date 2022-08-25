@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,1 +217,1 @@\n-      st->print(\" (\" PTR64_FORMAT \")\", obj->long_field(offset()));\n+      st->print(\" (\" PTR_FORMAT \")\", obj->long_field(offset()));\n","filename":"src\/hotspot\/share\/runtime\/fieldDescriptor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
