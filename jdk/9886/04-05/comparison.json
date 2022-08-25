@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -962,1 +962,1 @@\n-    ResourceMark rm;\n+    ResourceMark rm(thread);\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
