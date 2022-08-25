@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -531,0 +531,2 @@\n+  jlong phys_mem = os::Linux::physical_memory();\n+  log_trace(os, container)(\"total physical memory: \" JLONG_FORMAT, phys_mem);\n","filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

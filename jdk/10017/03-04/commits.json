@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add a log-line for total physical memory\n\nThis is relied upon for tests in\ntest\/hotspot\/jtreg\/containers\/docker\/TestMemoryAwareness.java"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp"}],"sha":"1bf3aa341fd93079289f11e620938e6bed40b382"}]
