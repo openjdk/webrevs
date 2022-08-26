@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,1 +169,1 @@\n-#define INTPTR_FORMAT_H_W         \"%\"  #width PRIxPTR\n+#define INTPTR_FORMAT_H_W(width) \"%\"   #width PRIxPTR\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
