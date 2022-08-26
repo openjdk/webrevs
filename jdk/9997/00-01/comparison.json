@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2168,1 +2168,1 @@\n-        Node *u_c = u->in(0);\n+        Node* u_c = u->in(0);\n@@ -2170,1 +2170,1 @@\n-          IdealLoopTree *u_c_loop = phase->get_loop(u_c);\n+          IdealLoopTree* u_c_loop = phase->get_loop(u_c);\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
