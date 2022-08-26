@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n- * @implNote The default implementation of the character boundary analysis\n+ * @implSpec The default implementation of the character boundary analysis\n","filename":"src\/java.base\/share\/classes\/java\/text\/BreakIterator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
