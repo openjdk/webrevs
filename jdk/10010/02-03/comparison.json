@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -575,1 +575,1 @@\n-#endif \/\/ INCLUDE\n+#endif \/\/ INCLUDE_CDS\n","filename":"src\/hotspot\/share\/oops\/klass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
