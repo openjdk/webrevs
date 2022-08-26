@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -383,0 +383,4 @@\n+      \/\/ The iterator is supposed to shortcut since we have\n+      \/\/ _heap == _end, but make sure we do not have garbage\n+      \/\/ in other fields as well.\n+      _code_blob = nullptr;\n","filename":"src\/hotspot\/share\/code\/codeCache.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
