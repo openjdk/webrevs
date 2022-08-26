@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n- * @build jdk.test.lib.Platform\n@@ -40,1 +39,0 @@\n-import jdk.test.lib.Platform;\n","filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/TransferToAppending.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
