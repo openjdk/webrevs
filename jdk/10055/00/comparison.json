@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,0 +193,1 @@\n+                case ENOSYS:\n@@ -310,0 +311,2 @@\n+        if (errno == ENOSYS)\n+            return IOS_UNSUPPORTED_CASE;\n","filename":"src\/java.base\/unix\/native\/libnio\/ch\/FileChannelImpl.c","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
