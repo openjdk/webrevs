@@ -1,0 +1,1 @@
+[{"commit":{"message":"Returns new Color. RGB functions case insensitive.\n\nPreserves previous behaviors. Each method call creates a new instance of Color.\r\nRGB functions should be treated as case insensitive."},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSS.java"}],"sha":"5a092e3f79b175e76d220d9412327914a8fa7f1c"}]
