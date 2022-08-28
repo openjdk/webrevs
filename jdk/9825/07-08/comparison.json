@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,0 @@\n-import java.util.TreeMap;\n@@ -1401,1 +1400,1 @@\n-        } else if (str.length() == 0) {\n+        } else if (str.isEmpty()) {\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSS.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
