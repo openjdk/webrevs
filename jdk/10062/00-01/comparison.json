@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -232,1 +232,1 @@\n-    JMOD_SMALL_FLAGS += $(JAVA_TOOL_FLAGS_SMALL)\n+  JMOD_SMALL_FLAGS += $(JAVA_TOOL_FLAGS_SMALL)\n","filename":"make\/CreateJmods.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
