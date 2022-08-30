@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-inline VMReg FloatRegister::FloatRegister::FloatRegisterImpl::as_VMReg() const {\n+inline VMReg FloatRegister::FloatRegisterImpl::as_VMReg() const {\n","filename":"src\/hotspot\/cpu\/riscv\/vmreg_riscv.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
