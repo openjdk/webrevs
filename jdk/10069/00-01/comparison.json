@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n-        initCache(4096, parseCacheNumPagesProperty(1024 * 64));\n+      initCache(4096, parseCacheNumPagesProperty(1024 * 64));\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/debugger\/windbg\/WindbgDebuggerLocal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
