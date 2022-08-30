@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,0 +237,5 @@\n+        @Override\n+        String mods() {\n+            return \"final \"; \/\/ Constants$root package-private!\n+        }\n+\n","filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/ToplevelBuilder.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
