@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,0 @@\n-\n@@ -34,1 +33,1 @@\n- * @requires vm.hasJFR\n+ * @requires vm.hasJFR & (os.family != \"windows\")\n","filename":"test\/jdk\/jdk\/jfr\/api\/recording\/dump\/TestDumpDevNull.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
