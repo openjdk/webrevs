@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -549,1 +549,1 @@\n-      # We use the default, which is roughly C89 + certain chosen extensions. CS2017 will need to\n+      # We use the default, which is roughly C89 + certain chosen extensions. VS2017 will need to\n","filename":"make\/autoconf\/flags-cflags.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
