@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-    private static final double ZOOM_INCREMENT = 1.2;\n+    private static final double ZOOM_INCREMENT = 1.3;\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/DiagramScene.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
