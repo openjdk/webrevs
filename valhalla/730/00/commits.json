@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293120: [lworld] javac is rejecting correct class declaration that has a combination of value and sealed modifiers"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"}],"sha":"c27ab69f3cdcc532e2c8acf6700894d28796623b"}]
