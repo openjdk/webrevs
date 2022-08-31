@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1700,1 +1700,3 @@\n-  assert(env->is_enabled(JVMTI_EVENT_OBJECT_FREE), \"checking\");\n+  if (!env->is_enabled(JVMTI_EVENT_OBJECT_FREE)) {\n+    return; \/\/ the event type has been already disabled\n+  }\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293010: JDI ObjectReference\/referringObjects\/referringObjects001 fails assert(env->is_enabled(JVMTI_EVENT_OBJECT_FREE)) failed: checking"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"2e7491036a9715787115f4528a5fb59d293ca8ed"}]
