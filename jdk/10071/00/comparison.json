@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5,1 +5,1 @@\n-javatest.maxOutputSize = 250000\n+maxOutputSize = 250000\n","filename":"test\/jdk\/jdk\/lambda\/TEST.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
