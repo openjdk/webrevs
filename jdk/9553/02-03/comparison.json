@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1622,0 +1622,1 @@\n+  \/\/ and    x u> 0 or u>= 1   to x != 0\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
