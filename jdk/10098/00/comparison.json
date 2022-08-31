@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -403,2 +403,0 @@\n-  void print_heap_change(size_t prev_used) const;\n-\n","filename":"src\/hotspot\/share\/gc\/shared\/generation.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
