@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293008: Replace uses of StringBuffer with StringBuilder in MergeCollation\n\nuse private for methods which changed signature"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/text\/PatternEntry.java"}],"sha":"e85e3c34dfe41c7481be35de2a43f0689941dbee"}]
