@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1486,0 +1486,3 @@\n+        case T_METADATA:\n+          __ mov_metadata(result->as_register(), c->as_metadata(), acond);\n+          break;\n","filename":"src\/hotspot\/cpu\/arm\/c1_LIRAssembler_arm.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
