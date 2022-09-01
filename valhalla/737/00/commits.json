@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293172: [lworld] Folding of default value loads is broken"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestIntrinsics.java"}],"sha":"957b2c75517e3365245ccaa6db443c9b90143ff6"}]
