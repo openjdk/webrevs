@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,1 +210,1 @@\n-        opSessions.release(session);\n+        releaseSession(session);\n","filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/SessionManager.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
