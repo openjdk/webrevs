@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1686,1 +1686,0 @@\n-  GCCause::Cause gc_cause = heap->gc_cause();\n@@ -1689,1 +1688,0 @@\n-  PSAdaptiveSizePolicy* policy = heap->size_policy();\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
