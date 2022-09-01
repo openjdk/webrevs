@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -808,1 +808,1 @@\n-                        ? new File(filesToScan[i]) \n+                        ? new File(filesToScan[i])\n","filename":"src\/com\/sun\/javatest\/TRT_TreeNode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
