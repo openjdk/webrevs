@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -170,1 +170,1 @@\n-     * Reads from the current ZIP entry into an array of bytes, returning the number of\n+     * Reads from the current JAR entry into an array of bytes, returning the number of\n","filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
