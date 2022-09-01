@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -456,0 +456,3 @@\n+        StackTraceElement[] trace = Thread.currentThread().getStackTrace();\n+        for (StackTraceElement traceElement : trace)\n+            System.err.println(\"\\tat \" + traceElement);\n","filename":"test\/jdk\/com\/sun\/jdi\/TestScaffold.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
