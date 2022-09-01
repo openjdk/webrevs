@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2082,0 +2082,2 @@\n+    \/\/ This function could get an OOM but it is safe to call inside of a lock because\n+    \/\/ throwing OutOfMemoryError doesn't call Java code.\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
