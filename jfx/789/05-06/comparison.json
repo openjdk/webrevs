@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,2 @@\n-VsOutput main(VsInput vsInput) {\n+\/\/ VertexType = VsInput as defined the gradle build file\n+VsOutput main(VertexType vsInput) {\n","filename":"modules\/javafx.graphics\/src\/main\/native-prism-d3d\/hlsl\/Mtl1VS.hlsl","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
