@@ -1,0 +1,1 @@
+[{"commit":{"message":"reduce test runtime on slow hardware"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/TestTrimNative.java"}],"sha":"35938c69b1684a646251426fe1c786942f710dcc"},{"commit":{"message":"make tests more stable on slow hardware"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/TestTrimNative.java"}],"sha":"cbf027a0640c69d2de0af0c93506d04d9b74a57e"}]
