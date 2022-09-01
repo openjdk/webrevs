@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -457,1 +457,1 @@\n-        for (StackTraceElement traceElement : trace)\n+        for (StackTraceElement traceElement : trace) {\n@@ -459,0 +459,1 @@\n+        }\n","filename":"test\/jdk\/com\/sun\/jdi\/TestScaffold.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
