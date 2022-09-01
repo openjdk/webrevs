@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8283627 - Update MachineDescription.java\n\nJDK-8283627 - Update comment also in MachineDescription.java regarding LP64 (as noted by @plummercj, @sspitsyn)"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/debugger\/MachineDescription.java"}],"sha":"6a0efae0f14d831e7c320dc7b40c923d88a8ce70"}]
