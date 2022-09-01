@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3285,0 +3285,2 @@\n+  \/\/ PhantomReference has it's own implementation of refersTo().\n+  assert(!java_lang_ref_Reference::is_phantom(ref_oop), \"precondition\");\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
