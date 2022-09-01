@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix code fixing access flags in old class files"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/jdk.vm.ci.runtime.test\/src\/jdk\/vm\/ci\/runtime\/test\/TestResolvedJavaType.java"}],"sha":"41aa059a151be37748b1a0315de985e4ee969d65"}]
