@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293314: [lworld] C2 OSR compilation fails with assert(_gvn.type(l)->higher_equal(type)) failed: must constrain OSR typestate"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestArrays.java"}],"sha":"84d88e781b801d608ccd06661a813e3c89303ed3"}]
