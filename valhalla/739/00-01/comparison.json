@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3342,1 +3342,1 @@\n-      if(!supports_inline_types()) {\n+      if (!supports_inline_types()) {\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
