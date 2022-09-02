@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1855,1 +1855,1 @@\n-  if (use->is_Call() || use->is_AllocateArray()) {\n+  if (use->is_Call()) {\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
