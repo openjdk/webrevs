@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -265,1 +265,1 @@\n-        return (unparseableExtensions == null) ? \n+        return (unparseableExtensions == null) ?\n","filename":"src\/java.base\/share\/classes\/sun\/security\/x509\/CertificateExtensions.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
