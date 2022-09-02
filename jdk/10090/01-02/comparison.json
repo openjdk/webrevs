@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,3 +61,3 @@\n-        if (address % 4 == 0) {\n-            return;\n-        }\n+      if (address % 4 == 0) {\n+        return;\n+      }\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/debugger\/DebuggerUtilities.java","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
