@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,1 @@\n+ * @requires os.arch==\"amd64\" | os.arch==\"x86_64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/CmpUWithZero.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
