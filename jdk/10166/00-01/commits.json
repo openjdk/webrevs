@@ -1,0 +1,1 @@
+[{"commit":{"message":"alternative implementation where instrumented code is directly checking Thread::interrupted"},"files":[{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/execution\/LocalExecutionControl.java"}],"sha":"0f0e0dd17c121955e7806073bb8cc78da1f133ea"}]
