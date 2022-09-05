@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -495,1 +495,1 @@\n-            out.write(buf, pos, avail);\n+            out.write(getBufIfOpen(), pos, avail);\n","filename":"src\/java.base\/share\/classes\/java\/io\/BufferedInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
