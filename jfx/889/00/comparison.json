@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,3 @@\n+permissions:\n+  contents: read\n+\n","filename":".github\/workflows\/submit.yml","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
