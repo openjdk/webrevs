@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293361: GHA: dump config.log in case of configure failure"},"files":[{"filename":".github\/workflows\/build-cross-compile.yml"},{"filename":".github\/workflows\/build-linux.yml"},{"filename":".github\/workflows\/build-macos.yml"},{"filename":".github\/workflows\/build-windows.yml"}],"sha":"8f3eccad0ff64d3c3f83586ade99e4e084bcee7e"}]
