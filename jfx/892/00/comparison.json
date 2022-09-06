@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,0 +81,4 @@\n+if (USE_SYSTEM_MALLOC)\n+    message(STATUS \"Using system malloc\")\n+    add_definitions(-DUSE_SYSTEM_MALLOC)\n+endif ()\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/PlatformJava.cmake","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
