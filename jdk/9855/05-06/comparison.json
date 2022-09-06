@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,1 +180,0 @@\n-    public static final String CMP_I = START + \"CmpI\" + MID + END;\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
