@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292654: G1 remembered set memory footprint regression after JDK-8286115\n\nReviewed-by: ayang, iwalulya"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1_globals.hpp"}],"sha":"a5b255cb64a912626a8ffc714b5c5a7a6aa20f31"}]
