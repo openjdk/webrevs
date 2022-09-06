@@ -1,0 +1,1 @@
+[{"commit":{"message":"handle nullptr for caller argument in JfrResolution::on_jvmci_resolution"},"files":[{"filename":"src\/hotspot\/share\/jfr\/instrumentation\/jfrResolution.cpp"},{"filename":"test\/jdk\/jdk\/jfr\/jvm\/TestGetEventWriter.java"}],"sha":"63fc056d867d948a53032472a86fec9c60a9c109"}]
