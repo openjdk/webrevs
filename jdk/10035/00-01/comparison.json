@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-                    \"PasswordField.echoChar returns null for NimbusL&F\");\n+                    \"PasswordField.echoChar returns null\");\n","filename":"test\/jdk\/javax\/swing\/plaf\/nimbus\/PasswordFieldTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
