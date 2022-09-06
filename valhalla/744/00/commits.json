@@ -1,0 +1,1 @@
+[{"commit":{"message":"Access flag test of raw flags will see ACC_IDENTITY instead of ACC_SUPER"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/ClassFile\/ClassAccessFlagsRawTest.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/ClassFile\/classAccessFlagsRaw.jcod"}],"sha":"eb1363b9f971c381bcb2a7eff7412039556ce839"}]
