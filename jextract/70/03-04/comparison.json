@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,0 +24,6 @@\n+#ifdef _WIN64\n+#define EXPORT __declspec(dllexport)\n+#else\n+#define EXPORT\n+#endif\n+\n@@ -25,1 +31,1 @@\n-void func2(int);\n+EXPORT void func2(int);\n","filename":"test\/testng\/org\/openjdk\/jextract\/test\/toolprovider\/test7903285.h","additions":7,"deletions":1,"binary":false,"changes":8,"status":"modified"}]}
