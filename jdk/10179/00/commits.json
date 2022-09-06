@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8293402-hs-err-file-printer-should-reattempt-stack-trace-printing-if-it-fails"},"files":[{"filename":"src\/hotspot\/share\/utilities\/debug.cpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.cpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.hpp"}],"sha":"a85b62bdec2d16b1f0fe39ffdd367573fe33c998"}]
