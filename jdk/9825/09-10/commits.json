@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adds a test for null value.\n\nThe stringToColor method accepts null argument and must returns null."},"files":[{"filename":"test\/jdk\/javax\/swing\/text\/html\/CSS\/JDK8292276MissingColorNamesInCSS\/JDK8292276MissingColorNamesInCSS.java"}],"sha":"05ec5d323881ee012e970826f7a289f276a0fcf4"}]
