@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293500: [lworld] runtime\/NMT\/MallocLimitTest.java#invalid-settings crashes after merge"},"files":[{"filename":"src\/hotspot\/share\/memory\/allocation.hpp"},{"filename":"src\/hotspot\/share\/services\/nmtCommon.cpp"}],"sha":"678f4184a5866677ce2c112bb3b4cb5d1d8dca2c"}]
