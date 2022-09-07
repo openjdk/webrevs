@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293474: RISC-V: Unify the way of moving function pointer"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shenandoah\/shenandoahBarrierSetAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp"}],"sha":"6935d5af4e8b42e20235b2a498149e450e9b7275"}]
