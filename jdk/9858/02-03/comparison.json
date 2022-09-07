@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-\tEventQueue.invokeAndWait(PrintCheckboxManualTest::createTestUI);\n+        EventQueue.invokeAndWait(PrintCheckboxManualTest::createTestUI);\n","filename":"test\/jdk\/java\/awt\/PrintJob\/PrintCheckboxTest\/PrintCheckboxManualTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
