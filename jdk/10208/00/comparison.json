@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-gc\/metaspace\/TestMetaspacePerfCounters.java#Epsilon-64 8293503 macosx-all,windows-x64\n+gc\/metaspace\/TestMetaspacePerfCounters.java#Epsilon-64 8293503 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
