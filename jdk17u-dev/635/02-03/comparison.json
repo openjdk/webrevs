@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2341,1 +2341,1 @@\n-    JvmtiThreadState *state = thread->as_Java_Thread()->jvmti_thread_state();\n+    JvmtiThreadState *state = thread->as_Java_thread()->jvmti_thread_state();\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
