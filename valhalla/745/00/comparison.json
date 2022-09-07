@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -678,1 +678,2 @@\n-    _c2i_no_clinit_check_entry(c2i_no_clinit_check_entry)\n+    _c2i_no_clinit_check_entry(c2i_no_clinit_check_entry),\n+    _sig_cc(NULL)\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
