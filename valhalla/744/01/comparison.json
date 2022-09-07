@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @bug 8291360\n+ * @bug 8291360 8293448\n@@ -31,1 +31,1 @@\n- * @run main\/othervm ClassAccessFlagsRawTest\n+ * @run main\/othervm -XX:-EnableValhalla ClassAccessFlagsRawTest\n","filename":"test\/hotspot\/jtreg\/runtime\/ClassFile\/ClassAccessFlagsRawTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
