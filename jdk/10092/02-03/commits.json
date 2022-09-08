@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix MSVC warning C4267\n\nMSVC reports logAsyncWriter.cpp(62): warning C4267: 'initializing': conversion from\n'size_t' to 'int', possible loss of data"},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp"}],"sha":"6508429cc2dc1b37598a1e3702330c17dc31a7e2"}]
