@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-            } catch (NoSuchMethodError nsme) {\n+            } catch (NoSuchMethodException nsme) {\n","filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/vm\/AllocProfileSupport.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
