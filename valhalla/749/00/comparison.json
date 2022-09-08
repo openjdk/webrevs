@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6209,1 +6209,1 @@\n-      if (!is_module && !is_interface) {\n+      if (!is_module && !is_interface && !is_java_lang_Object) {\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
