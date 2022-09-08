@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move jdk_misc_signal_init() earlier and clarify its comment"},"files":[{"filename":"src\/hotspot\/os\/posix\/signals_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"339d7eed46d1dd54069854242788feeb9f23504d"}]
