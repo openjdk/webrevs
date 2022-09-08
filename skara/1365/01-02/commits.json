@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix message the bot replies."},"files":[{"filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/prbranch\/PullRequestBranchNotifier.java"},{"filename":"bots\/notify\/src\/test\/java\/org\/openjdk\/skara\/bots\/notify\/prbranch\/PullRequestBranchNotifierTests.java"}],"sha":"550bf3f6917dce54e04415f243694a7ef49a2686"}]
