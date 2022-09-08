@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293134: Valhalla: Verifier error in method call with abstract value class arg"},"files":[{"filename":"src\/hotspot\/share\/classfile\/verificationType.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/AbstractValueClassTest.java"}],"sha":"65921855e292d648a9589e45ba237463df5e4f83"}]
