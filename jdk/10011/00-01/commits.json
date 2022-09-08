@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update the loop limit in VectorAbsDiffTest.java\n\nAs pointed out by Faye Gao, the test results are not fully verified due\nto incorrect loop limits.\n\nUpdated it.\n\nReran the test and no regression."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorAbsDiffTest.java"}],"sha":"38501195ce236c91d82cbd8606c981b4fc4dc890"}]
