@@ -1,0 +1,1 @@
+[{"commit":{"message":"6286501: JTabbedPane throws NPE from its stateChanged listener in particular case"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicTabbedPaneUI.java"},{"filename":"test\/jdk\/javax\/swing\/JTabbedPane\/TestNPEStateChgListener.java"}],"sha":"f88c2c5f32bf386342c428b031d75e3e5bab546b"}]
