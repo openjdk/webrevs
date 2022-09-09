@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clarify that loop is for checking heap not changing.  Exception if continually changing."},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/tmtools\/jstat\/utils\/GcProvoker.java"}],"sha":"7a203f58e9b19f4c90ec7cddcea236653ce70aa3"}]
