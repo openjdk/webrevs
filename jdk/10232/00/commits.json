@@ -1,0 +1,1 @@
+[{"commit":{"message":"8291657: Javac assertion when compiling a method call with switch expression as argument"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransTypes.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8291657.java"}],"sha":"dd0bc9f574d0327bf8141393657fde40643d0fd8"}]
