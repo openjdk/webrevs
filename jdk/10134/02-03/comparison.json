@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4583,1 +4583,1 @@\n-  \/\/ Enable interative replay file reduction\n+  \/\/ Enable iterative replay file reduction\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
