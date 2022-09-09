@@ -1,0 +1,1 @@
+[{"commit":{"message":"8170305: URLConnection doesn't handle HTTP\/1.1 1xx (informational) messages"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/http\/HttpClient.java"},{"filename":"test\/jdk\/java\/net\/HttpURLConnection\/Response1xxTest.java"}],"sha":"3576e619f44ce4c92d9a2bd08348ed31ba18fb4f"}]
