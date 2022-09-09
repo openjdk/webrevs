@@ -1,0 +1,1 @@
+[{"commit":{"message":"ignore 101 response if the request didn't ask for an Upgrade"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Exchange.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/Response1xxTest.java"}],"sha":"5a67c202f3c91d88d881524d8c2362fe6c5c9ca9"}]
