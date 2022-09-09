@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1853,1 +1853,1 @@\n-\/\/ Same if true if the type of a ValidLengthTest input to an AllocateArrayNode changes\n+\/\/ Same is true if the type of a ValidLengthTest input to an AllocateArrayNode changes.\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
