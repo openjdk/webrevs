@@ -1,0 +1,1 @@
+[{"commit":{"message":"update per reviewer's feedback.\n\nAlso add a unit test for AsyncLogWriter::Buffer."},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_asynclog.cpp"}],"sha":"06a0904a5ee8221a178e4e6aa473fae91e9cdff3"}]
