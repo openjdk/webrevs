@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1185,0 +1185,2 @@\n+\n+  JvmtiVTMSTransitionDisabler disabler;\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
