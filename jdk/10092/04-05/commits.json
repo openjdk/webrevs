@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed for MSVC: error C2131: expression did not evaluate to a constant\n\nMSVC doesn't use C99."},"files":[{"filename":"test\/hotspot\/gtest\/logging\/test_asynclog.cpp"}],"sha":"6b16302fb16e0688e5bbb4ae0ea3c31da5833427"}]

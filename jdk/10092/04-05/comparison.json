@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -167,1 +167,1 @@\n-  char name[len];\n+  char* name = NEW_C_HEAP_ARRAY(char, len, mtLogging);\n@@ -239,0 +239,2 @@\n+  FREE_C_HEAP_ARRAY(char, name);\n+\n","filename":"test\/hotspot\/gtest\/logging\/test_asynclog.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
