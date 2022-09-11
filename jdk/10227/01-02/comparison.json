@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1053,1 +1053,1 @@\n-  return count;\n+  return count * vector_size_in_bytes \/ wordSize;\n@@ -1069,1 +1069,1 @@\n-  return count;\n+  return count * vector_size_in_bytes \/ wordSize;\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
