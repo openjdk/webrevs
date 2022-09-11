@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't set TabHeader to mouseTransparent, since it might get stuck in that\nstate (e.g. in case an Alert is shown)."},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/TabPaneSkin.java"}],"sha":"599e7c0646008818da680f36d2eacefbc5de696d"}]
