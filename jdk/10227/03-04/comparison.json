@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -949,1 +949,1 @@\n-\/\/ Push lots of registers in the bitset supplied.  Don't push sp.\n+\/\/ Push integer registers in the bitset supplied. Don't push sp.\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
