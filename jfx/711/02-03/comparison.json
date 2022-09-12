@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2211,2 +2211,0 @@\n-\n-        stageLoader.dispose();\n@@ -2259,3 +2257,0 @@\n-        Toolkit.getToolkit().firePulse();\n-        Toolkit.getToolkit().firePulse();\n-\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/ListViewTest.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
