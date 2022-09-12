@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -378,0 +378,2 @@\n+  \/\/ Separate the arming of the poll in add_operation() above from\n+  \/\/ the read of JavaThread state in the try_process() call below.\n","filename":"src\/hotspot\/share\/runtime\/handshake.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
