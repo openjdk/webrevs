@@ -1,0 +1,1 @@
+[{"commit":{"message":"8288180: C2: VectorPhase must ensure that SafePointNode memory input is a MergeMemNode"},"files":[{"filename":"src\/hotspot\/share\/opto\/vector.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestLoopStoreVector.java"}],"sha":"5fcc329abc9ca447c4c3f8a4ab6b94a0db39ef00"}]
