@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292240: CarrierThread.blocking not reset when spare not activated\n\nReviewed-by: dfuchs"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Blocker.java"},{"filename":"test\/jdk\/java\/lang\/Thread\/virtual\/ActiviateSpareCarrier.java"}],"sha":"a2fdb43e6ae7371eead164bdbfd9b9d83b07ac53"}]
