@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove invariant tracking\n\nToo much depends on this invariant not being met."},"files":[{"filename":"src\/hotspot\/share\/utilities\/ostream.cpp"},{"filename":"src\/hotspot\/share\/utilities\/ostream.hpp"}],"sha":"700f91b4a445e5a861feaff483825f4ea6a39b10"}]
