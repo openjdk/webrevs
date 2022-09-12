@@ -1,0 +1,1 @@
+[{"commit":{"message":"get rid of TOKEN_SIZE.  use Message::calc_size(0) instead.\n\nit's still a compiler-time constant like TOKEN_SIZE. put the\nheadroom logic in Buffer::push_back()."},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp"}],"sha":"b2f66a8fd0aeb532a446fa031f0bafd387f7b522"}]
