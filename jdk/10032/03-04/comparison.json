@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -174,1 +174,1 @@\n-        \/\/ verity ClassFileLoadHook gets the expected class bytes\n+        \/\/ verify ClassFileLoadHook gets the expected class bytes\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/RedefineClasses\/RedefineRetransform\/RedefineRetransform.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
