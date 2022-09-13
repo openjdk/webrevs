@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-ifeq ($(call isTargetOs, windows)+$(CREATING_BUILDJDK), true+false)\n+ifeq ($(OPENJDK_TARGET_OS), windows)+$(CREATING_BUILDJDK)\n","filename":"make\/copy\/Copy-java.base.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
