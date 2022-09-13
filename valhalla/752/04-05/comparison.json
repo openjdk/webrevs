@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,1 @@\n+ * @modules java.base\/jdk.internal.value\n@@ -37,0 +38,1 @@\n+import jdk.internal.value.PrimitiveClass;\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/Valhalla\/HeapDump\/HeapDump.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
