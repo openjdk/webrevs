@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1611,0 +1611,1 @@\n+#ifdef ASSERT\n@@ -1621,0 +1622,1 @@\n+#endif\n","filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
