@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n- * {@linkplain ZipFile}, may be used when the information stored within\n+ * {@linkplain ZipFile} may be used when the information stored within\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
