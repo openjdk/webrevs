@@ -1,0 +1,1 @@
+[{"commit":{"message":"8289608: Change com\/sun\/jdi tests to not use Thread.suspend\/resume"},"files":[{"filename":"test\/jdk\/ProblemList-svc-vthread.txt"},{"filename":"test\/jdk\/com\/sun\/jdi\/MixedSuspendTest.java"},{"filename":"test\/jdk\/com\/sun\/jdi\/ResumeAfterThreadResumeCallTest.java"}],"sha":"9997c96be6766b0670af2ed57465d55834349075"}]
