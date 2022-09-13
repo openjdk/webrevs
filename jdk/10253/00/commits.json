@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8293695 implementation"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestDoubleClassCheck.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestFloatClassCheck.java"}],"sha":"902bbd5470cbc23fb5a54163575a0458388d324a"}]
