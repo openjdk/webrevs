@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix handling of trap count overflow in Parse::Parse()"},"files":[{"filename":"src\/hotspot\/share\/opto\/parse1.cpp"}],"sha":"a7b1137fbc183dfa7793ef526c0ec945c2f56840"}]
