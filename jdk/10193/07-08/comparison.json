@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -328,0 +328,1 @@\n+      \/\/ we likely have an early match return (e.g. cgroup fs match), be sure we have cgroup2 as fstype\n","filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
