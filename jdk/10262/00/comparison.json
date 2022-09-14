@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1824,0 +1824,1 @@\n+    tty->print(\" %s\", Bytecodes::name(bc()));\n","filename":"src\/hotspot\/share\/opto\/parse2.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
