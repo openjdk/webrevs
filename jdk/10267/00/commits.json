@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293502: (fc) FileChannel::transfer methods fail to copy \/proc files on Linux"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/FileChannelImpl.java"},{"filename":"test\/jdk\/java\/nio\/file\/Files\/CopyProcFile.java"}],"sha":"1b00942155b34a3863b71668672ebe5c294b3a53"}]
