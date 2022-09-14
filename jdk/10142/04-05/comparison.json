@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -248,1 +248,1 @@\n-  print_attr(METHOD_NAME_PROPERTY, str.base());\n+  print_attr(METHOD_NAME_PROPERTY, str.internal_string());\n","filename":"src\/hotspot\/share\/opto\/idealGraphPrinter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
