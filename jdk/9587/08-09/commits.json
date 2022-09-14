@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove noinline attribute by fixing sign extended value"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp"},{"filename":"src\/hotspot\/share\/runtime\/deoptimization.hpp"}],"sha":"bfb1ca0ccf8e3e9dc432cdaea5c7b78305737b9d"}]
