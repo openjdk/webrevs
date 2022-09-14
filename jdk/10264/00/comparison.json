@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-  _gc_waiters_lock(Mutex::safepoint-1, \"ShenandoahRequestedGC_lock\", true),\n+  _gc_waiters_lock(Mutex::safepoint-2, \"ShenandoahRequestedGC_lock\", true),\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
