@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,4 @@\n-import javax.swing.*;\n+import javax.swing.JColorChooser;\n+import javax.swing.JFrame;\n+import javax.swing.SwingUtilities;\n+import javax.swing.UIManager;\n","filename":"test\/jdk\/javax\/swing\/JColorChooser\/TestDisabledColorChooser.java","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
