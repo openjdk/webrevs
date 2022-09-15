@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293535: Fix testbug but not checkOrder implementation which might affects any tests using this method"},"files":[{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testJavaFX\/TestJavaFxMode.java"},{"filename":"test\/langtools\/jdk\/javadoc\/lib\/javadoc\/tester\/JavadocTester.java"}],"sha":"eda367a7ef3c803cb5acec34f7d8fa285ae3c391"}]
