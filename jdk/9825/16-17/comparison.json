@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1406,1 +1406,1 @@\n-        } else if (str.charAt(0) == '#') {\n+        } else if (strlc.charAt(0) == '#') {\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSS.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
