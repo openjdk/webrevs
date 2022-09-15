@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,0 +92,2 @@\n+        \/\/ Duplicated cgroup mounts should be handled by the container detection\n+        \/\/ code and should not cause any error\/warning output.\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/DockerBasicTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
