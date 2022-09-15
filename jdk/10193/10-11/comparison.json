@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-            .shouldNotMatch(\"os,container*\");\n+            .shouldNotMatch(\"\\\\[os,container *\\\\]\");\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/DockerBasicTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
