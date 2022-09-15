@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2844,0 +2844,1 @@\n+    target = pc();\n@@ -2848,5 +2849,1 @@\n-  if (!far_branches()) {\n-    jal(entry.target());\n-  } else {\n-    jal(pc());\n-  }\n+  jal(target);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":5,"binary":false,"changes":7,"status":"modified"}]}
