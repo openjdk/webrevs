@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -586,0 +586,1 @@\n+  set->_ideal_phase_name_mask = src->_ideal_phase_name_mask;\n","filename":"src\/hotspot\/share\/compiler\/compilerDirectives.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
