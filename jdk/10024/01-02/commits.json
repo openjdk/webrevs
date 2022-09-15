@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add additional parameter to hashCode, because in Scala, lambda can be serializable without implementing Serializable interface"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/InnerClassLambdaMetafactory.java"}],"sha":"6a8f9128b9c4a1ff4a11db42735f57982f9be97a"}]

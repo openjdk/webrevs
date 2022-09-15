@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,0 +281,1 @@\n+        hashData.append(isSerializable ? \"true\" : \"false\");\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/InnerClassLambdaMetafactory.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
