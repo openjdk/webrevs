@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2485,2 +2485,1 @@\n-       (dst_type->isa_vectmask() == NULL && src_type->isa_vectmask()) ||\n-       num_elem_from != num_elem_to)) {\n+       (dst_type->isa_vectmask() == NULL && src_type->isa_vectmask()))) {\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
