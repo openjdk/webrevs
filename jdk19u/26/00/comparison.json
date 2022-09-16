@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -397,1 +397,1 @@\n-            <type name=\"uaiev\" description=\"Kyiv, Ukraine\" alias=\"Europe\/Kiev\"\/>\n+            <type name=\"uaiev\" description=\"Kyiv, Ukraine\" alias=\"Europe\/Kiev Europe\/Kyiv\"\/>\n","filename":"make\/data\/cldr\/common\/bcp47\/timezone.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
