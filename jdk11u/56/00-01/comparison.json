@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -985,1 +985,1 @@\n-                                        rb.getString(\"history.with.ts\"),      \/\/ GLGLGL\n+                                        rb.getString(\"history.with.ts\"),\n","filename":"src\/jdk.jartool\/share\/classes\/sun\/security\/tools\/jarsigner\/Main.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
