@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+mkdir %~dp0\\.jdk\n@@ -39,0 +40,1 @@\n+\n@@ -47,0 +49,1 @@\n+mkdir %~dp0\\.gradle\n@@ -56,0 +59,1 @@\n+\n","filename":"gradlew.bat","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
