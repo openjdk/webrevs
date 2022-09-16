@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,1 @@\n-    snprintf(szMessage2, sizeof(szMessage2), \"error %lu, %s\", msg, dwError, szMessage);\n+    snprintf(szMessage2, sizeof(szMessage2), \"error %lu, %s\", dwError, szMessage);\n","filename":"src\/jdk.crypto.mscapi\/windows\/native\/libsunmscapi\/security.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
