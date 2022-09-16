@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8293156-Dcmd-VM.classloaders-fails-to-print-the-full-hierarchy"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderHierarchyDCmd.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/vm\/ClassLoaderHierarchyTest.java"}],"sha":"0f5de199743c9fb84c6c446c19888a74478b72dc"}]
