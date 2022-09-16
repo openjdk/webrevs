@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,1 +354,1 @@\n-      guarantee((unsigned)len < sizeof(prop), \"property does not fit temp buffer\");\n+      guarantee((0 < len) && ((unsigned)len < sizeof(prop)), \"property does not fit temp buffer\");\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
