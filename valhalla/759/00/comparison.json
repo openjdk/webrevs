@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,1 +190,2 @@\n-    @Test\n+    \/\/ TODO 8291719\n+    \/\/ @Test\n","filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/jdk.vm.ci.runtime.test\/src\/jdk\/vm\/ci\/runtime\/test\/TestResolvedJavaType.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
