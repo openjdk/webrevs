@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix tests using stale `SymbolLookup::lookup`"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/compiler\/TestLinkToNativeRBP.java"},{"filename":"test\/jdk\/java\/lang\/Thread\/jni\/AttachCurrentThread\/ImplicitAttach.java"}],"sha":"7455e7d05bbca723c6a2021848402edc0c9d6eeb"}]
