@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -655,1 +655,1 @@\n-  \/\/     the AArch64 address space and being patchable at runtime when the generated\n+  \/\/     the RISCV address space and being patchable at runtime when the generated\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
