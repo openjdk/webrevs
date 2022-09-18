@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1406,2 +1406,1 @@\n-            Integer intValue = Integer.parseUnsignedInt(digits, 16);\n-            int l = intValue.intValue();\n+            int l = Integer.parseUnsignedInt(digits, 16);\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSS.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
