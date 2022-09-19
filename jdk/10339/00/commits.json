@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293998: [PPC64] JfrGetCallTrace: assert(_pc != nullptr) failed: must have PC"},"files":[{"filename":"src\/hotspot\/os_cpu\/aix_ppc\/javaThread_aix_ppc.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_ppc\/javaThread_linux_ppc.cpp"}],"sha":"f3a977b356a51dbb7bf4dd3d325b00a802b88910"}]
