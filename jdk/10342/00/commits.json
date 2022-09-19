@@ -1,0 +1,1 @@
+[{"commit":{"message":"CompileBroker methods to inline"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.hpp"}],"sha":"87e4875e472d381a3cfbb5d81056c91556ac733c"},{"commit":{"message":"Remove redundant condition in compilationPolicy"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilationPolicy.cpp"}],"sha":"b394366a92c5803f4f62cb4d6fb27ade31e3e4e5"}]
