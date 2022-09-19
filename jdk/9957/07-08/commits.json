@@ -1,0 +1,1 @@
+[{"commit":{"message":"added functions for printing InstanceKlass* and Method* pointers directly"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classPrinter.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classPrinter.hpp"},{"filename":"src\/hotspot\/share\/utilities\/debug.cpp"}],"sha":"adb390e382ba2391465b7f1ee6a347b7297a5042"}]
