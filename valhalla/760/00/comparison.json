@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2731,1 +2731,1 @@\n-const int AdapterHandlerLibrary_size = 32*K;\n+const int AdapterHandlerLibrary_size = 48*K;\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
