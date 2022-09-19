@@ -1,0 +1,1 @@
+[{"commit":{"message":"The FillerArrayKlass name passed to create_klass() needs to have `L...;` after all because of JNI which expects klasses to start with certain characters only"},"files":[{"filename":"src\/hotspot\/share\/memory\/universe.cpp"}],"sha":"dfe4746732ff248f5ad2e4e1689f50ebf4a7f40b"}]
