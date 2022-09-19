@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2491,0 +2491,1 @@\n+    assert(!is_mask || num_elem_from == num_elem_to, \"vector mask cast needs the same elem num\");\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
