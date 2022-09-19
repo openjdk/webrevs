@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3924,1 +3924,1 @@\n-    if (!incr->is_Phi() || incr->in(0) != head) {\n+    if (!incr->is_Phi() || incr->in(0) == head) {\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
