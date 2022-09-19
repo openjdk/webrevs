@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-        return  Collections.unmodifiableList(graphs);\n+        return Collections.unmodifiableList(graphs);\n","filename":"src\/utils\/IdealGraphVisualizer\/Data\/src\/main\/java\/com\/sun\/hotspot\/igv\/data\/Group.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
