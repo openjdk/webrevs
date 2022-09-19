@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 0a89987a9699008927268c050ca4b7e01afc30f4"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestPickFirstMemoryState.java"}],"sha":"e9b6173ae8bd6b18fe9d2c74b48358dc324e2593"}]
