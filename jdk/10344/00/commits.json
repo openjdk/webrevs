@@ -1,0 +1,1 @@
+[{"commit":{"message":"[riscv] get\/put_native_u8 missing the case when address&7 is 6"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/bytes_riscv.hpp"}],"sha":"6f4cc48aeed3a1e1d6be966bea86812c79aa1291"}]
