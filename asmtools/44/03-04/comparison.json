@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-        this(toolOutput, new ToolOutput.DualOutputStreamOutput());\n+        this(toolOutput, new ToolOutput.DualOutputStreamOutput(), argv);\n","filename":"src\/org\/openjdk\/asmtools\/jdec\/Main.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
