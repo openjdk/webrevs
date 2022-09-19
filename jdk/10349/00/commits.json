@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294008: Graphme implementation of setText() throws IndexOutOfBoundsException"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/util\/locale\/provider\/BreakIteratorProviderImpl.java"},{"filename":"test\/jdk\/java\/text\/BreakIterator\/BreakIteratorTest.java"}],"sha":"2b176cd644afbd0fed862fd691638d5fccfb1f7e"}]
