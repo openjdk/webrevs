@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,1 +235,1 @@\n-        return this.inputNode;\n+        return inputNode;\n","filename":"src\/utils\/IdealGraphVisualizer\/Graph\/src\/main\/java\/com\/sun\/hotspot\/igv\/graph\/Figure.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
