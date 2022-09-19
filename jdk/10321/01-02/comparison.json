@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-    { \"toggleJvmtiHideFrames\",   \"(Z)V\", (void *)&JVM_VirtualThreadHideFrames },\n+    { \"notifyJvmtiHideFrames\",   \"(Z)V\", (void *)&JVM_VirtualThreadHideFrames },\n","filename":"src\/java.base\/share\/native\/libjava\/VirtualThread.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
