@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-            System.err.printf(\"Time = %d:%d\\n\", tm.tm_hour$get(time), tm.tm_min$get(time));\n+            System.err.printf(\"Time = %d:%02d\\n\", tm.tm_hour$get(time), tm.tm_min$get(time));\n","filename":"samples\/time\/PanamaTime.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
