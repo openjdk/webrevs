@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1169,0 +1169,1 @@\n+  if (version == JNI_VERSION_20) return JNI_TRUE;\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
