@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-        robot.mouseMove(p.x + (int)(d.getWidth() \/ 2), p.y + (int)(d.getHeight() \/ 2));\n+        robot.mouseMove(p.x + d.width \/ 2, p.y + d.height \/ 2);\n","filename":"test\/jdk\/javax\/swing\/JComboBox\/6559152\/bug6559152.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
