@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow ClassPrinter to also print to streams other than tty"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classPrinter.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classPrinter.hpp"},{"filename":"src\/hotspot\/share\/utilities\/debug.cpp"}],"sha":"5b90b7d1a99f2afabb0e6ba1879928cea286fd43"}]
