@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1182,1 +1182,1 @@\n-            reportMode = ReportMode.ALL_EXECUTED;\n+            reportMode = ReportMode.EXECUTED;\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/tool\/Tool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
