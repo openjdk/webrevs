@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,2 +107,1 @@\n-\n-runtime\/valhalla\/inlinetypes\/ClassInitializationFailuresTest.java 8274131 linux-aarch64-debug,macosx-aarch64-debug\n+runtime\/AccModule\/ConstModule.java 8294051 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
