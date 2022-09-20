@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -372,3 +372,0 @@\n-    @Override\n-    public void componentOpened() { }\n-\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/EditorTopComponent.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
