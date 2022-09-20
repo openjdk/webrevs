@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1926,1 +1926,0 @@\n-      tty->print(\"Load for value:\" ); input->dump();\n@@ -1947,2 +1946,0 @@\n-  tty->print(\"Value Phi:\" ); phi->dump();\n-\n","filename":"src\/hotspot\/share\/opto\/callnode.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
