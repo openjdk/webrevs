@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,1 @@\n+            robot.waitForIdle();\n","filename":"test\/jdk\/java\/awt\/Multiscreen\/MultiScreenLocationTest\/MultiScreenLocationTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
