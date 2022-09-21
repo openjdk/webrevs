@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -382,0 +382,3 @@\n+    if (tagsArray == NULL) {\n+        return NULL;\n+    }\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/font\/AWTFont.m","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

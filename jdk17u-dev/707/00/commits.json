@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287609: macOS: SIGSEGV at [CoreFoundation] CFArrayGetCount \/ sun.font.CFont.getTableBytesNative\n\nReviewed-by: prr\n(cherry picked from commit 8c460b043e1cbaf1f2d74958033bb24dea66a390)"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/font\/AWTFont.m"}],"sha":"341bbe13d99aa3a856a0392696508f30d6457ad3"}]
