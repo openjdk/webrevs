@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,1 +141,2 @@\n-     * PlainView.\n+     * PlainView if non-bidi text is handled\n+     * else returns PlainParagraph or BoxView if bidi text is being handled.\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicTextAreaUI.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
