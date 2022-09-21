@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-        toolOutput.printlns(\"'\");\n+        toolOutput.printlns(\"\");\n","filename":"src\/org\/openjdk\/asmtools\/jdis\/Indenter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
