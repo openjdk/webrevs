@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n-    @Label(\"Type Of Service\")\n+    @Label(\"Type of Service\")\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/events\/SecurityProviderServiceEvent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
