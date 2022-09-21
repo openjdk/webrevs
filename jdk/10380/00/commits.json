@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove executable bit"},"files":[{"filename":"make\/devkit\/createJMHBundle.sh"}],"sha":"a531fce5053c591d8454d571dff33f5b0d08275e"},{"commit":{"message":"JMH 1.34 and later requires jopt-simple 5.0.4"},"files":[{"filename":"make\/conf\/jib-profiles.js"},{"filename":"make\/devkit\/createJMHBundle.sh"}],"sha":"d3e895ac30767510e7289e537bcbcf9984a6b1a2"}]
