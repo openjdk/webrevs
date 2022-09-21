@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,1 +173,1 @@\n-        mask = ~((uint64_t)0);\n+        mask = ~(UINT64_C(0));\n","filename":"src\/hotspot\/share\/opto\/phasetype.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
