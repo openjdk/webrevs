@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert changes in test and remove final declarations"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/aarch64\/CallArranger.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegmentAllocators.java"}],"sha":"1e4071ee59eca0ae7f6f5580ae7668ed4b420045"}]
