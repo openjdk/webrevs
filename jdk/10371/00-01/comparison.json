@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,1 @@\n+  flags(ALL,                          \"All\") \\\n@@ -171,1 +172,1 @@\n-      } else if (PHASE_DEBUG == cpt) {\n+      } else if (PHASE_ALL == cpt) {\n","filename":"src\/hotspot\/share\/opto\/phasetype.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
