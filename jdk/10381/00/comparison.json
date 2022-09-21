@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2841,0 +2841,1 @@\n+            int firstadrPrev = firstadr;\n@@ -2845,0 +2846,1 @@\n+                firstadr = nextadr;\n@@ -2863,0 +2865,1 @@\n+                firstadr = firstadrPrev;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Flow.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
