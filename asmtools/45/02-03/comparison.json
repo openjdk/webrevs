@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,0 +47,1 @@\n+            mvn \"--batch-mode\" \"--update-snapshots\" \"test\"\n","filename":".github\/workflows\/maven.yaml","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
