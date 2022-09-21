@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293331: Reinstate #include \"jni.h\""},"files":[{"filename":"src\/java.base\/linux\/native\/libnio\/ch\/FileDispatcherImpl.c"},{"filename":"src\/java.base\/macosx\/native\/libnio\/ch\/FileDispatcherImpl.c"},{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/UnixFileDispatcherImpl.c"}],"sha":"32d042d455bfc46345deafba04c652e635460573"}]
