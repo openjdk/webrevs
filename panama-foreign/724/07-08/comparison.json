@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,1 +181,1 @@\n-    static class StorageCalculator {\n+    class StorageCalculator {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/aarch64\/CallArranger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
