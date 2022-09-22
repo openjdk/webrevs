@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,1 +244,1 @@\n-  public static final int _defaultvalue         = 203; \/\/ 0xcb\n+  public static final int _aconst_init          = 203; \/\/ 0xcb\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/interpreter\/Bytecodes.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
