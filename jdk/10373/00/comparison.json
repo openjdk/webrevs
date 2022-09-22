@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,0 @@\n-    address pc = os::Posix::ucontext_get_pc(uc);\n","filename":"src\/hotspot\/os\/posix\/safefetch_static_posix.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
