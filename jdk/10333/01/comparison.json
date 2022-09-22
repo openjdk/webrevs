@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+ * @requires (os.arch != \"x86\" & os.arch != \"i386\") | vm.opt.UseSSE == \"null\" | vm.opt.UseSSE > 0\n","filename":"test\/jdk\/java\/lang\/Float\/Binary16ConversionNaN.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
