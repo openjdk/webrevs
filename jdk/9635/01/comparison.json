@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2079,1 +2079,1 @@\n-  __ jmp(PRELOOP_START);\n+  __ jcc(Assembler::notEqual, PRELOOP_START);\n@@ -2084,0 +2084,3 @@\n+  __ cmpl(len_reg, 0);\n+  __ jcc(Assembler::equal, EXIT);\n+\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_aes.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
