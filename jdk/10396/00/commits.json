@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make Compile::_print_inlining_stream stack allocated"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/compile.hpp"}],"sha":"137f868973836264b3f6f96e021c5dff79b1617e"}]
