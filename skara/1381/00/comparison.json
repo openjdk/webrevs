@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -365,1 +365,1 @@\n-            if (ignore.matcher(name).matches()) {\n+            if (!branches.contains(name) && ignore.matcher(name).matches()) {\n","filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitSync.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
