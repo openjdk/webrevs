@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,2 @@\n-    DISABLED_WARNINGS_gcc := sign-compare misleading-indentation array-bounds, \\\n+    DISABLED_WARNINGS_gcc := sign-compare misleading-indentation \\\n+        array-bounds maybe-uninitialized, \\\n","filename":"make\/modules\/java.base\/lib\/CoreLibraries.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
