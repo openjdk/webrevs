@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-    getErrorString(GetLastError(), buf, len);\n+    getWinErrorString(GetLastError(), buf, len);\n","filename":"src\/java.base\/windows\/native\/libjava\/jni_util_md.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
