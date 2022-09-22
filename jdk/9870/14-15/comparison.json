@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -661,1 +661,1 @@\n-           mlen += 1 + (int)JLI_StrLen(errtext);\n+           mlen += 2 + (int)JLI_StrLen(errtext);\n","filename":"src\/java.base\/windows\/native\/libjli\/java_md.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
