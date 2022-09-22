@@ -1,0 +1,1 @@
+[{"commit":{"message":"8206456: [TESTBUG] docker jtreg tests fail on systems without cpuset.effective_cpus \/ cpuset.effective_mem\n\nReviewed-by: mbaesken, mchung"},"files":[{"filename":"jdk\/test\/jdk\/internal\/platform\/docker\/MetricsCpuTester.java"}],"sha":"91dc4a09994f68e01d8f42bb8b399ba2666d0750"}]
