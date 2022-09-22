@@ -1,0 +1,1 @@
+[{"commit":{"message":"Proper WINAPI for getErrorString and getLastErrorString too"},"files":[{"filename":"src\/java.base\/share\/native\/libjava\/jni_util.c"},{"filename":"src\/java.base\/unix\/native\/libjava\/jni_util_md.c"},{"filename":"src\/java.base\/windows\/native\/libjava\/jni_util_md.c"}],"sha":"8a6f7f0808d0e5e5c45f114b1c3e2b53158b20b8"}]
