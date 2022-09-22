@@ -1,0 +1,1 @@
+[{"commit":{"message":"8290246: test fails \"assert(init != __null) failed: initialization not found\"\n\nReviewed-by: dlong, iveresov"},"files":[{"filename":"src\/hotspot\/share\/opto\/callnode.cpp"}],"sha":"305cc973d132aa73ae0046bdfca391beb703f658"}]
