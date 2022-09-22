@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -627,0 +627,1 @@\n+#ifndef ZERO\n@@ -651,0 +652,1 @@\n+#endif \/\/ !ZERO\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
