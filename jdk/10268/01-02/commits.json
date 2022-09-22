@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use lrb directly instead of using HeapAccess to avoid evacuating doomed\nobjects referred by weak roots.\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"a4d6fd842591330042e2f8ff92f404b4b142eef7"}]
