@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286314: Trampoline not created for far runtime targets outside small CodeCache\n\nReviewed-by: aph, phh"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"}],"sha":"34b4fc686116e4900c8c7e87f064ad280b765268"}]
