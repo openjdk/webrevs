@@ -1,0 +1,1 @@
+[{"commit":{"message":"8290711: assert(false) failed: infinite loop in PhaseIterGVN::optimize\n\nReviewed-by: chagedorn, kvn"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/ccp\/TestInfiniteIGVNAfterCCP.java"}],"sha":"792e45daa99d07b9e1db102da120c18caff4d29e"}]
