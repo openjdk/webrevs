@@ -1,0 +1,1 @@
+[{"commit":{"message":"ppc64 triggers shift-negative-value on gcc :-("},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"}],"sha":"ac15b0b107abb40744c727f9133cae041963dbde"},{"commit":{"message":"s390 triggers shift-negative-value on gcc :-("},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"}],"sha":"b832df00a42b67b6be99965dec229142a9dbca31"}]
