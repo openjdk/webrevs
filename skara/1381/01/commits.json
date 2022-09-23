@@ -1,0 +1,1 @@
+[{"commit":{"message":"dummy commit"},"files":[],"sha":"0ef0bfa97ebac3e1cbab282de8946b4914939d6e"},{"commit":{"message":"fix the bug on 'git sync --branches'"},"files":[{"filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitSync.java"}],"sha":"eccff6714947383d308071d596c7bafe7974bbf6"}]
