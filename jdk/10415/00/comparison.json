@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-TZDATA_TZFILES := $(addprefix $(TZDATA_DIR)\/,$(TZDATA_TZFILE))\n+TZDATA_TZFILES := $(TZDATA_DIR)\/*\n","filename":"make\/modules\/java.base\/gendata\/GendataTZDB.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
