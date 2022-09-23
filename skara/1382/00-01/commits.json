@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check the resolution of JiraIssue before setting the state to Resolved"},"files":[{"filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/issue\/IssueNotifier.java"}],"sha":"8c82437cbbe2598c637e966576bfe339d2bd3302"}]
