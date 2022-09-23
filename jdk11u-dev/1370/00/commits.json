@@ -1,0 +1,1 @@
+[{"commit":{"message":"8235965: Tests using ThreadLocalHandshakes need to stop using it as it no longer exists"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/NMT\/SafepointPollingPages.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/handshake\/HandshakeWalkStackFallbackTest.java"}],"sha":"b6ba85ff52635cb24d691280863ad2e6a4ac6786"}]
