@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -344,1 +344,1 @@\n-    DISABLED_WARNINGS_gcc := clobbered implicit-fallthrough shift-negative-value, \\\n+    DISABLED_WARNINGS_gcc := clobbered implicit-fallthrough shift-negative-value array-bounds, \\\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
