@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make it heap allocated, but only delete at dtr"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/compile.hpp"}],"sha":"f02f88457a4f8a211f8411bfde1949c78051b818"}]
