@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1458,1 +1458,0 @@\n-        int biType = imgType.getBufferedImageType();\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/bmp\/BMPImageWriter.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
