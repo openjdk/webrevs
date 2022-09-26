@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -472,2 +472,1 @@\n-      if (md_count >= md->trap_count_limit())\n-      {\n+      if (md_count >= md->trap_count_limit()) {\n","filename":"src\/hotspot\/share\/opto\/parse1.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
