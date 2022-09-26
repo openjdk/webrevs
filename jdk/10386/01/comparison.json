@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,0 +52,1 @@\n+    DISABLED_WARNINGS_gcc_k_rem_pio2.c := maybe-uninitialized, \\\n","filename":"make\/modules\/java.base\/lib\/CoreLibraries.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
