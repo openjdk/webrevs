@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278086: [REDO] ImageIO.write() method will throw IndexOutOfBoundsException"},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/bmp\/BMPImageWriter.java"},{"filename":"test\/jdk\/javax\/imageio\/plugins\/bmp\/BMPBitsPerPixelTest.java"}],"sha":"3b2436f56dd631c6ca5d30285aabd60a07efbf3a"}]
