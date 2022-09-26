@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293964: Unused check_for_duplicates parameter in ClassLoaderExt::process_jar_manifest"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderExt.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderExt.hpp"}],"sha":"88a106fbf2964d04ea691036f917475ac0ff4162"}]
