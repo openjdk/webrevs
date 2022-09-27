@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,5 +50,0 @@\n-    @Override\n-    public boolean isBlockTag() {\n-        return true;\n-    }\n-\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/taglets\/SpecTaglet.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
