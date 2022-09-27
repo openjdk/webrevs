@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -755,1 +755,1 @@\n-  if (CodeBuffer::SECT_STUBS) {\n+  if (section == CodeBuffer::SECT_STUBS) {\n","filename":"src\/hotspot\/share\/asm\/codeBuffer.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
