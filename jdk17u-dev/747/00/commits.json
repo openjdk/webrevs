@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 61e072d11c8e0cb5879bb733ed1fdd2144326bfd"},"files":[{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/stringopts\/SideEffectBeforeConstructor.jasm"},{"filename":"test\/hotspot\/jtreg\/compiler\/stringopts\/TestSideEffectBeforeConstructor.java"}],"sha":"9cb2fbdd9d65c97c17419386dc3e1062c85df096"}]
