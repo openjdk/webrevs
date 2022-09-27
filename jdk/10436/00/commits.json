@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8294142: make test should report only on executed tests\"\n\nThis reverts commit 91a23d775fbf482244ace5758f7b3084ea564460."},"files":[{"filename":"doc\/testing.html"},{"filename":"doc\/testing.md"},{"filename":"make\/RunTests.gmk"}],"sha":"5c532d6b3984487ae31c9d8d4cec0db84f328139"}]
