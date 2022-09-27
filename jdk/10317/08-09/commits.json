@@ -1,0 +1,1 @@
+[{"commit":{"message":"Corrects a value in a message.\n\nA message is added to the result in case of failure only. The updated code does not output the actual value. The tested color is #f12a instead of #f00a."},"files":[{"filename":"test\/jdk\/javax\/swing\/text\/html\/CSS\/Hex3468DigitsColor.java"}],"sha":"b73bec53cae487d88d7072cb42b72046e54c03a2"}]

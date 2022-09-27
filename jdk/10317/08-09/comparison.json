@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-        result.append(\"  Test for #f00a\");\n+        result.append(\"  Test for #f12a\");\n","filename":"test\/jdk\/javax\/swing\/text\/html\/CSS\/Hex3468DigitsColor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
