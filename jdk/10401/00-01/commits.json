@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only set timeout on SSLSockets"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/http\/HttpClient.java"},{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/https\/HttpsClient.java"}],"sha":"1869c9aad8876f88e5f5e2a18ee55597829ef778"}]
