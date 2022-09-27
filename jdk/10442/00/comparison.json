@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,0 +42,1 @@\n+ * @requires !(vm.cpu.features ~= \".*sve.*\")\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestReverseByteTransforms.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
