@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -163,1 +163,1 @@\n-            if (flag.contains(XmlNames.A_SYNCHRONIZED)) access |= ACC_SYNCHRONIZED;\n+            if (flag.contains(XmlNames.A_SYNCHRONIZED))  access |= ACC_SYNCHRONIZED;\n","filename":"src\/classes\/com\/sun\/tdk\/jcov\/instrument\/asm\/ASMModifiers.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
