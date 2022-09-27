@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-        CountDownLatch countDownLatch = a11yTest.createCountDownLatch();\n+        countDownLatch = a11yTest.createCountDownLatch();\n","filename":"test\/jdk\/java\/awt\/a11y\/AccessibleJPopupMenuTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
