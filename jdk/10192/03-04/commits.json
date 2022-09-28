@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove untaken code paths on x86 match rules"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"98e1ac2d7cd64da9c31026564958cfcdc735e939"}]
