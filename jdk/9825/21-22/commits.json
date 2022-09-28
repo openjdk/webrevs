@@ -1,0 +1,1 @@
+[{"commit":{"message":" Moves jtreg tags to the class declaration\n\nComment with tags isn't collapsed when viewed in an IDE if it's placed before the class declaration."},"files":[{"filename":"test\/jdk\/javax\/swing\/text\/html\/CSS\/MissingColorNames.java"}],"sha":"070462e92b2428987440ec83dfcf4399a480fb72"}]
