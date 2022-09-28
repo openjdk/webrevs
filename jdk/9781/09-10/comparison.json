@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run main Binary16ConversionNaN\n+ * @run main\/othervm -XX:-TieredCompilation -XX:CompileThresholdScaling=0.1 Binary16ConversionNaN\n","filename":"test\/jdk\/java\/lang\/Float\/Binary16ConversionNaN.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
