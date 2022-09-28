@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -428,1 +428,1 @@\n-            e.getSymbol() + \"\\\" in remote process)\");\n+            e.getSymbol() + \"\\\" in remote process)\", e);\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/HotSpotAgent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
