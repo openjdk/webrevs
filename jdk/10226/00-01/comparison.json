@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-        String encoding = System.getProperty(\"file.encoding\");\n+        String encoding = System.getProperty(\"native.encoding\");\n","filename":"test\/jdk\/tools\/jpackage\/share\/jdk\/jpackage\/tests\/UnicodeArgsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
