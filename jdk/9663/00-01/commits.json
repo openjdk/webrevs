@@ -1,0 +1,1 @@
+[{"commit":{"message":"add test to verify that open(O_CLOEXEC) implies FD_CLOEXEC on macOS"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp"}],"sha":"82d1bbadd9a85b5e98a4938e44e79a94ba40b989"},{"commit":{"message":"assume O_CLOEXEC on macOS"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"76a37318e44b7929c49c73b0540cc819682fb60c"}]
