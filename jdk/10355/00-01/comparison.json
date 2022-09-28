@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -836,2 +836,1 @@\n-                DEBUG_ONLY(|| (cause == GCCause::_scavenge_alot))\n-                           ;\n+                DEBUG_ONLY(|| (cause == GCCause::_scavenge_alot));\n","filename":"src\/hotspot\/share\/gc\/shared\/genCollectedHeap.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
