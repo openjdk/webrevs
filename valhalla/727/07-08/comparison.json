@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -682,1 +682,1 @@\n-         !Signature::has_envelope(name), \"invalid class name\");\n+         !Signature::has_envelope(name), \"invalid class name: %s\", name == NULL ? \"NULL\" : name->as_C_string());\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
