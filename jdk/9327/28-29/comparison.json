@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1127,1 +1127,1 @@\n-        final static double baseFileSize = 1000.0;\n+        static final double baseFileSize = 1000.0;\n","filename":"src\/java.desktop\/share\/classes\/sun\/swing\/FilePane.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
