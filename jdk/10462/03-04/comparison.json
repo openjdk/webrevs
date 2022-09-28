@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -534,2 +534,2 @@\n-    offset = ((int32_t)(uintptr_t)addr << 20) >> 20;\n-    li(Rd, (uintptr_t)addr - offset);\n+    offset = ((int32_t)(int64_t)addr << 20) >> 20;\n+    li(Rd, (int64_t)addr - offset);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
