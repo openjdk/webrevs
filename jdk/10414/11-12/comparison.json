@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,0 +59,1 @@\n+  with_jvm_variants=\"server,client,minimal,core,zero\"\n@@ -75,1 +76,0 @@\n-  JVM_VARIANTS=\"server client minimal core zero\"\n","filename":"make\/autoconf\/hotspot.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
