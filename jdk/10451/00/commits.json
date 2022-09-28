@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293515: heapShared.cpp: rename JavaThread parameter to current"},"files":[{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.hpp"},{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"1414cab43d89b895704629c28a9f4290c7af19e0"}]
