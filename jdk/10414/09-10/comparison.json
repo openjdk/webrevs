@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,0 +160,2 @@\n+    DISABLED_WARNINGS_gcc_cgroupV1Subsystem_linux.cpp := address, \\\n+    DISABLED_WARNINGS_gcc_cgroupV2Subsystem_linux.cpp := address, \\\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
