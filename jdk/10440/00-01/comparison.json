@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -187,0 +187,1 @@\n+        this.hideDuplicates = hideDuplicates;\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/DiagramViewModel.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
