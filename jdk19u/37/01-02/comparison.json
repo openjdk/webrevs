@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,2 +46,0 @@\n-    @IR(counts = { IRNode.CMP_I, \"1\" })\n-    @IR(failOn = { IRNode.CMP_U})\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/CmpUWithZero.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
