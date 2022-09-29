@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294550: Sealed check for casts isn't applied to array components"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Types.java"},{"filename":"test\/langtools\/tools\/javac\/sealed\/SealedCompilationTests.java"}],"sha":"8b4fed0a41e23d75815bcb3b20598d65907ce86b"}]
