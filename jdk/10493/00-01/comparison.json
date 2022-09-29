@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,0 +86,2 @@\n+# TODO: Should merge once JDK-8294314 is in.\n+\n@@ -105,0 +107,1 @@\n+    DISABLED_WARNINGS_gcc_test_signals.cpp := cast-function-type, \\\n","filename":"make\/hotspot\/lib\/CompileGtest.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
