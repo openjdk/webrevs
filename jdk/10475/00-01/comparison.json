@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n- * Bug #4170614 complained that we had two iternal classes that\n+ * Bug #4170614 complained that we had two internal classes that\n","filename":"test\/jdk\/sun\/text\/IntHashtable\/patch-src\/java.base\/java\/text\/Bug4170614Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
