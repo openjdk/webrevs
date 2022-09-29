@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -630,1 +630,1 @@\n-    _consts_offset           = data_offset();\n+    _consts_offset           = content_offset()      + code_buffer->total_offset_of(code_buffer->consts());\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
