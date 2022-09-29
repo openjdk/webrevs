@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6845,0 +6845,3 @@\n+    assert(ra_->is_oop(this) == true, \"A decodeN node must produce an oop!\");\n+    ra_->set_oop(n2, true);\n+\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
