@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use nullptr everywhere, remove empty line"},"files":[{"filename":"src\/hotspot\/share\/opto\/idealGraphPrinter.cpp"}],"sha":"be726cc9d9eeeeb23945f8e9629f315ee9c4d8a9"},{"commit":{"message":"Do not visit the same node twice"},"files":[{"filename":"src\/hotspot\/share\/opto\/idealGraphPrinter.cpp"}],"sha":"2e80c21fd6a195f1ee9b1ae39d232a917c199c13"}]
