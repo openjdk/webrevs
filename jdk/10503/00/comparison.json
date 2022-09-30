@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,0 +235,1 @@\n+#ifndef GTEST_FLAG_GET\n@@ -236,0 +237,3 @@\n+#else\n+  if (::testing::GTEST_FLAG(internal_run_death_test).length() > 0) {\n+#endif\n","filename":"test\/hotspot\/gtest\/gtestMain.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
