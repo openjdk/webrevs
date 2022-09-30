@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make TestIssue and JiraIssue update the cache when updating labels"},"files":[{"filename":"issuetracker\/src\/main\/java\/org\/openjdk\/skara\/issuetracker\/jira\/JiraIssue.java"},{"filename":"test\/src\/main\/java\/org\/openjdk\/skara\/test\/TestIssue.java"}],"sha":"05319b179d87e3f0678c0cefd35efaf0ecb1d938"}]
