@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,4 +176,0 @@\n-            if (args.length > 1 && \"-preload\".equals(args[1])) {\n-                Class.forName(THIS_CLASS + \"$Parent$U\", false, parentCL);\n-            }\n-\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/unloaded\/TestInlineUnloaded.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
