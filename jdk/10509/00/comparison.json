@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-            if (!f1.get() && !f1.get() && !f3.get()) {\n+            if (!f1.get() || !f2.get() || !f3.get()) {\n","filename":"test\/jdk\/jdk\/jfr\/jmx\/streaming\/TestRemoteDump.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
