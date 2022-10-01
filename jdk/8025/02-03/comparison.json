@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-  if (block->get_node(block_index - 1) != inst1) {\n+  if (block_index < 1 || block->get_node(block_index - 1) != inst1) {\n","filename":"src\/hotspot\/cpu\/x86\/peephole_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
