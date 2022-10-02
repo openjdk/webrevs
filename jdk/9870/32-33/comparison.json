@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n-    } ((void*) 0)\n+    } ((void) 0)\n","filename":"src\/java.base\/share\/native\/libjli\/jli_util.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
