@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,1 +263,2 @@\n-class CHeapObjDyn {\n+\/\/ Dynamically pick the memory flags at allocation\n+class CHeapObjDynamic {\n","filename":"src\/hotspot\/share\/memory\/allocation.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
