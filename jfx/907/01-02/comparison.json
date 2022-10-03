@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,2 +235,1 @@\n-        start = Math.max(0, Math.min(start, length));\n-        end = Math.max(start, Math.min(end, length));\n+        validateRange(text);\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/win\/WinTextRangeProvider.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
