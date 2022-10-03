@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -372,2 +372,1 @@\n-    for (char** env = environ; *env; ++env)\n-    {\n+    for (char** env = environ; *env; ++env) {\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
