@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-            \/\/ Setup looback connection and echo server\n+            \/\/ Setup loopback connection and echo server\n","filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/TransferTo6GBFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
