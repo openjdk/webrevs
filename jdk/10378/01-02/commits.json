@@ -1,0 +1,1 @@
+[{"commit":{"message":"changed loop end condition, removed unnecessary conditional check to free graphicsConfigs"},"files":[{"filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/awt_GraphicsEnv.c"}],"sha":"a885893c3fa978932338ae61f3a4fef7ed24651d"}]
