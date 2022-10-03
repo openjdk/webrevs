@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1950,1 +1950,1 @@\n-  emit_operand(src, dst);\n+  emit_operand(src, dst, 1);\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
