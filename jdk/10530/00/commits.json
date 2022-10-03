@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294509: The sign extension bug applies to 'public static int[] convertSeedBytesToInts(byte[] seed, int n, int z)' in RandomSupport"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/random\/RandomSupport.java"},{"filename":"test\/jdk\/java\/util\/Random\/T8282144.java"}],"sha":"b3c3770cf4371b21fb8d89cd41a427ec38f0e539"}]
