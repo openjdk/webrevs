@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-#define DLL_ERROR4      \"Error: loading: %s\"\n+#define DLL_ERROR4      \"Error: Could not load %s\"\n","filename":"src\/java.base\/share\/native\/libjli\/emessages.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
