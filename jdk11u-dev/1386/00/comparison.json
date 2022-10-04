@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -760,0 +760,2 @@\n+java\/awt\/Robot\/HiDPIScreenCapture\/ScreenCaptureGtkTest.java 8282270 linux-all\n+java\/awt\/Robot\/HiDPIScreenCapture\/HiDPIRobotScreenCaptureTest.java 8282270 windows-all\n","filename":"test\/jdk\/ProblemList.txt","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
