@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,1 +121,1 @@\n-        \/\/ before VMDeathEvent is genareated.\n+        \/\/ before VMDeathEvent is generated.\n","filename":"test\/jdk\/com\/sun\/jdi\/ClassUnloadEventTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
