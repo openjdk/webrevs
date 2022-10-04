@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -267,0 +267,1 @@\n+        settingValues.put(EventNames.SecurityProviderService + \"#threshold\", \"0 ns\");\n","filename":"test\/jdk\/jdk\/jfr\/event\/runtime\/TestActiveSettingEvent.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
