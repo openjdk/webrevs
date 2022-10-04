@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,2 +156,1 @@\n-     * If (count == 0) this throws a NumberFormatException, which\n-     * mimics Long.parseLong().\n+     * If (count == 0) this returns 0.0, unlike Double.parseDouble().\n","filename":"src\/java.base\/share\/classes\/java\/text\/DigitList.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
