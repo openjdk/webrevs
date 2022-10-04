@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -265,1 +265,1 @@\n-        if (segment instanceof HeapMemorySegmentImpl) {\n+        if (!segment.isNative()) {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/SharedUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
