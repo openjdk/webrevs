@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1282,1 +1282,1 @@\n-  if (is_patching_needed(current, stub_id)) {\n+  if (is_patching_needed(thread, stub_id)) {\n","filename":"src\/hotspot\/share\/c1\/c1_Runtime1.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
