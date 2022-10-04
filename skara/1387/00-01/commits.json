@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adjusted format and updated setLabels in JiraIssue and TestIssue"},"files":[{"filename":"issuetracker\/src\/main\/java\/org\/openjdk\/skara\/issuetracker\/jira\/JiraIssue.java"},{"filename":"test\/src\/main\/java\/org\/openjdk\/skara\/test\/TestIssue.java"}],"sha":"b26f73b8eaa84d1e02ee60c921ad9f03d96f1339"}]
