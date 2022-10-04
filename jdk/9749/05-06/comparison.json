@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n- * Function prototypes.\n+ * Windows specific declarations.\n@@ -48,0 +48,1 @@\n+void reportWithLastWindowsError(const char* message, ...);\n","filename":"src\/java.base\/windows\/native\/libjli\/java_md.h","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
