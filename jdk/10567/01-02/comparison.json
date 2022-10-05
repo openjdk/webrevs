@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -199,0 +199,1 @@\n+     * If (count == 0) this does not throw a NumberFormatException, unlike BigDecimal(\"\").\n","filename":"src\/java.base\/share\/classes\/java\/text\/DigitList.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
