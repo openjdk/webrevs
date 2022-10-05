@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,1 +298,1 @@\n-        undef unused-function stringop-truncation, \\\n+        misleading-indentation undef unused-function stringop-truncation, \\\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
