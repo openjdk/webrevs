@@ -1,0 +1,1 @@
+[{"commit":{"message":"8237479: 8230305 causes slowdebug build failure\n\nDeclare methods as pure virtual.\n\nBackport-of: 4ca06995855b5c974321d7b3622d661b8d27ba76"},"files":[{"filename":"hotspot\/src\/os\/linux\/vm\/cgroupSubsystem_linux.hpp"}],"sha":"ce82cd311b834e7cb02391fb91ce9a5889d75b13"}]
