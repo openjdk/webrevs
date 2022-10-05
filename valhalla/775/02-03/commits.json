@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert changes to AccessFlags that would return IDENTITY for array classes."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/AccessFlag\/ClassAccessFlagTest.java"},{"filename":"test\/jdk\/valhalla\/valuetypes\/ObjectMethods.java"}],"sha":"077743058178a928d573de1204e84fbd78945744"}]
