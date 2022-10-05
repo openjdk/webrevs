@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,1 +200,1 @@\n-                if (n - i >= 2) {\n+                if (n - i < 2) {\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/ParseUtil.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
