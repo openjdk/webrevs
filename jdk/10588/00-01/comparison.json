@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -149,0 +149,1 @@\n+            Bits.unreserveMemory(size, cap);\n","filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
