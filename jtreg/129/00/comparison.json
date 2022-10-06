@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -215,0 +215,1 @@\n+    @SuppressWarnings(\"serial\")\n@@ -217,2 +218,0 @@\n-        static final long serialVersionUID = 5933594140534747584L;\n-\n","filename":"src\/share\/classes\/com\/sun\/javatest\/diff\/SuperDiff.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
