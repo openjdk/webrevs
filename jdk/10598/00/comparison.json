@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-    return context.getRegisterAsAddress(X86ThreadContext.ESP);\n+    return context.getRegisterAsAddress(X86ThreadContext.SP);\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/linux_x86\/LinuxX86JavaThreadPDAccess.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
