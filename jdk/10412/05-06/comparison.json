@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,0 @@\n-#include \"opto\/loopnode.hpp\"\n@@ -28,0 +27,1 @@\n+#include \"opto\/loopnode.hpp\"\n","filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
