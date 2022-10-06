@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,2 +34,0 @@\n-extern \"C\" {\n-\n@@ -181,0 +179,2 @@\n+extern \"C\" {\n+\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/RedefineClasses\/RedefineRetransform\/libRedefineRetransform.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
