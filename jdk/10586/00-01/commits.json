@@ -1,0 +1,1 @@
+[{"commit":{"message":"addressed review comments about is_JavaThread_current and @enablePreview tag"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.hpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/GetLocalVariable\/GetSetLocalUnsuspended.java"}],"sha":"5991659fad3c989bdda11980c227a97ce50efbda"}]
