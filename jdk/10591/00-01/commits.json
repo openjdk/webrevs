@@ -1,0 +1,1 @@
+[{"commit":{"message":"Guard verify_not_claimed with ifdef ASSERT"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.hpp"}],"sha":"d7fdc8e3fd82d8ddc2807191fad5abeb1e686f94"}]
