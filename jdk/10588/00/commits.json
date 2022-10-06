@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294717: (bf) DirectByteBuffer constructor will leak if allocating Deallocator or Cleaner fails with OOME"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template"}],"sha":"03b92348458e3475045eb3fc5093b466f6d81264"}]
