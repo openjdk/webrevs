@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,0 +173,3 @@\n+    \/**\n+     * Returns the special hash that references the virtual commit before the first real commit in a repository.\n+     *\/\n","filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/ReadOnlyRepository.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
