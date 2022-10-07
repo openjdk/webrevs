@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -561,1 +561,1 @@\n-                        } else if (buildNumber > 17676) {\n+                        } else if (buildNumber > 17762) {\n","filename":"src\/java.base\/windows\/native\/libjava\/java_props_md.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
