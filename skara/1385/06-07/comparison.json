@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-    private static final Hash NULL_REVISION = new Hash(\"0000000000000000000000000000000000000000\");\n+    private static final Hash NULL_REVISION = new Hash(\"0\".repeat(40));\n","filename":"vcs\/src\/main\/java\/org\/openjdk\/skara\/vcs\/hg\/HgRepository.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
