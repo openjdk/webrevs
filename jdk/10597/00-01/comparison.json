@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-            \"-cp\", \".\" + File.separator + \"hello.jar\" + File.pathSeparator + appJar2,\n+            \"-cp\", appJar + File.pathSeparator + appJar2,\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/RelativePath.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
