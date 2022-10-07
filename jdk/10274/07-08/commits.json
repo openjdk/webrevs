@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix for pixel color at edge, outermost border lines drawn as part of bulk of border"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/metal\/MetalBorders.java"},{"filename":"test\/jdk\/javax\/swing\/JInternalFrame\/InternalFrameBorderTest.java"}],"sha":"da54767fac9813a883a4103d353316d82ece2ae6"}]
