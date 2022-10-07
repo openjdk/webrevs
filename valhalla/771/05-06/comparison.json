@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -778,0 +778,1 @@\n+        \/\/ check that <vnew> is invoked with invokestatic\n","filename":"test\/langtools\/tools\/javac\/valhalla\/value-objects\/ValueObjectCompilationTests.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
