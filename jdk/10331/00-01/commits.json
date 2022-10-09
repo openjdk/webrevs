@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293984: Unnecessary Vector usage in PropertyEditorSupport\n\nuse ArrayList constructor instead of clone"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/beans\/PropertyEditorSupport.java"}],"sha":"303e4fbdb51cebd2d6c51624464412d215898f8d"}]
