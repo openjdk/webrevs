@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -546,1 +546,1 @@\n-        if (markpos == -1)\n+        if (markpos < 0)\n","filename":"src\/java.base\/share\/classes\/java\/io\/BufferedInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
