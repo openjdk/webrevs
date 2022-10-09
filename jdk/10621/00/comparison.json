@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-class Arena : public CHeapObj<mtNone> {\n+class Arena {\n","filename":"src\/hotspot\/share\/memory\/arena.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
