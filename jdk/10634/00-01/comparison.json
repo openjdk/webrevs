@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -348,1 +348,1 @@\n-        $$($$($1_BASE)_DISABLED_WARNINGS_$(TOOLCHAIN_TYPE)_$$($1_FILENAME)))\n+        $$($$($1_BASE)_DISABLED_WARNINGS_$(TOOLCHAIN_TYPE)_$$($1_FILENAME)) \\\n","filename":"make\/common\/NativeCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
