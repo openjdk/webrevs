@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use 64 bit load for _nmethod_disarm_value. (Makes a difference on Big Endian\\!)"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetAssembler_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetNMethod_ppc.cpp"}],"sha":"08b86237168506ffe9463e5131ab695d00faa50f"}]
