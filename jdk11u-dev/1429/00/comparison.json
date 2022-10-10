@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,2 @@\n-  sem_destroy(&_semaphore);\n+  int ret = sem_destroy(&_semaphore);\n+  assert_with_errno(ret == 0, \"sem_destroy failed\");\n","filename":"src\/hotspot\/os\/posix\/semaphore_posix.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
