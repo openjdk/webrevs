@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -533,1 +533,1 @@\n-#       toolchain and target OS  when compiling C++ code\n+#       toolchain and target OS when compiling C++ code\n","filename":"make\/common\/NativeCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
