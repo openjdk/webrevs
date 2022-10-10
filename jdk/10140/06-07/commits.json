@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't use JavaVM exported from nio_util.c"},"files":[{"filename":"src\/java.base\/macosx\/native\/libnio\/fs\/MacOSXWatchService.c"},{"filename":"src\/java.base\/share\/native\/libnio\/nio_util.c"},{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/nio_util.h"}],"sha":"b3d1604b8a9bda7ccba637a282c19641014d5d2e"}]
