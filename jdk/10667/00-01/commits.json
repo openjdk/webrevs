@@ -1,0 +1,1 @@
+[{"commit":{"message":"conditionalize 64bit tests on 64bit platform"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_atomic.cpp"}],"sha":"e44e81cdf086f5b5762f9f509ccc2735206c2d13"}]
