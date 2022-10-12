@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295192: Use original configure command line when called from a script"},"files":[{"filename":"bin\/jib.sh"},{"filename":"make\/Init.gmk"},{"filename":"make\/autoconf\/basic.m4"},{"filename":"make\/autoconf\/help.m4"},{"filename":"make\/autoconf\/spec.gmk.in"}],"sha":"714d17ad2c605030b6f9dda86f2765395a4893d0"}]
