@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run main compiler.floatingpoint.TestDenormalFloat\n+ * @run main\/othervm compiler.floatingpoint.TestDenormalFloat\n","filename":"test\/hotspot\/jtreg\/compiler\/floatingpoint\/TestDenormalFloat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
