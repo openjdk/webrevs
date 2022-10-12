@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -328,1 +328,1 @@\n-  if (for_young_gc || !enough_samples_available(_young_pending_cards_seq)) {\n+  if (for_young_gc || !enough_samples_available(_mixed_pending_cards_seq)) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Analytics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
