@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1750,1 +1750,1 @@\n-  assert(rtn == 0, \"must be.\");\n+  assert(rtn == 0, \"fegetnv must succeed\");\n@@ -1753,1 +1753,1 @@\n-  assert(rtn == 0, \"must be.\");\n+  assert(rtn == 0, \"fesetenv must succeed\");\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
