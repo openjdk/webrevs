@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,0 @@\n-    static final int MAX_CLIENT_DELAY = 75;\n@@ -223,1 +222,0 @@\n-        \/\/ assert i == uris.length ;\n","filename":"test\/jdk\/java\/net\/httpclient\/CancelStreamedBodyTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
