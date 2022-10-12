@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move disabled warnings from JvmOverrideFiles.gmk to the new per-file disabling framework\n\n(maybe-uninitialized is always turned off so skip those files)"},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"},{"filename":"make\/hotspot\/lib\/JvmOverrideFiles.gmk"}],"sha":"8b4433e20d843d080d64507900386da4b12c1480"}]
