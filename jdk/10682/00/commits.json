@@ -1,0 +1,1 @@
+[{"commit":{"message":"clear codeStart when entryPoint is cleared"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/compilerToVM\/InvalidateInstalledCodeTest.java"}],"sha":"9fd5ad36a411e387565d6f665580cd53a121cd4e"}]
