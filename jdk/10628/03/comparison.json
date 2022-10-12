@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,1 +178,5 @@\n-      binutils_target=\"\"\n+      if test \"x$COMPILE_TYPE\" = xcross; then\n+        binutils_target=\"--host=$OPENJDK_TARGET_AUTOCONF_NAME\"\n+      else\n+        binutils_target=\"\"\n+      fi\n","filename":"make\/autoconf\/lib-hsdis.m4","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}

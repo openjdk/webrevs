@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use COMPILE_TYPE and OPENJDK_TARGET_AUTOCONF_NAME instead"},"files":[{"filename":"make\/autoconf\/lib-hsdis.m4"}],"sha":"708635ab0ae5b6180af05cf89719da015bc80ad1"},{"commit":{"message":"Add hsdis-src support for cross-compile"},"files":[{"filename":"make\/autoconf\/lib-hsdis.m4"}],"sha":"d5c48d6b2a6decad033daac34417a5714a733418"}]
