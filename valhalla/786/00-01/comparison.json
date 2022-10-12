@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -267,1 +267,1 @@\n-    * {@return {@code true} if the specified object reference is a value object,\n+    * {@return {@code true} if the specified object is a {@linkplain Class#isValue value object},\n","filename":"src\/java.base\/share\/classes\/java\/util\/Objects.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
