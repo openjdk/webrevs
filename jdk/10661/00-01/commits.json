@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295159: DSO created with -ffast-math breaks Java floating-point arithmetic"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/floatingpoint\/libfast-math.c"}],"sha":"8d834739337aa3e8cbbdf61ec2c522f64b6f9b4a"}]
