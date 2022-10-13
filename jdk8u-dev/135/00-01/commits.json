@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove duplicate include of osContainer_linux\n\nWith the backport of 8189762, the include of osContainer_linux was\nmoved to a later #ifdef stanza, relative to the original. This caused\na context problem with this backport."},"files":[{"filename":"hotspot\/src\/share\/vm\/prims\/whitebox.cpp"}],"sha":"880244fd40d0cabaa8be8775c34b44374acead45"}]
