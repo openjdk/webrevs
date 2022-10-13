@@ -1,0 +1,1 @@
+[{"commit":{"message":"7903349: int parameter in generated allocateArray method should be long"},"files":[{"filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/CDeclarationPrinter.java"},{"filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/StructBuilder.java"}],"sha":"9fb9aec8bdf76bf1240849c333168ca3ffebb12e"}]
