@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295264: Fix PaX check on RISC-V\n\nOn Linux RISC-V, PROT_WRITE doesn't imply PROT_READ [1]\n\nThe fix is to pass PROT_READ|PROT_WRITE. That matches all other calls to mmap in hotspot.\n\n[1] https:\/\/lkml.org\/lkml\/2022\/9\/8\/1066"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"355fc63011ce11b654f22c520721a9212d2fe9d0"}]
