@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1078,1 +1078,1 @@\n-    __ ld(t1, t1);\n+    __ ld(t1, Address(t1, 0));\n","filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
