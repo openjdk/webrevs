@@ -1,0 +1,1 @@
+[{"commit":{"message":"UPSTREAM: Remove implicit aarch64 registers"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/interp_masm_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/methodHandles_aarch64.cpp"}],"sha":"4395b1e4e5f35ce8fae0bafee193b29a1e0bd1b4"}]
