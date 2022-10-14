@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Unnecessary HashTable usage in StyleSheet\n\nHashtable was used only from single thread. And only non-null key\/values added to it.\nWe can safely replace it with HashSet."},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/StyleSheet.java"}],"sha":"ee8cbfd58f204b729d57edffa95c3eed11cb7b20"}]
