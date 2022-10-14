@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295020: javac emits incorrect code for for-each on an intersection type."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"},{"filename":"test\/langtools\/tools\/javac\/foreach\/CovariantIntersectIterator.java"}],"sha":"ea162848e65437e1ed2ab1a999e570b475187b22"}]
