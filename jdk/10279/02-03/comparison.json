@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,1 @@\n-        System.out.println(\"Succeeded! (no StackOverflowError\");\n+        System.out.println(\"Succeeded! (no StackOverflowError)\");\n","filename":"test\/jdk\/javax\/swing\/text\/html\/parser\/ParserStackOverflow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
