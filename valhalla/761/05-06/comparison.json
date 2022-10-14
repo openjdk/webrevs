@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n- * Value objects cannot be `java.io.Externalizable`.\n+ * Value objects cannot be {@code java.io.Externalizable}.\n","filename":"src\/java.base\/share\/classes\/java\/io\/ObjectOutputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
