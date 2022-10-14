@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -489,1 +489,2 @@\n-     *         (and neither index is {@code -1})\n+     *         (and neither index is {@code -1}) or\n+     *         either index is equal to Integer.MAX_VALUE\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/DefaultListSelectionModel.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
