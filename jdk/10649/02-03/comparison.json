@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -197,2 +197,0 @@\n-  \/\/ We have no measure of the number of pending cards in the thread buffers,\n-  \/\/ assume these are very few.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
