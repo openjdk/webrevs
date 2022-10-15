@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n-public class A  extends B {\n+public class A extends B {\n","filename":"test\/hotspot\/jtreg\/runtime\/ParallelLoad\/SuperWait\/test-classes\/A.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
