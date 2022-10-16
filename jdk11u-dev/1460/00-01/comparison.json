@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-    static final int pass_count = 100;\n+    static final int pass_count = 10000;\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestNegativeStringBuilderCapacity.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
