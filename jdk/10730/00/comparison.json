@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,2 +44,2 @@\n-native.spindump.app=spindump\n-native.spindump.args=%p -stdout\n+native.spindump.app=sudo\n+native.spindump.args=spindump %p -stdout\n","filename":"test\/failure_handler\/src\/share\/conf\/mac.properties","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
