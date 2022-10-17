@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move test to a more 8u-appropriate location\n\nContainer (cgroups, docker) tests in 8u reside in\nhotspot\/test\/runtime\/containers"},"files":[{"filename":"hotspot\/test\/runtime\/containers\/cgroup\/CgroupSubsystemFactory.java"}],"sha":"9af9bd4744fa7e32e10fff2fe4546a51eef3b1bc"}]
