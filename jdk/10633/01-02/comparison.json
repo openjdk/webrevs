@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,3 @@\n+\/\/ Code in this file requires linking with ole32\n+\n+\n","filename":"src\/jdk.jpackage\/windows\/native\/common\/Guid.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
