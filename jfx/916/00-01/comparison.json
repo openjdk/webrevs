@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,1 +239,1 @@\n-        private boolean printed;\n+        private volatile boolean printed;\n","filename":"modules\/javafx.graphics\/src\/test\/java\/test\/com\/sun\/prism\/j2d\/print\/J2DPrinterJobTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
