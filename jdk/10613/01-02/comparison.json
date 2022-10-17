@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -478,1 +478,1 @@\n-            System.out.println(f);\n+            System.out.println(f + \" \" + f.length() + \" bytes\");\n","filename":"test\/lib\/jdk\/test\/lib\/apps\/LingeredApp.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
