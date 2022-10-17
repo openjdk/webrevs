@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-        shlwapi.lib Shell32.lib, \\\n+          shlwapi.lib Shell32.lib, \\\n@@ -150,1 +150,1 @@\n-        Shell32.lib, \\\n+          Shell32.lib, \\\n","filename":"make\/modules\/jdk.jpackage\/Lib.gmk","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
