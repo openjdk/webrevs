@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport a4e082e9857d6acd126fb0734583b4a1e211f9f7"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketImpl.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSocketImpl\/SSLSocketCloseHang.java"}],"sha":"2dca1379fc02cad32629df7852297a5e40331d8a"}]
