@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295435: Build failure with GCC7 after JDK-8294314 due to strict-overflow warnings"},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"}],"sha":"dcf8c0c007279787a1268ecc2defc8c9b603a3e7"}]
