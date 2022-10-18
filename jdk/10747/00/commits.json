@@ -1,0 +1,1 @@
+[{"commit":{"message":"check callee->is_unloading in fixup_callers_callsite"},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"},{"filename":"src\/hotspot\/share\/oops\/method.hpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"b6adf7dd27b7e7272b371887522f1d2f2bd9beb6"}]
