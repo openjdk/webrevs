@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,0 +97,2 @@\n+  # Some reasonable asserts produce warnings on GCC <= 7\n+  DISABLED_WARNINGS_gcc += strict-overflow\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
