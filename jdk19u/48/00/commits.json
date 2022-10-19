@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport d1252653b07ee3d0347b39b96f734e45772b5b36"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketInputRecord.java"},{"filename":"test\/jdk\/ProblemList.txt"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSessionImpl\/NoInvalidateSocketException.java"}],"sha":"d0fd5f3636b74fdf1a8fee687ed636bf8b1f43bd"}]
