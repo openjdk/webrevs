@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-      uses: actions\/setup-java@v1\n+      uses: actions\/setup-java@v3\n@@ -38,0 +38,1 @@\n+        distribution: temurin\n","filename":".github\/workflows\/pre-integration.yml","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
