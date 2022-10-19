@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-        \/\/ test default vnew init factory\n+        \/\/ test default static vnew factory\n","filename":"test\/jdk\/valhalla\/valuetypes\/StaticFactoryMethodHandleTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
