@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295655: [lworld] AArch64: Deoptimization from return value stub fails"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp"}],"sha":"fc9ccfd8d33b9d1ba5ab9ba3e0c0c697f864e1fe"}]
