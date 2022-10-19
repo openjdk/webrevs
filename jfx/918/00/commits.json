@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278426: Remove runFinalization calls in ImagePool::pruneCache\n\nFinalizers are deprecated in JDK 18 and will be removed soon."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/scenario\/effect\/impl\/ImagePool.java"}],"sha":"33147f06f7aa1312bfb458209c097bb219f0c9f0"}]
