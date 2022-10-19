@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -417,1 +417,1 @@\n-     * @param {@code obj} the reference object with which to compare\n+     * @param obj the reference object with which to compare\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/geometry\/Point3D.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
