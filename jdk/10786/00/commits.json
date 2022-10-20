@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295715: Minimize disabled warnings in serviceability libs"},"files":[{"filename":"make\/modules\/java.instrument\/Lib.gmk"},{"filename":"make\/modules\/jdk.hotspot.agent\/Lib.gmk"},{"filename":"make\/modules\/jdk.jdwp.agent\/Lib.gmk"},{"filename":"make\/modules\/jdk.management\/Lib.gmk"}],"sha":"bf11d3e5bd40547b0cfa9b797d2630953d033328"}]
