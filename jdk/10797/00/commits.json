@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip enum switch lookup tables when compiling the enum switch class."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"},{"filename":"test\/langtools\/tools\/javac\/enum\/T7176515.java"}],"sha":"b5337927b55f4cbe30cbaf3e951a5d97471d4946"}]
