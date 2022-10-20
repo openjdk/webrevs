@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -410,2 +410,0 @@\n-  class BucketsClaimer;\n-\n@@ -489,0 +487,1 @@\n+\n@@ -495,0 +494,1 @@\n+  class BucketsClaimer;\n","filename":"src\/hotspot\/share\/utilities\/concurrentHashTable.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
