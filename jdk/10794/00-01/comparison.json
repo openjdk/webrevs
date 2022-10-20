@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,0 +126,1 @@\n+            numberOfRequests = 0;\n","filename":"test\/jdk\/java\/net\/httpclient\/ShortResponseBody.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
