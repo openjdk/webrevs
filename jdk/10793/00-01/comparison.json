@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-  return G1Analytics::enough_samples_available(&_young_only_seq);\n+  return G1Analytics::enough_samples_available(&_mixed_seq);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1AnalyticsSequences.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
