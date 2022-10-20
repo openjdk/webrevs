@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip all test cases if StressReflectiveCode is enabled"},"files":[{"filename":"test\/jdk\/com\/sun\/jdi\/EATests.java"}],"sha":"c8c346f85b3de1ae2fc6de9a6f923e83e08fba4a"},{"commit":{"message":"Adapt test to -XX:+StressReflectiveCode"},"files":[{"filename":"test\/jdk\/com\/sun\/jdi\/EATests.java"}],"sha":"9071e5b45aa797d5cbfd489e4df32157a1a8f027"}]
