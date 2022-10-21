@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make use of RVA22U64 profile and Zic64b extension to guide CacheLineSize value"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"52047b6a5dc5ae5452887655b355593cddc2063e"}]
