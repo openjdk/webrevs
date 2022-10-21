@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,0 +63,1 @@\n+  ResourceMark rm;\n","filename":"src\/hotspot\/share\/runtime\/vmOperations.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
