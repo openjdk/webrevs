@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293816: CI: ciBytecodeStream::get_klass() is not consistent\n\nReviewed-by: dlong, kvn"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciKlass.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciStreams.cpp"}],"sha":"9b101023958025c7dfaa53b474cc9f06fc4541d0"}]
