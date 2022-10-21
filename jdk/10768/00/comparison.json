@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3447,0 +3447,2 @@\n+    cmsUNUSED_PARAMETER(SizeOfTag);\n+\n@@ -5147,0 +5149,2 @@\n+    cmsUNUSED_PARAMETER(SizeOfTag);\n+\n","filename":"src\/java.desktop\/share\/native\/liblcms\/cmstypes.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
