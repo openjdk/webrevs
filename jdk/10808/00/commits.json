@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295737: macOS: Print content cut off when width > height with portrait orientation"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/CPrinterJob.m"},{"filename":"test\/jdk\/java\/awt\/print\/PageFormat\/CutOffImage.java"}],"sha":"6ad5ebde8b53c1f3fa4c6db2777d867d8a9bc9e8"}]
