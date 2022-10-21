@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -627,4 +627,0 @@\n-  void movptr(Register Rd, Label &L) {\n-    wrap_label(Rd, L, (MacroAssembler::jal_jalr_insn)&MacroAssembler::movptr);\n-  }\n-\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
