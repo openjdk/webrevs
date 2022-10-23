@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed bug where findclass(\"*\", 0x1) does not print classes with no methods"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classPrinter.cpp"}],"sha":"0e55ee8a6fbcad1b29f3c57d720fe90fae9ebd28"}]
