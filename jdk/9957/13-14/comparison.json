@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,0 +156,1 @@\n+  ResourceMark rm;\n","filename":"src\/hotspot\/share\/classfile\/classPrinter.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
