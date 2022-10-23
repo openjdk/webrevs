@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293999: [JVMCI] need support for aligned constants in generated code larger than 8 bytes"},"files":[{"filename":"src\/hotspot\/share\/asm\/codeBuffer.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/errors\/TestInvalidCompilationResult.java"}],"sha":"80693ef84e8dbc679989ada89496fe3cb6e82739"}]
