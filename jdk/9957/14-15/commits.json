@@ -1,0 +1,1 @@
+[{"commit":{"message":"One more ResourceMark fix; fixed gtest case"},"files":[{"filename":"src\/hotspot\/share\/oops\/cpCache.cpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_classPrinter.cpp"}],"sha":"92adeaa746fc38c50122773c0866f073f22a78df"}]
