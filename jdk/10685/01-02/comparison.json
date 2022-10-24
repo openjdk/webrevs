@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-                    (i+1) + \", \" + baseColor + \",\" + c);\n+                    (i + 1) + \", \" + baseColor + \",\" + c);\n","filename":"test\/jdk\/javax\/swing\/text\/html\/TestResetSelectForm.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
