@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2729,1 +2729,1 @@\n-  INSN(cbo_zero,  0b0000000001000);\n+  INSN(cbo_zero,  0b0000000000100);\n","filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
