@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1193,0 +1193,1 @@\n+    gdk_window_raise(gdk_window);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
