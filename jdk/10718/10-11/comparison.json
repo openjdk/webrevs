@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3983,1 +3983,1 @@\n-      sd(zr, Address(ptr, j*8));\n+      sd(zr, Address(ptr, j * 8));\n@@ -3985,1 +3985,1 @@\n-    addi(ptr, ptr, i*8);\n+    addi(ptr, ptr, i * 8);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
