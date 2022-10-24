@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -170,1 +170,1 @@\n-                        .map(integrator -> integrator.asString())\n+                        .map(JSONValue::asString)\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/PullRequestBotFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
