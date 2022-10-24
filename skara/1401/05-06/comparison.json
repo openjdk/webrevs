@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,1 +239,1 @@\n-        log.info(\"Incorrectly formatted commit message: \" + message);\n+        log.warning(\"Incorrectly formatted commit message: \" + message);\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/PullRequestCheckIssueVisitor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

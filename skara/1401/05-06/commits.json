@@ -1,0 +1,1 @@
+[{"commit":{"message":"change log.info to log.warning when commit message is incorrectly formatted"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/PullRequestCheckIssueVisitor.java"}],"sha":"cf7bd8caf68d295aa2c017c79a83c3e727cfe396"}]
