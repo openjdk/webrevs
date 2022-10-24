@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-        command.add(\"--gtest_catch_exceptions=0\" + resultFile);\n+        command.add(\"--gtest_catch_exceptions=0\");\n","filename":"test\/hotspot\/jtreg\/gtest\/GTestWrapper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
