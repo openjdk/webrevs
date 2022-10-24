@@ -1,0 +1,1 @@
+[{"commit":{"message":"Compile issue, explicit tmp regs to load_oop_heap"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp"}],"sha":"1f0af2a22161c8f918eff85fdb335f5266b5d421"}]
