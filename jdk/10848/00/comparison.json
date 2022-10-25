@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -771,1 +771,1 @@\n-      DISABLED_WARNINGS_microsoft_splashscreen_impl.c := 4267 4244, \\\n+      DISABLED_WARNINGS_microsoft_splashscreen_impl.c := 4018 4267 4244, \\\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
