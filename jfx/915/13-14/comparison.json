@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -923,1 +923,1 @@\n-    Display *display = GDK_DISPLAY_XDISPLAY (gdk_window_get_display (gdk_window));\n+    Display *display = GDK_DISPLAY_XDISPLAY(gdk_window_get_display(gdk_window));\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
