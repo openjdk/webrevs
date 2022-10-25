@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8295889-NMT-preinit-should-handle-allocation-errors"},"files":[{"filename":"src\/hotspot\/share\/services\/nmtPreInit.cpp"},{"filename":"test\/hotspot\/gtest\/nmt\/test_nmtpreinit.cpp"}],"sha":"76d9d5ba99c018b62f5c4aa018dfb3a752f9198e"}]
