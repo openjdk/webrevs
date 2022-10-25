@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295872: [PPC64] JfrGetCallTrace: Need pc == nullptr check before frame constructor"},"files":[{"filename":"src\/hotspot\/os_cpu\/aix_ppc\/javaThread_aix_ppc.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_ppc\/javaThread_linux_ppc.cpp"}],"sha":"fe0bfd327ccf438a61b6c49b174290917e8fa8fa"}]
