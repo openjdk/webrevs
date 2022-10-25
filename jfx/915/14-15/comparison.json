@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1139,1 +1139,0 @@\n-    g_print(\"set_bounds %d, %d, %d, %d, %d, %d\\n\", x, y, w, h, cw, ch);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
