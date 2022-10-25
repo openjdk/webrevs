@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -898,1 +898,1 @@\n-    const char* runtime_path = runtime_path = rp_array->at(i)  + runtime_prefix_len;\n+    const char* runtime_path = rp_array->at(i)  + runtime_prefix_len;\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
