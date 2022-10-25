@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -552,1 +552,1 @@\n-     * other.address() - segment.baseAddress()\n+     * other.address() - segment.address()\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemorySegment.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
