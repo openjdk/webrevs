@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295323: Unnecessary HashTable usage in StyleSheet\n\nrename tempHashSet to alreadyChecked"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/StyleSheet.java"}],"sha":"f89a85c4ef0f5ed311e5ad6dac484bd78203fea8"}]
