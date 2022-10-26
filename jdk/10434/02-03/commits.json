@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294399: Move UnixDispatcher_init() before the other JNI methods"},"files":[{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/UnixDispatcher.c"}],"sha":"ab83200d83ce853e45ee6b6addb7f4b1d400d53f"}]
