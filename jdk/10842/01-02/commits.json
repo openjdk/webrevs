@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use Thread::getStackTrace() to find the caller's line number, etc"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandleNatives.java"}],"sha":"c26cbd7cb69de02f19803a25b6769ffddd9a9d70"}]
