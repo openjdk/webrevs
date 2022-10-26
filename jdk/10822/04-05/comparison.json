@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,2 +39,0 @@\n-    private static boolean dIsLoading = false;\n-\n@@ -44,0 +42,2 @@\n+        private static boolean dIsLoading = false;\n+\n","filename":"test\/hotspot\/jtreg\/runtime\/ParallelLoad\/SuperWait\/SuperWaitTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
