@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4191,1 +4191,1 @@\n-void resolve_weak_handle(Register result, Register tmp1, Register tmp2) {\n+void MacroAssembler::resolve_weak_handle(Register result, Register tmp1, Register tmp2) {\n","filename":"src\/hotspot\/cpu\/s390\/macroAssembler_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
