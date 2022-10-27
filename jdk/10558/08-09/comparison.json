@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,1 +178,1 @@\n-  __ resolve_weak_handle(Address(Z_R1_scratch, 0), Z_R0_scratch, Z_R1_scratch);\n+  __ resolve_weak_handle(Address(Z_R1_scratch), Z_R1_scratch, Z_R0_scratch, Z_R2);\n","filename":"src\/hotspot\/cpu\/s390\/gc\/shared\/barrierSetAssembler_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
