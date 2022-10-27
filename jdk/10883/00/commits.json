@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change PKCS7 code to use default SecureRandom impl instead of SHA1PRNG."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/pkcs\/PKCS7.java"}],"sha":"f9e5e50af71f78bf56f056ed72a9bbc4e76fbead"}]
