@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 40155b14cdbc5690469b1d8869ae0f5cdb4b0218"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/T8222251\/PreflowNotVisitingLambdaExpTest.java"}],"sha":"9479650211b0a8ca1363b51fc8184605e40e98e2"}]
