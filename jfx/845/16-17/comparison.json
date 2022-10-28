@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-     * their {@link #dipose()} method.\n+     * their {@link #dispose()} method.\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/Skin.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
