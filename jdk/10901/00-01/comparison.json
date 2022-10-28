@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -874,0 +874,1 @@\n+  friend class Type;\n","filename":"src\/hotspot\/share\/opto\/type.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
