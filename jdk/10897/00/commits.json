@@ -1,0 +1,1 @@
+[{"commit":{"message":"8232933: Javac inferred type does not conform to equality constraint"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/InferenceContext.java"},{"filename":"test\/langtools\/tools\/javac\/inference_context_min\/DontMinimizeInfContextTest.java"}],"sha":"a481c909ad1bb73baba00d53870376a11dc78502"}]
