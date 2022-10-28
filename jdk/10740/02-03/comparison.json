@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,0 +88,2 @@\n+     * @throws {@code NullPointerException} if {@code insets}\n+     *         is {@code null}\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/border\/AbstractBorder.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
