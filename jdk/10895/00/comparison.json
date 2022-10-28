@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-        \"API and and all native threads attached to the target VM with JNI code.\"\n+        \"API and all native threads attached to the target VM with JNI code.\"\n","filename":"src\/java.se\/share\/data\/jdwp\/jdwp.spec","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
