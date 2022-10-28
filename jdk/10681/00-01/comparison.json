@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -259,1 +259,1 @@\n-        JFrame frame = new JFrame(\"Scaled Etched Border Test\");\n+        JFrame frame = new JFrame(\"Scaled Line Border Test\");\n","filename":"test\/jdk\/javax\/swing\/border\/LineBorder\/ScaledLineBorderTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
