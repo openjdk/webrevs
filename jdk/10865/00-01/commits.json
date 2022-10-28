@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moving setting of waiting_for_active_callbacks inside of locking code"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/eventHandler.c"}],"sha":"9e4779cc434665846251657a23979f504504ccc9"}]
