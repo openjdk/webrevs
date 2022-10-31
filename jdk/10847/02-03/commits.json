@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change scalar unroll to 2 element stride, minding dependency chain"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"}],"sha":"a473c2000c8cc7ce436511b1225b7b6bb3c47ec3"}]
