@@ -1,0 +1,1 @@
+[{"commit":{"message":"Require UseSSE >= 3 due transitive use of sse3 instructions from ReduceI"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"7e8a3e9c8e99dcb9cf09f24f955d35a854a259a1"}]

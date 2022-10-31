@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1669,1 +1669,1 @@\n-  if (UseAVX > 1) {\n+  if (UseAVX >= 2 && UseSSE >= 3) {\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
