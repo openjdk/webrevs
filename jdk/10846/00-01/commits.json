@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove acquire barrier again. The null check is the clean fix."},"files":[{"filename":"src\/hotspot\/os_cpu\/aix_ppc\/javaThread_aix_ppc.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_ppc\/javaThread_linux_ppc.cpp"}],"sha":"53f5fc067360ddac1a7fbaf130a49e5564caf612"}]
