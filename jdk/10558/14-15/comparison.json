@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,0 @@\n-  virtual void nmethod_entry_barrier(MacroAssembler* masm);\n@@ -53,0 +52,2 @@\n+  virtual void nmethod_entry_barrier(MacroAssembler* masm);\n+\n","filename":"src\/hotspot\/cpu\/s390\/gc\/shared\/barrierSetAssembler_s390.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
