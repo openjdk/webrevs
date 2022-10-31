@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -16977,1 +16977,2 @@\n-    __ mov($dst$$Register, $tdst$$FloatRegister, __ D, 0);  %}\n+    __ mov($dst$$Register, $tdst$$FloatRegister, __ D, 0); \n+    %}\n","filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
