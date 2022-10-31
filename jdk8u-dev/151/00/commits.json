@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 04a806ec86a388b8de31d42f904c4321beb69e14"},"files":[{"filename":"jdk\/src\/share\/classes\/sun\/security\/ssl\/ClientHello.java"},{"filename":"jdk\/src\/share\/classes\/sun\/security\/ssl\/HandshakeContext.java"},{"filename":"jdk\/test\/sun\/security\/ssl\/SSLSessionImpl\/InvalidateSession.java"}],"sha":"816093e81a125253e10ec7ad58ade9dd1dc82d96"}]
