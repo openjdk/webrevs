@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-public class Serial2 implements java.io.Serializable {\n+public class Serial2 {\n","filename":"test\/jdk\/javax\/security\/auth\/PrivateCredentialPermission\/Serial2.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
