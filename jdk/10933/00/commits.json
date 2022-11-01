@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295724: VirtualMachineError: Out of space in CodeCache for method handle intrinsic"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.hpp"}],"sha":"06f418c698814ad2ed4178a4d485e62dee6df1e6"}]
