@@ -1,0 +1,1 @@
+[{"commit":{"message":"Same fix for RISC-V"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"832dbb06dbbdb06ef06538acd9fb6d5b26ad1499"},{"commit":{"message":"8296136: Use correct register in aarch64_enc_fast_unlock()"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"}],"sha":"0b8cfea547128fc366c08d72623050c40bb86646"}]
