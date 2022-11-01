@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,1 @@\n-        new VMStorage[] { v16, v17, v18, v19, v20, v21, v22, v23, v25,\n+        new VMStorage[] { v16, v17, v18, v19, v20, v21, v22, v23, v24, v25,\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/aarch64\/CallArranger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
