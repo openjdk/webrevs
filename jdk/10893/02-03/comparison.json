@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -588,1 +588,1 @@\n-                \/\/ 16 elements. For the 1st demension, each element in it is\n+                \/\/ 16 elements. For the 1st dimension, each element in it is\n","filename":"src\/jdk.crypto.ec\/share\/classes\/sun\/security\/ec\/ECOperations.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
