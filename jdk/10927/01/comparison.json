@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -335,1 +335,1 @@\n-  enum mode { no_mode, base_plus_offset, pre, post, post_reg, pcrel,\n+  enum mode { no_mode, base_plus_offset, pre, post, post_reg,\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
