@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1242,1 +1242,1 @@\n-  \/\/ Save handler setup for later checking\n+  \/\/ Save handler setup for possible later checking\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
