@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,0 +126,1 @@\n+        options.add(\"-XX:-TieredCompilation\"); \/\/ Avoid secondary crashes (see JDK-8293166)\n","filename":"test\/jdk\/jdk\/jfr\/jvm\/TestDumpOnCrash.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
