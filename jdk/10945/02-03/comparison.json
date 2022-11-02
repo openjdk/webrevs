@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-     * The total number of bytes read into the buffer.\n+     * The total number of bytes read into the input buffer.\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/InflaterInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
