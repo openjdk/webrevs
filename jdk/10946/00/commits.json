@@ -1,0 +1,1 @@
+[{"commit":{"message":"Constrain AVX to require SSE 4"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"b3d347c8a267af9aa8d82e1b6ba304deddd7a54f"}]
