@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -658,2 +658,1 @@\n-  }\n-  else {\n+  } else {\n","filename":"src\/hotspot\/share\/oops\/cpCache.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
