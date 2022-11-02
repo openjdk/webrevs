@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-    private static final int WARMUP_ITERATIONS = 1;\n+    private static final int WARMUP_ITERATIONS = 550;\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/sha\/sanity\/DigestSanityTestBase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
