@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into 8289838_soft_ref_trouble"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zHeap.cpp"}],"sha":"33406ed8100356444daf014f96d8d3534fc0df07"},{"commit":{"message":"8289838: ZGC: OOM before clearing all SoftReferences"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zHeap.cpp"}],"sha":"104bcd8dae3c8438f704fc1fa7ec40f72f8af0d9"}]
