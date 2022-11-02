@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace activate_window() with gtk_window_present - which calls activate"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.h"}],"sha":"a18443751db4d1b604bfbc165a157d755b880789"}]
