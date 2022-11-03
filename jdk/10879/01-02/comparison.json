@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,0 @@\n-    :jdk_vector_sanity \\\n@@ -45,0 +44,1 @@\n+    :jdk_vector_sanity \\\n@@ -79,1 +79,0 @@\n-   -:jdk_vector_sanity \\\n@@ -81,0 +80,1 @@\n+   -:jdk_vector_sanity \\\n","filename":"test\/jdk\/TEST.groups","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
