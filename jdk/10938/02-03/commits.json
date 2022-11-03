@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix has_no_hash into fast_no_hash_check()."},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zHeap.inline.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.inline.hpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMapTable.cpp"}],"sha":"8770d38cd94215e5ed7ba9053b9b16d9a8421d06"}]
