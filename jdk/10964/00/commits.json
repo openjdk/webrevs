@@ -1,0 +1,1 @@
+[{"commit":{"message":"6788481: CellEditorListener.editingCanceled is never called"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicTableUI.java"},{"filename":"test\/jdk\/javax\/swing\/JTable\/BugCellEditorListener.java"}],"sha":"02c8fc00eeb6e736d0aeac17884622630b2aeaaf"}]
