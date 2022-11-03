@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n- * @bug 4393148 8136999 8186263 8224632\n+ * @bug 4393148 4357905 8136999 8186263 8224632\n","filename":"test\/jdk\/java\/awt\/dnd\/RemoveDropTargetCrashTest\/RemoveDropTargetCrashTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
