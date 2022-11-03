@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -383,1 +383,1 @@\n-    ::shutdown(this->socket(), 2);\n+    ::shutdown(this->socket(), SHUT_RDWR);\n","filename":"src\/hotspot\/os\/linux\/attachListener_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
