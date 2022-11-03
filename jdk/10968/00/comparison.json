@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -146,3 +146,0 @@\n-  \/\/ Deoptimizes all frames tied to marked nmethods\n-  static void deoptimized_wrt_marked_nmethods();\n-\n","filename":"src\/hotspot\/share\/runtime\/threads.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
