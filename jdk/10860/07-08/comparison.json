@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-  ASSERT_TRUE(strstr(output, \"Method:\") != NULL) << \"must have a method\";\n+  ASSERT_TRUE(strstr(output, \"method:\") != NULL) << \"must have a method\";\n","filename":"test\/hotspot\/gtest\/oops\/test_cpCache_output.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
