@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -294,1 +294,0 @@\n-  inline bool fast_no_hash_check();\n@@ -297,0 +296,1 @@\n+  inline bool fast_no_hash_check();\n","filename":"src\/hotspot\/share\/oops\/oop.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
