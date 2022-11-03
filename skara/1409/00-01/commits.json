@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert changes to PreIntegrations and try something stupid instead"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/IntegrateCommand.java"},{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/PreIntegrations.java"}],"sha":"8ca0832396555a5d06541244d5569b6ccd8d5193"}]
