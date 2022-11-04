@@ -1,0 +1,1 @@
+[{"commit":{"message":"Back to gtk_window_set_focus_on_map FALSE to avoid the WM to tamper with window order"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp"}],"sha":"f7d938141bc08fd1f1d8f26556f1f2ca9cf634f6"}]
