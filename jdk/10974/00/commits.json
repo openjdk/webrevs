@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296347: Memory leak from ClassPathDirEntry::_dir"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoader.hpp"}],"sha":"27edcae86246cf3ecc9ddfd9c1e68d1eba454448"}]
