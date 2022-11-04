@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"3893931063c82a28fc5742c3ae717cbac5d41674"},{"commit":{"message":"Narrow UseAVX and UseSSE flags"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/globals_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"c3c434347ff00a1b751f6f6007c51f4e9a2e3569"}]
