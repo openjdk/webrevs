@@ -1,0 +1,1 @@
+[{"commit":{"message":"Implement by giving the Pull Request bots their own integration branch feature instead"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/IntegrateCommand.java"},{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/PreIntegrations.java"}],"sha":"1e79c87557e29da29fa7748c01702cc20e592971"}]
