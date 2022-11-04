@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8296287: Improve documentation for Types.directSupertypes()"},"files":[{"filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/util\/Types.java"},{"filename":"test\/langtools\/tools\/javac\/processing\/model\/util\/types\/TestDirectSupertypeObject.java"}],"sha":"e216112eeca338fb635987d175c85d5a7f40643d"}]
