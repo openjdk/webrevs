@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296270: Memory leak in ClassLoader::setup_bootstrap_search_path_impl"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"}],"sha":"655b32eaa4fcfe2e3742150fd6845303b49c250f"}]
