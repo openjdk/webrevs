@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n- * import java.lang.foreign.MemorySession.Handle;void upcall(int n, MemorySegment vaListSegment) {\n+ * void upcall(int n, MemorySegment vaListSegment) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/VaList.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
