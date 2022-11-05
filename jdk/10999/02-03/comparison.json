@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-    \/\/ initialized to null when BufferedInputStream is sub-classed\n+    \/\/ initialized to null when PushbackInputStream is sub-classed\n","filename":"src\/java.base\/share\/classes\/java\/io\/PushbackInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
