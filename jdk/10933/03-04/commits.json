@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change checking code to reuse more existing code (oops_do and metadata_do)."},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.hpp"}],"sha":"442158664d45086ab8725079c1fd2e784d7ef227"}]
