@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -135,0 +135,3 @@\n+  assert(action != PlaceholderTable::LOAD_INSTANCE || EnableWaitForParallelLoad || seen == NULL,\n+         \"Only one LOAD_INSTANCE allowed at a time\");\n+\n","filename":"src\/hotspot\/share\/classfile\/placeholders.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
