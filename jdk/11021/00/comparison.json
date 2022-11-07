@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,0 @@\n-  # FIXME: we should really only export STRIPFLAGS from here, not POST_STRIP_CMD.\n@@ -137,1 +136,0 @@\n-\n","filename":"make\/autoconf\/flags-other.m4","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
