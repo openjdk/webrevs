@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove UseSSE >= 3 precondition now that UseAVX > 0 implies UseSSE=4"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"cdf276de17c0b6fa82e7e412bb2276d5148051c0"}]
