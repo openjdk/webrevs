@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252359: HotSpot Not Identifying it is Running in a Container\n\nBackport-of: 76f0588aaf265439a589cceb924e3ea9d3fda8f1"},"files":[{"filename":"hotspot\/src\/os\/linux\/vm\/cgroupSubsystem_linux.cpp"},{"filename":"hotspot\/test\/runtime\/containers\/cgroup\/CgroupSubsystemFactory.java"}],"sha":"936609c59449e3a33f3b3fd9d338d028369017ed"}]
