@@ -1,0 +1,1 @@
+[{"commit":{"message":"Implement Object::hashcode for recursively-typed values"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/ValueObjectMethods.java"},{"filename":"test\/jdk\/valhalla\/valuetypes\/RecursiveValueClass.java"}],"sha":"bc67ceab9a2d038478b252b01ae58035e035aac0"}]
