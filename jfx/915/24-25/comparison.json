@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -578,1 +578,1 @@\n-        gtk_widget_show_now(gtk_widget);\n+        gtk_widget_show_all(gtk_widget);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
