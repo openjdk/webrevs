@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,0 +37,1 @@\n+#include \"compiler\/compileTask.hpp\"\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
