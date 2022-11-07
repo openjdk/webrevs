@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,1 +200,0 @@\n-         * Locks the System ClassLoader to prevent concurrent changes.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/ClassLoaders.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
