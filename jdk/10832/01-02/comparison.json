@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -135,1 +135,1 @@\n-  assert(action != PlaceholderTable::LOAD_INSTANCE || EnableWaitForParallelLoad || seen == NULL,\n+  assert(action != PlaceholderTable::LOAD_INSTANCE || !EnableWaitForParallelLoad || seen == NULL,\n","filename":"src\/hotspot\/share\/classfile\/placeholders.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
