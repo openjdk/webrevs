@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -479,1 +479,1 @@\n-  \/\/ We allow an exception for the own Method, but require it's class to be permanent.\n+  \/\/ We allow an exception for the own Method, but require its class to be permanent.\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
