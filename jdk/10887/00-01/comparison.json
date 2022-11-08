@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1983,1 +1983,1 @@\n-    if (ei >= EI_min || ei >= EI_max) {\n+    if (ei >= EI_min && ei <= EI_max) {\n@@ -1996,1 +1996,1 @@\n-    if (ei >= EI_min || ei >= EI_max) {\n+    if (ei >= EI_min && ei <= EI_max) {\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
