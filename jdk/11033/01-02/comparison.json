@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -796,1 +796,1 @@\n-     * Returns an snapshot of the subgroups as an array, used by JVMTI.\n+     * Returns a snapshot of the subgroups as an array, used by JVMTI.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ThreadGroup.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
