@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296433: Encountered null CLD while loading shared lambda proxy class"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"}],"sha":"80e2f8774870b652eb1f719cd991f3ca34164ff7"}]
