@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268361: Fix the infinite loop in next_line\n\nBackport-of: 72672277e4dddf8e72f1c705cd5f57de40745635"},"files":[{"filename":"src\/jdk.management\/linux\/native\/libmanagement_ext\/UnixOperatingSystem.c"}],"sha":"9ca71d419df8501d51f9cc5db70735aa3e6e2879"}]
