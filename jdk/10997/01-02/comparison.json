@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-            int sse = WHITE_BOX.getIntxVMFlag(\"UseSSE\").intValue();\n+            int sse = WHITE_BOX.getIntVMFlag(\"UseSSE\").intValue();\n","filename":"test\/hotspot\/jtreg\/compiler\/floatingpoint\/NaNTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
