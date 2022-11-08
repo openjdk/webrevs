@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,4 @@\n+#ifndef IPV6_DONTFRAG\n+#define IPV6_DONTFRAG           62\n+#endif\n+\n","filename":"src\/jdk.net\/macosx\/native\/libextnet\/MacOSXSocketOptions.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
