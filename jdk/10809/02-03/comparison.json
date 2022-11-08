@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-                    public  int m(int a){\n+                    public int m(int a) {\n","filename":"test\/langtools\/tools\/javac\/lambda\/methodReference\/8059632\/MethodRefQualifyingTypeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
