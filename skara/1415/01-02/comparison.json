@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -21,1 +21,1 @@\n-            conf = text;\n+            conf = List.copyOf(text);\n@@ -33,1 +33,1 @@\n-            conf = text;\n+            conf = List.copyOf(text);\n","filename":"jcheck\/src\/test\/java\/org\/openjdk\/skara\/jcheck\/JCheckConfCheckTests.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
