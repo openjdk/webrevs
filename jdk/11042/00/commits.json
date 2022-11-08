@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295214: Generational ZGC: Guard nmethods from cross modifying code"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/barrierSetNMethod.cpp"},{"filename":"src\/hotspot\/share\/runtime\/safepointMechanism.cpp"},{"filename":"src\/hotspot\/share\/runtime\/safepointMechanism.inline.hpp"}],"sha":"b1910e2660899da1bf548541455875cdc6feab75"}]
