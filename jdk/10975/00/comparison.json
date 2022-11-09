@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n- * This will preserve case. If the callback wishes to treat certain poritions\n+ * This will preserve case. If the callback wishes to treat certain portions\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSSParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
