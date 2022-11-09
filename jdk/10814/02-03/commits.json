@@ -1,0 +1,1 @@
+[{"commit":{"message":"Not looking for common supertype, not solving in a loop."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Infer.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/InferenceUnitTest.java"}],"sha":"5996914bfd04b6cb3727c92c067aa20b33678941"}]
