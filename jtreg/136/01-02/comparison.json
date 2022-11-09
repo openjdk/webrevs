@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,0 @@\n-import com.sun.javatest.regtest.agent.CustomMainWrapper;\n@@ -125,1 +124,0 @@\n-import com.sun.javatest.regtest.agent.MainWrapper;\n@@ -1622,0 +1620,1 @@\n+\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/tool\/Tool.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
