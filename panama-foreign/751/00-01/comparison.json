@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -218,1 +218,1 @@\n- * @apiNote The normal Java Ojbect access control, guarantees and constraints, for example stated in\n+ * @apiNote Usual memory model guarantees, for example stated in\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
