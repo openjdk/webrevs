@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip failing test SwingNodeDnDMemoryLeakTest until JDK-8285503 is fixed."},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/embed\/swing\/SwingNodeDnDMemoryLeakTest.java"}],"sha":"26d515e43349f9754de0a521be6710787c9d0e70"}]

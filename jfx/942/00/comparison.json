@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,1 @@\n+import org.junit.Ignore;\n@@ -74,0 +75,1 @@\n+    @Ignore(\"JDK-8296618\")\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/embed\/swing\/SwingNodeDnDMemoryLeakTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
