@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8294947: Use 64bit atomics in patch_verified_entry on x86_64"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/nativeInst_x86.cpp"}],"sha":"198a1e851592042155dac89c0c771c54aec0103e"}]
