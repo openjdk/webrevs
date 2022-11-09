@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296620: Removed total_space_rs from MetaspaceShared::map_archives()"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"},{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.hpp"}],"sha":"ede6930d07d933c3dc30f65a4f2531ed5c82e54a"}]
