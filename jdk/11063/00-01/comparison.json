@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -703,0 +703,2 @@\n+        \/\/ Exclude linux-aarch64 at the moment until the following bug is fixed:\n+        \/\/ 8296631: NSS tests failing on OL9 linux-aarch64 hosts\n","filename":"test\/jdk\/sun\/security\/pkcs11\/PKCS11Test.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
