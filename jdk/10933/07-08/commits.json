@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't call IsUnloadingBehaviour for methods with permanant class loader. It may crash when the nmethod is in NonNmethod space."},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gcBehaviours.cpp"}],"sha":"705657d0a7e618595aea4dfe17e1ad5a0bdf7cc1"}]
