@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,0 +136,1 @@\n+                                 log1(\"checking if thread2 completed\");\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/VirtualMachine\/dispose\/dispose002a.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
