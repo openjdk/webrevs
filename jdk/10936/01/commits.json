@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'upstream\/master' into JDK-8296170"},"files":[],"sha":"bc4fd918e3f4c9c47b9a0ab62fc0fa4a6b61323a"},{"commit":{"message":"8296170: Refactor stack-locking path in C2_MacroAssembler::fast_unlock()"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"}],"sha":"40817c8f5ce3837d1bc1bd8ca3a2a8e14aa7e6a3"}]
