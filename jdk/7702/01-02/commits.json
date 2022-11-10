@@ -1,0 +1,1 @@
+[{"commit":{"message":"replace hi\/lo word shuffles and left-right shift\/or operations for vpshufd on byte-aligned rotations"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_chacha.cpp"}],"sha":"8d4b7ba7951bf25ab97506be95bb2099d414ebdb"}]
