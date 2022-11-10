@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -280,1 +280,0 @@\n-            saveGlobalRef(env, localAgentProperties, &(gdata->agent_properties));\n@@ -286,0 +285,1 @@\n+            saveGlobalRef(env, localAgentProperties, &(gdata->agent_properties));\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
