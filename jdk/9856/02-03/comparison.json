@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,1 +140,1 @@\n-        try (BufferedReader in = new BufferedReader(new InputStreamReader(p.getInputStream()))) {\n+        try (BufferedReader in = p.inputReader()) {\n","filename":"test\/jdk\/java\/io\/File\/GetXSpace.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
