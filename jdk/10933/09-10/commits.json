@@ -1,0 +1,1 @@
+[{"commit":{"message":"We can't retrieve class loader oop during class unloading."},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/gcBehaviours.cpp"},{"filename":"src\/hotspot\/share\/oops\/method.hpp"}],"sha":"90617b36bc636388789923bcbf17168714ed8acd"}]
