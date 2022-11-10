@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -539,1 +539,1 @@\n-        if (cs == null) {\n+        if (cs == null && (cs = signerToCodeSource.get(signers)) == null) {\n","filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarVerifier.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
