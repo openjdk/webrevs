@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-      \/\/ After updating the poll value, we allow entering new nmethods\n+      \/\/ While updating the poll value, we allow entering new nmethods\n","filename":"src\/hotspot\/share\/runtime\/safepointMechanism.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
