@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move CLD claim clear to the end of gc"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp"},{"filename":"src\/hotspot\/share\/gc\/serial\/genMarkSweep.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/genCollectedHeap.cpp"}],"sha":"fa2b8ad043f68dc87c98011030e5a7b12db56416"}]
