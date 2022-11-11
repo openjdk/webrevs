@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix parsing error in presence of nested patterns"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/ForEachPatterns.java"}],"sha":"6e57e5502ed66574705ee44c770c82d2d9b024f6"}]
