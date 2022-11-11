@@ -1,0 +1,1 @@
+[{"commit":{"message":"Missing & 0xff in StringLatin1::hashCode"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/StringLatin1.java"},{"filename":"test\/jdk\/java\/lang\/String\/HashCode.java"}],"sha":"f08a656ccb45537030e78f0f6236aa9a01bca421"}]
