@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1440,1 +1440,1 @@\n-            if (retVal.getWidth(null) != w) {\n+            if ((retVal != null) && (retVal.getWidth(null) != w)) {\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/shell\/Win32ShellFolder2.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
