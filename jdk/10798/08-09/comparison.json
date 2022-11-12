@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2987,2 +2987,0 @@\n-        boolean sequentialIdentifiers = false;\n-        boolean lambdaFormalsOrRecord = false;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
