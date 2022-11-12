@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix parsing error in presence of lambdas"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/ForEachPatterns.java"}],"sha":"68955d567c2d3092e1b024c9c0e592b31758809f"}]
