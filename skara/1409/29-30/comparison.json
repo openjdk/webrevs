@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -403,1 +403,1 @@\n-\trequest.put(\"pulls\/\" + this.id() + \"\/merge\")\n+        request.put(\"pulls\/\" + this.id() + \"\/merge\")\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/github\/GitHubPullRequest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
