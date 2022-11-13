@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,0 @@\n-import org.openjdk.skara.forge.PullRequest.MergeMethod;\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/gitlab\/GitLabMergeRequest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
