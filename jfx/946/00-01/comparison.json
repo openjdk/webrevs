@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-    final static int TOTAL_SWINGNODE = 5;\n+    final static int TOTAL_SWINGNODE = 10;\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/embed\/swing\/SwingNodeDnDMemoryLeakTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
