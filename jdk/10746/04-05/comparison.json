@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -183,1 +183,1 @@\n-            if (f instanceof Failure.ExceptionTypeNotFound  e) {\n+            if (f instanceof Failure.ExceptionTypeNotFound e) {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/taglets\/ThrowsTaglet.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
