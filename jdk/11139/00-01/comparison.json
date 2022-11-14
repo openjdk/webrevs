@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,2 +30,1 @@\n- * @run compile --release ${jdk.version} --enable-preview JdbLastErrorTest.java\n- * @run main\/othervm --enable-preview JdbLastErrorTest\n+ * @enablePreview\n","filename":"test\/jdk\/com\/sun\/jdi\/JdbLastErrorTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
