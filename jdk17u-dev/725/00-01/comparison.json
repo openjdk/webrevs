@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -532,1 +532,1 @@\n-     (thread = ((JavaThread*)raw_thread))->is_exiting()) {\n+      (thread = ((JavaThread*)raw_thread))->is_exiting()) {\n","filename":"src\/hotspot\/share\/prims\/forte.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
