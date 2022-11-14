@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -376,1 +376,1 @@\n-#define PROPERFMTARGS(S)      byte_size_in_proper_unit(S), proper_unit_for_byte_size(S)\n+#define PROPERFMTARGS(s)      byte_size_in_proper_unit(s), proper_unit_for_byte_size(s)\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
