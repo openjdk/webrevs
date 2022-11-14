@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -185,1 +185,0 @@\n-        frame.setLocationRelativeTo(null);\n@@ -187,0 +186,1 @@\n+        frame.setLocationRelativeTo(null);\n","filename":"test\/jdk\/javax\/swing\/JTree\/6263446\/bug6263446.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
