@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove comment, fix spacing"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"b3cb4f29e226aa71d9f48621baead6ff17e863a3"},{"commit":{"message":"test on all platforms except Windows"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp"}],"sha":"194c0675103047ddd648757a68ac2d38ad4cd4f5"}]
