@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,1 +130,1 @@\n-                Thread.sleep(250);\n+                Thread.sleep(500);\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/embed\/swing\/SwingNodeDnDMemoryLeakTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
