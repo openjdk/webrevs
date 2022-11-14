@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,2 +178,0 @@\n-     * I think it will need to say that input stream for the current ZIP entry has been read to end of stream, or the\n-     * ZIP entry has been closed with closeEntry\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipInputStream.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
