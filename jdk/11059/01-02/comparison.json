@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -564,1 +564,1 @@\n-#endif \/\/ AMD64\n+#endif \/\/ _LP64\n","filename":"src\/hotspot\/cpu\/x86\/nativeInst_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

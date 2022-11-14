@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294947: Use 64bit atomics in patch_verified_entry on x86_64"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/nativeInst_x86.cpp"}],"sha":"82c3dbaf4161a803d628d05d8f56acfeac5c4447"}]
