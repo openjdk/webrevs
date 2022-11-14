@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,1 @@\n-    ASSERT_TRUE(in.read_bool() == (bool)i);\n+    ASSERT_TRUE(in.read_bool() == (jboolean)(bool)i);\n","filename":"test\/hotspot\/gtest\/code\/test_debugInfoCompression.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
