@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3450,1 +3450,1 @@\n-    __ incrementl(ExternalAddress(Runtime1::arraycopy_count_address(basic_type)));\n+    __ incrementl(ExternalAddress(Runtime1::arraycopy_count_address(basic_type)), rscratch1);\n","filename":"src\/hotspot\/cpu\/x86\/c1_LIRAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
