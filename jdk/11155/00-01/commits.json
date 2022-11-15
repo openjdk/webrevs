@@ -1,0 +1,1 @@
+[{"commit":{"message":"Turn off the default true UseRVA20U64 when hardware does not support C"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"55e3dbe73dc1a7ae1e072f99d98cf2eb60c6796e"}]

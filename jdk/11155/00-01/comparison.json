@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,0 +160,5 @@\n+\n+    if (FLAG_IS_DEFAULT(UseRVA20U64)) {\n+      warning(\"UseRVA20U64 is not supported on this CPU\");\n+      FLAG_SET_DEFAULT(UseRVA20U64, false);\n+    }\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
