@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8296995-ostream-handle-sprintf-errors"},"files":[{"filename":"src\/hotspot\/share\/utilities\/ostream.cpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_ostream.cpp"}],"sha":"6a26cb54d8ccf7377cb82c535325003581247c0e"}]
