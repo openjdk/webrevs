@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename GrowableArray::on_stack"},"files":[{"filename":"src\/hotspot\/share\/utilities\/growableArray.cpp"},{"filename":"src\/hotspot\/share\/utilities\/growableArray.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_growableArray.cpp"}],"sha":"c16e03360dd5026ee95ed4d57dfa3c9e073faf96"}]
