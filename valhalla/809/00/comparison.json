@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1,4 +0,0 @@\n-abstract class AbstractClassWithFieldWithNoIdentityModifier {\n-    int i;\n-}\n-\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/testClassModifiers\/AbstractClassWithfieldWithNoIdentityModifier.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"deleted"}]}
