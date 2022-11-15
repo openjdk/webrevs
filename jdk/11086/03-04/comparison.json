@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -726,1 +726,3 @@\n-  explicit GrowableArray(int initial_capacity = 2) :\n+  GrowableArray() : GrowableArray(2 \/* initial_capacity *\/) {}\n+\n+  explicit GrowableArray(int initial_capacity) :\n","filename":"src\/hotspot\/share\/utilities\/growableArray.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
