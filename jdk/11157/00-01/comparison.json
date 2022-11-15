@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n- * @run main\/othervm\/timeout=300 MetaCallback\n+ * @run main\/othervm\/timeout=120 MetaCallback\n","filename":"test\/jdk\/javax\/sound\/midi\/Sequencer\/MetaCallback.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
