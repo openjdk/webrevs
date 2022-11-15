@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -295,1 +295,0 @@\n-            Reference.reachabilityFence(bindings);\n@@ -297,1 +296,0 @@\n-\n","filename":"src\/java.base\/share\/classes\/java\/lang\/VirtualThread.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
