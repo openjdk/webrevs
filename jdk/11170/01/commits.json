@@ -1,0 +1,1 @@
+[{"commit":{"message":"PrintC1Statistics test"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c1\/TestPrintC1Statistics.java"}],"sha":"da9b98c54c1bc3350e3b0cd28bb0122d234f7876"},{"commit":{"message":"8296969: -XX:+PrintC1Statistics is broken"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_LIRAssembler_x86.cpp"}],"sha":"7a2c075b210735354ea1d6c7c0be9a418b60b9b7"}]
