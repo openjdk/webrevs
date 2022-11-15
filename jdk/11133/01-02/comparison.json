@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,0 +47,1 @@\n+    -I$(TOPDIR)\/src\/hotspot\/share\/include \\\n","filename":"make\/hotspot\/lib\/JvmFlags.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
