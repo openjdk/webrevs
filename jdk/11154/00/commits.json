@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292317: Missing null check for Iterator.forEachRemaining implementations"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Collections.java"},{"filename":"test\/jdk\/java\/util\/Collections\/DelegatingIteratorForEachRemaining.java"}],"sha":"b58984eca7a067fd0b849a04eaf2af758d302262"}]
