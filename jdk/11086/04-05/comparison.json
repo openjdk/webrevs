@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -736,1 +736,1 @@\n-  explicit GrowableArray(int initial_capacity, MEMFLAGS memflags) :\n+  GrowableArray(int initial_capacity, MEMFLAGS memflags) :\n","filename":"src\/hotspot\/share\/utilities\/growableArray.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
