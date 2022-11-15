@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -697,1 +697,1 @@\n-                    todo = todo.prepend(((TypeVar) current).getUpperBound());\n+                    todo = todo.prepend(types.skipTypeVars(current, false));\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Infer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
