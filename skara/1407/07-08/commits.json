@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add some logs when catching MissingJCheckConfException and InvalidJCheckConfException"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckWorkItem.java"},{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CommitCommandWorkItem.java"}],"sha":"80e170d35749f864c3c394c9cca00ea6ff416154"}]
