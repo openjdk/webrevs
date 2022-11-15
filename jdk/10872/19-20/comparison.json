@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-     * allocated off-heap memory region backing the segment, and the address is \n+     * allocated off-heap memory region backing the segment, and the address is\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/Arena.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
