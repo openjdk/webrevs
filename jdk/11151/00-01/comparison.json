@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -266,1 +266,1 @@\n-        private X500Principal getIssuerX500Principal() {\n+        public X500Principal getIssuerX500Principal() {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/x509\/X509CRLImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
