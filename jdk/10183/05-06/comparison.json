@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,1 +114,1 @@\n-    static final int DEFAULT_KEEP_ALIVE_TIMEOUT = 600;\n+    static final int DEFAULT_KEEP_ALIVE_TIMEOUT = 1200;\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpClientImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
