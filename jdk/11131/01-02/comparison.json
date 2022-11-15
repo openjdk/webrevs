@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,0 +114,1 @@\n+                case \"SHA512withDSA\" -> 3072;\n@@ -152,1 +153,1 @@\n-        @Param({\"SHA256\", \"SHA3846\", \"SHA512\"})\n+        @Param({\"SHA256\", \"SHA384\", \"SHA512\"})\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/security\/Signatures.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
