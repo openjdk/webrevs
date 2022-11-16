@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make TestHostedRepository#fileContents behave more like remote repos"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/LimitedCensusInstance.java"},{"filename":"test\/src\/main\/java\/org\/openjdk\/skara\/test\/TestHostedRepository.java"}],"sha":"9bd5e7f2899a13b7a198fe2bfc5e50503247897d"}]
