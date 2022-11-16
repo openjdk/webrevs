@@ -1,0 +1,1 @@
+[{"commit":{"message":"7977: Maximum Young Gen Size is displaying the min in GC config Page\n\nChange min to max attribute"},"files":[{"filename":"core\/org.openjdk.jmc.flightrecorder\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/jdk\/JdkAggregators.java"}],"sha":"6450acdce68a55884b168a329cb8ccad6e69ef42"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,1 +180,1 @@\n-\t\t\tJdkAttributes.YOUNG_GENERATION_MIN_SIZE);\n+\t\t\tJdkAttributes.YOUNG_GENERATION_MAX_SIZE);\n","filename":"core\/org.openjdk.jmc.flightrecorder\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/jdk\/JdkAggregators.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
