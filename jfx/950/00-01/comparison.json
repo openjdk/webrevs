@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -337,2 +337,1 @@\n-        \/\/ why isn't runAndWait() exposed as a public API?\n-        PlatformImpl.runAndWait(() -> {\n+        runAndWait(() -> {\n","filename":"tests\/system\/src\/test\/java\/test\/util\/Util.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
