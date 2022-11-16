@@ -1,0 +1,1 @@
+[{"commit":{"message":"8222210: JFXPanel popups open at wrong coordinates when using multiple hidpi monitors\n\nReviewed-by: kcr, angorya"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/module-info.java"},{"filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/JFXPanel.java"}],"sha":"a5ba27310c7ff961cb9b028e93aa54de77b3eba9"}]
