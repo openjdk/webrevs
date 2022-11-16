@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1693,1 +1693,1 @@\n-  __ load_const_optimized(tmp2, 0x1234);\n+  __ load_const_optimized(tmp2, ContinuationEntry::cookie_value());\n","filename":"src\/hotspot\/cpu\/ppc\/sharedRuntime_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
