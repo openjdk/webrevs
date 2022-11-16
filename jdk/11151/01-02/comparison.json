@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1324,1 +1324,1 @@\n-        if (subjectAlternativeNames != null)  {\n+        if (subjectAlternativeNames != null) {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/x509\/X509CertImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
