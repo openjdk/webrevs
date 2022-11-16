@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,0 +63,4 @@\n+        if (!output.getOutput().contains(\"Client\")) {\n+            System.out.println(\"Client VM not available. Skipping...\");\n+            return;\n+        }\n","filename":"hotspot\/test\/runtime\/SharedArchiveFile\/DefaultUseWithClient.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
