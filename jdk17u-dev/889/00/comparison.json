@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,0 +48,4 @@\n+  virtual bool skip_thread_oop_barriers() const {\n+    \/\/ None of the safepoint cleanup tasks read oops in the Java threads.\n+    return true;\n+  }\n","filename":"src\/hotspot\/share\/runtime\/vmOperations.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
