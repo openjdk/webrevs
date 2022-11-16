@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-final class PCSCException extends Exception {\n+public final class PCSCException extends Exception {\n","filename":"src\/java.smartcardio\/share\/classes\/sun\/security\/smartcardio\/PCSCException.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
