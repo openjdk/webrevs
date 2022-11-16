@@ -1,0 +1,1 @@
+[{"commit":{"message":"minor issue if users specify command line -XX:+UseRVA20U64 and RVC is not supported"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"79f856ca7c3a4f95e7bcfc8f8cbf86a4f068abb7"}]
