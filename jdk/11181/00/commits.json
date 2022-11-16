@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296912: C2: CreateExNode::Identity fails with assert(i < _max) failed: oob: i=1, _max=1"},"files":[{"filename":"src\/hotspot\/share\/opto\/cfgnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestDeadDataLoop.java"}],"sha":"a8cfe221147152ea47ae72e6259036874ed89f65"}]
