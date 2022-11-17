@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-    private static  boolean globalSelection = false;\n+    private static boolean globalSelection = false;\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/DiagramViewModel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
