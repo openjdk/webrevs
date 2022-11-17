@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-DEFAULT_BUNDLE_ID_BASE=\"net.java.openjdk\"\n+DEFAULT_MACOSX_BUNDLE_ID_BASE=\"net.java.openjdk\"\n","filename":"make\/conf\/branding.conf","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
