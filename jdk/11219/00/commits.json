@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix the log message to display young gen name\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/genCollectedHeap.cpp"}],"sha":"843a5d6a4dd11a13f09e372a54dce64b17b7e596"}]
