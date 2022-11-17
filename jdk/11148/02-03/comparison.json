@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,0 @@\n-import jtreg.SkippedException;\n@@ -145,1 +144,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/TestAutoCreateSharedArchiveUpgrade.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
