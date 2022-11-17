@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,5 +34,0 @@\n-####\n-## NSK JVMTI tests failing with wrapper\n-\n-vmTestbase\/nsk\/jvmti\/GetAllThreads\/allthr001\/TestDescription.java 8284027 generic-all\n-\n","filename":"test\/hotspot\/jtreg\/ProblemList-svc-vthread.txt","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
