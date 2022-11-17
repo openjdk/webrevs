@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-    \/\/ Crash address: see VMError::_segfault_address - carefully choosen to give us a SEGV_MAPERR\n+    \/\/ Crash address: see VMError::_segfault_address\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/TestSigInfoInHsErrFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
