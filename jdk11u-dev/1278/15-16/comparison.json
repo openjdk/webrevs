@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,2 +79,2 @@\n-         $(subst $(FIXPATH),,$(call FixPath, $4)))))\" \\\n-      \"output\": \"$(strip $5)\" \\\n+        $(subst $(FIXPATH),,$(call FixPath, $4)))))\" \\\n+      \"output\": \"$(strip $(call FixPath, $5))\" \\\n","filename":"make\/common\/NativeCompilation.gmk","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
