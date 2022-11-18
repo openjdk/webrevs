@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -478,1 +478,1 @@\n-                List<String> tokens = tokenize(args.get(1),3);\n+                List<String> tokens = tokenize(args.get(1), 3);\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/BaseConfiguration.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
