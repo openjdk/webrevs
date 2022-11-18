@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -394,1 +394,1 @@\n-    description=\"Total processing time of processed references during GC\">\n+    description=\"Total time for processing java.lang.ref.References during GC\">\n","filename":"src\/hotspot\/share\/jfr\/metadata\/metadata.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
