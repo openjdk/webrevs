@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-        for (int i = 0; i < 10; i++ ) {\n+        for (int i = 0; i < 10; i++) {\n","filename":"test\/hotspot\/jtreg\/compiler\/loopstripmining\/TestUseFromInnerInOuterUnusedBySfpt.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
