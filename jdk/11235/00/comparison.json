@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-        @JEP(number=425, title=\"Virtual Threads\")\n+        @JEP(number=436, title=\"Virtual Threads\", status=\"Second Preview\")\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/javac\/PreviewFeature.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
