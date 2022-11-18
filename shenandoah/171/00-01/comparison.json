@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -461,0 +461,2 @@\n+  size_t young_promoted_reserve_used = (size_t) (ShenandoahEvacWaste * young_promoted);\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
