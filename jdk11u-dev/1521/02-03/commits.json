@@ -1,0 +1,1 @@
+[{"commit":{"message":"8223291: Whitespace is added to CDATA tags when using OutputKeys.INDENT to format XML\n\nReviewed-by: dfuchs, lancea"},"files":[{"filename":"src\/java.xml\/share\/classes\/com\/sun\/org\/apache\/xml\/internal\/serializer\/ToHTMLStream.java"}],"sha":"a5bcb19e3db7356b92f971b11c8c7c7b6441dcf6"}]
