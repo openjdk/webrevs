@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-        $(subst $(FIXPATH),,$(call FixPath, $4)))))\" \\\n+        $(subst $(FIXPATH),,$(call FixPath, $4)))))\"$(COMMA) \\\n","filename":"make\/common\/NativeCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
