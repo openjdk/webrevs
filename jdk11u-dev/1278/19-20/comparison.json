@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-SJAVAC_SERVER_JAVA_CMD := $(FIXPATH) $(JAVA_CMD)\n+SJAVAC_SERVER_JAVA_CMD := $(JAVA_CMD)\n","filename":"make\/autoconf\/bootcycle-spec.gmk.in","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
