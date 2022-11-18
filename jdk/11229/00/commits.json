@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8296743: Tighten Class.getModifiers spec for array classes"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java"},{"filename":"test\/jdk\/java\/lang\/Class\/getModifiers\/TestPrimitiveAndArrayModifiers.java"}],"sha":"3321b08686ca19c94e8d245d5368425fef9c45a4"}]
