@@ -1,0 +1,1 @@
+[{"commit":{"message":"Making variables that accessed across different threads volatile\nThe workaround for duplicate messages now changed to collect more data instead of making test to pass"},"files":[{"filename":"test\/jdk\/javax\/sound\/midi\/Sequencer\/MetaCallback.java"}],"sha":"5647db2e6bcba9f26d98af1a7814b0cfb96adcc4"}]
