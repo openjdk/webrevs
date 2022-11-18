@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -893,1 +893,1 @@\n-  int fd = os::open(\"test\", O_RDWR | O_CREAT | O_TRUNC, 0666); \/\/ open will use O_CLOEXEC\n+  int fd = os::open(\"test_file.txt\", O_RDWR | O_CREAT | O_TRUNC, 0666); \/\/ open will use O_CLOEXEC\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
