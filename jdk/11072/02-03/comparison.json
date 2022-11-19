@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,2 @@\n+import java.security.NoSuchAlgorithmException;\n+import java.security.SignatureException;\n","filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarVerifier.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
