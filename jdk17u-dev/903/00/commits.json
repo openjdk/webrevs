@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296632: Write a test to verify the content change of TextArea sends TextEvent\n\nReviewed-by: mvs, prr, honkar, aivanov, serb\n(cherry picked from commit 59a308b9d0546471566b11f62ef9bdc169ca0b95)"},"files":[{"filename":"test\/jdk\/java\/awt\/event\/ComponentEvent\/TextAreaTextEventTest.java"}],"sha":"fd6ab62eddc5932fcb28fecc67062cb109f18c24"}]
