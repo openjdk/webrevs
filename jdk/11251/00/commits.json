@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294583: JShell: NPE in switch with non existing record pattern"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/api\/JavacTaskImpl.java"},{"filename":"test\/langtools\/jdk\/jshell\/Test8294583.java"}],"sha":"df5e143e8bf33cfaf75acea9e03c72926dac0f90"}]
