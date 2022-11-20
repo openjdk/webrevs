@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-        this(Collections.enumeration(Arrays.asList(s1, s2));\n+        this(Collections.enumeration(Arrays.asList(s1, s2)));\n","filename":"src\/java.base\/share\/classes\/java\/io\/SequenceInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
