@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,2 +47,2 @@\n-    Enumeration<? extends InputStream> e;\n-    InputStream in;\n+    private final Enumeration<? extends InputStream> e;\n+    private InputStream in;\n","filename":"src\/java.base\/share\/classes\/java\/io\/SequenceInputStream.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
