@@ -1,0 +1,1 @@
+[{"commit":{"message":"8285794: AsyncGetCallTrace might acquire a lock via JavaThread::thread_from_jni_environment\n\nBackports this fix"},"files":[{"filename":"src\/hotspot\/share\/prims\/forte.cpp"}],"sha":"7554e1cdf5598f0eafa0f8c95d3f3ef2fccb464d"}]
