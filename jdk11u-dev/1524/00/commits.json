@@ -1,0 +1,1 @@
+[{"commit":{"message":" 8287425: Remove unnecessary register push for MacroAssembler::check_klass_subtype_slow_path"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"93f9bee94e0c1bed18efd3ff49e9f49d8f4c610d"}]
