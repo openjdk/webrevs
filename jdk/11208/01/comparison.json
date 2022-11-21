@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,3 @@\n+# Properties in this file are typically parsed only once. If any of the\n+# properties are modified, applications should be restarted to ensure the\n+# changes are properly reflected.\n","filename":"src\/java.base\/share\/conf\/security\/java.security","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
