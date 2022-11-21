@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-interface Digits {\n+sealed interface Digits permits Digits.DecimalDigits, Digits.HexDigits, Digits.OctalDigits {\n","filename":"src\/java.base\/share\/classes\/java\/util\/Digits.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
