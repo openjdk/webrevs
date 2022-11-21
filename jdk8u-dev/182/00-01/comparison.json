@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n- * @requires vm.bits == 64\n@@ -42,0 +41,4 @@\n+    if (!Platform.is64bit()) {\n+        System.out.println(\"Test requires 64-bit JVM. Skipping...\");\n+        return;\n+    }\n","filename":"hotspot\/test\/runtime\/NMT\/HugeArenaTracking.java","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
