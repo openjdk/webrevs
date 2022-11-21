@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -345,1 +345,1 @@\n-        $$(SPACE),%20,$$(subst $$(COMMA),%2C,$$(strip $$($1_SERVER_JVM) $$($1_SJAVAC))))\n+        $$(SPACE),%20,$$(subst $$(COMMA),%2C,$$(strip $$(call FixPath, $$($1_SERVER_JVM) $$($1_SJAVAC)))))\n","filename":"make\/common\/JavaCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
