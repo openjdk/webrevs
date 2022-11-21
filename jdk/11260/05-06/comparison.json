@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-     * var handler = acquireSessionOrNull(buffer, async);\n+     * var handler = acquireSessionOrNoOp(buffer);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/JavaNioAccess.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
