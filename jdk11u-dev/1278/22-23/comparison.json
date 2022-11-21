@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-  $1_SJAVAC_PORTFILE:=$$($1_SERVER_DIR)\/server.port\n+  $1_SJAVAC_PORTFILE:=$$(call FixPath, $$($1_SERVER_DIR)\/server.port)\n","filename":"make\/common\/JavaCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
