@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -344,1 +344,1 @@\n-    $1_REMOTE:=--server:portfile=$$(call FixPath, $$($1_SJAVAC_PORTFILE)),id=$1,sjavac=$$(subst \\\n+    $1_REMOTE:=--server:portfile=$$(call FixPath,$$($1_SJAVAC_PORTFILE)),id=$1,sjavac=$$(subst \\\n","filename":"make\/common\/JavaCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
