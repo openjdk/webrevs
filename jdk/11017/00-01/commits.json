@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add reentrant reentry limits"},"files":[{"filename":"src\/hotspot\/share\/utilities\/vmError.cpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/TestReentrantErrorHandler.java"}],"sha":"1cba05831cae556afa9bdfbff87b2479b04a3287"}]
