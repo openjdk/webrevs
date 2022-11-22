@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,0 +158,5 @@\n+\n+        @Override\n+        public long[] getLimbs() {\n+            return null;\n+        }\n","filename":"test\/jdk\/sun\/security\/util\/math\/BigIntegerModuloP.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
