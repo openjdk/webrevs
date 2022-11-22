@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3,2 +3,2 @@\n- Overall document style\n- *\/\n+Overall document style\n+*\/\n@@ -531,0 +531,1 @@\n+\t\n@@ -674,0 +675,1 @@\n+\n","filename":"langtools\/src\/share\/classes\/com\/sun\/tools\/doclets\/internal\/toolkit\/resources\/stylesheet.css","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
