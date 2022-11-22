@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,0 +239,1 @@\n+  assert(DumpSharedSpaces, \"dump-time only\");\n","filename":"src\/hotspot\/share\/memory\/universe.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
