@@ -1,0 +1,1 @@
+[{"commit":{"message":"8284281: [Accessibility] [Win] [Narrator] Exceptions with TextArea & TextField when deleted last char\n\nCo-authored-by: Kevin Rushforth <kcr@openjdk.org>\nReviewed-by: kcr, aghaisas"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/win\/WinTextRangeProvider.java"}],"sha":"b9b9761431931077153e15a13b6f0066ac4191dd"}]
