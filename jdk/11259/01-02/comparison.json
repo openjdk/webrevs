@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -814,4 +814,0 @@\n-The number of JNI local references existing when a JNI function\n-terminates exceeds the number guaranteed to be available.\n-See the \\f[V]EnsureLocalcapacity\\f[R] function.\n-.IP \\[bu] 2\n","filename":"src\/java.base\/share\/man\/java.1","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
