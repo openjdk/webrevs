@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3211,0 +3211,1 @@\n+  match(iRegP_R15);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
