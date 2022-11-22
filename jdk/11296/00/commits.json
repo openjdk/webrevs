@@ -1,0 +1,1 @@
+[{"commit":{"message":"8256302: releasing oopStorage when deflating allows for faster deleting"},"files":[{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp"},{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.hpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"7ff580ab55586dff0544e3555d0d63f11dafc675"}]
