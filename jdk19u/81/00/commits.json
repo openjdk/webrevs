@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294538: missing is_unloading() check in SharedRuntime::fixup_callers_callsite()\n\nReviewed-by: kvn, thartmann, eosterlund"},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"},{"filename":"src\/hotspot\/share\/oops\/method.hpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"3f29850e6ca639400236be531bd2e160f63fa31e"}]
