@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -203,3 +203,1 @@\n-  oop threadObj = vthread();\n-  assert(threadObj != NULL, \"must be\");\n-  java_lang_Thread::clear_scopedValueBindings(threadObj);\n+  java_lang_Thread::clear_scopedValueBindings(vthread());\n","filename":"src\/hotspot\/share\/runtime\/javaThread.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
