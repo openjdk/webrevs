@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293996: C2: fix and simplify IdealLoopTree::do_remove_empty_loop\n\nReviewed-by: roland, thartmann, chagedorn"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestRemoveEmptyLoop.java"}],"sha":"25164c5140526746ef86667db4423ef936f4e599"}]
