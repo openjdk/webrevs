@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -236,7 +236,0 @@\n-class CompactibleSpaceClosure : public StackObj {\n- public:\n-  \/\/ Called for each compactible space\n-  virtual void do_space(CompactibleSpace* s) = 0;\n-};\n-\n-\n","filename":"src\/hotspot\/share\/memory\/iterator.hpp","additions":0,"deletions":7,"binary":false,"changes":7,"status":"modified"}]}
