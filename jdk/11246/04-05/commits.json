@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed thread->vthread() != NULL from  JvmtiVirtualThreadEventMark constructor"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"1a8f98105625b14b586596d64c46fc94520567ba"}]
