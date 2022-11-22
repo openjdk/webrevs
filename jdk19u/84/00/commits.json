@@ -1,0 +1,1 @@
+[{"commit":{"message":"8290964: C2 compilation fails with assert \"non-reduction loop contains reduction nodes\"\n\nReviewed-by: thartmann, chagedorn"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/superword.cpp"}],"sha":"a402f5d434a863a3abdfb7e5591136e420c803e8"}]
