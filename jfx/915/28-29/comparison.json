@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -917,0 +917,2 @@\n+                \/\/ Window didn't actually move, but view X, Y might change\n+                notify_window_move();\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
