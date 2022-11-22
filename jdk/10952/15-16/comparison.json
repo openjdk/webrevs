@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -459,0 +459,1 @@\n+    pop_frames_failed_reallocs(current, array);\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
