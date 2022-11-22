@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -201,1 +201,0 @@\n-    _jthread = to_jobject(thread->vthread());\n@@ -203,0 +202,1 @@\n+    _jthread = to_jobject(thread->vthread());\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
