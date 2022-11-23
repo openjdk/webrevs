@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,0 +119,3 @@\n+            if (expected != counter) {\n+                throw new Exception(\"Not all events found\");\n+            }\n","filename":"test\/jdk\/jdk\/jfr\/jmx\/streaming\/TestDumpOrder.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
