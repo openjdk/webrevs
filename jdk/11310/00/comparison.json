@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -415,0 +415,6 @@\n+\n+#if defined RISCV64\n+    if (FLAG_IS_DEFAULT(InlineSmallCode)) {\n+      FLAG_SET_DEFAULT(InlineSmallCode, 2000);\n+    }\n+#endif\n","filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
