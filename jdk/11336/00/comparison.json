@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,1 +141,1 @@\n-enum class MEMFLAGS {\n+enum class MEMFLAGS : uint8_t  {\n","filename":"src\/hotspot\/share\/memory\/allocation.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
