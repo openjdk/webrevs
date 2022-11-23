@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -471,1 +471,1 @@\n-    st->print_cr(\"  %-3s = \" INTPTR_FORMAT, as_Register(r)->name(), reg_area[r]);\n+    st->print(\"  %-3s = \", as_Register(r)->name());\n@@ -473,1 +473,0 @@\n-    st->cr();\n","filename":"src\/hotspot\/os_cpu\/linux_arm\/os_linux_arm.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
