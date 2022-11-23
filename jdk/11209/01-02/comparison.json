@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,0 +51,1 @@\n+        opts.addSuffix(\"-XX:MetaspaceSize=500M\"); \/\/ avoid heap fragmentation by avoiding metaspace-limit induced GCs\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/LotsOfClasses.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
