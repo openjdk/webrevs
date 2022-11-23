@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -721,1 +721,1 @@\n-             if (index <= lastGetValue) reset();\n+            if (index <= lastGetValue) reset();\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/MultipleSelectionModelBase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
