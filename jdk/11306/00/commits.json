@@ -1,0 +1,1 @@
+[{"commit":{"message":"7181214: Need specify SKF translateKey(SecurityKey) method requires instance of PBEKey for PBKDF2 algorithms"},"files":[{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/PBKDF2Core.java"},{"filename":"test\/jdk\/com\/sun\/crypto\/provider\/Cipher\/PBE\/PBKDF2Translate.java"}],"sha":"9491f372b4f0e81d39616a99b709350164d3ec7a"}]
