@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297362: EOS might not be delivered by progressbuffer in some cases"},"files":[{"filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/plugins\/progressbuffer\/progressbuffer.c"},{"filename":"modules\/javafx.media\/src\/main\/native\/xcode_project\/JFXMedia.xcodeproj\/project.pbxproj"}],"sha":"a17c70c46501b3fa78ff28c7272cd0eb546291c3"}]
