@@ -1,0 +1,1 @@
+[{"commit":{"message":"G1 Remark: no need to keep alive const oops for nmethods on stack"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/barrierSet.cpp"}],"sha":"37ee165b7eb7b15aca8ea597825a9ad3bd70921e"}]
