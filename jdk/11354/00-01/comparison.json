@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @compile ImplicitStringConcatOOME.java\n+ * @requires sun.arch.data.model == \"64\"\n@@ -35,2 +35,0 @@\n- *\n- * @compile ImplicitStringConcatOOME.java\n","filename":"test\/jdk\/java\/lang\/String\/concat\/ImplicitStringConcatOOME.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
