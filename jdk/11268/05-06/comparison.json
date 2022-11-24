@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,0 +194,2 @@\n+            \/\/ We detect worker threads that may have timed out, so we don't include them in\n+            \/\/ the count to compare with the number of connections.\n","filename":"test\/jdk\/sun\/net\/www\/http\/HttpClient\/MultiThreadTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
