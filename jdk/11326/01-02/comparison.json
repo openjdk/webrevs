@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -23,0 +23,1 @@\n+\n@@ -136,1 +137,1 @@\n-    private static void typeKey(int key) throws Exception {\n+    private static void typeKey(int key){\n@@ -140,1 +141,0 @@\n-\n","filename":"test\/jdk\/java\/awt\/event\/ComponentEvent\/TextFieldTextEventTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
