@@ -1,0 +1,1 @@
+[{"commit":{"message":"Include runtime\/javaThread.inline.hpp for JavaThread::is_terminated() to\nfix compile failure\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPacer.cpp"}],"sha":"60f174fc9dbe3f18aad5dc601a1a91381f114020"}]
