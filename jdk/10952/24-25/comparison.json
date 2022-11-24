@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -212,0 +212,1 @@\n+        \n@@ -218,1 +219,1 @@\n-        protected Snapshot() {\n+        Snapshot() {\n","filename":"src\/jdk.incubator.concurrent\/share\/classes\/jdk\/incubator\/concurrent\/ScopedValue.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
