@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -548,0 +548,1 @@\n+\/\/ Assumptions:\n@@ -554,1 +555,0 @@\n-protected:\n","filename":"src\/hotspot\/share\/gc\/shared\/space.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
