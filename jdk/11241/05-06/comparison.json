@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n- * <li><p><b>{@systemProperty jdk.httpclient.keepalive.timeout}<\/b> (default: 1200)<br>\n+ * <li><p><b>{@systemProperty jdk.httpclient.keepalive.timeout}<\/b> (default: 30)<br>\n","filename":"src\/java.net.http\/share\/classes\/module-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
