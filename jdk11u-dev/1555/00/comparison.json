@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -220,1 +220,1 @@\n-      FLAG_SET_DEFAULT(UseAESCTRIntrinsics, false);\n+      FLAG_SET_DEFAULT(UseAESCTRIntrinsics, true);\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
