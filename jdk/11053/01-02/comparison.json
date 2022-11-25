@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -506,1 +506,1 @@\n-  \/\/ Flushes deferred card marks, so must precede concatenting logs.\n+  \/\/ Flushes deferred card marks, so must precede concatenating logs.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1YoungCollector.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
