@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+#include \"utilities\/debug.hpp\"\n@@ -146,0 +147,2 @@\n+\/\/ Extra insurance that MEMFLAGS truly has the same size as uint8_t.\n+STATIC_ASSERT(sizeof(MEMFLAGS) == sizeof(uint8_t));\n","filename":"src\/hotspot\/share\/memory\/allocation.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
