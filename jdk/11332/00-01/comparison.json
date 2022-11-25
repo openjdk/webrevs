@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,2 +178,0 @@\n-                } else {\n-                    pendingResponseSubscriber = null;\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Stream.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
