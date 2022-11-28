@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -179,1 +179,0 @@\n-  jcc(Assembler::zero, done);\n","filename":"src\/hotspot\/cpu\/x86\/c1_MacroAssembler_x86.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
