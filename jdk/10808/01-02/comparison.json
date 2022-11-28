@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -881,1 +881,1 @@\n-    \/\/ has portrait orientation.\n+    \/\/ has landscape orientation.\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CPrinterJob.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
