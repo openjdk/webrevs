@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix build failures, move limits to new header"},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"},{"filename":"src\/hotspot\/share\/utilities\/javaArithmetic.cpp"},{"filename":"src\/hotspot\/share\/utilities\/javaArithmetic.hpp"}],"sha":"4b359d3a06872ca0eb54b883352afc6f66343d9e"}]
