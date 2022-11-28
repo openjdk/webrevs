@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert change of private class to abstract in FXMLLoader\n\nException is now documented instead"},"files":[{"filename":"modules\/javafx.fxml\/src\/main\/java\/javafx\/fxml\/FXMLLoader.java"}],"sha":"91e01c2615ef41cc6ae88a45ba63ad45052cc4d5"}]
