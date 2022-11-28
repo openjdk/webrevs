@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,2 +178,0 @@\n-  BasicType bt_l = _gvn.type(l)->basic_type();\n-  BasicType bt_t = type->basic_type();\n","filename":"src\/hotspot\/share\/opto\/parse1.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
