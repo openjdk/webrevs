@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed OrderAccess::release, added assert and adjusted ciReplay code"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciReplay.cpp"},{"filename":"src\/hotspot\/share\/oops\/method.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"}],"sha":"7e94c2b28b04cb5477eddd5f66126d05ead70119"}]
