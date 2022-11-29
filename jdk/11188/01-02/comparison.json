@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,4 @@\n+int C2SafepointPollStub::size() const {\n+  return 20;\n+}\n+\n@@ -47,0 +51,4 @@\n+int C2EntryBarrierStub::size() const {\n+  return 24;\n+}\n+\n","filename":"src\/hotspot\/cpu\/aarch64\/c2_CodeStubs_aarch64.cpp","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
