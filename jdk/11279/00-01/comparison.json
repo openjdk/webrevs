@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,1 +132,1 @@\n-     * this object's class.\n+     * this object's class or the field is final.\n","filename":"src\/jdk.jdi\/share\/classes\/com\/sun\/jdi\/ObjectReference.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
