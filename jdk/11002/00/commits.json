@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove duplicate space in ProtocolException message"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/http\/HttpURLConnection.java"},{"filename":"test\/jdk\/sun\/net\/www\/protocol\/http\/NTLMTest.java"}],"sha":"fc2a719c4bcb378dc572e7f38a3b2511a6b4555b"}]
