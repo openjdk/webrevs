@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297311: Improve exception message thrown by java.net.HostPortrange::toLowerCase(String s)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/HostPortrange.java"},{"filename":"test\/jdk\/java\/net\/URLPermission\/InvalidCharacterTest.java"}],"sha":"82826ed4bd1668bc5a76e3cf79a5f995c965c3c2"}]
