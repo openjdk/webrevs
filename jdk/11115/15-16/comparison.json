@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,0 +103,2 @@\n+\/\/ Performs snprintf and asserts the result is non-negative (so there was not\n+\/\/ an encoding error) and that the output was not truncated.\n","filename":"src\/hotspot\/share\/adlc\/adlc.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
