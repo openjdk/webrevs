@@ -1,0 +1,1 @@
+[{"commit":{"message":"4512626: Non-editable JTextArea provides no visual indication of keyboard focus\n\nSet the text caret to be visible but not blinking on the non-editable text area."},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/DefaultCaret.java"}],"sha":"2f2863434ca8d8555c5efd2228fbe1d9032e6b11"}]
