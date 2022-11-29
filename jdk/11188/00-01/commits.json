@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't measure code size in advance, but verify it after emitting"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_CodeStubs_x86.cpp"},{"filename":"src\/hotspot\/share\/opto\/c2_CodeStubs.cpp"},{"filename":"src\/hotspot\/share\/opto\/c2_CodeStubs.hpp"},{"filename":"src\/hotspot\/share\/opto\/output.cpp"}],"sha":"ed2ab014624d45a51120c1756b1824248a9ba107"}]
