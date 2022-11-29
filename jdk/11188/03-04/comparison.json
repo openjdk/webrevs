@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,4 @@\n+int C2SafepointPollStub::size() const {\n+  return 0;\n+}\n+\n","filename":"src\/hotspot\/cpu\/ppc\/c2_CodeStubs_ppc.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
