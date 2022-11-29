@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-        frame.pack();\n+        frame.setSize(400, 400);\n@@ -73,0 +73,1 @@\n+\n","filename":"test\/jdk\/javax\/swing\/text\/html\/parser\/TestHtmlOptionalClosingTag.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
