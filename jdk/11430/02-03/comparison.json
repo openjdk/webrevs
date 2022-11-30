@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -254,1 +254,1 @@\n-    @SuppressWarnings({\"deprecation\", \"removal\"})\n+    @SuppressWarnings(\"removal\")\n","filename":"src\/java.management\/share\/classes\/javax\/management\/loading\/MLetParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
