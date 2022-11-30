@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -353,0 +353,3 @@\n+     * If the total number of bytes transferred is greater than {@linkplain\n+     * Long#MAX_VALUE}, then {@code Long.MAX_VALUE} will be returned.\n+     * <p>\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipInputStream.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
