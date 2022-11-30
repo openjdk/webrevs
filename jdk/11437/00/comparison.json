@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,0 @@\n-import java.util.HashSet;\n@@ -1638,1 +1637,1 @@\n-                    Set<Node> closure = new HashSet<>();\n+                    Set<Node> closure = new LinkedHashSet<>();\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Infer.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
