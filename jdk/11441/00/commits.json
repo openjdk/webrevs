@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297875: jar should not compress the manifest directory entry"},"files":[{"filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/Main.java"},{"filename":"test\/jdk\/tools\/jar\/ManifestDirectoryCompression.java"}],"sha":"f634b82b2b53488fbe0f81e805352896037c2915"}]
