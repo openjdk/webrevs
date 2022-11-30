@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,4 @@\n+int C2SafepointPollStub::size() const {\n+  return 20;\n+}\n+\n@@ -49,0 +53,4 @@\n+int C2EntryBarrierStub::size() const {\n+  return 8 * 4 + 4;  \/\/ 4 bytes for alignment margin\n+}\n+\n","filename":"src\/hotspot\/cpu\/riscv\/c2_CodeStubs_riscv.cpp","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
