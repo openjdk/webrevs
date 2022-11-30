@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backports JDK-8245245: WebSocket can lose the URL encoding"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/websocket\/OpeningHandshake.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/websocket\/HandshakeUrlEncodingTest.java"}],"sha":"3f2772ff9e75ea036997b836caff538f71dddb0c"}]
