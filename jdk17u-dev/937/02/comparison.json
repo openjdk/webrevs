@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-    (IS_SAFE_SIZE_MUL((m), (n)) && IS_SAFE_SIZE_MUL(sizeof(type), (n) * (m)) ? \\\n+    (IS_SAFE_SIZE_MUL((m), (n)) && IS_SAFE_SIZE_MUL(sizeof(type), (size_t)(n) * (size_t)(m)) ? \\\n","filename":"src\/java.desktop\/share\/native\/common\/awt\/utility\/sizecalc.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
