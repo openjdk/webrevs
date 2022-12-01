@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n-<<<<<<< HEAD\n@@ -30,4 +29,0 @@\n-=======\n- * @bug 8065895\n- * @summary Synchronous signals during error reporting may terminate or hang VM process\n->>>>>>> master\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/SecondaryErrorTest.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
