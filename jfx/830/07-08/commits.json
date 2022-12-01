@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adjust Node\n\n- Fixed javadoc\n- Added comment for code that avoid eager instantiation\n- Changed `isShown` to use property if it is available"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/Node.java"}],"sha":"5c22fdd04de21a0402fefd3ee3887ea9ee3b3daf"}]
