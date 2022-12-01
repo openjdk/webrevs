@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -293,1 +293,1 @@\n-                sceneListenerHelper = new ListenerHelper(MenuBarSkin.this);\n+                sceneListenerHelper = new ListenerHelper();\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/MenuBarSkin.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
