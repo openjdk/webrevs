@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -355,1 +355,1 @@\n-    const int limit = max_frames == -1 ? StackPrintLimit : max_frames;\n+    const int limit = max_frames == -1 ? StackPrintLimit : MIN2(max_frames, (int)StackPrintLimit);\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
