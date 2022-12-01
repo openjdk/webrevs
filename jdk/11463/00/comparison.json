@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,0 +130,2 @@\n+        ByteOrder currOrder = buf.order();\n+        buf.order(ByteOrder.LITTLE_ENDIAN);\n@@ -137,0 +139,1 @@\n+        buf.order(currOrder);\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/math\/intpoly\/IntegerPolynomial1305.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
