@@ -1,0 +1,1 @@
+[{"commit":{"message":"Refactoring after Kim's review, ayang noted that \"needs_one_eden_region\" has always been \"true\" which has not been the intention"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.hpp"}],"sha":"ed7e27eacc8acd6ce74f3e9d59246addb0679833"}]
