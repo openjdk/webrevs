@@ -1,0 +1,1 @@
+[{"commit":{"message":"Memory leak in JfrUpcalls::on_retransform\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/jfr\/instrumentation\/jfrEventClassTransformer.cpp"},{"filename":"src\/hotspot\/share\/jfr\/jni\/jfrUpcalls.cpp"}],"sha":"92e65ddb8fd695c4137b72f2ff1271fa1c72e04d"}]
