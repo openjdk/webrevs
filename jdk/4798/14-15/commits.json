@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix pointer to jlong conversion on x86"},"files":[{"filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/java2d\/x11\/XRBackendNative.c"}],"sha":"4c0780548a7a1b34625a6bdc5f6efe604a25b98d"}]

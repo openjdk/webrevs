@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -928,1 +928,1 @@\n-        glyphInfoPointers[i] = (jlong) bgraGlyphInfo;\n+        glyphInfoPointers[i] = ptr_to_jlong(bgraGlyphInfo);\n","filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/java2d\/x11\/XRBackendNative.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
