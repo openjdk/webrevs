@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -279,0 +279,1 @@\n+      _parm_regs[i].set_bad();\n","filename":"src\/hotspot\/share\/opto\/matcher.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
