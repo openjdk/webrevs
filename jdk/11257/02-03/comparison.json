@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -186,1 +186,1 @@\n-            !Plaform.isWindows() && \/\/ archive heap not supported on Windows.\n+            !Platform.isWindows() && \/\/ archive heap not supported on Windows.\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/TestSerialGCWithCDS.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
