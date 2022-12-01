@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update full name"},"files":[],"sha":"c5b08c3654d625332cd34dd36e41d43763218242"},{"commit":{"message":"8272472: StackGuardPages test doesn't build with glibc 2.34\n\nReviewed-by: shade, stuefe, jiefu"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/StackGuardPages\/exeinvoke.c"}],"sha":"70c3e62573e67474d3d740a9f645c2f0d4f6ff1e"}]
