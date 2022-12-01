@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297967: Make frame::safe_for_sender safer"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/frame_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/arm\/frame_arm.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/frame_x86.cpp"}],"sha":"01d5e721067587c19cd4d6d0178b715781985ff6"}]
