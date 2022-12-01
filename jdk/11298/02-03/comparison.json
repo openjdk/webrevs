@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+import javacserver.server.Server;\n@@ -148,1 +149,1 @@\n-        cmd.add(\"javacserver.server.Server\");\n+        cmd.add(Server.class.getName());\n","filename":"make\/langtools\/tools\/javacserver\/client\/Client.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
