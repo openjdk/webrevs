@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297982: Exclude vmTestbase\/nsk\/monitoring\/stress\/lowmem\/ with ZGC until 8297979 is fixed"},"files":[{"filename":"test\/hotspot\/jtreg\/ProblemList-zgc.txt"}],"sha":"e3e8d896c832034a90820117a52fd3cbe96bad75"}]
