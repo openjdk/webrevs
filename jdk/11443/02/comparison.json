@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -542,1 +542,1 @@\n-    TOOLCHAIN_CFLAGS_JVM=\"-qtbtable=full -qtune=balanced \\\n+    TOOLCHAIN_CFLAGS_JVM=\"-qtbtable=full -qtune=balanced -fno-exceptions \\\n","filename":"make\/autoconf\/flags-cflags.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
