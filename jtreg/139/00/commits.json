@@ -1,0 +1,1 @@
+[{"commit":{"message":"7903390: Summary reporter getter not thread-safe\n\nPrevent `ConcurrentModificationException` by making the two static methods that populate the instance map `synchronized`."},"files":[{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/report\/SummaryReporter.java"}],"sha":"00609e16780038be049c8d5dbd32f270c1e1b10d"}]
