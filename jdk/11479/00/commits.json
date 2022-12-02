@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297974: ClassCastException in com.sun.tools.javac.comp.AttrRecover.doRecovery"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/AttrRecover.java"},{"filename":"test\/langtools\/tools\/javac\/recovery\/LambdaRecovery.java"}],"sha":"ed944129904135ffaf7b2858718a65502401e340"}]
