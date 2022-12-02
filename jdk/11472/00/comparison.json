@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,3 +58,1 @@\n-    if (corruption != NULL) {\n-      print_block_on_error(tty, (address)this);\n-    }\n+    print_block_on_error(tty, corruption != NULL ? corruption : (address)this);\n","filename":"src\/hotspot\/share\/services\/mallocHeader.inline.hpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
