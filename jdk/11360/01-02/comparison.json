@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -251,1 +251,1 @@\n-      current->is_active_Java_thread()) {\n+      !current->is_active_Java_thread()) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPacer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
