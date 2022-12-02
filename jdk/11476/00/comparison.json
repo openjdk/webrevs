@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -326,1 +326,1 @@\n-  long interval_ms = SafepointTracing::time_since_last_safepoint_ms();\n+  jlong interval_ms = SafepointTracing::time_since_last_safepoint_ms();\n","filename":"src\/hotspot\/share\/runtime\/vmThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8281214: Unsafe use of long in VMThread::setup_periodic_safepoint_if_needed"},"files":[{"filename":"src\/hotspot\/share\/runtime\/vmThread.cpp"}],"sha":"c68ab2e78ed8c2c4440059ff8fae4abd5177f347"}]
