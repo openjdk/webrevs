@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297767: Assert JNICritical_lock\/safepoint-1 and AdapterHandlerLibrary_lock\/safepoint-1"},"files":[{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"}],"sha":"6a9902ce721dcd942bf316af44d55381d25c9914"}]
