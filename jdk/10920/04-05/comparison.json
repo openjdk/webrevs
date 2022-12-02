@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,0 +65,1 @@\n+    assert(_caller_jvms->same_calls_as(caller_jvms), \"consistent JVMS\");\n@@ -66,2 +67,0 @@\n-  assert(_caller_jvms == NULL\n-         || _caller_jvms->same_calls_as(caller_jvms), \"consistent JVMS\");\n","filename":"src\/hotspot\/share\/opto\/bytecodeInfo.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
