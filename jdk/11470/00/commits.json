@@ -1,0 +1,1 @@
+[{"commit":{"message":"4677581: ColorModel.getComponentSize()-wrong conditions for ArrayIndexOutOfBoundsExceptio"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/ColorModel.java"},{"filename":"test\/jdk\/java\/awt\/image\/ColorModel\/GetComponentSizeAIOBE.java"}],"sha":"bece28d6aed1f3982c76238b03785c347a0a8cb8"}]
