@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -172,0 +172,2 @@\n+                var thread = Thread.currentThread();\n+                assertTrue(thread.isInterrupted(), \"Thread \" + thread + \" is not interrupted\");\n","filename":"test\/jdk\/java\/net\/httpclient\/HttpResponseInputStreamInterruptTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
