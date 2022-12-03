@@ -1,0 +1,1 @@
+[{"commit":{"message":"handle the \"SHA512\/2\" lookup of the cipher transformation in a case-insensitive way."},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/Cipher.java"},{"filename":"test\/jdk\/com\/sun\/crypto\/provider\/Cipher\/PBE\/PBES2Test.java"}],"sha":"2bf57b163fc5456fd39bbf567cf789c3c6b61526"}]
