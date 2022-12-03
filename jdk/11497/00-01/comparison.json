@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    if (old_sz == size) {\n+    if (old_sz == peak_sz) {\n","filename":"src\/hotspot\/share\/services\/mallocTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
