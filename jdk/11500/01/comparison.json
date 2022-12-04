@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+ * @requires vm.continuations\n@@ -47,1 +48,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/langtools\/jdk\/jshell\/Test8296012.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
