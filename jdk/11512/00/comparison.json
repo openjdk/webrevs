@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -261,1 +261,0 @@\n-  NOT_PRODUCT(HeapWord* _last_explicit_min_done;)\n@@ -286,1 +285,0 @@\n-    NOT_PRODUCT(_last_explicit_min_done = NULL);\n@@ -293,1 +291,0 @@\n-    NOT_PRODUCT(_last_explicit_min_done = _min_done);\n","filename":"src\/hotspot\/share\/gc\/shared\/space.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
