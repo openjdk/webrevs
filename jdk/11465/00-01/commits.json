@@ -1,0 +1,1 @@
+[{"commit":{"message":"Generate assert_block_integrity thru templated function"},"files":[{"filename":"src\/hotspot\/share\/services\/mallocHeader.hpp"},{"filename":"src\/hotspot\/share\/services\/mallocHeader.inline.hpp"},{"filename":"test\/hotspot\/gtest\/nmt\/test_nmt_cornercases.cpp"}],"sha":"1fc22a32e113133ae0cedb9e5d1986d305ffc3d4"}]
