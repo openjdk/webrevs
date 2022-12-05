@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -246,1 +246,1 @@\n-        return \"Rectangle2D [minX = \" + minX\n+        return \"Rectangle2D [minX=\" + minX\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/geometry\/Rectangle2D.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
