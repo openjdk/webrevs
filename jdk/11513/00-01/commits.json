@@ -1,0 +1,1 @@
+[{"commit":{"message":"generalized ClassLoader::has_jvmci_module to is_module_resolvable"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoader.hpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"3e89d40253b70251f9a2facce4b1d8d69701c045"}]
