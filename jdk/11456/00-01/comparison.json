@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -199,1 +199,0 @@\n-    \/\/ Ignore UseMallocOnly by allocating only in arena.\n","filename":"src\/hotspot\/share\/runtime\/handles.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
