@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1642,1 +1642,1 @@\n-                \/\/ If this is no an in-place array, zero the dst buffer\n+                \/\/ If this is not an in-place array, zero the dst buffer\n","filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/GaloisCounterMode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
