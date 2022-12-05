@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -993,1 +993,1 @@\n-  for (dels = 0; rem_n != nullptr; ++dels) {\n+  while (rem_n != nullptr) {\n@@ -1000,0 +1000,1 @@\n+      ++dels;\n","filename":"src\/hotspot\/share\/utilities\/concurrentHashTable.inline.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
