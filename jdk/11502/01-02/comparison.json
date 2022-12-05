@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -453,1 +453,0 @@\n-#ifdef ASSERT\n@@ -456,1 +455,0 @@\n-#endif\n","filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
