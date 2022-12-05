@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n-        @JEP(number=424, title=\"Foreign Function & Memory API\")\n+        @JEP(number=434, title=\"Foreign Function & Memory API\", status=\"Second Preview\")\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/javac\/PreviewFeature.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
