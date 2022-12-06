@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -229,2 +229,0 @@\n-      \/\/ We don't know how many arena chunks are in used, so don't report the count\n-      size_t count = (flag == mtChunk) ? 0 : malloc_memory->malloc_count();\n","filename":"src\/hotspot\/share\/services\/memReporter.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
