@@ -1,0 +1,1 @@
+[{"commit":{"message":"Memory leak in MethodData\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.hpp"}],"sha":"fc35f7654b6720c3d6d9eb81ba179adea7bd757a"}]
