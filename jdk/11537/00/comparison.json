@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -678,0 +678,1 @@\n+  out->cr();\n","filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
