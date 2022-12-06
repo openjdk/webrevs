@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-     * may set it to {@code null} and will reevaluate it as needed.\n+     * may set it to {@code null} and will re-evaluate it as needed.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Polygon.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
