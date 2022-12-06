@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297988: NPE in JavacTypes.getOverriddenMethods from doclint"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/main\/JavaCompiler.java"},{"filename":"test\/langtools\/tools\/javac\/modules\/EdgeCases.java"}],"sha":"3c495e2cc733c33247691171b7bac10f0fda1764"}]
