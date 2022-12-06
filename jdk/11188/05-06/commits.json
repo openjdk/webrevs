@@ -1,0 +1,1 @@
+[{"commit":{"message":"Relax size-check in C2CodeStubList::emit()"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c2_CodeStubs_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/c2_CodeStubs_riscv.cpp"},{"filename":"src\/hotspot\/share\/opto\/c2_CodeStubs.cpp"}],"sha":"0a68161223d0bf25676101fceb0b7fb89b505815"}]
