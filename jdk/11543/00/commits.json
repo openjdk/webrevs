@@ -1,0 +1,1 @@
+[{"commit":{"message":"8298184: Incorrect record component type in record patterns"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/GenericRecordDeconstructionPattern.java"}],"sha":"91ab056c81df303bec7a33ff54a8a827dce66dc7"}]
