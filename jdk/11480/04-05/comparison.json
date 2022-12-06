@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9480,1 +9480,1 @@\n-        if (index <= start || start < 0 || start >= a.length || index > a.length) {\n+        if (index <= start || start < 0 || index > a.length) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Character.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
