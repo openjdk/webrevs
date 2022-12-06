@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,1 @@\n+class ContiguousSpace;\n@@ -35,1 +36,0 @@\n-class ContiguousSpace;\n","filename":"src\/hotspot\/share\/gc\/shared\/cardTableRS.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
