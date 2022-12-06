@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -471,1 +471,0 @@\n-  size_t capacity() const        { return byte_size(bottom(), end()); }\n","filename":"src\/hotspot\/share\/gc\/shared\/space.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
