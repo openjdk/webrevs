@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292741: Convert JvmtiTagMapTable to ResourceHashtable"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMapTable.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMapTable.hpp"}],"sha":"323924286614504841b8215eb88b148dffd8a5f7"}]
