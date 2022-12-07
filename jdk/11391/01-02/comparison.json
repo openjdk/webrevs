@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1456,1 +1456,1 @@\n-  if( con->is_Con() && !cmp2->is_Con() && cmp2_op != Op_OpaqueZeroTripGuard &&\n+  if (con->is_Con() && !cmp2->is_Con() && cmp2_op != Op_OpaqueZeroTripGuard &&\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
