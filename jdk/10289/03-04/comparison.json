@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-  private static String fontName = \"Bitstream Cyberbit\";\n+  private static String fontName = \"Dialog\";\n","filename":"test\/jdk\/java\/awt\/font\/LineBreakMeasurer\/LineBreakWithTracking.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
