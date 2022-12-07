@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changed RegisterMap to include process_frame and update, for object monitor examination.\nUpdated stack printing for exception checks."},"files":[{"filename":"src\/hotspot\/share\/prims\/jniCheck.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"}],"sha":"fa1d7b0c77212d893a8d1a79a4a90d7cbdabd7cb"}]
