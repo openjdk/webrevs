@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add continuation.hpp to adlc\/main.cpp"},"files":[{"filename":"src\/hotspot\/share\/adlc\/main.cpp"}],"sha":"347a1091edbd30f4903f54e494bd9375913cfb43"},{"commit":{"message":"Set VMContinuations to false on AIX"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/globals_ppc.hpp"}],"sha":"7bec2367f7581cc640e4a1f31f3a00366da9ff1b"}]
