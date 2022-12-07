@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8153837: AArch64: Handle special cases for MaxINode & MinINode"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestMinMaxIntrinsics.java"}],"sha":"9bf234d5aabeadf2e3ee734d4389c60d41135afa"}]
