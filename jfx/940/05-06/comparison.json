@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-        Util.sleep(1000);\n+        Util.sleep(2000);\n@@ -85,1 +85,0 @@\n-            stage.show();\n@@ -87,0 +86,1 @@\n+            stage.show();\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/SceneChangeShouldNotFocusStageTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
