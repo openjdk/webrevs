@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add argument to MetadataFactory::free_metadata indicating whether destructor should be invoked\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/memory\/metadataFactory.hpp"},{"filename":"src\/hotspot\/share\/oops\/method.cpp"}],"sha":"7295e140b5b3bce6c1750db3054cf67e738e6611"}]
