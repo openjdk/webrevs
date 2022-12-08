@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-  [ DEFAULT_USERNAME=`$ECHO \"$USER\" | $TR -d -c '[a-z][A-Z][0-9]'` ]\n+  [ USERNAME=`$ECHO \"$USER\" | $TR -d -c '[a-z][A-Z][0-9]'` ]\n@@ -80,1 +80,1 @@\n-    DEFAULT: $DEFAULT_USERNAME,\n+    DEFAULT: $USERNAME,\n","filename":"make\/autoconf\/jdk-version.m4","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
