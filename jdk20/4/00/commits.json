@@ -1,0 +1,1 @@
+[{"commit":{"message":"Modify ppc.ad"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"74c36006675b20ce1f8b1900c2a5e358f1e03baa"},{"commit":{"message":"Set VMContinuations to false on AIX"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/globals_ppc.hpp"}],"sha":"33e47778bc35e75e4dd3cf1f3e96e80cc151c0e5"}]
