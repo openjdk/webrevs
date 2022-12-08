@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -356,1 +356,1 @@\n-    \/** Return value form class method if OK is chosen. *\/\n+    \/** Return value from class method if OK is chosen. *\/\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JOptionPane.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
