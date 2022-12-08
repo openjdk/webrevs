@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -897,1 +897,1 @@\n-\/\/ no subklasses.  We do a Deutsch-Shiffman style type-check on the incoming\n+\/\/ no subklasses.  We do a Deutsch-Schiffman style type-check on the incoming\n","filename":"src\/hotspot\/share\/opto\/doCall.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
