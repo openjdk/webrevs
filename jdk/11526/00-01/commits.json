@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix memory leak by calling destructor\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.hpp"}],"sha":"fbced7d35562c3f8e4dee483458e52c97eab988a"}]
