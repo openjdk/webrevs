@@ -1,0 +1,1 @@
+[{"commit":{"message":"8298381: Improve handling of session tickets for multiple SSLContexts"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLContextImpl.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SessionTicketExtension.java"}],"sha":"13e328946517a555f1416e5bbd54f8432bf9bab2"}]
