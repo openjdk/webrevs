@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -602,0 +602,1 @@\n+    method_data->~MethodData();\n","filename":"src\/hotspot\/share\/oops\/method.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
