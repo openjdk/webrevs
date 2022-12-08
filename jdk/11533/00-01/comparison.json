@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-     * Test Thread.yield submits the task for the current virtyal thread to a scheduler\n+     * Test Thread.yield submits the task for the current virtual thread to a scheduler\n","filename":"test\/jdk\/java\/lang\/Thread\/virtual\/YieldQueuing.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
