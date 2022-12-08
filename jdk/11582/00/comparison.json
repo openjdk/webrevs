@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1464,1 +1464,1 @@\n-                  RegisterMap::ProcessFrames::skip,\n+                  RegisterMap::ProcessFrames::include,\n","filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
