@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1601,1 +1601,1 @@\n-                \/\/ otherwise makes sur it will be completed\n+                \/\/ otherwise make sure it will be completed\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Stream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
