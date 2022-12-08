@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,0 @@\n-#include \"metaprogramming\/removePointer.hpp\"\n@@ -32,0 +31,1 @@\n+#include \"metaprogramming\/removePointer.hpp\"\n","filename":"src\/hotspot\/share\/memory\/metadataFactory.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
