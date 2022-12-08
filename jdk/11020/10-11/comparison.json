@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -574,1 +574,2 @@\n-      build version. Defaults to the build number.],\n+      build version.],\n+    DEFAULT_DESC: [the build number],\n","filename":"make\/autoconf\/jdk-version.m4","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
