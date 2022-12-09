@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -594,2 +594,2 @@\n-  NeverBranchNode( Node *ctrl ) : MultiBranchNode(1) {\n-    init_req(0,ctrl);\n+  NeverBranchNode(Node* ctrl) : MultiBranchNode(1) {\n+    init_req(0, ctrl);\n","filename":"src\/hotspot\/share\/opto\/cfgnode.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
