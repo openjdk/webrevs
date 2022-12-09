@@ -1,0 +1,1 @@
+[{"commit":{"message":"8298425: System.console().readLine() hangs in jshell"},"files":[{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/execution\/RemoteExecutionControl.java"},{"filename":"test\/langtools\/jdk\/jshell\/ConsoleTest.java"}],"sha":"2404e4e2b9cb0266a00828d3f9f30ec9d3e9ba96"}]
