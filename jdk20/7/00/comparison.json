@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n- * @run main\/othervm jdk.jfr.api.consumer.recordingstream.TestClose\n+ * @run main\/othervm -Xlog:jfr+streaming+system=trace jdk.jfr.api.consumer.recordingstream.TestClose\n","filename":"test\/jdk\/jdk\/jfr\/api\/consumer\/recordingstream\/TestClose.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
