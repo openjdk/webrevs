@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -441,0 +441,3 @@\n+                if (minOnScreenInsets == null) {\n+                    minOnScreenInsets = new Insets(0, 0, 0, 0);\n+                }\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicDesktopPaneUI.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
