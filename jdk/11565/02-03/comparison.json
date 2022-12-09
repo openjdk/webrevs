@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -133,1 +133,1 @@\n- * Serialized objects of any swing class will not be compatible with\n+ * Serialized objects of any Swing class will not be compatible with\n@@ -141,1 +141,0 @@\n- *\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/package-info.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
