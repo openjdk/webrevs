@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Provide INT64_PLUS_FORMAT\"\n\nThis reverts commit 8a124873e09cf1e229228103c3dad622b0e913f9."},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_globalDefinitions.cpp"}],"sha":"6f6ab88a2b2a7d36d4d963390da912e8899f6e56"}]
