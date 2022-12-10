@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n- *       is invoked one per property\/value key, eg font size: foo;, would\n+ *       is invoked once per property\/value key, eg font size: foo;, would\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSSParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
