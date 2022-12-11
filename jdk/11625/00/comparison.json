@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+import jdk.jfr.RecordingState;\n@@ -140,0 +141,3 @@\n+            if (recording.getState() == RecordingState.STOPPED) {\n+                recording.close();\n+            }\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/dcmd\/DCmdDump.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
