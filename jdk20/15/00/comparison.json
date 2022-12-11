@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -869,1 +869,1 @@\n-    amd64:CYGWIN*:*:* | x86_64:CYGWIN*:*:*)\n+    amd64:CYGWIN*:*:* | x86_64:CYGWIN*:*:* | .x86_64:CYGWIN*:*:*)\n","filename":"make\/autoconf\/build-aux\/autoconf-config.guess","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
