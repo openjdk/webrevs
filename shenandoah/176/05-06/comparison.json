@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -816,1 +816,1 @@\n-  \n+\n@@ -825,1 +825,1 @@\n-    \/\/ Merge into the appropriate cumulative stats \n+    \/\/ Merge worker stats into the cumulative stats & clear worker stats\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.inline.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
