@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-    - name: 'Setup Java 19'\n+    - name: 'Setup Java 18'\n@@ -64,1 +64,1 @@\n-        release: 19\n+        release: 18\n","filename":".github\/workflows\/test.yml","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
