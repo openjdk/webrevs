@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n- * case insensitively (such as selectors), it should use toLowerCase, or\n+ * case-insensitively (such as selectors), it should use toLowerCase, or\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSSParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
