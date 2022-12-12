@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support both C and C++\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"make\/common\/NativeCompilation.gmk"},{"filename":"make\/src\/native\/__ubsan_default_options.c"},{"filename":"make\/src\/native\/__ubsan_default_options.cpp"}],"sha":"a8c089cd7a7c2016f21d482b93791ff6348d0322"}]
