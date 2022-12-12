@@ -1,0 +1,1 @@
+[{"commit":{"message":"Put __ubsan_default_options in C++\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"make\/common\/NativeCompilation.gmk"},{"filename":"make\/src\/native\/__ubsan_default_options.cpp"}],"sha":"cdbb6492bc1f96082cb3ce800e2245eafa901be3"}]
