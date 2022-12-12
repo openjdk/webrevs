@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -279,4 +279,1 @@\n-        if (fd != null) {\n-            return fd;\n-        }\n-        throw new IOException();\n+        return fd;\n","filename":"src\/java.base\/share\/classes\/java\/io\/RandomAccessFile.java","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
