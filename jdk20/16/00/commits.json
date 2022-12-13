@@ -1,0 +1,1 @@
+[{"commit":{"message":"disable when using G1 with -XX:+ExplicitGCInvokesConcurrent"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/TestFullGCCount.java"}],"sha":"b5cbfceaf404923dbd012a0a0b26f1001befac92"},{"commit":{"message":"remove 8298296 from problem list"},"files":[{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"}],"sha":"c2cb2f341d628a5bd3086658f78591ba5265f8a0"}]
