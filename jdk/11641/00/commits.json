@@ -1,0 +1,1 @@
+[{"commit":{"message":"8298081: DiagnoseSyncOnValueBasedClasses doesn't report useful information for virtual threads"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/Monitor\/SyncOnValueBasedClassTest.java"}],"sha":"3a75ebec0a2adf48e4f1c24a472b6ae9156e45c2"}]
