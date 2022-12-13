@@ -1,0 +1,1 @@
+[{"commit":{"message":"8298643 JNI call of getAccessibleRowWithIndex and getAccessibleColumnWithIndex on a wrong thread "},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/a11y\/TableAccessibility.m"}],"sha":"7dda9b78935ce57f3f8bc1d451ae36d97a8a450d"}]
