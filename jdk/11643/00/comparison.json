@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,1 +210,3 @@\n-  if (h_name == NULL) return false;\n+  if (h_name == NULL) {\n+    return 0;\n+  }\n@@ -223,1 +225,3 @@\n-  if (h_name == NULL) return false;\n+  if (h_name == NULL) {\n+    return 0;\n+  }\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":6,"deletions":2,"binary":false,"changes":8,"status":"modified"}]}
