@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -207,1 +207,1 @@\n-                        .filter(c -> '.' == c)\n+                        .filter(c -> c == '.')\n","filename":"make\/jdk\/src\/classes\/build\/tools\/taglet\/SealedGraph.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
