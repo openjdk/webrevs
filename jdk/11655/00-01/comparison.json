@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4376,1 +4376,1 @@\n-   the_class->set_has_localvariable_table(scratch_class->has_localvariable_table());\n+    the_class->set_has_localvariable_table(scratch_class->has_localvariable_table());\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
