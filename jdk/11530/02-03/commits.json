@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make linked stack watermarks explicitly thread unsafe"},"files":[{"filename":"src\/hotspot\/share\/runtime\/stackWatermark.cpp"}],"sha":"43dfd3ccbd200b0c9f89b1d00de9029ac67119ba"}]
