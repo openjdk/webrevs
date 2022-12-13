@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -230,1 +230,1 @@\n-         * Used for instances of {@link EndElementTree}\n+         * Used for instances of {@link StartElementTree}\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/source\/doctree\/DocTree.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
