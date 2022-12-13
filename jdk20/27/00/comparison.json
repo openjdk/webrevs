@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -625,0 +625,2 @@\n+     * As implied by JLS {@jls 8.4.8.1}, a method does <em>not<\/em>\n+     * override itself. The overrides relation is <i>irreflexive<\/i>.\n","filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/util\/Elements.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
