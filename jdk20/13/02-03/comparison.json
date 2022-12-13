@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-      \/\/ T is a potentially const or volatile qualified pointer. Remove the pointer and any const\n+      \/\/ T is a potentially const or volatile qualified pointer. Remove any const\n","filename":"src\/hotspot\/share\/memory\/metadataFactory.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
