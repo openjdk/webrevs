@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-        System.out.println(\"CANONICAL DN is is \" +\n+        System.out.println(\"CANONICAL DN is \" +\n","filename":"test\/jdk\/javax\/security\/auth\/x500\/X500Principal\/EscapedChars.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
