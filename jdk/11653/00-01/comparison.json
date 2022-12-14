@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -820,1 +820,1 @@\n-\n+    \/\/ This method is called from the native in ComboBoxAccessibility.m\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CAccessibility.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
