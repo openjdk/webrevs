@@ -1,0 +1,1 @@
+[{"commit":{"message":"assert(_print_inlining_stream->size() > 0) failed: missing inlining msg"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"}],"sha":"06efdc0cf03155464026198f4109295b09fc6772"}]
