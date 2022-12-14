@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1031,0 +1031,1 @@\n+            .map(l -> new Locale.Builder().setLocale(l).setScript(\"Latn\").build())\n","filename":"make\/jdk\/src\/classes\/build\/tools\/cldrconverter\/CLDRConverter.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
