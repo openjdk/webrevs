@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,0 +73,4 @@\n+inline intptr_t* frame::link_or_null() const {\n+  return link();\n+}\n+\n","filename":"src\/hotspot\/cpu\/sparc\/frame_sparc.inline.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
