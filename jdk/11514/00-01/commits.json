@@ -1,0 +1,1 @@
+[{"commit":{"message":"8281213: Unsafe uses of long and size_t in MemReporterBase::diff_in_current_scale"},"files":[{"filename":"src\/hotspot\/share\/services\/memReporter.cpp"},{"filename":"src\/hotspot\/share\/services\/memReporter.hpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"e147bee4add57333b314a989dcd88bcdc5f81d9b"}]
