@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294580: frame::interpreter_frame_print_on() crashes if free BasicObjectLock exists in frame\n\nReviewed-by: dholmes, mdoerr"},"files":[{"filename":"src\/hotspot\/share\/runtime\/frame.cpp"}],"sha":"31f4cf1f2dc53e8025454953c1c8d7fe8afca0b3"}]
