@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-                    } catch (final UnsupportedLookAndFeelException ignored) {\n+                    } catch (UnsupportedLookAndFeelException ignored) {\n","filename":"jdk\/test\/javax\/swing\/JComboBox\/6632953\/bug6632953.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
