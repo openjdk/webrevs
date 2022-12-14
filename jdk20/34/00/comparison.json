@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @requires !(vm.gc == \"G1\" & vm.opt.ExplicitGCInvokesConcurrent)\n+ * @requires !(vm.gc.G1 & vm.opt.ExplicitGCInvokesConcurrent == true)\n","filename":"test\/hotspot\/jtreg\/gc\/TestFullGCCount.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
