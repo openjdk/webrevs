@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved echo() to ConsoleImpl, clean-ups"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/Console.java"},{"filename":"src\/java.base\/share\/classes\/java\/io\/ConsoleImpl.java"},{"filename":"src\/java.base\/unix\/native\/libjava\/Console_md.c"}],"sha":"93945d6ffa559795ba58ca9e88469d700477390a"}]
