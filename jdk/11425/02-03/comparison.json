@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,0 +150,1 @@\n+        frame.setLocationRelativeTo(null);\n","filename":"test\/jdk\/java\/awt\/Mouse\/EnterExitEvents\/DragWindowTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
