@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,0 +61,1 @@\n+#endif \/\/ INCLUDE_CDS\n@@ -69,2 +70,0 @@\n-\n-#endif \/\/ INCLUDE_CDS\n","filename":"src\/hotspot\/share\/oops\/instanceKlassMiscStatus.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
