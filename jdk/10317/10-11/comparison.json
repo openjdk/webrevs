@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-import java.util.regex.Pattern;\n+import java.util.Map;\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSS.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
