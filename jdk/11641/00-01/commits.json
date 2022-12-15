@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move dispatch logic into new JavaThread method"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"7a80f42a01c022c4a7e232e9b8534894413ae433"}]
