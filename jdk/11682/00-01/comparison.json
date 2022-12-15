@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1568,1 +1568,1 @@\n-  \/\/ if (error) { tty->cr(); print_on(nullptr, tty); }\n+  \/\/ if (error) { tty->cr(); print_on(static_cast<JavaThread*>(nullptr), tty); }\n","filename":"src\/hotspot\/share\/runtime\/frame.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
