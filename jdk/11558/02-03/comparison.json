@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n- * Test that if handshake messages are crasged, the handshake would fail\n+ * Test that if handshake messages are changed, the handshake would fail\n","filename":"test\/jdk\/javax\/net\/ssl\/DTLS\/InvalidRecords.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
