@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -430,1 +430,1 @@\n-  int aligned_header_size_words = heap_word_size(arrayOopDesc::base_offset_in_bytes(T_INT));\n+  size_t aligned_header_size_words = heap_word_size(arrayOopDesc::base_offset_in_bytes(T_INT));\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
