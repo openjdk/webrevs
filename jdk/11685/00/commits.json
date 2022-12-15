@@ -1,0 +1,1 @@
+[{"commit":{"message":"8298813: [C2] Converting double to float cause a loss of precision and resulting crypto.aes scores fluctuate"},"files":[{"filename":"src\/hotspot\/share\/opto\/chaitin.hpp"}],"sha":"f017e49c74f6f2018e51aadae59b88829d469850"}]
