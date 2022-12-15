@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296548: Improve MD5 intrinsic for x86_64\n\nReviewed-by: kvn, sviswanathan, luhenry"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_md5.cpp"}],"sha":"592b65724fae76271a53f7ef21a5d6e238b35b09"}]
