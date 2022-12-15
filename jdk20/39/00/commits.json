@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297979: ZGC: Ensure consistent MemoryUsage from MemoryMXBean.getHeapMemoryUsage()"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zCollectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zCollectedHeap.hpp"}],"sha":"16e16b7c2ad2367c0e83242ea369cc32e2a28678"}]
