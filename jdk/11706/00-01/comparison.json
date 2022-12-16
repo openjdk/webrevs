@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3634,1 +3634,2 @@\n-            if (_head == nlpt->_head) {\n+            n = nlpt->_head;\n+            if (_head == n) {\n@@ -3645,1 +3646,0 @@\n-            n = nlpt->_head;\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
