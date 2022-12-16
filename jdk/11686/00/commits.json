@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8298736: Revisit usages of log10 in compiler code"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/node.cpp"}],"sha":"b96a5b22f07ce39c7407ca7aa0e4dcaa2bcccd2a"}]
