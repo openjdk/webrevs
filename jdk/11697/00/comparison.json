@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -452,1 +452,1 @@\n-  if (cb->is_nmethod()) {\n+  if (cb != NULL && cb->is_nmethod()) {\n","filename":"src\/hotspot\/share\/utilities\/debug.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
