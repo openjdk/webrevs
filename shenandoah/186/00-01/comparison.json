@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1026,1 +1026,1 @@\n-  static const size_t _clusters_in_smallest_chunk = 4;\n+  static constexpr size_t _clusters_in_smallest_chunk = 4;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
