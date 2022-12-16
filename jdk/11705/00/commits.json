@@ -1,0 +1,1 @@
+[{"commit":{"message":"8298824: C2 crash: assert(is_Bool()) failed: invalid node class: ConI"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestCMoveIConAsBool.java"}],"sha":"ba546aad2a8a8519dc2682ec738f753eea42e92c"}]
