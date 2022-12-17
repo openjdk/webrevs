@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1058,0 +1058,3 @@\n+                if (!flasher.isRunning()){\n+                    flasher.restart();\n+                }\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/DefaultCaret.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

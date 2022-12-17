@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixing situation where we can be stuck with non-blinking cursor after editable state switched on a focused text field"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/DefaultCaret.java"}],"sha":"abf5d77d38eae00b108697a5f9bd72f4180cc8e1"}]
