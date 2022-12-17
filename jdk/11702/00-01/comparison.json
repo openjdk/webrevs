@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -355,0 +355,1 @@\n+#ifndef ADDRESS_SANITIZER\n@@ -356,0 +357,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/memory\/metaspace\/blockTree.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
