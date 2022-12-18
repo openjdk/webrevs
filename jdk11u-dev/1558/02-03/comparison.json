@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,0 +127,1 @@\n+                \/\/ [JDK-8240666] Websocket client's OpeningHandshake discards the HTTP response body\n","filename":"test\/jdk\/java\/net\/httpclient\/websocket\/HandshakeUrlEncodingTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
