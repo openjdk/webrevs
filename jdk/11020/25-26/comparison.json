@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-        location: RUNNER_TEMP\n\\ No newline at end of file\n+        location: RUNNER_TEMP\n","filename":".github\/actions\/get-msys2\/action.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
