@@ -1,0 +1,1 @@
+[{"commit":{"message":"Send \"Connection: close\" if closing. Accept not content-length for HEAD and GET."},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/ProxyServer.java"}],"sha":"3d4db2b6d7ff49c9f6233d9f772f92cb12dd8bca"}]
