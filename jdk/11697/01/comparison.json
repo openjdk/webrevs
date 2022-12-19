@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -452,1 +452,1 @@\n-  if (cb->is_nmethod()) {\n+  if (cb != NULL && cb->is_nmethod()) {\n@@ -455,0 +455,2 @@\n+  } else {\n+    tty->print_cr(\"Invalid address\");\n","filename":"src\/hotspot\/share\/utilities\/debug.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
