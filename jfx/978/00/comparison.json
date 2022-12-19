@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -333,1 +333,0 @@\n-            dirtyBounds = dirtyBounds.deriveWithUnion(bounds);\n@@ -339,0 +338,1 @@\n+        dirtyBounds = dirtyBounds.deriveWithUnion(bounds);\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/sg\/prism\/NGNode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
