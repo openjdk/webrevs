@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -241,1 +241,1 @@\n-  product(bool, UsePoly1305Intrinsics, false, DIAGNOSTIC,                       \\\n+  product(bool, UsePoly1305Intrinsics, false, DIAGNOSTIC,                   \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
