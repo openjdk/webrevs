@@ -1,0 +1,1 @@
+[{"commit":{"message":"linux s390x seems to have the same issues"},"files":[{"filename":"src\/hotspot\/cpu\/s390\/assembler_s390.hpp"}],"sha":"065c10814e0150cd7b88782b8be1d4008214856b"},{"commit":{"message":"JDK-8299022"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/assembler_ppc.hpp"}],"sha":"9ea4a06785d433f3a11c29c54d7e62eb9b1ab537"}]
