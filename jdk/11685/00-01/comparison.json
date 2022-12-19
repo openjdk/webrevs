@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -481,1 +481,1 @@\n-  double _high_frequency_lrg;    \/\/ Frequency at which LRG will be spilled for debug info\n+  double _high_frequency_lrg;   \/\/ Frequency at which LRG will be spilled for debug info\n","filename":"src\/hotspot\/share\/opto\/chaitin.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
