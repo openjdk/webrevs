@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,1 @@\n+        -e 's\/^\\#.*\/\/g' \\\n","filename":"make\/common\/FindTests.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
