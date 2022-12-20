@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,2 @@\n- * @summary Test jcmd VM.classes\n+ * @summary Test jcmd VM.classes with JFR\n+ * @requires vm.hasJFR\n","filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/PrintClasses.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
