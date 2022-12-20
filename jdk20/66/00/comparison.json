@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -622,1 +622,1 @@\n-SPECS_TOP := $(if $(filter true, $(IS_DRAFT)), <header class=\"draft-header\">$(DRAFT_TEXT)<\/header>)\n+SPECS_TOP := $(if $(filter true, $(IS_DRAFT)), <header class=\"draft-header\" role=\"banner\">$(DRAFT_TEXT)<\/header>)\n","filename":"make\/Docs.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
