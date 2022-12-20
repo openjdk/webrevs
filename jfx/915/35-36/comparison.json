@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -829,6 +829,0 @@\n-\n-    if (wmanager != COMPIZ) {\n-        \/\/ Compiz doesn't like focus on map disabled\n-        gtk_window_set_focus_on_map(GTK_WINDOW(gtk_widget), FALSE);\n-    }\n-\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
