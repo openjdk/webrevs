@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed JdkConsoleProviderImpl, caching INSTANCE"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/Console.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/io\/JdkConsoleImpl.java"}],"sha":"777c0dc0cff185e7968cef98a25bb3ddf61d0fa8"}]
