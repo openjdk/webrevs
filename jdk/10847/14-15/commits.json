@@ -1,0 +1,1 @@
+[{"commit":{"message":"Treat Op_VectorizedHashCode as other similar Ops in split_unique_types"},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"}],"sha":"62e98e1b086ff1f63aaf566c46ada123231a7b4d"}]

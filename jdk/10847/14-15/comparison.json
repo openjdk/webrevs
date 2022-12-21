@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3448,1 +3448,1 @@\n-              op == Op_StrEquals ||\n+              op == Op_StrEquals || op == Op_VectorizedHashCode ||\n","filename":"src\/hotspot\/share\/opto\/escape.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
