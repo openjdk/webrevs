@@ -1,0 +1,1 @@
+[{"commit":{"message":"use owned_by_self vs is_locked in JvmtiVTMSTransition_lock asserts"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"}],"sha":"3c73fae328a706fcfeed41e606850276139dd18e"}]
