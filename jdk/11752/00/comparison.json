@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n-    private String name;\n+    private final String name;\n","filename":"src\/java.base\/share\/classes\/java\/nio\/ByteOrder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
