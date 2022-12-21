@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix: Special treatment since C2's scratch emision needs independent fixed length\n\nhotspot\/jtreg\/testlibrary_tests\/ir_framework\/tests\/TestDFlags.java fails here sometimes for using -XX:+VerifyOops"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"c81155fda29955fd68e2fa97322083f01510f148"}]
