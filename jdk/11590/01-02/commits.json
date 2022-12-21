@@ -1,0 +1,1 @@
+[{"commit":{"message":"Optimized initialisation of currentKeyID and deletion of expired session keys as proposed by @schlosna"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLContextImpl.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSessionContextImpl.java"}],"sha":"64905b3d8a36e2337ecaf4f7aeddaafe578475f7"}]
