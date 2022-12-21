@@ -1,0 +1,1 @@
+[{"commit":{"message":"revert gradle min version"},"files":[{"filename":"build.properties"}],"sha":"3e7de859e06fb564ac039abcdcbd40db3afd951d"},{"commit":{"message":"boot jdk 19.0.1"},"files":[{"filename":".github\/workflows\/submit.yml"},{"filename":"build.properties"}],"sha":"edc245fcf66cc61acb2d5ac6cd1e973a914ec345"}]
