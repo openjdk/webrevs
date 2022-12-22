@@ -1,0 +1,1 @@
+[{"commit":{"message":"Integration branches should always be identified by marker and not pull request state"},"files":[{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/github\/GitHubPullRequest.java"},{"filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/gitlab\/GitLabMergeRequest.java"}],"sha":"4c9cb948522569de2f5b9a9d06643c6577abbe06"}]
