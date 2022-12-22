@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -716,0 +716,1 @@\n+        CHECK_NULL_RETURN(qdataBody, 0);\n","filename":"src\/java.desktop\/share\/native\/libjavajpeg\/imageioJPEG.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
