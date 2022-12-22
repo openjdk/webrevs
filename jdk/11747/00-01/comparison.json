@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,3 +34,1 @@\n-com\/sun\/net\/httpserver\/simpleserver \\\n-java\/awt \\\n-javax\/swing\n+com\/sun\/net\/httpserver\/simpleserver\n","filename":"test\/jdk\/TEST.ROOT","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
