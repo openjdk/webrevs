@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove testJavaVersionWithCgMounts\n\nAs Severin points out, this test is not useful (in its current form)\nfor 8u."},"files":[{"filename":"hotspot\/test\/runtime\/containers\/docker\/DockerBasicTest.java"}],"sha":"daae458883078a892593db3550e80c8ebbbbb5c5"}]
