@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1135,1 +1135,1 @@\n-    \/\/ newW \/ newH always content sizes compatible with GTK+ (content size means \"do not account window frame\")\n+    \/\/ newW \/ newH are view\/content sizes\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
