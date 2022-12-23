@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move assertion and make clear print_jni_stack is only for current thread."},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"}],"sha":"6c3319afc2f912f0cb5ccc40d20b072add1dab24"}]
