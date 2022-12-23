@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,1 @@\n-  _is_active = true;\n+  DEBUG_ONLY(_is_active = true;)\n@@ -57,1 +57,1 @@\n-  _is_active = false;\n+  DEBUG_ONLY(_is_active = false;)\n","filename":"src\/hotspot\/share\/runtime\/disableStackTracingMark.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
