@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -348,1 +348,1 @@\n-    if (isDrag) {\n+    if (isDrag && WindowContextBase::sm_mouse_drag_window == NULL) {\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
