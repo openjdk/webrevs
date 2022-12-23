@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1766,2 +1766,3 @@\n-  assert(!dst.base_needs_rex() && !dst.index_needs_rex(), \"no extended registers\");\n-  emit_int16(0x66, (unsigned char)0x81);\n+  emit_int8(0x66);\n+  prefix(dst);\n+  emit_int8((unsigned char)0x81);\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
