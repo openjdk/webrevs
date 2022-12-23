@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-     private static CssMetaData<JavadocFixStylableProperty, Boolean> SELECTED;\n+     private static {@literal CssMetaData<MyButton, Boolean>} SELECTED;\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/css\/StyleablePropertyFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
