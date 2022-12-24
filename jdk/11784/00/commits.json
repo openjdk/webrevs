@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299333: Unify used exceptions by all variants of ICC_Profile.getInstance(null)"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/color\/ICC_Profile.java"},{"filename":"test\/jdk\/java\/awt\/color\/GetInstanceNullData.java"}],"sha":"db5cfdc280c00e38949469f9bc6fcb3d06a12716"}]
