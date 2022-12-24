@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-    private static final int DEFAULT_BUFFER_SIZE = 8192;\n+    private static final int DEFAULT_BUFFER_SIZE = 16384;\n","filename":"src\/java.base\/share\/classes\/java\/io\/InputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
