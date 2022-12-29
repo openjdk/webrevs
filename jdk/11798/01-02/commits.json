@@ -1,0 +1,1 @@
+[{"commit":{"message":"Switch to std::remove_extent_t and using instead of typedef\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zSafeDelete.hpp"}],"sha":"adf841ae0b0fd765dac80fb5132ed2b92e9e74bb"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-  typedef typename std::remove_extent<T>::type ItemT;\n+  using ItemT = std::remove_extent_t<T>;\n","filename":"src\/hotspot\/share\/gc\/z\/zSafeDelete.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
