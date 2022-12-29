@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,1 +235,1 @@\n-        mainScreen = 0 < index && index < screens.length ? index : 0;\n+        mainScreen = 0 < index && index < numScreens ? index : 0;\n","filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11GraphicsEnvironment.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
