@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296789: <TAB>-completion in jshell fails to expose synthetic bridge methods"},"files":[{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/SourceCodeAnalysisImpl.java"},{"filename":"test\/langtools\/jdk\/jshell\/CompletionSuggestionTest.java"}],"sha":"cc64f561bf3df65a724b113588004ba3d4f914be"}]
