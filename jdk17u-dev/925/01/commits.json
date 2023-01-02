@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'JDK-8008243-zero-fast-bytecodes' into JDK-8277485-zero-fix-bytecodes"},"files":[],"sha":"0e037717231256be2661ccc47da53882a33d2ebe"},{"commit":{"message":"Backport 0a9e76c4f9d966015c19e87e3eb59ceb7489459f"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/zero\/bytecodeInterpreter.cpp"}],"sha":"01fc41d6d457f7fe258cbb74341adc6d8dfa811d"}]
