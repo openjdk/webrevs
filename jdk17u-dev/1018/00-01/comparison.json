@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -456,1 +456,0 @@\n-        long expected = roundUp(REF_SIZE*LARGE_OBJ_ARRAY_SIZE + 16, OBJ_ALIGN);\n","filename":"test\/jdk\/java\/lang\/instrument\/GetObjectSizeIntrinsicsTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
