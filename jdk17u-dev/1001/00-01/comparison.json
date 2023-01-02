@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1199,0 +1199,3 @@\n+  if (has_pinned_control_dependency()) {\n+    return this;\n+  }\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
