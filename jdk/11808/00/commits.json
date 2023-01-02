@@ -1,0 +1,1 @@
+[{"commit":{"message":"8298876: Swing applications do not get repainted coming out of sleep on Windows 10"},"files":[{"filename":"src\/java.desktop\/windows\/classes\/sun\/java2d\/d3d\/D3DScreenUpdateManager.java"},{"filename":"test\/jdk\/sun\/java2d\/DirectX\/MultiPaintEventTest\/MultiPaintEventTest.java"}],"sha":"d37cb43ba6cf97fd7b50665905ee06c33aecf051"}]
