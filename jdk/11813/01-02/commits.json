@@ -1,0 +1,1 @@
+[{"commit":{"message":"re-throw SocketException, remove one enhancement because it is meant to be internal"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java"},{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/NioSocketImpl.java"}],"sha":"4eb84f3761411b27262623fed534d0a2caba3235"}]
