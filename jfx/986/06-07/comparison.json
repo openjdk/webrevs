@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1227,0 +1227,2 @@\n+    GdkRGBA rgba = {0, 0, 0, 0};\n+    gdk_window_set_background_rgba(window, &rgba);\n@@ -1228,1 +1230,0 @@\n-    gdk_window_set_opacity(window, 0);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_dnd.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
