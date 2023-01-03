@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,0 +121,5 @@\n+            if (Math.abs(delta) < SMALL_DELTA) {\n+                distributeSmallDelta(delta);\n+                return;\n+            }\n+\n","filename":"modules\/javafx.controls\/src\/main\/java\/com\/sun\/javafx\/scene\/control\/ResizeHelper.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
