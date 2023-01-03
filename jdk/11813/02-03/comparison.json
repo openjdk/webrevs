@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -537,1 +537,1 @@\n-            throw new SocketException(e.getMessage());\n+            throw new SocketException(e.getMessage(), e);\n","filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
