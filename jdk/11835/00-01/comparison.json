@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -697,1 +697,1 @@\n-  td::enable_if_t<IsIntegral<I>::value && (sizeof(I) <= sizeof(P*))>>\n+  std::enable_if_t<IsIntegral<I>::value && (sizeof(I) <= sizeof(P*))>>\n","filename":"src\/hotspot\/share\/runtime\/atomic.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
