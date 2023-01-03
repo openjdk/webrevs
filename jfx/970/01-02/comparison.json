@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,2 +28,0 @@\n-import java.io.IOException;\n-\n@@ -49,1 +47,1 @@\n-    public void start(Stage stage) throws IOException {\n+    public void start(Stage stage) {\n","filename":"tests\/performance\/checkboxTreeView\/src\/main\/java\/main\/CheckBoxTreeEditor.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
