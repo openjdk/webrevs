@@ -1,0 +1,1 @@
+[{"commit":{"message":"Checks should also be done before rebasing and integration"},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/IntegrateCommand.java"},{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/SponsorCommand.java"}],"sha":"b411ed312addd701b6b3771d9cc449d523345085"}]
