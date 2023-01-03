@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,1 @@\n-    return static_cast<int>(osz);\n+    return checked_cast<int>(osz);\n","filename":"src\/hotspot\/share\/oops\/objArrayOop.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
