@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299444: java.util.Set.copyOf allocates needlessly for empty input collections\n\nIntroduces a check for isEmpty to avoid allocating in the case of an empty input collection."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Set.java"}],"sha":"52a87a2b49f57fc7104e711271e947861ac50dbc"}]
