@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -196,1 +196,1 @@\n-    typename HeapOopType<idecorators>::type>::type\n+    typename HeapOopType<idecorators>::type>\n","filename":"src\/hotspot\/share\/oops\/accessBackend.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
