@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -610,1 +610,0 @@\n-        Set<String> bundleKeys = bundleMap.keySet();\n","filename":"make\/jdk\/src\/classes\/build\/tools\/cldrconverter\/CLDRConverter.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
