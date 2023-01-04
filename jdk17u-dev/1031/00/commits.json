@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 761a4f4852cbb40660b6fb9eda4d740464218f75"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopstripmining\/TestUseFromInnerInOuterUnusedBySfpt.java"}],"sha":"cd8c8d0e5203249437a4f81f136317f9997f264b"}]
