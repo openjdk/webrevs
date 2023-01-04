@@ -1,0 +1,1 @@
+[{"commit":{"message":"Enforce that generation sizes align with region sizes"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMmuTracker.cpp"}],"sha":"7f131f51758242498ea4f96c85c1da775bda1a2f"}]
