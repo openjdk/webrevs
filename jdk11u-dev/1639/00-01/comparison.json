@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,2 +38,0 @@\n-\n-# Override specific values to do a boot cycle build\n@@ -44,0 +42,2 @@\n+# Override specific values to do a boot cycle build\n+\n","filename":"make\/autoconf\/bootcycle-spec.gmk.in","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
