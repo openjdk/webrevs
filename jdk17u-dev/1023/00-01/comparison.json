@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1862,1 +1862,1 @@\n-       \/\/ stored has multiple bases one of which is null.\n+        \/\/ stored has multiple bases one of which is null.\n","filename":"src\/hotspot\/share\/opto\/escape.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
