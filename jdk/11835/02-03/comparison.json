@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -195,1 +195,1 @@\n-    AccessInternal::MustConvertCompressedOop<idecorators, T>,\n+    AccessInternal::MustConvertCompressedOop<idecorators, T>::value,\n","filename":"src\/hotspot\/share\/oops\/accessBackend.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
