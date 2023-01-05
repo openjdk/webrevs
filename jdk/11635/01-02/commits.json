@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not update NUMAStats in MutableNUMASpace::accumulate_statistics()"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/mutableNUMASpace.cpp"}],"sha":"80bd78cd6c4d13919e71d0bbde65063606b6f0e6"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -399,6 +399,0 @@\n-\n-  if (NUMAStats) {\n-    for (int i = 0; i < lgrp_spaces()->length(); i++) {\n-      lgrp_spaces()->at(i)->accumulate_statistics(page_size());\n-    }\n-  }\n","filename":"src\/hotspot\/share\/gc\/parallel\/mutableNUMASpace.cpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
