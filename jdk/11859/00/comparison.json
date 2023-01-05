@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -214,1 +214,1 @@\n-        if (windows != 0) {\n+        if (windows != 0 || frames != 1 || dialogs != 0 || modalDialogs != 0) {\n","filename":"test\/jdk\/java\/awt\/Dialog\/ModalDialogTest\/ModalDialogTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
