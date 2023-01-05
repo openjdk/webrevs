@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -319,1 +319,1 @@\n-      if (result != nullptr && free > usable_free) {\n+      if (free > usable_free) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
