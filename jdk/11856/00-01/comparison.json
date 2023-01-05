@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1059,1 +1059,1 @@\n-        ((InstanceKlass*)m)->verify();\n+        ((Klass*)m)->verify();\n","filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
