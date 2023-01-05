@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299684: Enhance message in IAE caused by NewDirectByteBuffer passing up a capacity which overflows int range"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template"}],"sha":"db924a34218e4030f42d22b960113340fcf5e55d"}]
