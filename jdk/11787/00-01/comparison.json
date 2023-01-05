@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -513,1 +513,1 @@\n-\/\/ Thread start routine for all newly created threads\n+\/\/ Thread start routine for all newly created threads.\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
