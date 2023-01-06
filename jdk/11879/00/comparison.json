@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,0 @@\n-class Int_Array;\n@@ -80,1 +79,0 @@\n-class Scope;\n@@ -85,1 +83,0 @@\n-class TypeData;\n@@ -167,1 +164,0 @@\n-  static const char* debug_option_name;\n","filename":"src\/hotspot\/share\/opto\/compile.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
