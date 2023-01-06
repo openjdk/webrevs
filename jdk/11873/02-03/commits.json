@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299684: Add test for out of range capacity passed to NewDirectBuffer"},"files":[{"filename":"make\/test\/JtregNativeJdk.gmk"},{"filename":"test\/jdk\/java\/nio\/jni\/NewDirectByteBuffer.java"},{"filename":"test\/jdk\/java\/nio\/jni\/libNewDirectByteBuffer.c"}],"sha":"d8e6c180cae584be3112efea727bbb6cb0105efb"}]
