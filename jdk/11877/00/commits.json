@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299721: [Vector API] assert in switch-default of LibraryCallKit::arch_supports_vector_rotate is too weak to catch bugs"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"6499113f8b314b6322c7cea134202002a389ce3b"}]
