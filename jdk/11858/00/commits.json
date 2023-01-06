@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299580: RISC-V: fail to build with GCC 12 due to stringop-overflow warning"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/atomic_linux_riscv.hpp"}],"sha":"cf9ca0c0b74f561e931303699145ea11e224289b"}]
