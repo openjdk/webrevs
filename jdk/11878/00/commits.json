@@ -1,0 +1,1 @@
+[{"commit":{"message":"8298427: Detect Ampere-1 and Ampere-1A CPUs and set default options\n\nSigned-off-by: Patrick Zhang <patrick@os.amperecomputing.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.hpp"}],"sha":"eb584df1a8ce9453767f957f846351cf7d93e568"}]
