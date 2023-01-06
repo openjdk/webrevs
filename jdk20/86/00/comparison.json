@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -348,0 +348,1 @@\n+        @PreviewFeature(feature=PreviewFeature.Feature.FOREIGN)\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/Linker.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
