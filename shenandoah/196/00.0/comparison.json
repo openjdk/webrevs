@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-  java_lang_ref_Reference::clear_referent(reference);\n+  java_lang_ref_Reference::clear_referent_raw(reference);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
