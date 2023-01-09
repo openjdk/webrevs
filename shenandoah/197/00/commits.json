@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix verification of remembered set at mark start\n\nIn particular, objects residing between TAMS and top() within each old\nregion need special handling."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"e30a9aac37a8c01a650b5065c42755dfe9e93975"}]
