@@ -1,0 +1,1 @@
+[{"commit":{"message":"changed the logic about removing CSR label when pr contains withdrawn csr issue"},"files":[{"filename":"bots\/csr\/src\/main\/java\/org\/openjdk\/skara\/bots\/csr\/PullRequestWorkItem.java"},{"filename":"bots\/csr\/src\/test\/java\/org\/openjdk\/skara\/bots\/csr\/CSRBotTests.java"}],"sha":"4b9f58f07a098cda2ca2d12f7482d12a9a372f6f"}]
