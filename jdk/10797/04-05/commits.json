@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert 2nd part of previous commit (\"Put mapping tables for different...\").\n\nThis should go into a separate branch."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"},{"filename":"test\/langtools\/tools\/javac\/enum\/EnumExtraClassInit.java"}],"sha":"f8b189ec75164873953e528b92ba06372b215c50"}]
