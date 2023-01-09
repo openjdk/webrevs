@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,1 +118,1 @@\n-  \/\/ an nmethod gets disarmed. The low order 32 bit denote the disarmed value.\n+  \/\/ an nmethod gets disarmed. The low order 32 bits denote the disarmed value.\n","filename":"src\/hotspot\/share\/runtime\/thread.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
