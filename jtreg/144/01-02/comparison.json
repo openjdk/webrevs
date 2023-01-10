@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5,1 +5,2 @@\n-_nothing noteworthy, yet_\n+* Improved support for JUnit Jupiter.\n+  * Update jtreg to bundle JUnit 5.9.2 [CODETOOLS-7903406](https:\/\/bugs.openjdk.org\/browse\/CODETOOLS-7903406)\n","filename":"CHANGELOG.md","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
