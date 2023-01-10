@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1208,0 +1208,3 @@\n+  if (HAS_PENDING_EXCEPTION) {\n+    assert(fd == OS_ERR, \"open_sharedmem_file always return OS_ERR on exceptions\");\n+  }\n@@ -1211,1 +1214,0 @@\n-  assert(!HAS_PENDING_EXCEPTION, \"must be\");\n","filename":"src\/hotspot\/os\/posix\/perfMemory_posix.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
