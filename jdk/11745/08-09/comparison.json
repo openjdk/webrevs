@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -301,0 +301,1 @@\n+  assert(!Signature::is_method(this), \"field ref cannot be a method\");\n","filename":"src\/hotspot\/share\/oops\/symbol.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
