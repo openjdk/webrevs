@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297874: get_dump_directory() in jfrEmergencyDump.cpp should pass correct length to jio_snprintf"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/repository\/jfrEmergencyDump.cpp"}],"sha":"bf6383c77d4802ed3656770bcf44bd48c296baaf"}]
