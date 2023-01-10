@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+  memset(_map, '\\0', sizeof(T) * _size);\n","filename":"src\/hotspot\/share\/gc\/z\/zGranuleMap.inline.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
