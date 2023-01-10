@@ -1,0 +1,1 @@
+[{"commit":{"message":"It is better to force the \"ensureClassInitialized\" as any other getters in this class. To make sure the field is up-to-date even if it was initialized on another thread."},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/swing\/SwingAccessor.java"}],"sha":"2841c5e44f087b09200440c9ef307558c03fb3c2"}]
