@@ -1,0 +1,1 @@
+[{"commit":{"message":"move the ::close call to immediately after ::read"},"files":[{"filename":"src\/hotspot\/share\/compiler\/directivesParser.cpp"}],"sha":"6439276c8ea033e620d01eaef2cce71fbd0f193a"}]
