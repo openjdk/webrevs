@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299870: TLS record version check allows invalid records"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/ProtocolVersion.java"},{"filename":"test\/jdk\/ProblemList.txt"}],"sha":"8157cef3c534c5bd2491d1470a7e0f49a19595f8"}]
