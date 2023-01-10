@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -186,0 +186,1 @@\n+ * <tr><th scope=\"row\">{@code this-escape}          <td>superclass constructor leaking {@code this} before subclass initialized\n","filename":"src\/jdk.compiler\/share\/classes\/module-info.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
