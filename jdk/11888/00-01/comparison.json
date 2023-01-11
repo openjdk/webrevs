@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -297,0 +297,1 @@\n+     * @throws NullPointerException if {@code ID} is {@code null}\n@@ -510,0 +511,1 @@\n+     * @throws NullPointerException if {@code date} is {@code null}\n","filename":"src\/java.base\/share\/classes\/java\/util\/TimeZone.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
