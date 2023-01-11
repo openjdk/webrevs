@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8297487: G1 Remark: no need to keep alive oop constants of nmethods on stack\"\n\nThis reverts commit eab1e6260d5622722b3e930b8457a64c6da28ccc."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/barrierSet.cpp"}],"sha":"f8c8ff2f089a95c369077a42958488f900ebba00"}]
