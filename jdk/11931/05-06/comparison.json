@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-  os::commit_memory_or_exit(addr, size, !ExecMem, \"Allocator (commit)\");\n+  os::commit_memory_or_exit(static_cast<char*>(addr), size, !ExecMem, \"Allocator (commit)\");\n","filename":"src\/hotspot\/share\/gc\/z\/zGranuleMap.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
