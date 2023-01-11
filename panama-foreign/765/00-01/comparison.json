@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -301,1 +301,1 @@\n-                    \/\/ fields only, no padding\n+                    \/\/ We only expect to see fields here, no padding (the cast would fail)\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/aarch64\/CallArranger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
