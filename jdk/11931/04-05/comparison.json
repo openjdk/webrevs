@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,2 @@\n-  void* chunk = NEW_C_HEAP_ARRAY(uint8_t, total_size, flags);\n+  uint8_t* chunk = NEW_C_HEAP_ARRAY(uint8_t, total_size, flags);\n+\n@@ -68,0 +69,2 @@\n+  memset(chunk, '\\0', total_size);\n+\n","filename":"src\/hotspot\/share\/memory\/padded.inline.hpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
