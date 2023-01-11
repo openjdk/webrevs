@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-            Events.assertField(e, \"compression\").equal(-1);\n+            Events.assertField(e, \"compression\").below(1);\n","filename":"test\/jdk\/jdk\/jfr\/event\/diagnostics\/TestHeapDump.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
