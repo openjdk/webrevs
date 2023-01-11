@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport d562d3fcbe22a0443037c5b447e1a41401275814"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestOnlyInfiniteLoops.jasm"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestOnlyInfiniteLoopsMain.java"}],"sha":"c239991595cc4e10ccf4d2100a82654c32a16491"}]
