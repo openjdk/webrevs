@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -231,1 +231,1 @@\n-        \/\/ call getSocket to get the value of the SO_REUSEADDR socket option\n+        \/\/ call getOption to get the value of the SO_REUSEADDR socket option\n","filename":"test\/jdk\/java\/net\/Socket\/asyncClose\/Leaky.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
