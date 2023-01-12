@@ -1,0 +1,1 @@
+[{"commit":{"message":"8300010: UnsatisfiedLinkError on calling System.console().readPassword() on Windows"},"files":[{"filename":"src\/java.base\/windows\/native\/libjava\/Console_md.c"},{"filename":"src\/java.base\/windows\/native\/libjava\/JdkConsoleImpl_md.c"}],"sha":"ee2ac0e7db1fe003a131dfd26e497eef58557b56"}]
