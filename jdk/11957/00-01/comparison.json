@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1448,1 +1448,1 @@\n-    synchronized void removeObjectMirror(SoftObjectReference ref) {\n+    private synchronized void removeObjectMirror(SoftObjectReference ref) {\n","filename":"src\/jdk.jdi\/share\/classes\/com\/sun\/tools\/jdi\/VirtualMachineImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
