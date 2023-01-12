@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299677: Formatter.format might take a long time to format an integer or floating-point"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Formatter.java"},{"filename":"test\/jdk\/java\/util\/Formatter\/Padding.java"}],"sha":"56c8f550aa592eda9a7ba74f82db444597ee1aa8"}]
