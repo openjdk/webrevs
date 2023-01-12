@@ -1,0 +1,1 @@
+[{"commit":{"message":"8300040: TypeOopPtr::make_from_klass_common calls itself with args in wrong order"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"}],"sha":"2b9265ba8d121db9f14c67af5e0fcb938d8ce7fb"}]
