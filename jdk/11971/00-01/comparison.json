@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,1 +161,1 @@\n-         \"HeapWord should be at least as large as juint\");\n+                \"HeapWord should be at least as large as juint\");\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
