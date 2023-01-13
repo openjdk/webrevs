@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8293410: assert(ptr != top()) failed: top should go hand-in-hand with stopped"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"},{"filename":"src\/hotspot\/share\/opto\/parse2.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"800ec0b461500960a6f46987f42e38ccb4785a74"}]
