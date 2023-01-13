@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,1 +147,1 @@\n-(__attribute__((always_inline)) []() {                  \\\n+([]() __attribute__((always_inline)) {                  \\\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions_gcc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
