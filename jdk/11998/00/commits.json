@@ -1,0 +1,1 @@
+[{"commit":{"message":"8286581: Make Java process DPI Aware if sun.java2d.dpiaware property is set"},"files":[{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Win32GraphicsEnv.cpp"}],"sha":"96c6157085376a018dfa1c58f029b6c0a7dcd929"}]
