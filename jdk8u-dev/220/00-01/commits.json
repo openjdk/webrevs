@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use explicit intermediary variables to avoid overflow on 32bit\n\nThanks Severin Gehwolf for spotting and correcting."},"files":[{"filename":"jdk\/src\/linux\/native\/jdk\/internal\/platform\/cgroupv1\/CgroupMetrics.c"}],"sha":"4146ef2de4362bbd6ed92fe0b2284ab185162d54"}]
