@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change @ throws to account for external subclassing of TimeZone"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/SimpleTimeZone.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/TimeZone.java"}],"sha":"a8059d50083ad2f8718b943f744fd99832af9b69"}]
