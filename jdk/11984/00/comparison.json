@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -840,0 +840,3 @@\n+        if (font == null) {\n+            font = tabPane.getFont();\n+        }\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/synth\/SynthTabbedPaneUI.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
