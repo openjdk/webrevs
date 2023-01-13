@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert offset_of change, use alignas, and force lambda inline\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions_gcc.hpp"}],"sha":"3f46a86bc0fc3d6cbdbf0e1e41c78ecba140bc7d"}]
