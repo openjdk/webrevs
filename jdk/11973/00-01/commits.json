@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid sharing stdin handle"},"files":[{"filename":"src\/java.base\/windows\/native\/libjava\/Console_md.c"},{"filename":"src\/java.base\/windows\/native\/libjava\/JdkConsoleImpl_md.c"}],"sha":"7b8e41dbd2a9c2a2637c042afc4bb79424d8e0e9"}]
