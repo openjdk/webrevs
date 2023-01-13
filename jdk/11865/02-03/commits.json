@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove addressof as nobody should be overloading operator&\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/utilities\/bitCast.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_bitCast.cpp"}],"sha":"ccb8f2803ca25a73106640ca4cc3f23eeccfc043"}]
