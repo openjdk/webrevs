@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the assertions for FP and ASIMD features\n\nAs suggested by gerard-ziemski, FP and ASIMD features don't need to be\nchecked according to Apple developer document."},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/vm_version_bsd_aarch64.cpp"}],"sha":"2b8a6429a8fa132b4b84bcf9917b1ce76d599cd9"}]
