@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace use of weak algorithms SHA-1 and SHA1withDSA in JarSigner javadoc with SHA-256 and SHA256withRSA. Update to use @snippet syntax."},"files":[{"filename":"src\/jdk.jartool\/share\/classes\/jdk\/security\/jarsigner\/JarSigner.java"}],"sha":"b288d1fdf4835d38d92fab63fcf91c7037f685f8"}]
