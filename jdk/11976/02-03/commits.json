@@ -1,0 +1,1 @@
+[{"commit":{"message":"To ensure that the \"unrelated signature files\" code path of JarVerifier is actually being exercised by our tests, add unrelated signature files also at the beginning of the test JAR"},"files":[{"filename":"test\/jdk\/java\/util\/jar\/JarFile\/VerifyUnrelatedSignatureFiles.java"}],"sha":"f264547a667f4aa9aed82ac339bd2622b7174f24"}]
