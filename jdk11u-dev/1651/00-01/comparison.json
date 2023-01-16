@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -152,0 +152,3 @@\n+                } else {\n+                    \/\/ regular domain name\n+                    hoststr = toLowerCase(hoststr);\n","filename":"src\/java.base\/share\/classes\/java\/net\/HostPortrange.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
