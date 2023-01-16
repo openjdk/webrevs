@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,1 +169,1 @@\n-  assert(_initialized && PdhExpandWildCardPath != NULL, \"PdhAvailable() not yet called\");\n+  assert(_initialized && _PdhExpandWildCardPath != NULL, \"PdhAvailable() not yet called\");\n","filename":"src\/hotspot\/os\/windows\/pdh_interface.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
