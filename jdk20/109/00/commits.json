@@ -1,0 +1,1 @@
+[{"commit":{"message":"8300195: Fall-through issue occurs when using record pattern in switch statements"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/PatternDesugaring.java"}],"sha":"4f7b2fa3214287d18b5567d211511ae33a8ae963"}]
