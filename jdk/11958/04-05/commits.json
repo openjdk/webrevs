@@ -1,0 +1,1 @@
+[{"commit":{"message":"move register noops size into destructor"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/share\/asm\/assembler.hpp"}],"sha":"e6ae63f031bd06538424fe8d1af5cadf3ca23dd0"}]
