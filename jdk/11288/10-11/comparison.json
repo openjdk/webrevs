@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1260,1 +1260,1 @@\n-  \/\/\n+  \/\/ Always return true so the iteration continues.\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
