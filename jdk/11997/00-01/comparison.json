@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,5 @@\n-import java.util.*;\n+import java.util.Collections;\n+import java.util.Date;\n+import java.util.Enumeration;\n+import java.util.Locale;\n+import java.util.Map;\n","filename":"test\/jdk\/jdk\/security\/jarsigner\/JarWithOneNonDisabledDigestAlg.java","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
