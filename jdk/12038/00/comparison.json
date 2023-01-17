@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -584,0 +584,8 @@\n+  inline void get_nzcv(Register reg) {\n+    mrs(0b011, 0b0100, 0b0010, 0b000, reg);\n+  }\n+\n+  inline void set_nzcv(Register reg) {\n+    msr(0b011, 0b0100, 0b0010, 0b000, reg);\n+  }\n+\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
