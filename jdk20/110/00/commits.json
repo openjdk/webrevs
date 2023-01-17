@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix bug in MemorySessionImpl::isAccessibleBy"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/MemorySessionImpl.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegments.java"}],"sha":"46f5abeef22d4c8e0c6b901fb3392a334409583b"}]
