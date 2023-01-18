@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -191,1 +191,0 @@\n-FORBID_C_FUNCTION(int sprintf(char*, const char*, ...), \"use os::snprintf\");\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
