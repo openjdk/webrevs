@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1986,1 +1986,1 @@\n-  product(bool, UseFastLocking, true, EXPERIMENTAL,                        \\\n+  product(bool, UseFastLocking, false, EXPERIMENTAL,                        \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
