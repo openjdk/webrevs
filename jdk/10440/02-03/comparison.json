@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -359,1 +359,1 @@\n-            && Objects.equals(this.edges, i.edges);    \n+            && Objects.equals(this.edges, i.edges);\n","filename":"src\/utils\/IdealGraphVisualizer\/Data\/src\/main\/java\/com\/sun\/hotspot\/igv\/data\/InputGraph.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
