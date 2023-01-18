@@ -1,0 +1,1 @@
+[{"commit":{"message":"8300489: Use ArraysSupport.vectorizedHashCode in j.l.CharacterName"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/CharacterName.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/Characters.java"}],"sha":"df21d0248b1d9f25ff2de137bca62a92ef1d2695"}]
