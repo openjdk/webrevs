@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,1 +240,3 @@\n-      process_popped_location_depth(task);\n+      if (!tq->try_push_to_taskqueue(task)) {\n+        process_popped_location_depth(task);\n+      }\n","filename":"src\/hotspot\/share\/gc\/parallel\/psPromotionManager.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
