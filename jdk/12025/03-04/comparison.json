@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6752,1 +6752,1 @@\n-                .max(Comparator.comparing(MethodType::parameterCount))\n+                .max(Comparator.comparingInt(MethodType::parameterCount))\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandles.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
