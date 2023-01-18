@@ -1,0 +1,1 @@
+[{"commit":{"message":"8300247: Harden C1 xchg on AArch64 and PPC"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/c1_LIRAssembler_ppc.cpp"}],"sha":"b361fe26fd79a4437a9302537f5271ca034e2f1a"}]
