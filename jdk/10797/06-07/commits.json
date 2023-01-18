@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify code a bit by using Map.computeIfAbsent()."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"}],"sha":"53be679b5359304ff32956e119b1db79fb0892d3"}]
