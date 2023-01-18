@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve test coverage of SignatureFileVerifier.isSigningRelated by adding META-INF\/unrelated.txt and META-INF\/SIG- files with invalid as well as no file extension"},"files":[{"filename":"test\/jdk\/java\/util\/jar\/JarFile\/IgnoreUnrelatedSignatureFiles.java"}],"sha":"cf93bfc17789e103b0d091be5395acdb3c777626"}]
