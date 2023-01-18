@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use AVX2 code for CRC32C for small buffers in the AVX-512 path."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"7ec6a8ea6f39c0f8544ddc0d2c8345317ffa23a5"}]
