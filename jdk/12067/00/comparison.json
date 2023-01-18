@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1116,1 +1116,1 @@\n-    CATCH_BAD_ALLOC(NULL);\n+    CATCH_BAD_ALLOC;\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_TrayIcon.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
