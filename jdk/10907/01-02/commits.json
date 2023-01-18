@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change log message inflate(locked) -> inflate(has_locker)"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"c35e5a3459332a236c9bf1680b94d5c840c842ec"}]
