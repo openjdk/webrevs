@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-      ConstantValue() : _obj(NULL), _off(0), _value(ciConstant()) { }\n+      ConstantValue() : _obj(nullptr), _off(0), _value(ciConstant()) { }\n","filename":"src\/hotspot\/share\/ci\/ciObject.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
