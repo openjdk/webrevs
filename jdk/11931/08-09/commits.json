@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not pass nullptr to os::release_memory\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"}],"sha":"de7d3ab6a615b97bb9f53f1b95987774f168203b"}]
