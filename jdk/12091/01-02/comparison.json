@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1063,1 +1063,1 @@\n-  const size_t page_size = os::vm_page_size();\n+  const int page_size = (int)os::vm_page_size();\n","filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
