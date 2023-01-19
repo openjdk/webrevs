@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify ChunkManager::attempt_enlarge_chunk logic\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace\/chunkManager.cpp"}],"sha":"5f5aebd34012d9bf5e174b8932f2bd265079e7b1"}]
