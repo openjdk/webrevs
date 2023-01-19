@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not rely on gdk_threads_add_idle_full to end drag as it might lead to inconsistent behaviour."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_dnd.cpp"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_dnd.h"}],"sha":"a6ca895285c02b6ca23ffec0417d2fec8b40e208"}]
