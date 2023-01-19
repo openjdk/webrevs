@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297757: Re-examine assumption in VarHandles.getStaticFieldFromBaseAndOffset that base is a Class object"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/VarHandles.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/X-VarHandle.java.template"}],"sha":"d1e1f9f0bf337be43779e59d1d2ea3d0aaa97fc8"}]
