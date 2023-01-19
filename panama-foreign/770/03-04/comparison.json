@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,0 +37,3 @@\n+#\n+# Note that the libtool and texinfo packages are needed to build libffi\n+# $ sudo apt install libtool texinfo\n","filename":"make\/devkit\/createLibffiBundle.sh","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
