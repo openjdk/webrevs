@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert ZipFileSystem changes since it's additionally built as a library dependency and can't rely on jdk.internal"},"files":[{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"}],"sha":"b1507e697763b9f20a18a30f3758cbe24c4a8f04"}]
