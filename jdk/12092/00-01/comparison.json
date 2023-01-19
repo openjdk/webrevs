@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n- *                   -Xcomp -XX:+TraceLoopOpts\n+ *                   -XX:+IgnoreUnrecognizedVMOptions -Xcomp -XX:+TraceLoopOpts\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestCMoveLimitType.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
