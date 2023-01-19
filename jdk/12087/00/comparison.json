@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -460,1 +460,1 @@\n-            int height = 22;\n+            int height = comboBox.getBorder() == null ? 22 : comboBox.getHeight();\n","filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaComboBoxUI.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
