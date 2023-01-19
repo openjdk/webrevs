@@ -1,0 +1,1 @@
+[{"commit":{"message":"8151413: os::allocation_granularity\/page_size and friends return signed values"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/share\/runtime\/osInfo.hpp"}],"sha":"74c859b7162add46d3033bb29eb887f5bd187c1a"}]
