@@ -1,0 +1,1 @@
+[{"commit":{"message":"changed return type of NativeCall::trampoline_jump to void"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/nativeInst_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/nativeInst_aarch64.hpp"}],"sha":"8e85e3d630a85e846806a21c4f9aabad6d811c5e"}]
