@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix Bytes::swap implementation to only swap on little endian\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/utilities\/bytes.hpp"}],"sha":"6d20e943201894ffd30af839a8511294c81a6fc0"}]
