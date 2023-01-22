@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -17,1 +17,1 @@\n- org.hamcrest;bundle-version=\"2.1.0\",\n+ org.hamcrest;bundle-version=\"2.1\",\n","filename":"application\/tests\/org.openjdk.jmc.kubernetes.test\/META-INF\/MANIFEST.MF","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
