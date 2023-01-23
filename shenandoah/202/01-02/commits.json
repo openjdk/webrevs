@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check shenandoah generational is enabled.\n\nOnly round up for the card table alignment when generational mode is\nenabled."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp"}],"sha":"cd1fea849f0c6d9c3a79809076139dec1a9958e7"}]
