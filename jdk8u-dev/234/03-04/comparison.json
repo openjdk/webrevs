@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n- * @run main\/othervm -Xlog:jfr jdk.jfr.api.recording.dump.TestDumpDevNull\n+ * @run main\/othervm jdk.jfr.api.recording.dump.TestDumpDevNull\n","filename":"jdk\/test\/jdk\/jfr\/api\/recording\/dump\/TestDumpDevNull.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

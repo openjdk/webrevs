@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed jdk8 incompatible -Xlog:jfr\n\nit do not affect tests behavior"},"files":[{"filename":"jdk\/test\/jdk\/jfr\/api\/recording\/dump\/TestDumpDevNull.java"}],"sha":"39d3b2460a0646a253c3a51de526901e41b12e75"}]
