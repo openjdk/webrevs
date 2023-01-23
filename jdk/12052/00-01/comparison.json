@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,1 +114,1 @@\n-    $$(eval $$(BUILD_TEST_$$(name)_BUILD_INFO) :| $$($1_BUILD_INFO)) \\\n+    $$(eval $$(BUILD_TEST_$$(name)_BUILD_INFO): | $$($1_BUILD_INFO)) \\\n","filename":"make\/common\/TestFilesCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
