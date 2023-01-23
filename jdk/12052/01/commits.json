@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix formatting"},"files":[{"filename":"make\/common\/TestFilesCompilation.gmk"}],"sha":"513d53688476f375b04f1158646c6adb3ae74990"},{"commit":{"message":"JDK-8146132"},"files":[{"filename":"make\/common\/NativeCompilation.gmk"},{"filename":"make\/common\/TestFilesCompilation.gmk"}],"sha":"f388ecc9718a29e09fdf387d5d14eb66dd73bb61"}]
