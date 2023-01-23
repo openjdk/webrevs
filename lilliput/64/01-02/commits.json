@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix\/revert Shenandoah forwarding protocol to not use INFLATING 2-step"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahForwarding.inline.hpp"}],"sha":"45e13179c795b274e69a802f7b6f2dd3ed6f1fc9"}]
