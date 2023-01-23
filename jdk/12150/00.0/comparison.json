@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-.TH \"JAVAC\" \"1\" \"2023\" \"JDK 20-ea\" \"JDK Commands\"\n+.TH \"JAVAC\" \"1\" \"2023\" \"JDK 20\" \"JDK Commands\"\n@@ -437,0 +437,1 @@\n+This option is deprecated and may be removed in a future release.\n","filename":"src\/jdk.compiler\/share\/man\/javac.1","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
