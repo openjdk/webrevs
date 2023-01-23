@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -589,3 +589,0 @@\n-     * @throws ArrayStoreException if this list is backed by an array and\n-     *         the class of the specified element prevents it from being \n-     *         stored to the array\n","filename":"src\/java.base\/share\/classes\/java\/util\/List.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
