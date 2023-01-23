@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove methods with implicit zero offset"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/DataInputStream.java"},{"filename":"src\/java.base\/share\/classes\/java\/io\/DataOutputStream.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/ByteArray.java"}],"sha":"a13b3603f8eae5430cdc8dd9d6a6912be2b9da2c"}]
