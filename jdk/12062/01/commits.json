@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into 8291569-signals"},"files":[],"sha":"1a6ac606cd430d86acede05e9caeaddec57c50d0"},{"commit":{"message":"8291569: Consider removing JNI checks for signals SIGPIPE and SIGXFSZ"},"files":[{"filename":"src\/hotspot\/os\/posix\/signals_posix.cpp"}],"sha":"b5442e7d8e995d93317a3b9bc9c36ecac88d3d96"}]
