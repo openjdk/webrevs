@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -464,1 +464,1 @@\n-    const intptr_t *slot = fr.sp() + continuation;\n+    const intptr_t *slot = fr.sp() + i;\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
