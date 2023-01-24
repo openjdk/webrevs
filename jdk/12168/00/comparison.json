@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+#include \"oops\/access.inline.hpp\"\n@@ -57,1 +58,1 @@\n-    if (Atomic::load(p) == NULL) {\n+    if (NativeAccess<ON_PHANTOM_OOP_REF | AS_NO_KEEPALIVE>::oop_load(p) == nullptr) {\n","filename":"src\/hotspot\/share\/gc\/shared\/oopStorageSetParState.inline.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
