@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3620,1 +3620,1 @@\n-    if (ch & 0x80000000) {\n+    if (ch & 0x80000000 && ch != 0x800000A8) {\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Component.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
