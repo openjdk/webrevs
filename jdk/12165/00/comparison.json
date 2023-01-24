@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,0 +79,1 @@\n+#ifdef _LP64\n@@ -81,0 +82,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/services\/memReporter.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
