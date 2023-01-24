@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -766,1 +766,1 @@\n-        var accessLevel = request.get(\"members\/\" + user.id())\n+        var accessLevel = request.get(\"members\/all\/\" + user.id())\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/gitlab\/GitLabRepository.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
