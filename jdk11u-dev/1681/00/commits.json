@@ -1,0 +1,1 @@
+[{"commit":{"message":"8208077: File.listRoots performance degradation\n\nReviewed-by: lancea, bpb\n(cherry picked from commit 5b0af1a80bb4d2a81cda7e26a6ad0db43e679519)"},"files":[{"filename":"src\/java.base\/windows\/classes\/java\/io\/WinNTFileSystem.java"},{"filename":"test\/jdk\/java\/io\/File\/ListRoots.java"}],"sha":"57bd3b0474c594c467bba21858e131034a8d7c32"}]
