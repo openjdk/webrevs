@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -891,1 +891,1 @@\n-      do_stub(opLoadKlass->stub());\n+      do_stub(opLoadKlass->_stub);\n","filename":"src\/hotspot\/share\/c1\/c1_LIR.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
