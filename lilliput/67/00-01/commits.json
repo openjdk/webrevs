@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use address size instead of long size to read the mark word"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/debugger\/DebuggerBase.java"}],"sha":"5acc5e68a261b3c16cde6e82dccfebc8cc0c48d3"}]

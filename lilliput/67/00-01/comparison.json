@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -401,1 +401,1 @@\n-    long value = readCInteger(address, getJLongSize(), true);\n+    long value = readCInteger(address, machDesc.getAddressSize(), true);\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/debugger\/DebuggerBase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
