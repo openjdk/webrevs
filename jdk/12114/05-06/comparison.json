@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -261,1 +261,1 @@\n-    return y;\n+    return static_cast<T>(y);\n@@ -274,1 +274,1 @@\n-    return y;\n+    return static_cast<T>(y);\n@@ -291,1 +291,1 @@\n-    return y;\n+    return static_cast<T>(y);\n","filename":"src\/hotspot\/share\/utilities\/byteswap.hpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
