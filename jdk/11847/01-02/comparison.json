@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -174,1 +174,1 @@\n-            return (List<E>)List.of(coll.toArray()); \/\/ implicit nullcheck of coll\n+            return (List<E>)List.of(coll.toArray());\n","filename":"src\/java.base\/share\/classes\/java\/util\/ImmutableCollections.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
