@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,4 @@\n-    const char* end = strchrnul(_p, ':');\n+    const char* end = strchr(_p, ':');\n+    if (end == nullptr) {\n+      end = _end;\n+    }\n","filename":"src\/hotspot\/share\/services\/mallocLimit.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
