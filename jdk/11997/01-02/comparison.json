@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,1 +168,1 @@\n-                try(InputStream is = jf.getInputStream(entry)) {\n+                try (InputStream is = jf.getInputStream(entry)) {\n","filename":"test\/jdk\/jdk\/security\/jarsigner\/JarWithOneNonDisabledDigestAlg.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
