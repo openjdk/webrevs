@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,1 +97,1 @@\n-    write<u1>(nullptr_STRING);\n+    write<u1>(NULL_STRING);\n@@ -220,1 +220,1 @@\n-    write<u1>(nullptr_STRING);\n+    write<u1>(NULL_STRING);\n","filename":"src\/hotspot\/share\/jfr\/writers\/jfrWriterHost.inline.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
