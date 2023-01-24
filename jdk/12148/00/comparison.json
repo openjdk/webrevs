@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3625,1 +3625,1 @@\n-    if (n->Opcode() == Op_Phi) {\n+    if ((n->Opcode() == Op_Phi) && (n->outcnt() > 0)) {\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
