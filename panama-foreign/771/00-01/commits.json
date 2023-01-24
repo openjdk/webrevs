@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add negative trivial upcall test"},"files":[{"filename":"src\/hotspot\/share\/prims\/upcallLinker.cpp"},{"filename":"test\/jdk\/java\/foreign\/UpcallTestHelper.java"},{"filename":"test\/jdk\/java\/foreign\/trivial\/TestTrivialUpcall.java"},{"filename":"test\/jdk\/java\/foreign\/trivial\/libTrivial.c"}],"sha":"f397cf20a88b74e3f47d029e51396f2251201d66"}]
