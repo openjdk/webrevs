@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -633,1 +633,1 @@\n-    private static volatile Charset defaultCharset;\n+    private static Charset defaultCharset;\n","filename":"src\/java.base\/share\/classes\/java\/nio\/charset\/Charset.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
