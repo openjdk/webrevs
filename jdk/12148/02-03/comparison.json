@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3621,1 +3621,1 @@\n-  \/\/ Ensure only one phi which is the iv.\n+  \/\/ Ensure at most one used phi exists, which is the iv.\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
