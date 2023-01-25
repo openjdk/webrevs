@@ -1,0 +1,1 @@
+[{"commit":{"message":"8301025: ClassCastException in switch with generic record"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/T8301025.java"}],"sha":"c5600c9ca825c53b74f01a5a3e9066681e66dbb2"}]
