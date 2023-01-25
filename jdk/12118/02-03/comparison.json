@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,4 @@\n-    sysinfo(&si);\n+    int retval = sysinfo(&si);\n+    if (retval < 0) {\n+         return 0; \/\/ syinfo failed, treat as no swap\n+    }\n","filename":"src\/java.base\/linux\/native\/libjava\/CgroupMetrics.c","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
