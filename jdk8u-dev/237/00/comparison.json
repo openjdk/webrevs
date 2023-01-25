@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8152981\n+ * @bug 8152981 8159135\n@@ -92,1 +92,1 @@\n-        if (c.getRed() == 255) {\n+        if (Color.RED.equals(c)) {\n","filename":"jdk\/test\/javax\/swing\/JMenuItem\/8152981\/MenuItemIconTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
