@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,0 +105,2 @@\n+            robot.mouseMove(0, 0);\n+            robot.waitForIdle();\n","filename":"test\/jdk\/javax\/swing\/JComponent\/7154030\/bug7154030.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
