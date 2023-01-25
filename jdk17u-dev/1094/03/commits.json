@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293691: converting a defined BasicType value to a string should not crash the VM\n\nReviewed-by: shade, coleenp, dlong"},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.cpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"9b3da37de66bc8b988e2eae42b16ff34a785d5b8"}]
