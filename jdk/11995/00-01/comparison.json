@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-  \/\/ no allocation in from-space (eden\/from)\n+  \/\/ No allocation in eden and from spaces, so no iteration required.\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
