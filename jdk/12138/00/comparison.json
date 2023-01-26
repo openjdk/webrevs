@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,0 +51,3 @@\n+#ifdef AIX\n+#include \"loadlib_aix.hpp\"\n+#endif\n@@ -750,0 +753,2 @@\n+  \/\/ Update the dll cache\n+  AIX_ONLY(LoadedLibraries::reload());\n","filename":"src\/hotspot\/os\/posix\/os_posix.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
