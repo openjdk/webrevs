@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the TEST 8300742: jstat's CGCT is 5 percent higher than the pause time in -Xlog:gc"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/cms\/TestJStatCMS.java"}],"sha":"c1f78569d43238aaf4513906d400c08df841756b"}]
