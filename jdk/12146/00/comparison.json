@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -288,1 +288,1 @@\n-  elif test \"x$TAR_TYPE\" = \"aix\"; then\n+  elif test \"x$TAR_TYPE\" = \"xaix\"; then\n","filename":"make\/autoconf\/basic_tools.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
