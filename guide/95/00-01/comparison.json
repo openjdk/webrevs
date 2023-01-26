@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-### Sensitive information (hs_err.log)\n+### Sensitive information (e.g. hs_err.log)\n","filename":"src\/guide\/jbs-jdk-bug-system.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
