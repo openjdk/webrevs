@@ -1,0 +1,1 @@
+[{"commit":{"message":"8217920: Lookup.defineClass injects a class that can access private members of any class in its own module"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Module.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandles.java"}],"sha":"a1d093256a062b34a0ae88f26718025a56ccd3dc"}]
