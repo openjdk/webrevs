@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2403,1 +2403,1 @@\n-      if (storeSize < maxStore || (finalOffset & ((maxStore >> 1) - 1) == 0)) {\n+      if (storeSize < maxStore || ((finalOffset & ((maxStore >> 1) - 1)) == 0)) {\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
