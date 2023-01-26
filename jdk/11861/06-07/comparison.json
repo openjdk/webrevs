@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,0 @@\n-      int _off;\n@@ -67,0 +66,1 @@\n+      int _off;\n@@ -69,1 +69,1 @@\n-      ConstantValue() : _off(0), _value(ciConstant()) { }\n+      ConstantValue() : _value(ciConstant(), _off(0)) { }\n","filename":"src\/hotspot\/share\/ci\/ciObject.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
