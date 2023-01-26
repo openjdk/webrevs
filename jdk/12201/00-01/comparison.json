@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -257,0 +257,2 @@\n+  assert_at_safepoint();\n+\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
