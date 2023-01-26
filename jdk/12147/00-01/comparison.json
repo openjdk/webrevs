@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -369,1 +369,0 @@\n-        int[] bandOffsets = new int[bands];\n@@ -373,0 +372,1 @@\n+        int[] bandOffsets = new int[bands]; \/\/ leave default 0 values\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/Raster.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

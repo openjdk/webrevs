@@ -1,0 +1,1 @@
+[{"commit":{"message":"8300929: Avoid unnecessary array fill after creation in java.awt.image\n\nadd clarifying comment for the 'bandOffsets'"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/Raster.java"}],"sha":"059b01f700b8328aef244d94509d0f6ea662edf8"}]
