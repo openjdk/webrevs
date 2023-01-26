@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -543,0 +543,1 @@\n+    tmp->flush();\n@@ -613,0 +614,1 @@\n+  tmp->flush();\n","filename":"src\/hotspot\/share\/interpreter\/oopMapCache.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
