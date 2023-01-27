@@ -1,0 +1,1 @@
+[{"commit":{"message":"8300295: [AIX] TestDaemonDestroy fails due to !is_primordial_thread assertion"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/jni\/daemonDestroy\/exedaemonDestroy.c"}],"sha":"8f6375d2340e99c57a84f147154c5926ef224500"}]
