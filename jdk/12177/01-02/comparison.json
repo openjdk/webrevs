@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2393,2 +2393,1 @@\n-  assert(Rd != noreg, \"expecting a register\");\n-  assert_different_registers(Rd, base);\n+  assert_different_registers(Rd, base, noreg);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
