@@ -1,0 +1,1 @@
+[{"commit":{"message":"8301246: NPE in FcFontManager.getDefaultPlatformFont() on Linux without installed fontconfig"},"files":[{"filename":"jdk\/src\/solaris\/classes\/sun\/awt\/FcFontManager.java"}],"sha":"142746ce53ad82738fa317bf58bc1f891563acaa"}]
