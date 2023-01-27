@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1000,1 +1000,1 @@\n-        guarantee(dels < static_cast<size_t>(std::numeric_limits<int>::max()),\n+        guarantee(dels < INT_MAX,\n","filename":"src\/hotspot\/share\/utilities\/concurrentHashTable.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
