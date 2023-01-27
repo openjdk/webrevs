@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid overflow on 32 bit builds. Check double-word alignment in C2 new-array runtime"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/jvmFlagConstraintsGC.cpp"},{"filename":"src\/hotspot\/share\/opto\/runtime.cpp"}],"sha":"f31995e38c2e6146a63a763f80cb506b84780fb6"}]
