@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-    static final int COMPILATION_TIMEOUT = (int)(5_000 * timeoutFactor); \/\/ ms\n+    static int COMPILATION_TIMEOUT = (int)(5_000 * timeoutFactor); \/\/ ms\n","filename":"test\/jdk\/jdk\/internal\/vm\/Continuation\/Fuzz.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
