@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-        if(confFile == null){\n+        if (confFile == null) {\n","filename":"bots\/common\/src\/main\/java\/org\/openjdk\/skara\/bots\/common\/BotUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
