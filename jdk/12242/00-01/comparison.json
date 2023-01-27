@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -820,1 +820,1 @@\n-            x = __HI(x, hx);\n+            x = __HI(x, hx); \/\/ replace high word of x with hx\n","filename":"src\/java.base\/share\/classes\/java\/lang\/FdLibm.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
