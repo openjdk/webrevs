@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -700,2 +700,2 @@\n-     * \n-     * @param  noShare \n+     *\n+     * @param  noShare\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
