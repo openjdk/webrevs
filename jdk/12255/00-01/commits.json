@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename to PRAGMA for gcc"},"files":[{"filename":"src\/hotspot\/share\/utilities\/compilerWarnings_gcc.hpp"}],"sha":"2e5e6a8f3f5a56d30e32abfcb577527195096634"},{"commit":{"message":"Revert macros.hpp"},"files":[{"filename":"src\/hotspot\/share\/utilities\/macros.hpp"}],"sha":"e4958cbd32f4b243edb3f20d9224ca658ff95ef2"}]
