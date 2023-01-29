@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -712,1 +712,1 @@\n-\t  if (ctbm[h_index] == CardTable::dirty_card_val()) {\n+          if (ctbm[h_index] == CardTable::dirty_card_val()) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
