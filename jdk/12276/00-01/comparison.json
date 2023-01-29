@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8866,1 +8866,1 @@\n-        return array;\n+        return result;\n","filename":"src\/java.base\/share\/classes\/java\/util\/Arrays.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
