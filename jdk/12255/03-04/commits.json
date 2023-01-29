@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove VISCPP PRAGMA"},"files":[{"filename":"src\/hotspot\/share\/utilities\/compilerWarnings_visCPP.hpp"}],"sha":"dae01b078ccda6e0263ffbc291862121b59836d5"},{"commit":{"message":"Remove PRAGMA"},"files":[{"filename":"src\/hotspot\/share\/utilities\/compilerWarnings_gcc.hpp"}],"sha":"f2828a3c69316c98a82089c43fa8b09f9ed0a370"}]
