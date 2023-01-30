@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge jdk:master into native-store-barrier"},"files":[],"sha":"83a178eb1f0d7daa27911fc8663a7220e14c2333"},{"commit":{"message":"8299324: inline_native_setCurrentThread lacks GC barrier for Shenandoah"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahBarrierSetC2.cpp"}],"sha":"674fcc244c13176e33ab3a7009a48dbffcd1e3de"}]
