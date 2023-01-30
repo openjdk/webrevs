@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287741: Fix of JDK-8287107 (unused cgv1 freezer controller) was incomplete\n\nBackport-of: 8d28734ede0ed3922c92451a172d1fa676e484e9"},"files":[{"filename":"hotspot\/src\/os\/linux\/vm\/cgroupSubsystem_linux.cpp"}],"sha":"5699f2fce2cff73faf86ee39710a92fd625c217f"}]
