@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -369,1 +369,1 @@\n-                if (!IOException.class.isAssignableFrom(cause.getClass())) {\n+                if (!IOException.class.isInstance(cause)) {\n","filename":"test\/jdk\/java\/net\/httpclient\/CancelRequestTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
