@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,2 @@\n+#ifdef __has_builtin\n+#if __has_builtin(__builtin_debugtrap)\n@@ -37,0 +39,6 @@\n+#endif\n+#endif\n+\n+#ifndef BREAKPOINT\n+#define BREAKPOINT __builtin_trap()\n+#endif\n","filename":"src\/hotspot\/share\/utilities\/breakpoint.hpp","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
