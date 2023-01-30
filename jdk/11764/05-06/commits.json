@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed commented check, now always run verify_regions_in_irreducible_loops. Moved _loop_status around"},"files":[{"filename":"src\/hotspot\/share\/opto\/cfgnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"}],"sha":"be2fe06752cfdff5d3cf53c0b9f1d9b1d594cc5a"}]
