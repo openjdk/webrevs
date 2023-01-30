@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2400,1 +2400,1 @@\n-  __ call_VM(noreg, CAST_FROM_FN_PTR(address, breakpoint), false);\n+  __ call_VM(noreg, CAST_FROM_FN_PTR(address, os::breakpoint), false);\n","filename":"src\/hotspot\/cpu\/s390\/templateInterpreterGenerator_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
