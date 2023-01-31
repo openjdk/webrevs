@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -312,0 +312,1 @@\n+\n@@ -552,0 +553,1 @@\n+        setState(StateValue.DONE);\n@@ -566,1 +568,1 @@\n-        return future.isDone();\n+        return future.isDone() && state == StateValue.DONE;\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/SwingWorker.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
