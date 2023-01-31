@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed windows and 32-bit builds which do not support archive heap"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"664fb92228c73d30a84f8a395c4ce2fc2e480385"}]

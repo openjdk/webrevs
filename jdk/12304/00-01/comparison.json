@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -331,0 +331,1 @@\n+#if INCLUDE_CDS_JAVA_HEAP\n@@ -339,0 +340,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
