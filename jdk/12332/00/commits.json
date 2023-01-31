@@ -1,0 +1,1 @@
+[{"commit":{"message":" Replace NULL with nullptr in os_cpu\/bsd_zero"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_zero\/javaThread_bsd_zero.hpp"},{"filename":"src\/hotspot\/os_cpu\/bsd_zero\/os_bsd_zero.cpp"}],"sha":"c13ca3359c5f7f479ffe93becb27d28511ae6dd3"}]
