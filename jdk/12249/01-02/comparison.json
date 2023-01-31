@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-  \/\/ postcondition: result == null or *result == nullptr.\n+  \/\/ postcondition: result == nullptr or *result == nullptr.\n","filename":"src\/hotspot\/share\/gc\/shared\/oopStorage.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
