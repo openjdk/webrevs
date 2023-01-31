@@ -1,0 +1,1 @@
+[{"commit":{"message":" Replace NULL with nullptr in os_cpu\/linux_zero"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_zero\/javaThread_linux_zero.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_zero\/javaThread_linux_zero.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_zero\/os_linux_zero.cpp"}],"sha":"86bd47709a9ee6fd76c6292aedf6a451d80ef611"}]
