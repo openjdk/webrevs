@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,3 +109,0 @@\n-\n-  \/\/ Cannot currently support stack-locking with Lilliput and ZGC.\n-  FLAG_SET_DEFAULT(UseHeavyMonitors, true);\n","filename":"src\/hotspot\/share\/gc\/z\/zArguments.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
