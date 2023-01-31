@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,0 @@\n-  friend class constantPoolCacheKlass;\n@@ -477,1 +476,0 @@\n-  friend class constantPoolCacheKlass;\n","filename":"src\/hotspot\/share\/oops\/cpCache.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
