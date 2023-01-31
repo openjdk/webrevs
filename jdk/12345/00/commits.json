@@ -1,0 +1,1 @@
+[{"commit":{"message":"Redo removal of virtual methods in CodeHeap\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/memory\/heap.hpp"},{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/code\/CodeCache.java"}],"sha":"a431e92d6177a705d9e6c1c2b54a154dd6dd4a3c"}]
