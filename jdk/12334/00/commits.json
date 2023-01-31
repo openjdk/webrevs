@@ -1,0 +1,1 @@
+[{"commit":{"message":" Replace NULL with nullptr in os_cpu\/linux_arm"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_arm\/javaThread_linux_arm.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_arm\/javaThread_linux_arm.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_arm\/os_linux_arm.cpp"}],"sha":"d5367a53bbf09448c9c07c17277a09e82134fee7"}]
