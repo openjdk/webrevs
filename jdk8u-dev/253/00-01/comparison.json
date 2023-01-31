@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n- * Enum for SSL\/(D)TLS cipher suites\n+ * Enum for SSL\/TLS cipher suites.\n","filename":"jdk\/src\/share\/classes\/sun\/security\/ssl\/CipherSuite.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
