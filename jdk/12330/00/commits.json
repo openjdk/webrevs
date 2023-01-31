@@ -1,0 +1,1 @@
+[{"commit":{"message":" Replace NULL with nullptr in os_cpu\/bsd_aarch64"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/javaThread_bsd_aarch64.cpp"},{"filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/os_bsd_aarch64.cpp"},{"filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/vm_version_bsd_aarch64.cpp"}],"sha":"ecbc50fbfd39f8c640b3f47cdc3f6cc9bddbbddc"}]
