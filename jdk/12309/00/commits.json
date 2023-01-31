@@ -1,0 +1,1 @@
+[{"commit":{"message":"8301371: Interpreter store barriers on x86_64 don't have disjoint temp registers"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/templateTable_x86.cpp"}],"sha":"c7c18f15fcad20c8b0cd8f167bfaba68c75fa060"}]
