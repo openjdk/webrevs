@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8301378: CodeHeap has virtual methods that are not overridden\"\n\nThis reverts commit a6867a7ec28ff1eac73a959af481a3a725c8dadd."},"files":[{"filename":"src\/hotspot\/share\/memory\/heap.hpp"}],"sha":"37afa47ed20bed10272a8c1943ef3d52ad6f3573"}]
