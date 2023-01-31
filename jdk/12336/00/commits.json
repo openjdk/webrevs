@@ -1,0 +1,1 @@
+[{"commit":{"message":" Replace NULL with nullptr in os_cpu\/linux_riscv"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/javaThread_linux_riscv.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/os_linux_riscv.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp"}],"sha":"3aa1cc1eb905277017114245e5646491803a17e0"}]
