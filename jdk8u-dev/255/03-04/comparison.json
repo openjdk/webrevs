@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,2 @@\n+import jdk.test.lib.Platform;\n+\n@@ -41,1 +43,1 @@\n-        if (jdk.testlibrary.Platform.isWindows()) {\n+        if (Platform.isWindows()) {\n","filename":"jdk\/test\/jdk\/jfr\/api\/recording\/dump\/TestDumpDevNull.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
