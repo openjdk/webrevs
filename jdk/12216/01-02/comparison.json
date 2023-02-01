@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-  int lgrp_limit = (int)os::numa_get_groups_num();\n+  size_t lgrp_limit = os::numa_get_groups_num();\n","filename":"src\/hotspot\/share\/gc\/parallel\/mutableNUMASpace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
