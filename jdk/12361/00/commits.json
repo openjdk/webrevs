@@ -1,0 +1,1 @@
+[{"commit":{"message":"8301580: Error recovery does not clear returnResult"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/jdk\/jshell\/SnippetHighlightTest.java"},{"filename":"test\/langtools\/tools\/javac\/recovery\/AttrRecovery.java"}],"sha":"4acb0d43da6d3b8887ce1d8971cd3df71f0e2bf2"}]
