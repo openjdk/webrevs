@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,2 +131,2 @@\n-   pthread_create (&id,&attr,run,(void *)&args);\n-   pthread_join(id,NULL);\n+   pthread_create(&id, &attr, run, (void *)&args);\n+   pthread_join(id, NULL);\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/daemonDestroy\/exedaemonDestroy.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
