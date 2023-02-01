@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8298880: VectorLogicalOpIdentityTest.java IR test incorrectly use avx3 instead of avx512"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorLogicalOpIdentityTest.java"}],"sha":"1bb8cbcb535adf4179afe7ff279fae65d1f53f6e"}]
