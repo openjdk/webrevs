@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1233,1 +1233,1 @@\n-    OopLoadProxy(P* addr) : _addr(addr) {}\n+    explicit OopLoadProxy(P* addr) : _addr(addr) {}\n","filename":"src\/hotspot\/share\/oops\/accessBackend.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
