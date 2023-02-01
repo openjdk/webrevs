@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,2 +128,0 @@\n-   pthread_attr_setdetachstate(&attr, PTHREAD_CREATE_JOINABLE);\n-   pthread_attr_setguardsize(&attr, 0);\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/daemonDestroy\/exedaemonDestroy.c","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}

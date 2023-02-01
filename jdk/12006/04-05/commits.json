@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed the fuctions pthread_attr_setdetachstate and pthread_attr_setguardsize"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/jni\/daemonDestroy\/exedaemonDestroy.c"}],"sha":"45b39d126fcc2aea8121a850d37ee6160f027609"}]
