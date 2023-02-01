@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -934,1 +934,1 @@\n-                return x+x;\n+                return x + x;\n@@ -982,1 +982,1 @@\n-                return f-(hfsq-s*(hfsq+R));\n+                return f - (hfsq - s*(hfsq + R));\n","filename":"src\/java.base\/share\/classes\/java\/lang\/FdLibm.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
