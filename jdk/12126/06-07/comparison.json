@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2402,1 +2402,1 @@\n-    __ cmpl(length, 128);     \/\/ 128-bytes is break-even for AVX-512\n+    __ cmpl(length, 31);     \/\/ 32-bytes is break-even for AVX-512\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
