@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,0 +130,4 @@\n+   if (result != 0) {\n+     fprintf(stderr, \"Error: pthread_create failed with error code %d \\n\", result);\n+     return -1;\n+   }      \n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/daemonDestroy\/exedaemonDestroy.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
