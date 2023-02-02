@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -541,0 +541,3 @@\n+        case WM_MENUCHAR:\n+            \/\/ Stop the beep when missing mnemonic or accelerator key JDK-8089986\n+            return MNC_CLOSE << 16;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/GlassWindow.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
