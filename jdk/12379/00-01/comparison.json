@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7315,1 +7315,1 @@\n-instruct isIniniteF_reg_reg(iRegINoSp dst, fRegF src)\n+instruct isInfiniteF_reg_reg(iRegINoSp dst, fRegF src)\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
