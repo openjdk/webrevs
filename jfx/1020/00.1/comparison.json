@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-jfx.release.major.version=20\n+jfx.release.major.version=21\n@@ -59,2 +59,2 @@\n-javadoc.title=JavaFX 20\n-javadoc.header=JavaFX&nbsp;20\n+javadoc.title=JavaFX 21\n+javadoc.header=JavaFX&nbsp;21\n","filename":"build.properties","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
