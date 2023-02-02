@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8301704: Shorten the number of GCs in UnloadingTest.java to verify a strongly reachable object not being unloaded"},"files":[{"filename":"test\/jdk\/java\/lang\/invoke\/defineHiddenClass\/UnloadingTest.java"},{"filename":"test\/lib\/jdk\/test\/lib\/util\/ForceGC.java"}],"sha":"6c7d12c7f727c8226decb67eeb40bb10ca062173"}]
