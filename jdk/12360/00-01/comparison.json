@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -204,1 +204,1 @@\n-  JavaThread* const* threads()              { return _threads; }\n+  JavaThread *const *threads() const        { return _threads; }\n","filename":"src\/hotspot\/share\/runtime\/threadSMR.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
