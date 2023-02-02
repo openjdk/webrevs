@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -230,0 +230,4 @@\n+        boolean showGrid = style.getBoolean(context, \"Table.showGrid\", true);\n+        if (!showGrid) {\n+            table.setShowGrid(true);\n+        }\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/synth\/SynthTableUI.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
