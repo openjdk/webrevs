@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,1 +141,1 @@\n-        if (expectedOffset == ZoneOffset.UTC)\n+        if (expectedOffset == ZoneOffset.UTC) {\n@@ -144,0 +144,1 @@\n+        }\n","filename":"test\/jdk\/java\/time\/tck\/java\/time\/zone\/TCKFixedZoneRules.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
