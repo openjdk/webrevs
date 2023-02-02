@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-    private static final long CLEANUP_TIME = 3000;\n+    private static final long CLEANUP_TIME = 1000;\n","filename":"test\/jdk\/javax\/swing\/SwingWorker\/TestDoneBeforeDoInBackground.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
