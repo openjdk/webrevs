@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,0 +126,1 @@\n+   int result;\n@@ -133,1 +134,1 @@\n-   }      \n+   }\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/daemonDestroy\/exedaemonDestroy.c","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
