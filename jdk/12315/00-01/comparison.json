@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1958,1 +1958,1 @@\n-    if (strstr(buf, \"DISTRIB_DESCRIPTION=\") != null || strstr(buf, \"PRETTY_NAME=\") != nullptr) {\n+    if (strstr(buf, \"DISTRIB_DESCRIPTION=\") != nullptr || strstr(buf, \"PRETTY_NAME=\") != nullptr) {\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
