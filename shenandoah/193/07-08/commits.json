@@ -1,0 +1,1 @@
+[{"commit":{"message":"Relax a couple of asserts related to overflow that were just a tad too\nstrong."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.inline.hpp"}],"sha":"84d0f69d03b3d062f3f0f6ba0d4c81e0c8f071b4"}]
