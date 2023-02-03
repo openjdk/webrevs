@@ -1,0 +1,1 @@
+[{"commit":{"message":"8301760: Fix possible leak in SpNegoContext dispose"},"files":[{"filename":"src\/java.security.jgss\/share\/classes\/sun\/security\/jgss\/spnego\/SpNegoContext.java"}],"sha":"09ac7334ae8afceca56af22bb2dc95746736411d"}]
