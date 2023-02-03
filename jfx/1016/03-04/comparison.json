@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1270,4 +1270,0 @@\n-        Series<X, Y> getSeries() {\n-            return seriesProperty.get();\n-        }\n-\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/chart\/XYChart.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
