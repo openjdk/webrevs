@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -617,1 +617,1 @@\n-                Thread.sleep(Duration.ofMillis(1000));\n+                Thread.sleep(Duration.ofSeconds(2));\n","filename":"test\/jdk\/jdk\/incubator\/concurrent\/StructuredTaskScope\/StructuredTaskScopeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
