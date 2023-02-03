@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296654: [macos] Crash when launching JavaFX app with JDK that targets SDK 13\n\nReviewed-by: aghaisas, jvos, mstrauss"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassViewDelegate.m"}],"sha":"b8f3afc8b1c165799ce383788427a5f67629c0b0"}]
