@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -212,0 +212,1 @@\n+    InlineSkippedInstructionsCounter skipCounter(this);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
