@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-                if(!e.getName().startsWith(\"META-INF\/\")) {\n+                if (!e.getName().startsWith(\"META-INF\/\")) {\n","filename":"test\/jdk\/java\/util\/jar\/JarFile\/VerifySignedJar.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
