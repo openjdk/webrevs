@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,2 +98,2 @@\n-\t\t\t   \" but before State changed to DONE\");\n-\t\t    }\n+                            \" but before State changed to DONE\");\n+                    }\n","filename":"test\/jdk\/javax\/swing\/SwingWorker\/TestDoneBeforeDoInBackground.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
