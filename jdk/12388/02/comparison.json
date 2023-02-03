@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,3 @@\n+  if (jt->is_attaching_via_jni()) {\n+    return false;\n+  }\n","filename":"src\/hotspot\/share\/jfr\/utilities\/jfrThreadIterator.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
