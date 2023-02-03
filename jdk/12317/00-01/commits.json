@@ -1,0 +1,1 @@
+[{"commit":{"message":"The 2nd argument is a DWORD not a pointer"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"3fb6b8f66715d4db156431b5231c58e5819c498e"},{"commit":{"message":"Thread ID is an unsigned long on Windows"},"files":[{"filename":"src\/hotspot\/os\/windows\/osThread_windows.cpp"}],"sha":"523990912a5867a91794fec09713964bd04f9f28"}]
