@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @requests (vm.compMode != \"Xcomp\")\n+ * @requires (vm.compMode != \"Xcomp\")\n","filename":"test\/jdk\/java\/net\/httpclient\/SpecialHeadersTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
