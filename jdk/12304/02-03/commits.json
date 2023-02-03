@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplified relocation by using buffered address instead of requested address"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveHeapWriter.cpp"},{"filename":"src\/hotspot\/share\/cds\/archiveHeapWriter.hpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"}],"sha":"00dcedd750886d8a5439cf3e752c841286d00ecc"}]
