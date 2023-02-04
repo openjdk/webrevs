@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-    __ lw(t0, Address(t2, Klass::vtable_length_offset()));\n+    __ lwu(t0, Address(t2, Klass::vtable_length_offset()));\n","filename":"src\/hotspot\/cpu\/riscv\/vtableStubs_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
