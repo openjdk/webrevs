@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Avoid unnecessary array fill after creation in javax.swing.text"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/ParagraphView.java"},{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/TableView.java"}],"sha":"2800983cf1645de3e97a84b15723096e0f651d02"}]
