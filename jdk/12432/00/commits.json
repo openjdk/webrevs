@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8301842: JFR: increase checkpoint event size for stacktrace and string pool"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/service\/jfrRecorderService.cpp"}],"sha":"7e079bbdfa51d30fd04d5282f236f280fd40d4c4"}]
