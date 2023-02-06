@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -470,1 +470,1 @@\n-   HARFBUZZ_DISABLED_WARNINGS_microsoft := 4267 4244\n+   HARFBUZZ_DISABLED_WARNINGS_microsoft := 4267 4244 4819\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
