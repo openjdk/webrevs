@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1347,1 +1347,1 @@\n-                                MACH_PORT_nullptr,\n+                                MACH_PORT_NULL,\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
