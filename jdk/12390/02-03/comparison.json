@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,0 @@\n-    private static boolean hasNimbus;\n@@ -117,2 +116,1 @@\n-        }\n-        catch (Exception e) {\n+        } catch (Exception e) {\n","filename":"test\/jdk\/javax\/swing\/JComboBox\/DisabledComboBoxFontTest.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
