@@ -1,0 +1,1 @@
+[{"commit":{"message":"Can't directly compare uintptr_t, need reinterpret_cast"},"files":[{"filename":"src\/hotspot\/os\/windows\/gc\/z\/zVirtualMemory_windows.cpp"}],"sha":"5f33229b87737776a148ec382d2421c450ad866c"}]
