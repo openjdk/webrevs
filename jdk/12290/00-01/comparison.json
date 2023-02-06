@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,1 @@\n-        String entryName = \"smörgårdsbord\";\n+        String entryName = \"smörgåsbord\";\n","filename":"test\/jdk\/java\/util\/zip\/ZipFile\/TestZipFileEncodings.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
