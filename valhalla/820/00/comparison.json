@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -626,0 +626,1 @@\n+    init_class_id(Class_Blackhole);\n","filename":"src\/hotspot\/share\/opto\/cfgnode.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
