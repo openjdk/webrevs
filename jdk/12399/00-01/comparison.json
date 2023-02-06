@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n- * @run testng\/othervm -Dsun.net.httpserver.idleInterval=50000 FilterUROTest\n+ * @run testng\/othervm -XX:ReservedCodeCacheSize=512m FilterUROTest\n","filename":"test\/jdk\/java\/rmi\/server\/UnicastRemoteObject\/serialFilter\/FilterUROTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
