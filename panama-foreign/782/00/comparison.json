@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-        this.min = (UNSAFE.addressSize() == 4)\n+        this.min = (Unsafe.ADDRESS_SIZE == 4)\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/NativeMemorySegmentImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
