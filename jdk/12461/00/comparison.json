@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -271,1 +271,1 @@\n-      $(shell $(PRINTF) \"%s\" $(call ShellQuote, $1) >> $2)\n+      $(shell $(PRINTF) \"%s\\n\" $(call ShellQuote, $1) >> $2)\n","filename":"make\/common\/MakeIO.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
