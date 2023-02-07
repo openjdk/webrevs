@@ -1,0 +1,1 @@
+[{"commit":{"message":"Extract os name as ID from \/etc\/os-release file for fonts configuration"},"files":[{"filename":"src\/java.desktop\/unix\/classes\/sun\/font\/FcFontConfiguration.java"},{"filename":"src\/java.desktop\/unix\/classes\/sun\/font\/MFontConfiguration.java"}],"sha":"d1d7f2f04da10dd469f3f586301e67f6639ba315"}]
