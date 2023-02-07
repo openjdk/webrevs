@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n- * <code>jdk.xml.dsig.secureValidationPolicy<\/code> security property. \n+ * <code>jdk.xml.dsig.secureValidationPolicy<\/code> security property.\n","filename":"src\/java.xml.crypto\/share\/classes\/javax\/xml\/crypto\/dsig\/dom\/DOMValidateContext.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
