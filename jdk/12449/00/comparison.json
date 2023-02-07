@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -510,1 +510,1 @@\n-            var error = TRACKER.checkShutdown(500);\n+            var error = TRACKER.checkShutdown(900);\n","filename":"test\/jdk\/java\/net\/httpclient\/DigestEchoClient.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
