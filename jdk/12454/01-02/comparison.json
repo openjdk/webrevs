@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -594,1 +594,1 @@\n-    assert(MemoryType != mtNone, \"Must provide a proper MemoryType\");\n+    assert(mt != mtNone, \"Must provide a proper MemoryType\");\n","filename":"src\/hotspot\/share\/utilities\/growableArray.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
