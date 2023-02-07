@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1986,0 +1986,2 @@\n+  \/\/ yield succeeded\n+\n@@ -1991,0 +1993,6 @@\n+  \/\/ Pop frame and return\n+  __ pop_frame();\n+  __ ld(R0, _abi0(lr), R1_SP); \/\/ Return pc\n+  __ mtlr(R0);\n+  __ blr();\n+\n","filename":"src\/hotspot\/cpu\/ppc\/sharedRuntime_ppc.cpp","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
