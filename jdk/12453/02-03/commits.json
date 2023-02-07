@@ -1,0 +1,1 @@
+[{"commit":{"message":"truncate rather than throw in String(AbstractStringBuilder), keeping current behavior"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/String.java"}],"sha":"2e33c27f24805a0a6d6d60749cbceb5f8a8a5d70"}]
