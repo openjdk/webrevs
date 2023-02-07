@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-    assert(is_valid(mt), \"invalid memory type (%d)\", mt);\n+    assert(is_valid(mt), \"invalid memory type (%d)\", static_cast<int>(mt));\n","filename":"src\/hotspot\/share\/memory\/types.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
