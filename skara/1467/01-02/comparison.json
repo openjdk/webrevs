@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,0 +86,3 @@\n+    \/**\n+     * Returns a URL suitable for CLI interactions with the repository\n+     *\/\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/HostedRepository.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
