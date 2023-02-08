@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-    public AbstractMemorySegmentImpl asUnbounded() {\n+    public final AbstractMemorySegmentImpl asUnbounded() {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
