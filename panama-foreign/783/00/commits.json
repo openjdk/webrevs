@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix initialization cycle by adding a dedicated simple constructor in `NativeMemorySegmentImpl`"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemorySegment.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/NativeMemorySegmentImpl.java"}],"sha":"26024b395b89b223e07b8fa4c50c4a95ab571983"}]
