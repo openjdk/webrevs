@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update the sameHashAndLengthDirLookup to use ASCII example colliding paths, allowing the test to run over all charsets"},"files":[{"filename":"test\/jdk\/java\/util\/zip\/ZipFile\/TestZipFileEncodings.java"}],"sha":"3cb77dba192d8a642923d355b801f6640f28267d"}]
