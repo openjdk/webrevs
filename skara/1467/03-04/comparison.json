@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,3 +67,1 @@\n-        var webURI = from.remoteUrl().toString();\n-\n-        return URI.create(webURI);\n+        return from.remoteUrl();\n","filename":"bots\/checkout\/src\/main\/java\/org\/openjdk\/skara\/bots\/checkout\/CheckoutBot.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
