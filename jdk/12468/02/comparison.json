@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -191,2 +191,2 @@\n-  static constexpr intptr_t segfault_address = (1 * K) AIX_ONLY(+ (4 * K));\n-\n+  static constexpr intptr_t segfault_address = AIX_ONLY(-1) NOT_AIX(1 * K);\n+  \n","filename":"src\/hotspot\/share\/utilities\/vmError.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
