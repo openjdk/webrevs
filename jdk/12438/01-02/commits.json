@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix unrolling with cases that have null and unconditional\n\nCo-authored-by: Jan Lahoda <jan.lahoda@oracle.com>"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"}],"sha":"e77384cd85abaa27a6fbff15a937f11fa76dc6d3"}]
