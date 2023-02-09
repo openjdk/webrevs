@@ -1,0 +1,1 @@
+[{"commit":{"message":"8302167: Avoid allocating register in fast_lock()"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"}],"sha":"04ad2e16f952cfbc833f9c33a3f7b054a0afbacb"}]
