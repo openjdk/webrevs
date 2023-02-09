@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -184,1 +184,1 @@\n-     * @jls 7.7.5 Unnamed Modules\n+     *\n@@ -186,0 +186,1 @@\n+     * @jls 7.7.5 Unnamed Modules\n@@ -210,0 +211,1 @@\n+     *\n@@ -244,0 +246,1 @@\n+     *\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Module.java","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
