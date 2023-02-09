@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278965: crash in SymbolTable::do_lookup"},"files":[{"filename":"src\/hotspot\/share\/classfile\/placeholders.hpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"},{"filename":"test\/hotspot\/gtest\/classfile\/test_placeholders.cpp"}],"sha":"3f2bea798ebc9c27fb443b42c9fcf23d00721d30"}]
