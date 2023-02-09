@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix anon owner in fast-path, avoid runtime call (aarch64)"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/c2_CodeStubs_aarch64.cpp"},{"filename":"src\/hotspot\/share\/opto\/c2_CodeStubs.hpp"}],"sha":"38dae00292676d7d86d47f2efe1d7ad8fa865229"}]
