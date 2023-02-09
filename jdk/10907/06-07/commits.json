@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix anon owner in fast-path, avoid runtime call (x86_64)"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_CodeStubs_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/share\/opto\/c2_CodeStubs.hpp"}],"sha":"74f3974dfd8158036bf293d17cca0fcfa5b6e967"}]
