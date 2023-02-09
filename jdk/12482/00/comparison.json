@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-  if (*fr->sp() == nullptr) {\n+  if (*fr->sp() == (intptr_t) nullptr) {\n","filename":"src\/hotspot\/os_cpu\/aix_ppc\/os_aix_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
