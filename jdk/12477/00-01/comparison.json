@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-ATTRIBUTE_NO_SANITIZE_ADDRESS static inline T SafeFetchXX(const T* adr, T errValue) {\n+ATTRIBUTE_NO_SANITIZE_ADDRESS inline T SafeFetchXX(const T* adr, T errValue) {\n","filename":"src\/hotspot\/os\/windows\/safefetch_windows.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
