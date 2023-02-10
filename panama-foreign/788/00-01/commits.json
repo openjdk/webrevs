@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix benchmark not to let returned segments escape"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/PointerInvoke.java"}],"sha":"1b65db66f1474ecf3b0f9675574e1ecc77f34e81"}]
