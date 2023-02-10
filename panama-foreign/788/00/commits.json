@@ -1,0 +1,1 @@
+[{"commit":{"message":"Generalize PointerInvoke to benchmark by-ref segment return"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/PointerInvoke.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/libPtr.c"}],"sha":"f5051192f8c71f2f0a9d2eec6c92018d257f93fd"}]
