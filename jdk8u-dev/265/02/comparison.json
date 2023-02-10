@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -247,1 +247,0 @@\n-        mechContext = null;\n@@ -249,0 +248,4 @@\n+        if (mechContext != null) {\n+            mechContext.dispose();\n+            mechContext = null;\n+        }\n","filename":"jdk\/src\/share\/classes\/sun\/security\/jgss\/spnego\/SpNegoContext.java","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
