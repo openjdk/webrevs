@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-  ThreadInVMfromNative ThreadInVMfromNative(THREAD);\n+  ThreadInVMfromNative tivfn(THREAD);\n","filename":"test\/hotspot\/gtest\/classfile\/test_placeholders.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
