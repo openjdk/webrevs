@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -262,1 +262,3 @@\n-    public static native double log(double a);\n+    public static double log(double a) {\n+        return FdLibm.Log.compute(a);\n+    }\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StrictMath.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
