@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -133,0 +133,3 @@\n+        if (kind == ATTRIBUTE_END) {\n+            break;\n+        }\n","filename":"src\/java.base\/share\/native\/libjimage\/imageFile.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
