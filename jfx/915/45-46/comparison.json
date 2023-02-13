@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1012,1 +1012,2 @@\n-    if (jwindow) {\n+    \/\/ Do not report if iconified, because Java side would set the state to NORMAL\n+    if (jwindow && !is_iconified) {\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
