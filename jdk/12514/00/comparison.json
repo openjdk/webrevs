@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-        Thread.sleep(Utils.adjustTimeout(5000));\n+        Thread.sleep(Utils.adjustTimeout(500));\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestInfLoopNearUsePlacement.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
