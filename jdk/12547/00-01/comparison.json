@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,2 +354,0 @@\n-#undef __\n-\n","filename":"src\/hotspot\/cpu\/riscv\/gc\/z\/zBarrierSetAssembler_riscv.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
