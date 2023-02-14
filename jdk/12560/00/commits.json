@@ -1,0 +1,1 @@
+[{"commit":{"message":"Export _poly1305_processBlocks, JfrThreadLocal fields to JVMCI compiler."},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.hpp"},{"filename":"src\/hotspot\/share\/jfr\/support\/jfrThreadLocal.hpp"},{"filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp"}],"sha":"9218eaadf40b4c17191b1aca4082f5f70512db2d"}]
