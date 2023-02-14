@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -541,1 +541,1 @@\n-    TOOLCHAIN_CFLAGS_JVM=\"-nologo -MD -Zc:preprocessor -Zc:strictStrings -MP -GR-\"\n+    TOOLCHAIN_CFLAGS_JVM=\"-nologo -MD -Zc:preprocessor -Zc:strictStrings -MP -GR- -Oy-\"\n","filename":"make\/autoconf\/flags-cflags.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
