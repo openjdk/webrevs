@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-        assertFalse(ADDRESS.equals(equalButNotSame));\n+        assertTrue(differentTargetLayout.equals(equalButNotSame));\n","filename":"test\/jdk\/java\/foreign\/TestLayouts.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
