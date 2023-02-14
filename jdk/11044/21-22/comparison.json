@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-  \/\/ Return the maximum length (num elements) of an array of BasicType.  The length can passed\n+  \/\/ Return the maximum number of elements of an array of BasicType.  The length can passed\n","filename":"src\/hotspot\/share\/oops\/arrayOop.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
