@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1426,1 +1426,1 @@\n-  product(ccstr, MetaspaceReclaimPolicy, \"balanced\",                        \\\n+  product(ccstr, MetaspaceReclaimPolicy, \"balanced\", DIAGNOSTIC,            \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
