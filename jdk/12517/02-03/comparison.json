@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,1 +160,1 @@\n-     * If the {@link System.Logger#getLogger(String) System.Logger.getLogger(\"java.lang.Runtime\")}\n+     * If the {@link System#getLogger(String) System.getLogger(\"java.lang.Runtime\")}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Runtime.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
