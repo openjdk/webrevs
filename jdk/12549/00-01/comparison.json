@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,1 @@\n+    verbose |= (origin == JVMFlagOrigin::ERGONOMIC);\n","filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagAccess.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
