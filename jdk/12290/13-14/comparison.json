@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-            new ZipFile(invalidName.toFile());\n+            new ZipFile(invalidComment.toFile());\n","filename":"test\/jdk\/java\/util\/zip\/ZipFile\/InvalidBytesInEntryNameOrComment.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

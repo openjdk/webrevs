@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix a regression where the invalidName was tested instead of comment in the invalid comment test"},"files":[{"filename":"test\/jdk\/java\/util\/zip\/ZipFile\/InvalidBytesInEntryNameOrComment.java"}],"sha":"08160a1af2fb7bf77c0f4dd7cab19781b4baf81f"}]
