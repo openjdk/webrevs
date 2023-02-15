@@ -1,0 +1,1 @@
+[{"commit":{"message":"8302151: BMPImageReader throws an exception reading BMP images"},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/bmp\/BMPImageReader.java"},{"filename":"test\/jdk\/javax\/imageio\/plugins\/bmp\/BMP1bppImageWithPaletteTest.java"}],"sha":"ede838a2fb5ff05635a9ee4fb247ce85b86bb332"}]
