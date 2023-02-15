@@ -1,0 +1,1 @@
+[{"commit":{"message":"Actually use _cr() and revert man page change"},"files":[{"filename":"src\/hotspot\/os\/linux\/mallocInfoDcmd.cpp"},{"filename":"src\/jdk.jcmd\/share\/man\/jcmd.1"}],"sha":"5d93207c34a5e355c07796ae7217d2225bdd5098"}]
