@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix no change detection\n\nOld text was uppercased while new text is always lowercase."},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/com\/sun\/javafx\/scene\/control\/skin\/WebColorFieldSkin.java"}],"sha":"67e60f01d8d88976a008b60b8d9bf2d302e69ff4"}]
