@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,1 +176,1 @@\n-    The class should implement a j.u.c.TestFactory interface.\n+    The class should implement the java.util.concurrent.ThreadFactory interface.\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/tool\/i18n.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
