@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix -UseCCP and add regression test"},"files":[{"filename":"src\/hotspot\/share\/memory\/classLoaderMetaspace.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/vm\/ClassLoaderStatsTest.java"}],"sha":"7ed3951ae405b8cbae2ef5e77b932801fe12e919"}]
