@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,1 +117,1 @@\n-  if (ProfileInterpreter COMPILER1_PRESENT(|| C1UpdateMethodData) &&\n+  if ((ProfileInterpreter COMPILER1_PRESENT(|| C1UpdateMethodData)) &&\n","filename":"src\/hotspot\/share\/runtime\/java.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
