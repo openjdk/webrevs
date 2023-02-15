@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8302202: Incorrect desugaring of null-allowed nested patterns"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/NullsInDeconstructionPatterns2.java"}],"sha":"4d1c81580fc1d12f2e227cca0173c9be9254be0f"}]
