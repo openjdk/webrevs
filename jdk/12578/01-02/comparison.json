@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -750,5 +750,0 @@\n-    sfp->set_jvms(nullptr);\n-  }\n-\n-  if (mem != nullptr) {\n-    sfp->set_memory(nullptr);\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
