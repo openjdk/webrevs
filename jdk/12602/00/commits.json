@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fail \"-h\" compilation if two classes generate the same native header file."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/JNIWriter.java"},{"filename":"test\/langtools\/tools\/javac\/nativeHeaders\/NativeHeaderTest.java"}],"sha":"690aabff017f5791d9c12ad8e88414c0b3209127"}]
