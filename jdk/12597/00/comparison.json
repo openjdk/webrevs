@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3402,1 +3402,1 @@\n-    memmove(tmpState, kstate, sizeof(kstate));\n+    memmove(tmpState, kstate, 256 * sizeof(BYTE));\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Component.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
