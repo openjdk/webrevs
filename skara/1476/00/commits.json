@@ -1,0 +1,1 @@
+[{"commit":{"message":"SKARA-1035: Race when creating backports for bug spanning multiple repos"},"files":[{"filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/issue\/IssueNotifier.java"}],"sha":"840266575e3b30643acf0fcae64952dcba08c09f"}]
