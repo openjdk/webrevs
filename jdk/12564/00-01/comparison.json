@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-NMTUsage* get_usage(const Ticks& timestamp) {\n+static NMTUsage* get_usage(const Ticks& timestamp) {\n","filename":"src\/hotspot\/share\/jfr\/periodic\/jfrNativeMemoryEvent.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
