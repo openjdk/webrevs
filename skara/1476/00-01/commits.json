@@ -1,0 +1,1 @@
+[{"commit":{"message":"Caught more specific exception in case of backport fails & updated error message."},"files":[{"filename":"bots\/notify\/src\/main\/java\/org\/openjdk\/skara\/bots\/notify\/issue\/IssueNotifier.java"}],"sha":"2b7510f8b8d3712fdbc2ebc91af860d63074e57c"}]
