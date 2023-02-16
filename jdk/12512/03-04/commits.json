@@ -1,0 +1,1 @@
+[{"commit":{"message":"restore state should be only for VirtualThreads"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"}],"sha":"3cb327341c4226877e13237c4d11b53cce1cf5a7"},{"commit":{"message":"add suspend check"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"}],"sha":"067a8fd47c00949dcfeaaf658adcf573552c0d63"}]
