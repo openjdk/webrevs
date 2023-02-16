@@ -1,0 +1,1 @@
+[{"commit":{"message":"RequiresSharedSpaces now leads to VM exit later"},"files":[{"filename":"src\/hotspot\/share\/cds\/filemap.cpp"},{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"7a8f89e27bde3821c46d50932e79d9b0b67b7f04"}]
