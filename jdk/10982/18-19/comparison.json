@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,2 @@\n-            \"\\uFFFF\\uFFFF\\uFFFF\"\n+            \"\\uFFFF\\uFFFF\\uFFFF\",\n+            \"\\ud83d\\ude01\"\n","filename":"test\/jdk\/jdk\/classfile\/Utf8EntryTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
