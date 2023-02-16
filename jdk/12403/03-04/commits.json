@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not print idle state infos on Windows, print same MHz values for all proces only once"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"2811225e211cbabbe6278bf5bf23a4a04dc5cdc7"}]
