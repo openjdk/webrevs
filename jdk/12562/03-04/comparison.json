@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -154,0 +154,6 @@\n+#if INCLUDE_CDS\n+    if (DumpSharedSpaces) {\n+      \/\/ no deallocation is needed\n+      return;\n+    }\n+#endif\n","filename":"src\/hotspot\/share\/classfile\/symbolTable.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
