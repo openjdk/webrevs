@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -369,1 +369,1 @@\n-        return (state & UNREGISTERED) != 0;\n+        return (state & CANCELLED) != 0;\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/common\/HttpBodySubscriberWrapper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
