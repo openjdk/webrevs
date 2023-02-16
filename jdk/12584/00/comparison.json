@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -554,0 +554,1 @@\n+  case Op_RoundDoubleMode:\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
