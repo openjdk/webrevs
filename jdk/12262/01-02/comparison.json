@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,0 +156,2 @@\n+    \/\/ Some container tests rely on this trace logging to happen.\n+    log_trace(os, container)(\"Memory and Swap Limit is: -2\");\n","filename":"src\/hotspot\/os\/linux\/cgroupV2Subsystem_linux.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
