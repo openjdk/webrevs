@@ -1,0 +1,1 @@
+[{"commit":{"message":"8302623: jarsigner - use BufferedOutputStream to improve performance while creating the signed jar"},"files":[{"filename":"src\/jdk.jartool\/share\/classes\/sun\/security\/tools\/jarsigner\/Main.java"}],"sha":"487afe2695114b70fdcbe6e4a7e4b9dcc92d694b"}]
