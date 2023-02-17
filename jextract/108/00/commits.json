@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed samples for API change MemorySegment.slice -> asSlice and to re-extract libjimage binding"},"files":[{"filename":"samples\/libffmpeg\/LibffmpegMain.java"},{"filename":"samples\/libjimage\/org\/openjdk\/RuntimeHelper.java"}],"sha":"2e32ce24768c93a4b7446a043c1f1422da71a5e8"}]
