@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support -XX:CPUFeatures=native and -XX:CPUFeatures=generic."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/globals_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"a7583e98def83ffb16f14521796ae3cb5867b4aa"}]
