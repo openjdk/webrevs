@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-    volatile int state;\n+    private volatile int state;\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/common\/HttpBodySubscriberWrapper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
