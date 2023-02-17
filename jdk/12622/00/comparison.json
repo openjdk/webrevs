@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -475,1 +475,3 @@\n-  patch_native_pointers();\n+  if (is_fully_available()) {\n+    patch_native_pointers();\n+  }\n","filename":"src\/hotspot\/share\/cds\/archiveHeapLoader.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
