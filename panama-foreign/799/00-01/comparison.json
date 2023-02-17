@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @modules java.base\/jdk.internal.ref java.base\/jdk.internal.foreign\n+ * @modules java.base\/jdk.internal.foreign\n","filename":"test\/jdk\/java\/foreign\/TestMemorySession.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
