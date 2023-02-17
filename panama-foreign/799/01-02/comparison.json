@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @modules java.base\/jdk.internal.foreign java.base\/jdk.internal.foreign.abi\n+ * @modules java.base\/jdk.internal.foreign.abi\n","filename":"test\/jdk\/java\/foreign\/callarranger\/TestLayoutEquality.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
