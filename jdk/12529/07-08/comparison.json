@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -398,3 +398,0 @@\n-      serial_cp->add(current);\n-\n-      assert(!current->is_humongous(), \"Should be no humongous regions in compaction queue\");\n@@ -402,0 +399,1 @@\n+      serial_cp->add(current);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1FullCollector.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
