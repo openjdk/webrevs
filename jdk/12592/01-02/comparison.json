@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-  assert(is_aligned(alignment(), os::vm_page_size()), \"bad alignment\");\n+  assert(is_aligned(_alignment, os::vm_page_size()), \"bad alignment\");\n","filename":"src\/hotspot\/share\/gc\/parallel\/psVirtualspace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
