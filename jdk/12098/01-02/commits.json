@@ -1,0 +1,1 @@
+[{"commit":{"message":"ImageInputStream already implements Closable, no need for AutoClosable"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/imageio\/stream\/ImageInputStream.java"}],"sha":"963cb65d0672f84cb8999478cf929de70ac66054"}]
