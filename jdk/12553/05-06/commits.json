@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use vsetivli when num_elements is less than or equal to 31"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"743f6c187d7da3307f1f6bdeb39bbdb0046c3fb1"}]
