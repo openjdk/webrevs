@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1570,1 +1570,1 @@\n-    FileMapInfo::fail_continue(\"Checksum verification failed.\");\n+    log_warning(cds)(\"Checksum verification failed.\");\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
