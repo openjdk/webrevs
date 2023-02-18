@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert changes in JrtPath, as it seems to be compiled with bootstrap JDK"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/jrtfs\/JrtPath.java"}],"sha":"be13683ba2f435c9e8083e69bbab70fe9cc197b3"}]
