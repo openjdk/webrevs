@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -290,1 +290,1 @@\n-    \/\/ their identity_hash() as soon as we see them. This ensure that the\n+    \/\/ their identity_hash() as soon as we see them. This ensures that the\n","filename":"src\/hotspot\/share\/cds\/heapShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
