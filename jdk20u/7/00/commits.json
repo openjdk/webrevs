@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport dc55a7fc877ab5ea4efbed90454194008143aeb4"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/NullsInDeconstructionPatterns2.java"}],"sha":"5742aeb3d02f0b0660921fcc6a6bcaba3e38259b"}]
