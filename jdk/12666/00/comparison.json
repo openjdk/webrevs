@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,2 @@\n- * @bug 6753661\n+ * @bug 6753661 8302882\n+ * @key headful\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/JFileChooserFontReset.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
