@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-    private ConcurrentHashMap<Object,Object> cacheMap;\n+    private volatile ConcurrentHashMap<Object,Object> cacheMap;\n","filename":"src\/java.desktop\/share\/classes\/sun\/awt\/image\/SurfaceManager.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
