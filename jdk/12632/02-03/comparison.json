@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @bug 8077559 8248655\n+ * @bug 8077559 8248655 8302871\n","filename":"test\/jdk\/java\/lang\/String\/CompactString\/EqualsIgnoreCase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
