@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,2 +55,0 @@\n-  size_t num_cards = cards_required(_whole_heap.word_size());\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardTable.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
