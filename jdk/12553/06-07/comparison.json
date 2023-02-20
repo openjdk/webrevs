@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1709,0 +1709,2 @@\n+\/\/ Set vl and vtype for full and partial vector operations.\n+\/\/ (vlmul = m1, vma = mu, vta = tu, vill = false)\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
