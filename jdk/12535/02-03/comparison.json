@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-  if (!thread->is_in_full_stack_checked(unextended_sp)) {\n+  if (!thread->is_in_stack_range_incl(unextended_sp + Interpreter::stackElementSize, sp)) {\n","filename":"src\/hotspot\/cpu\/x86\/frame_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
