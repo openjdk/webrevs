@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 3b05a94c36e5d54693694c2e9950eca42626962b"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/DeconstructionDesugaring.java"}],"sha":"65420b0cb79a9e9f46f25e424c5eb7f80c5a0dd4"}]
