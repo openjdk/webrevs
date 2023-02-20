@@ -1,0 +1,1 @@
+[{"commit":{"message":"Optimize `EnumSet.copyOf` and `Set.copyOf`"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/EnumSet.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/Set.java"}],"sha":"41f4a90968e133492b2fbc137c301d243eadc1a1"}]
