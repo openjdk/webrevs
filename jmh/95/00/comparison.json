@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -457,1 +457,1 @@\n-        parser.printHelpOn(System.err);\n+        parser.printHelpOn(System.out);\n","filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/runner\/options\/CommandLineOptions.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
