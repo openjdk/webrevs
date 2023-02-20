@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use `addAll` in `EnumSet.copyOf`\n\nIt seems to be okay to use `addAll` in all cases."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/EnumSet.java"}],"sha":"098b3fffbb67b64f4f8ea901d2dfd2b37e6a1b32"}]
