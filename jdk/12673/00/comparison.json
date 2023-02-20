@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -172,1 +172,2 @@\n-        if (IS_PODMAN) {\n+        String uid = getId(\"-u\");\n+        if (IS_PODMAN && !ROOT_UID.equals(uid)) {\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TestJcmd.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
