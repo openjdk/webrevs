@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -416,1 +416,1 @@\n-    @DataProvider(name = \"valueCarriers\")\n+    @DataProvider(name = \"validCarriers\")\n","filename":"test\/jdk\/java\/foreign\/TestLayouts.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
