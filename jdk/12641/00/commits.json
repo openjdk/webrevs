@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added specific ClassLoader object to Proxy IllegalArgumentException\nfrom which the class was not visible\n\nThe bug report for the same: https:\/\/bugs.openjdk.org\/browse\/JDK-8302791"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/Proxy.java"}],"sha":"1ed3c72d39fcf11049b963097ab3f057b4286fa3"}]
