@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Support vector add mask instructions for Vector API"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/matcher_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"077ba5238002268f0f36b0c28355c25a92f79010"}]
