@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -437,1 +437,1 @@\n-    PANDOC_VERSION=`$PANDOC --version 2>&1 | $HEAD -1 | $CUT -d \" \" -f 2`\n+    PANDOC_VERSION=`$PANDOC --version 2>&1 | $TR -d '\\r' | $HEAD -1 | $CUT -d \" \" -f 2`\n","filename":"make\/autoconf\/basic_tools.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
