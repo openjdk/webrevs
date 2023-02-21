@@ -1,0 +1,1 @@
+[{"commit":{"message":"8143900 OptimizeStringConcat has an opaque dependency on Integer.sizeTable field"},"files":[{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"},{"filename":"src\/hotspot\/share\/opto\/stringopts.hpp"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/Integer.java"}],"sha":"f1794873971bba1419eb06f2fdd05c7d73de3287"}]
