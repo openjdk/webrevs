@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-                default -> Integer.parseInt(codePoint);;\n+                default -> Integer.parseInt(codePoint);\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/Characters.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
