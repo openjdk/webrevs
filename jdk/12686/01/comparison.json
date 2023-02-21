@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,4 @@\n+ *\n+ * @comment ZGC doesn't use Universe::verify and will not log the output below\n+ * @requires !vm.gc.Z\n+ *\n","filename":"test\/hotspot\/jtreg\/gc\/TestVerifySubSet.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
