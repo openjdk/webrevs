@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n-#define ARG_ERROR18     \"Error: Could not read %s\"\n+#define ARG_ERROR18     \"Error: Failed to read %s\"\n","filename":"src\/java.base\/share\/native\/libjli\/emessages.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
