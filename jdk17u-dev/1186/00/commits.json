@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303066: SOURCE_DATE_EPOCH is set by default also in older versions of JDK"},"files":[{"filename":"make\/Init.gmk"},{"filename":"make\/InitSupport.gmk"},{"filename":"make\/modules\/jdk.compiler\/Gendata.gmk"}],"sha":"0ea90dcf3637f420953c404e4ccf19d5a1eddae4"}]
