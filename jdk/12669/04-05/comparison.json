@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -245,2 +245,1 @@\n-            \/\/ General\n-            \"sha3\",\n+            \/\/ x86\n@@ -262,0 +261,1 @@\n+            \"sha3\",\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/test\/IREncodingPrinter.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
