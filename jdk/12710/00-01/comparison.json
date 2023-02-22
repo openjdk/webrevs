@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-    Chunk* next;\n+    Chunk* next = nullptr;\n","filename":"src\/hotspot\/share\/memory\/arena.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
