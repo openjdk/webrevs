@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,2 +30,0 @@\n-#if PLATFORM(JAVA)\n-\n@@ -530,2 +528,0 @@\n-\n-#endif\n\\ No newline at end of file\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/Modules\/mediacontrols\/mediaControlsAdwaita.css","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
