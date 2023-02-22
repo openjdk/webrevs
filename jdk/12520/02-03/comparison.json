@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -343,2 +343,1 @@\n-        if (v != null && c instanceof AbstractButton\n-                && ((AbstractButton) c).getIcon() == null) {\n+        if (v != null && b.getIcon() == null) {\n","filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaButtonUI.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
