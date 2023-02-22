@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -211,1 +211,1 @@\n-    private static String GB18030_2000;\n+    private @Stable static String GB18030_2000;\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/StandardCharsets.java.template","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
