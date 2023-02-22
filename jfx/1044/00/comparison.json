@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -387,1 +387,1 @@\n-#if GTK_CHECK_VERSION(3, 4, 0)\n+#ifdef GLASS_GTK3\n@@ -389,1 +389,2 @@\n-            \/\/FIXME 3.4 ???\n+            dx = event->delta_x;\n+            dy = event->delta_y;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
