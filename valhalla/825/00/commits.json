@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293702: [lworld] C1 does not properly handle unloaded inline type field loads"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestUnloadedInlineTypeField.java"}],"sha":"1cc6afb223290622d2f66f27ba3d5055ee67338a"}]
