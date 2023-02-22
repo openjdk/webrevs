@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @bug 8250629 8252307 8247352 8241151 8246774 8259025 8288130 8282714 8289647\n+ * @bug 8250629 8252307 8247352 8241151 8246774 8259025 8288130 8289647\n","filename":"test\/langtools\/tools\/javac\/records\/RecordCompilationTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
