@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,2 +52,0 @@\n-  double start_time_in_secs = TimeHelper::counter_to_seconds(_start.value());\n-  double stop_time_in_secs = TimeHelper::counter_to_seconds(end.value());\n","filename":"src\/hotspot\/share\/gc\/shared\/gcTraceTime.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
