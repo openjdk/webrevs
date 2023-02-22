@@ -1,0 +1,1 @@
+[{"commit":{"message":"Modify hotspot test for duplicate modules to check error message from the launcher\ninstead of ExceptionInInitilizer."},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/modules\/PatchModule\/PatchModuleDupModule.java"}],"sha":"15b8caf0cc1e1339279ed660f00a28cb0548f7d9"}]
