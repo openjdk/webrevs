@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -586,1 +586,1 @@\n-     * Remove the given subscriber to the subscribers list.\n+     * Remove the given subscriber from the subscribers list.\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpClientImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
