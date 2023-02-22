@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -246,1 +246,1 @@\n-        JVMTI_FUNC_PTR(gdata->jvmti,Deallocate)(gdata->jvmti, groups);\n+        jvmtiDeallocate(groups);\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
