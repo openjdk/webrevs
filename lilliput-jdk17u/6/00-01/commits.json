@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use templated iteration loop and block_size()"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.inline.hpp"}],"sha":"38551d5e427e3efcf0323d82b1ddef8bff3db2b1"}]
