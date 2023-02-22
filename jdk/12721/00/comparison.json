@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -538,1 +538,1 @@\n-      return true;\n+      return false;\n@@ -540,1 +540,1 @@\n-    return false;\n+    return true;\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
