@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -537,0 +537,1 @@\n+      _num_failures++;\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
