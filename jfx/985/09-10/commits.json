@@ -1,0 +1,1 @@
+[{"commit":{"message":"8173321: TableView: Click on right trough has no effect when cell height\nis higher than viewport height\n\nReviewed-by: kcr, aghaisas"},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/tableview\/TableViewClickOnTroughTest.java"}],"sha":"332f4c5abdd6afe51e64dd6d23d21c80c8fbabaf"}]
