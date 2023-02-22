@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2923,0 +2923,6 @@\n+  \/\/ Disable cds for exploded image\n+  if (!has_jimage()) {\n+    UseSharedSpaces = false;\n+    RequireSharedSpaces = false;\n+  }\n+\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
