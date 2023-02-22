@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replaced patch_mod_javabase with a check for an empty list of --patch-modules.\nOther review comment cleanup."},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.hpp"}],"sha":"f7eb632f418791361ba4866daa5606e66be8d97f"}]
