@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-\t    -t $$($1_FORMAT) --standalone \\\n+\t    -t $$($1_FORMAT) --eol=lf --standalone \\\n","filename":"make\/common\/ProcessMarkdown.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
