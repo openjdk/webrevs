@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved the 2000 flag into GB18030"},"files":[{"filename":"make\/jdk\/src\/classes\/build\/tools\/charsetmapping\/SPI.java"},{"filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/StandardCharsets.java.template"},{"filename":"src\/jdk.charsets\/share\/classes\/sun\/nio\/cs\/ext\/GB18030.java.template"}],"sha":"4d4015a99b9c4243a485728715765895cb1145e4"}]
