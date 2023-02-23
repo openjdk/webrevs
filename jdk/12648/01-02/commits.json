@@ -1,0 +1,1 @@
+[{"commit":{"message":"8302814: Delete unused CountLoopEnd instruct with CmpX"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"src\/hotspot\/cpu\/x86\/x86_32.ad"},{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"}],"sha":"d2aa86ee17597886ab9ced972ec49596f3a4fe79"}]
