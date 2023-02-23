@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clean fix for NativeMemorySegmentImpl issue with byteSize 0."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemorySegment.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/PlatformLayouts.java"}],"sha":"7315fd20daa2df6b5d4d012e5fb74051ecd642e7"}]
