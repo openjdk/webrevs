@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore disabling CDS if java.base is patched."},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.hpp"}],"sha":"8ed839880676d3474b19efc833731fc1923b6b96"}]
