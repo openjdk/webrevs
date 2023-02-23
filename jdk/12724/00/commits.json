@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303102: jcmd: ManagementAgent.status truncates the text longer than O_BUFLEN"},"files":[{"filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp"},{"filename":"test\/jdk\/sun\/management\/jmxremote\/startstop\/JMXStatusTest.java"}],"sha":"23422bc064d6b6c4d870b3786d286fa0cfde7653"}]
