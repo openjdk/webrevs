@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run main\/othervm -Xmx10g TestOOM\n+ * @run main\/othervm -Xmx1g -XX:-UseCompressedOops TestOOM\n","filename":"test\/hotspot\/jtreg\/runtime\/oom\/TestOOM.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
