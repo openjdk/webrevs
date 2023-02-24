@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,3 +34,1 @@\n-#if defined(_WIN32)\n-  #define PRId64 \"I64d\"\n-#endif\n+#include <inttypes.h>\n","filename":"src\/jdk.jdi\/share\/native\/libdt_shmem\/shmemBase.c","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
