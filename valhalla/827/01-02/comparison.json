@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -668,2 +668,0 @@\n-        private static final Set<Location> SET_CLASS_IDENTITY_VALHALLA =\n-                ValhallaFeatures.isEnabled() ? SET_CLASS_INNER_CLASS : EMPTY_SET;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/AccessFlag.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
