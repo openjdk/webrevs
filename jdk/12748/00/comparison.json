@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-  char* app_class_path = os::strdup(Arguments::get_appclasspath());\n+  const char* app_class_path = Arguments::get_appclasspath();\n","filename":"src\/hotspot\/share\/classfile\/classLoaderExt.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
