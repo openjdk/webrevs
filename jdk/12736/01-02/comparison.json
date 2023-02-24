@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -668,1 +668,1 @@\n-                ix0 += ix0 + ((ix1 & sign) >>> 31);\n+                ix0 += ix0 + ((ix1 & sign) >>> 31); \/\/ unsigned shift\n","filename":"src\/java.base\/share\/classes\/java\/lang\/FdLibm.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
