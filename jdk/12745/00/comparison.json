@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,5 +190,0 @@\n-    \/\/ Temporarily keep the long,int constructor around\n-    private Direct$Type$Buffer(long addr, int cap) {\n-        this(addr, (long)cap);\n-    }\n-\n","filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
