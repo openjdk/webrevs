@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -195,1 +195,1 @@\n-  if (has_default() && _default_string != nullptr) {\n+  if (has_default()) {\n","filename":"src\/hotspot\/share\/services\/diagnosticArgument.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
