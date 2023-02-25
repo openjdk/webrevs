@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-  return raw_free(p);\n+  raw_free(p);\n","filename":"src\/hotspot\/share\/services\/nmtPreInit.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
