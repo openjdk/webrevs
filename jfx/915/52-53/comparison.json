@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -841,1 +841,1 @@\n-        if ((top + right + bottom + left) != 0) {\n+        if (top > 0 || right > 0 || bottom > 0 || left > 0) {\n@@ -865,1 +865,0 @@\n-\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
