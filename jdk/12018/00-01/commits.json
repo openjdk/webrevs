@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303213: Avoid AtomicReference in TextComponentPrintable\n\nread volatile field only once"},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/swing\/text\/TextComponentPrintable.java"}],"sha":"b9e7bd7a46573214359eb64e52bb510668940777"}]
