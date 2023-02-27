@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1893,1 +1893,3 @@\n-        if (length == 1) {\n+        if (length == 0) {\n+            return this;\n+        } else if (length == 1) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
