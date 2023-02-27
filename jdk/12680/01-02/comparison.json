@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1163,1 +1163,1 @@\n-\/\/ Mirror of Integer.stringSize, return the count of digits in integer,\n+\/\/ Mirror of Integer.stringSize() method, return the count of digits in integer,\n","filename":"src\/hotspot\/share\/opto\/stringopts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
