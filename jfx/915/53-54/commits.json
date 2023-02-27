@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix bug when window starts maximized and restores to wrong size"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp"}],"sha":"d344942739c3001f6e21d5ee5058a83954297c2b"}]
