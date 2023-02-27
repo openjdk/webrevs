@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -880,0 +880,2 @@\n+    ~LineNumberProgram() { delete _state; }\n+\n","filename":"src\/hotspot\/share\/utilities\/elfFile.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
