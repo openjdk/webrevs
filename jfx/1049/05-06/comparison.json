@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,0 @@\n-import org.junit.Ignore;\n@@ -92,1 +91,0 @@\n-    @Ignore(\"JDK-8300954\")\n","filename":"modules\/javafx.web\/src\/test\/java\/test\/javafx\/scene\/web\/FormControlsTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
