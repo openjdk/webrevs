@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use GE, LE, NE operations instead of the lt,not combinations. Use uppercase in vectorized code to match the scalar version."},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/EqualsIgnoreCaseBenchmark.java"}],"sha":"d8c0c2ed2c88e12cade09029708687ee897195d9"}]
