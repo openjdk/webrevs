@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -651,1 +651,1 @@\n-  return false;\n+  return (cl.num_failures() + other_failures) != 0;\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
