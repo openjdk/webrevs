@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-@Deprecated(since=\"7\", forRemoval = true)\n+@Deprecated(since=\"21\", forRemoval = true)\n","filename":"src\/jdk.unsupported\/share\/classes\/com\/sun\/nio\/file\/SensitivityWatchEventModifier.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
