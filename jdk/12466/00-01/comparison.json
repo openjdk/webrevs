@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -390,1 +390,1 @@\n-                        \/\/ invalid; override with JDK defaults (or ignore?)\n+                        \/\/ invalid, override with JDK defaults\n","filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/P11KeyPairGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
