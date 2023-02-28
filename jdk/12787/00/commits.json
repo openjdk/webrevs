@@ -1,0 +1,1 @@
+[{"commit":{"message":"only transition to _thread_in_vm if not already in that state"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerEvent.cpp"}],"sha":"e816cb7571eba3250c17ddfaad8130ec62334cbb"}]
