@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-            if(equalsIgnoreCase.allTrue()) {\n+            if (equalsIgnoreCase.allTrue()) {\n","filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/EqualsIgnoreCaseBenchmark.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
