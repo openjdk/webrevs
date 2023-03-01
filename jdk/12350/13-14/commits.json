@@ -1,0 +1,1 @@
+[{"commit":{"message":"TestDependencyOffsets.java: MulVL not supported on NEON \/ asimd. Replaced it with AddVL"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestDependencyOffsets.java"}],"sha":"0cb67e5d8a7da15a362c51c0ae4bdabf7a4c8be5"}]
