@@ -1,0 +1,1 @@
+[{"commit":{"message":"The equal.allTrue() condition is already checked at the beginning of the loop, we could simplify equalsIgnoreCase to not consider this."},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/EqualsIgnoreCaseBenchmark.java"}],"sha":"0e549caa2aa9b4e5144b38c4bb8b51084ff713a2"}]
