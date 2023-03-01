@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -334,0 +334,2 @@\n+    \/\/ All regions have a high live ratio thus will not be compacted.\n+    \/\/ The live ratio is only considered if do_maximal_compaction is false.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1FullCollector.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
