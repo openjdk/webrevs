@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1172,1 +1172,1 @@\n-                      \"--with-version-pre=\" + version_numbers.get(\"DEFAULT_PROMOTION_VERSION_PRE\"),\n+                      \"--with-version-pre=\" + version_numbers.get(\"DEFAULT_PROMOTED_VERSION_PRE\"),\n","filename":"make\/conf\/jib-profiles.js","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
