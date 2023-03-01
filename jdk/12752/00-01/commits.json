@@ -1,0 +1,1 @@
+[{"commit":{"message":"make the _methods array writable during dump time for old classes with jsr bytecode"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/rewriter.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"}],"sha":"ecea6558a4f0a9a298a1052737a70422eabd6878"}]
