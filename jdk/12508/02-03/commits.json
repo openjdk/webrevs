@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix WIN32 vs. WIN64."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86.cpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"4b7756f3ad8a5049246c6eaae5ce0b2dea429b3b"}]
