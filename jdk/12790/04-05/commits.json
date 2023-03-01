@@ -1,0 +1,1 @@
+[{"commit":{"message":"The equal.allTrue check early if the loop does not cover cases where some bytes are equal, but not all. Reverting this change."},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/EqualsIgnoreCaseBenchmark.java"}],"sha":"0272740c7a480098481271899ca387b4298bac92"}]
