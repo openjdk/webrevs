@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-                \/\/ grab IMPLEMENTOR line\n+                \/\/ grab JAVA_RUNTIME_VERSION line\n","filename":"test\/jdk\/build\/releaseFile\/CheckReleaseFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
