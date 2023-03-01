@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,1 +190,0 @@\n-    flags |= GAA_FLAG_INCLUDE_ALL_INTERFACES;\n","filename":"src\/java.base\/windows\/native\/libnet\/ResolverConfigurationImpl.c","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
