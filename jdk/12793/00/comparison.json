@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1051,1 +1051,1 @@\n-        linux_aarch64: \"gcc11.2.0-OL7.6+1.0\",\n+        linux_aarch64: input.build_cpu == \"x64\" ? \"gcc11.2.0-OL7.6+1.1\" : \"gcc11.2.0-OL7.6+1.0\",\n","filename":"make\/conf\/jib-profiles.js","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
