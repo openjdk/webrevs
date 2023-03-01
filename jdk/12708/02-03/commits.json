@@ -1,0 +1,1 @@
+[{"commit":{"message":"HFA: Add support for nested structures. See JDK-8300294."},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/ppc64\/CallArranger.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/ppc64\/TypeClass.java"}],"sha":"b461d80c158b6a33b8ab294761c29b62a2ed601a"}]
