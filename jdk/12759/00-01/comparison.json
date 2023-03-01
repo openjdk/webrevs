@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1445,6 +1445,0 @@\n-#if defined(_WINDOWS)\n-    if (UseOSErrorReporting && log_done) {\n-      raise_fail_fast(_siginfo, _context);\n-    }\n-#endif\n-\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
