@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use GT, LT, EQ operations since they seem to outperform GE, LE, NE."},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/EqualsIgnoreCaseBenchmark.java"}],"sha":"29b213c3528ae3690065eb4860b3729027941ae2"}]
