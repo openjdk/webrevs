@@ -1,0 +1,1 @@
+[{"commit":{"message":"backport JDK-8293100"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/frame_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vmreg_riscv.cpp"}],"sha":"16f999a4d35cf416f126e3e541848472b5535fc4"}]
