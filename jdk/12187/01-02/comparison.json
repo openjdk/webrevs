@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2191,1 +2191,1 @@\n-  assert(name != nullptr, \"name must not be null\");\n+  assert(name[0] != '\\0', \"name must not be null\");\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
