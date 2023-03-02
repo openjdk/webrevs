@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303527: update for deprecated sprintf for jdk.hotspot.agent"},"files":[{"filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/ps_proc.c"},{"filename":"src\/jdk.hotspot.agent\/windows\/native\/libsaproc\/sawindbg.cpp"}],"sha":"4990fb1be68ee017765f8dae6b4348922c21b8d8"}]
