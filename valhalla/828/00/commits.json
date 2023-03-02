@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303416: [lworld] Fix JVM crash at Unsafe_FinishPrivateBuffer"},"files":[{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLarvalState.java"}],"sha":"d3820a099526109cc5e4bc0b2a8c5bd270248ae4"}]
