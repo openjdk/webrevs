@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable Lilliput when user requests -CCP"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"test\/hotspot\/jtreg\/gc\/metaspace\/TestMetaspacePerfCounters.java"}],"sha":"b878e6d7c2a51da9d3c2f19001dcae1a5dcbe4cc"}]
