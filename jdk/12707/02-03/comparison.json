@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -186,0 +186,1 @@\n+            rootElementInfo.validate();\n@@ -189,1 +190,0 @@\n-            rootElementInfo.validate();\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/AccessibleHTML.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
