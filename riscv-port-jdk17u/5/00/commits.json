@@ -1,0 +1,1 @@
+[{"commit":{"message":"8285437: riscv: Fix MachNode size mismatch for MacroAssembler::verify_oops*"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"5a753ea160094ddc7f6bc260acf6577b7de587e1"}]
