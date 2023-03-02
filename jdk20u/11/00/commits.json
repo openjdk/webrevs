@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 582b943439488a0f43482b67c0bc0d4975bf4023"},"files":[{"filename":"src\/hotspot\/share\/classfile\/placeholders.hpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"},{"filename":"test\/hotspot\/gtest\/classfile\/test_placeholders.cpp"}],"sha":"0cb08df50a0c9c0bf3d81298612ec9b7bc2e44ca"}]
