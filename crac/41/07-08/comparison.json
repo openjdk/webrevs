@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -477,1 +477,1 @@\n-  assert(*l_relocated_p & ~(1 << l_relocated_bitno));\n+  assert(*l_relocated_p & (1 << l_relocated_bitno));\n@@ -479,0 +479,1 @@\n+  assert(!(*l_relocated_p & (1 << l_relocated_bitno)));\n","filename":"src\/hotspot\/os\/linux\/os_linux_ifunc.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
