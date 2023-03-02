@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -188,1 +188,1 @@\n-      size_t errmsg_size = new char[strlen(str) + 32;\n+      size_t errmsg_size = strlen(str) + 32; \\\n","filename":"src\/jdk.hotspot.agent\/windows\/native\/libsaproc\/sawindbg.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
