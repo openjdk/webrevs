@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restrict getaddrinfo to IPv4 only as per the rest of the code"},"files":[{"filename":"src\/hotspot\/share\/utilities\/ostream.cpp"}],"sha":"8b6f6317f9a00676a0d860b2f27d1e50ee25d5bc"}]
