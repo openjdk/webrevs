@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296400: pointCrlIssuers might be null in DistributionPointFetcher::verifyURL"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/DistributionPointFetcher.java"}],"sha":"e2d395ddca5957826a4b099fbd0a94905e88322f"}]
