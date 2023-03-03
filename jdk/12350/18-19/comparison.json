@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -215,2 +215,0 @@\n-    @IR(counts = {IRNode.POPULATE_INDEX, \"> 0\", IRNode.STORE_VECTOR, \"> 0\"},\n-        applyIfCPUFeatureOr = {\"avx2\", \"true\", \"sve\", \"true\"})\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestOptionVectorizeIR.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
