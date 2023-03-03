@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303440: The \"ZonedDateTime.parse\" may not accept the \"UTC+XX\" zone id"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/time\/format\/DateTimeFormatterBuilder.java"},{"filename":"test\/jdk\/java\/time\/test\/java\/time\/format\/TestUTCParse.java"}],"sha":"966b8f67401072a2b2e011a988be5f51e02fa1c7"}]
