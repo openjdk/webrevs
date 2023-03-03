@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -475,0 +475,1 @@\n+    new_size = MAX2(8, new_size);\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
