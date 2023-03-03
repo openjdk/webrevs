@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1913,1 +1913,1 @@\n-    os::free(_sun_java_launcher);\n+    os::free(const_cast<char*>(_sun_java_launcher));\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
