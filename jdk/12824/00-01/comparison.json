@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-        int v  = 0;\n+        int v = 0;\n","filename":"test\/hotspot\/jtreg\/compiler\/loopstripmining\/TestAddPAtOuterLoopHead.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
