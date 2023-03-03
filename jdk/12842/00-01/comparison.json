@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1144,1 +1144,1 @@\n-  hints.ai_family = AF_UNSPEC; \/\/ Allow IPv4 or IPv6\n+  hints.ai_family = AF_INET;       \/\/ Allow IPv4 only\n","filename":"src\/hotspot\/share\/utilities\/ostream.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
