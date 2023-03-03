@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -375,1 +375,1 @@\n-     * completion status have been read.\n+     * completion status has been read.\n","filename":"src\/jdk.attach\/share\/classes\/sun\/tools\/attach\/HotSpotVirtualMachine.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
