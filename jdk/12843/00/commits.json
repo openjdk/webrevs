@@ -1,0 +1,1 @@
+[{"commit":{"message":"Require Name.compareTo() to produce a lexicographic ordering."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Symbol.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/util\/Name.java"}],"sha":"b29396705445cb24af7cbaff84b9bb3702e69f28"}]
