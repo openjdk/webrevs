@@ -1,0 +1,1 @@
+[{"commit":{"message":"Relocate regoster_dcmds to DCmd class and get rid of DCmdRegistrat class"},"files":[{"filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp"},{"filename":"src\/hotspot\/share\/services\/diagnosticFramework.hpp"},{"filename":"src\/hotspot\/share\/services\/management.cpp"}],"sha":"1b1afce551b45dd477a465208d3ff7c80ec31f6d"}]
