@@ -1,0 +1,1 @@
+[{"commit":{"message":"1\/ create_initialization_error(): return empty exception, if\nEIIE creation failed.\n2\/ remove testcase"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/ClassInitErrors\/TestNoClassDefFoundCause.java"}],"sha":"adf139fab13c31e281858faa31627b03639d7fa3"}]
