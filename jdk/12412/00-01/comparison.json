@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-                System.out.println(\"Has expected NULL\");\n+                System.out.println(\"Has unexpected NULL\");\n","filename":"test\/jdk\/sun\/security\/x509\/AlgorithmId\/NullParams.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
