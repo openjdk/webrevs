@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -606,2 +606,2 @@\n-\t}\n-\treturn elementStyle;\t\t\n+    }\n+    return elementStyle;\n@@ -620,1 +620,1 @@\n-#endif\t\n+#endif\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/html\/shadow\/SliderThumbElement.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
