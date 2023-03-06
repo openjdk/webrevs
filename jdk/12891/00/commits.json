@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into ncrypt"},"files":[],"sha":"905b0dd9c1e8a6129a6dcc11964d633a2475f86e"},{"commit":{"message":"Fix handle leak"},"files":[{"filename":"src\/jdk.crypto.mscapi\/windows\/native\/libsunmscapi\/security.cpp"}],"sha":"bb502be20de9d6dd9fb6e2a883a7fc7691581776"}]
