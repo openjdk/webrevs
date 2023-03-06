@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303617: update for deprecated sprintf for jdk.jdwp.agent"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libdt_socket\/socketTransport.c"},{"filename":"src\/jdk.jdwp.agent\/windows\/native\/libdt_socket\/socket_md.c"},{"filename":"src\/jdk.jdwp.agent\/windows\/native\/libjdwp\/linker_md.c"}],"sha":"10c9be476e17e23d3ee4b89323d79008ebd2f3bc"}]
