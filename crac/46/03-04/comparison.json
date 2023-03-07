@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-        if (pid == g_child_pid && WIFEXITED(st)) {\n+        if (pid == g_child_pid) {\n","filename":"src\/java.base\/share\/native\/launcher\/main.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
