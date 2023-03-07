@@ -1,0 +1,1 @@
+[{"commit":{"message":"Grab lock so code() is stable"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"}],"sha":"be2d3b5e418a1e6c61208c2d17a606d1f7f4092c"},{"commit":{"message":"Non CHA based vtables fix"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"691dc538e14c048408a018b990e7eb605e44d8c7"}]
