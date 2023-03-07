@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n-package test.javafx.stage;\n+package test.robot.javafx.stage;\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/stage\/SetSceneScalingTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"tests\/system\/src\/test\/java\/test\/javafx\/stage\/SetSceneScalingTest.java","status":"renamed"}]}
