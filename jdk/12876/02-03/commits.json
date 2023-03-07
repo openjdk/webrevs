@@ -1,0 +1,1 @@
+[{"commit":{"message":"convert to bool rather than calling RT::operator!"},"files":[{"filename":"src\/hotspot\/share\/utilities\/bitMap.inline.hpp"}],"sha":"83de109a8b1a564ba66bd8fc01a4fd15816650f8"}]
