@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix interpreter asymmetric fast-locking"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/interp_masm_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/interp_masm_x86.cpp"}],"sha":"9d4ca05f7ab4b06d51234a2b661acff27584c629"}]
