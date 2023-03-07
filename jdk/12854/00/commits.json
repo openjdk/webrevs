@@ -1,0 +1,1 @@
+[{"commit":{"message":"UB: Applying non-zero offset to non-null pointer 0xfffffffffffffffe produced null pointer"},"files":[{"filename":"src\/hotspot\/share\/asm\/codeBuffer.cpp"},{"filename":"src\/hotspot\/share\/code\/relocInfo.cpp"}],"sha":"040f5b55bd03bcc2209ece6eebf223ba1fabf824"}]
