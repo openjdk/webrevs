@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,1 +256,1 @@\n-  ReturnType operator()(Function function, idx_t index) const {\n+  bool operator()(Function function, idx_t index) const {\n","filename":"src\/hotspot\/share\/utilities\/bitMap.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
