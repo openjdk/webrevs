@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -272,1 +272,1 @@\n-#endif \/\/ !X86 || _WIN64\n+#endif \/\/ !TARGET_COMPILER_gcc || _WIN64\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
