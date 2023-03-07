@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -162,0 +162,2 @@\n+      case vmIntrinsics::_floatToFloat16       : \/\/ fall thru\n+      case vmIntrinsics::_float16ToFloat       : \/\/ fall thru\n","filename":"src\/hotspot\/share\/interpreter\/abstractInterpreter.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

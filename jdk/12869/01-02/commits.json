@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not allow JIT compilation of Float.float16ToFloat and Float.floatToFloat16"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/abstractInterpreter.hpp"}],"sha":"ed01863d2d09d9533852ba966ece931a22b10ba7"}]
