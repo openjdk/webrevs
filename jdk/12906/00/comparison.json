@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,2 +38,2 @@\n-  # Use server as base for defines and includes\n-  JVM_VARIANT=server\n+  # Use primary variant for defines and includes\n+  JVM_VARIANT := $(JVM_VARIANT_MAIN)\n","filename":"make\/ide\/visualstudio\/hotspot\/CreateVSProject.gmk","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
