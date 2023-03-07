@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -346,0 +346,4 @@\n+  if (InstanceKlass::cast(k) == vmClasses::Continuation_klass()) {\n+    \/\/ Don't redefine Continuation class. See 8302779.\n+    return false;\n+  }\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
