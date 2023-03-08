@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303816: [Lilliput] Use realloc instead of malloc+copy when growing the lock-stack"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.cpp"}],"sha":"2020874797a6f1cb7beee7ef5e34c25db448cc21"}]
