@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -226,1 +226,1 @@\n-        Set<Destination> dest = new HashSet<>(3);\n+        Set<Destination> dest = HashSet.newHashSet(3);\n","filename":"test\/jdk\/java\/net\/httpclient\/DebugLoggerTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
