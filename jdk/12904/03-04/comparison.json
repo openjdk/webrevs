@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-    private static final class CompoundIterator<I, O> implements Iterator<O> {\n+    private static class CompoundIterator<I, O> implements Iterator<O> {\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/util\/Iterators.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
