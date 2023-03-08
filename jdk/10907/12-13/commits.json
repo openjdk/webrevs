@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use realloc instead of malloc+copy when growing the lock-stack"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.cpp"}],"sha":"12c2b8c30feb880c18c8b6be36bc77550434e237"}]
