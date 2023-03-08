@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8303817-constexpr-for-natural-malloc-alignment"},"files":[{"filename":"src\/hotspot\/share\/services\/mallocHeader.hpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_align.cpp"}],"sha":"7af8af4989fb4322b5d1b77ee4ac0b89eb27ab59"}]
