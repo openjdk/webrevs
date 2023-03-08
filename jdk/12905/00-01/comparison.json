@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -292,1 +292,1 @@\n-    if (jm_createKeyEntry) == NULL {\n+    if (jm_createKeyEntry == NULL {\n","filename":"src\/java.base\/macosx\/native\/libosxsecurity\/KeystoreImpl.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
