@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303784: no-@Target annotations should be applicable to type parameter declarations"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Check.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/NoTargetOnTypeParameterDeclaration.java"}],"sha":"5be37a4650f01a3f5c60cd1e29b1bb03b51702dd"}]
