@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove JVMPI"},"files":[{"filename":"src\/hotspot\/share\/jfr\/metadata\/metadata.xml"}],"sha":"355d307c6886af4e9f048fb56f4fc78e8df55af7"},{"commit":{"message":"cleanup"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"32a885fb49f8ee1faf7e8756161eb41d038a78b9"}]
