@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -486,1 +486,2 @@\n-  static void fail_stop(const char *msg, ...) ATTRIBUTE_PRINTF(1, 2);\n+  ATTRIBUTE_PRINTF(1, 2) static void fail_stop(const char *msg, ...);\n+\n","filename":"src\/hotspot\/share\/cds\/filemap.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
