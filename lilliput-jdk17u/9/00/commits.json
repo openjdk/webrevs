@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303771: [Lilliput\/JDK17] Fix interpreter asymmetric fast-locking"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/interp_masm_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/interp_masm_x86.cpp"}],"sha":"9ec75e5720fb5a720bb1bd8f56a232eeedc4c3ab"}]
