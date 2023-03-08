@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-    \/\/ Iterator is assumed to never return null from next()\n+    \/\/ input.next() is assumed to never return null\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/util\/Iterators.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
