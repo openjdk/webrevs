@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -188,1 +188,0 @@\n-            JNU_ThrowOutOfMemoryError(env, NULL);\n@@ -199,1 +198,0 @@\n-            JNU_ThrowOutOfMemoryError(env, NULL);\n@@ -304,1 +302,0 @@\n-        JNU_ThrowOutOfMemoryError(env, NULL);\n","filename":"src\/java.base\/share\/native\/libjava\/ClassLoader.c","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
