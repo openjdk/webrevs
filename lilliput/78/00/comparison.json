@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4266,2 +4266,1 @@\n-  tst(dst, markWord::monitor_value);\n-  br(Assembler::EQ, fast);\n+  tbz(dst, exact_log2(markWord::monitor_value), fast);\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
