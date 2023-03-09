@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+ * @requires (os.arch==\"amd64\" | os.arch==\"x86_64\" | os.simpleArch == \"aarch64\")\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/runner\/LoopRangeStrideTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
