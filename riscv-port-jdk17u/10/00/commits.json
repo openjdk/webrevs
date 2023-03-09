@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295926: RISC-V: C1: Fix LIRGenerator::do_LibmIntrinsic"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c1_LIRGenerator_riscv.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/floatingpoint\/TestLibmIntrinsics.java"}],"sha":"a24a3a4af17a0c6c0aaaf09ffe7c3ce425131a3e"}]
