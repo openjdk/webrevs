@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,1 @@\n+     *\n@@ -65,1 +66,1 @@\n-    private static void validateZipEntrySizes() throws IOException {\n+    public static void validateZipEntrySizes() throws IOException {\n","filename":"test\/jdk\/java\/util\/zip\/ZipFile\/Zip64SizeTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
