@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1159,1 +1159,1 @@\n-        assert(hr->is_starts_humongous() || !_cm->contains_live_object(region_idx),\n+        assert(hr->is_starts_humongous() || marked_bytes == 0,\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
