@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1637,1 +1637,2 @@\n-\/\/ The FieldHolder can be null whilst a thread is attaching via JNI.\n+\/\/ The FieldHolder can be null whilst a thread is attaching via\n+\/\/ JNI, and when the main thread is attaching.\n","filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
