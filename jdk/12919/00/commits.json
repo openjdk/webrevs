@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8303611"},"files":[],"sha":"d0349b6ad4f136d44b1bd44003163b62dc522f06"},{"commit":{"message":"8303611: Null pointer dereference in block.hpp:586 (ID: 44856)"},"files":[{"filename":"src\/hotspot\/share\/opto\/block.cpp"}],"sha":"ff209a8b708987ca37c83b9a5f24116295f9f812"}]
