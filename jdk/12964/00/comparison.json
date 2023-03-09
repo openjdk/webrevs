@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -196,1 +196,1 @@\n-                case JVM_SIGNATURE_VOID: if (!voidOK) { return index; }\n+                case JVM_SIGNATURE_VOID: if (!voidOK) { return 0; }\n","filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ConstantUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
