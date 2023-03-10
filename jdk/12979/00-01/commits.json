@@ -1,0 +1,1 @@
+[{"commit":{"message":"Instead of making a big file to force Zip64, make a small file with a Zip64-formatted CEN header."},"files":[{"filename":"test\/jdk\/jdk\/nio\/zipfs\/TestLocOffsetFromZip64EF.java"}],"sha":"2efd72759a166e55482a37a52fbf9853eb069e3a"}]
