@@ -1,0 +1,1 @@
+[{"commit":{"message":"8264728:When use chinese IME, the candidate box isn't moved with caret of JTextArea"},"files":[{"filename":"jdk\/make\/mapfiles\/libawt_xawt\/mapfile-vers"},{"filename":"jdk\/src\/solaris\/classes\/sun\/awt\/X11\/XInputMethod.java"},{"filename":"jdk\/src\/solaris\/native\/sun\/awt\/awt_InputMethod.c"}],"sha":"bf52e12cb3eaf83019781d5d78ba7c15b14cb28a"}]
