@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1618,1 +1618,1 @@\n-  \/\/ deopt is completed before anyone link this class.\n+  \/\/ deopt is completed before anyone links this class.\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
