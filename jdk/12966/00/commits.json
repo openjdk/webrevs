@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8303937: Corrupted heap dumps due to missing retries for os::write()"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumperCompression.cpp"}],"sha":"aff57201ed48bb5b010a8ebd539d3c804bc87d40"}]
