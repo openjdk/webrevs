@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292059: Do not inline InstanceKlass::allocate_instance()"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"},{"filename":"src\/hotspot\/share\/prims\/jni.cpp"},{"filename":"src\/hotspot\/share\/prims\/unsafe.cpp"}],"sha":"fe3de0b57a606d80a876b97e5d09b29fa02874af"}]
