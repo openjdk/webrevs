@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,1 +217,1 @@\n-   vsetivli(t1, MaxVectorSize >> 3,sew);\n+   vsetivli(t1, MaxVectorSize >> 3, sew);\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
