@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299226: Throw SkippedException instead of RuntimeException in case of TieredStopAtLevel < 4"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/profiling\/TestTypeProfiling.java"}],"sha":"9663af7b22f28d0b3dd90e1537abab6578e266a0"}]
