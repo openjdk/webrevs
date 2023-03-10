@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,1 @@\n-                        .map(s -> PackageDesc.of(s))\n+                        .map(PackageDesc::of)\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/ModuleInfoExtender.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
