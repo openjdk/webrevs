@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1321,1 +1321,0 @@\n-      assert(current->is_Java_thread(), \"must be Java thread\");\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
