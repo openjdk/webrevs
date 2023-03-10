@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix override in ValueLayout"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/ValueLayout.java"},{"filename":"test\/jdk\/java\/foreign\/MemoryLayoutTypeRetentionTest.java"}],"sha":"348c517c1597edf0fdcce600869e9d88689bf411"}]
