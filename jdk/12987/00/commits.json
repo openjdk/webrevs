@@ -1,0 +1,1 @@
+[{"commit":{"message":"not an explicit GC"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"}],"sha":"be9760b095eb194efff7cd2b4841d71ef6262382"},{"commit":{"message":"clear_all_soft_refs shouldn't always trigger full compaction"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"}],"sha":"fcda41a6a40307c362196a4b705dd2f8d9ceee04"}]
