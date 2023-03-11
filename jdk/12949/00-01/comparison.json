@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,1 @@\n-    static class TestConverter<I, O>  implements Function<I, Iterator<O>> {\n+    static class TestConverter<I, O> implements Function<I, Iterator<O>> {\n","filename":"test\/langtools\/tools\/javac\/util\/IteratorsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
