@@ -1,0 +1,1 @@
+[{"commit":{"message":"8281327: JavaFX does not support fonts installed per-user on Windows 10\/11\n\nReviewed-by: prr, arapte"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-font\/fontpath.c"}],"sha":"95f63a90171fd6d6442b164c20b150c014ef7b2c"}]
