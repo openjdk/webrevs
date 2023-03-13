@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -191,1 +191,1 @@\n-                       Register val, Register tmp1, Register tmp2, Register tmp3);\n+                       Register src, Register tmp1, Register thread_tmp);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
