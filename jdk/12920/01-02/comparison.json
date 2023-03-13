@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -254,1 +254,1 @@\n-            } catch(IOException ioEx) {\n+            } catch (IOException ioEx) {\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/http\/NegotiateAuthentication.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
