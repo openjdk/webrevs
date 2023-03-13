@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304059: Use InstanceKlass in dependencies"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/dependencies.cpp"},{"filename":"src\/hotspot\/share\/code\/dependencies.hpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"7bf340609526c8ce5c4d2e43a981460fe8367f18"}]
