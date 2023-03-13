@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n- * @test TimeoutInErrorHandlingTest-default\n+ * @test id=default\n@@ -51,1 +51,1 @@\n- * @test TimeoutInErrorHandlingTest-with-on-error\n+ * @test id=@with-on-error\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/TimeoutInErrorHandlingTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
