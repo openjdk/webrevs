@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,1 +132,1 @@\n-            } catch(Exception ex) {\n+            } catch (Exception ex) {\n","filename":"src\/java.security.jgss\/share\/classes\/sun\/net\/www\/protocol\/http\/spnego\/NegotiatorImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
