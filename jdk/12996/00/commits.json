@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304031: Classfile API cannot encode Primitive Class as Condy"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/BytecodeHelpers.java"},{"filename":"test\/jdk\/jdk\/classfile\/PrimitiveClassConstantTest.java"}],"sha":"8f4e1642f327b2b7794796176a0068ed196f584b"}]
