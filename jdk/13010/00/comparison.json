@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-    public static int started = 0;\n+    public static volatile int started = 0;\n","filename":"test\/jdk\/com\/sun\/jdi\/JdbLockTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
