@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,3 +256,1 @@\n-          if (!r->is_survivor()) {\n-            r->clear_cardtable();\n-          }\n+          r->clear_cardtable();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
