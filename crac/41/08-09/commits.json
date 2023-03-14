@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix strlen_local for gcc optimizations; but it did not happen with OpenJDK."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux_ifunc.cpp"}],"sha":"ff0f4eabedb2782a80de1ba3907b0b8357f0a342"}]
