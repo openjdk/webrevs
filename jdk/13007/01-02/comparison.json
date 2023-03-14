@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2490,1 +2490,1 @@\n-    Klass* ctxk = deps.context_type();\n+    InstanceKlass* ctxk = deps.context_type();\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
