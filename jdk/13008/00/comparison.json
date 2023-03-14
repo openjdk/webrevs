@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,1 +142,1 @@\n-            if (count - k > 2) {\n+            if (count - k > 3) {\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/stress\/strace\/strace015.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
