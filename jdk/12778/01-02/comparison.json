@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,1 +112,1 @@\n-    \/\/ Resolution is indicated by whether or not he method is set.\n+    \/\/ Resolution is indicated by whether or not the method is set.\n","filename":"src\/hotspot\/share\/oops\/resolvedIndyEntry.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
