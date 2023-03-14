@@ -1,0 +1,1 @@
+[{"commit":{"message":"8301684: Fix test code to not get finalizer deprecation warnings"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/ClassUnloader.java"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/CustomClassLoader.java"}],"sha":"15c2ef5629e27ff5e840c694d225683f009b1a29"}]
