@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix storing 32 bit integers into Java frames. Enable TestArrayStructs."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/foreignGlobals_ppc.cpp"},{"filename":"test\/jdk\/java\/foreign\/arraystructs\/TestArrayStructs.java"}],"sha":"9173af200bdfeb718d80ff89123e3e6932b408bd"}]
