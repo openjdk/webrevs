@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed last use of MyX509ExtendedKeyManager in ALPN directory"},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/ALPN\/MyX509ExtendedKeyManager.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/ALPN\/SSLEngineAlpnTest.java"}],"sha":"04d97ed706d28d8f0d268b64dc09b2d1be81abda"}]
