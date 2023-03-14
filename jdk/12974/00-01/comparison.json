@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -517,0 +517,1 @@\n+\/\/ Check for other threads loading this class either to throw CCE or wait in the case of the boot loader.\n@@ -646,1 +647,0 @@\n-    \/\/ Four cases:\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
