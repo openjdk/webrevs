@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-    public abstract void disposeContext() throws IOException;\n+    public void disposeContext() throws IOException { };\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/http\/Negotiator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
