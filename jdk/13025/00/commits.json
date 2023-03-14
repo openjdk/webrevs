@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove version conditionalization for gcc\/clang PRAGMA_DIAG_PUSH\/POP"},"files":[{"filename":"src\/hotspot\/share\/utilities\/compilerWarnings_gcc.hpp"}],"sha":"f5d8add9e7fb731c4fabf844e39f80a0d47cf845"}]
