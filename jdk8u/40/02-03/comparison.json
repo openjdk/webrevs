@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -310,0 +310,3 @@\n+\n+     # Linux is the only OS with an actual implementation of SystemMetrics.\n+     # Exclude the generic null-returning stub from solaris\/classes for that reason.\n","filename":"jdk\/make\/CompileJavaClasses.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
