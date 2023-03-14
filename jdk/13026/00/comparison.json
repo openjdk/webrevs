@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -753,2 +753,0 @@\n-  \/\/ check array\n-  __ null_check(array, arrayOopDesc::length_offset_in_bytes());\n@@ -4059,1 +4057,0 @@\n-  __ null_check(rax, arrayOopDesc::length_offset_in_bytes());\n","filename":"src\/hotspot\/cpu\/x86\/templateTable_x86.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
