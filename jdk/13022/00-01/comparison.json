@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -841,1 +841,1 @@\n-  while (*cursor != NULL) {\n+  while (*cursor != nullptr) {\n@@ -858,1 +858,0 @@\n-  cursor = failed_speculations_address;\n","filename":"src\/hotspot\/share\/oops\/methodData.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
