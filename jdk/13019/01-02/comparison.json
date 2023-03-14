@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -810,1 +810,1 @@\n-     * The default implementation of this simply calls {@link #shutdown()}.\n+     * The default implementation of this method simply calls {@link #shutdown()}.\n","filename":"src\/java.net.http\/share\/classes\/java\/net\/http\/HttpClient.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
