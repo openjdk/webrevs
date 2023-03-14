@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1365,1 +1365,1 @@\n-          lsh.print_cr(\"inflate(fast-locked): object=\" INTPTR_FORMAT \", mark=\"\n+          lsh.print_cr(\"inflate(has_locker): object=\" INTPTR_FORMAT \", mark=\"\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
