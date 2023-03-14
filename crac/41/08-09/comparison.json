@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,0 +96,1 @@\n+__attribute__ ((optimize(0))) \/\/ otherwise GCC will replace the function by system strlen() again; also fixed by -fno-builtin\n","filename":"src\/hotspot\/os\/linux\/os_linux_ifunc.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
