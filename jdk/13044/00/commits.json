@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve LocalMemberTable\n\nSadly, changing the member key computation ripples through\nJavaFX-related code."},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/util\/VisibleMemberTable.java"}],"sha":"45001afdb771715e6c39cbc767a2e758928848d9"}]
