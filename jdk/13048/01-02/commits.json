@@ -1,0 +1,1 @@
+[{"commit":{"message":"8291598: Matcher.appendReplacement should not create new StringBuilder instances\n\nRemoved other allocations of StringBuilder when processing named groups in replacement string."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/regex\/Matcher.java"}],"sha":"4b5ac595582789db6210260557a69b08872d1e12"}]
