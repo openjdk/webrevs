@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,0 +59,1 @@\n+    method_entry(java_lang_math_sqrt_strict);\n@@ -101,0 +102,1 @@\n+  case Interpreter::java_lang_math_sqrt_strict: \/\/ fall thru\n","filename":"src\/hotspot\/share\/interpreter\/zero\/zeroInterpreterGenerator.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
