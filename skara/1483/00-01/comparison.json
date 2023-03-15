@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -280,1 +280,1 @@\n-            pr.addLabel(\"rfr\");\n+            pr.removeLabel(\"rfr\");\n","filename":"bots\/mlbridge\/src\/test\/java\/org\/openjdk\/skara\/bots\/mlbridge\/MailingListBridgeBotTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
