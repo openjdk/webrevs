@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -468,1 +468,1 @@\n-            argInfo.targetVMArgs += \"--enable-preview \" + \"-XX:-EnableValhalla \";\n+            argInfo.targetVMArgs += \"--enable-preview \";\n","filename":"test\/jdk\/com\/sun\/jdi\/TestScaffold.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
