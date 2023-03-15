@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-        return cp >>> 8 == 0;\n+        return cp >= 0 && cp <= 0xFF;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringLatin1.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
