@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -482,1 +482,0 @@\n-  const Register temp =  r3;\n@@ -487,1 +486,1 @@\n-    __ load_resolved_indy_entry(cache, index, temp);\n+    __ load_resolved_indy_entry(cache, index);\n","filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
