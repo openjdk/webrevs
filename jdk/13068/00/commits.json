@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make sure main() debuggee method does not exit until test threads are complete."},"files":[{"filename":"test\/jdk\/ProblemList-svc-vthread.txt"},{"filename":"test\/jdk\/com\/sun\/jdi\/InvokeHangTest.java"}],"sha":"4d28b92e413f21000cf3bc392b8907527d496722"}]
