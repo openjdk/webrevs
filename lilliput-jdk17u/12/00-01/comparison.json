@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,1 +180,1 @@\n-# Dispabled because Lilliput forces -UseBiasedLocking\n+# Disabled because Lilliput forces -UseBiasedLocking\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
