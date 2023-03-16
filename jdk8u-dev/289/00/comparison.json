@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,0 +46,1 @@\n+                \"-XX:-InlineUnsafeOps\", \/\/ The compiler intrinsics doesn't have the assert\n","filename":"hotspot\/test\/runtime\/Unsafe\/RangeCheck.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
