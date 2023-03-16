@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -669,1 +669,1 @@\n-javax\/sound\/midi\/Sequencer\/Recording.java 8167580 linux-all,solaris-all\n+javax\/sound\/midi\/Sequencer\/Recording.java 8167580,8265485 linux-all,solaris-all,macosx-aarch64\n","filename":"test\/jdk\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
