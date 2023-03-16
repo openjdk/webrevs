@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -352,1 +352,1 @@\n-                if (e.getMessage().equals(\"java.net.ConnectException\")) {\n+                if (e.getCause() instanceof ConnectException) {\n","filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/GitJCheck.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
