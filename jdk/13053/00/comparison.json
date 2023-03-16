@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,6 @@\n+  _supports_cx8 = true;\n+  _supports_atomic_getset4 = true;\n+  _supports_atomic_getadd4 = true;\n+  _supports_atomic_getset8 = true;\n+  _supports_atomic_getadd8 = true;\n+\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
