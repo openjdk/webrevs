@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287425: Remove unnecessary register push for MacroAssembler::check_klass_subtype_slow_path\n\nCo-authored-by: Wei Kuai <kuaiwei.kw@alibaba-inc.com>\nReviewed-by: kvn"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"2acf5544dac9c566edd4e35b44ba0b68ef19e128"}]
