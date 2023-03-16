@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2083,1 +2083,1 @@\n-        ik->set_prototype_header(markWord::prototype().set_klass(ik));\n+        ik->set_prototype_header(markWord::prototype() LP64_ONLY(.set_klass(ik)));\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
