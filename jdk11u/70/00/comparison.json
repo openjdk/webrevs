@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,3 +106,0 @@\n-    ifeq ($(call isTargetCpuBits, 64), true)\n-      ADLCFLAGS += -D_WIN64=1\n-    endif\n@@ -110,0 +107,1 @@\n+      ADLCFLAGS += -D_WIN64=1\n","filename":"make\/hotspot\/gensrc\/GensrcAdlc.gmk","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
