@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n-#define ARENA_ALIGN(x) (align_up((size_t) (x), ARENA_AMALLOC_ALIGNMENT))\n+#define ARENA_ALIGN(x) (align_up((x), ARENA_AMALLOC_ALIGNMENT))\n","filename":"src\/hotspot\/share\/memory\/arena.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
