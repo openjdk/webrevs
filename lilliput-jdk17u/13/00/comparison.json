@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -489,5 +489,0 @@\n-#ifdef _LP64\n-    if (obj->is_forwarded() && CompressedKlassPointers::is_null(obj->mark().narrow_klass())) {\n-      obj = obj->forwardee();\n-    }\n-#endif\n","filename":"src\/hotspot\/share\/gc\/shared\/space.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
