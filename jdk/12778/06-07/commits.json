@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed aarch64 and added load-acquire for resolution check"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp"},{"filename":"src\/hotspot\/share\/oops\/resolvedIndyEntry.hpp"}],"sha":"6600e6dc4d02239f950dd4aac81f3f5ab3ceafb5"}]
