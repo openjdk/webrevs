@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-   public static void main(String[] args) throws Throwable  {\n+   public static void main(String[] args) throws Throwable {\n","filename":"test\/jdk\/java\/lang\/invoke\/8022701\/MHIllegalAccess.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
