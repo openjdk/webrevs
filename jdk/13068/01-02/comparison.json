@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-            \/\/ virtual threads, they are always daemon threads, and therefor the JVM will exit\n+            \/\/ virtual threads, they are always daemon threads, and therefore the JVM will exit\n","filename":"test\/jdk\/com\/sun\/jdi\/InvokeHangTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
