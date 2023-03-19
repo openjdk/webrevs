@@ -1,0 +1,1 @@
+[{"commit":{"message":"shrink find_first_bit_impl"},"files":[{"filename":"src\/hotspot\/share\/utilities\/bitMap.inline.hpp"}],"sha":"b3d2aed13eb8938d407ee2efd4cad8d47cf3c762"},{"commit":{"message":"improve find_last_bit_impl"},"files":[{"filename":"src\/hotspot\/share\/utilities\/bitMap.inline.hpp"}],"sha":"f01cba9f8da9d4dff1a74b74702f474ee7214bd9"}]
