@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8304433: cleanup sentence breaker code in DocTreeMaker"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/tree\/DocTreeMaker.java"},{"filename":"test\/langtools\/tools\/javac\/tree\/SourceDocTreeScannerTest.java"}],"sha":"a9c61f0deedf202943b9e1274a73637fd8c374b4"}]
