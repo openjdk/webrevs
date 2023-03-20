@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,3 +130,0 @@\n-#pragma intrinsic(_CountOneBits)\n-#pragma intrinsic(_CountOneBits64)\n-\n","filename":"src\/hotspot\/share\/utilities\/population_count.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
