@@ -1,0 +1,1 @@
+[{"commit":{"message":"Implented re-raising signals to terminate a parent process"},"files":[{"filename":"src\/java.base\/share\/native\/launcher\/main.c"},{"filename":"src\/java.base\/unix\/native\/criuengine\/criuengine.c"}],"sha":"95f3845fa62f29a66183784e809caa7cb2208828"}]
