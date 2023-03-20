@@ -1,0 +1,1 @@
+[{"commit":{"message":"Modules THROW_MSG_ should return nullptr instead of JNI_FALSE"},"files":[{"filename":"src\/hotspot\/share\/classfile\/modules.cpp"}],"sha":"d4f228868057f09c13ae47ed15c46fe815a56766"}]
