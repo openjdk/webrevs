@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1804,0 +1804,4 @@\n+  if (_shenandoah_policy->is_at_shutdown()) {\n+    return;\n+  }\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}

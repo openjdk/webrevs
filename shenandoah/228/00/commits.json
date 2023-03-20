@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not visit gc threads during shutdown"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"0070c3d75536df518796707fd5f83fe55b3e128e"}]
