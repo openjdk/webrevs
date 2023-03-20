@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -488,2 +488,1 @@\n-    oop obj = cast_to_oop(mark);\n-    mark += obj->size();\n+    mark += cast_to_oop(mark)->size();\n","filename":"src\/hotspot\/share\/gc\/shared\/space.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
