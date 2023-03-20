@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -526,1 +526,1 @@\n-        \/\/ list of all ModuleDescriptorBuilders, invoked in turn when building.\n+        \/\/ list of all ModuleInfos\n","filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/plugins\/SystemModulesPlugin.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
