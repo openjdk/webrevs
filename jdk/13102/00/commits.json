@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8304537: Ant-based langtools build fails after JDK-8015831 Add lint check for calling overridable methods from a constructor"},"files":[{"filename":"make\/langtools\/build.properties"}],"sha":"0939eaa70d62295b8f8c426dcf00670e7457e178"}]
