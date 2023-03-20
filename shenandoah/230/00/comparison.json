@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-    if (r->age() > 0 && r->age() < AgeTable::table_size) {\n+    if (r->is_young() && r->age() > 0 && r->age() < AgeTable::table_size) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahEvacTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
