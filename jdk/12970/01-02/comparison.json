@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -133,1 +133,1 @@\n-            \/\/ check if current pattern is NULL then pattern matches else throw RuntimeException\n+            \/\/ If the current pattern is not null then it didn't match\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/HsErrFileUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
