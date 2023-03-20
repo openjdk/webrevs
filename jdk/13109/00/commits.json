@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove check of java.compiler since the property is being removed and the thing tested is no longer valid (debugging works fine with JITs)"},"files":[{"filename":"src\/jdk.jdi\/share\/classes\/com\/sun\/tools\/jdi\/SunCommandLineLauncher.java"}],"sha":"58a3340025c002b53f84276182e78f7adb91a9e6"}]
