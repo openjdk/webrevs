@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -310,0 +310,1 @@\n+                default -> throw new IllegalArgumentException(\"Unknown CP entry tag \" + bytes[offset]);\n","filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/plugins\/IncludeLocalesPlugin.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
