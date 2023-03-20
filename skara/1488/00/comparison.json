@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,0 +256,3 @@\n+                if (b.name().length() <= remote.length()) {\n+                    continue;\n+                }\n","filename":"cli\/src\/main\/java\/org\/openjdk\/skara\/cli\/pr\/GitPrCreate.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
