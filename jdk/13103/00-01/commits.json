@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix ambiguous call\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/utilities\/count_leading_zeros.hpp"},{"filename":"src\/hotspot\/share\/utilities\/count_trailing_zeros.hpp"},{"filename":"src\/hotspot\/share\/utilities\/population_count.hpp"}],"sha":"729b0c7a062ed891b7c0edbe4e3107a4af18fe36"}]
