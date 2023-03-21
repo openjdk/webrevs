@@ -1,0 +1,1 @@
+[{"commit":{"message":"avoid repeated ClassHierarchyInfo of CD_Object instantiation in StaticClassHierarchyResolver"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/ClassHierarchyImpl.java"}],"sha":"39f4672257c67422c67c6736d70742dc19f89ae9"}]
