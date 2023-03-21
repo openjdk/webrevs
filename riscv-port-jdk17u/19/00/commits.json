@@ -1,0 +1,1 @@
+[{"commit":{"message":"backport 8304293: RISC-V: JDK-8276799 missed atomic intrinsic support for C1"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"c9c1205e0801f3323aa9172d06003b41d12eb94a"}]
