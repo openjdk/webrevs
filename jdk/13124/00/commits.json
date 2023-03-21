@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix memory leak in WB_IsMethodCompatible\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"}],"sha":"a07f21cb641d437b0aac184647fc680151d6af81"}]
