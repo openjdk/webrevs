@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3589,1 +3589,1 @@\n-      PrintAssembly || TraceDeoptimization || log_is_enabled(Debug, dependencies) ||\n+      PrintAssembly || TraceDeoptimization ||\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
