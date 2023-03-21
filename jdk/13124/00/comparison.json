@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -827,4 +827,3 @@\n-  if (directive->ExcludeOption) {\n-    return true;\n-  }\n-  return false;\n+  bool exclude = directive->ExcludeOption;\n+  DirectivesStack::release(directive);\n+  return exclude;\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":3,"deletions":4,"binary":false,"changes":7,"status":"modified"}]}
