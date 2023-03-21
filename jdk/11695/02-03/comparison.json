@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -196,1 +196,1 @@\n-        public JdkConsole format(String fmt, Object ...args) {\n+        public JdkConsole format(String fmt, Object ... args) {\n","filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/execution\/impl\/ConsoleImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
