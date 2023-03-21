@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix memory leak in DirectivesParser::set_option_flag\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/compiler\/directivesParser.cpp"}],"sha":"e5a92853d89a607bf6d2d862e8d605a0181947ac"}]
