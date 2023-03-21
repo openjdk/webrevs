@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-  return 17;\n+  return 18;\n","filename":"src\/hotspot\/cpu\/x86\/c2_CodeStubs_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
