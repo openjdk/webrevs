@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1023,2 +1023,1 @@\n-                   .astore(BUILDER_VAR)\n-                   .aload(BUILDER_VAR);\n+                   .astore(BUILDER_VAR);\n","filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/plugins\/SystemModulesPlugin.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
