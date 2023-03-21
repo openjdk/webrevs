@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,2 @@\n-#ifdef _WIN64\n+\/\/ #ifdef _WIN64  There is a problem in 11u with this, see JDK-8304389.\n+#ifdef DISABLED\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
