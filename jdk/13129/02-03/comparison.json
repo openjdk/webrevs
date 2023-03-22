@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,1 @@\n+#include \"runtime\/sharedRuntime.hpp\"\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
