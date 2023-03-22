@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -576,1 +576,1 @@\n-            if (dis.bytearr == null || dis.bytearr.length < utflen){\n+            if (dis.bytearr == null || dis.bytearr.length < utflen) {\n","filename":"src\/java.base\/share\/classes\/java\/io\/DataInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
