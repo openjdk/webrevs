@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304694: Runtime exception thrown when break stmt is missing"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/DeconstructionDesugaring.java"}],"sha":"d0533b2cea4258e627e20cefb83b2764536bd706"}]
