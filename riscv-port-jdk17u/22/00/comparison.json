@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -959,0 +959,1 @@\n+#include \"gc\/shared\/barrierSetAssembler.hpp\"\n@@ -964,0 +965,1 @@\n+#include \"runtime\/objectMonitor.hpp\"\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
