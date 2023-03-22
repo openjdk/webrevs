@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix lock being initialized twice and lock never initialized\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"}],"sha":"54263bd15125958c4616cfa9af57fe7d8ccbc3dd"}]

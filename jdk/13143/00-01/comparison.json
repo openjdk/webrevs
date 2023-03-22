@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -270,1 +270,0 @@\n-  def(Heap_lock                    , safepoint); \/\/ Doesn't safepoint check during termination.\n@@ -322,0 +321,1 @@\n+  def(UnregisteredClassesTable_lock, nosafepoint);\n","filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
