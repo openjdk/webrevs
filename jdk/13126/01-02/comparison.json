@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,2 +130,0 @@\n-err.image.must.exist=image {0} does not exist or is not a directory\n-err.existing.image.invalid=existing image is not valid\n","filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/resources\/jlink.properties","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
