@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294086: RISC-V: Cleanup InstructionMark usages in the backend\n\nReviewed-by: fjiang, fyang"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp"}],"sha":"c0f947b2b282a20b738d5a7366744ad1de23e9eb"}]
