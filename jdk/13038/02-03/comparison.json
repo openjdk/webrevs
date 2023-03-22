@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -211,1 +211,0 @@\n-    \/\/ Bailout. But we should probably kick into normal compilation?\n@@ -218,1 +217,0 @@\n-    \/\/ Bailout. But we should probably kick into normal compilation?\n","filename":"src\/hotspot\/share\/opto\/parse1.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
