@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,1 +181,1 @@\n-  static int num_arguments() { return 9; }\n+  static int num_arguments() { return 10; }\n","filename":"src\/hotspot\/share\/jfr\/dcmd\/jfrDcmds.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
