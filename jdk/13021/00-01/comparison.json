@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -214,0 +214,1 @@\n+        assertFalse(out.contains(\"bootstrap method arguments indexes: []\"), \"bootstrap arguments lost\");\n","filename":"test\/jdk\/jdk\/classfile\/AdvancedTransformationsTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
