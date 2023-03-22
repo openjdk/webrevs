@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304671: javac regression: Compilation with --release 8 fails on underscore in enum identifiers"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/parser\/JavacParserTest.java"}],"sha":"56ca9eb8fe63aea7418a0b114375f4fb39f19b85"}]
