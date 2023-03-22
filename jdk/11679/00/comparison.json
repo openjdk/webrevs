@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2915,1 +2915,1 @@\n-     *      Iterator i = s.iterator(); \/\/ Must be in synchronized block\n+     *      Iterator i = s2.iterator(); \/\/ Must be in synchronized block\n","filename":"src\/java.base\/share\/classes\/java\/util\/Collections.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
