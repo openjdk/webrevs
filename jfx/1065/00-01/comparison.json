@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,0 +66,1 @@\n+        @SuppressWarnings(\"removal\")\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/gtk\/GtkApplication.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
