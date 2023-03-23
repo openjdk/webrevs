@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -743,1 +743,1 @@\n-        size_t ix = (cast_from_oop<intptr_t>(obj) >> 5) & (ARRAY_SIZE(gInflationLocks)-1);\n+        size_t ix = (cast_from_oop<intptr_t>(obj) >> 5) & (ARRAY_SIZE(gInflationLocks) - 1);\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
