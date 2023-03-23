@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -750,1 +750,1 @@\n-      LogTarget(Info, gc, ergo) lt;\n+      LogTarget(Debug, gc, cset) lt;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
