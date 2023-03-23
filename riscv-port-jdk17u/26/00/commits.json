@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297715: RISC-V: C2: Use single-bit instructions from the Zbs extension"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_b.ad"}],"sha":"6cc1a23f584e81b5181671df2b76a9ff12ed9b13"}]
