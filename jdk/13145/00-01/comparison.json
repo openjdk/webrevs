@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -483,2 +483,0 @@\n-  \/\/ Notification for old gen regions to clean up.\n-  void old_region_reclaimed(HeapRegion* r);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
