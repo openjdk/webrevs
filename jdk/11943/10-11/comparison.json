@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,0 @@\n-            case ARM -> true; \/\/ the ARM we support is 64 bit\n","filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/Platform.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
