@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -762,1 +762,1 @@\n-    jint * tmp = (*env)->GetIntArrayElements(env, obj, JNI_FALSE);\n+    jint * tmp = (*env)->GetIntArrayElements(env, obj, NULL);\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/LWCToolkit.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
