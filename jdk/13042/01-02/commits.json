@@ -1,0 +1,1 @@
+[{"commit":{"message":"refine asserts, move logic to C2_MacroAssembler"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"fb7794770843bc7bbfde5b1ee963a3fcd24c309a"}]
