@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n-import jdk.internal.util.OperatingSystem;\n@@ -51,0 +50,1 @@\n+import jdk.internal.util.OperatingSystem;\n","filename":"src\/java.base\/unix\/classes\/java\/lang\/ProcessImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
