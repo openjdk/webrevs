@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @summary Tests if JComboBox has correct font when disabled\/enabled\n+ * @summary Tests if JComboBox has correct font color when disabled\/enabled\n","filename":"test\/jdk\/javax\/swing\/JComboBox\/DisabledComboBoxFontTestAuto.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
