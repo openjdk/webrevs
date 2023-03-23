@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1870,1 +1870,1 @@\n-      sec_offset += load->type()->size();\n+      sec_offset += type2aelembytes(as_BasicType(load->type()));\n","filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
