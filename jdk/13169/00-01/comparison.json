@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-    public static void main(java.lang.String[] unused) {\n+    public static void main(java.lang.String[] unused) throws Exception {\n","filename":"test\/hotspot\/jtreg\/runtime\/reflect\/ReflectOutOfMemoryError.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
