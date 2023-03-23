@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,0 +2,3 @@\n+  --include-function Tcl_CreateInterp \\\n+  --include-function Tcl_Eval \\\n+  --include-function Tcl_DeleteInterp \\\n","filename":"samples\/tcl\/compile.sh","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
