@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304448: Kitchensink failed: assert(!thread->is_in_any_VTMS_transition()) failed: class prepare events are not allowed in any VTMS transition"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/vm\/Continuation.java"}],"sha":"e2f5b09b66dce35ad4ae6d3aa6347e8840c111bb"}]
