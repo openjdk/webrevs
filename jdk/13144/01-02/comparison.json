@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -611,1 +611,1 @@\n-  MACOS_AARCH64_ONLY(ThreadWXEnable wx(WXWrite, Thread::current());)\n+  MACOS_AARCH64_ONLY(ThreadWXEnable wx(WXWrite, raw_thread);)\n","filename":"src\/hotspot\/share\/prims\/forte.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
