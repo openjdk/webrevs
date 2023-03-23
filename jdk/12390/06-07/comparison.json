@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run main DisabledComboBoxFontTestAuto\n+ * @run main\/othervm -Dsun.java2d.uiScale=1 DisabledComboBoxFontTestAuto\n","filename":"test\/jdk\/javax\/swing\/JComboBox\/DisabledComboBoxFontTestAuto.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
