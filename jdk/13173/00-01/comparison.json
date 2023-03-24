@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -250,1 +250,1 @@\n-    AC_MSG_CHECKING([for dtrace tool])\n+    AC_MSG_CHECKING([for dtrace tool and platform support])\n@@ -252,1 +252,1 @@\n-      AC_MSG_RESULT([no])\n+      AC_MSG_RESULT([no, $OPENJDK_TARGET_CPU_ARCH])\n","filename":"make\/autoconf\/jvm-features.m4","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
