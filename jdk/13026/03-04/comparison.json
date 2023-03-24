@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -605,2 +605,0 @@\n-        ArrayList<String> cmd = pb.commmand();\n-        cmd.add()\n","filename":"test\/lib\/jdk\/test\/lib\/cds\/CDSTestUtils.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
