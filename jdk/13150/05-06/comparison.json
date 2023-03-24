@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,1 +2,2 @@\n- * Copyright (c) 2020, 2023, Oracle and\/or its affiliates. All rights reserved.\r\n+ * Copyright (c) 2023, Oracle and\/or its affiliates. All rights reserved.\r\n+\r\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/io\/BufferedInputStreamBenchmark.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
