@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2422,1 +2422,1 @@\n-    __ andi(t0, disp_hdr, markWord::monitor_value);\n+    __ andi(t0, tmp, markWord::monitor_value);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
