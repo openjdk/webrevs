@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304745: Protect getBufIfOpen() from async close"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/BufferedInputStream.java"}],"sha":"407b26ed8957e4dc9d303216f33993ff578fdb97"}]
