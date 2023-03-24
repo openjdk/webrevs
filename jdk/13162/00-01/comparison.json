@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -233,1 +233,1 @@\n-                  (candidate->is_dead() ? \"dead\" : \"life\"),\n+                  (candidate->is_dead() ? \"dead\" : \"live\"),\n","filename":"src\/hotspot\/share\/services\/mallocTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
