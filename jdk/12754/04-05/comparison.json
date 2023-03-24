@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1616,1 +1616,1 @@\n-    output file clash: {0}\n+    output file written more than once: {0}\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
