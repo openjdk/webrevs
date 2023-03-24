@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-  product(uint, G1ConfidencePercent, 50,                                    \\\n+  product(uintx, G1ConfidencePercent, 50,                                   \\\n","filename":"src\/hotspot\/share\/gc\/g1\/g1_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
