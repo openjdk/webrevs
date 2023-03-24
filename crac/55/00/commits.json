@@ -1,0 +1,1 @@
+[{"commit":{"message":"Let ReseedTest use stdout rather than exit codes\n\nThere was a 1:256 chance of test randomly failing because the random\ngenerators produced the same number, despite differently seeded."},"files":[{"filename":"test\/jdk\/jdk\/crac\/SecureRandom\/ReseedTest.java"}],"sha":"78492086d9f43b2573bb807a85db3839e36918dc"}]
