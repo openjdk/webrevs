@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Let ReseedTest use stdout rather than exit codes\"\n\nThis reverts commit 704f50a4ea9591ae1dd04aae7559492441ea4c2e."},"files":[{"filename":"test\/jdk\/jdk\/crac\/SecureRandom\/ReseedTest.java"}],"sha":"9359b6b00506fc9a2a470a6f7f165f50c35faf95"}]
