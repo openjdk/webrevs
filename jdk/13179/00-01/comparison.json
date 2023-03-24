@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -334,1 +334,1 @@\n-unsigned short Bytecodes::_flags[(1<<BitsPerByte)*2];\n+jchar Bytecodes::_flags[(1<<BitsPerByte)*2];\n","filename":"src\/hotspot\/share\/interpreter\/bytecodes.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
