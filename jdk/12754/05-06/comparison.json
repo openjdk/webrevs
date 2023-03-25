@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,0 +121,1 @@\n+compiler.warn.output.file.clash                         # this warning is not generated on Linux\n","filename":"test\/langtools\/tools\/javac\/diags\/examples.not-yet.txt","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
