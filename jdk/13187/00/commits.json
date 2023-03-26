@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304937: BufferedFieldBuilder.Model missing writeTo(DirectClassBuilder)"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/BufferedFieldBuilder.java"},{"filename":"test\/jdk\/jdk\/classfile\/ClassBuildingTest.java"}],"sha":"d9b6452b0cbec3dced57578542fc7bf4da4319cb"}]
