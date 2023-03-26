@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,1 +158,1 @@\n-            configuration.getReporter().print(Diagnostic.Kind.WARNING,\n+            configuration.reporter.print(Diagnostic.Kind.WARNING,\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/ClassUseWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
