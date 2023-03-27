@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304883: Record Deconstruction causes bytecode error"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/DeconstructionDesugaring.java"}],"sha":"5f197497ec7f8229ac12867687052d21a518a331"}]
