@@ -1,0 +1,1 @@
+[{"commit":{"message":"Keep connection after HEAD request"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ExchangeImpl.java"},{"filename":"test\/jdk\/com\/sun\/net\/httpserver\/bugs\/HeadKeepAlive.java"}],"sha":"4378955d0ba9bc88c2f4dab2a4190868fc0338a1"}]
