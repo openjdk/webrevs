@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -342,1 +342,1 @@\n-  static bool              _is_initialized;\n+  static       bool        _is_initialized;\n","filename":"src\/hotspot\/share\/interpreter\/bytecodes.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
