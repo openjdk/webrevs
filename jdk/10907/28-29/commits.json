@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure safepoint when processing lock-stack"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"},{"filename":"src\/hotspot\/share\/services\/management.cpp"}],"sha":"32fdda25fba6d6d57d48d5f2891e001062e7647b"}]
