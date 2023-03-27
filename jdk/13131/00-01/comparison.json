@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+ * @requires sun.arch.data.model == \"64\"\n","filename":"test\/jdk\/java\/nio\/charset\/CharsetDecoder\/XcodeOverflow.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
