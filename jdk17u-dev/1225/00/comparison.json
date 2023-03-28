@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -831,1 +831,0 @@\n-          __ verify_oop(to_reg->as_register(), FILE_AND_LINE);\n@@ -862,1 +861,0 @@\n-        __ verify_oop(to_reg->as_register(), FILE_AND_LINE);\n","filename":"src\/hotspot\/cpu\/ppc\/c1_LIRAssembler_ppc.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
