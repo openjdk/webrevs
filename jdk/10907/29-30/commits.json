@@ -1,0 +1,1 @@
+[{"commit":{"message":"(x86_32) Use existing thread register in fast_unlock() instead of fetching thread into a tmp register"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.hpp"}],"sha":"d4da05d9e668c634f336d58f5aac91aabeb4873a"}]
