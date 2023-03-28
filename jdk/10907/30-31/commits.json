@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use long branches at start of fast_lock() and fast_unlock() unconditionally"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"}],"sha":"7ccc4b638fcdcf54dad6acb784e52e7c6cc110e3"}]
