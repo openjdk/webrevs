@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1053,1 +1053,1 @@\n-         * (e.g. \"a.m.\" or \"p.m.\") field.\n+         * ({@literal e.g.} \"a.m.\" or \"p.m.\") field.\n","filename":"src\/java.base\/share\/classes\/java\/text\/DateFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
