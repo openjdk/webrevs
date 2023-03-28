@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address @shipilev review comments (x86)"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_LIRGenerator_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_32.cpp"}],"sha":"798615f9f0658e31a622ebe35827a109d4eba34c"}]
