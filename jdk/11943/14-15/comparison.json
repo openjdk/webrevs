@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,1 @@\n-           Path jdkRoot = Path.of(jlinkPath).getParent().getParent();\n+           Path jdkRoot = Path.of(System.getProperty(\"test.jdk\"));\n","filename":"test\/jdk\/tools\/jlink\/plugins\/CDSPluginTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
