@@ -1,0 +1,1 @@
+[{"commit":{"message":"4670339: Make WritableByteChannelImpl Flushable; add newChannel(OutputStream,boolean)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/Channels.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Channels\/Basic.java"}],"sha":"9967977eceb5ba098ba4614c84effb2c9a4a06ee"}]
