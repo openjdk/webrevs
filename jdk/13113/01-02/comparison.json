@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,1 +95,1 @@\n-        double[][] decisionPoints = { \n+        double[][] decisionPoints = {\n@@ -102,1 +102,1 @@\n-        \n+\n","filename":"test\/jdk\/java\/lang\/StrictMath\/IeeeRemainderTests.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
