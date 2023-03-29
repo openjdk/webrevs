@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -379,1 +379,1 @@\n-     * StringTemplate stc = StringTemplate.combine(st1, st2);\n+     * StringTemplate stc = StringTemplate.combine(List.of(st1, st2));\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringTemplate.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
