@@ -1,0 +1,1 @@
+[{"commit":{"message":"8289748: C2 compiled code crashes with SIGFPE with -XX:+StressLCM and -XX:+StressGCM\n\nReviewed-by: thartmann, chagedorn, kvn"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestRemoveEmptyCountedLoop.java"}],"sha":"4f0e17e233867f01a937fb2545bde79620009f63"}]
