@@ -1,0 +1,1 @@
+[{"commit":{"message":"Bounds check in lock-stack verification; only do watermark if we have one"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.cpp"},{"filename":"src\/hotspot\/share\/runtime\/lockStack.hpp"},{"filename":"src\/hotspot\/share\/runtime\/lockStack.inline.hpp"}],"sha":"62298e49a66b82685e78936d5c5de67e633f9e4a"}]
