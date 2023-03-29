@@ -1,0 +1,1 @@
+[{"commit":{"message":"8301491: C2: java.lang.StringUTF16::indexOfChar intrinsic called with negative character argument\n\nReviewed-by: thartmann, kvn"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestStringIndexOfCharIntrinsics.java"}],"sha":"8db8b41f6bfa4d4e7331f2a6e41758fa61e8c794"}]
