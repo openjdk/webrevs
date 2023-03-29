@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304585: Method::invoke rewraps InvocationTargetException if a caller-sensitive method throws IAE"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/reflect\/DirectMethodHandleAccessor.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/Method\/CallerSensitiveMethodInvoke.java"}],"sha":"45c7daf0554720e1f0caff61568f2887def8fc8f"}]
