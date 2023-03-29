@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303511: C2: assert(get_ctrl(n) == cle_out) during unrolling\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopstripmining\/TestAddPAtOuterLoopHead.java"}],"sha":"9e92dafb2587f294ed08513fc44171dc7155179b"}]
