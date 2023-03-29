@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,0 @@\n-    # Moved optimization flags to JvmFeatures.gmk, was -Wl,-O1\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
