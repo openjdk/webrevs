@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299959: C2: CmpU::Value must filter overflow computation against local sub computation\n\nReviewed-by: kvn, chagedorn, roland"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/rangechecks\/TestRangeCheckCmpUOverflowVsSub.java"}],"sha":"4c7c1d010ba95a488ce603c5be4dc650e28fe1d1"}]
