@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -212,0 +212,2 @@\n+        } catch (Error e) {\n+            throw e;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandleProxies.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
