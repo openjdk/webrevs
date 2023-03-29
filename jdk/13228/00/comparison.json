@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -254,0 +254,3 @@\n+    elif test \"x$OPENJDK_TARGET_CPU_ARCH\" = \"xs390\"; then\n+      AC_MSG_RESULT([no, $OPENJDK_TARGET_CPU_ARCH])\n+      AVAILABLE=false\n","filename":"make\/autoconf\/jvm-features.m4","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
