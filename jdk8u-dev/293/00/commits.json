@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305165: [8u] ServiceThread::nmethods_do is not called to keep nmethods from being zombied while in the queue"},"files":[{"filename":"hotspot\/src\/share\/vm\/runtime\/thread.hpp"}],"sha":"0c7e5a173caed41d0aeba69d58f904e86196cba2"}]
