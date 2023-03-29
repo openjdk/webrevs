@@ -1,0 +1,1 @@
+[{"commit":{"message":"8290822: C2: assert in PhaseIdealLoop::do_unroll() is subject to undefined behavior\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"}],"sha":"2fd79f272109f4588ff4931f4365fb2e0cea03a0"}]
