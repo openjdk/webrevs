@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -566,1 +566,0 @@\n-  HandleMark hm(THREAD);\n@@ -576,0 +575,1 @@\n+        HandleMark hm(THREAD);\n@@ -1178,1 +1178,0 @@\n-  HandleMark hm(THREAD);\n@@ -1187,0 +1186,1 @@\n+      HandleMark hm(THREAD);\n","filename":"src\/hotspot\/share\/oops\/klassVtable.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
