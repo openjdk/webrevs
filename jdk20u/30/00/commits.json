@@ -1,0 +1,1 @@
+[{"commit":{"message":"8300823: UB: Compile::_phase_optimize_finished is initialized too late\n\nReviewed-by: thartmann, chagedorn"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"a21f14e8a4bb0da8e9a12e8d1ff03fe185d2f30c"}]
