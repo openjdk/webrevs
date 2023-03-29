@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303508: Vector.lane() gets wrong value on x86\n\nReviewed-by: eliu, thartmann"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/Test8303508.java"}],"sha":"db519156e2ed0a0f9b9061c0c07c27a46af5c7e9"}]
