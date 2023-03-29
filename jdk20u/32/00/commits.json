@@ -1,0 +1,1 @@
+[{"commit":{"message":"8300079: SIGSEGV in LibraryCallKit::inline_string_copy due to constant NULL src argument\n\nReviewed-by: roland, chagedorn, kvn"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestCopyValueOf.java"}],"sha":"633d7bdce3672697f0a1e79d70c3bb0591d434c3"}]
