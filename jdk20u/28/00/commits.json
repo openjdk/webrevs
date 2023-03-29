@@ -1,0 +1,1 @@
+[{"commit":{"message":"8302594: use-after-free in Node::destruct\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/node.cpp"}],"sha":"2c16906a689a6de4a442c273759663c883edec4c"}]
