@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restrict VerifyLoopOptimizations to ASSERT \/ DEBUG_ONLY"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"src\/hotspot\/share\/opto\/split_if.cpp"}],"sha":"fe56c534a89300f1754cd666de16439174671de4"}]
