@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304683: Memory leak in WB_IsMethodCompatible\n\nReviewed-by: thartmann"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"}],"sha":"f22f79e1a2470ff0dcc5004c22af317f8bba9d99"}]
