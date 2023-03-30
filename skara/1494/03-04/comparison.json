@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,1 @@\n+import static org.openjdk.skara.bots.common.PullRequestConstants.WEBREV_COMMENT_MARKER;\n","filename":"bots\/pr\/src\/test\/java\/org\/openjdk\/skara\/bots\/pr\/CheckTests.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
