@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2735,1 +2735,1 @@\n-  if (message == nullptr) {\n+  if (message == NULL) {\n","filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
