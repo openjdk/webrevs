@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,3 +141,0 @@\n-                if (thread == null) {\n-                    break;\n-                }\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/ToggleNotifyJvmtiTest\/ToggleNotifyJvmtiTest.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
