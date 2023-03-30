@@ -1,0 +1,1 @@
+[{"commit":{"message":"More efficiently handle each humongous object in Full GC"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFullGC.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFullGC.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPhaseTimings.hpp"}],"sha":"a333c50c2a196df8a8cc4f71484a3ce6fbc543cd"}]
