@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1575,0 +1575,1 @@\n+        continue; \/\/ no need in JvmtiThreadState correction below if in transition\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
