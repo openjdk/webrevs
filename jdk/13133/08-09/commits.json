@@ -1,0 +1,1 @@
+[{"commit":{"message":"refactored jt->jvmti_thread_state() corrections in VM_SetNotifyJvmtiEventsMode"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/ToggleNotifyJvmtiTest\/libToggleNotifyJvmtiTest.cpp"}],"sha":"d1d4c03062d385d5cf40c9307e73048710df6b36"}]
