@@ -1,0 +1,1 @@
+[{"commit":{"message":"Include a warning saying that 'The JAR index (META-INF\/INDEX.LIST) is ignored at run-time since JDK 18'"},"files":[{"filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/Main.java"},{"filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/resources\/jar.properties"}],"sha":"79b19e94def64fc3791a10d9d29890e35f1e2e8b"}]
