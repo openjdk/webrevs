@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4862,1 +4862,1 @@\n-    assert(child->_head != nullptr || child_verify->_head != nullptr, \"must find at least one\");\n+    assert(child != nullptr || child_verify != nullptr, \"must find at least one\");\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
