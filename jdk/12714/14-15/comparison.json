@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -358,1 +358,0 @@\n-        System.out.println(getGraph().getDisplayName() + \" removeListener to \" + filterChain.getName());\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/DiagramViewModel.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
