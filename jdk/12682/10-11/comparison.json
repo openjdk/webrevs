@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -834,1 +834,1 @@\n-\/\/ v0, v30, v31 is used as RVV mask registers.\n+\/\/ Note: v0, v30 and v31 are used as mask registers.\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
