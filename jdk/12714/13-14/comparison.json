@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -428,1 +428,0 @@\n-            etc.centerSelectedNodes();\n@@ -430,0 +429,1 @@\n+            etc.centerSelectedNodes();\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/EditorTopComponent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
