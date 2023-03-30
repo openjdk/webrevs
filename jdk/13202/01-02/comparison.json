@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1701,1 +1701,1 @@\n-  } else if (Assembler::is_simm32(offset)) {\n+  } else {\n@@ -1704,2 +1704,0 @@\n-  } else {\n-    ShouldNotReachHere();\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
