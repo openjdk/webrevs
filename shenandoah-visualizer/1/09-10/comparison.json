@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -21,1 +21,1 @@\n-      uses: actions\/setup-java@v1\n+      uses: actions\/setup-java@v3\n@@ -24,0 +24,1 @@\n+        distribution: zulu\n","filename":".github\/workflows\/pre-integration.yml","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
