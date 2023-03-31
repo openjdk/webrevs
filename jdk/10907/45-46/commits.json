@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use int instead of size_t for cached offsets, to match the uncached offset type and avoid build failures"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.cpp"},{"filename":"src\/hotspot\/share\/runtime\/lockStack.hpp"}],"sha":"adeccaae2806e61a804f2c6c5d51902d6ac89603"}]
