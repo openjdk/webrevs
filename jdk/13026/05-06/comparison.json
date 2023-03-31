@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -321,1 +321,1 @@\n-  \/\/ Explicit null checks are needed if these offsets are larger than the page size\n+  \/\/ Explicit null checks are needed if these offsets are not smaller than the page size\n","filename":"src\/hotspot\/share\/memory\/universe.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
