@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update description and allow initialization after JFR has started"},"files":[{"filename":"src\/hotspot\/share\/jfr\/dcmd\/jfrDcmds.cpp"},{"filename":"src\/hotspot\/share\/jfr\/recorder\/service\/jfrOptionSet.cpp"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/Options.java"}],"sha":"c744b1c71861bd81f1e6007fbed3d778317d4529"}]
