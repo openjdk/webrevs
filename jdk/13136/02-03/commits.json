@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297539: Use PrimitiveConversions::cast for local uses of the int<->float union conversion trick"},"files":[{"filename":"src\/hotspot\/cpu\/arm\/assembler_arm.hpp"}],"sha":"cc36b50ce9a07b9ac3b3756e09486b975270e1aa"}]
