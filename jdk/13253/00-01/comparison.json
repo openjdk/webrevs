@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -468,0 +468,1 @@\n+   # noexcept-type required for GCC 7 builds. Not required for GCC 8+.\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
