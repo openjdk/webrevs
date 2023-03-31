@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -257,1 +257,1 @@\n-        String factoryClassName = SecuritySupport.readConfig(factoryId);\n+        String factoryClassName = SecuritySupport.readConfig(factoryId, true);\n","filename":"src\/java.xml\/share\/classes\/javax\/xml\/stream\/FactoryFinder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
