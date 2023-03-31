@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -763,1 +763,1 @@\n-  __ srli(t0, t0, Interpreter::logStackElementSize);   \/\/ t0 = xlocals - fp();\n+  __ srai(t0, t0, Interpreter::logStackElementSize);   \/\/ t0 = xlocals - fp();\n","filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

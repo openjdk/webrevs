@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305247: On RISC-V generate_fixed_frame() sometimes generate a relativized locals value which is way too large."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp"}],"sha":"51e94995877df5cdb245fa3c7d933defeea63134"}]
