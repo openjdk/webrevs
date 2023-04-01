@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8304945: StringBuilder and StringBuffer should implement Appendable explicitly"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/StringBuffer.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/StringBuilder.java"}],"sha":"ab05a11edd4372efb8afd99af91b6bbc1b89eaa1"}]
