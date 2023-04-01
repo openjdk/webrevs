@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-  assert((_top <  end_offset()), \"lockstack overflow: _top %d end_offset %d\", _top, end_offset());\n+  assert((_top <=  end_offset()), \"lockstack overflow: _top %d end_offset %d\", _top, end_offset());\n","filename":"src\/hotspot\/share\/runtime\/lockStack.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
