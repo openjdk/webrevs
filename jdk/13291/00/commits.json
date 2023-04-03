@@ -1,0 +1,1 @@
+[{"commit":{"message":"Relax test assertion\n\nMemDetailReporter::report_virtual_memory_region() has two code paths, one containing from and without it, remove from requirement from the assertion"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/NMT\/VirtualAllocCommitMerge.java"}],"sha":"264311c1db537e690651c86e25a9a8ab1ff1d346"}]

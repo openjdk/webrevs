@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -323,1 +323,1 @@\n-                           + \"\\\\] committed \" + sizeString + \" from.*\");\n+                           + \"\\\\] committed \" + sizeString + \".*\");\n","filename":"test\/hotspot\/jtreg\/runtime\/NMT\/VirtualAllocCommitMerge.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
