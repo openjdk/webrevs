@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,1 @@\n-    endif() \n+    endif()\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/cmake\/OptionsMSVC.cmake","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
