@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,0 +93,1 @@\n+  product(bool, UseRVC, true,  \"Use RVC instructions\")                           \\\n@@ -94,1 +95,0 @@\n-  product(bool, UseRVC, false, EXPERIMENTAL, \"Use RVC instructions\")             \\\n","filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
