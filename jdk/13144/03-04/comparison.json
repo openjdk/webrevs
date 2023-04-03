@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -641,1 +641,1 @@\n-    Thread *cur = Thread::current();\n+    Thread *cur = Thread::current_or_null_safe();\n@@ -651,1 +651,1 @@\n-    assert(thread != NULL, \"invariant\");\n+    assert(thread != nullptr, \"invariant\");\n","filename":"src\/hotspot\/share\/runtime\/thread.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
