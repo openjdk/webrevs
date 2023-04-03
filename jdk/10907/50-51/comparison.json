@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -993,1 +993,1 @@\n-  assert(!LockingMode != 2, \"should not be called with new lightweight locking\");\n+  assert(LockingMode != 2, \"should not be called with new lightweight locking\");\n","filename":"src\/hotspot\/share\/runtime\/javaThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
