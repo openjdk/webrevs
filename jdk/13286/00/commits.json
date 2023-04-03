@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop redundant catch of never-happening SIOOBE"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/ByteBufferAs-X-Buffer.java.template"},{"filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template"}],"sha":"4379cac157cb3dfdc302a00c3086ca0e5e280793"}]
