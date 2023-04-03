@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4824,1 +4824,1 @@\n-    children.insert_sorted<&compare_tree>(child);\n+    children.insert_sorted<compare_tree>(child);\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
