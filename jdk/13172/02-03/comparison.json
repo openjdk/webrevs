@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-                Object columnNames[] = \n+                Object columnNames[] =\n@@ -139,1 +139,1 @@\n-            return true; \n+            return true;\n","filename":"test\/jdk\/javax\/swing\/JTableHeader\/JTableHeaderExceptionTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
