@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix initialization of @Stable annotated dummyVectorMF field, it enabled logic folding in dummyVectorMF() method and reduced overall JIT code size."},"files":[{"filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/AbstractSpecies.java"}],"sha":"6a213f941e4488a9ea27ba82f75b3015f9e51899"}]
