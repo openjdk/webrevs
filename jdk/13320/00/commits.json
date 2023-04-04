@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305523: Some StoreStore barriers in the interpreter are unnecessary after JDK-8205683"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/templateTable_ppc_64.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/templateTable_riscv.cpp"}],"sha":"52bb1527d5121979e5636507367069eed2d9e5ec"}]
