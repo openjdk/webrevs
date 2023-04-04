@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Avoid redundant HashMap.containsKey call in ModuleDescriptor"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/module\/ModuleDescriptor.java"}],"sha":"06afe446370bd4d8e9cb042c4e5b12a9a652c6d2"}]
