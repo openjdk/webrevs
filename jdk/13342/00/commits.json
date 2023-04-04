@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305596: (fc) Two java\/nio\/channels tests fail after JDK-8303260"},"files":[{"filename":"test\/jdk\/ProblemList.txt"},{"filename":"test\/jdk\/java\/nio\/channels\/AsyncCloseAndInterrupt.java"},{"filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/Transfer.java"}],"sha":"d7a843b6d0689894d7fa7f1fe92d19d23f5c2c4c"}]
