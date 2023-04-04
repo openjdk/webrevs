@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove irrelevant changes to shenandoahReferenceProcessor.cpp\n\nThese changes were made to pass regression testing.  See PR#241."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp"}],"sha":"534da0ff5dd652296a3e817bd42758075bf14405"}]
