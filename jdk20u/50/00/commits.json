@@ -1,0 +1,1 @@
+[{"commit":{"message":"8298568: Fastdebug build fails after JDK-8296389\n\nReviewed-by: rkennke, kvn, haosun"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.cpp"}],"sha":"3322ced2cd600da4222fa295ee1e623516f003c9"}]
