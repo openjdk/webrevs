@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305343: BigDecimal.fractionOnly() erroneously returns true for large scale value"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java"},{"filename":"test\/jdk\/java\/math\/BigDecimal\/LongValueExactTests.java"}],"sha":"b5cc468932cf9715b1a7bd7e802a9f917a8ffd3f"}]
