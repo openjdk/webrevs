@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -243,1 +243,1 @@\n-      const uint num_regions_per_worker = num_cards_per_worker \/ (uint) HeapRegion::CardsPerRegion;\n+      const uint num_regions_per_worker = num_cards_per_worker \/ (uint)HeapRegion::CardsPerRegion;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
