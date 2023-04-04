@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305236: Some LoadLoad barriers in the interpreter are unnecessary after JDK-8220051"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/templateTable_riscv.cpp"}],"sha":"73e2e914c382bbd014d7d52c7eb4e2e114d485f0"}]
