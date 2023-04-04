@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -619,1 +619,1 @@\n-  HB_PAINT_COMPOSITE_MODE_HSL_LUMINOSITY,\n+  HB_PAINT_COMPOSITE_MODE_HSL_LUMINOSITY\n","filename":"src\/java.desktop\/share\/native\/libharfbuzz\/hb-paint.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
