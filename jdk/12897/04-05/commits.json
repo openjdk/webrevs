@@ -1,0 +1,1 @@
+[{"commit":{"message":"Addressing PR review 2: refactor & reuse MacroExpand::scalar_replacement method."},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"src\/hotspot\/share\/opto\/macro.cpp"},{"filename":"src\/hotspot\/share\/opto\/macro.hpp"}],"sha":"3752b21ab38be0ab5509e72bc006e0e8bf1e7147"}]
