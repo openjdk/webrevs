@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-        if (sinkChannel.size() != 1010)\n+        if (sinkChannel.size() != 1000 + bytesWritten)\n","filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/Transfer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
