@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -637,2 +637,1 @@\n-         *        .filter(Optional::isPresent)\n-         *        .map(Optional::get)\n+         *        .flatMap(Optional::stream)\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/Linker.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
