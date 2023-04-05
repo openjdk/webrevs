@@ -1,0 +1,1 @@
+[{"commit":{"message":"Put back thread type check in OS::is_lock_owned()"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"963de0ef3e2879cf7a5ec145689d28797fec23b2"}]
