@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,0 +121,1 @@\n+        diagram.setCFG(enable);\n@@ -472,1 +473,0 @@\n-        diagram.setCFG(getShowCFG());\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/DiagramViewModel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
