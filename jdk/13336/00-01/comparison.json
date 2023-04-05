@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -630,1 +630,1 @@\n-     *      RFC 822:: STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT MESSAGES\n+     *      RFC 822: STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT MESSAGES\n","filename":"src\/java.base\/share\/classes\/java\/security\/cert\/X509Certificate.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
