@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304738: UnregisteredClassesTable_lock never created"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"},{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"}],"sha":"312e726bd1fe4c3535e1b872ee828c19f3bf1dbc"}]
