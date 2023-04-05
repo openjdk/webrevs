@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304350: Font.getStringBounds calculates wrong width for TextAttribute.TRACKING other than 0.0\n\nSigned-off-by: Jonathan Dowland <jdowland@redhat.com>"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/Font.java"}],"sha":"edcb76f6556bfe3f51aeaad533774d675b344bba"}]
