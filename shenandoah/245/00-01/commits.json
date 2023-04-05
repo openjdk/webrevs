@@ -1,0 +1,1 @@
+[{"commit":{"message":"New assert fires, but instead of fixing it, remove useless live_memory completely"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahHeuristics.cpp"}],"sha":"4c16e6c6913981e27673dd9e9ef66964d3e34cc9"}]
