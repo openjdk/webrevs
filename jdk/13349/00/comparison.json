@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-#include <sys\/errno.h>\n+#include <errno.h>\n","filename":"test\/jdk\/java\/io\/File\/libGetXSpace.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
