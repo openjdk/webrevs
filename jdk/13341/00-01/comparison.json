@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -560,1 +560,0 @@\n-    @SuppressWarnings(\"fallthrough\")\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/DocCommentParser.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
