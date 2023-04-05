@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -632,1 +632,1 @@\n-     * Returns a {@code Collector} that produces the sum of a integer-valued\n+     * Returns a {@code Collector} that produces the sum of an integer-valued\n","filename":"src\/java.base\/share\/classes\/java\/util\/stream\/Collectors.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
