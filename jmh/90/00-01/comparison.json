@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,1 +130,1 @@\n-                            <Automatic-Module-Name>org.openjdk.jmh.core<\/Automatic-Module-Name>\n+                            <Automatic-Module-Name>org.openjdk.jmh<\/Automatic-Module-Name>\n","filename":"jmh-core\/pom.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
