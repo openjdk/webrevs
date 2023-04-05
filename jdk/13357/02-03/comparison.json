@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-            !Architecture.isAarch64()) {\n+            !Architecture.isAARCH64()) {\n","filename":"src\/jdk.attach\/windows\/classes\/sun\/tools\/attach\/AttachProviderImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
