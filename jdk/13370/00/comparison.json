@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,1 @@\n-    int index = trim_index(_head_index + i);\n+    int index = trim_index(_head_index - i);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1MMUTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
