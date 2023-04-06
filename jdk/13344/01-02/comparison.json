@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n-    public static final String CTW_EXTRA_ARGS\n+    private static final String CTW_EXTRA_ARGS\n","filename":"test\/hotspot\/jtreg\/testlibrary\/ctw\/src\/sun\/hotspot\/tools\/ctw\/CtwRunner.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
