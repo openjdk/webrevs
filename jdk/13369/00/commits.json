@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305690: [X86] Do not emit two REX prefixes in Assembler::prefix"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"}],"sha":"2203a9007560a5e09888111af234ab0a99949268"}]
