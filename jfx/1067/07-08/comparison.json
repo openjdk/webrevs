@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -245,1 +245,1 @@\n-        if (isMacOSX && name.startsWith(\"System \")) {\n+        if (isMacOSX && (name != null) && name.startsWith(\"System \")) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/font\/PrismFontFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
