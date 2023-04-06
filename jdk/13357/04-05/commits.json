@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove obsolete conditions in Windows AttachProviderImpl.\nAll platforms and architectures that can be built support attach."},"files":[{"filename":"src\/jdk.attach\/windows\/classes\/sun\/tools\/attach\/AttachProviderImpl.java"}],"sha":"ab084c27ab815fcef25fcb46749c461f77c2e23d"}]
