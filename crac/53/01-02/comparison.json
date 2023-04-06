@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2051,0 +2051,2 @@\n+  \/\/ Make the javaTimeNanos() on the next line return true monotonic time\n+  javaTimeNanos_offset = 0;\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
