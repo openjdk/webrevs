@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -309,1 +309,1 @@\n-tier1_gc_gcold = \\\n+tier3_gc_gcold = \\\n@@ -562,0 +562,1 @@\n+  :tier3_gc_gcold \\\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
