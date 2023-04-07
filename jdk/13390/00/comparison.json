@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -412,0 +412,4 @@\n+  \/\/ extra optimization, so we don't need to do this at runtime\n+  if (!access_flags().loops_flag_init()) {\n+    compute_has_loops_flag();\n+  }\n","filename":"src\/hotspot\/share\/oops\/method.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
