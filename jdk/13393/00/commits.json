@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305670: Performance regression in LockSupport.unpark with lots of idle threads"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp"}],"sha":"dbc011d65b415b1202308487e0656e48fa54d342"}]
