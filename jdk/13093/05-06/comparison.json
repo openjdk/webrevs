@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -220,0 +220,4 @@\n+        if (start == 0 && step == 1) {\n+            return iotaShuffle();\n+        }\n+\n","filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/AbstractVector.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
