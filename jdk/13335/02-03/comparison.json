@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -299,1 +299,1 @@\n-            case MACOS ->  \"java.util.prefs.MacOSXPreferencesFactory\";\n+            case MACOS -> \"java.util.prefs.MacOSXPreferencesFactory\";\n","filename":"src\/java.prefs\/share\/classes\/java\/util\/prefs\/Preferences.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
