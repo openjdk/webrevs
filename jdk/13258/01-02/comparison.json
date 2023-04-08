@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-  alignas(16) char space[sizeof (klass)]                \\\n+  alignas(16) char space[sizeof (klass)];               \\\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions_gcc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
