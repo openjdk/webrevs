@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,1 @@\n+import java.util.Collection;\n@@ -3457,1 +3458,1 @@\n-        var elems = new String[8];\n+        var elems = new String[elements instanceof Collection<?> c ? c.size() : 8];\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
