@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -695,1 +695,1 @@\n-    beforeAdd = CFDictionaryContainsKey(parent, child);\n+    beforeAdd = CFDictionaryContainsKey(parent, child) ? JNI_TRUE : JNI_FALSE;\n","filename":"src\/java.prefs\/macosx\/native\/libprefs\/MacOSXPreferencesFile.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
