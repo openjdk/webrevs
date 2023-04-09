@@ -1,0 +1,1 @@
+[{"commit":{"message":"Putting the special casing for an output stream backed by a ChannelOutputStream in one place."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ChannelInputStream.java"}],"sha":"7039304d0ab75fdf7d400a3e8d0f60cd9d535ad6"}]
