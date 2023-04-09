@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,1 +268,1 @@\n-        \/\/ ReableByteChannel -> WritableByteChannel\n+        \/\/ ReadableByteChannel -> WritableByteChannel\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ChannelInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
