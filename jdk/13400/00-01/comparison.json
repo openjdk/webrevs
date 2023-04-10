@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-.TH \"JAR\" \"1\" \"2023\" \"JDK 21-internal\" \"JDK Commands\"\n+.TH \"JAR\" \"1\" \"2023\" \"JDK 21-ea\" \"JDK Commands\"\n","filename":"src\/jdk.jartool\/share\/man\/jar.1","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
