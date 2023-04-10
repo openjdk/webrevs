@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added Spanish to KeyboardTest and fixed related bug. Changes based on review feedback."},"files":[{"filename":"buildSrc\/mac.gradle"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassKey.m"},{"filename":"tests\/manual\/events\/KeyboardTest.java"}],"sha":"3e6fc2669c9c9c0249d7e56ffaf5383807c6d3ff"}]
