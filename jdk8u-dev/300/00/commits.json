@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 9d99a377bfb6ffa890db049aee575e97914fc2a1"},"files":[{"filename":"jdk\/src\/share\/classes\/sun\/security\/ssl\/ClientHello.java"},{"filename":"jdk\/src\/share\/classes\/sun\/security\/ssl\/SSLConfiguration.java"},{"filename":"jdk\/test\/javax\/net\/ssl\/SSLSession\/ResumeTLS13withSNI.java"}],"sha":"d396244d9d56bf6f1a561bd779681aff2c180388"}]
