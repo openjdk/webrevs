@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2524,3 +2524,1 @@\n-  \/\/ BRK with hint\n-  const uint32_t c = 0xD4200000 | (((uint32_t)hint_imm16) << 5);\n-  emit_int32(c) ;\n+  brk(hint_imm16);\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
