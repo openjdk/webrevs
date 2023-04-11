@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into backport_8296412_rev1"},"files":[],"sha":"f6ddb23fb0a9303a47f1fc5d71e96fe3ce616cb8"},{"commit":{"message":"8296412: Special case infinite loops with unmerged backedges in IdealLoopTree::check_safepts\n\nReviewed-by: chagedorn, kvn, thartmann"},"files":[],"sha":"51569a84aa18fca5d350f40f33e703031a805f88"}]
