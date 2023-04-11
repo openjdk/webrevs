@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -270,1 +270,1 @@\n-    intptr_t value = *addr == 0 ? nullptr : (intptr_t)addr;\n+    intptr_t value = *addr == 0 ? (intptr_t)nullptr : (intptr_t)addr;\n","filename":"src\/hotspot\/cpu\/aarch64\/interpreterRT_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
