@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305858: Resolve multiple definition of 'handleSocketError' when statically linking with JDK native libraries"},"files":[{"filename":"src\/jdk.sctp\/unix\/native\/libsctp\/SctpChannelImpl.c"},{"filename":"src\/jdk.sctp\/unix\/native\/libsctp\/SctpNet.c"}],"sha":"642550f3971878e6fb7e84d62df2bd717b2dbabd"}]
