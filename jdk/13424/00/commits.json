@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305529: DefaultProxySelector.select(URI) in certain cases returns a List with null element"},"files":[{"filename":"src\/java.base\/unix\/native\/libnet\/DefaultProxySelector.c"},{"filename":"test\/jdk\/sun\/net\/spi\/SystemProxyDriver.java"},{"filename":"test\/jdk\/sun\/net\/spi\/SystemProxyTest.java"}],"sha":"375176edc5700b89893c3f13b893b44b61405df9"}]
