@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303904: avoid System.exit(1)\n\nmrserb recommended against this in a separate PR\n\nhttps:\/\/github.com\/openjdk\/jdk\/pull\/13408#discussion_r1162182212"},"files":[{"filename":"test\/jdk\/javax\/swing\/RepaintManager\/8303904\/bug8303904.java"}],"sha":"ffc8ff44dea69b673a9322ff13f10af8bf62aac1"}]
