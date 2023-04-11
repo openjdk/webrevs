@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -653,0 +653,2 @@\n+        if (len < 0)\n+            len = Integer.MAX_VALUE;\n","filename":"src\/java.base\/share\/classes\/java\/util\/BitSet.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
