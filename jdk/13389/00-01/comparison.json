@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2071,1 +2071,1 @@\n-      oop value = obj->obj_field_access<ON_UNKNOWN_OOP_REF>(displacement);\n+      oop value = obj->obj_field_access<MO_SEQ_CST | ON_UNKNOWN_OOP_REF>(displacement);\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
