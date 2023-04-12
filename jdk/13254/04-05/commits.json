@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed full heap scan. unmounted VT are not considered roots and reported only from references"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/FollowReferences\/VThreadStackRefTest.java"}],"sha":"f85e95baeb68bfacd128054d1943a287229d5272"}]
