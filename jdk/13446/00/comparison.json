@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,0 @@\n-    oop vt_oop = jt->jvmti_vthread();\n@@ -128,1 +127,1 @@\n-    if (vt_oop != nullptr && java_lang_VirtualThread::is_instance(vt_oop)) {\n+    if (jt->is_vthread_mounted()) {\n","filename":"src\/hotspot\/share\/runtime\/escapeBarrier.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
