@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix calculation of minimum fill size\n\nWe were incorrectly using byte size rather than word size."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"}],"sha":"837dc51b5fc507cdc932b0d3be1d78dbb5243620"}]
