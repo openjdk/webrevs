@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove an invalid assertion\n\nReplace with comments that explain what really happens in this code."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"}],"sha":"9f0b545949368e79468f4f42a8427976add32e0c"}]
