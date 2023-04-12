@@ -1,0 +1,1 @@
+[{"commit":{"message":"Correct miscalculation of fill size\n\nAn error was confirming that fill_size_bytes >= min_fill_size_words.\nThis commit corrects the error."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"}],"sha":"18217b4c9cebbbd6fa0b847c241cb3cc8e767c6b"}]
