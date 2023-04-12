@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -335,0 +335,3 @@\n+                } catch(IOException e) {\n+                    if (e.getMessage().equals(\"Function not implemented\"))\n+                        throw new SkipException(e.getMessage(), e);\n","filename":"test\/jdk\/java\/foreign\/TestByteBuffer.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
