@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-define_pd_global(bool,  VMContinuations, AIX_ONLY(false) NOT_AIX(true));\n+define_pd_global(bool,  VMContinuations, true BIG_ENDIAN_ONLY(&& false));\n","filename":"src\/hotspot\/cpu\/ppc\/globals_ppc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
