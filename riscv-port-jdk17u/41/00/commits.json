@@ -1,0 +1,1 @@
+[{"commit":{"message":"8296447: RISC-V: Make the operands order of vrsub_vx\/vrsub_vi consistent with RVV 1.0 spec"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"5cdb6fc890ef25dbcc8f044f5b2fff3cb5200da2"}]
