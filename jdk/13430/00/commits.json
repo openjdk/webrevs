@@ -1,0 +1,1 @@
+[{"commit":{"message":"Parsing a URI with an underscore goes through a silent exception, negatively impacting performance"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/URI.java"}],"sha":"3353228beb2f5dd10f899e47d364fa06152dde08"}]
