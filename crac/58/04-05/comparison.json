@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -245,0 +245,1 @@\n+            beginCondition.signal();\n","filename":"src\/java.base\/share\/classes\/jdk\/crac\/RCULock.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
