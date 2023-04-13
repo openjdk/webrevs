@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -551,1 +551,1 @@\n-        argInfo.targetVMArgs += VMConnection.getDebuggeeVMOptions();\n+        argInfo.targetVMArgs = VMConnection.getDebuggeeVMOptions() + \" \" + argInfo.targetVMArgs;\n","filename":"test\/jdk\/com\/sun\/jdi\/TestScaffold.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
