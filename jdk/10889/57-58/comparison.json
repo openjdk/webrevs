@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,0 @@\n-import jdk.internal.javac.PreviewFeature;\n@@ -39,1 +38,0 @@\n-@PreviewFeature(feature=PreviewFeature.Feature.STRING_TEMPLATES)\n","filename":"src\/java.base\/share\/classes\/java\/util\/Digits.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
