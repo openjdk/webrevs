@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305404: Compile_lock not needed for InstanceKlass::implementor()"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"76c4aa8a2b61e54b6234a0c231898bc69ec03daf"}]
