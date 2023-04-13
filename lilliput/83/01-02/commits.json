@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure compaction order in serial GC"},"files":[{"filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/forwardingTable.inline.hpp"}],"sha":"40d889bc2615685f5804f9024d0f2a926b2dae76"}]
