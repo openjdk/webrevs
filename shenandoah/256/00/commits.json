@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable assertions in code that is expected to be replaced soon"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"a97bc1e662b5fe51c49cdbbff743a710c7df0de6"}]
