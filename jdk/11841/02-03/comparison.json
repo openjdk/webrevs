@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-const DMemState *        DMemStatePtr = &DMemGlobalState;\n+const  DMemState *       DMemStatePtr = &DMemGlobalState;\n","filename":"src\/java.desktop\/share\/native\/common\/awt\/debug\/debug_mem.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
