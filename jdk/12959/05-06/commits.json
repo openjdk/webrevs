@@ -1,0 +1,1 @@
+[{"commit":{"message":"The END header LOC offset field and the second entry's CEN LOC offset fields need to be update to account for the four missing signature bytes."},"files":[{"filename":"test\/jdk\/java\/util\/zip\/DataDescriptorSignatureMissing.java"}],"sha":"5dd9891bb3585a6568db0e3771e7217ca565168e"}]
