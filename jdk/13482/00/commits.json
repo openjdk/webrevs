@@ -1,0 +1,1 @@
+[{"commit":{"message":"(zipfs) Opening a directory to get input stream produces incorrect exception message"},"files":[{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"},{"filename":"test\/jdk\/jdk\/nio\/zipfs\/ZipFSDirectoryExceptionMessageTest.java"}],"sha":"e99a91bf58ead0ecf43d94a02e39c3d0cf86a8a8"}]
