@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix insertion index calculation issue in TextFlow"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/text\/PrismTextLayout.java"},{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/TextFlowSurrogatePairInsertionIndexTest.java"}],"sha":"f741febcbcd1be20cce054ae18b3652b7c5214b0"}]
