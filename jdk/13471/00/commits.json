@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305944: assert(is_aligned(ref, HeapWordSize)) failed: invariant"},"files":[{"filename":"src\/hotspot\/share\/jfr\/leakprofiler\/chains\/rootSetClosure.cpp"}],"sha":"87392d01582b0113fc5148755ab0ed8ac14b9f37"}]
