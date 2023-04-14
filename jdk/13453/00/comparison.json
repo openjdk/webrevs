@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1313,1 +1313,1 @@\n-    } else if (sub == up && sub->is_Region() && sub->req() == 3) {\n+    } else if (sub == up && sub->is_Region()) {\n","filename":"src\/hotspot\/share\/opto\/node.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
