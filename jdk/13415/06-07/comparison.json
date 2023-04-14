@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -325,3 +325,0 @@\n-        if (start == 0 && end == csq.length())\n-            return append(csq);\n-\n","filename":"src\/java.base\/share\/classes\/java\/nio\/Heap-X-Buffer.java.template","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305811: Remove fallback to append(CS) when start == 0 and end == csq.length() (caused failure in Appendable\/Basic.java)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Heap-X-Buffer.java.template"}],"sha":"ab5fe71c94b895b8fddafee5337a6b906a11263b"}]
