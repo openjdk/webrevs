@@ -1,0 +1,1 @@
+[{"commit":{"message":"add explicit nullptr check"},"files":[{"filename":"src\/hotspot\/share\/runtime\/escapeBarrier.cpp"}],"sha":"70359de6c60e2333992dd7bce9c591a3a690c7e1"},{"commit":{"message":"modify check to include plain continuations"},"files":[{"filename":"src\/hotspot\/share\/runtime\/escapeBarrier.cpp"}],"sha":"73ac9b0a36e37507f6d9abd0502294805baa401d"}]

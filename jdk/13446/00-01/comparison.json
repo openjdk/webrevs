@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,2 +126,2 @@\n-    \/\/ Skip virtual threads\n-    if (jt->is_vthread_mounted()) {\n+    \/\/ Skip thread with mounted continuation\n+    if (jt->last_continuation() != nullptr) {\n","filename":"src\/hotspot\/share\/runtime\/escapeBarrier.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
