@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -174,0 +174,3 @@\n+  else ifeq ($(call isCompiler, microsoft), true)\n+    JVM_CFLAGS_FEATURES += -GL\n+    JVM_LDFLAGS_FEATURES += -LTCG:INCREMENTAL\n","filename":"make\/hotspot\/lib\/JvmFeatures.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
