@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305336: java.security.debug=sunpkcs11 breaks PKCS#11 configuration with slotListIndex"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/SunPKCS11.java"}],"sha":"e9376caddf76b35be8cd46a3f6b121c9807f225b"}]
