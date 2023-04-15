@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-            assertEquals(x.getMessage(), DIR_EXCEPTION_MESSAGE);\n+            assertEquals(DIR_EXCEPTION_MESSAGE, x.getMessage());\n","filename":"test\/jdk\/jdk\/nio\/zipfs\/ZipFSDirectoryExceptionMessageTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
