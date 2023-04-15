@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -295,1 +295,1 @@\n-  assert(_thread != NULL, \"sanity check\");\n+  assert(_thread != nullptr, \"sanity check\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
