@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-        \/\/ One \"warmup\" call avoids VM activity (e.g. Thread::current) disturbing last error value.\n+        \/\/ \"Warmup\" call to ensure method resolution does not change last error value:\n","filename":"test\/jdk\/com\/sun\/jdi\/JdbLastErrorTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
