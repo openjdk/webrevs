@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,3 +56,0 @@\n-# IntelliJ\n-out\/\n-\n@@ -63,6 +60,0 @@\n-#Crash log\n-hs_err*.log,\n-\n-#mac folder\n-.DS_Store\n-\n","filename":".gitignore","additions":0,"deletions":9,"binary":false,"changes":9,"status":"modified"}]}
