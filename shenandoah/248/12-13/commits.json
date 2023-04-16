@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix my fix for overwriting update_watermark in promote_in_place\n\nI wasn't careful enough to assure that I did not introduce another\nassertion error with my previous \"fix\"."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp"}],"sha":"8bf033667570ad87cbedb74e75df42eb2e1e6e19"}]
