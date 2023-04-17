@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -717,0 +717,2 @@\n+        \/\/ We map the JvmtiEnv to its Agent to measure when and for how long\n+        \/\/ it took to initialize so that JFR can report this information.\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
