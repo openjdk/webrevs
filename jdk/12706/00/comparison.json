@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -518,1 +518,1 @@\n-  dispatch_base(state, Interpreter::dispatch_table(state), generate_poll);\n+  dispatch_base(state, Interpreter::dispatch_table(state), \/*verifyoop*\/true, generate_poll);\n","filename":"src\/hotspot\/cpu\/aarch64\/interp_masm_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
