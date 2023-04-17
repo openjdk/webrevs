@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make the new field transient\n\nAvoid changing the serialized form."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Enum.java"}],"sha":"f5608481af174d84920c49e1b5bfc6541401220a"}]
