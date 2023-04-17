@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+<<<<<<< HEAD\n@@ -31,0 +32,3 @@\n+=======\n+ifeq ($(call isTargetOs, linux macosx windows ios android), true)\n+>>>>>>> 99d6292e4f52dbab755b4926dd684ad88aa30f33\n","filename":"make\/modules\/jdk.net\/Lib.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
