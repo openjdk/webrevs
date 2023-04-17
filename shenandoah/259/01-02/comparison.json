@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,0 +91,2 @@\n+gc\/stress\/systemgc\/TestSystemGCWithShenandoah.java#generational 8306024 generic-all\n+gc\/stress\/gclocker\/TestGCLockerWithShenandoah.java#generational 8306024 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
