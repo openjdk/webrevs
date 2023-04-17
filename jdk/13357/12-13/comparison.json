@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-            case \"riscv64\" -> RISCV64;  \/\/ unverified\n+            case \"riscv64\" -> RISCV64;\n","filename":"test\/jdk\/jdk\/internal\/util\/ArchTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
