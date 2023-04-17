@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -920,0 +920,1 @@\n+  log_error(cds)(\"An error has occurred while writing the shared archive file.\");\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
