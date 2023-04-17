@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,1 +137,1 @@\n-\/\/ When there are no enough GC events, i.e. we have a surplus budget, a new GC\n+\/\/ When there are not enough GC events, i.e. we have a surplus budget, a new GC\n","filename":"src\/hotspot\/share\/gc\/g1\/g1MMUTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
