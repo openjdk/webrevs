@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not call min_threshold unless generation is not old\n\nFollowing the merge, min_threshold() asserts generation is not old.\nmin_threshold() is not relevant to old-generation GC triggers."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAdaptiveHeuristics.cpp"}],"sha":"157d42d4b1463ea1da843099b540c943fe3c8a79"}]

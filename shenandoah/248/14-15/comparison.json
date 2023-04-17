@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -430,2 +430,0 @@\n-  size_t min_threshold = min_free_threshold();\n-\n@@ -435,0 +433,2 @@\n+    size_t min_threshold = min_free_threshold();\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAdaptiveHeuristics.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
