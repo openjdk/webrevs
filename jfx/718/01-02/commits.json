@@ -1,0 +1,1 @@
+[{"commit":{"message":"The Robot code now correctly targets numlock keypad keys and keys that always appear on group 0."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_key.cpp"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_key.h"}],"sha":"ca9f5bf7e83142a42a46643135f7bb8f629126c8"}]
