@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1429,1 +1429,1 @@\n-    log_error(cds)(\"Unable to seek to position %zu\", pos);\n+    log_error(cds)(\"Unable to seek to position \" SIZE_FORMAT, pos);\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
