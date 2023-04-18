@@ -1,0 +1,1 @@
+[{"commit":{"message":"8136895: Writer not closed with disk full error, file resource leaked"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/StreamEncoder.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Channels\/Close.java"}],"sha":"30f261536e239224e14b710c17a83dcd602b19a0"}]
