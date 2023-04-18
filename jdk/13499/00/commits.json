@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305746: InitializeEncoding should cache Charset object instead of charset name"},"files":[{"filename":"src\/java.base\/share\/native\/libjava\/jni_util.c"}],"sha":"4f5aa514e1f4b97431e41fdf4035d262e3e6086d"}]
