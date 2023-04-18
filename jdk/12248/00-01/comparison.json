@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -208,1 +208,1 @@\n-    if (pre_val->bottom_type() == TypePtr::nullptr_PTR) return;\n+    if (pre_val->bottom_type() == TypePtr::NULL_PTR) return;\n","filename":"src\/hotspot\/share\/gc\/g1\/c2\/g1BarrierSetC2.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
