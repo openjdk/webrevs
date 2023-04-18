@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -248,1 +248,0 @@\n-  assert(offset >= 0, \"invariant\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiAgentList.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
