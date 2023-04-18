@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305995: Footprint regression from JDK-8224957\n\nReviewed-by: kvn, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/node.cpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/RBTreeSearch.java"}],"sha":"d376554c6cdec9e87b154571ea499f58b1c4a0cb"}]
