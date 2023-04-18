@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1557,1 +1557,1 @@\n-    guarantee(is_imm_in_range(imm, 5, 0), \"imm is invalid\");                  \\\n+    guarantee(is_simm5(imm), \"imm is invalid\");                               \\\n","filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
