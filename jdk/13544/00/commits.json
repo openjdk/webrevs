@@ -1,0 +1,1 @@
+[{"commit":{"message":"Include default methods inherited from interfaces in bean introspection."},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/beans\/introspect\/MethodInfo.java"},{"filename":"test\/jdk\/java\/beans\/Introspector\/DefaultMethodBeanPropertyTest.java"}],"sha":"b343ba1fd446e1b8f25672afa0c4ca5dea347494"}]
