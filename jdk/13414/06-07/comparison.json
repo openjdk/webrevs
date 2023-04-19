@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,3 +83,0 @@\n-\n-        Frame frame;\n-\n@@ -91,1 +88,1 @@\n-        frame = new Frame(\"CopyAnimatedGIFTest\");\n+        Frame frame = new Frame(\"CopyAnimatedGIFTest\");\n","filename":"test\/jdk\/java\/awt\/Clipboard\/CopyAnimatedGIFTest.java","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
