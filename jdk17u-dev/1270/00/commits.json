@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 5a478ef7759e64da6d17426673700ff0d9c66b33"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/arraycopy\/TestArrayCopyIntrinsicWithUCT.java"}],"sha":"8df0245fa861cbf4ecf8c9ccd5bbdf26e8d1dfcd"}]
