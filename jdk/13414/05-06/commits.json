@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove dispose() since jtreg will take care of disposing of the frame"},"files":[{"filename":"test\/jdk\/java\/awt\/Clipboard\/CopyAnimatedGIFTest.java"}],"sha":"eac1565e9eb3e85767fe427c09baca094e748039"}]
