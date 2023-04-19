@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -788,0 +788,1 @@\n+      \/\/ Try to capture the live JavaThread in a ThreadsListHandle:\n@@ -790,0 +791,1 @@\n+        \/\/ The still live JavaThread is protected by the ThreadsListHandle.\n","filename":"src\/hotspot\/share\/prims\/unsafe.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
