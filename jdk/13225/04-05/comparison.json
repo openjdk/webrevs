@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5260,2 +5260,2 @@\n-  jlong nanos = nanos - millis * NANOSECS_PER_MILLISEC;\n-  if (nanos > 0) {\n+  jlong nanos_left = nanos - millis * NANOSECS_PER_MILLISEC;\n+  if (nanos_left > 0) {\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
