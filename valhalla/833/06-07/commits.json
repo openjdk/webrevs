@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix ciType creation for multifield."},"files":[{"filename":"src\/hotspot\/share\/ci\/ciField.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp"},{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"src\/hotspot\/share\/opto\/parseHelper.cpp"}],"sha":"6e735913069517931b8da1d520c50c1730c15ee9"}]
