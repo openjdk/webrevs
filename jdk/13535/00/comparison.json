@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,0 @@\n-  _worklist = new (_arena) Block_List();\n@@ -91,0 +90,3 @@\n+  Block_List wl;\n+  _worklist = &wl;\n+\n@@ -152,1 +154,1 @@\n-    while (_worklist->size()) {\n+    while (_worklist->size() != 0) {\n","filename":"src\/hotspot\/share\/opto\/live.cpp","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
