@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -593,1 +593,1 @@\n-     *     Channels.newWriter(ch, Charset.forName(csName).newEncoder(), -1)\n+     *     Channels.newWriter(ch, charset.newEncoder(), -1)\n","filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/Channels.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
