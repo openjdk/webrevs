@@ -1,0 +1,1 @@
+[{"commit":{"message":"backport RISC-V: get\/put_native_u8 missing the case when address&7 is 6"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/bytes_riscv.hpp"}],"sha":"79e7f2c620eb6679d9b73a2d98d1f611b0321fb9"}]
