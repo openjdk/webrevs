@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed stack counting of JSR instructions"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackCounter.java"},{"filename":"test\/jdk\/jdk\/classfile\/DiscontinuedInstructionsTest.java"}],"sha":"c1f3e2900740212463c8d3fc2b3a3d467ecf283c"}]
