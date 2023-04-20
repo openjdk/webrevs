@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2629,1 +2629,1 @@\n-        return (stamp_a > stamp_b) ? stamp_a : stamp_b;\n+        return Math.max(stamp_a, stamp_b);\n","filename":"src\/java.base\/share\/classes\/java\/util\/Calendar.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
