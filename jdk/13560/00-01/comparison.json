@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,2 +49,0 @@\n-        OutputAnalyzer jshellOutput = new OutputAnalyzer(jShellProcess);\n-\n@@ -88,0 +86,1 @@\n+            OutputAnalyzer jshellOutput = new OutputAnalyzer(jShellProcess);\n","filename":"test\/jdk\/sun\/tools\/jhsdb\/JStackStressTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
