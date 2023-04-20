@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305252: make_method_handle_intrinsic may call java code under a lock"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"},{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"},{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.hpp"}],"sha":"43b5dd06e954617deb2e9cfa56fb4fb5550fa1f0"}]
