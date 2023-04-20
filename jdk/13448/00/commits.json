@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove lingering this == nullptr checks from osThread_*.cpp"},"files":[{"filename":"src\/hotspot\/os\/aix\/osThread_aix.cpp"},{"filename":"src\/hotspot\/os\/linux\/osThread_linux.cpp"}],"sha":"1e68fa9f1c9fdfe9d1f0c19895e60309638de29e"}]
