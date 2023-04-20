@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-                Pattern pattern = Pattern.compile(\"\\\\b\"+preferred+\"\\\\b\");\n+                Pattern pattern = Pattern.compile(\",\"+preferred+\"(,|$)\");\n","filename":"make\/jdk\/src\/classes\/build\/tools\/generatelsrequivmaps\/EquivMapsGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
