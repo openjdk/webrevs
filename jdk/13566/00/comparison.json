@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2719,1 +2719,1 @@\n-  objArrayOop filter_oop = oopFactory::new_objectArray(filter_length, CHECK_NULL);\n+  objArrayOop filter_oop = oopFactory::new_objArray(vmClasses::Class_klass(), filter_length, CHECK_NULL);\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

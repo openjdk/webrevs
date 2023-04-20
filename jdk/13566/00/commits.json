@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix type punning bug in upcall to VMSupport::encodeAnnotations"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"66e4c36096a2fba6ed631d8d4f2678341fd9bb19"}]
