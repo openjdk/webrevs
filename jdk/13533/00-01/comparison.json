@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -250,1 +250,1 @@\n-        buckets[j][cnt] = _cfg.get_block(i);\n+        buckets[j][cnt] = blk;\n@@ -264,0 +264,2 @@\n+  assert((&buckets[0][0] + nr_blocks) == offset, \"should be\");\n+\n","filename":"src\/hotspot\/share\/opto\/chaitin.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
