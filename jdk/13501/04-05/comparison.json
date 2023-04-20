@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,0 @@\n-import java.util.regex.Pattern;\n@@ -43,0 +42,1 @@\n+import java.util.regex.Pattern;\n","filename":"make\/jdk\/src\/classes\/build\/tools\/generatelsrequivmaps\/EquivMapsGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
