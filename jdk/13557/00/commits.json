@@ -1,0 +1,1 @@
+[{"commit":{"message":"Define JvmtiAgent::set_os_lib when JVMTI feature is not available"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiAgent.hpp"}],"sha":"dbba32af4ab675d6f9306f60ed9f6f44e2e98cb7"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-  void set_os_lib(void* os_lib);\n+  void set_os_lib(void* os_lib) NOT_JVMTI_RETURN;\n","filename":"src\/hotspot\/share\/prims\/jvmtiAgent.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
