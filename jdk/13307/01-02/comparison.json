@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1586,1 +1586,3 @@\n-    f(method);\n+    if (method != nullptr) {\n+      f(method);\n+    }\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}

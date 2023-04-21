@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix another bug with intrinsic method iteration (need to check for null)"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"81a2826c9b26a5780cdfb43934d49dfde47de38e"}]
