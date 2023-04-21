@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8305507 Add support for grace period before AbortVMOnSafepointTimeout triggers"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/safepoint.cpp"}],"sha":"ccd433c6c996221e0bd3cd002ae8734a29357a57"}]
