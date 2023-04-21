@@ -1,0 +1,1 @@
+[{"commit":{"message":"Correct comment on isPPC64() and refer to isLittleEndian() instead of mentioning PPC64LE"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/Architecture.java"}],"sha":"accf67f91f506726249cebc57f7291a19e3fe0d1"}]
