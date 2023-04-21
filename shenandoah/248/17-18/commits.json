@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable certain assertions for global generation\n\nThis is a temporary fix.  After global generation correctly accounts for\naffiliated regions, we can enable these assertions anew."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp"}],"sha":"0cc23fd98c140f1b63ad509e06347a78385a93ec"}]
