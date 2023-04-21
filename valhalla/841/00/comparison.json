@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,0 +235,2 @@\n+                     ->cast_to_not_flat(t_oop->is_aryptr()->is_not_flat())\n+                     ->cast_to_not_null_free(t_oop->is_aryptr()->is_not_null_free())\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
