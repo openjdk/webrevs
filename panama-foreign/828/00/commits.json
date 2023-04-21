@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix tests and benchmarks on x86"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/Utils.java"},{"filename":"test\/jdk\/java\/foreign\/callarranger\/TestWindowsCallArranger.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/libPtr.c"}],"sha":"b609e5e463fa3d8cc63a6b066775a727976bc424"}]
