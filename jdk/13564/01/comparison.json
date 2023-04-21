@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-#define MALLOC_MIN4(len) ((unsigned)(len) >= INT_MAX ? \\\n+#define MALLOC_MIN4(len) ((len) >= INT_MAX || (len) < 0 ? \\\n","filename":"src\/java.base\/share\/native\/libjava\/jni_util.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
