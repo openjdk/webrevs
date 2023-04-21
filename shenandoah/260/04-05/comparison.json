@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-        used = type.getCIntegerField(\"_committed\");\n+        used = type.getCIntegerField(\"_used\");\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/gc\/shenandoah\/ShenandoahGeneration.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
