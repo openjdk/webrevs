@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8306658\n\nGHA: MSVC installation could be optional since it might already be pre-installed"},"files":[{"filename":".github\/workflows\/build-windows.yml"}],"sha":"2cb14408adb8dca7e53b145919a100ec324e9774"}]
