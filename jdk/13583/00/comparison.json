@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -925,1 +925,1 @@\n-  vm_exit(1);\n+  vm_direct_exit(1);\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
