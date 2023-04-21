@@ -1,0 +1,1 @@
+[{"commit":{"message":"Split CompilerHintsSelect.AUTO into AUTO_ON\/AUTO_OFF\n\nOnly print compiler hints status when it is forced"},"files":[{"filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/runner\/CompilerHints.java"},{"filename":"jmh-core\/src\/test\/java\/org\/openjdk\/jmh\/runner\/CompilerHintsTest.java"}],"sha":"9c1617afde111a5973e80c661f3597b409d03e80"}]
