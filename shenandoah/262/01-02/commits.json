@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not transition from FILLING to BOOTSTRAP before checking cancellation"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.cpp"}],"sha":"8fb11ec979a6909b517f1b0a66af448f7f7a8875"}]
