@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -13,0 +13,5 @@\n+\t<classpathentry combineaccessrules=\"false\" kind=\"src\" path=\"\/controls\">\n+\t\t<attributes>\n+\t\t\t<attribute name=\"module\" value=\"true\"\/>\n+\t\t<\/attributes>\n+\t<\/classpathentry>\n","filename":"tests\/manual\/events\/.classpath","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
