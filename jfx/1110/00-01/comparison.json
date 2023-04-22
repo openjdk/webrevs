@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -528,0 +528,2 @@\n+\n+            requestFocus();\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/WindowStage.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
