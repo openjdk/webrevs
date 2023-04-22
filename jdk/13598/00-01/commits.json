@@ -1,0 +1,1 @@
+[{"commit":{"message":"Unify ofInternalName and internalName, document about CONSTANT_Class_info, remove misleading JVMS 4.4.1 links"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ClassDesc.java"},{"filename":"test\/jdk\/java\/lang\/constant\/ClassDescTest.java"}],"sha":"4620ec2e466d1d7411d6833a3d557ed97053c07d"}]
