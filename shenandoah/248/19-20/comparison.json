@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -460,1 +460,1 @@\n-      assert(promoted_regions_span > promoted_humongous_bytes, \"sanity\");\n+      assert(promoted_regions_span >= promoted_humongous_bytes, \"sanity\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
