@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -529,3 +529,1 @@\n-            if (platformWindow != null && !platformWindow.isMinimized()) {\n-                requestFocus();\n-            }\n+            requestFocus();\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/WindowStage.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}

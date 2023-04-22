@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"The window could start iconified.\"\n\nThis reverts commit f92e25cbcc24fd772b9d6bb25a92386ec0561313."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/WindowStage.java"}],"sha":"4f67a385273f47f18f1d9c29a198b1dd46ad66b8"}]
