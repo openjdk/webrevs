@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-                if (IGNORABLE_INTERFACES.contains(iface))\n+                if (IGNORABLE_INTERFACES.contains(iface)) {\n@@ -112,0 +112,1 @@\n+                }\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/beans\/introspect\/MethodInfo.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
