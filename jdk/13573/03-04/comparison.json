@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,2 +51,2 @@\n-    transient int xPos = 0;\n-    transient int yPos = 0;\n+    volatile int xPos = 0;\n+    volatile int yPos = 0;\n","filename":"test\/jdk\/java\/awt\/MouseInfo\/ContainerMousePositionTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
