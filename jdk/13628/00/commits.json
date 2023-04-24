@@ -1,0 +1,1 @@
+[{"commit":{"message":"8306770: Remove obsolete version checks on Mac OS X\nBsdFileStore no longer needs to check the os.version, it is true on supported versions."},"files":[{"filename":"src\/java.base\/macosx\/classes\/sun\/nio\/fs\/BsdFileStore.java"}],"sha":"f92d488b5d5dec01bfbca3b354db92458f8dc412"}]
