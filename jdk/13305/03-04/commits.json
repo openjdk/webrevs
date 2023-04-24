@@ -1,0 +1,1 @@
+[{"commit":{"message":"Small optimization in private split().\nAdded tests to compare String and Pattern implementations, in particular for one char regex."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/String.java"},{"filename":"test\/jdk\/java\/util\/regex\/SplitWithDelimitersTest.java"}],"sha":"e7f0980bdef7255fa7a7f72b0cc7373e5242fcda"}]
