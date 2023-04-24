@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1569,1 +1569,0 @@\n-    BasicType bt = Matcher::vector_element_basic_type(this);\n@@ -1583,1 +1582,0 @@\n-    BasicType bt = Matcher::vector_element_basic_type(this);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
