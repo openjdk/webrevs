@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,1 +200,1 @@\n-  case ciTypeFlow::StateVector::T_nullptr:\n+  case ciTypeFlow::StateVector::T_NULL:\n","filename":"src\/hotspot\/share\/opto\/type.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
