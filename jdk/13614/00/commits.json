@@ -1,0 +1,1 @@
+[{"commit":{"message":"8306732: TruncatedSeq::predict_next() attempts linear regression with only one data point"},"files":[{"filename":"src\/hotspot\/share\/utilities\/numberSeq.cpp"}],"sha":"1a9fc1d586ff45755ded1d8bf3e882a6b9e1990e"}]
