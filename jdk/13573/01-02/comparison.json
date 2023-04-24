@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-                yPos = p.y + button.getHeight() \/ 2\n+                yPos = p.y + button.getHeight() \/ 2;\n","filename":"test\/jdk\/java\/awt\/MouseInfo\/ContainerMousePositionTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
