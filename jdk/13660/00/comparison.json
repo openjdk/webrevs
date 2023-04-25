@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,2 @@\n+ * @comment Don't allow -Xcomp, it disturbs the relative timing of the sleep and kill commands\n+ * @requires (vm.compMode == \"Xmixed\")\n","filename":"test\/jdk\/java\/lang\/ProcessBuilder\/UnblockSignals.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
