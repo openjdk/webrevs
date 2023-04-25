@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,0 +157,2 @@\n+        \/\/introduce sleep , so that web contents would be loaded , then take snapshot for testing\n+        Util.sleep(1000);\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/scene\/web\/StraightLineTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
