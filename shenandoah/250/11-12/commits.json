@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix an assert problem with initial clearing of freeset"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.hpp"}],"sha":"7c8c02f1ea32b4357f296cb0a9add27660756344"}]
