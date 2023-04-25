@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify initialization in ClassLoaderHelper and fix VersionTest."},"files":[{"filename":"src\/java.base\/macosx\/classes\/jdk\/internal\/loader\/ClassLoaderHelper.java"},{"filename":"test\/jdk\/jdk\/internal\/util\/VersionTest.java"}],"sha":"8e3d9df3f09ec38218881ff7a9e8aacd6f44baf2"}]
