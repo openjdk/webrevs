@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -272,1 +272,1 @@\n-     * @implNote The default implementation first determines the &delta; above.\n+     * @implSpec The default implementation first determines the &delta; above.\n","filename":"src\/java.base\/share\/classes\/java\/util\/random\/RandomGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
