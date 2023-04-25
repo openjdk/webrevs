@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,0 @@\n-        waiting = true;\n@@ -55,0 +54,2 @@\n+        \/\/ No printlns or other calls allowed after this point.\n+        waiting = true;\n","filename":"test\/jdk\/com\/sun\/jdi\/PopAndInvokeTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
