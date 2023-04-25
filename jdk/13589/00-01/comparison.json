@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n-    boolean  flag = true;\n+    boolean flag = true;\n","filename":"test\/jdk\/java\/awt\/MenuItem\/MenuSetLabelTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
