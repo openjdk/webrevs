@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-  @run main\/timeout=600 MenuSetLabelTest\n+  @run main MenuSetLabelTest\n","filename":"test\/jdk\/java\/awt\/MenuItem\/MenuSetLabelTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
