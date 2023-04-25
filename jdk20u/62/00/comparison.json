@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -603,1 +603,3 @@\n-        updateIconImages();\n+        if (((Window)target).isVisible()) {\n+            updateIconImages();\n+        }\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WWindowPeer.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
