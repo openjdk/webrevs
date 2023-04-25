@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -422,0 +422,3 @@\n+        if (isEmpty()) {\n+            return (List<Z>)this;\n+        }\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/util\/List.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
