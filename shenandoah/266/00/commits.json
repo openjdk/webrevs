@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use state of mark context itself to track stability of old mark bitmap"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"f75cb816560c42d9cb2192f6dcde42b1632764a7"}]
