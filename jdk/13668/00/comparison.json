@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-[]() {                                                  \\\n+([]() {                                                 \\\n@@ -148,1 +148,1 @@\n-}()\n+}())\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions_gcc.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
