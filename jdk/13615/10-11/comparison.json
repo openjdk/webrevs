@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @apiNote\n+ * <p>\n@@ -71,0 +71,1 @@\n+     * @jvm 4.2.3 Module and Package Names\n","filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/PackageDesc.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
