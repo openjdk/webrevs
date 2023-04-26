@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8306883-Thread-stacksize-is-reported-with-wrong-units-in-os-create_thread-logging"},"files":[{"filename":"src\/hotspot\/os\/aix\/os_aix.cpp"},{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"6638c5ca978738b8ad8f23d2a94ae8617e8981a2"}]
