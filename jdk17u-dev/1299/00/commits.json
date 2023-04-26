@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 47ca5773a54743244a9b28f877246d260b90a408"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestStringIndexOfCharIntrinsics.java"}],"sha":"f2e9c1df345b6569d1c9095a00f48a1843612230"}]
