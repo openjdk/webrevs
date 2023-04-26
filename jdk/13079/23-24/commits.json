@@ -1,0 +1,1 @@
+[{"commit":{"message":"8306668: Some foreign tests fail on x86"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/Utils.java"},{"filename":"test\/jdk\/java\/foreign\/callarranger\/TestWindowsCallArranger.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/libPtr.c"}],"sha":"fbd3520dff95ee854c354fdc8d95061f77d827c4"}]
