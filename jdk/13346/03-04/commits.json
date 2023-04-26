@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cache insets in X11GraphicsDevice instead of storing them all in XToolkit"},"files":[{"filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XToolkit.java"},{"filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11GraphicsDevice.java"}],"sha":"1db1431c4580c8c6ba4762e768a0b7b82bbcde6a"}]
