@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -449,0 +449,1 @@\n+#if[rw] \n@@ -486,0 +487,1 @@\n+#end[rw] \n","filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
