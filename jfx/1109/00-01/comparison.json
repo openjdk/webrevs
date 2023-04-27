@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4148,1 +4148,1 @@\n-    options.addStringOption(\"-since\").setValue(\"9,10,11,12,13,14,15,16,17,18,19,20\")\n+    options.addStringOption(\"-since\").setValue((9..jfxReleaseMajorVersion.toInteger()).join(\",\"))\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
