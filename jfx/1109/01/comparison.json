@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4148,0 +4148,3 @@\n+    options.addStringOption(\"-since\").setValue((9..jfxReleaseMajorVersion.toInteger()).join(\",\"))\n+    options.addStringOption(\"-since-label\").setValue(\"New API since JavaFX 9\")\n+\n","filename":"build.gradle","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
