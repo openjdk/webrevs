@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,0 +106,4 @@\n+\n+# hsdis is not needed\n+HSDIS_BACKEND := none\n+ENABLE_HSDIS_BUNDLING := false\n","filename":"make\/autoconf\/buildjdk-spec.gmk.in","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
