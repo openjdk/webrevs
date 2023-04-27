@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1957,1 +1957,1 @@\n-      if (met != nullptr && *met != nullptr) {\n+      if (*met != nullptr) {\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
