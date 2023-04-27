@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,0 +52,1 @@\n+  UTIL_REQUIRE_SPECIAL(GREP, [AC_PROG_GREP])\n@@ -97,1 +98,0 @@\n-  UTIL_REQUIRE_SPECIAL(GREP, [AC_PROG_GREP])\n","filename":"make\/autoconf\/basic_tools.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
