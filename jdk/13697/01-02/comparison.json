@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,2 +108,2 @@\n-override HSDIS_BACKEND := none\n-override ENABLE_HSDIS_BUNDLING := false\n+HSDIS_BACKEND := none\n+ENABLE_HSDIS_BUNDLING := false\n","filename":"make\/autoconf\/buildjdk-spec.gmk.in","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
