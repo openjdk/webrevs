@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8307063: When cross-compiling with hsdis\/binutils, buildjdk creation fails"},"files":[{"filename":"make\/Main.gmk"},{"filename":"make\/modules\/java.base\/Copy.gmk"}],"sha":"a788df2c42bf22626f8d08a528f7a9654bc3f9a7"}]
