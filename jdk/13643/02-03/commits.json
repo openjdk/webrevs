@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove is_young_gc_movable in full gc code"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCCompactTask.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCPrepareTask.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCPrepareTask.inline.hpp"}],"sha":"e136c7e4fc27d88ea8b4630c81a9e5c2cdb96879"}]
