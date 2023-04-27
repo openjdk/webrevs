@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -698,1 +698,1 @@\n-  product(bool, UseAltGCForwarding, true, EXPERIMENTAL,                    \\\n+  product(bool, UseAltGCForwarding, false, EXPERIMENTAL,                \\\n","filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
