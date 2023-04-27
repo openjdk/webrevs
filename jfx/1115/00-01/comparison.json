@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,0 @@\n-        assumeFalse(PlatformUtil.isLinux());\n@@ -140,0 +139,1 @@\n+                    \"white-space:nowrap;\\n\"+\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/scene\/web\/StraightLineTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
