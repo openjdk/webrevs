@@ -1,0 +1,1 @@
+[{"commit":{"message":"install_async_exception: set interrupt status for platform threads only"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/StopThreadTest\/StopThreadTest.java"}],"sha":"0113f034e6328bcc12b9afa73844d8c09d4a06c8"}]
