@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix Region ceil\/floor function guarantees to be more accurate"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/layout\/Region.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/layout\/RegionTest.java"}],"sha":"ee87060c5036140e989536e1f9aec0b42e33580b"}]
