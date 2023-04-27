@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,2 +26,0 @@\n-#ifdef _LP64\n-\n@@ -34,0 +32,2 @@\n+#ifdef _LP64\n+\n","filename":"src\/hotspot\/share\/gc\/shared\/slidingForwarding.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
