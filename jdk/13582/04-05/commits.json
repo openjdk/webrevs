@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix wrong cast"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/slidingForwarding.cpp"}],"sha":"03b3f28118728e1bc8f6058f9249263427e7739e"},{"commit":{"message":"Add missing include"},"files":[{"filename":"test\/hotspot\/gtest\/gc\/shared\/test_slidingForwarding.cpp"}],"sha":"086f628ab8a5a1766721df9a31b5004d75ef62f6"}]
