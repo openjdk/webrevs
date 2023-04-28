@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -351,1 +351,1 @@\n-  if (!UseCompactObjectHeaders && (scope()->do_maximal_compaction() || !has_free_compaction_targets)) {\n+  if (scope()->do_maximal_compaction() || !has_free_compaction_targets) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1FullCollector.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
