@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307067: remove broken EnableThreadSMRExtraValidityChecks option"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp"}],"sha":"bfb244966c3cdf7122ce4f361c50f3c3d4d05e2b"}]
