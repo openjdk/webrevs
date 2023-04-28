@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307103: Two TestMetaspaceAllocationMT fail after JDK-8306696"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/Metaspace\/elastic\/TestMetaspaceAllocationMT1.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/Metaspace\/elastic\/TestMetaspaceAllocationMT2.java"}],"sha":"bfceecd6d414e8ffbf82b2d2bedaca0f1069457e"}]
