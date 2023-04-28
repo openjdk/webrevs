@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix field error detection"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/UnnamedErrors.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/UnnamedErrors.out"}],"sha":"59910b94cd7fff9467ddff01e409020e49546bba"}]
