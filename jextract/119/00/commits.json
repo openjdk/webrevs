@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix failing test due to zero-size padding layout."},"files":[{"filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/StructLayoutComputer.java"}],"sha":"f7dda0ecd364e524d1001516cdd92dd5a1592486"}]
