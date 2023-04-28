@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297359: RISC-V: improve performance of floating Max Min intrinsics\n\nReviewed-by: fyang"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"f07574e9f45a0430d97037b7ce3f34faf6915a0e"}]
