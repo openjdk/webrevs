@@ -1,0 +1,1 @@
+[{"commit":{"message":"use libffi artifact for other zero build configurations"},"files":[{"filename":"make\/conf\/jib-profiles.js"},{"filename":"make\/devkit\/createLibffiBundle.sh"}],"sha":"375cf3bb903c25febb41f9f21d3960b55482cd83"}]
