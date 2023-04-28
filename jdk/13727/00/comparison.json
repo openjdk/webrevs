@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -457,1 +457,2 @@\n-            consumer = SSLHandshake.HELLO_REQUEST;\n+            consumer = conContext.sslConfig.isClientMode ?\n+                    SSLHandshake.HELLO_REQUEST : null;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/HandshakeContext.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
