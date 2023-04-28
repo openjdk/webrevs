@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -408,1 +408,1 @@\n-  GCForwarding::initialize(_heap_region, ShenandoahHeapRegion::region_size_words_shift());\n+  GCForwarding::initialize(_heap_region, ShenandoahHeapRegion::region_size_words());\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
