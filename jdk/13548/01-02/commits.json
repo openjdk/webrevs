@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't rely in Thread.sleep() to sychronize between debugger and debuggee."},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/ThreadReference\/stop\/stop002.java"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/ThreadReference\/stop\/stop002t.java"}],"sha":"745ff33d0e04d989a0fd7e1a18627889b1fbee7d"}]
