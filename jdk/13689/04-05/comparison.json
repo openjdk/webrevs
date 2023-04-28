@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -404,2 +404,0 @@\n-    jmethodID mainID;\n-    jmethodID constructor;\n@@ -407,1 +405,0 @@\n-    jobject mainObject;\n@@ -550,1 +547,0 @@\n-    CHECK_EXCEPTION_LEAVE(1);\n","filename":"src\/java.base\/share\/native\/libjli\/java.c","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
