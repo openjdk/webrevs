@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-        try(ByteArrayOutputStream baos = new ByteArrayOutputStream()) {\n+        try (ByteArrayOutputStream baos = new ByteArrayOutputStream()) {\n","filename":"test\/jdk\/java\/util\/zip\/DeInflate.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
