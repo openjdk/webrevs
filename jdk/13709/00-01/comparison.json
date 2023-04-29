@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-JAVASTATIC_EXTRA_LIBS := -Wl$(COMMA)--no-whole-archive -lpthread $(LIBDL) $(LIBM) $(LDFLAGS_CXX_STATIC_JDK)\n+JAVASTATIC_EXTRA_LIBS := -Wl$(COMMA)--no-whole-archive $(JVM_LIBS) $(LDFLAGS_CXX_STATIC_JDK)\n","filename":"make\/StaticLink.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

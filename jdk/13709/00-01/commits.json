@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use $(JVM_LIBS), which includes -lrt on Linux currently."},"files":[{"filename":"make\/StaticLink.gmk"}],"sha":"4728b380333a8e8741e3ed2d1c0b9a87bb30c779"}]
