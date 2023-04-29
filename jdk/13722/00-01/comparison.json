@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,2 +30,0 @@\n-import java.util.Locale;\n-import static java.util.Locale.ENGLISH;\n@@ -86,1 +84,0 @@\n-        Locale.setDefault(ENGLISH);\n","filename":"test\/jaxp\/javax\/xml\/jaxp\/unittest\/validation\/ErrorHandlingTest.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
