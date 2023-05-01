@@ -1,0 +1,1 @@
+[{"commit":{"message":"No need to distinguish generational full gc verification"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFullGC.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.hpp"}],"sha":"1ca9619db55ae95eff32d2708aa02ccd5b8f98c4"}]
