@@ -1,0 +1,1 @@
+[{"commit":{"message":"More reviewer feedback responses\n\nRemove _ from left_most and right_most variable names,  Rename\nMemoryFreeType to ShenandoahMemoryFreeType."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.hpp"}],"sha":"d967f50316f68e89e3ffb7bb12d3c4c923355c3c"}]
