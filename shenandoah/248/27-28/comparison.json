@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -255,1 +255,1 @@\n-  \/\/ maximum_old_evacuations limits the sum of old collections and promotions to old\n+  \/\/ maximum_young_evacuation_reserve is upper bound on memory to be evacuated out of young\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
