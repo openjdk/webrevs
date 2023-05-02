@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -11984,1 +11984,1 @@\n-      or the frame is not suitable for the requested operation.\n+      or the function cannot be performed on the thread's current frame.\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
