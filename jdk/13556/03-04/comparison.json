@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -488,1 +488,1 @@\n-      st->print(\" [id=%d, stack:(\" PTR_FORMAT \",\" PTR_FORMAT \") (\" PROPERFMT \")]\",\n+      st->print(\" [id=%d, stack(\" PTR_FORMAT \",\" PTR_FORMAT \") (\" PROPERFMT \")]\",\n","filename":"src\/hotspot\/share\/runtime\/thread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
