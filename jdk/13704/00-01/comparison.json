@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -828,1 +828,1 @@\n-    \/\/ against the ThreadsList:\n+    \/\/ against the ThreadsList.\n","filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
