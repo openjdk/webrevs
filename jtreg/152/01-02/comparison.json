@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2343,1 +2343,1 @@\n-            \"GDM_SESSION\", \"GNOME_DESKTOP_SESSION_ID\", \"GNOME_SHELL_SESSION_MODE\",\n+            \"GDMSESSION\", \"GNOME_DESKTOP_SESSION_ID\", \"GNOME_SHELL_SESSION_MODE\",\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/tool\/Tool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
