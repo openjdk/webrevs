@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -345,1 +345,0 @@\n-     * @throws DateTimeException if the instant exceeds the maximum or minimum instant\n","filename":"src\/java.base\/share\/classes\/java\/time\/Instant.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
