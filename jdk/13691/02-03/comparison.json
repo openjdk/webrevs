@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -650,2 +650,0 @@\n-\/\/    public static final ObjectIdentifier hsslms_oid =\n-\/\/            ObjectIdentifier.of(KnownOIDs.HSSLMS);\n","filename":"src\/java.base\/share\/classes\/sun\/security\/x509\/AlgorithmId.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
