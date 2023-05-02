@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1958,0 +1958,1 @@\n+  DEBUG_ONLY(Unique_Node_List worklist_verify(&local_arena);)\n@@ -1961,1 +1962,0 @@\n-  DEBUG_ONLY(Unique_Node_List worklist_verify;)\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
