@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1699,1 +1699,1 @@\n-     * legacy tags are not always well-formed, this method\n+     * legacy tags, (defined as \"grandfathered\" in RFC5646) are not always well-formed, this method\n","filename":"src\/java.base\/share\/classes\/java\/util\/Locale.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
