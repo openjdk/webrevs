@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove iteator over mutator threads as not needed"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp"}],"sha":"d6a2b2f8dd1a6123aab7ee12d43a11e1385ac780"}]
