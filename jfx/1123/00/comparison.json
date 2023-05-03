@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2483,1 +2483,1 @@\n-                    if (node.getScene() == Scene.this) {\n+                    if (node != null && node.getScene() == Scene.this) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/Scene.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
