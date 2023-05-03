@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,0 +128,7 @@\n+serviceability_ttf_virtual = \\\n+  serviceability\/ \\\n+  -serviceability\/jvmti\/vthread \\\n+  -serviceability\/jvmti\/thread  \\\n+  -serviceability\/jvmti\/events  \\\n+  -serviceability\/jvmti\/negative\n+\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":7,"deletions":0,"binary":false,"changes":7,"status":"modified"}]}
