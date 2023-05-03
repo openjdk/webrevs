@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,0 +87,1 @@\n+gc\/shenandoah\/oom\/TestClassLoaderLeak.java 8306336 generic-all\n@@ -89,0 +90,1 @@\n+gc\/TestAllocHumongousFragment.java#generational 8306342 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
