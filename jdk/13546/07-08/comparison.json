@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1925,1 +1925,1 @@\n-          to throw an asynchronous exception from this frame.\n+          to throw an asynchronous exception from the current frame.\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
