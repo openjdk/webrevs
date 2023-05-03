@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-$(eval TARGETS += $$(COPY_STATIC_LIBS_libjvm))\n+TARGETS += $(COPY_STATIC_LIBS_libjvm)\n","filename":"make\/StaticLibsImage.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
