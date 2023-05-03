@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -414,1 +414,1 @@\n-                  + frame::abi_reg_args_size;\n+                  + frame::native_abi_reg_args_size;\n","filename":"src\/hotspot\/cpu\/ppc\/gc\/x\/xBarrierSetAssembler_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
