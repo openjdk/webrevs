@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use ParallelGCThreads instead of active_workers"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gcTrace.cpp"}],"sha":"711cb643444ea8af0277f0266fdbeda0cb201dc4"}]
