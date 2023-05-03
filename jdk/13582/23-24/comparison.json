@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-  uint offset = pointer_delta(to, to_region_base);\n+  uint offset = static_cast<uint>(pointer_delta(to, to_region_base));\n","filename":"src\/hotspot\/share\/gc\/shared\/slidingForwarding.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
