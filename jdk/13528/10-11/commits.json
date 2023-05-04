@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307444: java.lang.AssertionError when using unnamed patterns"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Unnamed.java"}],"sha":"12ce9e191eb9a15de610e89bf7028aca1a6eef78"}]
