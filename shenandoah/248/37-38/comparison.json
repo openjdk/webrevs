@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -206,1 +206,1 @@\n-  product(uintx, ShenandoahGuaranteedYoungGCInterval, 15*1000,  EXPERIMENTAL,  \\\n+  product(uintx, ShenandoahGuaranteedYoungGCInterval, 30*1000,  EXPERIMENTAL,  \\\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoah_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
