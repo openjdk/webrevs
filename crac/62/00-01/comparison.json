@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,0 +94,3 @@\n+                if (!Thread.currentThread().isDaemon()) {\n+                    throw new RuntimeException(\"beforeCheckpoint called from non-daemon thread\");\n+                }\n","filename":"test\/jdk\/jdk\/crac\/DaemonAfterRestore.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
