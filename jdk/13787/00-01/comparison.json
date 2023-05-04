@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-public class bug4277049  implements ItemListener {\n+public class bug4277049 implements ItemListener {\n","filename":"test\/jdk\/javax\/swing\/JToggleButton\/bug4277049.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
