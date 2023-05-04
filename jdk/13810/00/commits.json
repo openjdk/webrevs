@@ -1,0 +1,1 @@
+[{"commit":{"message":"8306712: CDS DeterministicDump.java test fails with -XX:+UseStringDeduplication"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/DeterministicDump.java"}],"sha":"1f4389fd35259b1073df3eb5931f85b280abd829"}]
