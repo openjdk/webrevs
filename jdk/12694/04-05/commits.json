@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293786: Reset only on unconsumed IS in sendResponseHeaders"},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/lib\/jdk\/httpclient\/test\/lib\/http2\/BodyOutputStream.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/lib\/jdk\/httpclient\/test\/lib\/http2\/Http2TestExchangeImpl.java"}],"sha":"2aa936d48ccadc4cf992c67694c882d483a2e200"}]
