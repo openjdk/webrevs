@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,3 @@\n+#ifndef SHARE_UTILITIES_FASTHASH_HPP\n+#define SHARE_UTILITIES_FASTHASH_HPP\n+\n@@ -93,0 +96,2 @@\n+\n+#endif\/\/ SHARE_UTILITIES_FASTHASH_HPP\n","filename":"src\/hotspot\/share\/utilities\/fastHash.hpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
