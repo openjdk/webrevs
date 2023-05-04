@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8307331: Correctly update line maps when class redefine rewrites bytecodes"},"files":[{"filename":"src\/hotspot\/share\/runtime\/relocator.cpp"}],"sha":"de60740518ba952c5355e05eb59769b6b15f0f38"}]
