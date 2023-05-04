@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2792,1 +2792,1 @@\n-        return false;\n+      return false;\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
