@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-            robot.setAutoWaitForIdle(true);\n+            robot.waitForIdle();\n@@ -247,1 +247,1 @@\n-    boolean passed = false;\n+    volatile boolean passed = false;\n","filename":"test\/jdk\/java\/awt\/dnd\/NoFormatsDropTest\/NoFormatsDropTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
