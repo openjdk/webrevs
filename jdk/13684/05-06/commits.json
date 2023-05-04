@@ -1,0 +1,1 @@
+[{"commit":{"message":"rename rvv_vsetvli to vsetvli_helper"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"7efb9dfdff3d258724b29bccef82872b54613468"}]
