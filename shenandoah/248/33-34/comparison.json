@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1500,0 +1500,1 @@\n+    post_compact.update_generation_usage();\n@@ -1501,2 +1502,0 @@\n-      post_compact.update_generation_usage();\n-\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFullGC.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
