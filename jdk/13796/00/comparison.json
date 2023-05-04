@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-        O(GcStatisticsType.PERCENTAGE),\n+        O(GcStatisticsType.PERCENTAGE_OR_DASH),\n","filename":"test\/jdk\/sun\/tools\/jstatd\/JstatGCUtilParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
