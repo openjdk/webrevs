@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8307347: Skip on macOS in case sudo is needed"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/sa\/ClhsdbDumpclass.java"}],"sha":"22e6ea31f1abb839aae26ee04e5eedc8b8b7d69c"}]
