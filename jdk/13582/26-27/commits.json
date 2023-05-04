@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use @rose00's fast-hash impl instead of murmur"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/slidingForwarding.cpp"},{"filename":"src\/hotspot\/share\/utilities\/fastHash.hpp"}],"sha":"ad9fb171bfa17b19f2b16ea4d96170bfa0976bff"}]
