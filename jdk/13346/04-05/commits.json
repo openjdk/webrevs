@@ -1,0 +1,1 @@
+[{"commit":{"message":"Double-checked locking for insets and less synchronization for bounds"},"files":[{"filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XToolkit.java"},{"filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11GraphicsDevice.java"}],"sha":"a3d325701c39d05e31284184b12849077b77b6fe"}]
