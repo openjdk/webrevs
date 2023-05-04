@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-  bool is_monitor_deflation_thread() const override  { return true; }\n+  bool is_monitor_deflation_thread() const { return true; }\n","filename":"src\/hotspot\/share\/runtime\/monitorDeflationThread.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
