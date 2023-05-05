@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -310,1 +310,0 @@\n-  static const TypeFunc* notify_jvmti_object_alloc_Type();\n","filename":"src\/hotspot\/share\/opto\/runtime.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
