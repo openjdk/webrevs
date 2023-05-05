@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only allow lock-stack verification for owning Java threads or at safepoints"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.cpp"}],"sha":"66a87a04c0e29633a232970b0fe97e2cdd863690"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-  if (is_owning_thread()) {\n+  if (SafepointSynchronize::is_at_safepoint() || (Thread::current()->is_Java_thread() && is_owning_thread())) {\n","filename":"src\/hotspot\/share\/runtime\/lockStack.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
