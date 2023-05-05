@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307553: Remove dead code MetaspaceClosure::push_method_entry"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"},{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.hpp"},{"filename":"src\/hotspot\/share\/memory\/metaspaceClosure.hpp"}],"sha":"c6f46b5f8892adc5205491b95d6fadc80f4db934"}]
