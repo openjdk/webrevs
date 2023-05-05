@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+      TOOLCHAIN := TOOLCHAIN_LINK_CXX, \\\n@@ -37,0 +38,1 @@\n+      LIBS_unix := $(JDKLIB_LIBS) $(LIBCXX), \\\n@@ -38,1 +40,0 @@\n-      LIBS_unix := $(JDKLIB_LIBS) -lstdc++, \\\n","filename":"make\/modules\/jdk.internal.le\/Lib.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
