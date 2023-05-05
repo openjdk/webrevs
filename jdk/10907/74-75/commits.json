@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only do lock-stack consistency checks when called from owning thread"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.cpp"}],"sha":"171aced805f24b3a192146aa8a5abf13dbfb7dd3"}]
