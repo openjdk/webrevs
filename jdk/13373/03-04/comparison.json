@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-    testDoubleFlagWithValue(\"-XX:SafepointTimeoutDelay\", \"0.050\");\n+    testDoubleFlagWithValue(\"-XX:SafepointTimeoutDelay\", \"5.0\");\n","filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/DoubleFlagWithIntegerValue.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
