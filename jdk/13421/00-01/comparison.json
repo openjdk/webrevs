@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,0 +128,1 @@\n+      \/\/ FIXME: memory_order_consume could be used here.\n@@ -143,0 +144,1 @@\n+    \/\/ FIXME: memory_order_consume could be used here.\n","filename":"src\/hotspot\/share\/logging\/logOutputList.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
