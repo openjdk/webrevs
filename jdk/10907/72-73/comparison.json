@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,0 +119,5 @@\n+  if ((LockingMode != LM_LEGACY) && (LockingMode != LM_MONITOR)) {\n+    warning(\"Unsupported locking mode for this CPU.\");\n+    FLAG_SET_DEFAULT(LockingMode, LM_LEGACY);\n+  }\n+\n","filename":"src\/hotspot\/cpu\/zero\/vm_version_zero.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
