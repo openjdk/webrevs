@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2562,1 +2562,1 @@\n-    if (op->info() != null) {\n+    if (op->info() != nullptr) {\n","filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
