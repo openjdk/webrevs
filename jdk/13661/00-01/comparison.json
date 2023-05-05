@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3523,1 +3523,1 @@\n-            JNI local reference on a thread stack.\n+            JNI local reference.\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
