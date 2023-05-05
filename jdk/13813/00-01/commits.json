@@ -1,0 +1,1 @@
+[{"commit":{"message":"support partial release, add corresponding test"},"files":[{"filename":"src\/hotspot\/share\/services\/virtualMemoryTracker.cpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp"}],"sha":"7d6a6c0c6d3df0b004b93c555fb24facf7b5e61b"}]
