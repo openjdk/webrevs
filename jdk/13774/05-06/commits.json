@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix use of WithActiveWorkers\n\nMy scope was incorrect, thanks @albertnetymk\nAlso fix ResourceMark usage, thanks Aleksey."},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gcVMOperations.cpp"},{"filename":"src\/hotspot\/share\/memory\/heapInspection.cpp"}],"sha":"ac1d234e40f2938b6d35253a46075cdaa52c90ca"}]
