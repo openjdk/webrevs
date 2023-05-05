@@ -1,0 +1,1 @@
+[{"commit":{"message":"Relax zapped-entry test when calling thread is not owning thread"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.cpp"}],"sha":"43cdbb53ff4ecf36070466639a4e5631cc16e100"}]

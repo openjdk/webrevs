@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-    assert(_base[i] != nullptr, \"no zapped before top\");\n+    assert(_base[i] != nullptr || !is_owning_thread(), \"no zapped before top\");\n","filename":"src\/hotspot\/share\/runtime\/lockStack.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
