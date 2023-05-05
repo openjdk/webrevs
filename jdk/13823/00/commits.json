@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293547: Add relaxed add_and_fetch for macos aarch64 atomics"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/atomic_bsd_aarch64.hpp"}],"sha":"99eddb7a1328a52d0f6f101f6c350b16efed7ec6"}]
