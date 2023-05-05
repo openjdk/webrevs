@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,0 +52,1 @@\n+#include \"prims\/jvmtiThreadState.hpp\"\n@@ -1123,0 +1124,3 @@\n+\n+  JvmtiVTMSTransitionDisabler disabler;\n+\n@@ -1150,0 +1154,3 @@\n+\n+  JvmtiVTMSTransitionDisabler disabler;\n+\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":7,"deletions":0,"binary":false,"changes":7,"status":"modified"}]}
