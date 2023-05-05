@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -197,1 +197,1 @@\n-     * heap memory for the thread with the specified ID, if the thread with the\n+     * heap memory for the thread with the specified ID if the thread with the\n","filename":"src\/jdk.management\/share\/classes\/com\/sun\/management\/ThreadMXBean.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
