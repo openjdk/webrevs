@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,5 +117,0 @@\n-\n-  enum SomeConstants {\n-    delay_interval = 10                          \/\/ interrupt delay in milliseconds\n-  };\n-\n","filename":"src\/hotspot\/share\/runtime\/nonJavaThread.hpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
