@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -458,0 +458,1 @@\n+   # expansion-to-defined required for GCC 9 builds. Not required for GCC 10+.\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
