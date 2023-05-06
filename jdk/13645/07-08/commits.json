@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add strig_equals patch to prevent misaligned access there"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"0335cd56b9ad101355b1b477938cbd741b964066"}]
