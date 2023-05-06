@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -421,1 +421,0 @@\n-        g_print(\"Delta: %f, %f\\n\", dx, dy);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
