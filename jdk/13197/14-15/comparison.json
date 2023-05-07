@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1019,2 +1019,0 @@\n-  assert(Reflection::is_same_class_package(lookup_k, ik),\n-         \"lookup class and defined class are in different packages\");\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
