@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,2 +141,2 @@\n-  \/\/ defined in linux_x86.s\n-  int64_t _Atomic_add_long(int64_t, volatile int64_t*, int64_t);\n+  \/\/ defined in linux_x86.S\n+  int64_t _Atomic_add_long(int64_t, volatile int64_t*);\n","filename":"src\/hotspot\/os_cpu\/linux_x86\/atomic_linux_x86.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
