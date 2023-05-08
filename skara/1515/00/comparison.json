@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -841,1 +841,1 @@\n-        var changes = request.get(\"changes\").execute();\n+        var changes = request.get(\"changes\").param(\"access_raw_diffs\", \"true\").execute();\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/gitlab\/GitLabMergeRequest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
