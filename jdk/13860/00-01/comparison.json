@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -307,1 +307,1 @@\n-     * @param action The action which will be invoked at-most once\n+     * @param action The action whose operation is performed at-most once\n","filename":"src\/java.base\/share\/classes\/java\/util\/Spliterator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
