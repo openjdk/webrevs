@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,1 +237,1 @@\n-        ObjectOutputStream oos  = new ObjectOutputStream(baos);\n+        ObjectOutputStream oos = new ObjectOutputStream(baos);\n","filename":"test\/jdk\/java\/awt\/dnd\/DropPerformanceTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
