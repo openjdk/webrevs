@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use a build system fix"},"files":[{"filename":"make\/autoconf\/lib-ffi.m4"},{"filename":"src\/hotspot\/cpu\/zero\/globalDefinitions_zero.hpp"}],"sha":"72f978ab1af43fd92c3311048e7fb4a803f64ff0"},{"commit":{"message":"Fix"},"files":[{"filename":"src\/hotspot\/cpu\/zero\/globalDefinitions_zero.hpp"}],"sha":"3002982429405a8003f1a5631fe1f0bdcbe4faf3"}]
