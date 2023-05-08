@@ -1,0 +1,1 @@
+[{"commit":{"message":"Correct Platform.is64Bit() to report address size of the architecture enum, not the running system"},"files":[{"filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/Platform.java"}],"sha":"db56d7027019f1529471edd03678e4d65f59023b"}]
