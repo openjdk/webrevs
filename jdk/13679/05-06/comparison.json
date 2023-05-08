@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run junit caseFoldLanguageTagTest\n+ * @run junit CaseFoldLanguageTagTest\n@@ -53,1 +53,1 @@\n-public class caseFoldLanguageTagTest {\n+public class CaseFoldLanguageTagTest {\n","filename":"test\/jdk\/java\/util\/Locale\/CaseFoldLanguageTagTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
