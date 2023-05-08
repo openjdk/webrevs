@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1834,1 +1834,2 @@\n-  if (is_zombie() || method()->can_be_allocated_in_NonNMethod_space()) {\n+  Method* m = method();\n+  if (is_zombie() || (m != nullptr && m->can_be_allocated_in_NonNMethod_space())) {\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
