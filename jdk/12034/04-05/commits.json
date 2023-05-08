@@ -1,0 +1,1 @@
+[{"commit":{"message":"It's impossible for an array to be nullptr, remove asserts.\n\nFails build on Clang systems"},"files":[{"filename":"src\/hotspot\/share\/jfr\/jni\/jfrJavaCall.cpp"}],"sha":"2da97d578cf008170a0881d44844516370a6f456"}]
