@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-  assert(UseHeavyMonitors, \"Only safe with heavy monitors\");\n+  assert(LockingMode != LM_LEGACY, \"Not safe with legacy stack-locking\");\n","filename":"src\/hotspot\/share\/oops\/oop.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
