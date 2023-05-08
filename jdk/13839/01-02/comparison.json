@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,3 @@\n-            SwingUtilities.invokeAndWait(() -> mainFrame.dispose());\n+            if (mainFrame != null) {\n+                SwingUtilities.invokeAndWait(() -> mainFrame.dispose());\n+            }\n","filename":"test\/jdk\/javax\/swing\/JMenu\/bug5013739.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
