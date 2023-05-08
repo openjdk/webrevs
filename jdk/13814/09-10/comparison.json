@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -526,1 +526,1 @@\n-        jne      $1\n+        jne      1b\n","filename":"src\/hotspot\/os_cpu\/linux_x86\/linux_x86_32.S","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
