@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use cleanable to close the selector in DnsClient::close"},"files":[{"filename":"src\/jdk.naming.dns\/share\/classes\/com\/sun\/jndi\/dns\/DnsClient.java"}],"sha":"3a139b272b25d52b8be9593cee3aec3f373c12ff"}]
