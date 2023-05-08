@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -340,0 +340,1 @@\n+                                  gsub(\/\\r\/, \"\"); \\\n@@ -353,0 +354,1 @@\n+                                  gsub(\/\\r\/, \"\"); \\\n","filename":"make\/common\/Modules.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
