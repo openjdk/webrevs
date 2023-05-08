@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,1 +151,1 @@\n-        FunctionDescriptor.ofVoid(MemoryLayout.paddingLayout(8));\n+        FunctionDescriptor.of(MemoryLayout.paddingLayout(8));\n","filename":"test\/jdk\/java\/foreign\/TestFunctionDescriptor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
