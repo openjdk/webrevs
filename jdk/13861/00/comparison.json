@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,0 +46,2 @@\n+\n+#if !defined(AIX)\n@@ -47,0 +49,2 @@\n+#endif\n+\n","filename":"src\/java.desktop\/share\/native\/libharfbuzz\/hb-subset.cc","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
