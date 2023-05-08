@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,0 @@\n-  assert(add_method_signature != nullptr, \"invariant\");\n","filename":"src\/hotspot\/share\/jfr\/support\/jfrJdkJfrEvent.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
