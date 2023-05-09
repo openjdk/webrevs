@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make barrier_Relocation inherit from Relocation instead of DataRelocation"},"files":[{"filename":"src\/hotspot\/share\/code\/relocInfo.hpp"}],"sha":"0fccc81b54dec062fe93e6ab16ef0eb461134abf"}]
