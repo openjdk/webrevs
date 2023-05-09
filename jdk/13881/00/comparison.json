@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -10228,1 +10228,1 @@\n-  format %{ \"StringUTF16 IndexOf char[] $str1,$cnt1,$ch -> $result\" %}\n+  format %{ \"StringLatin1 IndexOf char[] $str1,$cnt1,$ch -> $result\" %}\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
