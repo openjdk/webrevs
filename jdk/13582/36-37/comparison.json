@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-    HeapWord* biased_start = _bases_table - _heap_start_region_bias;\n+    HeapWord** biased_start = _bases_table - _heap_start_region_bias;\n","filename":"src\/hotspot\/share\/gc\/shared\/slidingForwarding.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
