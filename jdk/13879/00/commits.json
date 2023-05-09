@@ -1,0 +1,1 @@
+[{"commit":{"message":"8306965: osThread allocation failures should not abort the VM"},"files":[{"filename":"src\/hotspot\/os\/aix\/os_aix.cpp"},{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"0bbfd211d29c396ebd783717fb215c0da487bcef"}]
