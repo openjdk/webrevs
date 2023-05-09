@@ -1,0 +1,1 @@
+[{"commit":{"message":"empty commit to trigger PR update"},"files":[],"sha":"7d21663c10c89f2f066eeccc45429303b8af5b4d"},{"commit":{"message":"renamed StackCounter::stack and local to addStackSlot and ensureLocalSlot"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackCounter.java"}],"sha":"0d54737095ee0df8de6b257a02d8d0df940e04d1"}]
