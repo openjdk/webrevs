@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address comments from @erikj79:\n- Fix to use $(STATIC_LIBS_GRAAL_IMAGE_DIR) in GraalBuilderImage.gmk.\n- Split the long line at 1281 in Main.gmk."},"files":[{"filename":"make\/GraalBuilderImage.gmk"},{"filename":"make\/Main.gmk"}],"sha":"45dd2a009897c87d7e772c7bbec5dbff6281574b"}]
