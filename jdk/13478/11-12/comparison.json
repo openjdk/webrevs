@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -378,1 +378,1 @@\n-                methodDesc.displayDescriptor());\n+                methodDesc.displayDescriptor()));\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackCounter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
