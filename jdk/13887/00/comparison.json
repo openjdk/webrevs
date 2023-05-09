@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -641,1 +641,1 @@\n-  assert(sum <= (beg - end), \"must be\");\n+  assert(sum <= (end - beg), \"must be\");\n","filename":"src\/hotspot\/share\/utilities\/bitMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
