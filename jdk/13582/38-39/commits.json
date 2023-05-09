@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix gtest: Align fake-heaps, avoid re-forwardings"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/slidingForwarding.cpp"},{"filename":"test\/hotspot\/gtest\/gc\/shared\/test_slidingForwarding.cpp"}],"sha":"69c78ebaf6878b9096f071ef69109db411550d6f"}]
