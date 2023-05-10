@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-    baseField = type.getAddressField(\"_base\");\n+    baseField = type.getAddressField(\"_base_copy\");\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/CompressedKlassPointers.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
