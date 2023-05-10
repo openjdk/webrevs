@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n- * <a href=\"http:\/\/www.unicode.org\/reports\/tr35\/#UnicodeCollationIdentifier\">\n+ * <a href=\"https:\/\/www.unicode.org\/reports\/tr35\/#UnicodeCollationIdentifier\">\n","filename":"src\/java.base\/share\/classes\/java\/text\/Collator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
