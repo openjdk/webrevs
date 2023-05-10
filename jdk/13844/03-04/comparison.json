@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -204,1 +204,1 @@\n-      strwl(zr, Address(obj, arrayOopDesc::length_offset_in_bytes() + sizeof(jint)));\n+      strw(zr, Address(obj, arrayOopDesc::length_offset_in_bytes() + sizeof(jint)));\n","filename":"src\/hotspot\/cpu\/aarch64\/c1_MacroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
