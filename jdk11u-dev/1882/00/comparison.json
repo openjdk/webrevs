@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,2 @@\n+    \/\/ 16 seconds for hs_err generation timeout = 4 seconds per step timeout\n+    public static final int ERROR_LOG_TIMEOUT = 16;\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/TimeoutInErrorHandlingTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
