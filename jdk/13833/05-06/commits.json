@@ -1,0 +1,1 @@
+[{"commit":{"message":"make igvn_worklist() from ref to pointer"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/compile.hpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"src\/hotspot\/share\/opto\/vector.cpp"}],"sha":"0824edf3d48ad5512867a2230adfd76115e68583"}]
