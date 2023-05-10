@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move KeepAlive to separate class, handle interrupts"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/crac\/Core.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/crac\/impl\/KeepAlive.java"},{"filename":"test\/jdk\/jdk\/crac\/DaemonAfterRestore.java"}],"sha":"a3b1242ea396681c34dc6f7292f80d8928cf3d53"}]
