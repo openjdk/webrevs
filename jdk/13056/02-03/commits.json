@@ -1,0 +1,1 @@
+[{"commit":{"message":"small bugfix. And put TraceNewVector in VectorNode::trace_new_vector"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"72fa58e021b130a262337d40ba17215bbbb6bbaf"}]
