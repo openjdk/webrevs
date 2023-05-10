@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1944,4 +1944,0 @@\n-  } else {\n-    if (LockingMode == LM_MONITOR) {\n-      FLAG_SET_CMDLINE(UseHeavyMonitors, true);\n-    }\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
