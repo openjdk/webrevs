@@ -1,0 +1,1 @@
+[{"commit":{"message":"some refactoring\n\nadded StackRefCollector::process_frames;\nused single RegisterMap instance;\nused RegisterMap::WalkContinuation::include for RegisterMap;"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp"}],"sha":"25354ea10d5baf60c5c712e27dda5f96400c538d"}]
