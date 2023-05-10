@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -742,0 +742,1 @@\n+  declare_constant(markWord::lock_mask_in_place)                          \\\n","filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
