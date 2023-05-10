@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-  @requires(os != \"windows\")\n+  @requires (os.family != \"windows\")\n","filename":"test\/jdk\/java\/awt\/dnd\/MozillaDnDTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
