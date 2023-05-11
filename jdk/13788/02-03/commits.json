@@ -1,0 +1,1 @@
+[{"commit":{"message":"minor test update, remove pkcs11 reg test as it's covered by the other\ntest"},"files":[{"filename":"test\/jdk\/java\/security\/SecureRandom\/NextBytesNull.java"},{"filename":"test\/jdk\/sun\/security\/pkcs11\/SecureRandom\/NextBytesNull.java"}],"sha":"a2564259d50622ee7e8de2852dfb6ac9e61f4d39"}]
