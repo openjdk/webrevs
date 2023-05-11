@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8307869-Remove-unnecessary-log-statements-from-arm32-fastlocking-code"},"files":[{"filename":"src\/hotspot\/cpu\/arm\/c1_MacroAssembler_arm.cpp"},{"filename":"src\/hotspot\/cpu\/arm\/c2_MacroAssembler_arm.cpp"},{"filename":"src\/hotspot\/cpu\/arm\/interp_masm_arm.cpp"}],"sha":"af56e48315ecdb51efc16166991300e850e2bc7f"}]
