@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-    static final int DEBUGGEE_STOPATLINE = 81;\n+    static final int DEBUGGEE_STOPATLINE = 88;\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/ThreadReference\/stop\/stop002.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
