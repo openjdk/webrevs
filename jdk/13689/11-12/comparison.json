@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,0 +128,5 @@\n+        @Override\n+        public void setPrevToken(Token prevToken) {\n+            this.prevToken = prevToken;\n+        }\n+\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/VirtualParser.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
