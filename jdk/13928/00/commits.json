@@ -1,0 +1,1 @@
+[{"commit":{"message":"8306806: JMX agent with JDP enabled won't start when PerfData is disabled"},"files":[{"filename":"src\/jdk.management.agent\/share\/classes\/jdk\/internal\/agent\/Agent.java"},{"filename":"src\/jdk.management.agent\/share\/classes\/jdk\/internal\/agent\/ConnectorAddressLink.java"}],"sha":"fa0fa449dc337de21e71ed2c073f176ae7630b2f"}]
