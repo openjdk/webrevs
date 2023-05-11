@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305083: Remove finalize() from test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/ and \/jpda that are used in serviceability\/dcmd\/framework tests"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/FinalizableObject.java"}],"sha":"76548f5a8a020c0807c2992ec1a0a8f63f2b4c7a"}]
