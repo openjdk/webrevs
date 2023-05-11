@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,0 +112,4 @@\n+            if (body == null && queryType == RequestType.GET && bodyParams.isEmpty()) {\n+                return null;\n+            }\n+\n","filename":"network\/src\/main\/java\/org\/openjdk\/skara\/network\/RestRequest.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
