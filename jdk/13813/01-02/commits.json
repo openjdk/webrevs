@@ -1,0 +1,1 @@
+[{"commit":{"message":"add support for more cases of partial regions, make test more flexible, add more tests"},"files":[{"filename":"src\/hotspot\/share\/services\/virtualMemoryTracker.cpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp"}],"sha":"c356ad0eede17e0a7cfa21aedb51340faa3746a2"}]
