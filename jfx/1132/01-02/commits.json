@@ -1,0 +1,1 @@
+[{"commit":{"message":"added export of javafx.base to javafx.web and added platform utils call in urlloader"},"files":[{"filename":"modules\/javafx.base\/src\/main\/java\/module-info.java"},{"filename":"modules\/javafx.web\/src\/main\/java\/com\/sun\/webkit\/network\/URLLoader.java"}],"sha":"91ac578372e0676967151315556fa31556927725"}]
