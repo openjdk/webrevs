@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-            Color color = robot.getPixelColor(p.x - OFFSET_X, p.y - OFFSET_y);\n+            Color color = robot.getPixelColor(p.x - OFFSET_X, p.y - OFFSET_Y);\n","filename":"test\/jdk\/javax\/swing\/plaf\/synth\/SynthButtonUI\/6276188\/bug6276188.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
