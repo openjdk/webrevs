@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -183,2 +183,2 @@\n-    slli(reg, reg, 8);\n-    add(reg, t1, reg);\n+    slli(t1, t1, 8);\n+    add(reg, reg, t1);\n@@ -187,0 +187,1 @@\n+    revb_h_h_u(reg, reg);\n@@ -188,1 +189,1 @@\n-  revb_h(reg, reg);\n+  \n","filename":"src\/hotspot\/cpu\/riscv\/interp_masm_riscv.cpp","additions":4,"deletions":3,"binary":false,"changes":7,"status":"modified"}]}
