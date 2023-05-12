@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,2 @@\n-    return align_metadata_size(sizeof(SharedClassPathEntry));\n+    static_assert(is_aligned(sizeof(SharedClassPathEntry), wordSize), \"must be\");\n+    return (int)(sizeof(SharedClassPathEntry) \/ wordSize);\n","filename":"src\/hotspot\/share\/cds\/filemap.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
