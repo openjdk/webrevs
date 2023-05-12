@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -761,1 +761,1 @@\n-        Path absDir = null;\n+        Path absDir = dir;\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/Files.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
