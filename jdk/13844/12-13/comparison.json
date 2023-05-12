@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4322,5 +4322,0 @@\n-  if (!UseCompactObjectHeaders) {\n-    ldrw(dst, Address(src, oopDesc::klass_offset_in_bytes()));\n-    return;\n-  }\n-\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
