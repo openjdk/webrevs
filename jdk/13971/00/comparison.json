@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -371,1 +371,2 @@\n-    JVMCIEnv jvmciEnv(thread, env, __FILE__, __LINE__);\n+    \/\/ Enter the JVMCI env that will be used by the CompileBroker.\n+    JVMCIEnv jvmciEnv(thread, __FILE__, __LINE__);\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"WB_IsGCSupportedByJVMCICompiler must use JVMCI env used by the CompileBroker"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"}],"sha":"ae1a4cfd7cc72d19c602cdee417f3152e0670238"}]
