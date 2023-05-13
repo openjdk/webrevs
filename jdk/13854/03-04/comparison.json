@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -586,2 +586,1 @@\n-    \/\/ tolerate this. (Note that unregistered classes are loaded by the null\n-    \/\/ loader during DumpSharedSpaces).\n+    \/\/ tolerate this.\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
