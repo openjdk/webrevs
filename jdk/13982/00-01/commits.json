@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid touching klass racily (even for v-call)"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp"}],"sha":"983ee9f83d611b35633afdb5fa908578dabaa45a"}]
