@@ -1,0 +1,1 @@
+[{"commit":{"message":"8306667: RISC-V: Fix storeImmN0 matching rule by using zr register\n\nReviewed-by: shade, gli, fyang"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"96be1559fb59ba4e9dcd11d85b360b79a71734bc"}]
