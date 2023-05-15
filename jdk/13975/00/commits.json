@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308072: [BACKOUT] update for deprecated sprintf for src\/utils\n\nThis reverts commit 4b0f4213a566c3c6d49c034ab6e022c93c4289b1."},"files":[{"filename":"src\/utils\/hsdis\/binutils\/hsdis-binutils.c"}],"sha":"668ee7b54f5f2a43430c4a54510525e78f565fac"}]
