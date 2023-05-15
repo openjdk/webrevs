@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299544: Improve performance of CRC32C intrinsics (non-AVX-512) for small inputs\n\nReviewed-by: kvn, eastigeevich, sviswanathan"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/crc32c.h"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"7bd93064badc5146b83a59ab251e26672635e195"}]
