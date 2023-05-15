@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix build error"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/globals_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"},{"filename":"src\/hotspot\/share\/oops\/compressedOops.hpp"},{"filename":"test\/hotspot\/gtest\/x86\/test_assembler_x86.cpp"}],"sha":"34ff1f6135856d4442bf4f164a7c7393e314b130"}]
