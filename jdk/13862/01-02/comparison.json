@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1664,1 +1664,0 @@\n-  warning(\"minmax_fp_masked_v!\");\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
