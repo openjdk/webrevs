@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added Matcher::match_rule_supported_vector check, removed bad assert, added test for it"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestUnorderedReduction.java"}],"sha":"0a72f4c405c83ebb5f40acb5abb3cbadf3df31cc"}]
