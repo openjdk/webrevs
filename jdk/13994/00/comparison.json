@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,5 +47,0 @@\n-\/*\n- * Declare library specific JNI_Onload entry if static build\n- *\/\n-DEF_STATIC_JNI_OnLoad\n-\n","filename":"src\/java.desktop\/linux\/native\/libjsound\/PLATFORM_API_LinuxOS_ALSA_CommonUtils.c","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
