@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-\tinit(data);\n+        init(data);\n@@ -68,1 +68,1 @@\n- \n+\n@@ -107,1 +107,1 @@\n- \n+\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestUnorderedReduction.java","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
