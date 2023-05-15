@@ -1,0 +1,1 @@
+[{"commit":{"message":"8300584: Accelerate AVX-512 CRC32C for small buffers\n\nReviewed-by: kvn, sviswanathan"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"baf4b4077417c4dd82de60604890ddf769535861"}]
