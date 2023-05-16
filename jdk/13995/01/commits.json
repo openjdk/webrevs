@@ -1,0 +1,1 @@
+[{"commit":{"message":"replace strcpy with snprintf"},"files":[{"filename":"src\/utils\/hsdis\/binutils\/hsdis-binutils.c"}],"sha":"1f833d5e0130ee9789ae8ec19a313d2d36715fa4"},{"commit":{"message":"8308071: [REDO] update for deprecated sprintf for src\/utils"},"files":[{"filename":"src\/utils\/hsdis\/binutils\/hsdis-binutils.c"}],"sha":"9ac95707f8725b10b3dc65612b76131bf9459b17"}]
