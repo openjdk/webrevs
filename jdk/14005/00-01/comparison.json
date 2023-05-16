@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -409,1 +409,1 @@\n-            \/\/ Note that the following check is invalid since a concurrent GC\n+            \/\/ Note that the following check is invalid since a GC\n","filename":"test\/hotspot\/jtreg\/gc\/stringdedup\/TestStringDeduplicationTools.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
