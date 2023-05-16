@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -532,1 +532,1 @@\n-  EventGCHeapMemoryUsage event;\n+  EventGCHeapMemoryUsage event(UNTIMED);\n@@ -548,1 +548,1 @@\n-      EventGCHeapMemoryPoolUsage event;\n+      EventGCHeapMemoryPoolUsage event(UNTIMED);\n","filename":"src\/hotspot\/share\/jfr\/periodic\/jfrPeriodic.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
