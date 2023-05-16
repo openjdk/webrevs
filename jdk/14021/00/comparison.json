@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -220,1 +220,1 @@\n-    public abstract class SpeciesData {\n+    abstract class SpeciesData {\n@@ -457,1 +457,1 @@\n-    public class Factory {\n+    class Factory {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/ClassSpecializer.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
