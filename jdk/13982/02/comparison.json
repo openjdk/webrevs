@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -230,1 +230,1 @@\n-  if (is_in(object->klass_raw())) {\n+  if (!Metaspace::contains(object->klass_raw())) {\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
