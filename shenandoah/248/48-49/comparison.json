@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-\t ShenandoahHeap::heap()->old_generation()->decrement_affiliated_region_count();\n+         ShenandoahHeap::heap()->old_generation()->decrement_affiliated_region_count();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
