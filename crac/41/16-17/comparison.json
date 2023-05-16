@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -678,2 +678,0 @@\n-  uint64_t disable_CPU   = 0;\n-  uint64_t disable_GLIBC = 0;\n@@ -758,0 +756,2 @@\n+  uint64_t disable_CPU   = 0;\n+  uint64_t disable_GLIBC = 0;\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
