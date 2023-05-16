@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix incorrect brackets"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/register_ppc.hpp"}],"sha":"0c8c36fd17e820e493ae81b868f32d191aaf7bfb"},{"commit":{"message":"changes -1 to NOREG_ENCODING and wraps successor()"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/register_ppc.hpp"}],"sha":"582d8a24b48fb4a02e18cab05cbe6dcf296d7dcc"}]
