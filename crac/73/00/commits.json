@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prevent concurrent cleanup by cleaner thread and checkpoint notifications"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/ref\/CleanerImpl.java"},{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/NioSocketImpl.java"},{"filename":"test\/jdk\/jdk\/crac\/RefQueueTest.java"}],"sha":"ef4ea426599866c5b3fa00674918cd4848756f2f"}]
