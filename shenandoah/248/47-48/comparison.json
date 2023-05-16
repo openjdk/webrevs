@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -977,1 +977,0 @@\n-  size_t regions;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
