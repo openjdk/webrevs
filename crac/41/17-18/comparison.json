@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -729,1 +729,1 @@\n-          \/\/ glibc:     && CPU_FEATURE_USABLE_P (cpu_features, MOVBE)) \n+          \/\/ glibc:     && CPU_FEATURE_USABLE_P (cpu_features, MOVBE))\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
