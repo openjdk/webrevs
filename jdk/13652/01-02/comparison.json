@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2601,0 +2601,2 @@\n+  assert(!is_scratch_class(), \"must be\");\n+  assert(!has_been_redefined(), \"must be\");\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
