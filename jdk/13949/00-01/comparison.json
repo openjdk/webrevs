@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -559,1 +559,0 @@\n-    assert(thread->jvmti_thread_state()->is_virtual(), \"wrong JvmtiThreadState\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
