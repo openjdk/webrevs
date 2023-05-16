@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1656,1 +1656,1 @@\n-  vfadd_vv(dst, src1, src1, Assembler::v0_t);  \n+  vfadd_vv(dst, src1, src1, Assembler::v0_t);\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
