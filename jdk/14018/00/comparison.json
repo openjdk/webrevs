@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-        jcmd.vm.system_properties \\\n+        jcmd.vm.system_properties jcmd.vm.info \\\n","filename":"test\/failure_handler\/src\/share\/conf\/common.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
