@@ -1,0 +1,1 @@
+[{"commit":{"message":"8279993: Assert that a shared class is not loaded more than once"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"}],"sha":"9d5f70ca17c60e0ce428e4c705c9568551e0bdd3"}]
