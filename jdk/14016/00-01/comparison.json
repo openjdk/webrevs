@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -688,1 +688,1 @@\n-                \"AnotherClass.java:69: warning: invalid usage of tag {@index\");\n+                \"AnotherClass.java:68: warning: invalid usage of tag {@index\");\n","filename":"test\/langtools\/jdk\/javadoc\/doclet\/testSearch\/TestSearch.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
