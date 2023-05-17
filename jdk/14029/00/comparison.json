@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7671,1 +7671,1 @@\n-  match(Set dst (ConvD2F (SqrtD (ConvF2D src))));\n+  match(Set dst (SqrtF src));\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
