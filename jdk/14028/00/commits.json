@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308270: ARM32 build broken after JDK-8304913"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/Architecture.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/PlatformProps.java.template"},{"filename":"test\/jdk\/jdk\/internal\/util\/ArchTest.java"}],"sha":"ef7df99f4b1d5230798bda37f6716cb3052c8d61"}]
