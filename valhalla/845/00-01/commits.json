@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix issue when the boxed type is not equal to the intrinsic return type"},"files":[{"filename":"src\/hotspot\/share\/opto\/castnode.cpp"}],"sha":"dadedbe2e21539de0c9e0419f942398ed8a75bb1"}]
