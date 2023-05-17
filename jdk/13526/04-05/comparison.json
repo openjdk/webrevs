@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1819,1 +1819,1 @@\n-     * root directories of the existing filesystem roots.  It is guaranteed\n+     * root directories of the available filesystem roots.  It is guaranteed\n","filename":"src\/java.base\/share\/classes\/java\/io\/File.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
