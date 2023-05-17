@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed situation when performAction throws an exception on Java side - now we are properly\nreturning FALSE notifying system that action has not been performed successfully."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/a11y\/AccessibleBase.m"}],"sha":"2834c7da0897a6c26db0129c0dd6ec28aeca8186"}]
