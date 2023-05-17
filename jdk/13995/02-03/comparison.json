@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -245,1 +245,1 @@\n-  size_t used_size = snprintf(buf, bufsize, \"%s\", close);\n+  int used_size = snprintf(buf, bufsize, \"%s\", close);\n","filename":"src\/utils\/hsdis\/binutils\/hsdis-binutils.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
