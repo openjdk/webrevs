@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,0 @@\n-        \"--add-exports\", \"java.base\/jdk.internal.classfile.java.lang.constant=ALL-UNNAMED\",\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/invoke\/LazyStaticColdStart.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
