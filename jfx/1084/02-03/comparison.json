@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -177,1 +177,1 @@\n-    GlassAccessible* accessible = NULL;\n+    NSObject* accessible = NULL;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/a11y\/AccessibleBase.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
