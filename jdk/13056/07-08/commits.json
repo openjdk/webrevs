@@ -1,0 +1,1 @@
+[{"commit":{"message":"added missing float\/double cases to VectorNode::scalar_opcode"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"}],"sha":"e3d99c9599dd63390086336967bac091570c8b5c"}]
