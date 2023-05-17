@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace homegrown FallbackTable with a ResourceHashtable based impl"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/slidingForwarding.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/slidingForwarding.hpp"}],"sha":"3f7cc3762279a1aadd5a565bc52d6a542c426a6a"}]
