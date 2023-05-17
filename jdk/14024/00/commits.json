@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308192: Error in parsing replay file when staticfield is an array of single dimension\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciReplay.cpp"}],"sha":"60b0d8a66bee31b138955ec888bbcf2c080d9455"}]
