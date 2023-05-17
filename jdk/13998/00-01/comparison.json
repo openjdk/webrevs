@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n- * \"Library\",\"network\" does not throw Invalid Path Exception on selection.\n+ * \"Library\", \"Network\" does not throw Invalid Path Exception on selection.\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/FileChooserIPETest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
