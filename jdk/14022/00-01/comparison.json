@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -373,1 +373,1 @@\n-     * The specified thread must be suspended.\n+     * This thread must be suspended.\n","filename":"src\/jdk.jdi\/share\/classes\/com\/sun\/jdi\/ThreadReference.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
