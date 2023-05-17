@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -563,1 +563,1 @@\n-      long remove_size = 0;\n+      size_t remove_size = 0;\n@@ -569,1 +569,0 @@\n-      assert(remove_size > 0, \"negative size\");\n","filename":"src\/hotspot\/share\/services\/virtualMemoryTracker.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
