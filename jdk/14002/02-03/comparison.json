@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -149,1 +149,0 @@\n-  jvmtiError err;\n@@ -162,2 +161,0 @@\n-  jvmtiError err;\n-\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/PopFrameTest\/libPopFrameTest.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
