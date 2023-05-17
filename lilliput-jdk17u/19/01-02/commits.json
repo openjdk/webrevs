@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't restrict Klass prototype headers to Lilliput, b\/c biased-locking"},"files":[{"filename":"src\/hotspot\/share\/oops\/klass.hpp"}],"sha":"1ff93cdb1cd0dd0e456f2a68c0a1dc3b21a89947"}]
