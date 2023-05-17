@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,2 +158,2 @@\n-        remove(TEST_CORE_FILE_NAME);x\n-        \/\/remove(REPLAY_FILE_NAME);\n+        remove(TEST_CORE_FILE_NAME);\n+        remove(REPLAY_FILE_NAME);\n","filename":"test\/hotspot\/jtreg\/compiler\/ciReplay\/CiReplayBase.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
