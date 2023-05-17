@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,0 +47,4 @@\n+\/\/  64 bits (alternative GC forwarding):\n+\/\/  ------------------------------------\n+\/\/  unused:25 hash:31 -->| unused_gap:1  age:4  self-fwd:1  lock:2 (normal object)\n+\/\/\n","filename":"src\/hotspot\/share\/oops\/markWord.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
