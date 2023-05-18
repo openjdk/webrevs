@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-    private AtomicReference<Throwable> failedRef = new AtomicReference<>();\n+    private final AtomicReference<Throwable> failedRef = new AtomicReference<>();\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http1Exchange.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
