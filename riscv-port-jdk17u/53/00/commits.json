@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8297697: RISC-V: Add support for SATP mode detection"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp"}],"sha":"af474222c8230e7ef2849cba8c9a873132359d8f"}]
