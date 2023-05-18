@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -275,1 +275,1 @@\n-\tA value of 0 (zero) means do not use stale names.\n+\tA value of 0 (zero) means do not use stale names, the negative value is ignored.\n","filename":"src\/java.base\/share\/classes\/java\/net\/doc-files\/net-properties.html","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
