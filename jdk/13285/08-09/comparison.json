@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -224,1 +224,2 @@\n- * A value of 0 (zero) means do not use stale names.\n+ * A value of 0 (zero) means do not use stale names, the negative value is\n+ * ignored.\n","filename":"src\/java.base\/share\/classes\/java\/net\/InetAddress.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
