@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305225: A service broken error despite annotation processor generating it if directives listed"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Modules.java"},{"filename":"test\/langtools\/tools\/javac\/modules\/AnnotationProcessing.java"}],"sha":"b345804fe318c1ea835420d7f1b2cb315456fff5"}]
