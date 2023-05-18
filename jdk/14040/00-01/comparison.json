@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-    private static final Collator ENG_DEF =  Collator.getInstance(Locale.ENGLISH);\n+    private static final Collator ENG_DEF = Collator.getInstance(Locale.ENGLISH);\n","filename":"test\/jdk\/sun\/text\/resources\/Collator\/CollationSettingsTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
