@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n-    private int setid;\n+    private final int setid;\n@@ -102,1 +102,1 @@\n-        for(int i=0; i<n; i++) {\n+        for (int i=0; i<n; i++) {\n","filename":"src\/java.base\/aix\/classes\/sun\/nio\/ch\/PollsetPoller.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
