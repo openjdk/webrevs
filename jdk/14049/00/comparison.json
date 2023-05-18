@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,1 +173,1 @@\n-     * is the default setting and provides the fastest collation but\n+     * setting provides the fastest collation but\n","filename":"src\/java.base\/share\/classes\/java\/text\/Collator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
