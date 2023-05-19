@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -182,1 +182,1 @@\n-            if(!task.call()) {\n+            if (!task.call()) {\n","filename":"test\/lib\/jdk\/test\/lib\/compiler\/InMemoryJavaCompiler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
