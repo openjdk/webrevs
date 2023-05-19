@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4313,1 +4313,1 @@\n-  ldr(holder, Address(holder, ConstantPool::pool_holder_offset())); \/\/ InstanceKlass*\n+  ldr(holder, Address(holder, ConstantPool::pool_holder_offset()));          \/\/ InstanceKlass*\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
