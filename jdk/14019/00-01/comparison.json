@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,1 +210,1 @@\n-    \/\/ Called here only for JVMTI object alloc\n+    \/\/ Called here only for JVMTI VMObjectAlloc event\n","filename":"src\/hotspot\/share\/gc\/shared\/memAllocator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
