@@ -1,0 +1,1 @@
+[{"commit":{"message":"Leaving `FileURLConnection.is` non-null, and claiming `connected`, even after `closeInputStream` https:\/\/github.com\/openjdk\/jdk\/pull\/12871#discussion_r1199085883"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/file\/FileURLConnection.java"}],"sha":"232e4f2edfd7d60b054a6bf8c1d86e5d93e8999d"}]

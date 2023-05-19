@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,2 +96,0 @@\n-            is = null;\n-            connected = false;\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/file\/FileURLConnection.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
