@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add OCSP readtimeout property"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/OCSP.java"},{"filename":"test\/jdk\/java\/security\/cert\/CertPathValidator\/OCSP\/OCSPTimeout.java"}],"sha":"81c7cb35d15258e62146fe75e7c7fcc5c3acc8f2"}]
