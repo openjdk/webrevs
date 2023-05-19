@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -468,1 +468,0 @@\n-            \/\/ When inputTrust object is NULL, no trust settings were found for the cert\n","filename":"src\/java.base\/macosx\/native\/libosxsecurity\/KeystoreImpl.m","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
