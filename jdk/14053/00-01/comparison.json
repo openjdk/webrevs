@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2781,1 +2781,1 @@\n-  const int unpack_kind_byte_offset = Deoptimization::UnrollBlock::unpack_kind_offset()\n+  const int unpack_kind_byte_offset = in_bytes(Deoptimization::UnrollBlock::unpack_kind_offset())\n","filename":"src\/hotspot\/cpu\/s390\/sharedRuntime_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
