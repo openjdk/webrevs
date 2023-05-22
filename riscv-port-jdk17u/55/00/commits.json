@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307150: RISC-V: Remove remaining StoreLoad barrier with UseCondCardMark for Serial\/Parallel GC"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/cardTableBarrierSetAssembler_riscv.cpp"}],"sha":"e19fb021edec2600dc1105303c7ccfa4e3fcd100"}]
