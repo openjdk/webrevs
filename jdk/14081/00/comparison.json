@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,0 +137,2 @@\n+        \/\/ exception from cancelling an HTTP\/2 stream\n+        if (message.matches(\"stream [0-9]+ cancelled\")) return true;\n","filename":"test\/jdk\/java\/net\/httpclient\/ShutdownNow.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
