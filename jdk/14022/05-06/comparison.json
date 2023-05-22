@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -313,1 +313,1 @@\n-             * there is already a native method on the stack), you end up in \n+             * there is already a native method on the stack), you end up in\n","filename":"test\/jdk\/com\/sun\/jdi\/PopFramesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
