@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4162,1 +4162,1 @@\n-      assert(loop == nullptr, \"\");\n+      assert(loop == nullptr || loop->is_in_infinite_subgraph(), \"opaque associated with loop only if in an infinite loop\");\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
