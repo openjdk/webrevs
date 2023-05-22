@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n- * @run main\/othervm -XX:-UseGCOverheadLimit -Xmx24M -XX:-UseTLAB OOMEInAQS\n+ * @run main\/othervm -XX:-UseGCOverheadLimit -Xmx48M -XX:-UseTLAB OOMEInAQS\n","filename":"test\/jdk\/java\/util\/concurrent\/locks\/Lock\/OOMEInAQS.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
