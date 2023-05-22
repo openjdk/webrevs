@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -811,1 +811,1 @@\n-  if (timer != nullptr) {\n+  if (timer != nullptr && !ZAbort::should_abort()) {\n","filename":"src\/hotspot\/share\/gc\/z\/zStat.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
