@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -981,1 +981,1 @@\n-      \/\/ Print current thread slack\n+      \/\/ Print current timer slack, if available\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
