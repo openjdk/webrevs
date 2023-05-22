@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -792,1 +792,1 @@\n-  lib_offset = jvm_offset = strlen(buf);\n+  lib_offset = jvm_offset = (int)strlen(buf);\n","filename":"src\/hotspot\/share\/compiler\/disassembler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
