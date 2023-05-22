@@ -1,0 +1,1 @@
+[{"commit":{"message":"- Add $$($1_LD) $$($1_SYSROOT_LDFLAGS) to $1_VARDEPS if $(TOOLCHAIN_TYPE) is gcc or clang, as suggested by @erikj79."},"files":[{"filename":"make\/common\/NativeCompilation.gmk"}],"sha":"695bda5e1d69703a0c763b65aa0ff958815c5a60"}]
