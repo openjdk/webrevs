@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix the bug of freeing incorrect size in CHeapBitMap destructor"},"files":[{"filename":"src\/hotspot\/share\/utilities\/bitMap.cpp"}],"sha":"bb9a90b287c09ef6b02d1b1c6a9ec70f6ef356db"}]

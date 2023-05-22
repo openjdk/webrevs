@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,1 @@\n-  free(map(), size());\n+  free(map(), size_in_words());\n","filename":"src\/hotspot\/share\/utilities\/bitMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
