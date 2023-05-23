@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3721,1 +3721,1 @@\n-            if (ReductionNode::implemented(use->Opcode(), Matcher::max_vector_size(bt), bt)) {\n+            if (ReductionNode::implemented(use->Opcode(), Matcher::superword_max_vector_size(bt), bt)) {\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
