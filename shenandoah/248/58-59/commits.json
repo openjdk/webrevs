@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix argument types to not loose precision"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMmuTracker.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMmuTracker.hpp"}],"sha":"349f87fb24605116a15f8760113ee2eca49930d4"}]
