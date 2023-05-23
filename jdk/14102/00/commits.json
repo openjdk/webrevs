@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308656: RISC-V: vstring_compare doesnt manifest usage of all vector registers"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"59612b8d43fed9ccee39acd2ecc5e1743c111c42"}]
