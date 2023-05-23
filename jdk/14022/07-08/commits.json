@@ -1,0 +1,1 @@
+[{"commit":{"message":"set breakpoint in loopOrSleep() rather than popMethod() since it is a bit closer to the point where the thread blocks."},"files":[{"filename":"test\/jdk\/com\/sun\/jdi\/PopFramesTest.java"}],"sha":"903d00e4e315c32966e9ac23833ad68305564080"}]
