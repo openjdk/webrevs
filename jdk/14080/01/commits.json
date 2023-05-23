@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change author's e-mail."},"files":[],"sha":"4c1b4ab0692e81bf5d75218fe3b876ac86df4397"},{"commit":{"message":"8308544: Fix compilation regression from JDK-8306983 on musl libc"},"files":[{"filename":"src\/jdk.internal.le\/linux\/native\/lible\/CLibrary.cpp"}],"sha":"8265af14d7c6e2aeb51ee306af6b487c24c58bd7"}]
