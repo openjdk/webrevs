@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @summary foo\n+ * @summary Make new version of JNU_GetStringPlatformChars which checks for null characters\n","filename":"test\/jdk\/java\/net\/InetAddress\/NullCharDriver.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
