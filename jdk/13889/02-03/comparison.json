@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4660,1 +4660,1 @@\n-  \/\/ thread would inherit the setting the children threads, which would be\n+  \/\/ thread will establish the setting for child threads, which would be\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
