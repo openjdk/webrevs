@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -420,1 +420,1 @@\n-  product(uintx, ShenandoahFullGCThreshold, 3, EXPERIMENTAL,                \\\n+  product(uintx, ShenandoahFullGCThreshold, 64, EXPERIMENTAL,               \\\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoah_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
