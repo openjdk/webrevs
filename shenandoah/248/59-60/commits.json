@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove irrelevant assert\n\nAsserts about soft_max_capacity are not relevant after changes to how this is implemented and how it is used."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp"}],"sha":"92608d74f99dc5d2fd6a414412a31c8c55773622"}]

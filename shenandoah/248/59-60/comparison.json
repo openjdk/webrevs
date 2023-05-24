@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -751,1 +751,0 @@\n-  assert(_soft_max_capacity >= decrement, \"Generation soft capacity cannot be negative\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
