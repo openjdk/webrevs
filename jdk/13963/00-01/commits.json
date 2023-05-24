@@ -1,0 +1,1 @@
+[{"commit":{"message":"exclude update for libnet"},"files":[{"filename":"src\/java.base\/unix\/native\/libnet\/NetworkInterface.c"},{"filename":"src\/java.base\/unix\/native\/libnet\/net_util_md.c"},{"filename":"src\/java.base\/windows\/native\/libnet\/net_util_md.c"}],"sha":"2247a56dee0483c383087f4fcd825f84daed4d4c"}]
