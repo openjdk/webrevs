@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-        var mtd = MethodTypeDesc.of(desc.returnType(), desc.parameterArray());\n+        var mtd = MethodTypeDesc.of(desc.returnType(), desc.parameterList());\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/constant\/MethodTypeDescDescriptor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
