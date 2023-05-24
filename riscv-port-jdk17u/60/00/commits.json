@@ -1,0 +1,1 @@
+[{"commit":{"message":"8301852: RISC-V: Optimize class atomic when order is memory_order_relaxed"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/atomic_linux_riscv.hpp"}],"sha":"979e52197b00a409a1bc47070ba57d08bc54eaf1"}]
