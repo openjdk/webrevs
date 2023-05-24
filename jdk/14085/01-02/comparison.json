@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7046,0 +7046,4 @@\n+  \/\/ See https:\/\/loup-vaillant.fr\/tutorials\/poly1305-design for a\n+  \/\/ description of the tricks used to simplify and accelerate this\n+  \/\/ computation.\n+\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
