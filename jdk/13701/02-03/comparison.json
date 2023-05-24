@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -710,1 +710,1 @@\n-            AffineTransform  at = g2d.getTransform();\n+            AffineTransform at = g2d.getTransform();\n","filename":"src\/java.desktop\/windows\/classes\/com\/sun\/java\/swing\/plaf\/windows\/XPStyle.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
