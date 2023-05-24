@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,0 +137,5 @@\n+    @Test\n+    void testSystemLibraryBadLookupName() {\n+        assertTrue(LINKER.defaultLookup().find(\"strlen\\u0000foobar\").isEmpty());\n+    }\n+\n","filename":"test\/jdk\/java\/foreign\/StdLibTest.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
