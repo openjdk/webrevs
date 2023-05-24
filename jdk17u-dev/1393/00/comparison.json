@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,1 +268,1 @@\n-LCMS_CFLAGS=-DCMS_DONT_USE_FAST_FLOOR\n+LCMS_CFLAGS=-DCMS_DONT_USE_FAST_FLOOR -DCMS_NO_HALF_SUPPORT\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
