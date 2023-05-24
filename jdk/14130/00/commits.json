@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308727: Compiler should accept final unnamed variables in try-with-resources"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Unnamed.java"}],"sha":"0422855e63b7738eb60435604f9dca7c5e08ef6d"}]
