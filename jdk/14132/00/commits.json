@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308801: update for deprecated sprintf for libnet in java.base"},"files":[{"filename":"src\/java.base\/unix\/native\/libnet\/NetworkInterface.c"},{"filename":"src\/java.base\/unix\/native\/libnet\/net_util_md.c"},{"filename":"src\/java.base\/windows\/native\/libnet\/net_util_md.c"}],"sha":"b60252acb8c5a7431beda4788f1c8ccc29455c09"}]
