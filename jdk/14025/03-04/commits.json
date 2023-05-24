@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid changing behavior in a refactoring PR - removed _max_buffer_length and reverted to getc()"},"files":[{"filename":"src\/hotspot\/share\/utilities\/lineReader.cpp"},{"filename":"src\/hotspot\/share\/utilities\/lineReader.hpp"}],"sha":"b8a0f31e3dda2cfd550941bc406b5861562a7efa"}]
