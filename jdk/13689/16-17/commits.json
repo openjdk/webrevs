@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow unqualified access to unnamed class (internally visible)"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/tree\/TreeMaker.java"},{"filename":"test\/langtools\/tools\/javac\/unnamedclass\/NestedEnum.java"}],"sha":"e590c736a6269c9bd4f6f39e90d82e655f6e1990"}]
