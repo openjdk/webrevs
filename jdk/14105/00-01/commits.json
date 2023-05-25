@@ -1,0 +1,1 @@
+[{"commit":{"message":"call scan_default_large_page_size() in the beginning of large_page_init()"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"c1353af77275279bf0baaef86cf14a87618ce558"}]
