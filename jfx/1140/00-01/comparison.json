@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-def prefSdkVersion = \"11.1\"\n+def prefSdkVersion = \"13.3\"\n","filename":"buildSrc\/mac.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
