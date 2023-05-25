@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307683: Loop Predication is wrongly applied to non-RangeCheckNodes without LoadRangeNodes"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/TestHoistedPredicateForNonRangeCheck.java"}],"sha":"59ec5a0eaeadba30aac128885573f19f5fbeddf1"}]
