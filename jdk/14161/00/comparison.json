@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-  develop(bool, CIPrintCompilerName, false,                                 \\\n+  product(bool, CIPrintCompilerName, false, DIAGNOSTIC,                     \\\n","filename":"src\/hotspot\/share\/compiler\/compiler_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
