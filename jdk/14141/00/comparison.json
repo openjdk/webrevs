@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @requires os.simpleArch == \"x64\"& (vm.opt.UseAVX == \"null\" | vm.opt.UseAVX > 0)\n+ * @requires os.simpleArch == \"x64\" & vm.cpu.features ~= \".*avx.*\"\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestFpMinMaxReductions.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

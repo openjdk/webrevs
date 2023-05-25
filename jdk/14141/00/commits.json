@@ -1,0 +1,1 @@
+[{"commit":{"message":"Require avx.* CPU feature instead of UseAVX for robustness"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestFpMinMaxReductions.java"}],"sha":"9cae51cabab2b6acc35f197d671cfec00585d16f"}]
