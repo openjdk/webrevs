@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-  return AllocateHeap(size, flags, CALLER_PC);\n+  return AllocateHeap(size, flags, CALLER_PC, alloc_failmode);\n","filename":"src\/hotspot\/share\/memory\/allocation.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
