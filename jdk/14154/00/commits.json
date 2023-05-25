@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308881: Strong CLD oop handle roots are demoted to non-roots concurrently"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.hpp"}],"sha":"b75fce3261c5c49d3f1dee07daa66d8fd3766c5f"}]
