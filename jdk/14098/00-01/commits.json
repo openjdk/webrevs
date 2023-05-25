@@ -1,0 +1,1 @@
+[{"commit":{"message":"Tweak javadoc of MemorySegment::get\/setUtf8String to deal with overflow"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemorySegment.java"}],"sha":"df6c123900bfa2669233f2565ec7f58434395085"}]
