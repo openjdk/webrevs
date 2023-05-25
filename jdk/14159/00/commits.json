@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308144: HttpClient - uncontrolled memory consumption in SSLFlowDelegate.Reader"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/common\/SSLFlowDelegate.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/HttpsBackpressureTest.java"}],"sha":"a3bad4d5952bce96c255e07abb9fdb687e256714"}]
