@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308594: Use atomic bitset function for PackageEntry::_defined_by_cds_in_class_path"},"files":[{"filename":"src\/hotspot\/share\/classfile\/packageEntry.hpp"}],"sha":"7b8bb401425462ab329f2fbe6475c44c5532b7b1"}]
