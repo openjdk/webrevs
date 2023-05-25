@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-            \/\/ registration cauesed by the core CRaC code leads to deadlock.\n+            \/\/ registration caused by the core CRaC code leads to deadlock.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandleNatives.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
