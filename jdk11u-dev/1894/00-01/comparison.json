@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n- * @bug 8081022 8151876 8166875 8177819 8189784 8206980 8277049 8278434\n+ * @bug 8081022 8151876 8166875 8189784 8206980 8278434\n","filename":"test\/jdk\/java\/time\/test\/java\/time\/format\/TestZoneTextPrinterParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
