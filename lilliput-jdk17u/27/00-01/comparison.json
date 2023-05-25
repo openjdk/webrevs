@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2118,1 +2118,1 @@\n-  if (alloc != NULL && !(alloc->Opcode() == Op_Allocate && UseBiasedLocking)) {\n+  if (alloc != NULL && !(alloc->Opcode() == Op_Allocate && UseBiasedLocking) && !UseCompactObjectHeaders) {\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
