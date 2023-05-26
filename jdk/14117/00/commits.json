@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use JNI_ABORT to release string bytes"},"files":[{"filename":"src\/java.base\/share\/native\/libjava\/jni_util.c"}],"sha":"c34fd588007cd362454364953f12e026f64a740c"}]
