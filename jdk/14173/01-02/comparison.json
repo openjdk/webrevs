@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,1 @@\n+                \/\/ Do some random work to trigger compilation\n@@ -71,0 +72,1 @@\n+                total += String.valueOf(total).hashCode();\n","filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/TestUncaughtErrorInCompileMethod.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
