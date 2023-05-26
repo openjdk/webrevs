@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove rce post loop vmask assert -> it is legit there"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"}],"sha":"83531a0e436e26a6af8d40ab97179eb4cc72620a"}]

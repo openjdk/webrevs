@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2667,1 +2667,1 @@\n-      assert(false, \"rce post loop vmask was not created\");\n+      \/\/ create_post_loop_vmask checks many conditions, any of them could fail\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
