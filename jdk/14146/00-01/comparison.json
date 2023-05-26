@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,1 +169,1 @@\n-#if (defined(_ALLBSD_SOURCE) || defined(_GNU_SOURCE)) && !defined(AIX)\n+#if (defined(_ALLBSD_SOURCE) || defined(_GNU_SOURCE)) && !defined(_AIX)\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
