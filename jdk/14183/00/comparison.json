@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -297,0 +297,3 @@\n+\t@if test -f $(MAKESUPPORT_OUTPUTDIR)\/exit-with-error ; then \\\n+\t  exit 1 ; \\\n+\tfi\n","filename":"make\/RunTestsPrebuilt.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
