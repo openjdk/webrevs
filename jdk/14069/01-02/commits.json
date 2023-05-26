@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove ObjectMonitor::ANONYMOUS_OWNER handling from fast path. We take the slow path instead."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"}],"sha":"8b4c8370c9b953ccee1036c97afa80a1621ae199"}]
