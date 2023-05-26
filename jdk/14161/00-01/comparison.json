@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -213,4 +213,0 @@\n-  \/\/ print compiler name if requested\n-  if (CIPrintCompilerName) {\n-    tty->print(\"%s:\", CompileBroker::compiler_name(comp_level()));\n-  }\n","filename":"src\/hotspot\/share\/compiler\/compileTask.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
