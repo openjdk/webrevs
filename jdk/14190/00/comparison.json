@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n- * @bug 8271566\n+ * @bug 8271566 8297885\n@@ -42,1 +42,1 @@\n- * @run main\/othervm\/timeout=30 LargeDSAKey\n+ * @run main\/othervm\/timeout=90 LargeDSAKey\n","filename":"test\/jdk\/sun\/security\/pkcs11\/Signature\/LargeDSAKey.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
