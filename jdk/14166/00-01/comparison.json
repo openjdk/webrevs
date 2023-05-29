@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1390,1 +1390,1 @@\n-\/\/ base, cnt, v0, v1 and t0 are clobbered.\n+\/\/ base, cnt, v4, v5, v6, v7 and t0 are clobbered.\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
