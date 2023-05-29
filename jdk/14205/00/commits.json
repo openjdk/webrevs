@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309054: Parsing of erroneous patterns succeeds"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8309054.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8309054.out"}],"sha":"864ad93ad8d9430511a4208248e7ae0952bf0f47"}]
