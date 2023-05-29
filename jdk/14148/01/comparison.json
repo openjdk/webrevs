@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -177,2 +177,1 @@\n-        x = -1 >>> Long.numberOfLeadingZeros(x - 1);\n-        return x + 1;\n+        return 1L << -Long.numberOfLeadingZeros(x - 1);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/EntryMap.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
