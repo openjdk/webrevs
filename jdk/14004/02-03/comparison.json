@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -325,1 +325,1 @@\n-                    b.requestFocus(FocusEvent.Cause.MOUSE_EVENT);\n+                    b.requestFocus();\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicButtonListener.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
