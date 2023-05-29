@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 52324b55fb7be2cd1ba9e843ece93375ac23649c"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestCopyValueOf.java"}],"sha":"a7179f8913a6d71bae468ff8086d6d5b48bcc098"}]
