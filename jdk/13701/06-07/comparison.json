@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,0 +129,1 @@\n+                            dpiVal.clear();\n@@ -130,1 +131,0 @@\n-                        dpiAwareWidgetToTheme.get(dpi).clear();\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/ThemeReader.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
