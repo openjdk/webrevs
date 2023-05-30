@@ -1,0 +1,1 @@
+[{"commit":{"message":"use uint64_t for nanos"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_perf_bsd.cpp"}],"sha":"a50b4f01624ff1e4f824f5e748194fcb399a9f99"},{"commit":{"message":"fix alignment"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.hpp"}],"sha":"c875324b9b161e94f193387d7d32f981a548cb4f"}]
