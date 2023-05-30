@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1875,0 +1875,3 @@\n+        if (base == null) {\n+            return null;\n+        }\n","filename":"src\/java.base\/share\/classes\/java\/util\/Locale.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
