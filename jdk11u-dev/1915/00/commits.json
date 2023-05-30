@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport a93cf5f2b959ba97d5197fe027b81ec69de18382\n\nThis reverts commit de8c37acea0d74524f4f735fef8b03e71a64589f."},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestMissingSkeletonPredicateForIfNode.java"}],"sha":"2f5edf12881f23c847c365d6cde1d77ee62231fe"}]
