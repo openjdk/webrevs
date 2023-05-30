@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -482,0 +482,1 @@\n+         cause == GCCause::_wb_young_gc ||\n@@ -485,1 +486,1 @@\n-         \"only requested GCs here\");\n+         \"only requested GCs here: %s\", GCCause::to_string(cause));\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
