@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @requires (os.family == \"linux\")\n+ * @requires (os.family == \"linux\") | (os.family == \"aix\")\n","filename":"test\/jdk\/java\/lang\/ProcessBuilder\/JspawnhelperProtocol.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

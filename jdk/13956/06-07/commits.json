@@ -1,0 +1,1 @@
+[{"commit":{"message":"Enable JspawnhelperProtocol test on AIX as well because AIX also uses posix_spawn"},"files":[{"filename":"test\/jdk\/java\/lang\/ProcessBuilder\/JspawnhelperProtocol.java"}],"sha":"3a0e44b7cd06693a26353b8a8383c9c85ed75313"}]
