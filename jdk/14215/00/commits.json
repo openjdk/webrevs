@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use exactly-sized copy in fallback linker for by-value structs"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/fallback\/FallbackLinker.java"}],"sha":"ab280c5a692d847efab22869fe88fb207cf1bad1"}]
