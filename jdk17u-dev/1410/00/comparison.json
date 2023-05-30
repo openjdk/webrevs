@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -769,0 +769,1 @@\n+    ShenandoahSuspendibleThreadSetJoiner sts_join;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
