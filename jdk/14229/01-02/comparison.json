@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -313,1 +313,1 @@\n-        expectedFail(args, List.of(\"New21.java\"));\n+       expectedFail(args, List.of(\"New21.java\"));\n","filename":"test\/langtools\/tools\/javac\/versions\/Versions.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
