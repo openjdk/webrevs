@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove negation"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/TestHoistedPredicateForNonRangeCheck.java"}],"sha":"48ee1e40fe7e93cb07806ff2aae3b9025b5fdebf"}]
