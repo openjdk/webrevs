@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable Lilliput by default, and turn off CDS when Lilliput is enabled"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"123213b7d13b456b40fef1b12d597cc39fbb30b3"}]
