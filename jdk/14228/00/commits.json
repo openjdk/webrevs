@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308152: PropertyDescriptor should work with overridden generic getter method"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/beans\/Introspector.java"},{"filename":"test\/jdk\/java\/beans\/PropertyDescriptor\/OverriddenGetter.java"}],"sha":"d8465dc0922e82f3307543feee8f8dbd690a81ca"}]
