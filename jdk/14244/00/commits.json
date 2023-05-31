@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304438: jcmd JVMTI.agent_load should obey EnableDynamicAgentLoading"},"files":[{"filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp"},{"filename":"test\/jdk\/sun\/tools\/jcmd\/TestJcmdNoAgentLoad.java"}],"sha":"dbe0d37a698cff344910ed6f351a7031033c72c9"}]
