@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -223,0 +223,1 @@\n+        int cores = Runtime.getRuntime().availableProcessors();\n@@ -228,0 +229,1 @@\n+                    .threads(cores)\n","filename":"jmh-core-it\/src\/test\/java\/org\/openjdk\/jmh\/it\/threads\/BenchmarkBenchSameThreadTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
