@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reintroduce initialize_processor_count() requiring -XX:+CRaCCPUCountInit.\n - requested by Anton Kozlov"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/globals_x86.hpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"}],"sha":"279ddbdc58bf9813f38b0744697a65df90e18c86"}]
