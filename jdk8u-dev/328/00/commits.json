@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309274: backporting tests for GET and POST OCSP calls"},"files":[{"filename":"jdk\/test\/java\/security\/cert\/CertPathValidator\/OCSP\/GetAndPostTests.java"},{"filename":"jdk\/test\/javax\/net\/ssl\/templates\/SSLSocketTemplate.java"}],"sha":"dc8bf3e2151da552f284c557e5c5f653fff4081e"}]
