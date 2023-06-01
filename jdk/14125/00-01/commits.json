@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert changes to jaccesswalker and add proper cast to offending callsite"},"files":[{"filename":"src\/jdk.accessibility\/windows\/native\/jaccesswalker\/jaccesswalker.cpp"},{"filename":"src\/jdk.accessibility\/windows\/native\/jaccesswalker\/jaccesswalker.h"}],"sha":"628be6b2f1f2cc72900bc393901730545f50d25d"}]
