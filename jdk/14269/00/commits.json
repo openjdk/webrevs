@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309241: ClassForNameLeak fails intermittently as the class loader hasn't been unloaded"},"files":[{"filename":"test\/jdk\/java\/lang\/ClassLoader\/forNameLeak\/ClassForNameLeak.java"}],"sha":"f911a52da9fd8d9f6dc1d73cff1901d2fa97be1b"}]
