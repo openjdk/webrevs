@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix possible race in the SimpleResolverProviderImpl"},"files":[{"filename":"test\/jdk\/java\/net\/spi\/InetAddressResolverProvider\/providers\/simple\/simple.provider\/impl\/SimpleResolverProviderImpl.java"}],"sha":"7bb0de6f6fb61994f874dcdabe4839e2044b9993"}]
