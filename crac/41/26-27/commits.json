@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove initialize_processor_count().\n - requested by Anton Kozlov\n - it was crashing for me for 4 CPU <-> 16 CPU moves"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"}],"sha":"2d67d94a5f62802ca34bfb2375fe2fdbeb5247bf"}]
