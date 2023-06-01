@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restrict access to unnamed class members when doing separate compilation."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/ClassFinder.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"}],"sha":"4bfb8020cdef75f7130e02310bad27e339229a90"}]
