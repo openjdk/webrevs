@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -245,1 +245,1 @@\n-  format %{ \"vrsub.vi $tmp, 0, $src\\t#@vabs\\n\\t\"\n+  format %{ \"vrsub.vi $tmp, $src, 0\\t#@vabs\\n\\t\"\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
