@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change to more efficient algorithm for AVX512"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_fmod.cpp"}],"sha":"e11319555a30f344eb6a570af0f76859f5a7f5bf"}]
