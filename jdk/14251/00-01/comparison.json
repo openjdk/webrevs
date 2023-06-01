@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -167,1 +167,2 @@\n-                if ((cause = this.cause) == null) {\n+                cause = this.cause;\n+                if (cause == null) {\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Exchange.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
