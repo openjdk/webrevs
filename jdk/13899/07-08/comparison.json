@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -489,0 +489,1 @@\n+\/\/ This function is called before the agent is added to JvmtiAgentList.\n","filename":"src\/hotspot\/share\/prims\/jvmtiAgent.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
