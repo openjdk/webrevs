@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not update decompile count when an invalid dependency at code installation is a call site dependency"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.hpp"}],"sha":"86dcfae867f21e4ee54affa3317f443ad6bf4ef7"}]
