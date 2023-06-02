@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix signed int min case in MaxNode::build_min_max()"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"}],"sha":"2f001f3a2d12b290a6468326ca62d9908235fc0f"}]
