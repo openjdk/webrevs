@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,1 +132,1 @@\n-    char* chars = (char*)malloc(len*sizeof(char) + 1);\n+    char* chars = (char*)malloc((len + 1)*sizeof(char));\n","filename":"test\/jdk\/java\/io\/File\/libGetXSpace.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
