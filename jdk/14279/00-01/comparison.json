@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1074,1 +1074,1 @@\n-  format %{ \"vneg $dst, $src, $src\" %}\n+  format %{ \"vneg $dst, $src\" %}\n@@ -1105,1 +1105,1 @@\n-  format %{ \"vfneg $dst, $src, $src\" %}\n+  format %{ \"vfneg $dst, $src\" %}\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
