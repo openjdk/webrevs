@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,1 @@\n+        \/\/ Repeated calls to encapsulation() on Encapsulated object don't change anything\n","filename":"test\/jdk\/javax\/crypto\/KEM\/GenLargeNumberOfKeys.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
