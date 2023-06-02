@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -152,1 +152,1 @@\n-                            <argLine>${jmh.testjvmargs} --enable-preview -Djmh.executor=VIRTUAL_TPE<\/argLine>\n+                            <argLine>${jmh.testjvmargs} -Djmh.executor=VIRTUAL_TPE<\/argLine>\n","filename":"jmh-core-it\/pom.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
