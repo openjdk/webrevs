@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -430,1 +430,1 @@\n-  __ vaddsd(xmm0, xmm0, xmm1);\n+  __ vaddsd(xmm0, xmm1, xmm1);\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_fmod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
