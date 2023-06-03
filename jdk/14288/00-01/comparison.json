@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -920,1 +920,1 @@\n-      __ slli(vl, vl, (int)sew);\n+      __ slli(vl, vl, sew);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
