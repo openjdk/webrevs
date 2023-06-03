@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove lazy init of MH, for all invocation of the Lazy VH needs this MH"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/LazyInitializingVarHandle.java"}],"sha":"0d44a0d3b15929edebc6960a8ef36f38a22ef6de"}]
