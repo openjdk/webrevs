@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -554,1 +554,1 @@\n-    if (UseCompressedClassPointers && !UseSharedSpaces &&\n+    if (UseCompressedClassPointers && !UseSharedSpaces && !DumpSharedSpaces &&\n","filename":"src\/hotspot\/share\/memory\/virtualspace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
