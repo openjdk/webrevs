@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix is_deopt to prevent misaligned access"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.hpp"}],"sha":"5941b22242ef7f70a3caae0ecf390a412bfdf582"}]

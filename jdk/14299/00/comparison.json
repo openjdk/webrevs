@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -627,1 +627,1 @@\n-    uint32_t value = *(uint32_t *) instr;\n+    uint32_t value = Assembler::ld_instr(instr);\n","filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
