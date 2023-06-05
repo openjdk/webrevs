@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use Thread.isVirtual to distinguish spin vs immediate block cases"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/LinkedTransferQueue.java"}],"sha":"c36bbe0e08b75a2718515748f209cb7cbb9db897"}]
