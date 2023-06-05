@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,1 +140,1 @@\n-  virtual const char* cause() const {\n+  const char* cause() const override {\n","filename":"src\/hotspot\/share\/gc\/shared\/gcVMOperations.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
