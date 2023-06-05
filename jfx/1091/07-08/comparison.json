@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -457,1 +457,1 @@\n-                if (getText() != null) {\n+                if (getText() != null && insertionIndex < getText().length) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/text\/PrismTextLayout.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
