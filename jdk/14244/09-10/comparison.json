@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,2 +73,0 @@\n-    \/\/ The Agent.jar does not exist. Error with the PTRN message\n-    \/\/ is expected before an attempt to load the Agent.jar.\n","filename":"test\/jdk\/sun\/tools\/jcmd\/TestJcmdNoAgentLoad.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
