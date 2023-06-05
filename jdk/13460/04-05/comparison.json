@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -203,1 +203,1 @@\n-  __ push(temp_reg);\n+  __ push(rdx); \/\/ temp_reg\n@@ -242,1 +242,1 @@\n-  __ pop(temp_reg);\n+  __ pop(rdx);\n@@ -252,1 +252,1 @@\n-  __ pop(temp_reg);\n+  __ pop(rdx);\n","filename":"src\/hotspot\/cpu\/x86\/vtableStubs_x86_32.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
