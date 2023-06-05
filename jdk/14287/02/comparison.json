@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,0 +140,4 @@\n+  virtual const char* cause() const {\n+    return GCCause::to_string(_gc_cause);\n+  }\n+\n","filename":"src\/hotspot\/share\/gc\/shared\/gcVMOperations.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
