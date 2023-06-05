@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -664,0 +664,6 @@\n+  void dump_igv(const char* graph_name, int level = 3) {\n+    if (should_print_igv(level)) {\n+      _igv_printer->print_method(graph_name, level);\n+    }\n+  }\n+\n","filename":"src\/hotspot\/share\/opto\/compile.hpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
