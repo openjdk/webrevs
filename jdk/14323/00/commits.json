@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix virtual thread issues by using join(). Also make test threads be virtual theads when the main debuggee thread is a virtual thread."},"files":[{"filename":"test\/jdk\/ProblemList-Virtual.txt"},{"filename":"test\/jdk\/com\/sun\/jdi\/MultiBreakpointsTest.java"}],"sha":"0b9b7abaf65a0a2abfe7820dff28234e682c1cea"}]
