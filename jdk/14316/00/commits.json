@@ -1,0 +1,1 @@
+[{"commit":{"message":"8301379: Verify TLS_ECDH_* cipher suites cannot be negotiated"},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/TLS\/TLSWontNegotiateDisabledCipherAlgos.java"}],"sha":"353be172d277fe6ac9ee8821d42f44af4184ed4f"}]
