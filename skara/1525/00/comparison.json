@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,0 +306,5 @@\n+\n+    @Override\n+    public boolean canCreatePullRequest(HostUser user) {\n+        throw new UnsupportedOperationException();\n+    }\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/bitbucket\/BitbucketRepository.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
