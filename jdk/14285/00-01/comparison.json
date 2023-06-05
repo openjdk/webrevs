@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,2 +28,0 @@\n-import static jdk.test.lib.Asserts.assertTrue;\n-import static jdk.test.lib.Asserts.assertEquals;\n@@ -31,1 +29,0 @@\n-import java.time.Instant;\n","filename":"test\/jdk\/jdk\/jfr\/event\/runtime\/TestResidentSetSizeEvent.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
