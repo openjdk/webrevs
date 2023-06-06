@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -569,1 +569,1 @@\n-    \/\/ we will want to report it, so we can't delete the main thread.\n+    \/\/ will want to report it, so we can't delete the main thread.\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
