@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -761,1 +761,1 @@\n-  jint state = get_thread_state_base(thread_oop, jt);\n+  jint state;\n@@ -766,0 +766,2 @@\n+  } else {\n+    state = get_thread_state_base(thread_oop, jt);\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
