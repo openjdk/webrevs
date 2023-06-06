@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -981,0 +981,1 @@\n+        private volatile boolean stop;\n","filename":"test\/jdk\/java\/net\/HttpURLConnection\/SetAuthenticator\/HTTPTestServer.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
