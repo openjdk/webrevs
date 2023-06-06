@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,0 +126,4 @@\n+\n+  if ((res = pthread_attr_destroy(&attr)) != 0) {\n+    fprintf(stderr, \"TEST ERROR: pthread_attr_destroy failed: %s (%d)\\n\", strerror(res), res);\n+  }\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/nativeStack\/libnativeStack.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
