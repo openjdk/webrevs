@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304290: Some JNI calls made without checking exceptions in media [v3]"},"files":[{"filename":"modules\/javafx.media\/src\/main\/native\/jfxmedia\/jni\/JavaPlayerEventDispatcher.cpp"},{"filename":"modules\/javafx.media\/src\/main\/native\/jfxmedia\/jni\/JniUtils.cpp"}],"sha":"aad51ea7a2a11fddc457fbdf7f00ceecb1ebb63f"}]
