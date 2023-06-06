@@ -1,0 +1,1 @@
+[{"commit":{"message":"8289220: Locale.forLanguageTag throws NPE due to soft ref used in locale cache being cleared"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/util\/locale\/LocaleObjectCache.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/LocaleDefaults.java"}],"sha":"75fd5951b7e082c47f80616266c6c404399101ea"}]
