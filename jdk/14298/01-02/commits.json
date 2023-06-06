@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: removed JVMTI_THREAD_STATE_RUNNABLE from a carrier thread state"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/ThreadStateTest\/libThreadStateTest.cpp"}],"sha":"b5eb3835c64b524559380aafeae88aa16679028d"}]
