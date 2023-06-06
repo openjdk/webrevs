@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,1 @@\n-                        Assert.assertEquals(Arrays.mismatch(buf, chunk), -1,\n+                        Assert.assertEquals(Arrays.mismatch(buf, 0, numRead, chunk, 0, numRead), -1,\n","filename":"test\/jdk\/jdk\/nio\/zipfs\/ZipFSOutputStreamTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
