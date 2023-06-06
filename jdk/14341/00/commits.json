@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309550: jdk.jfr.internal.Utils::formatDataAmount method should gracefully handle amounts equal to Long.MIN_VALUE"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/Utils.java"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/util\/ValueFormatter.java"}],"sha":"dca5b72c929672a7a99a7f3a678c268048645986"}]
