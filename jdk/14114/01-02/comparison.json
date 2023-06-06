@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1715,1 +1715,1 @@\n-  \/\/ Part 1: print to screen\n+  \/\/ Part 1: print to stdout\/stderr\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
