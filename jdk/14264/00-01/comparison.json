@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1032,1 +1032,0 @@\n-  \/\/st->print_cr(\"SN=alloc sequence number\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
