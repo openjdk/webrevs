@@ -1,0 +1,1 @@
+[{"commit":{"message":"No longer need to override starupt() after JDK-8308481 fix."},"files":[{"filename":"test\/jdk\/com\/sun\/jdi\/RedefineNestmateAttr\/TestNestmateAttr.java"}],"sha":"b007a7b5bb4adff79b50c8b990fe17cd5b851f15"}]
