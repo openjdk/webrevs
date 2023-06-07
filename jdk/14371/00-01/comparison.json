@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1182,0 +1182,1 @@\n+      resolved_method->print_external_name(&ss);\n","filename":"src\/hotspot\/share\/interpreter\/linkResolver.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
