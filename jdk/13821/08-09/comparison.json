@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,0 +99,1 @@\n+    @ForceInline\n@@ -103,0 +104,4 @@\n+        initialize();\n+    }\n+\n+    private void initialize() {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/LazyInitializingVarHandle.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
