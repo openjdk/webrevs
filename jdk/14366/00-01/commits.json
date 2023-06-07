@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed the SUSPEND bit issue in JVMTI thread state of carrier threads"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"}],"sha":"29adb0afd1fce17a2a744bf23e74da17211342a7"}]
