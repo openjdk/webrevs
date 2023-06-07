@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Take 4: move the termination code into create_vm\"\n\nThis reverts commit 8daa302e5db87d54b85d8b4ef992c429fa4c03c6."},"files":[{"filename":"src\/hotspot\/share\/prims\/jni.cpp"},{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"}],"sha":"37688c22fb3da3ee897d85e2bc096b6f29850a7b"}]
