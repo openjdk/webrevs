@@ -1,0 +1,1 @@
+[{"commit":{"message":"simplify the keyFor method to accept the entire HttpRequestImpl instance"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2ClientImpl.java"},{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2Connection.java"}],"sha":"13821d88e184daf16ba6f0f4d869dbdfeef7d0d6"}]
