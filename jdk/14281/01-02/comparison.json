@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -146,1 +146,1 @@\n-    int result = statfs((char*)chars, &buf);\n+    int result = statfs(chars, &buf);\n","filename":"test\/jdk\/java\/io\/File\/libGetXSpace.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
