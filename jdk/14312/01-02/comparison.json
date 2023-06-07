@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -304,1 +304,1 @@\n-        \/\/ and '*' for strings that do not contain one.\n+        \/\/ or '*' for strings that do not contain one.\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/util\/IndexBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
