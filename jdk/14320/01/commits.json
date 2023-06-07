@@ -1,0 +1,1 @@
+[{"commit":{"message":"make DO2 read by one character from memory per loop"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"e95965618e2ac6f6fd603a74694cc7fb2dad9dc2"},{"commit":{"message":"Initial fix"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"a08805183cf980601423fda0877a06fe7b56de38"}]
