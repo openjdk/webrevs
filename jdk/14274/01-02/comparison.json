@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,1 +156,1 @@\n-    _preserved_overflow_stack_set.get()->push_if_necessary(obj, mark);\n+    _preserved_overflow_stack_set.get()->push_always(obj, mark);\n","filename":"src\/hotspot\/share\/gc\/serial\/markSweep.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
