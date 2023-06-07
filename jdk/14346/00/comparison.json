@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-        final int internalFrameIconSize = 30;\n+        final int internalFrameIconSize = 24;\n","filename":"src\/demo\/share\/jfc\/Metalworks\/BigContrastMetalTheme.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
