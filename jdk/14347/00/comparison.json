@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,1 +121,1 @@\n-- [@ForceCompile](.\/DontCompile.java)\n+- [@ForceCompile](.\/ForceCompile.java)\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/README.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
