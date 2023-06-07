@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -305,1 +305,1 @@\n-        for (int i =0; i < s.length(); i++) {\n+        for (int i = 0; i < s.length(); i++) {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/util\/IndexBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
