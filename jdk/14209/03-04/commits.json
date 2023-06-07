@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed error check for pthread_attr_destroy(&attr)"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/jni\/getCreatedJavaVMs\/exeGetCreatedJavaVMs.c"},{"filename":"test\/hotspot\/jtreg\/runtime\/jni\/nativeStack\/libnativeStack.c"}],"sha":"d5d3487bb3265ea8c4cc0c69c9c9eb3b7dd7d7cb"}]
