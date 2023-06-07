@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use sign_extend instead addw in move32_64"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp"}],"sha":"63d429b328e284baf659127dc1601eff16c00198"}]

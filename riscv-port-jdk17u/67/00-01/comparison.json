@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -782,1 +782,1 @@\n-      __ addw(dst.first()->as_Register(), src.first()->as_Register(), zr);\n+      __ sign_extend(dst.first()->as_Register(), src.first()->as_Register(), 32);\n","filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
