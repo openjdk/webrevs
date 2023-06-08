@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,0 @@\n-    pthread_attr_destroy(&attr);\n@@ -105,0 +104,1 @@\n+  pthread_attr_destroy(&attr);\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/getCreatedJavaVMs\/exeGetCreatedJavaVMs.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
