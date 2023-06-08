@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -428,1 +428,1 @@\n-                .host(InetAddress.getLoopbackAddress())\n+                .loopback()\n","filename":"test\/jdk\/java\/net\/HttpURLConnection\/HttpURLConnectionExpectContinueTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
