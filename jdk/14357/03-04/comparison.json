@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-        { \/\/ DocLint is on\n+        { \/\/ DocLint is explicit\n@@ -85,1 +85,1 @@\n-        \/\/ DocLint is off\n+        \/\/ DocLint is default\n","filename":"test\/langtools\/jdk\/javadoc\/doclet\/testDirectedInheritance\/TestDirectedInheritance.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
