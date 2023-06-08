@@ -1,0 +1,1 @@
+[{"commit":{"message":"Exclude stack profiler with virtual threads"},"files":[{"filename":"jmh-core-it\/src\/test\/java\/org\/openjdk\/jmh\/it\/Fixtures.java"},{"filename":"jmh-core-it\/src\/test\/java\/org\/openjdk\/jmh\/it\/profilers\/StackProfilerTest.java"}],"sha":"a91ad7a186ea1161209f0ba65a3ef775195c2002"}]
