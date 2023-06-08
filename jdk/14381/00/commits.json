@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid using jvmci.Compiler property to determine if Graal is enabled."},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/HeapMonitor\/MyPackage\/HeapMonitor.java"},{"filename":"test\/lib\/jdk\/test\/whitebox\/code\/Compiler.java"}],"sha":"c5ccdb27ae73b5fe6e548c95fddb9a106792e417"}]
