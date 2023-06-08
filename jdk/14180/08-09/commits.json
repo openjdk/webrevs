@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"ClassHierarchyResolver::ofSystem is now thread-unsafe\"\n\nThis reverts commit f3099cd5b252924392995bf65edc710c27822d2b."},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/ClassHierarchyResolver.java"}],"sha":"41fdb2fc8102622f9fdc8cab11abc869549874d0"}]
