@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1448,1 +1448,1 @@\n-#if defined(INCLUDE_G1GC) || defined(INCLUDE_SERIALGC)\n+#if INCLUDE_G1GC || INCLUDE_SERIALGC\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
