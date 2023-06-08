@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1605,1 +1605,1 @@\n-        flow.resize(300, 300);\n+        flow.resize(cellSize * 10, cellSize * 10);\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/skin\/VirtualFlowTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
