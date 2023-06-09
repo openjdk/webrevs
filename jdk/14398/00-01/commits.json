@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove RTM from feature string. Otherwise, tests complain about it."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.hpp"}],"sha":"97f8d07f01600c43e21d685c5b985c2c3770b1a2"}]
