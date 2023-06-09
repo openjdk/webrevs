@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309692: Fix -Wconversion warnings in javaClasses"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"},{"filename":"src\/hotspot\/share\/classfile\/javaClasses.inline.hpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"30f5784cf0ce976785a8871cc41b0a2c6cc75b10"}]
