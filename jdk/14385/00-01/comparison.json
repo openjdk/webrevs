@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -262,1 +262,1 @@\n-        return poolIndex = invokeDynamicNameAndTypeRefIndexAt(poolIndex);\n+        return invokeDynamicNameAndTypeRefIndexAt(poolIndex);\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/ConstantPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
