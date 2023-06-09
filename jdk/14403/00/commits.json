@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309753: Include array classes in the output of -XX:+PrintSharedArchiveAndExit"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"},{"filename":"src\/hotspot\/share\/oops\/arrayKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/arrayKlass.hpp"}],"sha":"b9d5ac44bdc5dfe2cace83b1eb72a5279bc65806"}]
