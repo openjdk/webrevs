@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -20,1 +20,1 @@\n-#define __BIG_ENDIAN      4321\n+#define __BIG_ENDIAN      BIG_ENDIAN\n","filename":"src\/java.desktop\/unix\/native\/libpipewire\/include\/spa\/param\/audio\/raw.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
