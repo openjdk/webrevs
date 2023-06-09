@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -539,0 +539,1 @@\n+\t\t\t\t\t\t\t\t\t\t&& method.getType().getPackage().getModule().getName() != null\n","filename":"application\/org.openjdk.jmc.flightrecorder.flamegraph\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/flamegraph\/views\/FlamegraphSwingView.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
