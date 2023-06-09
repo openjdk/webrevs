@@ -1,0 +1,1 @@
+[{"commit":{"message":"test case now catching the proper variety of SSLException (the message is now correct)"},"files":[{"filename":"test\/jdk\/sun\/security\/ssl\/SSLEngineImpl\/TestBadDNForPeerCA12.java"}],"sha":"6f8021f77a89afab1e247180ca8ad828d1833678"}]
