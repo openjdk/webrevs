@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n- * @requires vm.compiler2.enabled\n+ * @requires vm.compiler2.enabled & vm.flagless\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/runner\/LoopArrayIndexComputeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
