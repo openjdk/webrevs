@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3845,1 +3845,0 @@\n-        \/\/ Tickle the JIT to fold special cases optimally\n@@ -4006,1 +4005,0 @@\n-        \/\/ Tickle the JIT to fold special cases optimally\n","filename":"src\/java.base\/share\/classes\/java\/util\/Arrays.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
