@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309650: [lworld] Fix mismatch inline type issue during method calls"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"},{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestCastMismatch.java"}],"sha":"3a49dde00c73add30144bb3927aa87a577ce067f"}]
