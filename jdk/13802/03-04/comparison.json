@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1039,1 +1039,1 @@\n-    return false;\n+    return true;\n","filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
