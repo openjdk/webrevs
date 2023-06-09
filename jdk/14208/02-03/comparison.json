@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -712,0 +712,2 @@\n+  \/\/ This API is only used for allocating heap space for the archived heap objects\n+  \/\/ in the CDS archive.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
