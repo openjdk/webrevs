@@ -1,0 +1,1 @@
+[{"commit":{"message":"reset attempt_allocation_after_gc to word_size parameter"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp"}],"sha":"966cab92b4a32059f23127dd1057dbdb4eb8784b"}]
