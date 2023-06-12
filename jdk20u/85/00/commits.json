@@ -1,0 +1,1 @@
+[{"commit":{"message":"8304878: ConcurrentModificationException in javadoc tool\n\nReviewed-by: jjg"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/util\/Utils.java"},{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testLatePackageDiscovery\/TestLatePackageDiscovery.java"}],"sha":"f08dde3c208dcc83a037648dfc18452926b277bd"}]
