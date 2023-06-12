@@ -1,0 +1,1 @@
+[{"commit":{"message":"reduced complexity of SystemProperties based on it being unmodifiable"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/services\/Services.java"},{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/services\/SystemProperties.java"}],"sha":"6c346d35923402fb5d6ae0ef83214f8f0ca07b69"}]
