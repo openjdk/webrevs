@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -333,1 +333,1 @@\n-    int putMode = PUT_NORM;\n+    transient int putMode = PUT_NORM;\n","filename":"src\/java.base\/share\/classes\/java\/util\/LinkedHashMap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
