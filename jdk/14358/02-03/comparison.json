@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -998,1 +998,1 @@\n-          st->print_cr(\"the last pc belongs to %s (will be printed below)\", name);\n+          st->print_cr(\"The last pc belongs to %s (printed below).\", name);\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
