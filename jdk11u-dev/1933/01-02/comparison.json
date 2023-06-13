@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,1 +306,1 @@\n-                 new Thread.UncaughtExceptionHandler() {\n+                new Thread.UncaughtExceptionHandler() {\n","filename":"test\/lib\/jdk\/test\/lib\/util\/FileUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
