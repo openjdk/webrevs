@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixing JDK-8309935 and providing a test for it."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/GlassSystemMenu.java"},{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/stage\/SystemMenuBarTest.java"}],"sha":"8d9460e70885f52759b85e7bd45d85c8278a2892"}]
