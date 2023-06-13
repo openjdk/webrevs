@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,0 @@\n-          - 'jdk\/jfr'\n@@ -82,3 +81,0 @@\n-          - test-name: 'jdk\/jfr'\n-            test-suite: 'test\/jdk\/jdk\/jfr'\n-\n","filename":".github\/workflows\/test.yml","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
