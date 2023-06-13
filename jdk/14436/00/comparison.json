@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-            Path dir2 = TestUtil.createTemporaryDirectory(testDir);\n+            Path dir2 = TestUtil.createTemporaryDirectory(testDir).toAbsolutePath();\n","filename":"test\/jdk\/java\/nio\/file\/Files\/CopyAndMove.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
