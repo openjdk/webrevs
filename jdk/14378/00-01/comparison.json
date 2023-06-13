@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,1 @@\n-        while(writeLock.tryLock(10, TimeUnit.SECONDS)) {\n+        while (writeLock.tryLock(10, TimeUnit.SECONDS)) {\n","filename":"test\/jdk\/sun\/security\/ssl\/SSLSocketImpl\/BlockedAsyncClose.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
