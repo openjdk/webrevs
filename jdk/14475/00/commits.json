@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add root layout alignment check to varHandle and sliceHandle"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemoryLayout.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/LayoutPath.java"},{"filename":"test\/jdk\/java\/foreign\/TestLayoutPaths.java"}],"sha":"f98457496de71ebd85fce3def4500d506ac7465f"}]
