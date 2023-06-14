@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3218,1 +3218,1 @@\n-        synchronized(getTreeLock()) {\n+        synchronized (getTreeLock()) {\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Window.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
