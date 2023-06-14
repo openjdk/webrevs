@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -272,1 +272,1 @@\n-\t\t\t\t\t\t\t<version>17<\/version>\n+\t\t\t\t\t\t\t<version>${maven.compiler.source}<\/version>\n@@ -404,1 +404,1 @@\n-\t\t\t\t\t<release>17<\/release>\n+\t\t\t\t\t<release>${maven.compiler.source}<\/release>\n","filename":"core\/pom.xml","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
