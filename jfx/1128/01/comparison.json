@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -246,1 +246,1 @@\n-                rc = (jboolean)((jboolean (*)(void *, const char *))fp)(arg0, text);\n+                rc = (jboolean)((int (*)(void *, const char *))fp)((void *)arg0, text);\n","filename":"modules\/javafx.graphics\/src\/main\/native-font\/pango.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
