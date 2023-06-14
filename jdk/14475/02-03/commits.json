@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop alignment checks from accessed elements\nUse expectThrows"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/LayoutPath.java"},{"filename":"test\/jdk\/java\/foreign\/TestLayoutPaths.java"}],"sha":"990762620d0a2755f5b65893f43090c8f1ea8397"}]
