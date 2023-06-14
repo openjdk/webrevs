@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use try-with-resources"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/ClassInitErrors\/TestOutOfMemoryDuringInit.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/ClassInitErrors\/TestStackOverflowDuringInit.java"}],"sha":"fc8fdc5da99f163e4c8b6027f39581e97f0fce89"}]
