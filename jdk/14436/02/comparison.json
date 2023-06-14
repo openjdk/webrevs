@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -912,1 +912,1 @@\n-            createSymbolicLink(link, source);\n+            createSymbolicLink(link, source.getFileName());\n","filename":"test\/jdk\/java\/nio\/file\/Files\/CopyAndMove.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
