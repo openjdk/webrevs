@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve checked_cast to tolerate sign extension so it can be used in assembler.hpp emit code."},"files":[{"filename":"src\/hotspot\/share\/asm\/assembler.hpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"aac605ac409693eb8319ff6442867cc39bee9257"}]
