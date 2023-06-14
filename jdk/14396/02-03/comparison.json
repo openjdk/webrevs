@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -526,1 +526,1 @@\n-  S1 min = (std::is_signed<T2>::value) ? std::numeric_limits<T2>::min() : -max;\n+  S1 min = (std::is_signed<T2>::value) ? std::numeric_limits<T2>::min() : -(max - 1);\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
