@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,2 +39,0 @@\n-    protected static final String RTM_OS_ERROR\n-            = \"RTM is not supported on this OS version\";\n","filename":"test\/hotspot\/jtreg\/compiler\/rtm\/cli\/RTMGenericCommandLineOptionTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
