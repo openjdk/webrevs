@@ -1,0 +1,1 @@
+[{"commit":{"message":"8310024: Skip failing scene change tests on macOS"},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/SceneChangeEventsTest.java"},{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/SceneChangeShouldNotFocusStageTest.java"}],"sha":"4f8a0f48abf48b5ef793bdd7544206879fcf77e7"}]
