@@ -1,0 +1,1 @@
+[{"commit":{"message":"make hash_code consistent across platforms"},"files":[{"filename":"hotspot\/agent\/src\/share\/classes\/sun\/jvm\/hotspot\/utilities\/Hashtable.java"},{"filename":"hotspot\/src\/share\/vm\/classfile\/javaClasses.hpp"},{"filename":"hotspot\/src\/share\/vm\/classfile\/symbolTable.cpp"}],"sha":"141b3725858a17b609d6cd417522607b3ffdc026"}]
