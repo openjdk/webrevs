@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -383,1 +383,1 @@\n-                            } catch(InvalidPathException e) {}\n+                            } catch (InvalidPathException e) {}\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/HtmlDoclet.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
