@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -241,1 +241,3 @@\n-            } finally {\n+            } catch (TestFailureException e) {\n+                throw e;\n+            } catch (Exception e) {\n","filename":"test\/jdk\/java\/lang\/ScopedValue\/StressStackOverflow.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
