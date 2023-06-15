@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,2 +73,2 @@\n-        \/\/warmup the model\n-        sharedCP.transform(benchModel, threeLevelNoop);\n+        \/\/expand the model\n+        consume(benchModel);\n","filename":"test\/micro\/org\/openjdk\/bench\/jdk\/classfile\/ClassfileBenchmark.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
