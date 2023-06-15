@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1038,1 +1038,1 @@\n-      $$($1_LIBS_$(TOOLCHAIN_TYPE)_$(OPENJDK_TARGET_OS)) $$($1_LIBS_$(TOOLCHAIN_TYPE))\n+      $$($1_LIBS_$(TOOLCHAIN_TYPE)) $$($1_LIBS_$(TOOLCHAIN_TYPE)_$(OPENJDK_TARGET_OS))\n","filename":"make\/common\/NativeCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
