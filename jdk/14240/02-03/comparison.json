@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -556,1 +556,0 @@\n-          __ mr(R11_scratch1, Rexception);\n","filename":"src\/hotspot\/cpu\/ppc\/c1_Runtime1_ppc.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
