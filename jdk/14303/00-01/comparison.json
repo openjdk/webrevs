@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -661,0 +661,2 @@\n+        expectedMethods.add(Thread.class.getName() + \".beforeSleep\");\n+        expectedMethods.add(Thread.class.getName() + \".afterSleep\");\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/monitoring\/share\/ThreadController.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
