@@ -1,0 +1,1 @@
+[{"commit":{"message":"8310128: Switch with unnamed patterns erroneously non-exhaustive"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Flow.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Unnamed.java"}],"sha":"b39cc777c8479e1e5386e01aa370759ae8b5e43f"}]
