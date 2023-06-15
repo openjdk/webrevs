@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -669,0 +669,1 @@\n+  assert_different_registers(arg_1, c_rarg0);\n@@ -676,0 +677,2 @@\n+  assert_different_registers(arg_1, c_rarg0);\n+  assert_different_registers(arg_2, c_rarg0, c_rarg1);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
