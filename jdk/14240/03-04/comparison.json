@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -238,1 +238,1 @@\n-    __ call_VM_leaf(CAST_FROM_FN_PTR(address, check_abort_on_vm_exception), Z_R11);\n+    __ call_VM_leaf(CAST_FROM_FN_PTR(address, check_abort_on_vm_exception), Z_EXC_OOP);\n","filename":"src\/hotspot\/cpu\/s390\/c1_Runtime1_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
