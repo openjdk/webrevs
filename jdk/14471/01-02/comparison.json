@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-            case \"mip64sel\" -> MIPS64EL;\n+            case \"mips64el\" -> MIPS64EL;\n","filename":"test\/jdk\/jdk\/internal\/util\/ArchTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
