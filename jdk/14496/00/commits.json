@@ -1,0 +1,1 @@
+[{"commit":{"message":"allow void-returning filters for collectCoordinates"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandles.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/VarHandles.java"},{"filename":"test\/jdk\/java\/foreign\/TestAdaptVarHandles.java"}],"sha":"942a72438741d418a6a9bb3dd36fbb6f1f4609d1"}]
