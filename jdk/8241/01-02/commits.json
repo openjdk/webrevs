@@ -1,0 +1,1 @@
+[{"commit":{"message":" additional type check when -Xcheck:jni"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/linkResolver.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/linkResolver\/TestErrorReceiverType.java"}],"sha":"fd56bf0894a8e8e5dd66c452a006513221b5cd29"}]
