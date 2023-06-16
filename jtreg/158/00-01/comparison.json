@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,1 @@\n-                msgOut.println(String.format(\"Timeout refired %s times\", count));\n+                msgOut.println(String.format(\"Timeout refired %d times\", count));\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/agent\/Alarm.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
