@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -260,1 +260,1 @@\n-  while (_position < _indentation) sp();\n+  sp(_indentation - _position);\n","filename":"src\/hotspot\/share\/utilities\/ostream.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
