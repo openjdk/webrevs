@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport e4be9680cb5b0aab9a422d461807a619987d6df8"},"files":[{"filename":"src\/hotspot\/share\/classfile\/loaderConstraints.cpp"},{"filename":"src\/hotspot\/share\/classfile\/loaderConstraints.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/SharedArchiveFile\/DumpSymbolAndStringTable.java"}],"sha":"baedeee25730d335e076e50066017161747dcf7c"}]
