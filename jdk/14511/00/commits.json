@@ -1,0 +1,1 @@
+[{"commit":{"message":"8310126: C1: Missing receiver null check in Reference::get intrinsic"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestReferenceGetWithNull.java"}],"sha":"0bcba80de09cbdb9aa0e48174c95606d194630e5"}]
