@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix"},"files":[{"filename":"test\/jtreg-ext\/requires\/VMProps.java"}],"sha":"a50df26c21930349c04cfa56e9b27bc2509e3419"},{"commit":{"message":"Disable by default"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"17f66774c47970d19a81cf021063514ae246beca"}]
