@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -326,0 +326,2 @@\n+                \"-XX:+UnlockExperimentalVMOptions\",\n+                \"-XX:+UseCompactObjectHeaders\",\n","filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedClassPointerEncoding.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
