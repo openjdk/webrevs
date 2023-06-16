@@ -1,0 +1,1 @@
+[{"commit":{"message":"Isolate the -1 cast case to assembler.hpp since those are the callers."},"files":[{"filename":"src\/hotspot\/share\/asm\/assembler.hpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"a6ac40de03b534586f1a18b9fbf82047d77fc49e"}]
