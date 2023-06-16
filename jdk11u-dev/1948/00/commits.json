@@ -1,0 +1,1 @@
+[{"commit":{"message":"8310176: JDK 11 G1 crash during full GC with +UseStringDeduplication"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/stringdedup\/stringDedupTable.cpp"}],"sha":"9ba7edb98a255d72513568b6c0eefc4600c23f03"}]

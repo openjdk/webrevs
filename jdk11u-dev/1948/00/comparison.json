@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -509,0 +509,1 @@\n+        typeArrayOop value = (typeArrayOop)*p;\n@@ -520,1 +521,0 @@\n-            typeArrayOop value = (typeArrayOop)*p;\n","filename":"src\/hotspot\/share\/gc\/shared\/stringdedup\/stringDedupTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
