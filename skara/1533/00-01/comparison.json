@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1373,1 +1373,1 @@\n-        return localRepo.show(Path.of(filename), hash).isPresent() &&\n+        return !localRepo.files(hash, Path.of(filename)).isEmpty() &&\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckRun.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
