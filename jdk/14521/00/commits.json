@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into JDK-8309976"},"files":[],"sha":"6922b9dddec3ce10213c4ec1a5cf5aacacd628d7"},{"commit":{"message":"8309976: A JMH that can create a lot of classes and compiled methods"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/CodeCacheStress.java"}],"sha":"e9cb1ac3bfcbc26d3654a77bff71f50a42c2c181"}]
