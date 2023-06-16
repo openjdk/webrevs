@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n-        bash make\/build.sh --jdk \"$JAVA_HOME_17_X64\"\n+        bash make\/build.sh --jdk \"$(realpath bootjdk\/jdk)\"\n","filename":".github\/actions\/get-jtreg\/action.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
