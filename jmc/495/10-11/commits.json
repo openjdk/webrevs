@@ -1,0 +1,1 @@
+[{"commit":{"message":"Dependency cleanup, move testlib project into main core project"},"files":[{"filename":"core\/tests\/org.openjdk.jmc.flightrecorder.rules.test\/pom.xml"},{"filename":"core\/tests\/org.openjdk.jmc.flightrecorder.serializers.test\/pom.xml"}],"sha":"5d6b2872826089fd7d2dd8775ecd38fb3e3e1825"}]
