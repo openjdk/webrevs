@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-                  leak.add( buildNestedArray(CHAIN_DEPTH));\n+                  leak.add(buildNestedArray(CHAIN_DEPTH));\n","filename":"test\/jdk\/jdk\/jfr\/event\/oldobject\/TestArrayInformation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
