@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -233,1 +233,0 @@\n-  ext_Q.enable_feature();\n@@ -243,1 +242,0 @@\n-  ext_Zbc.enable_feature();\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
