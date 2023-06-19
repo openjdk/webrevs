@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n- * @test\n+ * @test id=default\n","filename":"test\/jdk\/java\/lang\/Thread\/virtual\/stress\/Skynet.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
