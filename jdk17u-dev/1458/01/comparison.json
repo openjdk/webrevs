@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n- * @requires vm.hasSA\n+ * @requires vm.hasSA & vm.bits == \"64\"\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestObjectAlignment.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
