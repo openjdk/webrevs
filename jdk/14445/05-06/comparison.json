@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -196,1 +196,1 @@\n-          ret[strcspn(p, \"\\n\")] = '\\0';\n+          ret[strcspn(ret, \"\\n\")] = '\\0';\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
