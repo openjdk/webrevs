@@ -1,0 +1,1 @@
+[{"commit":{"message":" JDK-8309266: reverted previous changes. assert was adapted and in case of overflow bottom is now returned"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"}],"sha":"af53ebea15983ecf63f163e03c7478f2a9f09c58"}]
