@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-            super(true, VM_OPTIONS, null, null);\n+            super(VM_OPTIONS, null, null);\n","filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/jcmd\/StressAddJcmdBase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
