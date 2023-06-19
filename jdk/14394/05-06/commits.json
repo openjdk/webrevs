@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't allow bad subcommand values for security component"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/launcher\/SecuritySettings.java"},{"filename":"test\/jdk\/tools\/launcher\/Settings.java"}],"sha":"77c9f5e2ca1cdc6d055781efc4a7f37989470cbd"}]
