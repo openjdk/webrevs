@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1995,1 +1995,1 @@\n-  int seq = Atomic::fetch_and_add(&_dump_seq, 1);\n+  int seq = Atomic::fetch_then_add(&_dump_seq, 1);\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
