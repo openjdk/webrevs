@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,0 +161,2 @@\n+                } else if (finished) {\n+                    throw new IOException(\"No metadata event found in finished chunk.\");\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/consumer\/ChunkHeader.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
