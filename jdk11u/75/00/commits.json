@@ -1,0 +1,1 @@
+[{"commit":{"message":"8236045: [TESTBUG] MismatchedWhiteBox test fails with missing WhiteBox$WhiteBoxPermission.class\n\nReviewed-by: Yi Yang\nSigned-off-by: sendaoYan <yansendao.ysd@alibaba-inc.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/sanity\/MismatchedWhiteBox\/WhiteBox.java"}],"sha":"d5c3fa7c83e67a804409fb168f74116667ff0398"}]
