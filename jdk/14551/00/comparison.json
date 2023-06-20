@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+ * @requires os.arch == \"aarch64\" & os.family == \"mac\"\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/sha\/cli\/TestUseSHA3IntrinsicsOptionOnSupportedCPU.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
