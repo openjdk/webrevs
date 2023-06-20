@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294316: SA core file support is broken on macosx-x64 starting with macOS 12.x"},"files":[{"filename":"src\/jdk.hotspot.agent\/macosx\/native\/libsaproc\/ps_core.c"},{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"}],"sha":"9852ed1655fd68c32db906a0e32f6bcf4997b22b"}]
