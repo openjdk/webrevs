@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -974,1 +974,2 @@\n-    java.base-jmod: jrtfs-jar $(filter-out java.base-jmod, $(JMOD_TARGETS))\n+    java.base-jmod: jrtfs-jar $(filter-out java.base-jmod \\\n+        $(addsuffix -jmod, $(call FindAllUpgradeableModules)), $(JMOD_TARGETS))\n","filename":"make\/Main.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
