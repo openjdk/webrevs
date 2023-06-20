@@ -1,0 +1,1 @@
+[{"commit":{"message":"8310297: assert(static_cast<T1>(result) == thing) with ctw"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/ConstantPool\/ByteFieldInitTest.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/ConstantPool\/CompatByteFieldInit.jasm"}],"sha":"cb8fd9a62ed30644f819b70a6f73118f7ee0f57b"}]
