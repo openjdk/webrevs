@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -294,1 +294,1 @@\n-                    alpn = new String[] {Alpns.H2, Alpns.HTTP_1_1 };\n+                    alpn = new String[] { Alpns.H2, Alpns.HTTP_1_1 };\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpConnection.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
