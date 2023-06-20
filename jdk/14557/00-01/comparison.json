@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -483,1 +483,1 @@\n-      set_bci_displacement(row, (int)(mdp - dp()));\n+      set_bci_displacement(row, checked_cast<int>(mdp - dp()));\n","filename":"src\/hotspot\/share\/oops\/methodData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
