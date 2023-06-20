@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 02aaab12e331e5a4c249f1d281c4439e2e7c914f"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestReferenceGetWithNull.java"}],"sha":"693d3f784ceba6e09ce921be4d8ba9087a562fe9"}]
