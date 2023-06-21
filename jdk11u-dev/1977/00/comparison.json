@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @run main QuickAckTest\n+ * @run main\/othervm QuickAckTest\n","filename":"test\/jdk\/jdk\/net\/Sockets\/QuickAckTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
