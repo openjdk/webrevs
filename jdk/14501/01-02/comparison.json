@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-        \/\/ If t is Virtual, it will hold a lock on a VirtualThread, which we ignore.\n+        \/\/ Carrier Thread can hold a lock on a VirtualThread, which we ignore.\n","filename":"test\/jdk\/java\/lang\/management\/ThreadMXBean\/Locks.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
