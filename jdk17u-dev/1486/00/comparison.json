@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n- *      -gp byteArr\n+ *      -gp booleanArr\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/gc\/ArrayJuggle\/Juggle04\/TestDescription.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
