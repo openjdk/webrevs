@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -710,1 +710,1 @@\n-    result = collector_state()->in_young_only_phase() && !collector_state()->in_young_gc_before_mixed();\n+    result = collector_state()->in_young_only_phase();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
