@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309498: [JVMCI] race in CallSiteTargetValue recording\n\nReviewed-by: dnsimon, kvn"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotObjectConstantImpl.java"}],"sha":"bab555f4dc9cd2b7a8c36051128ae2b73aa99374"}]
