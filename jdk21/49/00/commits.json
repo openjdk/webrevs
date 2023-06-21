@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309266: C2: assert(final_con == (jlong)final_int) failed: final value should be integer\n\nReviewed-by: roland, chagedorn"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestLoopLimitOverflowDuringCCP.java"}],"sha":"8bad3f93485117ae6451094a9076614a9fd23465"}]
