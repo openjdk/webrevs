@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename nonlibc_tty_print_using_features_cr() -> print_using_features_cr()."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"}],"sha":"c0b9282d1bbf524009fb8c0ab3750ea6debef399"}]
