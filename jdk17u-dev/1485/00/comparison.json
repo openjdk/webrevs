@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -201,0 +201,4 @@\n+  if (eden_size > max_eden_size()) {\n+    eden_size = max_eden_size();\n+    survivor_size = (size - eden_size)\/2;\n+  }\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
