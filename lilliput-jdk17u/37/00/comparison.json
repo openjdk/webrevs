@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1470,4 +1470,1 @@\n-  if (mark.has_displaced_mark_helper()) {\n-    mark = mark.displaced_mark_helper();\n-  }\n-  o->set_mark(mark.set_marked());\n+  o->set_mark(markWord::prototype().set_marked());\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
