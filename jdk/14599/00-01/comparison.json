@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,2 @@\n-        \"UTF-32BE\", \"UTF-32LE\", \"UTF-32\" };\n+        \"UTF-32BE\", \"UTF-32LE\", \"UTF-32\",\n+    };\n","filename":"test\/jdk\/java\/nio\/charset\/StandardCharsets\/Standard.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
