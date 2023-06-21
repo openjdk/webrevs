@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -621,1 +621,1 @@\n-    oop obj = CompressedOops::decode_not_null(heap_oop);\n+    oop obj = CompressedOops::decode_raw_not_null(heap_oop);\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
