@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,4 @@\n+  if (!super_t->isa_klassptr() ||\n+      (!sub_t->isa_klassptr() && !sub_t->isa_oopptr())) {\n+    return bottom_type();\n+  }\n","filename":"src\/hotspot\/share\/opto\/subtypenode.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
