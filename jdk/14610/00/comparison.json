@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,4 +59,0 @@\n-####\n-## assert in src\/hotspot\/share\/oops\/instanceStackChunkKlass.cpp:1042\n-vmTestbase\/nsk\/jvmti\/GetObjectMonitorUsage\/objmonusage006\/TestDescription.java 8300709 generic-all\n-\n","filename":"test\/hotspot\/jtreg\/ProblemList-Virtual.txt","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
