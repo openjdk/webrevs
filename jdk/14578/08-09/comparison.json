@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1209,3 +1209,0 @@\n-        @Stable\n-        static final char[] HEX256;\n-\n@@ -1230,0 +1227,1 @@\n+        @Stable\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Long.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
