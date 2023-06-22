@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -483,2 +483,2 @@\n-        buf[off] = (byte) (i >> 8);\n-        buf[1 * charSize + off] = (byte) i;\n+        buf[off] = (byte) (i0 >> 8);\n+        buf[1 * charSize + off] = (byte) i0;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Long.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
