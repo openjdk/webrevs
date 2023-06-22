@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -251,0 +251,1 @@\n+        DISABLED_WARNINGS_clang_screencast_pipewire.c := format-nonliteral, \\\n@@ -260,1 +261,0 @@\n-        DISABLED_WARNINGS_clang_screencast_pipewire.c := format-nonliteral, \\\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
