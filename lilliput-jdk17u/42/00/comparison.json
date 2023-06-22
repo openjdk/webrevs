@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -425,4 +425,0 @@\n-  if (old_mark.is_marked()) {\n-    \/\/ Already forwarded by somebody else, return forwardee.\n-    return old->forwardee(old_mark);\n-  }\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ParScanThreadState.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
