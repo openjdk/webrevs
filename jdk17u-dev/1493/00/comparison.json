@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1480,1 +1480,1 @@\n-                 && java.lang.System.getProperty(\"os.version\").contains(\"Microsoft\")));\n+                 && java.lang.System.getProperty(\"os.version\").toLowerCase().contains(\"microsoft\")));\n","filename":"make\/conf\/jib-profiles.js","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
