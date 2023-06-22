@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not clip bits to 32, we need full 64 bits"},"files":[{"filename":"src\/hotspot\/share\/services\/nmtPreInit.hpp"}],"sha":"683fb0e666321272a97c62ddd67f3fff1f91c72b"}]
