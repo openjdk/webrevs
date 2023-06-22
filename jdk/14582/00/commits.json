@@ -1,0 +1,1 @@
+[{"commit":{"message":"8310425: [JVMCI] fix jvmci support for null DynamicConstant and DynamicConstant in error."},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/jdk.vm.ci.hotspot.test\/src\/jdk\/vm\/ci\/hotspot\/test\/TestDynamicConstant.java"}],"sha":"7ad3feaababfee4b70181cb21510113ec4d71a13"}]
