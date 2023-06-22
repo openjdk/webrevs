@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -994,2 +994,0 @@\n-  \/\/ The constant pool is on stack if any of the methods are executing or\n-  \/\/ referenced by handles.\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
