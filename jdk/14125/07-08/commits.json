@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"GetDIBits should take an LPVOID\"\n\nThis reverts commit 7dbe5dea84b1afb2235b66da581bcd3c1da4d6ac."},"files":[{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/ShellFolder2.cpp"}],"sha":"84f8e08c2ecc90ec50a13406fb99b8cd52f33b7c"}]
