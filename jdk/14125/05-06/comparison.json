@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -547,1 +547,1 @@\n-            reinterpret_cast<unsigned long>(vmID), (void*)context );\n+            vmID, (void*)context );\n","filename":"src\/jdk.accessibility\/windows\/native\/jaccesswalker\/jaccesswalker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
