@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,1 +2,5 @@\n-on: [push, pull_request]\n+on:\n+  push:\n+    branches-ignore:\n+      - master\n+      - pr\/*\n","filename":".github\/workflows\/gradle-wrapper-validation.yml","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
