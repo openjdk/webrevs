@@ -1,0 +1,1 @@
+[{"commit":{"message":"8310686: check that only value classes with implicit constructor can implement NonAtomic"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Check.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties"}],"sha":"3493b6377cc5318a101ee63a6aeabf5d0bb54307"}]
