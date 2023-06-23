@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -561,0 +561,1 @@\n+  ResourceMark rm;\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"},{"patch":"@@ -2072,0 +2072,1 @@\n+    ResourceMark rm;\n","filename":"src\/hotspot\/share\/opto\/output.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
