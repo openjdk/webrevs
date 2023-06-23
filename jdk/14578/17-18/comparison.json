@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,0 @@\n-import java.util.Arrays;\n@@ -453,2 +452,0 @@\n-            char[] H256 = DigitCache.HEX256;\n-\n@@ -461,0 +458,1 @@\n+            char[] H256 = DigitCache.HEX256;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Long.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
