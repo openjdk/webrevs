@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1283,2 +1283,2 @@\n-        HeapWord *tams = ctx->top_at_mark_start(r);\n-        HeapWord *top = r->top();\n+        HeapWord* tams = ctx->top_at_mark_start(r);\n+        HeapWord* top = r->top();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
