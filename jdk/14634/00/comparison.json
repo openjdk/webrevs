@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1419,1 +1419,1 @@\n-                JVMTI_THREAD_STATE_MONITOR_WAITING\n+                JVMTI_THREAD_STATE_IN_OBJECT_WAIT\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
