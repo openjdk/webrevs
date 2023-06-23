@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -196,1 +196,1 @@\n-    static const char* signature = \"(D)V\";\n+    static const char* signature = \"(F)V\";\n","filename":"src\/jdk.management\/share\/native\/libmanagement_ext\/GcInfoBuilder.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
