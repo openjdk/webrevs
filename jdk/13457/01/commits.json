@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into patch-2"},"files":[],"sha":"1db3082b10175c444396bb7c065bb9dbacf3f958"},{"commit":{"message":"Remove Visual C++ specific workaround in javac"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/JNIWriter.java"}],"sha":"105c332dcc47cbd8c5e51741d0c70009a4d2defd"}]
