@@ -1,0 +1,1 @@
+[{"commit":{"message":"8310742: [Lilliput\/JDK17] Revert JVMCI _metadata field removal"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmci_globals.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp"},{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotVMConfig.java"}],"sha":"d7ebdd484e7bf7087cda4ae7b522b184c68f50e8"}]
