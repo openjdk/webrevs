@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -360,1 +360,1 @@\n-            setDouble(b, off, Double.doubleToLongBits(val));\n+            setLong(b, off, Double.doubleToLongBits(val));\n","filename":"test\/jdk\/jdk\/internal\/util\/ByteArray\/ReadWriteValues.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
