@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -179,5 +179,0 @@\n-    \/**\n-     * Invokes Long.fastUUID\n-     *\/\n-    String fastUUID(long lsb, long msb);\n-\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/JavaLangAccess.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
