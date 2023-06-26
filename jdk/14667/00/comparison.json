@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-                Arguments.of(\"[LForNameNames$Inner;\", Inner.class),\n+                Arguments.of(\"[LForNameNames$Inner;\", Inner[].class),\n","filename":"test\/jdk\/java\/lang\/Class\/forName\/ForNameNames.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
