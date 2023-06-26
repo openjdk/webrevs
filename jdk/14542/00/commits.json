@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307625: remove redundant calls of null_check_receiver() and replace them with an assert"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"a6292a6a56d712a030557832e0dc4321594ec8f7"}]
