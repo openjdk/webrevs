@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1692,1 +1692,1 @@\n-     * will report it via {@link #interrupted} and {@link #isInterrupted()}.\n+     * will report it via {@link #interrupted()} and {@link #isInterrupted()}.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Thread.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
