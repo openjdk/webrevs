@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307625: adding null_check_receiver() for the uninitialized case, as else only argument(1) is null checked"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"47c05fd5aae786c56303fa9f558cfa4dbcf8b06a"}]

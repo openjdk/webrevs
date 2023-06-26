@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3981,0 +3981,1 @@\n+    null_check_receiver();\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
