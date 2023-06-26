@@ -1,0 +1,1 @@
+[{"commit":{"message":"each exception translation failure should trigger a JVMCI event"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/vm\/VMSupport.java"}],"sha":"819a24fd4dacc93508a7282575af6d8ba1fcffc4"}]
