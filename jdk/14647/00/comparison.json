@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -390,0 +390,1 @@\n+    return;\n","filename":"src\/hotspot\/cpu\/s390\/methodHandles_s390.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309889: Missing return statement after calling jump_to_native_invoker mrthod in generate_method_handle_dispatch"},"files":[{"filename":"src\/hotspot\/cpu\/s390\/methodHandles_s390.cpp"}],"sha":"7f5eed4a622d2bc9c4f1e58f68170f8016f9ccf7"}]
