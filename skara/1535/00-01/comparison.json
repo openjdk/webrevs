@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,0 @@\n-    implementation project(':bots:jep')\n","filename":"bots\/cli\/build.gradle","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"},{"patch":"@@ -63,1 +63,0 @@\n-include 'bots:jep'\n","filename":"settings.gradle","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
