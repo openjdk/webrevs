@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -425,1 +425,1 @@\n-    protected static abstract sealed class FormatItemModifier implements FormatConcatItem\n+    static abstract sealed class FormatItemModifier implements FormatConcatItem\n","filename":"src\/java.base\/share\/classes\/java\/util\/FormatItem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
