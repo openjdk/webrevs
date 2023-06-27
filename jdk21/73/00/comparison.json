@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -153,1 +153,1 @@\n-     * @throws IllegalArgumentException if the name string is not in the\n+     * @throws IllegalArgumentException if the descriptor string is not in the\n","filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ClassDesc.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
