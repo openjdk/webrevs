@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make delta_as_int take pointers and fix cast.  Missed one in stubCodeGenerator.hpp"},"files":[{"filename":"src\/hotspot\/share\/code\/codeBlob.inline.hpp"},{"filename":"src\/hotspot\/share\/runtime\/stubCodeGenerator.hpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"99a15d6e95b160fa6367d123b23ad7d6274068b0"}]
