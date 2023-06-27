@@ -1,0 +1,1 @@
+[{"commit":{"message":"Now CracMinPid option must be set explicitly to adjust PID"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/java.base\/share\/native\/launcher\/main.c"},{"filename":"test\/jdk\/jdk\/crac\/ContainerPidAdjustmentTest.java"}],"sha":"b3d66800d6ea441fb86498fdbb229400747eb44f"}]
