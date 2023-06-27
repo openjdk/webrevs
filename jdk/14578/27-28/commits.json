@@ -1,0 +1,1 @@
+[{"commit":{"message":"revert to HexDigits.DIGITS, keep this PR as simple as possible."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/HexDigits.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/UUID.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/digits\/Hex256.java"}],"sha":"4a4c64be9fdfff301c3a29a4ae06429edb221c44"}]
