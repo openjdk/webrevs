@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n-    private Hex256(){\n+    private Hex256() {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/Hex256.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
