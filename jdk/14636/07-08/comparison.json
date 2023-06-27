@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8299576\n+ * @bug 8299576 8310843\n","filename":"test\/jdk\/jdk\/internal\/util\/ByteArray\/ReadWriteValues.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
