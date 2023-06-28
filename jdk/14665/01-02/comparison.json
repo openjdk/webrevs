@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -582,1 +582,1 @@\n-  double VMOptionsFuzzyMatchSimilarity = 0.7f;\n+  double VMOptionsFuzzyMatchSimilarity = 0.7;\n","filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlag.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
