@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -574,2 +574,2 @@\n-  Node_List defs{split_arena, 8};\n-  Node_List phis{split_arena, 16};\n+  Node_List defs(split_arena, 8);\n+  Node_List phis(split_arena, 16);\n","filename":"src\/hotspot\/share\/opto\/reg_split.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
