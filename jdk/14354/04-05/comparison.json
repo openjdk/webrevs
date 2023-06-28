@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n- * <pre>\n+ * <pre>{@code\n@@ -42,2 +42,1 @@\n- * <\/pre>\n- *\n+ * }<\/pre>\n","filename":"test\/jdk\/javax\/swing\/regtesthelpers\/JRobot.java","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
