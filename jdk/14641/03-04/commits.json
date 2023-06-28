@@ -1,0 +1,1 @@
+[{"commit":{"message":"[skip ci] handle pending HotSpot exception closer to site causing exception"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/vm\/VMSupport.java"},{"filename":"test\/jdk\/jdk\/internal\/vm\/TestTranslatedException.java"}],"sha":"9236128ad1b7297c8c4e9d3022b88c3ab3278022"}]
