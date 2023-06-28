@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,2 +50,0 @@\n-import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;\n-import org.junit.jupiter.api.Order;\n@@ -53,1 +51,0 @@\n-import org.junit.jupiter.api.TestMethodOrder;\n","filename":"test\/jdk\/java\/util\/Currency\/ValidateISO4217.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
