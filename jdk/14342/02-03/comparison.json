@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1132,1 +1132,1 @@\n-            } catch (Throwable t) {\n+            } catch (SocketException e) {\n","filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
