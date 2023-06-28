@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1712,2 +1712,2 @@\n-named \\f[V]META-INF\/services\/javax.annotation.processing\\f[R].\n-Processor on the search path.\n+named \\f[V]META-INF\/services\/javax.annotation.processing.Processor\\f[R]\n+on the search path.\n","filename":"src\/jdk.compiler\/share\/man\/javac.1","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
