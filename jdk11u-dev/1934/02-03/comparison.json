@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-            InputStream fis = FileInputStream(xml);\n+            InputStream fis = new FileInputStream(xml);\n","filename":"test\/jaxp\/javax\/xml\/jaxp\/unittest\/transform\/SurrogateTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
