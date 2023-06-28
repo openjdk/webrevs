@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into GoeLin-backport-834e50e9"},"files":[],"sha":"6208c7019c92de46301050425be4413063755330"},{"commit":{"message":"Backport 834e50e9efc16effad7469cae99ab8f918a30e86"},"files":[{"filename":"test\/jdk\/java\/awt\/Component\/ComponentRedrawnTest.java"}],"sha":"abe04945b297fe5ee787bbaa4591971a4633558b"}]
