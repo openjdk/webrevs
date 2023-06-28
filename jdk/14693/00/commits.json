@@ -1,0 +1,1 @@
+[{"commit":{"message":"8311032: Empty value for java.protocol.handler.pkgs system property can lead to unnecessary classloading attempts of protocol handlers"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/URL.java"}],"sha":"3b5922a54f0e896e0b3bebdf6ddade8d7eeedfdf"}]
