@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -768,1 +768,1 @@\n-    ldw(t0, Address(xthread, JavaThread::stack_guard_state_offset()));\n+    lw(t0, Address(xthread, JavaThread::stack_guard_state_offset()));\n","filename":"src\/hotspot\/cpu\/riscv\/interp_masm_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
