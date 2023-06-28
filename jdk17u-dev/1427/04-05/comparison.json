@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1752,1 +1752,0 @@\n-     \/\/ cmove is a LIR_Op4 on RISCV\n","filename":"src\/hotspot\/share\/c1\/c1_LIR.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"},{"patch":"@@ -1749,1 +1749,0 @@\n-\n","filename":"src\/hotspot\/share\/c1\/c1_LIR.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
