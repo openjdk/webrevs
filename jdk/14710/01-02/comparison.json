@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2210,0 +2210,1 @@\n+            \/\/ We checked that new_index fits in a u1 so this cast is safe\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
