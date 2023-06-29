@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -397,1 +397,1 @@\n-        output.shouldNotContain(\"Rehash Count: 0\");\n+        output.shouldMatch(\"Rehash Count: [1-9]\");\n","filename":"test\/hotspot\/jtreg\/gc\/g1\/TestStringDeduplicationTools.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
