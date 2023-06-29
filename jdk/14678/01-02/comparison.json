@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -183,3 +183,0 @@\n-  CallJavaNode* generate_method_call_virtual(vmIntrinsics::ID method_id) {\n-    return generate_method_call(method_id, true, false, false);\n-  }\n","filename":"src\/hotspot\/share\/opto\/library_call.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
