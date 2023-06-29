@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,1 +118,1 @@\n-              (intptr_t*)f.interpreter_frame_monitor_end())\/BasicObjectLock::size();\n+              (intptr_t*)f.interpreter_frame_monitor_end()) \/ BasicObjectLock::size();\n","filename":"src\/hotspot\/cpu\/riscv\/stackChunkFrameStream_riscv.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
