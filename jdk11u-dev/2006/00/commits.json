@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport ab17be283559ba0477bc0dcbd11dbfccf155a57f"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"},{"filename":"test\/jtreg-ext\/requires\/VMProps.java"},{"filename":"test\/lib\/sun\/hotspot\/WhiteBox.java"},{"filename":"test\/lib\/sun\/hotspot\/code\/Compiler.java"}],"sha":"e5e5b0e74e8ef9ec6df50b1e2b565ad67bf48574"}]
