@@ -1,0 +1,1 @@
+[{"commit":{"message":"Workaround JDK-8311164: CPU_HT is set randomly on hybrid CPUs like Alder Lake"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"75295c43bafd25228da6fb749e5f7b967ed2eeae"}]
