@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,0 @@\n-import jdk.internal.misc.VM;\n@@ -44,0 +43,1 @@\n+\n","filename":"src\/java.sql\/share\/classes\/java\/sql\/DriverManager.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
