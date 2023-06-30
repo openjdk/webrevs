@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @requires (sun.arch.data.model == \"64\" & os.maxMemory > 8g)\n+ * @requires (sun.arch.data.model == \"64\" & os.maxMemory >= 10g)\n","filename":"test\/jdk\/java\/math\/BigInteger\/largeMemory\/SymmetricRangeTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
