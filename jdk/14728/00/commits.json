@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303086: SIGSEGV in JavaThread::is_interp_only_mode()"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"}],"sha":"45482b4e83458296cf6c93d02bba194de7a51610"}]
