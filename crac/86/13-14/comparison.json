@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,0 +68,1 @@\n+            builder.vmOption(\"-XX:CRaCMinPid=100\");\n@@ -81,0 +82,1 @@\n+            builder.clearVmOptions();\n","filename":"test\/jdk\/jdk\/crac\/java\/net\/InetAddress\/ResolveTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
