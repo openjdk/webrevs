@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -226,1 +226,1 @@\n-  \/\/ Otherwise we attempt to use a zero base if the range fits in lower 32G.\n+  \/\/ Attempt to run with encoding base == zero\n","filename":"src\/hotspot\/share\/oops\/compressedOops.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
