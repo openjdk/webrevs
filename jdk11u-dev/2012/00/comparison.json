@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -562,1 +562,2 @@\n-  HARFBUZZ_DISABLED_WARNINGS_gcc := type-limits missing-field-initializers strict-aliasing\n+  HARFBUZZ_DISABLED_WARNINGS_gcc := type-limits missing-field-initializers strict-aliasing \\\n+       array-bounds\n","filename":"make\/lib\/Awt2dLibraries.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
