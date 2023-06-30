@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -449,1 +449,1 @@\n-        size_t len = st.size();\n+        u4 len = (u4) st.size();\n","filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
