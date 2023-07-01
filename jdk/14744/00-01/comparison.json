@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-                              | kCGEventFlagMaskAlphaShift;\n+                              | kCGEventFlagMaskAlphaShift | kCGEventFlagMaskSecondaryFn;\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/CRobot.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
