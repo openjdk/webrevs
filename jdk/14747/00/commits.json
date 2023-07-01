@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8047998: Abort the vm if MaxNewSize is not the same as NewSize when MaxHeapSize is the same as InitialHeapSize\"\n\nThis reverts commit 8abb9f590f844d098b156b719499bb0447f99759."},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp"}],"sha":"f51046fd188f66b71da20c9950047380fb7c66b1"}]
