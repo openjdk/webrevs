@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-    const uint line_offset = (intptr_t)start & (line_size - 1);\n+    const uint line_offset = (uintptr_t)start & (line_size - 1);\n","filename":"src\/hotspot\/cpu\/ppc\/icache_ppc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
