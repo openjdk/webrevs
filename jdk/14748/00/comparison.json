@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,0 +2,1 @@\n+java\/lang\/Math::random()\n","filename":"test\/hotspot\/jtreg\/testlibrary\/jittester\/conf\/exclude.methods.lst","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
