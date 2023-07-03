@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -629,0 +629,3 @@\n+        if (oldWidth == 0 && oldHeight == 0 && pWidth == 0 && pHeight == 0) {\n+            return;\n+        }\n","filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/JFXPanel.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
