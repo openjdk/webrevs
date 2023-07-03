@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,1 +235,1 @@\n-        return provider;\n+        return p;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/jca\/ProviderConfig.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
