@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @requires os.family != \"windows\"\n+ * @requires os.family != \"windows\" & os.arch != \"arm\"\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/nativeStack\/TestNativeStack.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
