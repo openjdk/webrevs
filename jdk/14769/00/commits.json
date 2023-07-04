@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make NonInterLeavingLogStream less painful to use"},"files":[{"filename":"src\/hotspot\/share\/logging\/log.hpp"},{"filename":"src\/hotspot\/share\/logging\/logMessage.hpp"},{"filename":"src\/hotspot\/share\/logging\/logStream.hpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_logStream.cpp"}],"sha":"6a29adc4563a37d3a0f4fef2427279ba2479fb08"}]
