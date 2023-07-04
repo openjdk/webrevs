@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -950,1 +950,1 @@\n-            return null;\n+            return new InputMethodSupport.InputMethodRequestsAdapter(null);\n@@ -1028,0 +1028,1 @@\n+            getInputMethodRequests();\n","filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/JFXPanel.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
