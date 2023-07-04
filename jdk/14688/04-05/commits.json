@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix Windows build"},"files":[{"filename":"src\/hotspot\/os\/linux\/globals_linux.hpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"4dbfcc9e64b9ebf714ad51d5cb13a7288b0ec109"}]
