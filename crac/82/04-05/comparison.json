@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n-      platform_macos_x64: ${{ steps.check_platforms.outputs.platform_macos_x64 }}\n+      platform_macos_x64: ${{ false && steps.check_platforms.outputs.platform_macos_x64 }}\n","filename":".github\/workflows\/submit.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
