@@ -1,0 +1,1 @@
+[{"commit":{"message":"require LogClassLoadingCauseFor to class load cause logging to produce output"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"24f8539a780aa6f6284c0fd7d4eee34d416cb544"}]
