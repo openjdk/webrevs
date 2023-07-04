@@ -1,0 +1,1 @@
+[{"commit":{"message":"use OS specific native stack printing in class load cause native stack logging"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"}],"sha":"e6ffca3279410d466bfd8d283be4e17e1e54706b"}]
