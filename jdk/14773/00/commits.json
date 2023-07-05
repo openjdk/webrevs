@@ -1,0 +1,1 @@
+[{"commit":{"message":"8311500: StackWalker.getCallerClass() can throw if invoked reflectively"},"files":[{"filename":"src\/hotspot\/share\/prims\/stackwalk.cpp"},{"filename":"src\/hotspot\/share\/prims\/stackwalk.hpp"},{"filename":"test\/jdk\/java\/lang\/StackWalker\/ReflectiveGetCallerClassTest.java"}],"sha":"7ae5b2b5dcf8471f0584a1e144af979214d60366"}]
