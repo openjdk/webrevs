@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-import jdk.test.lib.sun.hotspot.WhiteBox;\n+import sun.hotspot.WhiteBox;\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TestMemoryAwareness.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
