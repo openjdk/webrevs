@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-            \"-Xcomp\", \"-XX:-TieredCompilation\", \"-XX:-Inline\",\n+            \"-Xcomp\", \"-XX:-TieredCompilation\", \"-XX:-Inline\", \"-XX:+CICountNative\",\n","filename":"test\/hotspot\/jtreg\/compiler\/debug\/TestStressIGVNAndCCP.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
