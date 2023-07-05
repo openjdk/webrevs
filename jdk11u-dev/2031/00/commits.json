@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 3c61d5aa48606dab2d2c639d5f0a56313476917d"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"},{"filename":"test\/hotspot\/jtreg\/containers\/docker\/TestMemoryAwareness.java"},{"filename":"test\/lib\/sun\/hotspot\/WhiteBox.java"}],"sha":"24d27d301af3e78460890080ece3b8fd3984a295"}]
