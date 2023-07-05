@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+ * @requires vm.opt.TieredStopAtLevel != 3\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/Test6905845.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
