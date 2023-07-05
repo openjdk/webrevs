@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309531: Incorrect result with unwrapped iotaShuffle.\n\nReviewed-by: sviswanathan, xgong, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorShuffleIota.java"}],"sha":"f567d94a52c351d1a96055ea032179b26e1fbd68"}]
