@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -475,1 +475,1 @@\n-    RawAccess<>::oop_store(p, prev);\n+    set_oop_field(p, prev);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
