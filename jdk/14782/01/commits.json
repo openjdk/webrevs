@@ -1,0 +1,1 @@
+[{"commit":{"message":"Match more parts of the metaspace change log"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/logging\/TestMetaSpaceLog.java"}],"sha":"cb7b216fc53dd7f6f1b44b75312eccda97e65842"},{"commit":{"message":"Fix the regex"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/logging\/TestMetaSpaceLog.java"}],"sha":"7be74f82c30ca1a3255519bab4e8771b560e4cfa"}]
