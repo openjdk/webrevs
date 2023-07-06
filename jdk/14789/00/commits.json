@@ -1,0 +1,1 @@
+[{"commit":{"message":"8066869: Add Closeable::closeUnchecked that is the equivalent of close but throws UncheckedIOException"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/Closeable.java"},{"filename":"test\/jdk\/java\/io\/Closeable\/CloseUnchecked.java"}],"sha":"8db998bdf1786a59e940f7d75e9a6f2204f4cd27"}]
