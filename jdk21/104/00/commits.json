@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295210: IR framework should not whitelist -XX:-UseTLAB\n\nReviewed-by: thartmann, chagedorn"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/TestFramework.java"}],"sha":"0a314670172dfbf1b4a25c8fc6e5088c7d2691dd"}]
