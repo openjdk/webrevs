@@ -1,0 +1,1 @@
+[{"commit":{"message":"8311557: [JVMCI] deadlock with JVMTI thread suspension"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerThread.cpp"},{"filename":"src\/hotspot\/share\/compiler\/compilerThread.hpp"}],"sha":"59b9edabcc698a72ad1ae1b893a68d343b75617f"}]
