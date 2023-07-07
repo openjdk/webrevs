@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,0 +92,3 @@\n+    while (!_constraints->is_empty()) {\n+      delete _constraints->pop();\n+    }\n","filename":"src\/hotspot\/share\/classfile\/loaderConstraints.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
