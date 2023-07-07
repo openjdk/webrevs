@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,2 +109,1 @@\n-  \/\/ UNIX platforms, fontconfig related\n-  \"XDG_CACHE_HOME\", \"XDG_CONFIG_HOME\", \"FC_LANG\",\n+  \"XDG_CACHE_HOME\", \"XDG_CONFIG_HOME\", \"FC_LANG\", \"FONTCONFIG_USE_MMAP\",\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
