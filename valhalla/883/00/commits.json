@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix inlineklass_fixed_block ptr and calling convention flags setting"},"files":[{"filename":"src\/hotspot\/share\/oops\/inlineKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/method.cpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"},{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"}],"sha":"ffebbd6d0c5587f81c7807ca95b014d38ec7540e"}]
