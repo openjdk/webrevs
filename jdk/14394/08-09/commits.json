@@ -1,0 +1,1 @@
+[{"commit":{"message":"Harden code to report lack of SSL support"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/launcher\/SecuritySettings.java"}],"sha":"559f698e68a2a6d20350b70a77ddfe54baaf9d00"},{"commit":{"message":"Testcase correction"},"files":[{"filename":"test\/jdk\/tools\/launcher\/Settings.java"}],"sha":"0de370256acc5d38aaf8c988af5e8348c46ff7e8"}]
