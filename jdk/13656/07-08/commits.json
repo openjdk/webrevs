@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add unit test verifying super() can't appear inside a lambda."},"files":[{"filename":"test\/langtools\/tools\/javac\/SuperInit\/SuperInitFails.java"},{"filename":"test\/langtools\/tools\/javac\/SuperInit\/SuperInitFails.out"}],"sha":"b0b13b2ad22f1d3a8a16e2ba368d925c7c050e46"}]
