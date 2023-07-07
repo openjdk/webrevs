@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -397,0 +397,1 @@\n+        output.shouldContain(\"Full GC\");\n","filename":"test\/hotspot\/jtreg\/gc\/g1\/TestStringDeduplicationTools.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
