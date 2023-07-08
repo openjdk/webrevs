@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-     * {@code b0} is the most significant byte and {@code b4} is the least significant byte.\n+     * {@code b0} is the most significant byte and {@code b3} is the least significant byte.\n","filename":"src\/java.base\/share\/classes\/java\/util\/HexDigits.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
