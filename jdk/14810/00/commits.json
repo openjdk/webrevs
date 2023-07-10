@@ -1,0 +1,1 @@
+[{"commit":{"message":"8306040:HttpResponseInputStream.available() returns 1 on empty stream"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/ResponseSubscribers.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/HttpInputStreamAvailableTest.java"}],"sha":"5e6cb9ce7a56a11f87bee4217f3b5a3121f2d913"}]
