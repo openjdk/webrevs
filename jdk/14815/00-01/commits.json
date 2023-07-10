@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add Robot.waitForIdle\n\nIt ensures getViewportSize in the test is called\nafter AwtScrollPane::_SetSpans completes on the\ntoolkit thread."},"files":[{"filename":"test\/jdk\/java\/awt\/ScrollPane\/ScrollPaneScrollEnd.java"}],"sha":"f40921ca38746395675465cbb791fa910de75ff0"}]
