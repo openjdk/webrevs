@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -568,1 +568,1 @@\n-if (x instanceof Optional.of(Point var x, var y)) { ... }\r\n+if (x instanceof Optional.of(Point(var x, var y)) { ... }\r\n","filename":"site\/design-notes\/patterns\/pattern-match-object-model.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
