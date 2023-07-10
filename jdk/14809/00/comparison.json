@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -565,0 +565,1 @@\n+        free(buf);\n@@ -573,0 +574,1 @@\n+        free(buf);\n","filename":"src\/java.base\/unix\/native\/libjava\/ProcessImpl_md.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
