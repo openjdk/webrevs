@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix deoptimize issue for un-vectorized multifields"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"},{"filename":"src\/hotspot\/share\/runtime\/deoptimization.hpp"}],"sha":"bf95e906b1f8f9712c820054d90ba0e8e775a1a3"}]
