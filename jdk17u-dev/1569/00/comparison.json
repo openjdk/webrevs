@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -853,0 +853,1 @@\n+          parse_klass(CHECK); \/\/ eat up the array class name\n","filename":"src\/hotspot\/share\/ci\/ciReplay.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
