@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+#include \"utilities\/sizes.hpp\"\n","filename":"src\/hotspot\/share\/jfr\/recorder\/storage\/jfrBuffer.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
