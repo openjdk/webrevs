@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -342,1 +342,1 @@\n-     * the current value to the given {@code subscriber}, followed by any\n+     * the current value to the given {@code valueSubscriber}, followed by any\n","filename":"modules\/javafx.base\/src\/main\/java\/javafx\/beans\/value\/ObservableValue.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
