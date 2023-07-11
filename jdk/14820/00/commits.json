@@ -1,0 +1,1 @@
+[{"commit":{"message":"8309603: Deallocate hashtables in ClassLoaderData::unload"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"}],"sha":"8c3bbf87fa520c4ec44ccf2045514661522464c4"}]
