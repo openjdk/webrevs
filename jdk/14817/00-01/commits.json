@@ -1,0 +1,1 @@
+[{"commit":{"message":"Different approach to fix. Widen synchronized block so there is no need to refetch the notInterrupted count."},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdb\/interrupt\/interrupt001\/interrupt001a.java"}],"sha":"41325e59bd958a7bc843176a6dcc9b03f3bb0c9b"}]
