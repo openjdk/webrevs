@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-    \/\/ no jump table, but gets past verifier\n+    \/\/ illegal empty table\n","filename":"test\/hotspot\/jtreg\/runtime\/verifier\/TableSwitchp1.jasm","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
