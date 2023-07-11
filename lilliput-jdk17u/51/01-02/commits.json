@@ -1,0 +1,1 @@
+[{"commit":{"message":"A bit cleaner override check: do not call on -UCOH"},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/vmStructs.cpp"}],"sha":"28e8f8fe68d5213810c12a000fa2fa38cc9b92dd"}]
