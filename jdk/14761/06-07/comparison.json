@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4196,1 +4196,1 @@\n-  void StubGenerator::generate_jfr_stubs() {\n+  void generate_jfr_stubs() {\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_32.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
