@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n-import java.util.Locale;\n@@ -632,1 +631,1 @@\n-                sval = sval.toLowerCase(Locale.ROOT);\n+                sval = sval.toLowerCase();\n","filename":"src\/java.base\/share\/classes\/java\/io\/StreamTokenizer.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
