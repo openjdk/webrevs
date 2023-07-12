@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -189,1 +189,1 @@\n-      CFLAGS_WARNINGS_ARE_ERRORS=\"\"\n+      CFLAGS_WARNINGS_ARE_ERRORS=\"-Werror\"\n@@ -194,1 +194,1 @@\n-          -Wtrampolines -Wconversion\"\n+          -Wtrampolines\"\n","filename":"make\/autoconf\/flags-cflags.m4","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
