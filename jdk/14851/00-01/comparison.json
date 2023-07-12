@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,1 @@\n-        Boolean useJvmciNativeLibrary = WB.getBooleanVMFlag(\"UseJVMCICompiler\");\n+        Boolean useJvmciNativeLibrary = WB.getBooleanVMFlag(\"UseJVMCINativeLibrary\");\n","filename":"test\/lib\/jdk\/test\/whitebox\/code\/Compiler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
