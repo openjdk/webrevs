@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,4 +51,0 @@\n-#if defined(__linux__) && !defined(MAP_FAILED)\n-#define MAP_FAILED ((caddr_t)-1)\n-#endif\n-\n","filename":"src\/java.desktop\/unix\/native\/common\/awt\/fontpath.c","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
