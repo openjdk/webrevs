@@ -1,0 +1,1 @@
+[{"commit":{"message":"8311971: SA's ConstantPool.java uses incorrect computation to read long value in the constant pool\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/ConstantPool.java"}],"sha":"9fd8efca4e301e6688840f23ab1c89af2c195a52"}]
