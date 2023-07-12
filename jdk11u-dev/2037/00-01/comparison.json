@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -325,1 +325,0 @@\n-                testPlainText(server.getAuthority());\n","filename":"test\/jdk\/sun\/net\/www\/protocol\/https\/ChunkedOutputStream.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
