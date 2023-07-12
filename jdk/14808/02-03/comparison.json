@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+#include \"classfile\/stringTable.hpp\"\n@@ -200,1 +201,1 @@\n-  friend class StringTable;\n+  friend class hotspot_jvm::StringTable;\n","filename":"src\/hotspot\/share\/classfile\/javaClasses.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
