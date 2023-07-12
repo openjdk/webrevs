@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-    return nullptr;\n+    return ptr;\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_new.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
