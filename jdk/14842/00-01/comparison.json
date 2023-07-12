@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n- * @compile VThreadTLSTest.java\n@@ -39,1 +38,0 @@\n- * @compile VThreadTLSTest.java\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/VThreadTLSTest\/VThreadTLSTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
