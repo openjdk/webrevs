@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+    .type SafeFetch32_impl, %function\n","filename":"src\/hotspot\/os_cpu\/linux_arm\/safefetch_linux_arm.S","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
