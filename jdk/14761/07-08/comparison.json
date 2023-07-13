@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3024,1 +3024,1 @@\n-  Node* notified_offset =  basic_plus_adr(top(), tls_ptr, in_bytes(NOTIFY_OFFSET_JFR));\n+  Node* notified_offset = basic_plus_adr(top(), tls_ptr, in_bytes(NOTIFY_OFFSET_JFR));\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
