@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -809,1 +809,1 @@\n-                    if (elements[a] == null) { throw new NullPointerException(\"e\" + a); }\n+                    Objects.requireNonNull(elements[a], \"e\" + a);\n","filename":"jdk\/test\/lib\/testlibrary\/jdk\/testlibrary\/Utils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
