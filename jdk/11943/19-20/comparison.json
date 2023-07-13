@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -573,2 +573,0 @@\n-            \/\/ explicitly specified endianness doesn't match the determined endianness\n-            \/\/ of the target platform\n","filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/JlinkTask.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
