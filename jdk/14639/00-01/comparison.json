@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5429,1 +5429,1 @@\n-            var parameters= method.getParameters();\n+            var parameters = method.getParameters();\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Check.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
