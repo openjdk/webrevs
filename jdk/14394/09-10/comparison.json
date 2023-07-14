@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,1 @@\n-                .shouldContain(\"Security TLS configuration:\");\n+                .shouldContain(\"Security TLS configuration\");\n","filename":"test\/jdk\/java\/security\/Security\/ConfigFileTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
