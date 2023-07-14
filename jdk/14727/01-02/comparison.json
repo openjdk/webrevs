@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,2 +60,0 @@\n-    private static Set<Attribute> supportedSides = new HashSet<>();\n-\n","filename":"test\/jdk\/javax\/print\/attribute\/SidesAttributeTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
