@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -557,0 +557,2 @@\n+    \/\/ Note, this code used to check (next_j - sleep_to_next) <= 0,\n+    \/\/ but that can overflow (UB) and cause a spurious sample.\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrThreadSampler.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
