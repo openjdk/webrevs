@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1645,1 +1645,1 @@\n-  char* res = os::reserve_memory_at(addr, size, !ExecMem);\n+  char* res = os::attempt_reserve_memory_at(addr, size, !ExecMem);\n","filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
