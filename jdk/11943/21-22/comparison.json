@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -666,1 +666,1 @@\n-        return javaBasePath.toRealPath().equals(javaBaseInDefaultPath.toRealPath()) ;\n+        return Files.isSameFile(javaBasePath, javaBaseInDefaultPath);\n","filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/JlinkTask.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
