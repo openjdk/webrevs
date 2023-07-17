@@ -1,0 +1,1 @@
+[{"commit":{"message":"8136895: Remove vestigial explicit calls to close() in implClose()"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/StreamEncoder.java"}],"sha":"a400b04eae59a204ed48c2f95f95fd9da97f4082"}]
