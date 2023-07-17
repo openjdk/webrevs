@@ -1,0 +1,1 @@
+[{"commit":{"message":"8312138: jcmd VM.metaspace vslist has no newline character before the Class: label."},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace.cpp"}],"sha":"673b2dcda886fbcf94ac312915212460b82ffc91"}]

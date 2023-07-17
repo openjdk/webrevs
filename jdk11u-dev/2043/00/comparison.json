@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -761,0 +761,1 @@\n+    out->cr();\n","filename":"src\/hotspot\/share\/memory\/metaspace.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
