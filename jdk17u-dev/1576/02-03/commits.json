@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308283: Build failure with GCC12 & GCC13\n\nReviewed-by: erikj, jiefu"},"files":[{"filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk"},{"filename":"src\/hotspot\/share\/utilities\/compilerWarnings.hpp"},{"filename":"src\/hotspot\/share\/utilities\/compilerWarnings_gcc.hpp"}],"sha":"1a469d06134c38380e0a17abaa0c1b2d6da17628"}]
