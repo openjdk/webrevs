@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,1 +192,1 @@\n-        boolean readyStatus = rootOcsp.awaitServerReady(5, TimeUnit.SECONDS);\n+        boolean readyStatus = rootOcsp.awaitServerReady(60, TimeUnit.SECONDS);\n","filename":"test\/jdk\/java\/security\/cert\/CertPathValidator\/OCSP\/OCSPTimeout.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
