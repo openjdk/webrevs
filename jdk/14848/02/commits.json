@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8311923"},"files":[],"sha":"56ebf1909fed5d99ddf30a3119aaa0798216fd80"},{"commit":{"message":"8311923: TestIRMatching.java fails on RISC-V"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java"}],"sha":"f41ed12ee1c3f6690ebafa51d5291aee454e8abf"}]
