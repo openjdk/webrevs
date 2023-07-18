@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert resolved class to unresolved for comparison\n\nremove is_unresolved_class_mismatch"},"files":[{"filename":"src\/hotspot\/share\/oops\/constantPool.cpp"},{"filename":"src\/hotspot\/share\/oops\/constantPool.hpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp"}],"sha":"05071a56c7d47954bb0752b6b96b6d6eacd43df9"}]
