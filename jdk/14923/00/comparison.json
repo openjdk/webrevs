@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,0 +37,1 @@\n+ * @requires os.family != \"aix\"\n","filename":"test\/hotspot\/jtreg\/runtime\/Thread\/TestAlwaysPreTouchStacks.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
