@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -257,1 +257,1 @@\n-    INLINE void VerifyActive() throw (awt_toolkit_shutdown) {\n+    INLINE void VerifyActive() {\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Toolkit.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
