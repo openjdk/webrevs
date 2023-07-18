@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -841,2 +841,1 @@\n-Does nothing.\n-Provided for backward compatibility.\n+Deprecated and may be removed in a future release.\n","filename":"src\/java.base\/share\/man\/java.1","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
