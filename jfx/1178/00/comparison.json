@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -803,1 +803,1 @@\n-        if (!scenePeer.getPixels(buf, pWidth, pHeight)) {\n+        if (scenePeer != null && !scenePeer.getPixels(buf, pWidth, pHeight)) {\n","filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/JFXPanel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255248: NullPointerException in JFXPanel due to race condition in HostContainer"},"files":[{"filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/JFXPanel.java"}],"sha":"f07c77ae13bef99f9d069d5d1394904ae4bb2b53"}]
