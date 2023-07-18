@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3134,1 +3134,1 @@\n-      \"-XX:+UseZGC is currently unsupported for -XX:CRaCCheckpointTo, contact Azul for ZULU-13196.\\n\");\n+      \"-XX:+UseZGC is currently unsupported for -XX:CRaCCheckpointTo.\\n\");\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
