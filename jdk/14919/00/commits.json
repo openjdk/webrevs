@@ -1,0 +1,1 @@
+[{"commit":{"message":"8312182-Huge-RSS-with-THPs-even-after-JDK-8303215"},"files":[{"filename":"src\/hotspot\/os\/linux\/globals_linux.hpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/THPsInThreadStackPreventionTest.java"}],"sha":"81c0d38990cf5cf0630c0bd9fc0a3772621d82f6"}]
