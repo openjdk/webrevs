@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1279,0 +1279,1 @@\n+\n@@ -1289,1 +1290,1 @@\n-    \/\/ Some classes are pre-resolved (like Throwable) which may lead to \n+    \/\/ Some classes are pre-resolved (like Throwable) which may lead to\n","filename":"src\/hotspot\/share\/oops\/constantPool.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
