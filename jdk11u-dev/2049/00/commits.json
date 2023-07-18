@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 1e0184d142deb18e719fc28814a293b44bab6c63\n\n8275234: java\/awt\/GraphicsDevice\/DisplayModes\/CycleDMImage.java is entered twice in ProblemList\n\nReviewed-by: Yi Yang\nSigned-off-by: sendaoYan <yansendao.ysd@alibaba-inc.com>"},"files":[{"filename":"test\/jdk\/ProblemList.txt"}],"sha":"a271c3f5e15abaccfcfb30deac77f0a215a1ab43"}]
