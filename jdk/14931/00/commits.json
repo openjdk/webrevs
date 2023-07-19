@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix JNI usage in PKCS11"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/p11_crypt.c"},{"filename":"test\/jdk\/sun\/security\/pkcs11\/Cipher\/TestGCMKeyAndIvCheck.java"}],"sha":"64f4894a764a3dbec6a654711e411cdde425696a"}]
