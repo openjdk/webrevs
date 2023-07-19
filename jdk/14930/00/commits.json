@@ -1,0 +1,1 @@
+[{"commit":{"message":"8312229: Crash involving yield, switch and anonymous classes"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/LambdaToMethod.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8312229.java"}],"sha":"5249c6148db20cdc3806ea5b6ed65d9a147482f1"}]
