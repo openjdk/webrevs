@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1255,0 +1255,1 @@\n+#ifdef _LP64\n@@ -1259,0 +1260,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
