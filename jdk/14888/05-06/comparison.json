@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n-\/\/ Set Pdsegfault_address to miniumum one page address.\n+\/\/ Set Pdsegfault_address to minimum one page address.\n","filename":"src\/hotspot\/cpu\/s390\/globalDefinitions_s390.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
