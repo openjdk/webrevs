@@ -1,0 +1,1 @@
+[{"commit":{"message":"8311219: [lworld] VM option \"InlineFieldMaxFlatSize\" cannot work well"},"files":[{"filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp"},{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"},{"filename":"src\/hotspot\/share\/opto\/parseHelper.cpp"}],"sha":"ac432345c99a89c957790014a2b44de94582f18e"}]
