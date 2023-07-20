@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -495,1 +495,1 @@\n-    case AddNode(Node left, Node right)) -> ...\n+    case AddNode(Node left, Node right) -> ...\n","filename":"site\/design-notes\/patterns\/pattern-matching-for-java.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
