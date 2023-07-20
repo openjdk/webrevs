@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,0 +235,2 @@\n+A common way to handle the JBS issue used to problemlist a test is to create a [Sub-task]{.jbs-value} of the bug that needs to be fixed to be able to remove the test from the problem list again.\n+\n","filename":"src\/guide\/testing-the-jdk.md","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
