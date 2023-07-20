@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308103: Massive (up to ~30x) increase in C2 compilation time since JDK 17\n\nReviewed-by: kvn, thartmann, chagedorn"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestSinkingNodesCausesLongCompilation.java"}],"sha":"3c7efa7fe08a1f6192f665b05ccbe8b2ffd720b7"}]
