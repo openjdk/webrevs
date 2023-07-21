@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-        default: '10.3.0-1ubuntu1~20.04'\n+        default: '10.4.0-4ubuntu1~22.04'\n@@ -47,1 +47,1 @@\n-    runs-on: ubuntu-20.04\n+    runs-on: ubuntu-22.04\n","filename":".github\/workflows\/build-cross-compile.yml","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
