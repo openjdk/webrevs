@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix and test"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestLoopPredicateCastIIBecomesTop.java"}],"sha":"46c60fc361c911a558157b5b5a1c5ac185675e8e"}]
