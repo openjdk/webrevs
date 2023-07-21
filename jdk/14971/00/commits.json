@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid destroying log appenders set in launch() function.\n\nUse the  same approach as Logger::defaultLogger() to ensure that appender is not destroyed before shared object destructor functions are executed."},"files":[{"filename":"src\/jdk.jpackage\/share\/native\/common\/app.cpp"}],"sha":"cd2e0ef061419b6a719a7b5dc08fd5a8f69d3496"}]
