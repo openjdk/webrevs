@@ -1,0 +1,1 @@
+[{"commit":{"message":"7903507: jtreg runs into race conditions for multi-modules tests"},"files":[{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/Action.java"},{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/RegressionScript.java"}],"sha":"2d368f00eb3658b035ed396af9622d0fbe4d439e"}]
