@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -315,2 +315,1 @@\n-  if (UseLargePages) {\n-    if (ps < LargePageSizeInBytes) {\n+  if (UseLargePages && ps < LargePageSizeInBytes) {\n@@ -325,1 +324,0 @@\n-    };\n","filename":"src\/hotspot\/share\/code\/codeCache.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
