@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,0 +82,8 @@\n+\n+  #ifdef _AIX\n+  if (scale_value == nullptr || scale_value[0] == '\\0') {\n+    output()->print_cr(\"Incorrect scale value: (empty)\");\n+    return;\n+  }\n+  #endif\n+\n","filename":"src\/hotspot\/share\/services\/nmtDCmd.cpp","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
