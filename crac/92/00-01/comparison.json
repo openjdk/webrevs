@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,1 +147,0 @@\n-#ifdef __APPLE__\n@@ -149,1 +148,0 @@\n-#endif\n","filename":"src\/java.base\/unix\/native\/libjava\/FileDescriptor_md.c","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
