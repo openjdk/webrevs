@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -494,1 +494,1 @@\n-       unused-result array-bounds\n+       unused-result array-bounds parentheses\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
