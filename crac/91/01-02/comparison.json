@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-        JNU_ThrowIOExceptionWithLastError(env, \"LoadLibrary ntdll.dll failed\");\n+        JNU_ThrowIOExceptionWithLastError(env, \"GetModuleHandle ntdll.dll failed\");\n","filename":"src\/java.base\/windows\/native\/libjava\/FileDescriptor_md.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
