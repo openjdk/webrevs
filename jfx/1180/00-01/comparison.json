@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2298,1 +2298,0 @@\n-#if PLATFORM(JAVA)\n@@ -2300,3 +2299,0 @@\n-#else\n-    return document().completeURL(stripLeadingAndTrailingHTMLSpaces(linkAttribute));\n-#endif\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/dom\/Element.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}

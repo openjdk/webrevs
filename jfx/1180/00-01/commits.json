@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove check for PLATFORM(JAVA) as the change corresponds to webkit upstream"},"files":[{"filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/dom\/Element.cpp"}],"sha":"3362baa65654fdb8dbaddf0cebf53871e07d710d"}]
