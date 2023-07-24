@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert the change that truncates the string in String::as_symbol."},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"},{"filename":"src\/hotspot\/share\/classfile\/javaClasses.hpp"}],"sha":"5ee367bf9579b928d1854ffae83f1667e57b2bfd"}]
