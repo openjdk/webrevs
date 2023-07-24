@@ -1,0 +1,1 @@
+[{"commit":{"message":"8212677: X11 default visual support for IM status window on VNC\n\nReviewed-by: serb, naoto"},"files":[{"filename":"jdk\/src\/solaris\/native\/sun\/awt\/awt_GraphicsEnv.c"},{"filename":"jdk\/src\/solaris\/native\/sun\/awt\/awt_InputMethod.c"}],"sha":"3716249080e2bceb847c422f2ec8ffe69a2e6f18"}]
