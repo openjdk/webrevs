@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -572,1 +572,1 @@\n-        delete[] fullname;\n+        if (fullname != NULL) delete[] fullname;\n","filename":"src\/java.security.jgss\/windows\/native\/libsspi_bridge\/sspi.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
