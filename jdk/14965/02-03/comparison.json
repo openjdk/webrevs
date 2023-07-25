@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,0 +134,2 @@\n+  \/* notice: the max range value here is INT_MAX not UINT_MAX  *\/           \\\n+  \/* to protect from overflows                                 *\/           \\\n","filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
