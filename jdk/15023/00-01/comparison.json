@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -657,1 +657,1 @@\n-      int64_t range = 1 << (shift - 1);\n+      int32_t range = 1 << (shift - 1);\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
