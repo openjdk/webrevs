@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -866,1 +866,1 @@\n-  \/\/ Clear the flags related to compiler directives that were set by the compilerBroker, \n+  \/\/ Clear the flags related to compiler directives that were set by the compilerBroker,\n","filename":"src\/hotspot\/share\/oops\/method.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
