@@ -1,0 +1,1 @@
+[{"commit":{"message":"Wait until G1 GC has finished before creating a snapshot."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1UncommitRegionTask.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1UncommitRegionTask.hpp"},{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"}],"sha":"874f7a1ce7949ed0d0c9ecc65d6745eb67f48bd0"}]
