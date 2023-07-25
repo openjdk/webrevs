@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1528,1 +1528,1 @@\n-                debug.log(\"Registering %s for %d (%s)\",\n+                debug.log(\"Registering %s for %s (%s)\",\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpClientImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
