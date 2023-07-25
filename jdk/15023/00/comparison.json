@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -657,1 +657,2 @@\n-      if (((-(1 << (shift - 1))) <= sve_offset) && (sve_offset < (1 << (shift - 1)))) {\n+      int64_t range = 1 << (shift - 1);\n+      if ((-range <= sve_offset) && (sve_offset < range)) {\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
