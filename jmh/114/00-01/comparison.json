@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -289,1 +289,1 @@\n-                double minTime = Double.MIN_VALUE;\n+                double minTime = Double.MAX_VALUE;\n","filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/profile\/LinuxPerfNormProfiler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
