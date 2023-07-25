@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,2 +76,1 @@\n-      _value = (u1)newval;\n-      _value = _value | 2;\n+      _value = (u1)(newval | 2) & 3;\n","filename":"src\/hotspot\/share\/utilities\/tribool.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
