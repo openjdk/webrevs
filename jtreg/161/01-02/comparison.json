@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -524,2 +524,1 @@\n-            }\n-            else if (Files.isDirectory(element)) {\n+            } else if (Files.isDirectory(element)) {\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/Action.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
