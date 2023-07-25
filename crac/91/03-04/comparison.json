@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,0 +99,2 @@\n+#define BufferSize 1024\n+\n@@ -102,1 +104,0 @@\n-    #define BufferSize 1024\n","filename":"src\/java.base\/windows\/native\/libjava\/FileDescriptor_md.c","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
