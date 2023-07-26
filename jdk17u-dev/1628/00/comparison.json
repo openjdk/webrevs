@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -503,0 +503,2 @@\n+        } else if (Platform.isZero()) {\n+            return \"-zero\";\n","filename":"test\/lib\/jdk\/test\/lib\/cli\/CommandLineOptionTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
