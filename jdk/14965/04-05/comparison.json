@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,2 +115,2 @@\n-\n-    \/\/ 2147483647 == (signed int) -1\n+    \n+    \/\/ Test the max value for ParallelGCThreads\n","filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestParallelGCThreads.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
