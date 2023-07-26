@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2119,0 +2119,1 @@\n+      assert(MonitoringSupport_lock != nullptr, \"Must be\");\n","filename":"src\/hotspot\/share\/services\/management.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
