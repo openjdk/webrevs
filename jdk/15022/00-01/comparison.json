@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4914,0 +4914,1 @@\n+            tty->cr();\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
