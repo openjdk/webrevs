@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -284,1 +284,1 @@\n-    # 'nm' on AIX need -X64 option\n+    # 'nm' on AIX needs -X64 option\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
