@@ -1,0 +1,1 @@
+[{"commit":{"message":"Enable Vector API support code when JVMCI is defined"},"files":[{"filename":"src\/hotspot\/share\/classfile\/modules.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"}],"sha":"3172dfe8c49a9504fa514cfece46cb6ddc1d79e0"}]
