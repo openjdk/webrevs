@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1136,1 +1136,2 @@\n-                0xff & tag, buffer, start, end);\n+                0xff & tag, HexFormat.of().withUpperCase().formatHex(buffer),\n+                start, end);\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/DerValue.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
