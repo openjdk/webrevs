@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8312620-WSL-Linux-build-crashes-after-JDK-8310233"},"files":[{"filename":"src\/hotspot\/os\/linux\/hugepages.cpp"},{"filename":"src\/hotspot\/os\/linux\/hugepages.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestHugePageDetection.java"}],"sha":"dac67bf89beb9f29154b07bb995f95fd6b569a1e"}]
