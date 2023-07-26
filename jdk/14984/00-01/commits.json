@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert part of logging"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestTrimNative.java"}],"sha":"67528a547ba0980e9a4f7ec8cd6d71a07b29e6a5"}]
