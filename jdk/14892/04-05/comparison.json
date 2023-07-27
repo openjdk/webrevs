@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,2 @@\n-    _value = _value | 2; \/\/ set to not-default\n+    \/\/ set to not-default in separate step to avoid conversion warnings\n+    _value |= 2;\n","filename":"src\/hotspot\/share\/utilities\/tribool.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
