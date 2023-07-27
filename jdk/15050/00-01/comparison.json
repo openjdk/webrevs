@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -803,0 +803,1 @@\n+  # The mindumps are disabled by default on client Windows, so enable them\n","filename":"make\/RunTests.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
