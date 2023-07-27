@@ -1,0 +1,1 @@
+[{"commit":{"message":"8313224: Avoid calling JavaThread::current() in MemAllocator::Allocation constructor"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/memAllocator.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/memAllocator.hpp"}],"sha":"da211ff932cbc115dba150c0060eba93e16666fc"}]
