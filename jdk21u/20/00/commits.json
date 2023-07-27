@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport a9d21c61fb12a11e18c6bb8aa903e5a8e42473f1"},"files":[{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"},{"filename":"src\/hotspot\/share\/services\/management.cpp"},{"filename":"test\/jdk\/com\/sun\/management\/ThreadMXBean\/ThreadAllocatedMemory.java"}],"sha":"68c79668d67aed0d980af435348b58e1b54a324a"}]
