@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove calling thread state assertions for wait_for_collection_finish()."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1UncommitRegionTask.cpp"}],"sha":"3858abdbb13e46f1da64971be6ad0378d7ad642a"}]
