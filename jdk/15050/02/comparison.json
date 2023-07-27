@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -803,0 +803,1 @@\n+  # The minidumps are disabled by default on client Windows, so enable them\n@@ -805,0 +806,1 @@\n+    $1_JTREG_BASIC_OPTIONS += -vmoption:-XX:+CreateCoredumpOnCrash\n","filename":"make\/RunTests.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
