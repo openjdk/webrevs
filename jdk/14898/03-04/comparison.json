@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -262,0 +262,1 @@\n+    ::CoInitialize(NULL);\n@@ -270,1 +271,1 @@\n-\n+    ::CoUninitialize();\n","filename":"src\/java.desktop\/windows\/native\/libjsound\/PLATFORM_API_WinOS_DirectSound.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
