@@ -1,0 +1,1 @@
+[{"commit":{"message":"8312976: MatchResult produces StringIndexOutOfBoundsException for groups outside match"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/regex\/Matcher.java"},{"filename":"test\/jdk\/java\/util\/regex\/ImmutableMatchResultTest.java"}],"sha":"8c7373297c208da92aee7f338b569261a09cbc64"}]
