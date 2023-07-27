@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix wrong if conditional braces hidden by wrong indentation.\n - bugreported by Anton Kozlov."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"970ae7bcabe1ad8a68362c4326a4fbc3fbc91400"}]
