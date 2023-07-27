@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-\/\/ ISO C++ asm is always implicitly volatile\n+\/\/ ISO C++ asm is always implicitly volatile (https:\/\/gcc.gnu.org\/onlinedocs\/gcc\/Basic-Asm.html)\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
