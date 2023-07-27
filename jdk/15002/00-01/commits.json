@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add sanity test for -XX:+PrintIdealNodeCount\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestPrintIdealNodeCount.java"}],"sha":"9d4930bef0c75698eab653c5c3fc61d0e9b6bbe3"}]
