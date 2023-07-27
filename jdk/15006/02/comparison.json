@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,2 +190,2 @@\n-mlib_start_timer start_timer = NULL;\n-mlib_stop_timer stop_timer = NULL;\n+static mlib_start_timer start_timer = NULL;\n+static mlib_stop_timer stop_timer = NULL;\n","filename":"src\/java.desktop\/share\/native\/libawt\/awt\/medialib\/awt_ImagingLib.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
