@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -805,0 +805,1 @@\n+    $1_JTREG_BASIC_OPTIONS += -vmoption:-XX:+CreateCoredumpOnCrash\n","filename":"make\/RunTests.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
