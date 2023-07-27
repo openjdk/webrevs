@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix global flags to make adaptive tenuring with census at mark the\ndefault, along with ignoring mortality rates of cohorts older than the\nselected tenuring age at previous epoch."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoah_globals.hpp"}],"sha":"7b838b12390e60cd9a5bbf21dd0c80f79f5c7ae5"}]
