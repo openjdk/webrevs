@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @requires vm.debug == true & vm.flavor == \"server\"\n+ * @requires vm.debug == true & vm.compiler2.enabled\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestPrintIdealNodeCount.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
