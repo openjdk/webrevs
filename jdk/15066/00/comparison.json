@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,2 @@\n+import java.util.Locale;\n+\n@@ -310,1 +312,1 @@\n-        assertEquals(expected, String.format(format, value));\n+        assertEquals(expected, String.format(Locale.ROOT, format, value));\n","filename":"test\/jdk\/java\/util\/Formatter\/Padding.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
