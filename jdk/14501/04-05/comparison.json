@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -473,1 +473,1 @@\n-                \/\/ Ignore e.g. \"ForkJoinPool-1-worker-1\" waiting on a VirtualThread \n+                \/\/ Ignore e.g. \"ForkJoinPool-1-worker-1\" waiting on a VirtualThread\n","filename":"test\/jdk\/java\/lang\/management\/ThreadMXBean\/Locks.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
