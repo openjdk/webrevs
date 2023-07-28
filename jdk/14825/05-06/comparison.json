@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,0 +66,3 @@\n+            if (window != null) {\n+                window.dispose();\n+            }\n","filename":"test\/jdk\/java\/awt\/Multiscreen\/MultiScreenCheckScreenIDTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
