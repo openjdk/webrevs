@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -850,1 +850,1 @@\n-        Integer tmp = GetIntegerAction.privilegedGetProperty(\n+        int tmp = GetIntegerAction.privilegedGetProperty(\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/SignatureFileVerifier.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
