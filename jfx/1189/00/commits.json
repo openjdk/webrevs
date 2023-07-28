@@ -1,0 +1,1 @@
+[{"commit":{"message":"Repaint properly when JFXPanel moves to another screen"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/EmbeddedScene.java"},{"filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/JFXPanel.java"}],"sha":"ed355ccd0517ba6217f510d3d420a105fe972538"}]
