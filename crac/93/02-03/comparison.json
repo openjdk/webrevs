@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,0 +140,3 @@\n+  assert(Thread::current_or_null() != NULL, \"no current thread\");\n+  assert(!Thread::current()->is_ConcurrentGC_thread(), \"deadlock prevention\");\n+\n","filename":"src\/hotspot\/share\/gc\/g1\/g1UncommitRegionTask.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
