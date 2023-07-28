@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,1 @@\n+  void set_higher_dimension(ObjArrayKlass* k) { _higher_dimension = k; }\n","filename":"src\/hotspot\/share\/oops\/arrayKlass.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
