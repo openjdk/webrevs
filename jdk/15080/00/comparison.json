@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -247,1 +247,1 @@\n-        CCACHE_SLOPPINESS=$CCACHE_SLOPPINESS CCACHE_BASEDIR=$TOPDIR $CCACHE\"\n+        CCACHE_SLOPPINESS=$CCACHE_SLOPPINESS $CCACHE\"\n","filename":"make\/autoconf\/build-performance.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
