@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-  bool _active;\n+  volatile bool _active;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1UncommitRegionTask.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
