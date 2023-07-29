@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287854: Dangling reference in ClassVerifier::verify_class\n\nBackport-of: 3fa99844a69401f84677e7d512ffd937f7f16898"},"files":[{"filename":"src\/hotspot\/share\/classfile\/verifier.cpp"},{"filename":"src\/hotspot\/share\/classfile\/verifier.hpp"}],"sha":"a02b173b2871c94cab34106d4a23ae38d63ea79d"}]
