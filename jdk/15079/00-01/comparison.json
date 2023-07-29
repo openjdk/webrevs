@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -721,1 +721,0 @@\n-    case os::os_thread:\n@@ -724,0 +723,2 @@\n+    case os::os_thread:\n+      break;\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
