@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -553,1 +553,1 @@\n-    return (u1)(251 + appends);\n+    return static_cast<u1>(251 + appends);\n","filename":"src\/hotspot\/share\/classfile\/stackMapTableFormat.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
