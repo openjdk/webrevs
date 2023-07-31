@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4987,1 +4987,1 @@\n-                Predicate<String> p = Pattern.compile(pattern, Pattern.CASE_INSENSITIVE \n+                Predicate<String> p = Pattern.compile(pattern, Pattern.CASE_INSENSITIVE\n","filename":"test\/jdk\/java\/util\/regex\/RegExTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
