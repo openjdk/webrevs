@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -291,4 +291,0 @@\n-    \/**\n-     * Masked used to set the AbstractFormatterFactory.\n-     *\/\n-    private Object mask;\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JFormattedTextField.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
