@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,7 +108,0 @@\n-\n-#if PLATFORM(JAVA)\n-    if(!isMainThread()) {\n-        return;\n-    }\n-#endif\n-\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/platform\/ThreadTimers.cpp","additions":0,"deletions":7,"binary":false,"changes":7,"status":"modified"}]}
