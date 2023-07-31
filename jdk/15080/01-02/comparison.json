@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -246,1 +246,1 @@\n-    if $ALLOW_ABSOLUTE_PATHS_IN_OUTPUT;then\n+    if test \"x$ALLOW_ABSOLUTE_PATHS_IN_OUTPUT\" = \"xtrue\"; then\n","filename":"make\/autoconf\/build-performance.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
