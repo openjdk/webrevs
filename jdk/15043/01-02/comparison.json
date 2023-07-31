@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,1 +240,1 @@\n-  MutexLocker lock(_mutex, Mutex::_no_safepoint_check_flag);\n+  ConditionalMutexLocker lock(_mutex, _mutex != nullptr, Mutex::_no_safepoint_check_flag);\n","filename":"src\/hotspot\/share\/code\/stubs.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
