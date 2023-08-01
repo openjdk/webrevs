@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -841,0 +841,3 @@\n+        if (tree.processor != null) {\n+            tree.processor = translate(tree.processor);\n+        }\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransTypes.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
