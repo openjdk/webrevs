@@ -1,0 +1,1 @@
+[{"commit":{"message":"8313368: Change conditional compilation check; modify existing test to be manual"},"files":[{"filename":"src\/java.base\/unix\/native\/libnio\/ch\/UnixFileDispatcherImpl.c"},{"filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/BlockDeviceSize.java"}],"sha":"52c2f41f52f5fe544326343f975d76203e34250c"}]
