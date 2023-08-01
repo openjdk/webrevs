@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -228,1 +228,1 @@\n-  assert(is_upcall_stub_frame(), \"must be optimzed entry frame\");\n+  assert(is_upcall_stub_frame(), \"must be optimized entry frame\");\n","filename":"src\/hotspot\/cpu\/s390\/frame_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
