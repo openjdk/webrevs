@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-        ProcessBuilder processBuilder = SATestUtils.createProcessBuilder(launcher);\n+        ProcessBuilder processBuilder = new ProcessBuilder(launcher.getCommand());\n","filename":"test\/hotspot\/jtreg\/serviceability\/HeapDump\/IntegrityHeapDumpTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
