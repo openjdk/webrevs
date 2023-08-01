@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1973,0 +1973,6 @@\n+  if (UseZbb) {\n+    \/\/ no roliw available\n+    roriw(dst, src, 32 - shift);\n+    return;\n+  }\n+\n@@ -1976,1 +1982,0 @@\n-\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":6,"deletions":1,"binary":false,"changes":7,"status":"modified"}]}
