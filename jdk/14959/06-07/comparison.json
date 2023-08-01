@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -399,0 +399,2 @@\n+\/\/ _array_klasses and _dynamic_archive_array_klasses only hold the array klasses\n+\/\/ which have element klass in the static archive.\n","filename":"src\/hotspot\/share\/cds\/dynamicArchive.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
