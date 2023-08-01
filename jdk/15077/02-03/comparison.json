@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -703,1 +703,1 @@\n-                                      from_is_array, from_is_object);\n+                                    from_is_array, from_is_object);\n","filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
