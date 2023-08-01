@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -721,1 +721,1 @@\n-    default:\n+    default:  \/\/ follow Unix and presume the unknown thread type is an internal VM one\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
