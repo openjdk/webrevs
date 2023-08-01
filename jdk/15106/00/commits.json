@@ -1,0 +1,1 @@
+[{"commit":{"message":"8312821 Javac accepts char literal as template"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavaTokenizer.java"},{"filename":"test\/langtools\/tools\/javac\/lexer\/JavaLexerTest.java"},{"filename":"test\/langtools\/tools\/javac\/unicode\/TripleQuote.out"}],"sha":"ed865c51cf0305f9b9afb988d2cae7afb5aabfaf"}]
