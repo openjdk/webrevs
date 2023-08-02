@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-static int allModifiersMask = kCGEventFlagMaskShift | kCGEventFlagMaskControl\n+static CGEventFlags allModifiersMask = kCGEventFlagMaskShift | kCGEventFlagMaskControl\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/CRobot.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
