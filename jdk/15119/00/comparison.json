@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-    BASIC_JVM_LIBS_$1=\"$BASIC_JVM_LIBS_$1 -latomic\"\n+    BASIC_JVM_LIBS_$1=\"$BASIC_JVM_LIBS_$1 -l:libatomic.a\"\n","filename":"make\/autoconf\/libraries.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
