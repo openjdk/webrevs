@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -716,0 +716,1 @@\n+                progressBody.append(\"\\n\");\n@@ -724,0 +725,1 @@\n+                progressBody.append(\"\\n\");\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckRun.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
