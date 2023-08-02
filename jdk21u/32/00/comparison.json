@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,0 +240,2 @@\n+        DISABLED_WARNINGS_gcc_screencast_pipewire.c := undef, \\\n+        DISABLED_WARNINGS_gcc_screencast_portal.c := undef, \\\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
