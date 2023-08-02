@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use USHRT_MAX instead of numeric limits template, and made method overflow an assert."},"files":[{"filename":"src\/hotspot\/share\/classfile\/bytecodeAssembler.cpp"},{"filename":"src\/hotspot\/share\/classfile\/defaultMethods.cpp"}],"sha":"d787f46a980bc2e8a598adb2c664e6a464d8bd00"}]
