@@ -1,0 +1,1 @@
+[{"commit":{"message":"Missed a case that gets -Wconversion warning for ContendedPaddingWidth.  prefetch_data_size() returns uint, so added a checked_cast<> to catch the case where it would return greater than signed int max."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"0e97905c34f3fa6cab9325fd68d2c3d79abbf1d4"}]

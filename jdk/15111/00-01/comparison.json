@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1808,1 +1808,1 @@\n-  intx cache_line_size = prefetch_data_size();\n+  int cache_line_size = checked_cast<int>(prefetch_data_size());\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
