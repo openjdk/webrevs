@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -930,1 +930,1 @@\n-            throw new SkippedException(\"Test skipped, check logs\");\n+            return;\n","filename":"test\/jdk\/sun\/security\/pkcs11\/PKCS11Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
