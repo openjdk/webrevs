@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305056: Avoid unaligned access in emit_intX methods if it's unsupported\n\nbackport-of: f239695b5670bfbc251430d2f7e632804894a8bc"},"files":[{"filename":"src\/hotspot\/share\/asm\/codeBuffer.hpp"}],"sha":"cd1f27924106b22787faf3d972fe76ba301f0101"}]
