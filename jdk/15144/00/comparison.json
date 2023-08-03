@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1711,1 +1711,0 @@\n-        fclose(replay_data_file);\n@@ -1714,1 +1713,0 @@\n-        close(fd);\n@@ -1737,1 +1735,0 @@\n-        fclose(inline_data_file);\n@@ -1740,1 +1737,0 @@\n-        close(fd);\n","filename":"src\/hotspot\/share\/ci\/ciEnv.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}

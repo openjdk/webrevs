@@ -1,0 +1,1 @@
+[{"commit":{"message":"8313712: [BACKOUT] 8313632: ciEnv::dump_replay_data use fclose\n\nThis reverts commit 0f2fce71680355412896b2cb2d96cc85f69324e7."},"files":[{"filename":"src\/hotspot\/share\/ci\/ciEnv.cpp"}],"sha":"7ef0064f1e050db8fc6c6e7d8e879bf6db7a9e8b"}]
