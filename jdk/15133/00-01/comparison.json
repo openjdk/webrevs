@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3220,0 +3220,1 @@\n+  bool is_LP64 = LP64_ONLY(true) NOT_LP64(false);\n@@ -3248,0 +3249,3 @@\n+    if (UseAVX < 3 || !is_LP64)  {\n+      return false;\n+    }\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
