@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    static final String NEW_TESTER = \n+    static final String NEW_TESTER =\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/RedefineClasses\/RedefineLeakThrowable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
