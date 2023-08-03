@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n- * @run main\/othervm jdk.jfr.jvm.TestChunkIntegrity\n+ * @run main\/othervm\/timeout=300 jdk.jfr.jvm.TestChunkIntegrity\n","filename":"test\/jdk\/jdk\/jfr\/jvm\/TestChunkIntegrity.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
