@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert items_count change to int.  Add check for items_count overflow in SymbolTable."},"files":[{"filename":"src\/hotspot\/share\/classfile\/stringTable.cpp"},{"filename":"src\/hotspot\/share\/classfile\/symbolTable.cpp"}],"sha":"a092d4279b3c4936b14593346bb8c316dddf4bcf"}]
