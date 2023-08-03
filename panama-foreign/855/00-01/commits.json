@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix segment allocator test"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/NativeMemorySegmentImpl.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegmentAllocators.java"}],"sha":"4d2b63d59cfd84829e2450a8740c500be93288a0"}]
