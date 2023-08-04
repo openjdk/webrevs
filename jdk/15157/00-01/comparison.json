@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-        \/\/ note that the unrestricted Damerau-Levenshtein distance would be 3, not 2:\n+        \/\/ note that the restricted Damerau-Levenshtein distance would be 3, not 2:\n","filename":"test\/langtools\/tools\/javac\/util\/StringUtilsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
