@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,0 +107,2 @@\n+    assert(is_final() == is_final, \"Must be\");\n+    assert(is_volatile() == is_volatile, \"Must be\");\n","filename":"src\/hotspot\/share\/oops\/resolvedFieldEntry.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
