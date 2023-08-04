@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1148,1 +1148,1 @@\n-  load_heap_oop(obj, field, temp_reg, rscratch2);\n+  load_heap_oop(obj, field, inline_klass, rscratch2);\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
