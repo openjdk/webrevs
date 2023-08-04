@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4302,1 +4302,1 @@\n-  fsgnj_d(dst, src, src);\n+  fmv_d(dst, src);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
