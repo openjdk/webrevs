@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 36f3bae556783e7a9ab27b2a2f8dbb0d38be3583"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"},{"filename":"src\/hotspot\/share\/classfile\/symbolTable.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/exceptionMsgs\/LongExceptionMessageTest.java"}],"sha":"42799827d66c1c62519348e70c0ed9cf08dbf3e1"}]
