@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert resourceHash.hpp and use functor instead of C++ lambda."},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp"},{"filename":"src\/hotspot\/share\/utilities\/resourceHash.hpp"}],"sha":"a0bf39dd5020206310317a0d9912bd8246dd9569"}]
