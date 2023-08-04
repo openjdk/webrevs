@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,3 @@\n+compiler\/gcbarriers\/TestZGCBarrierElision.java 8313737 generic-all\n+compiler\/valhalla\/inlinetypes\/TestArrays.java 8313667 generic-all\n+\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
