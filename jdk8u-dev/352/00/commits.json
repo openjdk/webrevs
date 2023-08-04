@@ -1,0 +1,1 @@
+[{"commit":{"message":"8206179: com\/sun\/management\/OperatingSystemMXBean\/GetCommittedVirtualMemorySize.java fails with Committed virtual memory size illegal value\n\nReviewed-by: sspitsyn, cjplummer"},"files":[{"filename":"jdk\/test\/com\/sun\/management\/OperatingSystemMXBean\/GetCommittedVirtualMemorySize.java"}],"sha":"9c5f924b72c4793647de7485c1e73b86e96e4a06"}]
