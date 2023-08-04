@@ -1,0 +1,1 @@
+[{"commit":{"message":"add missing NMFLAGS to nm calls on other target OS too, improve comment"},"files":[{"filename":"make\/autoconf\/flags-other.m4"},{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"},{"filename":"make\/hotspot\/lib\/JvmMapfile.gmk"}],"sha":"1addaede91e0e6e1e4143358857b37128ad7e9c0"}]
