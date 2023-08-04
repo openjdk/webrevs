@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8313244: NM flags handling in configure process"},"files":[{"filename":"make\/autoconf\/flags-other.m4"},{"filename":"make\/autoconf\/flags.m4"},{"filename":"make\/autoconf\/spec.gmk.in"},{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"},{"filename":"make\/hotspot\/lib\/JvmMapfile.gmk"}],"sha":"acc1b79f88834e78a0001322c1c35e96c74695d6"}]
