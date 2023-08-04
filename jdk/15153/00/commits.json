@@ -1,0 +1,1 @@
+[{"commit":{"message":"8313752: InstanceKlassFlags::print_on doesn't print the flag names"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlassFlags.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/PrintClasses.java"}],"sha":"beae18c2e01f2d5603613cba8e90cb237cfa216a"}]
