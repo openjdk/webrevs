@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3963,1 +3963,1 @@\n-    __ li(rtmp2, t);\n+    __ mv(rtmp2, t);\n@@ -4156,1 +4156,1 @@\n-    __ li(rmask32, MASK_32);\n+    __ mv(rmask32, MASK_32);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
