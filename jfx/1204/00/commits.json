@@ -1,0 +1,1 @@
+[{"commit":{"message":"8313900: Possible NULL pointer access in NativeAudioSpectrum and NativeVideoBuffer"},"files":[{"filename":"modules\/javafx.media\/src\/main\/native\/jfxmedia\/jni\/NativeAudioSpectrum.cpp"},{"filename":"modules\/javafx.media\/src\/main\/native\/jfxmedia\/jni\/NativeVideoBuffer.cpp"}],"sha":"96b054fc38af4dd4f959d13dc3b11187aa13f3ac"}]
