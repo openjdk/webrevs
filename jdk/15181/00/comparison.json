@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -542,1 +542,1 @@\n-            case null, default -> throw newIllegalArgumentException(name, \"short\");\n+            case null, default -> throw newIllegalArgumentException(name, \"int\");\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/consumer\/RecordedObject.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
