@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -310,1 +310,1 @@\n-  return (Method*) SafeFetchN((intptr_t*) m_addr, nullptr);\n+  return (Method*) SafeFetchN((intptr_t*) m_addr, 0);\n","filename":"src\/hotspot\/share\/runtime\/frame.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
