@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,0 +161,1 @@\n+            \/\/ Needed so we can properly parse the \"Welcome to JShell\" output.\n","filename":"test\/jdk\/sun\/tools\/jhsdb\/JShellHeapDumpTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
