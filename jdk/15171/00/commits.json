@@ -1,0 +1,1 @@
+[{"commit":{"message":"8313816: Accessing jmethodID might lead to spurious crashes"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"}],"sha":"3009be7962bad351a8e8c8d4c832e5a938c592b2"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2831,0 +2831,4 @@\n+    size_t count = (size_t)jmeths[0];\n+    for (size_t i = 1; i <= count; i++) {\n+      *((Method**)jmeths[i]) = nullptr;\n+    }\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
