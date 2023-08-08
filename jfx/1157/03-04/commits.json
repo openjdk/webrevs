@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix character index calculation issue when Text node content is wrapped"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/text\/PrismTextLayout.java"},{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/TextCharacterIndexTest.java"}],"sha":"1a5e23fc3ac2e8c3652f49b405da333c95c4d65e"}]
