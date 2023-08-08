@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'openjdk-jdk\/master' into JDK-8313421"},"files":[],"sha":"86b6489aef537cf8022815c06d17cda12ca56779"},{"commit":{"message":"avoid locking class loader in CompilerToVM.lookupType (JDK-8313421)"},"files":[],"sha":"c32899db97658a9483a7fa9bf61fe8815792ba9c"}]
