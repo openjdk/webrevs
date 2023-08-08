@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,1 @@\n+ *      -Xlog:gc*:gc.log::filecount=0\n@@ -41,1 +42,0 @@\n-\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/gc\/containers\/Combination05\/TestDescription.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
