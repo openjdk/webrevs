@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Remove unnecessary static fields defaultUpper\/defaultLower in sun.net.PortConfig\n\nFields can be converted to local variables in <clinit>"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/net\/PortConfig.java"}],"sha":"954b6f750262500b27a23a4fde38a7438c5333fd"}]
