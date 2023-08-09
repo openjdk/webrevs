@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1130,1 +1130,1 @@\n-    dflags = RTLD_LAZY | RTLD_MEMBER;\n+    dflags |= RTLD_MEMBER;\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
