@@ -1,0 +1,1 @@
+[{"commit":{"message":"use Platform.sharedLibraryPrefix in more tests"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/signal\/SigTestDriver.java"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/NativeLibraryCopier.java"},{"filename":"test\/jdk\/com\/sun\/tools\/attach\/warnings\/DynamicLoadWarningTest.java"}],"sha":"e708bb6857fed7f66a8144627875fd73a65d3a71"}]
