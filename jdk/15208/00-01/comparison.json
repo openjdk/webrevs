@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1338,2 +1338,1 @@\n-  return (((uintptr_t)k0 < (uintptr_t)k1) ? -1\n-       : ((uintptr_t)k0 == (uintptr_t)k1) ? 0 : 1);\n+  return ((k0 < k1) ? -1 : (k0 == k1) ? 0 : 1);\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
