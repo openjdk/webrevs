@@ -1,0 +1,1 @@
+[{"commit":{"message":"handle exception in TranslatedException.<clinit> (JDK-8313899)"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/vm\/TranslatedException.java"}],"sha":"529258a8f16da4db84c3b61c33c9f2653db3bc1b"}]
