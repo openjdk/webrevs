@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,1 @@\n+  VirtualMemorySummary::record_reserved_memory(os::vm_page_size(), region1.flag());\n@@ -40,0 +41,1 @@\n+  VirtualMemorySummary::record_reserved_memory(os::vm_page_size(), region2.flag());\n","filename":"test\/hotspot\/gtest\/nmt\/test_nmt_reserved_region.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
