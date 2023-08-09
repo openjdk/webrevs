@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge master"},"files":[],"sha":"0e2813dc9ce1bc84c2f6034191163b996052f8f6"},{"commit":{"message":"8313815: The exception messages printed by jcmd ManagementAgent.start are corrupted on Japanese Windows"},"files":[{"filename":"src\/jdk.attach\/share\/classes\/sun\/tools\/attach\/HotSpotVirtualMachine.java"}],"sha":"4a249da2b47c51580bb3d9ee5ea5a3c94db429ac"}]
