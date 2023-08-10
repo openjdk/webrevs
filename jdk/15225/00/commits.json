@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314106: C2: assert(is_valid()) failed: must be valid after JDK-8305636"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/TestLoopUnswitchingWithoutParsePredicates.java"}],"sha":"77e5921956722ccaf18c3ee2d35ecebabb093f0a"}]
