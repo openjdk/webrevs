@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2887,1 +2887,3 @@\n-  if (!InterceptOSException) {\n+  if (InterceptOSException) {\n+    goto exit;\n+  } else {\n@@ -2903,0 +2905,1 @@\n+exit:\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
