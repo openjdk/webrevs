@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,0 @@\n-                running.set(false);\n@@ -83,1 +82,0 @@\n-                running.set(false);\n","filename":"test\/jdk\/java\/nio\/file\/Files\/CopyInterference.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
