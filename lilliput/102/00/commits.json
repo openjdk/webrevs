@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314130: [Lilliput] Make loadNKlassCompactHeaders not use a TEMP register"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"}],"sha":"6850143bdb162aa630249f2a1be1dd769af8a6f0"}]
