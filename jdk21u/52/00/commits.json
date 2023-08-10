@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport fbe51e388d8a7475f162f10aa788a6d37ec4c6d8"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/FileDescriptor.java"},{"filename":"src\/java.base\/unix\/native\/libjava\/FileDescriptor_md.c"},{"filename":"src\/java.base\/windows\/native\/libjava\/FileDescriptor_md.c"}],"sha":"9e4ea47a6e2f51769a873ab35ec3975ff3ab0032"}]
