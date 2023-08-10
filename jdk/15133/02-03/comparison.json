@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3220,1 +3220,0 @@\n-  bool is_LP64 = LP64_ONLY(true) NOT_LP64(false);\n@@ -3233,0 +3232,1 @@\n+\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
