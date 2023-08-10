@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -834,1 +834,0 @@\n-  return true;\n@@ -836,0 +835,1 @@\n+  return true;\n","filename":"src\/hotspot\/share\/classfile\/classLoader.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
