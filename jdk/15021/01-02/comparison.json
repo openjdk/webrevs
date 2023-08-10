@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,2 +219,2 @@\n-  const Type *t1 = phase->type(in(1));\n-  const Type *t2 = phase->type(in(2));\n+  const Type* t1 = phase->type(in(1));\n+  const Type* t2 = phase->type(in(2));\n","filename":"src\/hotspot\/share\/opto\/addnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
