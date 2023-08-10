@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n- * @bug 4313887 6838333\n+ * @bug 4313887 6838333 8062795\n","filename":"test\/jdk\/java\/nio\/file\/attribute\/PosixFileAttributeView\/Basic.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
