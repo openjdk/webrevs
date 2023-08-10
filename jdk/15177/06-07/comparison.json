@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -238,1 +238,1 @@\n-    ((in_bytes(ObjectMonitor::f ## _offset())) - (int)markWord::monitor_value)\n+    ((in_bytes(ObjectMonitor::f ## _offset())) - checked_cast<int>(markWord::monitor_value))\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
