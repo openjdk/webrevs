@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,1 +160,1 @@\n-  product(bool, LibJVMCICompilerThreadHidden, true, DIAGNOSTIC,             \\\n+  product(bool, LibJVMCICompilerThreadHidden, true, EXPERIMENTAL,           \\\n","filename":"src\/hotspot\/share\/jvmci\/jvmci_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
