@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,1 +178,1 @@\n-        return n < 0 ? -1 : n == 0 ? 0 : 1;\n+        return Integer.compare(n, 0);\n","filename":"test\/jdk\/java\/awt\/dnd\/NextDropActionTest\/NextDropActionTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
