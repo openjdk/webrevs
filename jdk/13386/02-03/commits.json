@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added extra second to VM abort delay in unit test to acommodate slower test environments where JVM might take longer to bootstrap"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/Safepoint\/TestAbortVMOnSafepointTimeout.java"}],"sha":"5e28c6f25c20196f1acbe904ec34408c03a2f2e0"}]
