@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314116: C2: assert(false) failed: malformed control flow after JDK-8305636"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/TestTemplateAssertionPredicateNotRemoved.java"}],"sha":"f5037015594962e87c12e80939bb0f3f35a178ef"}]
