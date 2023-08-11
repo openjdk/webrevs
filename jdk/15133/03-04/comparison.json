@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -689,1 +689,1 @@\n-  static bool supports_fma()          { return (_features & CPU_FMA) != 0; }\n+  static bool supports_fma()          { return (_features & CPU_FMA) != 0 && supports_avx(); }\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
