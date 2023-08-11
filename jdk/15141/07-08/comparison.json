@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,0 @@\n-        dir.toFile().deleteOnExit();\n","filename":"test\/jdk\/java\/nio\/file\/Files\/CopyInterference.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
