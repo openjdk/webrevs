@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,0 @@\n-import java.lang.foreign.ValueLayout;\n@@ -37,2 +36,0 @@\n-import java.util.function.Function;\n-\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/MemorySessionImpl.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
