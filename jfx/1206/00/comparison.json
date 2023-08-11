@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2362,0 +2362,1 @@\n+    default: return NULL;\n","filename":"modules\/javafx.graphics\/src\/main\/native-font\/directwrite.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
