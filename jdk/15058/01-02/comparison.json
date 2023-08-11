@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-  PreserveObj(Thread* thread, oop* obj_ptr)\n+  PreserveObj(JavaThread* thread, oop* obj_ptr)\n","filename":"src\/hotspot\/share\/gc\/shared\/memAllocator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
