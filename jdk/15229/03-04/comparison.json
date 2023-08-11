@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -497,1 +497,1 @@\n-    quota_count = (int)ceilf((float)quota \/ (float)period);\n+    quota_count = ceilf((float)quota \/ (float)period);\n","filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
