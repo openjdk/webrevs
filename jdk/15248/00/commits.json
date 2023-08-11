@@ -1,0 +1,1 @@
+[{"commit":{"message":"8313419: Template interpreter produces no safepoint check for return bytecodes"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/arm\/templateTable_arm.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/templateTable_riscv.cpp"}],"sha":"db2b012561080fb7b0d05ba74686a1962e34a1ff"}]
