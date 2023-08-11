@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,1 @@\n+#include \"runtime\/crac.hpp\"\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
