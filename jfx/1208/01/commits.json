@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'upstream\/master' into winarmbuild"},"files":[{"filename":"build.gradle"}],"sha":"9be259968f500ac4d34c65f8e8faba69bcd1d8d0"},{"commit":{"message":"Can now build for ARM64 on Windows ARM machine"},"files":[{"filename":"build.gradle"}],"sha":"16a2be74d13ba274971838e9dabe246c06edf4f5"}]
