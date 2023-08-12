@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314181: [lw5] the check for illegal circularity should only be done if value classes are available"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"}],"sha":"bf3221f51ed1f1a4657f18f8851ef19d8fd8b046"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3181,1 +3181,1 @@\n-        if (!csym.type.hasImplicitConstructor()) {\n+        if (!allowValueClasses || !csym.type.hasImplicitConstructor()) {\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
