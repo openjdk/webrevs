@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n- *  of 0 can be read.\n+ * of 0 can be read.\n@@ -637,1 +637,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/jdk\/java\/util\/zip\/ZipFile\/ReadNonStandardExtraHeadersTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
