@@ -1,0 +1,1 @@
+[{"commit":{"message":"83141345: fix overflow in Collections.rotate"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Collections.java"},{"filename":"test\/jdk\/java\/util\/Collections\/RotateHuge.java"}],"sha":"e7f9fd84ecc91323a4d4ca847d92a8b7fe65e860"}]
