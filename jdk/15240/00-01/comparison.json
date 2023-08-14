@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -500,1 +500,1 @@\n-  \/\/ We musn't block here as that could lead to deadlocks if we already hold an\n+  \/\/ We must not block here as that could lead to deadlocks if we already hold an\n","filename":"src\/hotspot\/share\/runtime\/handshake.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
