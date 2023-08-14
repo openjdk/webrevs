@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid second strlen(ebuf) with variable."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"b31e3a82ea2cee4baabb8954d695906bf78fdab7"}]
