@@ -1,0 +1,1 @@
+[{"commit":{"message":"Comment out TAB_ITEM until the TAB_GROUP is properly implemented in the new API\nMake isAccessibilityFocused to always return a proper value"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/a11y\/AccessibleBase.m"}],"sha":"8a6ad667751eb921536eb06d370096356f852b83"}]
