@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove an unused nonlibc_str_equals declaration.\n - found by Anton Kozlov"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"}],"sha":"fe9af53e33265ddb8a2010065342e41a373c8251"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -630,1 +630,0 @@\n-  static bool nonlibc_str_equals(const char *a, const char *b);\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
