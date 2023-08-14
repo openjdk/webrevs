@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1044,0 +1044,1 @@\n+            CheckableRepository.appendAndCommit(localRepo, \"update master branch\");\n","filename":"bots\/notify\/src\/test\/java\/org\/openjdk\/skara\/bots\/notify\/mailinglist\/MailingListNotifierTests.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
