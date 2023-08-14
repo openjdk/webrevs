@@ -1,0 +1,1 @@
+[{"commit":{"message":"8042726: [TESTBUG] TEST.groups file was not updated after runtime\/6925573\/SortMethodsTest.java removal\n\nRemoved runtime\/6925573\/SortMethodsTest.java from TEST.groups\n\nReviewed-by: gtriantafill, lfoltan, coleenp, dholmes"},"files":[{"filename":"hotspot\/test\/TEST.groups"}],"sha":"4eaea91b656885dd644105b81dfe19ad91d7a06e"}]
