@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix failing test\n\nThe test assertion relied on the buggy behaviour.\nFix the desired ref count."},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/DynamicSharedSymbols.java"}],"sha":"35f053995b6267ac502a723ff2dafbda30dec0a4"}]

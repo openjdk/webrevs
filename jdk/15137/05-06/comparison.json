@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-        output.shouldContain(\"17 3: jdk\/test\/lib\/apps\\n\");\n+        output.shouldContain(\"17 2: jdk\/test\/lib\/apps\\n\");\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/DynamicSharedSymbols.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
