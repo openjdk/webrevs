@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,5 @@\n+    public ModelVM() {\n+        \/\/ Initialize early to capture any errors here.\n+        VM.current();\n+    }\n+\n","filename":"jol-core\/src\/main\/java\/org\/openjdk\/jol\/datamodel\/ModelVM.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
