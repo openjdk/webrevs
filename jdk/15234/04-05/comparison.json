@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+import java.lang.module.ModuleFinder;\n","filename":"test\/jdk\/tools\/jlink\/dedup\/src\/m4\/p4\/Main.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
