@@ -1,0 +1,1 @@
+[{"commit":{"message":"use X86_ONLY(LP64_ONLY(x)) instead of LP64_ONLY"},"files":[{"filename":"hotspot\/src\/share\/vm\/opto\/matcher.cpp"}],"sha":"575aa53469180ce487364bd12a6423e91c6a0fe2"}]

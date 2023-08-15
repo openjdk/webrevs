@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2205,1 +2205,1 @@\n-                LP64_ONLY( off->get_long() == (int) (off->get_long()) && ) \/\/ immL32\n+                X86_ONLY(LP64_ONLY( off->get_long() == (int) (off->get_long()) && )) \/\/ immL32\n","filename":"hotspot\/src\/share\/vm\/opto\/matcher.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
