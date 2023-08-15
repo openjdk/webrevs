@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow heap segments of Long and Double to use chunked len calc"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/StringSupport.java"}],"sha":"d4774b6d44c92084a0dac59dac987ce903838538"}]
