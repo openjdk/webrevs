@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,0 +116,1 @@\n+            verboseOut.flush();\n@@ -121,0 +122,1 @@\n+                verboseOut.flush();\n","filename":"jol-core\/src\/main\/java\/org\/openjdk\/jol\/heap\/HeapDumpReader.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
