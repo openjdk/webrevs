@@ -1,0 +1,1 @@
+[{"commit":{"message":"8062795: Open the path with write access instead of checking for links"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixFileAttributeViews.java"},{"filename":"test\/jdk\/java\/nio\/file\/attribute\/PosixFileAttributeView\/Basic.java"}],"sha":"2e044467f4602b9e0c3f39516485cd48b85d9954"}]
