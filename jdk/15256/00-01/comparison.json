@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -967,2 +967,2 @@\n-    \/\/ LE bits  0  8  16 24 32 40 48 56\n-    \/\/ BE bits  56 48 40 32 24 16  8  0\n+    \/\/ LE bits:  0  8 16 24 32 40 48 56\n+    \/\/ BE bits: 56 48 40 32 24 16  8  0\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
