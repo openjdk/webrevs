@@ -1,0 +1,1 @@
+[{"commit":{"message":"ensure clients close to avoid intermittent failure from outstanding operations"},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/ResponsePublisher.java"}],"sha":"91b3a0093380368f8baeef60ad6d058af600e272"}]
