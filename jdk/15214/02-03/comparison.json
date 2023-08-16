@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -285,0 +285,1 @@\n+                    \/\/ retry with write access if there is no read permission\n","filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixFileAttributeViews.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
