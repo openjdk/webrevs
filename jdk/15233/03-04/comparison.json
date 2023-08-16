@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -486,1 +486,1 @@\n-    uint64_t _section_start_address;\n+    uintptr_t _section_start_address;\n","filename":"src\/hotspot\/share\/utilities\/elfFile.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
