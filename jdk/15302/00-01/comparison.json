@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,0 @@\n-import jdk.test.lib.Utils;\n@@ -31,1 +30,0 @@\n-import java.nio.file.Paths;\n","filename":"test\/jdk\/java\/foreign\/UpcallTestHelper.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
