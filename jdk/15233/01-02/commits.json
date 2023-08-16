@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert to use static_cast."},"files":[{"filename":"src\/hotspot\/share\/utilities\/elfFile.cpp"},{"filename":"src\/hotspot\/share\/utilities\/elfFile.hpp"}],"sha":"4ac4bf47c610ac8964f2a6d3b8ccce92a54db99e"}]
