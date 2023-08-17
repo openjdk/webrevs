@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,0 +2,9 @@\n+*.java\tdiff=java\n+*.c\tdiff=cpp\n+*.h\tdiff=cpp\n+*.cpp\tdiff=cpp\n+*.hpp\tdiff=cpp\n+*.md\tdiff=markdown\n+*.sh\tdiff=bash\n+*.html\tdiff=html\n+*.css\tdiff=css\n","filename":".gitattributes","additions":9,"deletions":0,"binary":false,"changes":9,"status":"modified"}]}
