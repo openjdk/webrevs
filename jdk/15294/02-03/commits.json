@@ -1,0 +1,1 @@
+[{"commit":{"message":"refactor the code and remove pre-created keystore"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/Connection.java"},{"filename":"test\/jdk\/com\/sun\/jndi\/ldap\/LdapSSLHandshakeFailureTest.java"},{"filename":"test\/jdk\/com\/sun\/jndi\/ldap\/ksWithSAN"}],"sha":"e4898a541f0b85c5c9ed32dc9207e6b6c3a1175b"}]
