@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -739,1 +739,1 @@\n-        \/\/ No address of preferred address family found, grab the fist one.\n+        \/\/ No address of preferred address family found, grab the first one.\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libdt_socket\/socketTransport.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
