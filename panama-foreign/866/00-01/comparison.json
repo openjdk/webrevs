@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -340,1 +340,1 @@\n-    static final long LARGE_SIZE = 3L * 1024L * 1024L * 1024L; \/\/ 3GB\n+    static final long LARGE_SIZE = (2L * 1024L + 512L) * 1024L * 1024L; \/\/ 2.5 GiB\n","filename":"test\/jdk\/java\/foreign\/TestByteBuffer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
