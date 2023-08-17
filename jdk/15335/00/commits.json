@@ -1,0 +1,1 @@
+[{"commit":{"message":"8312555: Hieroglyphs aren't stretched by AffineTransform.scale(2, 1)"},"files":[{"filename":"src\/java.desktop\/share\/native\/libfontmanager\/freetypeScaler.c"},{"filename":"test\/jdk\/java\/awt\/font\/FontScaling\/StretchedFontTest.java"}],"sha":"e0dc330779cddf9b2b720410ec07272a66b72389"}]
