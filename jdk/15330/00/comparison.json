@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -743,5 +743,0 @@\n-    if (listenAddr == NULL) {\n-        dbgsysFreeAddrInfo(addrInfo);\n-        RETURN_ERROR(JDWPTRANSPORT_ERROR_INTERNAL, \"listen failed: wrong address\");\n-    }\n-\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libdt_socket\/socketTransport.c","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
