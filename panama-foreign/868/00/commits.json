@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert SegmentAllocator API changes"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/SegmentAllocator.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegmentAllocators.java"}],"sha":"857006d284dfab4b4a095f2d5a9ae4dde3dd814e"}]
