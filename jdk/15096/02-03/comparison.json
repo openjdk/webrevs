@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,1 @@\n+\/\/ Moved here as we don't want to pull in the redefined allocation functions\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_DnDDS.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
