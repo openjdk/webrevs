@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,1 @@\n- * <i>semi-monotonic<\/i>: whenever the mathematical function is\n+ * <dfn>{@index \"semi-monotonic\"}<\/dfn>: whenever the mathematical function is\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Math.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
