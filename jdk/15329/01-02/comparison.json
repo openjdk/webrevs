@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-            if (!oa.getStdout().contains(\"Out of space in CodeCache for adapters\")) {\n+            if (!oa.getStderr().contains(\"Out of space in CodeCache for adapters\")) {\n","filename":"test\/hotspot\/jtreg\/compiler\/codecache\/CodeCacheFullCountTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
