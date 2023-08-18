@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4261,0 +4261,2 @@\n+    options.addStringOption(\"Xmaxwarns\").setValue(\"1000\")\n+    options.addStringOption(\"Xmaxerrs\").setValue(\"1000\")\n","filename":"build.gradle","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
