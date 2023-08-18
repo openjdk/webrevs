@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -184,1 +184,1 @@\n-\t\tsuper.dispatchEvent(e);\n+        super.dispatchEvent(e);\n","filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XInputMethod.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
