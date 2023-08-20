@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -511,0 +511,1 @@\n+        Thread.interrupted();\n","filename":"test\/jdk\/java\/util\/concurrent\/tck\/ForkJoinPool19Test.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
