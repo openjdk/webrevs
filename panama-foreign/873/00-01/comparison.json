@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -483,1 +483,1 @@\n-     * VarHandle targetHandle = target.varHandle(P);\n+     * VarHandle targetHandle = target.varHandle(P');\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemoryLayout.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
