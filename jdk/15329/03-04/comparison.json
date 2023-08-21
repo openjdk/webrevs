@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,1 @@\n+            oa.reportDiagnosticSummary();\n","filename":"test\/hotspot\/jtreg\/compiler\/codecache\/CodeCacheFullCountTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
