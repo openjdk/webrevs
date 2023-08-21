@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314618: RISC-V: -XX:MaxVectorSize does not work as expected"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"d9093a44ccd7259de5b394ed60280abaabda9b6f"}]
