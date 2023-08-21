@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-            debian-repository: https:\/\/deb.debian.org\/debian-ports\n+            debian-repository: https:\/\/httpredir.debian.org\/debian\/\n","filename":".github\/workflows\/build-cross-compile.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
