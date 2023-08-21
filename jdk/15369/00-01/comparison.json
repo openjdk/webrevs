@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,0 @@\n-    Oop oop = heap.newOop(obj);\n@@ -74,0 +73,1 @@\n+      Oop oop = heap.newOop(obj);\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/ui\/MonitorCacheDumpPanel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
