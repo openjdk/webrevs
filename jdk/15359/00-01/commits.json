@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make yield_if_necessary() always set the yielded parameter instead of relying on external initialization"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentRebuildAndScrub.cpp"}],"sha":"6bcbed6fb8bf7553034caabd885596e95f0455ca"}]
