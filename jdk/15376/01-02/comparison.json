@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,1 @@\n+#ifdef COMPILER1\n@@ -26,0 +27,1 @@\n+#endif\n@@ -46,0 +48,1 @@\n+#ifdef COMPILER2\n@@ -47,0 +50,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVMInit.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
