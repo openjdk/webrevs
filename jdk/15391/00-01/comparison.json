@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,1 @@\n-            \/\/ symblic link, not followed\n+            \/\/ symbolic link, not followed\n","filename":"test\/jdk\/java\/nio\/file\/Files\/CopyInterference.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
