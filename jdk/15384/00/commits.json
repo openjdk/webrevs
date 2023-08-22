@@ -1,0 +1,1 @@
+[{"commit":{"message":"8313530: VM build without C2 fails after JDK-8312579"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compiler_globals.hpp"},{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"}],"sha":"d82e89c469e91f78f9c2e5b28c725b0e1ba0fb8c"}]
