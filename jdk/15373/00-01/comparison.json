@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,1 +200,1 @@\n-  Atomic::release_store(&_destroyed, 1);\n+  _destroyed = 1;\n@@ -276,1 +276,1 @@\n-  return Atomic::load_acquire(&_destroyed) != 0;\n+  return _destroyed != 0;\n@@ -278,1 +278,0 @@\n-\n","filename":"src\/hotspot\/share\/runtime\/perfMemory.cpp","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}

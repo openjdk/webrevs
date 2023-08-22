@@ -1,0 +1,1 @@
+[{"commit":{"message":"release_store() and load_acquire() not needed for _destroyed"},"files":[{"filename":"src\/hotspot\/share\/runtime\/perfMemory.cpp"}],"sha":"8f6258441ad042e931b2f4be246ccc6ca69908b8"}]
