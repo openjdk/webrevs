@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -213,2 +213,0 @@\n-    private static final Annotation[] EMPTY_ANNOTATION_ARRAY = new Annotation[0];\n-\n","filename":"src\/java.base\/share\/classes\/sun\/reflect\/generics\/reflectiveObjects\/TypeVariableImpl.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
