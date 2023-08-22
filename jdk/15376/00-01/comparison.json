@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,1 +263,1 @@\n-                                    is_c2_supported(vmIntrinsics::id), JVMCI_CHECK_NULL);  \\\n+                                    is_c2_supported(vmIntrinsics::id), JVMCI_CHECK_NULL);    \\\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVMInit.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
