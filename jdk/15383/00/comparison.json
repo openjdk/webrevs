@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,0 @@\n-  void _Copy_conjoint_oops_atomic   (const oop*    from, oop*    to, size_t count);\n","filename":"src\/hotspot\/share\/utilities\/copy.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
