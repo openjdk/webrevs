@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reapply JDK-8284772: GHA: Use GCC Major Version Dependencies Only"},"files":[{"filename":".github\/workflows\/build-cross-compile.yml"},{"filename":".github\/workflows\/build-linux.yml"},{"filename":".github\/workflows\/main.yml"}],"sha":"934f48a5cfeb092fcdcc1a17cd1b69b1c5faac2c"}]
