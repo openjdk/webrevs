@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -304,2 +304,1 @@\n-                long runtime_ms = ms2 - ms1;\n-                long maxTrimsExpected = runtime_ms;\n+                int maxTrimsExpected = (int)(ms2 - ms1); \/\/ 1ms trim interval\n","filename":"test\/hotspot\/jtreg\/runtime\/os\/TestTrimNative.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
