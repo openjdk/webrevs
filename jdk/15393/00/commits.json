@@ -1,0 +1,1 @@
+[{"commit":{"message":"CompilerToVM.lookupType must throw NoClassDefFoundError instead of ClassNotFoundException"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"},{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/CompilerToVM.java"}],"sha":"c62ba346670c1aea0ca4c310a3cc9e2cb705221d"}]
