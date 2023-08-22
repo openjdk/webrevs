@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,1 @@\n-            assertTrue(receiver.getOption(SO_RCVBUF) >= capacity, \n+            assertTrue(receiver.getOption(SO_RCVBUF) >= capacity,\n","filename":"test\/jdk\/java\/nio\/channels\/DatagramChannel\/SendReceiveMaxSize.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
