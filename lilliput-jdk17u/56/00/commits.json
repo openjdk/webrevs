@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314894: [Lilliput\/JDK17] Revert changes in zRelocate, prevent ZGC with Lilliput"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"383cf555f2d3efd2ae3dac16f396e8b9a75ee1d0"}]
