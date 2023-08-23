@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,0 +103,1 @@\n+            \/\/ this is not guaranteed, but a failure here would be surprising\n","filename":"test\/jdk\/java\/net\/httpclient\/HttpInputStreamAvailableTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
