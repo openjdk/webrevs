@@ -1,0 +1,1 @@
+[{"commit":{"message":"make the isOpen method to package private"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/BufferedOutputStream.java"},{"filename":"src\/java.base\/share\/classes\/java\/io\/FilterOutputStream.java"},{"filename":"test\/jdk\/java\/io\/BufferedOutputStream\/WriteAfterClose.java"}],"sha":"ffc93a7113fb6c4845660703c45ec842c56fe31e"}]
