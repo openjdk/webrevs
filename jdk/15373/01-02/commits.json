@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert _destroyed back to bool"},"files":[{"filename":"src\/hotspot\/share\/runtime\/perfMemory.cpp"},{"filename":"src\/hotspot\/share\/runtime\/perfMemory.hpp"}],"sha":"c0e1798c70c6253f60eecfd67e48210b0fcf8bc3"}]
