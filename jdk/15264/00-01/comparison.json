@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,0 @@\n-dlopen_ext\n","filename":"make\/data\/hotspot-symbols\/symbols-shared","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"},{"patch":"@@ -210,0 +210,1 @@\n+dlopen_ext\n","filename":"make\/data\/hotspot-symbols\/symbols-unix","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
