@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1592,1 +1592,1 @@\n-    static final Hashtable<String,URLStreamHandler> handlers = new Hashtable<>();\n+    private static final Hashtable<String, URLStreamHandler> handlers = new Hashtable<>();\n","filename":"src\/java.base\/share\/classes\/java\/net\/URL.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
