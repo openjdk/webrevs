@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -346,1 +346,1 @@\n-                throw new RuntimeException(\"Cannot start jstatd.  No free port found.\");\n+                throw new RuntimeException(\"Cannot start jstatd.\");\n","filename":"test\/jdk\/sun\/tools\/jstatd\/JstatdTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
