@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -288,2 +288,1 @@\n-        if (socket instanceof SSLSocket) {\n-            SSLSocket sslSocket = (SSLSocket) socket;\n+        if (socket instanceof SSLSocket sslSocket) {\n","filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/Connection.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
