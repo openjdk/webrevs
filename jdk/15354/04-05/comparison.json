@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,4 @@\n-public class UTF8EncodeUtils {\n+public final class UTF8EncodeUtils {\n+\n+    private UTF8EncodeUtils() {\n+    }\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/UTF8EncodeUtils.java","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
