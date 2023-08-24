@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-uint64_t CompressedKlassPointers::_combo = (uint64_t)-1;\n+uint64_t CompressedKlassPointers::_combo = 0;\n","filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
