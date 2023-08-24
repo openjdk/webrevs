@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -511,1 +511,1 @@\n-      DESC: [enable keeping of packaged modules in jdk image],\n+      DESC: [enable building of the jtreg failure handler],\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
