@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-        List<String> groups = new ArrayList<>();\n+        List<String> groups = List.of();\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/gitlab\/GitLabForgeFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
