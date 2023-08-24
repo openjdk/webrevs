@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,0 +65,1 @@\n+    @ForceInline\n@@ -69,0 +70,1 @@\n+    @ForceInline\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/UTF8EncodeUtils.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
