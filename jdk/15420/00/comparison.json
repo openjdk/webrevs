@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-  ZRootStatTimer timer(ZSubPhaseConcurrentWeakRootsOopStorageSet, _generation);\n+  ZRootStatTimer timer(ZSubPhaseConcurrentRootsOopStorageSet, _generation);\n","filename":"src\/hotspot\/share\/gc\/z\/zRootsIterator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
