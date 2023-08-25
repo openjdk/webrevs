@@ -1,0 +1,1 @@
+[{"commit":{"message":"make AbortVMOnCompilationFailure play nice with JVMCI"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"}],"sha":"8900b1c0eac5d4f3afb4adb08039ffc701d1dd06"}]
