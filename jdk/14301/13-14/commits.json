@@ -1,0 +1,1 @@
+[{"commit":{"message":"Isolate unexpected interrupt status issues"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/ExecutorService\/CloseTest.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/ForkJoinPool19Test.java"}],"sha":"9a329b6cf05526bc15b5c3f9057bb64957eecdad"}]
