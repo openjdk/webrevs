@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8315137: Add explicit override RecordComponentElement.asType()"},"files":[{"filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/element\/Element.java"},{"filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/element\/RecordComponentElement.java"}],"sha":"dc309f5567b55adee0170b38e323988d1578b771"}]
