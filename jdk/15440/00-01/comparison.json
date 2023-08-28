@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1878,1 +1878,1 @@\n-  if (nt->singleton()) {\n+  if (nt->singleton() || ot == nullptr) {\n@@ -1881,3 +1881,0 @@\n-  if (ot == nullptr) {\n-    return ot;\n-  }\n","filename":"src\/hotspot\/share\/opto\/type.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
