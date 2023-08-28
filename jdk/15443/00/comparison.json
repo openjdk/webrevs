@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -179,1 +179,1 @@\n-void os::current_stack_base_and_size(address* base, size_t* size)\n+void os::current_stack_base_and_size(address* base, size_t* size) {\n","filename":"src\/hotspot\/os_cpu\/bsd_zero\/os_bsd_zero.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

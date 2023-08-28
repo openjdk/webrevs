@@ -1,0 +1,1 @@
+[{"commit":{"message":"8315073: Zero build on macOS fails after JDK-8303852\n\nIt might be one copy-and-paste error in JDK-8303852. Adding the missing\nopening brace would fix this build failure."},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_zero\/os_bsd_zero.cpp"}],"sha":"f2a80a5a9512a96bc0369c3093928068c18380f9"}]
