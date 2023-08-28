@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-            return (n == 1) ? \"\/\"  : input.substring(0, n - 1);\n+            return (n == 1) ? \"\/\" : input.substring(0, n - 1);\n","filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixPath.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
