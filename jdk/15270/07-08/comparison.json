@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,0 +75,4 @@\n+    \/*\n+     * This test covers only index computations.\n+     * Correctness of elements rotation is not checked.\n+     *\/\n","filename":"test\/jdk\/java\/util\/Collections\/RotateHuge.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
