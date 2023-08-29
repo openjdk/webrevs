@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,1 +314,0 @@\n-  _igvn.hash_delete(parse_predicate);\n","filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
