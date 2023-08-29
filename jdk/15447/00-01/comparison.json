@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,0 +78,3 @@\n+  \/\/ Please note that access to a metaspace arena may be shared\n+  \/\/ between threads and needs to be synchronized in CLMS.\n+\n","filename":"src\/hotspot\/share\/memory\/metaspace\/metaspaceArena.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
