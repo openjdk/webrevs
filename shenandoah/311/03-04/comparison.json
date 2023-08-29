@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,0 @@\n- *      -XX:ShenandoahMaxYoungPercentage=90\n@@ -58,1 +57,0 @@\n- *      -XX:ShenandoahMaxYoungPercentage=90\n","filename":"test\/hotspot\/jtreg\/gc\/stress\/gclocker\/TestGCLockerWithShenandoah.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
