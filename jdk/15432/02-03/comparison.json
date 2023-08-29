@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,2 +51,1 @@\n-        implements KeyListener, ActionListener\n-{\n+        implements KeyListener, ActionListener {\n","filename":"test\/jdk\/java\/awt\/event\/KeyEvent\/OptionKeyEventTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
