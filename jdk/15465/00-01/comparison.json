@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -231,0 +231,5 @@\n+  \/\/ If we running on a pre-6.5 kernel\n+  ext_Zba.enable_feature();\n+  ext_Zbb.enable_feature();\n+  ext_Zbs.enable_feature();\n+\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
