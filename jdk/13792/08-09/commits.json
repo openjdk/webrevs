@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address base_plus_offset_reg encoding: assert->guarantee for shift() == size check"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"}],"sha":"1687c4bd80e44fc6631205fefcdf64e2ac2c4034"}]
