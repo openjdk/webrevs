@@ -1,0 +1,1 @@
+[{"commit":{"message":"Retry allocations until at least one full gc is complete"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahCollectorPolicy.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"f397fc6d1ff18d5099b35fbeb35607b4029d4908"}]
