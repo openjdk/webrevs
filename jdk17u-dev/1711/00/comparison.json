@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -526,1 +526,1 @@\n-\t      test cases? ran\/ { print $$$$2 }' $$($1_RESULT_FILE))) \\\n+\t      test (cases?|suites?) ran\/ { print $$$$2 }' $$($1_RESULT_FILE))) \\\n","filename":"make\/RunTests.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
