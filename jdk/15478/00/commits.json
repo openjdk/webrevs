@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8315248: AssertionError in Name.compareTo"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/util\/Utf8NameTable.java"},{"filename":"test\/langtools\/tools\/javac\/nametable\/TestNameTables.java"}],"sha":"54f4ea6107809656bce26b67e055ac160575762f"}]
