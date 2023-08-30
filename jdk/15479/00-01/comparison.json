@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1428,1 +1428,1 @@\n-\t  @$(ECHO) $(sort $(ALL_TARGETS)) | $(TR) ' ' '\\n'\n+\t$(info $(subst $(SPACE),$(NEWLINE),$(sort $(ALL_TARGETS))))\n","filename":"make\/Main.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
