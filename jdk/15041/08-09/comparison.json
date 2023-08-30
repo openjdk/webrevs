@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,4 @@\n+\/\/ On AIX, these tests make no sense as long as JDK-8315321 remains unfixed since the attach\n+\/\/ addresses are not predictable.\n+#ifndef AIX\n+\n@@ -342,0 +346,1 @@\n+#endif \/\/ AIX\n","filename":"test\/hotspot\/gtest\/runtime\/test_os_reserve_between.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
