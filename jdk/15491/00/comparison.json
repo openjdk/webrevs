@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -236,0 +236,1 @@\n+  assert(current_thread->is_JfrSampler_thread(), \"invariant\");\n@@ -288,0 +289,1 @@\n+  assert(jt->thread_state() == _thread_in_vm, \"invariant\");\n","filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrStackTrace.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
