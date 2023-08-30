@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-          sudo qemu-debootstrap\n+          sudo debootstrap\n","filename":".github\/workflows\/build-cross-compile.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
