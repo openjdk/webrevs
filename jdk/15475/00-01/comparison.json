@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -538,1 +538,1 @@\n-        boolean isSupported = true;\n+        boolean isSupported = false;\n","filename":"test\/jtreg-ext\/requires\/VMProps.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
