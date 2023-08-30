@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1982,1 +1982,1 @@\n-  product(int, LockingMode, LM_LEGACY, EXPERIMENTAL,                        \\\n+  product(int, LockingMode, LM_LEGACY,                                      \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
