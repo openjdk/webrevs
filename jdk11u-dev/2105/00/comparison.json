@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,1 +131,3 @@\n-          rm -rf sysroot\/{dev,proc,run,sys}\n+          rm -rf sysroot\/{dev,proc,run,sys,var}\n+          rm -rf sysroot\/usr\/{sbin,bin,share}\n+          rm -rf sysroot\/usr\/lib\/{apt,udev,systemd}\n","filename":".github\/workflows\/build-cross-compile.yml","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
