@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -506,0 +506,1 @@\n+    \/\/ Not an IfNode merging a diamond or TOP.\n@@ -1389,1 +1390,1 @@\n-  assert(is_diamond_phi(), \"sanity\");\n+  assert(is_diamond_phi() > 0, \"sanity\");\n","filename":"src\/hotspot\/share\/opto\/cfgnode.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
