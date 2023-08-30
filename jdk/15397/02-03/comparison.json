@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,2 +237,0 @@\n-        for (String s : DIR.toFile().list())\n-            System.out.println(\"DIR: \" + s);\n","filename":"test\/jdk\/java\/nio\/file\/Path\/ToRealPath.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
