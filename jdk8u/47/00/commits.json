@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport e03c2a270b291e7b1edcf4df491d6d386a882a87"},"files":[{"filename":"jdk\/src\/share\/native\/sun\/security\/jgss\/wrapper\/NativeFunc.h"},{"filename":"jdk\/src\/share\/native\/sun\/security\/jgss\/wrapper\/gssapi.h"},{"filename":"jdk\/src\/windows\/native\/sun\/security\/jgss\/sspi_bridge\/sspi.cpp"}],"sha":"49f7bcfcc51646037e98609b6dc5ff7082e28e57"}]
