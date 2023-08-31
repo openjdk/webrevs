@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8314834: serviceability\/jdwp\/AllModulesCommandTest.java ignores VM flags\"\n\nThis reverts commit 8e4cda063c96f285d4659dbf5bc8bd064393ee93."},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jdwp\/DebuggeeLauncher.java"}],"sha":"909a7b293920339dae024adbd0094b3d6e334ea6"}]
