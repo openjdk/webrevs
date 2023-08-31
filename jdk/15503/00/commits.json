@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8315422: getSoTimeout() would be in try block in SSLSocketImpl"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketImpl.java"}],"sha":"605b2b9ab2ad05f251ab22d4e37140c380e03ed3"}]
