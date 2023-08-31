@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2202,1 +2202,1 @@\n-  st->print(\" total reserved \" SIZE_FORMAT \"K, committed \" SIZE_FORMAT \"K, used \" SIZE_FORMAT \"K\",\n+  st->print(\" total reserved %zuK, committed %zuK, used %zuK\",\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
