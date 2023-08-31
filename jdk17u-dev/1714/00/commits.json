@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport ed1ea5fe7c6fad03ca96e7dece2127eab21a608a"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestNodeSunkFromPreLoop.java"}],"sha":"6ee0aee995fa7677531139391c5a29e5e6eb8689"}]
