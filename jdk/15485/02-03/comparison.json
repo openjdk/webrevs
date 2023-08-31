@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,1 @@\n+ * @requires vm.compMode != \"Xint\"\n","filename":"test\/hotspot\/jtreg\/compiler\/codecache\/CodeCacheFullCountTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
