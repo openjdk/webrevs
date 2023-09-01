@@ -1,0 +1,1 @@
+[{"commit":{"message":"8315534: Incorrect warnings about implicit annotation processing"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/main\/JavaCompiler.java"},{"filename":"test\/langtools\/tools\/javac\/processing\/options\/TestNoteOnImplicitProcessing.java"}],"sha":"685b1e469071dc7028ea8c90d6b7dd187579d488"}]
