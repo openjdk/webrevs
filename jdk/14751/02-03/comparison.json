@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-        return ch >= 'a' && (ch <= 'z' || ch == 181 || (ch >= 223 && ch != 247));\n+        return ch >= 'a' && (ch <= 'z' || ch == 0xb5 || (ch >= 0xdf && ch != 0xf7));\n","filename":"src\/java.base\/share\/classes\/java\/lang\/CharacterDataLatin1.java.template","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
