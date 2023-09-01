@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2050,1 +2050,1 @@\n-    __ jcc (acond, skip);\n+    __ jccb(acond, skip);\n","filename":"src\/hotspot\/cpu\/x86\/c1_LIRAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
