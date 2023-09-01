@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308306: Update to Xcode 14.3 on macOS\n\nReviewed-by: arapte, sykora"},"files":[{"filename":".github\/workflows\/submit.yml"},{"filename":"build.properties"},{"filename":"buildSrc\/mac.gradle"},{"filename":"gradle\/verification-metadata.xml"}],"sha":"34f414e5570c79f2ce81428a0615af051e905514"}]
