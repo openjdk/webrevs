@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,1 @@\n+#include <stdlib.h>\n","filename":"jdk\/src\/solaris\/native\/sun\/nio\/fs\/LinuxNativeDispatcher.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
