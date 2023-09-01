@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,0 +53,3 @@\n+ * @implSpec\n+ * This class is immutable, thread-safe and <a href=\"{@docRoot}\/java.base\/java\/lang\/doc-files\/ValueBased.html\">value-based<\/a>.\n+ *\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/AddressLayout.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
