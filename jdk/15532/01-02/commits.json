@@ -1,0 +1,1 @@
+[{"commit":{"message":"Perform patching in reverse order separately from the main loop in `handleSwitch`"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8314226.java"}],"sha":"358f3deb8c828599f15e312ba1036ed2c61fba27"}]
