@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308307: Update to gcc 12.2.0 on Linux\n\nReviewed-by: arapte, sykora"},"files":[{"filename":".github\/workflows\/submit.yml"},{"filename":"build.properties"},{"filename":"gradle\/verification-metadata.xml"}],"sha":"59ece65b37df8261fa8a260069108cc1e0a6e1d5"}]
