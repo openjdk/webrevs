@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,1 @@\n-    return query[key].value & value_mask != 0;\n+    return (query[key].value & value_mask) != 0;\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
