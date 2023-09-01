@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314226: Series of colon-style fallthrough switch cases with guards compiled incorrectly"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8314226.java"}],"sha":"09db2c7b089513a9265c8446a8d02e5ac1df582e"}]
