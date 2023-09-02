@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1581,0 +1581,1 @@\n+            queue.clear();\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/StructuredTaskScope.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
