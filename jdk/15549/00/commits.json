@@ -1,0 +1,1 @@
+[{"commit":{"message":"eagerly create VM event listeners to avoid deadlock in VM shutdown"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotJVMCIRuntime.java"}],"sha":"64a02a43af532b05d93202e7e977d39a515c868f"}]
