@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix: in joinWhile() if interrupted, the scope should not be shutdown"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/StructuredTaskScope.java"}],"sha":"6cdf85ae8cebc0843d4276024f948f09d0d1d48d"}]
