@@ -1,0 +1,1 @@
+[{"commit":{"message":"changelog: Use SOURCE_BUILD_EPOCH to suppport reproducible builds"},"files":[{"filename":"CHANGELOG.md"}],"sha":"5f00ee48be12535abd1cec917916e9c6ca1d3a92"},{"commit":{"message":"Pass SOURCE_DATE_EPOCH to the build"},"files":[{"filename":"make\/Rules.gmk"}],"sha":"1a90004cada3378213974ec02c71c69fde5284d6"}]
