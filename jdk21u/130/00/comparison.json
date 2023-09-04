@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,0 +78,2 @@\n+            \/\/ Let javap print additional info, e.g., StackMapTable\n+            launcher.addToolArg(\"-verbose\");\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/ClhsdbDumpclass.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
