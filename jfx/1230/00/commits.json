@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use Util::waitForIdle instead of Toolkit::firePulse"},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/ChoiceBoxScrollUpOnCollectionChangeTest.java"},{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/ContextMenuNPETest.java"}],"sha":"5f8045c04e45e4bf208ae7a063573cb900ee9053"}]
