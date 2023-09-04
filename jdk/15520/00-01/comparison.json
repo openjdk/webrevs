@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-                }  while (++i12 < 3);\n+                } while (++i12 < 3);\n","filename":"test\/hotspot\/jtreg\/compiler\/loopstripmining\/TestBrokenEmptyLoopLogic.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
