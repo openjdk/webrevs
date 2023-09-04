@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1410,2 +1410,0 @@\n-  addi(tmp2, zr, 1);\n-  slli(tmp2, tmp2, 63);\n@@ -1417,0 +1415,3 @@\n+  addi(tmp2, zr, 1);\n+  slli(tmp2, tmp2, 63);\n+\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
