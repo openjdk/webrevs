@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use a LinkedTransferQueue instead of the ThreadFlock"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/StructuredTaskScope.java"}],"sha":"1f04c988d9e450b4d487d7b9d6cd24718b4428ed"}]
