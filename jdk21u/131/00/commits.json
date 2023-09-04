@@ -1,0 +1,1 @@
+[{"commit":{"message":"8315452: Erroneous AST missing modifiers for partial input\n\nReviewed-by: vromero"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/parser\/JavacParserTest.java"}],"sha":"699f65bc3ccf01d4469aa134199fbc1e122dafd4"}]
