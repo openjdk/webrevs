@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,1 @@\n-        if (!ut.waitDone(5000)) {\n+        if (!ut.waitDone(Utils.adjustTimeout(5000))) {\n","filename":"test\/jdk\/javax\/management\/remote\/mandatory\/connection\/MultiThreadDeadLockTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
