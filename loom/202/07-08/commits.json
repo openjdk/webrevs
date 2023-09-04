@@ -1,0 +1,1 @@
+[{"commit":{"message":"When shutdown, use a STOP poison subtask so all subtasks already in the queue are processed"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/StructuredTaskScope.java"}],"sha":"47baa3247a81142a2a3b7a31292ee42e971ad90f"}]
