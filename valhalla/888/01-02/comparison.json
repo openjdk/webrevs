@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1126,1 +1126,1 @@\n-      bool next_needs_patching = !next_field->holder()->is_loaded() ||\n+      bool next_needs_patching = !next_field->holder()->is_initialized() ||\n","filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
