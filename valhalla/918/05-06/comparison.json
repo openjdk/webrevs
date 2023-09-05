@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1775,0 +1775,1 @@\n+#if COMPILER2\n@@ -1781,0 +1782,3 @@\n+#else\n+  return true;\n+#endif\n","filename":"src\/hotspot\/share\/ci\/ciEnv.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
