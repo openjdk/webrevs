@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -638,2 +638,0 @@\n-    \/\/ Initial value for the hash seed, used in the work stealing code\n-    init_hash_seed                = 17\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
