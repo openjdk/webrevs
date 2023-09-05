@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace nullptr by NULL."},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LinearScan.cpp"}],"sha":"eeec7dd5c75380697123a197147224ab82544f52"},{"commit":{"message":"Backport cf2d33ca2ee08c61596ab10b7602500a6931fa31"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LinearScan.cpp"}],"sha":"64741b3c9830bf1729dc4a17f845d3a492b4edeb"}]
