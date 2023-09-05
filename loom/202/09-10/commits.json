@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reset forkCount and do not count forked subtasks after shutdown"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/StructuredTaskScope.java"}],"sha":"af7f47699c512de76fecb70c5a71cfb0adc05e4d"}]
