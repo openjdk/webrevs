@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-  \/\/ method\/bci that for this subtype check so profile data can be retrieved after parsing is over\n+  \/\/ method\/bci for this subtype check so profile data can be retrieved after parsing is over\n","filename":"src\/hotspot\/share\/opto\/subtypenode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
