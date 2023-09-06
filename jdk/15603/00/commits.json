@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287843: File::getCanonicalFile doesn't work for \\?\\C:\\ style paths DOS device paths"},"files":[{"filename":"src\/java.base\/windows\/classes\/java\/io\/WinNTFileSystem.java"},{"filename":"test\/jdk\/java\/io\/File\/GetCanonicalPath.java"}],"sha":"0d4290cc908523890bcdf8419df3fea1bcb74e11"}]
