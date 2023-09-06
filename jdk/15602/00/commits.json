@@ -1,0 +1,1 @@
+[{"commit":{"message":"allow eager JVMCI initialization to fail if only done for -Xcomp"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"}],"sha":"038d152141a78ff6ad09a24387c1142b62036c43"},{"commit":{"message":"fix spelling"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"}],"sha":"e7067ee13a9f0e91cfdfb443bb7502585c52fa88"}]
