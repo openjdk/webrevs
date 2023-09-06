@@ -1,0 +1,1 @@
+[{"commit":{"message":"magic moved to Util::isAttributeAllowed and fixed possible NPE"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/AbstractDirectBuilder.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/Util.java"}],"sha":"392ba56071dfdbc99a7015c20518a9902f9afad3"}]
