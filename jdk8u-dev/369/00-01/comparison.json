@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n- , _loop(nullptr)\n+ , _loop(NULL)\n","filename":"hotspot\/src\/share\/vm\/c1\/c1_LIRGenerator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
