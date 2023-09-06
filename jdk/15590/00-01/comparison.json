@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -690,1 +690,1 @@\n-          range(0, 8*1024)                                                  \\\n+          range(0, 8 * 1024)                                                \\\n","filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
