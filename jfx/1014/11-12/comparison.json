@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-public class PlatformPreferencesTest extends Application {\n+public class PlatformPreferencesChangedTest extends Application {\n","filename":"tests\/manual\/events\/PlatformPreferencesChangedTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
