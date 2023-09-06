@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,0 +169,2 @@\n+    DISABLED_WARNINGS_gcc_xPageAllocator.cpp := stringop-overflow, \\\n+    DISABLED_WARNINGS_gcc_zPageAllocator.cpp := stringop-overflow, \\\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
