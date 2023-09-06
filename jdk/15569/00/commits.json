@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set MSVC source and execution character sets to UTF-8\n\nThis enables Visual C++ to compile all source files\nregardless of the active code page on Windows."},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"}],"sha":"4281696c8434881387d35013b1f0b2213fe340b1"}]
