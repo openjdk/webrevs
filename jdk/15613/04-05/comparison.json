@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -381,1 +381,1 @@\n-      if (pred_succ_to_membar_mask(predecessor, successor) & StoreLoad) {\n+      if ((pred_succ_to_membar_mask(predecessor, successor) & StoreLoad) != 0) {\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
