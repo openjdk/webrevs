@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -162,1 +162,1 @@\n-  _parsable_features_string = os::strdup(buf);\n+  _parsable_features_string = os::strdup(buf_pfs);\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
