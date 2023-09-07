@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -213,1 +213,1 @@\n-#if TARGET_ZTSO\n+#if defined(TARGET_ZTSO) && TARGET_ZTSO\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
