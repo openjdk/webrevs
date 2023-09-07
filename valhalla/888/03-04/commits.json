@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix jtreg crashes"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorld.java"}],"sha":"73d47fc10518c4cdd106608796669d543815609b"}]
