@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-                \"-XX:AbortVMOnSafepointTimeoutDelay=2500\",\n+                \"-XX:AbortVMOnSafepointTimeoutDelay=10000\",\n","filename":"test\/hotspot\/jtreg\/runtime\/Safepoint\/TestAbortVMOnSafepointTimeout.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
