@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-    @Param({\"default\", \"class_only\"})\n+    @Param({\"class+method\", \"class_only\"})\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StackWalkBench.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
