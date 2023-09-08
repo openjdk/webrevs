@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add CachedBSMArgs to resolve arguments lazily instead of letting the user do so"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotConstantPool.java"},{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/meta\/ConstantPool.java"}],"sha":"4ec0a7b74f4309d70e236dc27f6a966b9e8c25be"}]
