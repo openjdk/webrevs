@@ -1,0 +1,1 @@
+[{"commit":{"message":"use JNI_TRUE\/JNI_FALSE to avoid introducing more ifdefs"},"files":[{"filename":"src\/java.base\/aix\/native\/libnet\/aix_close.c"},{"filename":"src\/java.base\/linux\/native\/libnet\/linux_close.c"},{"filename":"src\/java.base\/macosx\/native\/libnet\/bsd_close.c"}],"sha":"5482cecbac79301d9d33a937110729978c03e3e6"}]
