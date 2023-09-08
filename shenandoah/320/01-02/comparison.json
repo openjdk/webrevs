@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+#include \"gc\/shenandoah\/shenandoahHeap.inline.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
