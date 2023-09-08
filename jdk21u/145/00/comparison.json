@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -276,0 +276,6 @@\n+    # 'nm' on AIX needs -X64 option\n+\n+    ifeq ($(call isTargetOs, aix), true)\n+      NM := $(NM) -X64\n+    endif\n+\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
