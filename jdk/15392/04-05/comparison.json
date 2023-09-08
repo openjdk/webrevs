@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -155,1 +155,1 @@\n- *         Any unicode characters except the <i>Relation<\/i> symbols\n+ *         Any characters except the <i>Relation<\/i> symbols\n","filename":"src\/java.base\/share\/classes\/java\/text\/ChoiceFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
