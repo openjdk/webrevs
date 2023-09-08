@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-                            System.loadLibrary(\"jimage\");\n+                            System.loadLibrary(\"fallbackLinker\");\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/fallback\/LibFallback.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
