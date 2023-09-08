@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292713: Unsafe.allocateInstance should be intrinsified without UseUnalignedAccesses"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmSymbols.cpp"}],"sha":"22895ae15e958924dbe9b3cf2bfeebf8a7a501d9"}]

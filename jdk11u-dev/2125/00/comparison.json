@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -719,0 +719,1 @@\n+  case vmIntrinsics::_allocateInstance:\n@@ -729,1 +730,0 @@\n-  case vmIntrinsics::_allocateInstance:\n","filename":"src\/hotspot\/share\/classfile\/vmSymbols.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
