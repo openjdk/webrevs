@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -330,2 +330,0 @@\n-  \/\/------------------------------------------------------------------------------\n-  \/\/ frame::adjust_unextended_sp\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/aarch64\/AARCH64Frame.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
