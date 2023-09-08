@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move ThreadTotalCPUTimeClosure to thread.hpp"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.hpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"780dfd3473b2c1a886883cd52b439c31301b32ab"}]
