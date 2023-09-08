@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,2 @@\n-    :jdk_jdi\n+    :jdk_jdi \\\n+    :jdk_cacerts\n@@ -62,0 +63,4 @@\n+jdk_cacerts = \\\n+    security\/infra\/java\/security\/cert\/CertPathValidator \\\n+    sun\/security\/lib\/cacerts\n+\n","filename":"jdk\/test\/TEST.groups","additions":6,"deletions":1,"binary":false,"changes":7,"status":"modified"}]}
