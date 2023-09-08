@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix scale 19 error & add testcases"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/math\/MathUtils.java"},{"filename":"test\/jdk\/java\/math\/BigDecimal\/ToPlainStringTests.java"},{"filename":"test\/jdk\/java\/math\/BigDecimal\/ToStringTests.java"}],"sha":"562869d5e4ab114ddac5fdc9ada39d57351bb5cd"}]
