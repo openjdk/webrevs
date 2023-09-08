@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-                \"-XX:-VerifyDependencies\", \"-XX:+IgnoreUnrecognizedVMOptions\",\n+                \"-XX:+IgnoreUnrecognizedVMOptions\", \"-XX:-VerifyDependencies\",\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestJmapCore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
