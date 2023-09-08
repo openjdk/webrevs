@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314832: Few runtime\/os tests ignore vm flags"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/os\/THPsInThreadStackPreventionTest.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestHugePageDetection.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestTrimNative.java"}],"sha":"3f3ed3f39c47346c92b48cca957c1549b8968d29"}]
