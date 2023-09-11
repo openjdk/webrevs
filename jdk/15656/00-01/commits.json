@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also remove InvocationCounter::decay()"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/invocationCounter.cpp"},{"filename":"src\/hotspot\/share\/interpreter\/invocationCounter.hpp"}],"sha":"072ad0f323d099859243116a002c81ff6b1108b4"}]
