@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-    return *((const Measure*) a) == *((const Measure*) b);\n+    return *((const Measure*) a) == *b;\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/ThirdParty\/icu\/source\/i18n\/fmtable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
