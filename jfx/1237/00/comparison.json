@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4329,1 +4329,2 @@\n-                if (!isTestTask(task) && !task.name.equals(\"verifyJava\")) {\n+                if (!isTestTask(task) && !task.name.equals(\"verifyJava\") &&\n+                    !task.name.equals(\"validateSourceSets\")) {\n","filename":"build.gradle","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
