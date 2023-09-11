@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move to jdk_security_infra and add to tier1"},"files":[{"filename":"jdk\/test\/TEST.groups"}],"sha":"f66b60c26c0856f1dd68fc8d0eabe97aa87bf602"},{"commit":{"message":"8315757: [8u] Add cacerts JTREG tests to GHA tier1 test set"},"files":[{"filename":"jdk\/test\/TEST.groups"}],"sha":"0ce2f2414e7a0e2dee86ec1a05eef2f5aae8bd34"}]
