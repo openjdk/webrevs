@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed JavaThread::is_virtual()"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.inline.hpp"}],"sha":"f5a144bc5994501d3f8ee3c4744758dc07666859"}]
