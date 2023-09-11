@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,1 +314,0 @@\n-  virtual void post_compact() { ShouldNotReachHere(); }\n","filename":"src\/hotspot\/share\/gc\/shared\/generation.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
