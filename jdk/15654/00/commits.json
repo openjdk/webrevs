@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314612: TestUnorderedReduction.java fails with -XX:MaxVectorSize=32 and -XX:+AlignVector"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestUnorderedReduction.java"}],"sha":"3626dc6e0c48aa78700ab8fe778f69a22ffce714"}]
