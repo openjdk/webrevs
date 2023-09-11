@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace IgnoreUnrecognizedVMOptions with Platform.isDebugBuild() and add comment about the change forbetter readability."},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestJmapCore.java"}],"sha":"7b6af094dd0f8ddf4a6c5dbd0048a25538b28f0c"}]
