@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Remove unused fields from ThreadLocalRandom\n\nThese messages were used before JDK-8248862"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ThreadLocalRandom.java"}],"sha":"f9fe87c5d70fefa91a23194cf33655e869f6b85f"}]
