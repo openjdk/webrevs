@@ -1,0 +1,1 @@
+[{"commit":{"message":"8315998 Remove dead ClassLoaderDataGraphKlassIteratorStatic"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderDataGraph.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderDataGraph.hpp"}],"sha":"cbd3926a7c53a066f0ea24ec3c074fa5a57695b2"}]
