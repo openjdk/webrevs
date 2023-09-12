@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+import org.junit.Ignore;\n@@ -774,0 +775,1 @@\n+    @Ignore(\"JDK-8316117\")\n","filename":"functional\/SceneGraphTests\/test\/test\/scenegraph\/functional\/graphics\/Effects2Test.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
