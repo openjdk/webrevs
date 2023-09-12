@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,1 @@\n-                location.y +=  bar.getHeight() \/ 2 + item.getHeight() \/ 2;\n+                location.y += bar.getHeight() \/ 2 + item.getHeight() \/ 2;\n","filename":"test\/jdk\/java\/awt\/Focus\/TestWindowsLFFocus.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
