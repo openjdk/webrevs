@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4261,1 +4261,0 @@\n-      value = MAX2(_vm_min_address_default, value);\n@@ -4263,2 +4262,0 @@\n-    } else {\n-      value = _vm_min_address_default;\n@@ -4266,0 +4263,1 @@\n+    value = MAX2(_vm_min_address_default, value);\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
