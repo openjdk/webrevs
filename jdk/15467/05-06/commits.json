@@ -1,0 +1,1 @@
+[{"commit":{"message":"use virtualThreadScheduler.parallelism instead of ForkJoinPool.common.parallelism"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/VThreadEventTest\/VThreadEventTest.java"}],"sha":"0ce4701a54dbd455d8cc4175791c3c2e340345bb"}]
