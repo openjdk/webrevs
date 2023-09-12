@@ -1,0 +1,1 @@
+[{"commit":{"message":"add missing canonicalLayouts to PPC64 and s390 linkers"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/ppc64\/linux\/LinuxPPC64Linker.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/s390\/linux\/LinuxS390Linker.java"}],"sha":"d3148d81250bcaeb6477bb0ee39ad3a3a14f9c35"}]
