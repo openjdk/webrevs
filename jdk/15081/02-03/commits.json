@@ -1,0 +1,1 @@
+[{"commit":{"message":"SwingWorkerExecutorLeakTest.java: use AppContext.getAppContext() instead of SunToolkit.createNewAppContext() to create AppContext, set necessary system properties"},"files":[{"filename":"test\/jdk\/javax\/swing\/SwingWorker\/8314755\/SwingWorkerExecutorLeakTest.java"}],"sha":"06cbac9ec9f64b9fa576676da511871e47806ea8"}]
