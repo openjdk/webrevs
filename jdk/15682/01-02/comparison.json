@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,1 @@\n-    uint lgrp_id() const                             { return _lgrp_id;             }\n+    uint lgrp_id() const                            { return _lgrp_id;             }\n","filename":"src\/hotspot\/share\/gc\/parallel\/mutableNUMASpace.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
