@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -517,1 +517,1 @@\n-            DecimalDigits.getCharsLatin1(value, srcBegin, srcEnd, dst, dstBegin);\n+            StringLatin1.getChars(value, srcBegin, srcEnd, dst, dstBegin);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
