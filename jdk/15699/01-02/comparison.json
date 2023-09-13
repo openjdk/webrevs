@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -774,1 +774,1 @@\n-            DecimalDigits.getCharsLatin1(value, 0, count, val, 0);\n+            StringLatin1.getChars(value, 0, count, val, 0);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringBuffer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
