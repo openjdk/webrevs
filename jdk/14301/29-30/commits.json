@@ -1,0 +1,1 @@
+[{"commit":{"message":"Strengthen translation of getAndX atomics; revert or adapt FJP accordingly"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java"}],"sha":"e8d7b75fa780d3a6b28e3d2e517383d02d92646c"}]
