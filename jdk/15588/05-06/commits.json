@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use lookupConstant instead of lookupConstantInPool in CachedBSMArgs.get"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotConstantPool.java"}],"sha":"d6aa593418fd718a77da9b2c7ff87aac7b966c63"}]
