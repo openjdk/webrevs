@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix & test"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestBadControlAfterPreMainPost.java"}],"sha":"d5af551e83590dd04d0b623aa78a754912c1041e"}]
