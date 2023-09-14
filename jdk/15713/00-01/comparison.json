@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2909,1 +2909,0 @@\n-    Node* vt_oop = _gvn.transform(argument(0)); \/\/ this argument - VirtualThread oop\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
