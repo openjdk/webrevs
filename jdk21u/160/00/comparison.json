@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n-serviceability\/dcmd\/gc\/RunFinalizationTest.java 8227120 linux-all,windows-x64\n+serviceability\/dcmd\/gc\/RunFinalizationTest.java 8227120 linux-all,windows-x64,aix-ppc64\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
