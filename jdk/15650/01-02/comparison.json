@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,2 +171,2 @@\n-     * \t\t[tag=0x0001, sz=8]\n-     *          ->ZIP64: LOC Off *0x0\n+     *             [tag=0x0001, sz=8]\n+     *           ->ZIP64: LOC Off *0x0\n","filename":"test\/jdk\/java\/util\/zip\/ZipFile\/MissingZIP64EntriesTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
