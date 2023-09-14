@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-    size_t hdr_size_in_bytes = header_size_in_bytes();\n+    size_t hdr_size_in_bytes = base_offset_in_bytes(type);\n","filename":"src\/hotspot\/share\/oops\/arrayOop.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
