@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not initialize compilation if JVMCIPrintProperties or JVMCILibDumpJNIConfig is true"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"}],"sha":"709c55f09809a530a3a153ec9f78a669fca05bce"}]
