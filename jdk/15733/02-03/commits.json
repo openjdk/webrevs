@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316156: Read at most DEFAULT_BUFFER_SIZE bytes"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ChannelInputStream.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Channels\/ChannelStreamsIO.java"}],"sha":"894d83ac088c3c18f4780879566536c99f2ac59d"}]
