@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-        } catch(Exception ex) {\n+        } catch (Exception ex) {\n","filename":"test\/jdk\/javax\/swing\/ImageIcon\/4827074\/bug4827074.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
