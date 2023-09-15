@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -153,0 +153,3 @@\n+  \/\/ Turn on SKIPDATA mode\n+  cs_option(cs_handle, CS_OPT_SKIPDATA, CS_OPT_ON);\n+\n","filename":"src\/utils\/hsdis\/capstone\/hsdis-capstone.c","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
