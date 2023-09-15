@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1170,3 +1170,1 @@\n-      ifeq ($(call isTargetOs, macosx), true)\n-        $1_LD_OBJ_ARG := `cat $$($1_OBJ_FILE_LIST)`\n-      else ifeq ($(call isTargetOs, aix), true)\n+      ifeq ($(call isTargetOs, macosx aix), true)\n","filename":"make\/common\/NativeCompilation.gmk","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
