@@ -1,0 +1,1 @@
+[{"commit":{"message":"8299560: Assertion failed: currentQueryIndex >= 0 && currentQueryIndex < numberOfJavaProcessesAtInitialization"},"files":[{"filename":"src\/jdk.management\/windows\/native\/libmanagement_ext\/OperatingSystemImpl.c"}],"sha":"3cdf52124eb2ef3452d79ce01ec77a042aa65e51"}]
