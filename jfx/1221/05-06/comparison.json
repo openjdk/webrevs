@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,0 +55,1 @@\n+            checkText(\"\", 0),\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/scene\/control\/behavior\/TextAreaBehaviorRobotTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
