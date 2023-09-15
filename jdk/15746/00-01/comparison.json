@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-    private Set<TypeElement> getTypeElements()  {\n+    private Set<TypeElement> getTypeElements() {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/AllClassesIndexWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
