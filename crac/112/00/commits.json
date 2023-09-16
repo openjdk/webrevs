@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename excessive\/i to shouldnotuse\/i"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"a24066f40ed64f5298bf57cac98a3ee3905bd2db"},{"commit":{"message":"Simplify CPUFeatures code"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"6d9cb72b7a838dd4c9f107c5b71c4275005a0c23"}]
