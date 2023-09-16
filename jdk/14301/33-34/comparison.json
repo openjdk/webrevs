@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2005,0 +2005,2 @@\n+                            if (parallelism == 0)\n+                                return false;\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
