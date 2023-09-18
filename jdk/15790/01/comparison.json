@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -852,1 +852,1 @@\n-      _code_roots_scanned = cl.count();\n+      _code_roots_scanned += cl.count();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
