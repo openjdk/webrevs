@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n- * @build LambdasWithSameKey\n+ * @build LambdasWithSameKey jdk.test.whitebox.WhiteBox\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/LambdasInTwoArchives.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
