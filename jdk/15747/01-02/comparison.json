@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n-                            \"component failed:\");\n+                            \"component failed:\", e);\n","filename":"test\/jdk\/javax\/swing\/JTabbedPane\/ReplaceCompTab.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
