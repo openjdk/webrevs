@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid changing the LingeredApp class hierarchy for CDS tests ergonomics"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestObjectMonitorIterate.java"},{"filename":"test\/lib\/jdk\/test\/lib\/apps\/LingeredApp.java"}],"sha":"9376d8fee715d1049b5c5f8e52605f3f4d083601"}]
