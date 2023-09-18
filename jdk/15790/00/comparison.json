@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -832,2 +832,0 @@\n-    uint const region_idx = r->hrm_index();\n-\n@@ -852,1 +850,1 @@\n-      _code_roots_scanned = cl.count();\n+      _code_roots_scanned += cl.count();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
