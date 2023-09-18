@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8313804: JDWP support for -Djava.net.preferIPv6Addresses=system"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libdt_socket\/socketTransport.c"},{"filename":"test\/jdk\/com\/sun\/jdi\/JdwpNetProps.java"}],"sha":"f74c2d4e6dbf22af95d283410daeac974b805169"}]
