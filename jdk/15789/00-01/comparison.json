@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,4 +43,0 @@\n-#ifndef VER_PLATFORM_WIN32_WINDOWS\n-#define VER_PLATFORM_WIN32_WINDOWS 1\n-#endif\n-\n","filename":"src\/java.base\/windows\/native\/libjava\/java_props_md.c","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
