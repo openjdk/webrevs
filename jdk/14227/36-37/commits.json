@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the unnecessary exception in single pivot partitioning fallback method"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"src\/java.base\/share\/classes\/java\/util\/DualPivotQuicksort.java"},{"filename":"test\/jdk\/java\/util\/Arrays\/Sorting.java"}],"sha":"7fc1afac4ca287908f2ddaeb2bd554044791452e"}]
