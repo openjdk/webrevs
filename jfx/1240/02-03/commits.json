@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix skip comment on testMaximizedStageBeforeShow\n\nComment pointed at wrong JDK issue (aka. Copy-Paste's Error)"},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/stage\/StageAttributesTest.java"}],"sha":"37e3d31abe34b69b1ff6674f046ac9fdf4df7e0c"}]
