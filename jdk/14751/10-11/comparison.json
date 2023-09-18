@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -602,1 +602,1 @@\n-        \/\/ Now check if there are any characters that need to be changed, or are surrogate\n+        \/\/ Now check if there are any characters that need to be changed\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringLatin1.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
