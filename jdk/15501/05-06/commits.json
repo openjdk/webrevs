@@ -1,0 +1,1 @@
+[{"commit":{"message":"8073061: Check for POSIX permission support at top level of test"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixFileSystem.java"},{"filename":"test\/jdk\/java\/nio\/file\/Files\/CopyMoveVariations.java"}],"sha":"cd644e46fed22a1f8b4932b8ee5b54626134ad18"}]
