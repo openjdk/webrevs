@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-        SwingUtilities.invokeAndWait(() -> two.requestFocus());\n+        SwingUtilities.invokeAndWait(two::requestFocus);\n","filename":"test\/jdk\/javax\/swing\/JTabbedPane\/bug4703690.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
