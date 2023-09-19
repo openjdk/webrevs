@@ -1,0 +1,1 @@
+[{"commit":{"message":"force eager JVMCI initialization in jargraal with -Xcomp"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"}],"sha":"a21284cf9c1f2a6e34eaef26027de151febc8593"}]
