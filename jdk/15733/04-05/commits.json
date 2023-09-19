@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316156: Revert BufferedInputStream changes; update test"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/BufferedInputStream.java"},{"filename":"test\/jdk\/java\/io\/ByteArrayInputStream\/ChunkedTransferTo.java"}],"sha":"11cf9ffb56c89fbd624f88d66d30b5b2eff6f9fe"}]
