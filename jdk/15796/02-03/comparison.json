@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-                \/\/ - only IPv4, so connection prom IPv6 should fail\n+                \/\/ - only IPv4, so connection from IPv6 should fail\n","filename":"test\/jdk\/com\/sun\/jdi\/JdwpNetProps.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
