@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,0 @@\n-    \/\/ Static fields will be left in the default initialized state if the lookup fails\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/ObjectSynchronizer.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
