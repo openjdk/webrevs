@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316561: [lw5] class file attribute NullRestricted shouldn't be generated for arrays"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassWriter.java"},{"filename":"test\/langtools\/tools\/javac\/valhalla\/value-objects\/ValueObjectCompilationTests.java"}],"sha":"eab643e6efc96129e8cf43932296a9b6907f9e25"}]
