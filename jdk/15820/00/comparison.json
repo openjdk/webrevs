@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -867,0 +867,1 @@\n+\t$$(RM) -r $$($1_TEST_RESULTS_DIR)\n","filename":"make\/RunTests.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
