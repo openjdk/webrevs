@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -233,1 +233,1 @@\n-            if (c >= 128 || !DONT_NEED_ENCODING.test(c) || c == ' ') {\n+            if (!DONT_NEED_ENCODING.test(c) || c == ' ') {\n","filename":"src\/java.base\/share\/classes\/java\/net\/URLEncoder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
