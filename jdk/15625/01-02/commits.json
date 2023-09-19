@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added test to check that when keystore.type is null it defaults to pkcs12"},"files":[{"filename":"test\/jdk\/java\/security\/KeyStore\/PKCS12\/CheckNullDefault.java"},{"filename":"test\/jdk\/java\/security\/KeyStore\/PKCS12\/java.security"}],"sha":"26978443e5e2464891098f2e3330a0be54e7d8b6"}]
