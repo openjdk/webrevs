@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix logic for publishing total cpu time and convert atomic jlong to long"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.hpp"},{"filename":"test\/jdk\/sun\/tools\/jcmd\/TestGcCounters.java"}],"sha":"0fbfa0061736fd6ca5cbd370ef8503cc617cb356"}]
