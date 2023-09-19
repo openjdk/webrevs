@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-        private static AtomicInteger paintCount = new AtomicInteger(0);\n+        private static final AtomicInteger paintCount = new AtomicInteger(0);\n","filename":"test\/jdk\/java\/awt\/event\/PaintEvent\/RepaintTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
