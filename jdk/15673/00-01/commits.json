@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316000: Revert implementation change; modify specification to match longstanding behavior"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/File.java"},{"filename":"src\/java.base\/windows\/native\/libjava\/WinNTFileSystem_md.c"},{"filename":"test\/jdk\/java\/io\/File\/SetAccess.java"}],"sha":"08c5fd936e79fe1d08ca5c7fc9cc59a8c71ff555"}]
