@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,0 @@\n-    public static Robot robot;\n@@ -49,1 +48,1 @@\n-            robot = new Robot();\n+            Robot robot = new Robot();\n","filename":"test\/jdk\/javax\/swing\/JPopupMenu\/bug4321273.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
