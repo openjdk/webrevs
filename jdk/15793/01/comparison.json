@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,2 @@\n-    LDFLAGS_windows := -delayload:secur32.dll -delayload:iphlpapi.dll, \\\n+    LDFLAGS_windows := -delayload:secur32.dll -delayload:iphlpapi.dll \\\n+        -delayload:winhttp.dll, \\\n","filename":"make\/modules\/java.base\/Lib.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
