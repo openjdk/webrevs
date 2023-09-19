@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,0 @@\n-    public static JMenuBar menuBar;\n@@ -52,1 +51,1 @@\n-                menuBar = new JMenuBar();\n+                JMenuBar menuBar = new JMenuBar();\n","filename":"test\/jdk\/javax\/swing\/JPopupMenu\/bug4321273.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
