@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8316518\nRemoved wrong rounding of Paper.getWidth \/ Paper.getHeight"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/print\/Paper.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/print\/PaperUnitsTest.java"}],"sha":"e84c14a7b1426eb933748f2613163392ba0d1948"}]
