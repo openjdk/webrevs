@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,2 +33,0 @@\n-    public static final String exampleStr = \"TEST\";\n-\n@@ -36,0 +34,1 @@\n+        final String exampleStr = \"TEST\";\n","filename":"test\/jdk\/javax\/swing\/JTree\/bug5039542.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
