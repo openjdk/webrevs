@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1064,1 +1064,1 @@\n-          \"-XX:LockingMode=LM_MONITOR\")                                     \\\n+          \"-XX:LockingMode=0 (LM_MONITOR)\")                                 \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
