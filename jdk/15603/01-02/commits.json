@@ -1,0 +1,1 @@
+[{"commit":{"message":"8287843: Move \\\\?\\ prefix stripping to resolve(File)"},"files":[{"filename":"src\/java.base\/windows\/classes\/java\/io\/WinNTFileSystem.java"},{"filename":"test\/jdk\/java\/io\/File\/GetCanonicalPath.java"}],"sha":"a8726fbb8a070388f2b9756ee88c746b12c18397"}]
