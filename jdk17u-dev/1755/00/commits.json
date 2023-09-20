@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport f2383b3cbd1096f0b38e89a3d876da2217511f11"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/Connection.java"},{"filename":"test\/jdk\/com\/sun\/jndi\/ldap\/LdapSSLHandshakeFailureTest.java"},{"filename":"test\/jdk\/com\/sun\/jndi\/ldap\/ksWithSAN"}],"sha":"0cebc8f867067a16f81885d079a2714a419ff427"}]
