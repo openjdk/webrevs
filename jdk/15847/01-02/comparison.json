@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,2 +31,0 @@\n-import java.awt.Dimension;\n-\n@@ -44,1 +42,0 @@\n-        panel.setPreferredSize(new Dimension(500, 500));\n","filename":"test\/jdk\/javax\/swing\/JViewport\/bug4546474.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
