@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4376,0 +4376,3 @@\n+#ifdef MUSL_LIBC\n+  return ::sendfile(out_fd, in_fd, (off64_t*)offset, (size_t)count);\n+#else\n@@ -4377,0 +4380,1 @@\n+#endif\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
