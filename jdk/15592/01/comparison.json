@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -482,1 +482,1 @@\n-      if \"$DF -T local > \/dev\/null 2>&1\"; then\n+      if $DF -T local > \/dev\/null 2>&1; then\n","filename":"make\/autoconf\/basic.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
