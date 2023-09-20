@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use JLA string utilities for utf8 entry reading"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/AbstractPoolEntry.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/classfile\/ReadMetadata.java"}],"sha":"d0ce118167d650d28452b20691ea405984b19b41"}]
