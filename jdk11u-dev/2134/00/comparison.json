@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -358,1 +358,1 @@\n-        BufferedReader br = new BufferedReader(new InputStreamReader(in));\n+        BufferedReader br = new BufferedReader(new InputStreamReader(in,\"UTF-8\"));\n","filename":"src\/jdk.attach\/share\/classes\/sun\/tools\/attach\/HotSpotVirtualMachine.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
