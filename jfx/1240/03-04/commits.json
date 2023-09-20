@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace waitForIdle with sleep, add sleep at the end of setupStages"},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/stage\/StageAttributesTest.java"}],"sha":"130070dd86bbb81b1e3ebd96a91b9d9d3ee7bdae"}]
