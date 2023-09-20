@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changed tests so that they test all 3 applicable protocols (1.0, 1.1, 1.2).\nRemoved unnecessary exportable parameter."},"files":[{"filename":"test\/jdk\/sun\/security\/ssl\/DHKeyExchange\/DHEKeySizing.java"}],"sha":"8068ea618ca7e0835953f96ba98692bf967e141f"}]
