@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update workaround for JDK-8250630 to check if preferIPv4Stack is false"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libdt_socket\/socketTransport.c"}],"sha":"832854c2cbbe9e5fb952d0f9387def5770f566d8"}]
