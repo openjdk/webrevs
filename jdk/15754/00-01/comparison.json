@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-            g.fillRect(0,0,d.width,d.height);\n+            g.fillRect(0, 0, d.width, d.height);\n","filename":"test\/jdk\/java\/awt\/font\/Rotate\/RotateTest3.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
