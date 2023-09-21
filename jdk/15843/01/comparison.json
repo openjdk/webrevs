@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4376,1 +4376,1 @@\n-  return sendfile64(out_fd, in_fd, (off64_t*)offset, (size_t)count);\n+  return ::sendfile64(out_fd, in_fd, (off64_t*)offset, (size_t)count);\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
