@@ -1,0 +1,1 @@
+[{"commit":{"message":"Minor startup regression in 22-b15 due JDK-8310929"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/StringLatin1.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/DecimalDigits.java"}],"sha":"8c2a1e92b044bf4b783e3d2dea0708584e61628e"}]
