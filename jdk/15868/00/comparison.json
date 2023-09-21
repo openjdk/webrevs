@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2758,1 +2758,1 @@\n-     * <p>The computed result must be within 1 ulp of the exact\n+     * <p>The computed result must be within 1.5 ulps of the exact\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Math.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
