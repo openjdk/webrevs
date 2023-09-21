@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -401,1 +401,1 @@\n-                \/\/ Detectied lead byte\n+                \/\/ Detected lead byte\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/rtf\/RTFParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
