@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -419,0 +419,1 @@\n+        DeleteDC(memDC);\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/ThemeReader.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
