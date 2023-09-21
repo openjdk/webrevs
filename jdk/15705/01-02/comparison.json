@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -410,0 +410,2 @@\n+  assert(from->has_valid_mask(),\n+    \"Cannot copy entry with an invalid mask\");\n","filename":"src\/hotspot\/share\/interpreter\/oopMapCache.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
