@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move gap init into allocate_header() (x86); Remove unnecessary code (aarch64)"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_MacroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c1_MacroAssembler_x86.cpp"}],"sha":"d7fd3e8e229df1b39817aa0caf2d481af024fa9f"}]
