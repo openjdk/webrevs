@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @requires vm.bits == \"64\"\n+ * @requires os.arch == \"x86_64\" | os.arch == \"aarch64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestMulAddS2I.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

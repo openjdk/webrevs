@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restrict test to aarch64 and x86_64 since match rule for Op_MulAddVS2VI is only defined on these platforms"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestMulAddS2I.java"}],"sha":"36bb0e7703ab48dda6222e0a09472d6e300b071c"}]
