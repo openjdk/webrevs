@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -393,1 +393,0 @@\n-  static_assert(sizeof(u1) == sizeof(char), \"must be\");\n","filename":"src\/hotspot\/share\/oops\/symbol.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
