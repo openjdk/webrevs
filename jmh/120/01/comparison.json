@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -19,1 +19,1 @@\n-        java: [8, 11, 17, 20, 21-ea]\n+        java: [8, 11, 17, 21, 22-ea]\n@@ -31,1 +31,1 @@\n-        distribution: temurin\n+        distribution: corretto\n","filename":".github\/workflows\/pre-integration.yml","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
