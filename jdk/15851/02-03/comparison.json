@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,0 @@\n-    static Robot r;\n@@ -51,1 +50,1 @@\n-        r = new Robot();\n+        Robot r = new Robot();\n","filename":"test\/jdk\/javax\/swing\/JDialog\/bug4859570.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
