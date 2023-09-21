@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only run test on 64-bit because match rule for Op_MulAddVS2VI is only defined on 64-bit"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestMulAddS2I.java"}],"sha":"522587219ef0cd01fed1ad52c82b376e595167b0"}]
