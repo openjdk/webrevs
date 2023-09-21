@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -288,1 +288,1 @@\n-LONG WINAPI Uncaught_Exception_Handler(struct _EXCEPTION_POINTERS* exceptionInfo);\n+static LONG WINAPI Uncaught_Exception_Handler(struct _EXCEPTION_POINTERS* exceptionInfo);\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
