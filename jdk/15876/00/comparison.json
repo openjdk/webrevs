@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -525,1 +525,1 @@\n-                       buffer_size, p2i(existing_stream), start_index, frames_array->length());\n+                       buffer_size, p2i(existing_stream), start_index);\n","filename":"src\/hotspot\/share\/prims\/stackwalk.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
