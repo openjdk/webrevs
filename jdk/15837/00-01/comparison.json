@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,1 +244,1 @@\n-                int chararr_count = 0;\n+                int chararr_count = singleBytes;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/AbstractPoolEntry.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
