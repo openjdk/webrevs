@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- *  -Djava.security.properties=${test.src}\/java.security CheckDefaults\n+ *  -Djava.security.properties==${test.src}\/java.security CheckDefaults\n","filename":"test\/jdk\/java\/security\/KeyStore\/PKCS12\/CheckNullDefault.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
