@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update CompileThresholdScaling only for the sort and partition intrinsics; update build script to remove nested if"},"files":[{"filename":"make\/modules\/java.base\/Lib.gmk"},{"filename":"test\/jdk\/java\/util\/Arrays\/Sorting.java"}],"sha":"dbf433215121bcfa64e713951d9373607add922e"}]
