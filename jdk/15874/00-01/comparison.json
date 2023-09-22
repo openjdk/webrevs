@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -514,1 +514,1 @@\n-        \/\/     argInfo.targetAppCommandLine : TestScaffold Virtual Frames2Targ\n+        \/\/     argInfo.targetAppCommandLine : DebuggeeWrapper Virtual Frames2Targ\n","filename":"test\/jdk\/com\/sun\/jdi\/TestScaffold.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
