@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,3 +92,0 @@\n-\/\/ It's possible that an nmethod has multiple dependencies on a klass\n-\/\/ so a count is kept for each bucket to guarantee that creation and\n-\/\/ deletion of dependencies is consistent.\n","filename":"src\/hotspot\/share\/code\/dependencyContext.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
