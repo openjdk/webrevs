@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,0 +108,1 @@\n+<<<<<<< HEAD\n@@ -109,0 +110,3 @@\n+=======\n+        --add-exports java.base\/jdk.internal.foreign=ALL-UNNAMED \\\n+>>>>>>> f0f3504331f495539f871e00c7cac86b6eb0d095\n","filename":"make\/test\/BuildMicrobenchmark.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
