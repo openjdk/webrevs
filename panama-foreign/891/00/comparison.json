@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-    interface StoreFunc {\n+    public interface StoreFunc {\n@@ -57,1 +57,1 @@\n-    interface LoadFunc {\n+    public interface LoadFunc {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/BindingInterpreter.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
