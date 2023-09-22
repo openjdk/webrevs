@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-                JButton btn1 = new JButton(\"Button 1\");\n+                btn1 = new JButton(\"Button 1\");\n","filename":"test\/jdk\/javax\/swing\/JPanel\/bug4907772.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
