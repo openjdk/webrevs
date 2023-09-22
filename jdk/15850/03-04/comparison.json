@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n-    public static void main(String[] argv) throws Exception {\n+    public static void main(String[] args) throws Exception {\n","filename":"test\/jdk\/javax\/swing\/JScrollPane\/bug4688907.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
