@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -375,1 +375,1 @@\n-     *     <li>{@link ValueLayout.OfAddress}, for {@code MemorySegment.class}<\/li>\n+     *     <li>{@link AddressLayout}, for {@code MemorySegment.class}<\/li>\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/layout\/ValueLayouts.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
