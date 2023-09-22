@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316711: SEGV in LoaderConstraintTable::find_loader_constraint after JDK-8310874"},"files":[{"filename":"src\/hotspot\/share\/classfile\/loaderConstraints.cpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"42162bbca300de0a52e02daf22490a8755950cc8"}]
