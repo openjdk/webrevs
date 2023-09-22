@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,2 +50,1 @@\n-    \n-    \/\/ goldenData are used to generate the expected values\n+    \/\/ Data of 7 rolls in the form of a string for the respective field\n","filename":"test\/jdk\/java\/util\/Calendar\/bug4514831.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
