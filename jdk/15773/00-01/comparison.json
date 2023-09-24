@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,1 +132,1 @@\n-     * We can not get index of particular item in\n+     * We cannot get index of particular item in\n","filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XMenuBarPeer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
