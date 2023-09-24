@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,0 +50,6 @@\n+    public static final BigDecimal pi  = new BigDecimal(Math.PI);\n+\n+    @Benchmark\n+    public String decimalFormat() {\n+        return \"%010.3f\".formatted(pi);\n+    }\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StringFormat.java","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
