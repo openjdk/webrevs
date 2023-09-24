@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Simplify non-Object array VH\"\n\nThis reverts commit 18d1be8b3b3aae1395d4096f5e2b95dbf078db0c."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/VarHandles.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/X-VarHandle.java.template"}],"sha":"72836c286dd98a2704a0183b267da55ec87da8c3"}]
