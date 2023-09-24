@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3011,1 +3011,1 @@\n-        return (c >= 'a' && c <= 'z') || (c >= 'A' || c <= 'Z') || c == '%';\n+        return (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || c == '%';\n","filename":"src\/java.base\/share\/classes\/java\/util\/Formatter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
