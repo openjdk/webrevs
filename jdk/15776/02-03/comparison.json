@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+import java.math.BigDecimal;\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StringFormat.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
