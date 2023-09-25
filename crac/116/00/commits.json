@@ -1,0 +1,1 @@
+[{"commit":{"message":"Close files opened by Decoder before checkpoint"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"},{"filename":"src\/hotspot\/share\/utilities\/decoder.cpp"},{"filename":"src\/hotspot\/share\/utilities\/decoder.hpp"},{"filename":"test\/jdk\/jdk\/crac\/fileDescriptors\/SharedLibraryTest.java"}],"sha":"f2e99a2de0f23d2f648c48954a9f23c543200407"}]
