@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add x86_64 and aarch64 implementation."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"83da590b31aa774dd0f256f0c1f07d27ed0458b2"}]
