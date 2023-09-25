@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+ * @key headful\n@@ -55,1 +56,1 @@\n-            SwingUtilities.invokeAndWait(() -> setLookAndFeel(laf));\n+            setLookAndFeel(laf);\n","filename":"test\/jdk\/javax\/swing\/JTableHeader\/SerializeJTableHeader.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
