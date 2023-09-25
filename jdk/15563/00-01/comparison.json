@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,1 @@\n-package org.openjdk.bench.java.util;\n+package org.openjdk.bench.vm.runtime;\n","filename":"test\/micro\/org\/openjdk\/bench\/vm\/runtime\/NMTBenchmark.java","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/NMTBenchmark.java","status":"renamed"}]}
