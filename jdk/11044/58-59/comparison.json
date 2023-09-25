@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -974,1 +974,1 @@\n-                      arrayOopDesc::base_offset_in_bytes(),\n+                      arrayOopDesc::base_offset_in_bytes(op->type()),\n","filename":"src\/hotspot\/cpu\/arm\/c1_LIRAssembler_arm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
