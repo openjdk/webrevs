@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-          \"Percentage of Eden that can be wasted\")                          \\\n+          \"Percentage of Eden that can be wasted (half-full TLABs at GC)\"   \\\n","filename":"src\/hotspot\/share\/gc\/shared\/tlab_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
