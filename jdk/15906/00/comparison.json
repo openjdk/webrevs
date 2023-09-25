@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2159,0 +2159,4 @@\n+        \/\/ Any strings match if length < 0\n+        if (len < 0) {\n+           return true;\n+        }\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
