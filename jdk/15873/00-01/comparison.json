@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,0 @@\n-    static boolean passed = true;\n@@ -83,4 +82,0 @@\n-\n-                if (!passed) {\n-                    throw new RuntimeException(\"Test failed.\");\n-                }\n","filename":"test\/jdk\/javax\/swing\/AbstractDocument\/bug4549069.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
