@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316401: sun\/tools\/jhsdb\/JStackStressTest.java failed with \"InternalError: We should have found a thread that owns the anonymous lock\""},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/Threads.java"}],"sha":"18e46db697e835c796aa2f8d286d84811c47bfee"}]
