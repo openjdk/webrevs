@@ -1,0 +1,1 @@
+[{"commit":{"message":"Have RefBeforeCtorCalledError extend StaticError and customize debug strings."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Resolve.java"}],"sha":"3e75e19e23083efb219617269fed96502c0fa247"}]
