@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1023,1 +1023,1 @@\n-  virtual void finish_collection() {\n+  virtual void finish_collection() override {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
