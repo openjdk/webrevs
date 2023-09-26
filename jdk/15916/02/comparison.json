@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1,1 +1,2 @@\n-JUnit.dirs = .\r\n+JUnit.dirs = .\n+modules = jdk.jpackage\n","filename":"test\/jdk\/tools\/jpackage\/junit\/TEST.properties","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
