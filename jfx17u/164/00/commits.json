@@ -1,0 +1,1 @@
+[{"commit":{"message":"8315657: Application window not activated in macOS 14 Sonoma\n\nReviewed-by: jpereda, aghaisas"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/mac\/MacApplication.java"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassApplication.m"}],"sha":"5d32ee665df8b924f3af65b79e1c2783767653a5"}]
