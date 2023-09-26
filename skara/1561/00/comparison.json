@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,0 +97,1 @@\n+            localRepo.fetch(bot.repo().authenticatedUrl(), commit.hash().toString(), true);\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/TagCommand.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
