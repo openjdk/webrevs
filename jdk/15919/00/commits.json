@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove latomic, add cmpxchg 1 byte"},"files":[{"filename":"make\/autoconf\/libraries.m4"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/atomic_linux_riscv.hpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_atomic.cpp"}],"sha":"4adfd6f1f7b6aeccf2950a291a970220844bfd2d"}]
