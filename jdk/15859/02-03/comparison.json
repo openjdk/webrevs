@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-    testGetFlag(\"LargePageSizeInBytes\", \"128\");\n+    testGetFlag(\"MetaspaceSize\", \"65536\");\n","filename":"test\/hotspot\/jtreg\/serviceability\/attach\/AttachSetGetFlag.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
