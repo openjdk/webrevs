@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316929: Shenandoah: Shenandoah degenerated GC and full GC need to cleanup old OopMapCache entries"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVMOperations.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVMOperations.hpp"}],"sha":"92dc4f4ed1b01f5adbfddc1d7813d5ac1e992113"}]
