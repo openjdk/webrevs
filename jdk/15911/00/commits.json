@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316933: RISC-V: compiler\/vectorapi\/VectorCastShape128Test.java fails when using RVV"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"6eb3fa5152e2e21bd39d17ee94e89a4ce469e724"}]
