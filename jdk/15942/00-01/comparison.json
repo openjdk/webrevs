@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -391,1 +391,1 @@\n-        return SliceOps.makeDouble(this, 0, maxSize);\n+        return SliceOps.makeDouble(this, 0L, maxSize);\n","filename":"src\/java.base\/share\/classes\/java\/util\/stream\/DoublePipeline.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
