@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    public static final BigDecimal pi  = new BigDecimal(Math.PI);\n+    public static final BigDecimal pi = new BigDecimal(Math.PI);\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StringFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
