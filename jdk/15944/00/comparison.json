@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -467,1 +467,1 @@\n-  return Atomic::load_acquire(&(_array[i % _size]));\n+  return Atomic::load(&(_array[i % _size]));\n","filename":"src\/hotspot\/share\/interpreter\/oopMapCache.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

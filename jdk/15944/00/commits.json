@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316955: Unnecessary memory barrier for reading OopMapCacheEntry from OopMapCache"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/oopMapCache.cpp"}],"sha":"4f72ab1003c84391b9f67d4cdf9ac60285650a03"}]
