@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1919,1 +1919,1 @@\n-         buf.append(genMethodLink(method));\n+         buf.append(genMethodAndKlassLink(method));\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/ui\/classbrowser\/HTMLGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
