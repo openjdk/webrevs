@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-  if ((res = pthread_create(&thread, NULL, thread_start, NULL)) != 0) {\n+  if ((res = pthread_create(&thread, &attr, thread_start, NULL)) != 0) {\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/terminatedThread\/libterminatedThread.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
