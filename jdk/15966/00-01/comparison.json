@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,2 @@\n+import java.util.concurrent.locks.LockSupport;\n+\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/StopThread\/stopthrd007.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
