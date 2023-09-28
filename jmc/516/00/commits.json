@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clarify required Java version for builds"},"files":[{"filename":"README.md"}],"sha":"55b00797845c2945d9e3f2fb85870abad0670697"},{"commit":{"message":"Set osgi required Java version"},"files":[{"filename":"application\/org.openjdk.jmc.rcp.product\/jmc.product"}],"sha":"3237e8c15811e372eda7ee085583e4c973c2039a"}]
