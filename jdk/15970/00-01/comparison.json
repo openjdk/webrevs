@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -663,1 +663,1 @@\n-  name = os::strdup(name); \/\/ Note: this leaks. See JDK-8289632\n+  name = os::strdup(name);\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCodeInstaller.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
