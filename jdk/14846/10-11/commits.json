@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove stripe size adaptations and cache potentially expensive start array queries"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psCardTable.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psCardTable.hpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psScavenge.cpp"}],"sha":"50737dda6733a2213834640d3dcb9a26db67aa2c"}]
