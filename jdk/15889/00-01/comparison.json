@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-        \/\/ K10 should always to read first\n+        \/\/ K10 should always be read first\n","filename":"test\/jdk\/sun\/security\/krb5\/config\/IncludeDirOrder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
