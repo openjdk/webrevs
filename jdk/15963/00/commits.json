@@ -1,0 +1,1 @@
+[{"commit":{"message":"8317240: Promptly free OopMapEntry after fail to insert the entry to OopMapCache"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/oopMapCache.cpp"}],"sha":"63f8a6c4362b542c30863f318e78102fdb3c458d"}]
