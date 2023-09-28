@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add 0.5 to avoid rounding issues"},"files":[{"filename":"make\/RunTests.gmk"}],"sha":"8319f6953624b8e8f129308a39178058d2830658"},{"commit":{"message":"JDK-8316894"},"files":[{"filename":"make\/RunTests.gmk"}],"sha":"32531634e6385e9368646e442285b4d32ce41275"}]
