@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-     *         composed text; null otherwise\n+     *         composed text; 0 otherwise\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/input\/InputMethodRequests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
