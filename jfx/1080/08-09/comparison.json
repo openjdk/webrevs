@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,3 @@\n-    Point2D getTextLocationRelative(int offset);\n+    default Point2D getTextLocationRelative(int offset) {\n+        return new Point2D(0D, 0D);\n+    }\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/input\/InputMethodRequests.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
