@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,1 @@\n+#include \"runtime\/crac.hpp\"\n","filename":"src\/hotspot\/os\/posix\/crac_posix.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
