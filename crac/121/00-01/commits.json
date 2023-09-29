@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use nullptr\n - suggested by Radim Vansa\n - it follows upstream commit 5d1f71daf06870810c9ca24e911d6191cc4f3006"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_x86\/os_bsd_x86.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_x86\/os_linux_x86.cpp"}],"sha":"61f06577d5e61f23350844cbb81aebc9e8741baf"}]
