@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -145,3 +145,0 @@\n-  template <typename T, class OopClosureType>\n-  inline void oop_oop_iterate_elements_bounded(objArrayOop a, OopClosureType* closure, MemRegion mr);\n-\n","filename":"src\/hotspot\/share\/oops\/objArrayKlass.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
