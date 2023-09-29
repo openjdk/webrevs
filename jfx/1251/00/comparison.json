@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,0 +240,2 @@\n+        \/\/ This fixes an issue with windows - \":\" is not allowed for file on Windows.\n+        jfxVersion = jfxVersion.replace(\":\", \"-\");\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/utils\/NativeLibLoader.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
