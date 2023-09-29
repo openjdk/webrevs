@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix OSX x86_64 CRaC crash\n - copy-paste the same code from src\/hotspot\/os_cpu\/linux_x86\/os_linux_x86.cpp"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_x86\/os_bsd_x86.cpp"}],"sha":"cde3644965c4797fc8ac207e5d8697743a4afbff"}]
