@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314294: Unsafe::allocateMemory and Unsafe::freeMemory are slower than malloc\/free"},"files":[{"filename":"src\/hotspot\/share\/prims\/unsafe.cpp"}],"sha":"8db44fdf2965647b56ffcfab6d069aeb9bec92f8"}]
