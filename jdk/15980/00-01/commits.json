@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314498: [macos] Transferring File objects to Finder fails\n\nCredit goes to JetBrain that fixed it in JetBrainsRuntime (commit 24819d9).\nThis fix was also cherry-picked to muCommander and was verified on macOS\n12.6.8 and macOs 13, on X86_64 and on M1."},"files":[],"sha":"c7a0e59e4d34c4957c5416c81d4178afca6cb5b6"}]
