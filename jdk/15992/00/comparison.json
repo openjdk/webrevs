@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -948,4 +948,1 @@\n-            labels: \"test\",\n-            environment: {\n-                \"JT_JAVA\": common.boot_jdk_home\n-            }\n+            labels: \"test\"\n","filename":"make\/conf\/jib-profiles.js","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
