@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n- * @run main\/othervm HprofTest\n+ * @run main HprofTest\n","filename":"test\/lib-test\/jdk\/test\/lib\/hprof\/HprofTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
