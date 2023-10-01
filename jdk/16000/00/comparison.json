@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -154,1 +154,1 @@\n-  AtomicCmpxchg1ByteStressSupport() : _default_val(0xaa), _base(7), _array{} {}\n+  AtomicCmpxchg1ByteStressSupport() : _default_val(0x7a), _base(7), _array{} {}\n","filename":"test\/hotspot\/gtest\/runtime\/test_atomic.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
