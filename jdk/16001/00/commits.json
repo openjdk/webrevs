@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix incorrect invariant assertion in this escape analysis."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ThisEscapeAnalyzer.java"},{"filename":"test\/langtools\/tools\/javac\/warnings\/ThisEscape.java"}],"sha":"8ad1247aae88014cb891aa9f6a8953a6affb975c"}]
