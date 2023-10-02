@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1435,1 +1435,1 @@\n-     * Assemble the entry attributes\n+     * Populate the entry with additional attributes used by the implementation.\n","filename":"src\/java.base\/share\/classes\/sun\/security\/pkcs12\/PKCS12KeyStore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
