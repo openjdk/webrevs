@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport ba1a46392f0b9c77c64278f82513aaf51f5c9b1b"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestSinkingMoreThan2AddPNodes.java"}],"sha":"9c13fdad427807c7caaa758d9c87ffad6901b416"}]
