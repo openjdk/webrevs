@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-        if(result) {\n+        if (result) {\n","filename":"test\/jdk\/sun\/security\/rsa\/SignedObjectChain.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
