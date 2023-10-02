@@ -1,0 +1,1 @@
+[{"commit":{"message":"8317340: Windows builds are not reproducible if MS VS compiler install path differs\n\nSigned-off-by: Andrew Leonard <anleonar@redhat.com>"},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"},{"filename":"make\/autoconf\/util_paths.m4"}],"sha":"8a9c36af8803eadbe6a4269dbcf86fcb68f30893"}]
