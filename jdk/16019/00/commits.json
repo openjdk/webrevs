@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316233: VirtualThreadStart events should not be thread-filtered"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmti.xml"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"1b7165522c2860382dd003dc5a4ab53575ec746b"}]
