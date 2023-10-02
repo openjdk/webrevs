@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-     * @param mapFunction function remapping labels\n+     * @param mapFunction function for remapping labels in the source code model\n","filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/components\/CodeRelabeler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
