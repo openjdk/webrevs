@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,0 @@\n-import java.awt.Dimension;\n@@ -83,2 +82,1 @@\n-            frame.setPreferredSize(new Dimension(200, 200));\n-            frame.pack();\n+            frame.setSize(200, 200);\n","filename":"test\/jdk\/java\/awt\/dnd\/RejectDragDropActionTest.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
