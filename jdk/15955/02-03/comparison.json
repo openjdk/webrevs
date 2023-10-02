@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2925,1 +2925,1 @@\n-  if (exception_code != EXCEPTION_BREAKPOINT) {\n+  if (exceptionCode != EXCEPTION_BREAKPOINT) {\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
