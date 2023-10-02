@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only include required changes in symbolengine.cpp"},"files":[{"filename":"src\/hotspot\/os\/windows\/symbolengine.cpp"}],"sha":"1cda7bcea6a7e007f94e676d523f26358b40cf28"},{"commit":{"message":"Minimize os_windows.cpp"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"26585205d27644bd6da2fc5607833cc3b0ab4390"}]
