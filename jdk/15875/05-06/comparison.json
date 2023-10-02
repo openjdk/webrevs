@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @build Util JRobot\n+ * @build JRobot\n@@ -89,1 +89,0 @@\n-            Util.blockTillDisplayed(mainFrame);\n","filename":"test\/jdk\/javax\/swing\/ToolTipManager\/bug5078214.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
