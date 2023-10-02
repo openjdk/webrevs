@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305765: CompressedClassPointers.java is unreliable due to ASLR"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace.cpp"},{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"},{"filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedClassPointers.java"}],"sha":"350d64f0b52bfd9632f7ac8352ad8a64f9a0a57a"}]
