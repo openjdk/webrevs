@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -728,1 +728,1 @@\n-#ifdef INCLUDE_CDS_JAVA_HEAP\n+#if INCLUDE_CDS_JAVA_HEAP\n","filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
