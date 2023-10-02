@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove arbitrary timeout for wait, use accessors for _mode"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"}],"sha":"639ced2a2a186b5fa08f14661648421162acf4b8"}]
