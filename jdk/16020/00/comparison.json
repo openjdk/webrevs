@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+#include \"jni_util.h\"\n@@ -30,0 +31,4 @@\n+\/*\n+ * Declare library specific JNI_Onload entry if static build\n+ *\/\n+DEF_STATIC_JNI_OnLoad\n","filename":"src\/java.rmi\/share\/native\/librmi\/GC.c","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
