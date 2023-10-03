@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -135,0 +135,2 @@\n+  # nio tests' libCreationTimeHelper native needs -ldl linker flag\n+  BUILD_JDK_JTREG_LIBRARIES_LDFLAGS_libCreationTimeHelper := -ldl\n","filename":"make\/test\/JtregNativeJdk.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
