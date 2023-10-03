@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1102,1 +1102,1 @@\n-        if ((m.isInit() || m.isValueClassConst()) && (m.flags_field & RECORD) != 0)\n+        if (m.isInit() && (m.flags_field & RECORD) != 0)\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
