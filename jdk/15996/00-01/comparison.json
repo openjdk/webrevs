@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,3 +39,3 @@\n-#include <cstdlib>\n-#include <cstdio>\n-#include <cstring>\n+#include <stdlib.h>\n+#include <stdio.h>\n+#include <string.h>\n","filename":"src\/java.security.jgss\/windows\/native\/libsspi_bridge\/sspi.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
