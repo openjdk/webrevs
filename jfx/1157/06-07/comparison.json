@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -760,1 +760,1 @@\n-            if (text != null) {\n+            if (!textFound) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/text\/PrismTextLayout.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
