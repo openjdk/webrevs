@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,0 +89,1 @@\n+            robot.setAutoWaitForIdle(true);\n","filename":"test\/jdk\/java\/awt\/dnd\/RejectDragDropActionTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
