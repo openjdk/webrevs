@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-import static org.junit.jupiter.api.Assertions.assertEqual;\n+import static org.junit.jupiter.api.Assertions.assertEquals;\n","filename":"test\/jdk\/java\/util\/Locale\/LegacyCodesClassInvariant.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
