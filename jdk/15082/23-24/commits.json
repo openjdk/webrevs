@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update logic to use cmpxchg rather than add"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.hpp"}],"sha":"9b5772fbed1b6940f97a6867a12c872bba8b0229"}]
