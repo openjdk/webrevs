@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -243,0 +243,1 @@\n+      AC_MSG_RESULT([$JTREG_TOOL_JDK])\n@@ -244,1 +245,0 @@\n-      AC_MSG_CHECKING([jtreg java existence])\n","filename":"make\/autoconf\/lib-tests.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
