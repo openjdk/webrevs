@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+ * @key headful\n@@ -28,1 +29,0 @@\n- * @library ..\/regtesthelpers \/test\/lib\n@@ -30,1 +30,0 @@\n- * @key headful\n","filename":"test\/jdk\/javax\/swing\/ToolTipManager\/bug5078214.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
