@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add fix and unit test for another variant of the assertion failure."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ThisEscapeAnalyzer.java"},{"filename":"test\/langtools\/tools\/javac\/warnings\/ThisEscape.java"}],"sha":"03cda07e8ab3533fbc1b4f649526cbb86ad62643"}]
