@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1604,1 +1604,1 @@\n-                if (prev != nullptr) {\n+                if (prev != nullptr && get_ctrl(prev) == x_ctrl) {\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
