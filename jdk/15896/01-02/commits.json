@@ -1,0 +1,1 @@
+[{"commit":{"message":"add IntrusiveListEntry::is_attached()"},"files":[{"filename":"src\/hotspot\/share\/utilities\/intrusiveList.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_intrusiveList.cpp"}],"sha":"e85271eb6df98812db56b8f4192d4ee4eb36c02b"}]
