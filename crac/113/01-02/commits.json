@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix a race by new _block_async.\n - bugreported by Radim Vansa"},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp"},{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"}],"sha":"a4666eb4f4fdaf5655ef3803ff862ed88abbcfda"}]
