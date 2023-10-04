@@ -1,0 +1,1 @@
+[{"commit":{"message":"Updated docs for NullCipher to indicate it will not throw and IllegalStateException when calling Cipher methods in bad state"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/NullCipher.java"}],"sha":"8955ffe5b0cb480f155b4f74d2ae6497cd952cf5"}]
