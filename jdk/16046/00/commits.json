@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316967: Remove unnecessary vmtimer from UnregisteredClasses::load_class"},"files":[{"filename":"src\/hotspot\/share\/cds\/unregisteredClasses.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoader.hpp"}],"sha":"fbb1084cc45555d1686f7ba32d9d3ef02e11976c"}]
