@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-\t    robot.delay(250);\n+            robot.delay(250);\n","filename":"test\/jdk\/javax\/swing\/JMenuItem\/4654927\/bug4654927.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
