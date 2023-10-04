@@ -1,0 +1,1 @@
+[{"commit":{"message":"require avx2, so misalignment bug does not trigger"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestMovingLoadBeforeStore.java"}],"sha":"7ba6adb4fab4a3aee4fd20ffda4bdf73d4981874"}]
