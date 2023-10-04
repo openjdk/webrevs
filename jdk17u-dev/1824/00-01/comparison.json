@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-#define SSIZE_PLUS_FORMAT        \"%+\"         PRIdPTR\n+#define SSIZE_PLUS_FORMAT        \"%+\"  PRIdPTR\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
