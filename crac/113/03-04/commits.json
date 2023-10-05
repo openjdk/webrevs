@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not keep logs closed if snapshot failed\n - bugreported by Radim Vansa"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"}],"sha":"b941490f0ff688a8fc8edd301e79c8e8a6e815a2"}]
