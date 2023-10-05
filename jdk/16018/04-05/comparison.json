@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-                 !p.equals(endPoint) || incorrectActionDetected;\n+                 !p.equals(endPoint) && incorrectActionDetected;\n","filename":"test\/jdk\/java\/awt\/dnd\/RejectDragDropActionTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
