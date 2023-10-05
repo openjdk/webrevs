@@ -1,0 +1,1 @@
+[{"commit":{"message":"8317575: AArch64: C2_MacroAssembler::fast_lock uses rscratch1 for cmpxchg result"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.cpp"}],"sha":"a15846b9c121a4c3ad00d8e73e9e706cd96d498c"}]
