@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix `checkUnconditionallyExact` and adjust the type of numeric constants (to primitive type)"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Types.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Check.java"}],"sha":"c041d208a6fc6beaf785e8a400815fb4a7d08e78"}]
