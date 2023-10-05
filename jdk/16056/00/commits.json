@@ -1,0 +1,1 @@
+[{"commit":{"message":"8317600 vtablestubs::stub_containing memory ordering not guaranteed"},"files":[{"filename":"src\/hotspot\/share\/code\/vtableStubs.cpp"},{"filename":"src\/hotspot\/share\/code\/vtableStubs.hpp"}],"sha":"404f0cd412e655f371099316f51104a31edb2faa"}]
