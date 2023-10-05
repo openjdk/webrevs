@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-                 !p.equals(endPoint) && incorrectActionDetected;\n+                 !p.equals(endPoint) && !incorrectActionDetected;\n@@ -116,0 +116,2 @@\n+        Thread.dumpStack();\n+\n","filename":"test\/jdk\/java\/awt\/dnd\/RejectDragDropActionTest.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
