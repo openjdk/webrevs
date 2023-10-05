@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,0 +139,1 @@\n+  assert(java_lang_Class::as_Klass(get_oop()) != nullptr, \"klass is null\");\n","filename":"src\/hotspot\/share\/ci\/ciInstance.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
