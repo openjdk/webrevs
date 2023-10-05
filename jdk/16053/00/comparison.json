@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -417,1 +417,1 @@\n-            return buffer.get();\n+            return buffer.get() & 0xFF;\n","filename":"src\/jdk.internal.le\/share\/classes\/jdk\/internal\/org\/jline\/utils\/PumpReader.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
