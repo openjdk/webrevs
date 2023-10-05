@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -419,0 +419,2 @@\n+     * @throws IndexOutOfBoundsException if the starting index given by\n+     *            {@code parsePos} is outside {@code source}.\n","filename":"src\/java.base\/share\/classes\/java\/text\/ListFormat.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
