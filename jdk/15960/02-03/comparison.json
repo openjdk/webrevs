@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -373,0 +373,1 @@\n+\n@@ -392,0 +393,2 @@\n+        contentPane.revalidate();\n+        contentPane.repaint();\n@@ -398,1 +401,0 @@\n-\n","filename":"src\/java.desktop\/share\/classes\/sun\/swing\/JLightweightFrame.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
