@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8269393: store\/load order not preserved when handling memory pool due to weakly ordered memory architecture of aarch64\"\n\nThis reverts commit 7162624d70886fc2afc357ab4b0d4ec431e2d1cd."},"files":[{"filename":"src\/hotspot\/share\/services\/memoryPool.cpp"}],"sha":"6d6179ac0436cbbbfe0e674ef62f5e2f6942c25e"}]
