@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+ * @requires os.simpleArch==\"x64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/UDivINodeIdealizationTests.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
