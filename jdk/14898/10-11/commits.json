@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"CoInitializeEx fuction error check updated\"\n\nThis reverts commit a3bf3f4cf07c82cad3ccfd9c2e27f24231ef9ffd."},"files":[{"filename":"src\/java.desktop\/windows\/native\/libjsound\/PLATFORM_API_WinOS_DirectSound.cpp"}],"sha":"c4512410b58593eafe4af413d450aa72e96b4ae1"}]
