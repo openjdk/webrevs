@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-    @IR(counts = {IRNode.DIV_BY_ZERO_TRAP, \"1\"})\n+    @IR(counts = {IRNode.DIV_BY_ZERO_TRAP, \"1\"}, applyIfPlatform = {\"x64\", \"true\"})\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/UDivLNodeIdealizationTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
