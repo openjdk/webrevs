@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,1 @@\n+import javax.tools.JavaFileManager;\n","filename":"test\/lib\/jdk\/test\/lib\/compiler\/InMemoryJavaCompiler.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
