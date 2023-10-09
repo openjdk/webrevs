@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-        MemorySegment segment = allocateNoInit(bytes.length + termCharSize);\n+        MemorySegment segment = allocateNoInit((long) bytes.length + termCharSize);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/SegmentAllocator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
