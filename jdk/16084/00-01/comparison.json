@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,0 +115,3 @@\n+        \/\/ UNIX attributes not supported on FAT\n+        if (name.equals(\"unix\") && entry().fstype().equals(\"msdos\"))\n+            return false;\n","filename":"src\/java.base\/macosx\/classes\/sun\/nio\/fs\/BsdFileStore.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
