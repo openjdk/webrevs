@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1141,2 +1141,2 @@\n-inline intx byte_size(void* from, void* to) {\n-  return (address)to - (address)from;\n+inline size_t byte_size(void* from, void* to) {\n+  return pointer_delta(to, from, sizeof(char));\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
