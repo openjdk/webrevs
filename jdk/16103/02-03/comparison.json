@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n-        validTypes = new HashSet(\n+        validTypes = new HashSet<String>(\n","filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/PBEKeyFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
