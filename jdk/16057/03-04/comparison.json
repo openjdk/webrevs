@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -636,1 +636,1 @@\n-        NET_ThrowNew(env, WSAGetLastError(), \"ioctlsocket);\n+        NET_ThrowNew(env, WSAGetLastError(), \"ioctlsocket\");\n","filename":"src\/java.base\/windows\/native\/libnio\/ch\/Net.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
