@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n-        {\"com.scientificware.color\", null},\n+        {\"org.openjdk.notacolor\", null},\n","filename":"test\/jdk\/javax\/swing\/text\/html\/CSS\/MissingColorNames.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
