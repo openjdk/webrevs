@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -264,1 +264,1 @@\n-\/\/ not safe to free them until them since they might be visible to\n+\/\/ not safe to free them until then since they might be visible to\n","filename":"src\/hotspot\/share\/code\/icBuffer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
