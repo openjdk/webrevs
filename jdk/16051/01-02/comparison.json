@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,2 @@\n-    struct procentry64 ProcessBuffer[100];\n+    const int Chunk = 100;\n+    struct procentry64 ProcessBuffer[Chunk];\n@@ -85,1 +86,0 @@\n-    int Chunk = 100;\n","filename":"src\/java.base\/aix\/native\/libjava\/ProcessHandleImpl_aix.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
