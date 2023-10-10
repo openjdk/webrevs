@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -287,4 +287,1 @@\n-  if (NOT_PRODUCT(true) PRODUCT_ONLY(PrintMethodData)) {\n-    \/\/ TODO: why is this unconditional in non-product builds?\n-    print_method_profiling_data();\n-  }\n+  print_method_profiling_data();\n","filename":"src\/hotspot\/share\/runtime\/java.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
