@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8317772-NMT-Make-peak-values-available-in-release-builds"},"files":[{"filename":"src\/hotspot\/share\/services\/mallocTracker.cpp"},{"filename":"src\/hotspot\/share\/services\/mallocTracker.hpp"},{"filename":"src\/hotspot\/share\/services\/memReporter.cpp"}],"sha":"72ea79ef05e0705090f2a069f4e6f747bb4ee3ee"}]
