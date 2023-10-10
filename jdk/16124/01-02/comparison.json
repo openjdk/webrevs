@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -230,1 +230,1 @@\n-                  $(call SET_SHARED_LIBRARY_ORIGIN), \\\n+                 $(call SET_SHARED_LIBRARY_ORIGIN), \\\n","filename":"make\/modules\/java.base\/Lib.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
