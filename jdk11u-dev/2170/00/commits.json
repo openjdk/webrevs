@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 7a85441a85b2472215ca7bc66e636dff06d9ebf3"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/InferenceContext.java"},{"filename":"test\/langtools\/tools\/javac\/inference_context_min\/DontMinimizeInfContextTest.java"}],"sha":"ea75bbcde8ae92193263a216dbaf895d8dfc0003"}]
