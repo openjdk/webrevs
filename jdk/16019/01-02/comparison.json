@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1581,1 +1581,0 @@\n-  \/\/ Do not post virtual thread start event for hidden java thread.\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
