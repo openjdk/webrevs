@@ -1,0 +1,1 @@
+[{"commit":{"message":"Track 'this-escape' recursion by target method, not by call site."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ThisEscapeAnalyzer.java"},{"filename":"test\/langtools\/tools\/javac\/warnings\/ThisEscape.java"}],"sha":"665cf51a2b51ef3a25c56c1c318504c07fbcaf1d"}]
