@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-    \/\/ 0. Help, 1. acquire, 2. renew, 3. validate, 4. Help\n+    \/\/ 0. Help, 1. acquire, 2. renew, 3. validate\n","filename":"src\/java.security.jgss\/windows\/classes\/sun\/security\/krb5\/internal\/tools\/KinitOptions.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
