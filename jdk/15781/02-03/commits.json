@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve the use of madvise for pretouching:\n\n1. use madvise when THP is actually used;\n2. remove the need of modifing page_size;\n3. log the failure of madvise rather than warn."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"525b3ec5323a81d8d91adc5cbb64d6d1a83fa165"}]
