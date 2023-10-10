@@ -1,0 +1,1 @@
+[{"commit":{"message":"8317763:Restrict AVX512 intrinsics for Arrays.sort() methods to Intel CPUs"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"},{"filename":"src\/java.base\/share\/classes\/java\/util\/DualPivotQuicksort.java"}],"sha":"1138dc3883123b0331e535ca651505588463c60d"}]
