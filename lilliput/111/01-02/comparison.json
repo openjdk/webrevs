@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1402,1 +1402,1 @@\n-        _offset != oopDesc::klass_offset_in_bytes()) {\n+        _offset != arrayOopDesc::klass_offset_in_bytes()) {\n","filename":"src\/hotspot\/share\/opto\/type.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
