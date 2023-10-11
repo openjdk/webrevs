@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,1 +137,1 @@\n-            = System.getProperty(\"test.security.protocol\", \"TLS\");\n+            = System.getProperty(\"test.security.protocol\");\n","filename":"test\/jdk\/javax\/net\/ssl\/TLSCommon\/SSLEngineTestCase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
