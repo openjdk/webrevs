@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,2 +53,0 @@\n-extern int XShmQueryExtension(Display* dpy);\n-\n","filename":"src\/java.desktop\/unix\/native\/common\/awt\/awt_GraphicsEnv.h","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
