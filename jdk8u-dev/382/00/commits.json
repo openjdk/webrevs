@@ -1,0 +1,1 @@
+[{"commit":{"message":"8285696: AlgorithmConstraints:permits not throwing\n IllegalArgumentException when 'alg'  is null\n\nBackport-of: 47951655acacba515c0d69f5192257664f887dba"},"files":[{"filename":"jdk\/src\/share\/classes\/sun\/security\/util\/DisabledAlgorithmConstraints.java"}],"sha":"51204bb54a9927e770b575593b497fa21426aa47"}]
