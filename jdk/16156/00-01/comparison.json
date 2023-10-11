@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -742,1 +742,1 @@\n-                    case \"DTLSv1.1\":\n+                    case \"DTLSv1.2\":\n","filename":"test\/jdk\/javax\/net\/ssl\/TLSCommon\/SSLEngineTestCase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
