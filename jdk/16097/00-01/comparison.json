@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,0 +78,1 @@\n+                        currentFrame.setMaximum(false);\n","filename":"src\/java.desktop\/windows\/classes\/com\/sun\/java\/swing\/plaf\/windows\/WindowsDesktopManager.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
