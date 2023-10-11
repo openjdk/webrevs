@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix assertion to deal with promote-in-place-only evacuations"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"9535b5113d749c1fca941d0b72d88cafa18e9e45"}]
