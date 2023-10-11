@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4166,1 +4166,0 @@\n-            int lowInt = (int)intCompact % 100;\n@@ -4175,1 +4174,1 @@\n-                    (int) intCompact - highInt * 100);\n+                    (int) intCompact % 100);\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
