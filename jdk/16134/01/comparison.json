@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -270,1 +270,1 @@\n-     * Constructs a new identity hash map containing the keys-value mappings\n+     * Constructs a new identity hash map containing the key-value mappings\n","filename":"src\/java.base\/share\/classes\/java\/util\/IdentityHashMap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
