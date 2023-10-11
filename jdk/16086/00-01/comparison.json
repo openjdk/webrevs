@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1293,1 +1293,1 @@\n-    options[5].optionString = (char*) \"_strerror\";\n+    options[5].optionString = (char*) \"_createvm_errorstr\";\n","filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
