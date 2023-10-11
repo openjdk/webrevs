@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -282,0 +282,3 @@\n+#if[byte]\n+ * @sealedGraph\n+#end[byte]\n","filename":"src\/java.base\/share\/classes\/java\/nio\/X-Buffer.java.template","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
