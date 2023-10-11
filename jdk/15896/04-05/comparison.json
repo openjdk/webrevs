@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,1 +176,1 @@\n-  IntrusiveListTestWithDisposal() : ndisposed(0) { }\n+  IntrusiveListTestWithDisposal() : ndisposed(0), disposed() { }\n","filename":"test\/hotspot\/gtest\/utilities\/test_intrusiveList.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
