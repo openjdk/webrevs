@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,2 +84,0 @@\n-                            } else {\n-                                f.setMaximum(false);\n","filename":"src\/java.desktop\/windows\/classes\/com\/sun\/java\/swing\/plaf\/windows\/WindowsDesktopManager.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
