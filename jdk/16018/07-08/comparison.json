@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,1 @@\n-                         sign(endPoint.y - p.y))) {\n+                             sign(endPoint.y - p.y))) {\n","filename":"test\/jdk\/java\/awt\/dnd\/RejectDragDropActionTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
