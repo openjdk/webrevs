@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4012,2 +4012,0 @@\n-        DEBUG_ONLY( n->dump_bfs(1, 0, \"-\"); );\n-        assert(false, \"malformed control flow\");\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
