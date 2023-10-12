@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,1 @@\n+ * @requires vm.flavor != \"zero\"\n","filename":"test\/jdk\/java\/foreign\/TestStringEncodingJumbo.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
