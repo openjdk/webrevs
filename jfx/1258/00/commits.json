@@ -1,0 +1,1 @@
+[{"commit":{"message":"Stages on Mac now honor iconified and maximized flags set while the window is hidden."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/stage\/Stage.java"},{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/stage\/StageAttributesTest.java"}],"sha":"cc72d4aeb4d226c1235137386bad5eede2b09c05"}]
