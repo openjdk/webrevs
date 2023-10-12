@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8308453: JSSE regression test keystore migration from JKS to PKCS12"},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/etc\/keystore"},{"filename":"test\/jdk\/javax\/net\/ssl\/etc\/truststore"},{"filename":"test\/jdk\/javax\/net\/ssl\/etc\/unknown_keystore"}],"sha":"06a30c078203987aca0dfdf4bd37353a699936a6"}]
