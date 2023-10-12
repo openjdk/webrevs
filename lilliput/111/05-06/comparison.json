@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5328,1 +5328,1 @@\n-instruct loadNKlassCompactHeaders(rRegN dst, indOffset8 mem, rFlagsReg cr)\n+instruct loadNKlassCompactHeaders(rRegN dst, memory mem, rFlagsReg cr)\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
