@@ -1,0 +1,1 @@
+[{"commit":{"message":"8318015: Lock inflation not needed for OSR or Deopt for new locking modes"},"files":[{"filename":"src\/hotspot\/share\/runtime\/basicLock.cpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"089a08207ae4b2dd7e6ce4f78608f2788182090f"}]
