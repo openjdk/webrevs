@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-        \/\/ \"\\u2019\" as decimal separator, \"\\u002E\" as grouping separator\n+        \/\/ \"\\u002E\" as decimal separator, \"\\u2019\" as grouping separator\n","filename":"test\/jdk\/java\/text\/Format\/NumberFormat\/Bug8132125.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
