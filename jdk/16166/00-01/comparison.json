@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -228,1 +228,0 @@\n-                System.out.printf(\"  compare with supported bin: %s%n\", bin);\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CPrinterJob.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
