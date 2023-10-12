@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -901,1 +901,0 @@\n-    \/\/ Here, we avoid polymorphism to ensure full VM optimization capabilities.\n","filename":"src\/java.base\/share\/classes\/java\/util\/AbstractMap.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
