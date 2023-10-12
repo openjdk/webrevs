@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,3 @@\n-            healthySet.add(path);\n+            if (Repository.get(path).isPresent()) {\n+                healthySet.add(path);\n+            }\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/HostedRepositoryPool.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
