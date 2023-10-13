@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -790,1 +790,1 @@\n-  char buf[512];\n+  char buf[1024];\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
