@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,0 +91,1 @@\n+  ShenandoahSharedFlag _humongous_alloc_failure_gc;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
