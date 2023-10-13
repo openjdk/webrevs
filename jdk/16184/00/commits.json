@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8318089-Class-space-not-marked-as-such-with-NMT-when-CDS-is-off"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace.cpp"}],"sha":"12aba87a14e0b44b3c61704a58044c1e547f60bd"}]
