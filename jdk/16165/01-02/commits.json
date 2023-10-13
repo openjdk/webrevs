@@ -1,0 +1,1 @@
+[{"commit":{"message":"Write values into displaced header slots in debug builds."},"files":[{"filename":"src\/hotspot\/share\/runtime\/basicLock.cpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"3f886a86e1285c20af7d10d44358bc1195289e77"}]
