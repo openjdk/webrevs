@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change made to configure max allowed cert chain lengths based on updated CSR"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLConfiguration.java"}],"sha":"53ae43bf7f1baf2d0c13428998058a5a9e775ecc"}]
