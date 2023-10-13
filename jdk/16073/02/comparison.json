@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n- * @ignore This test has brittle dependencies on an external working python.\n+ * @ignore 8303920 This test has brittle dependencies on an external working python.\n","filename":"test\/jdk\/java\/util\/zip\/DataDescriptorSignatureMissing.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
