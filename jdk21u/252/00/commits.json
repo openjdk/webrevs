@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport a8473b70797ef8fa0704774bfadbd84cb33a1d53"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ThisEscapeAnalyzer.java"},{"filename":"test\/langtools\/tools\/javac\/warnings\/ThisEscape.java"}],"sha":"0c74a151f9782cd820648435d963ff0c3733772d"}]
