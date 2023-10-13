@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1319,2 +1319,2 @@\n-        int putField1 = -1;\n-        int putField2 = -1;\n+        FieldInstruction putField1 = null;\n+        FieldInstruction putField2 = null;\n","filename":"test\/langtools\/tools\/javac\/records\/RecordCompilationTests.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
