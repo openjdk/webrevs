@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,0 +161,3 @@\n+        if (algorithm == null || algorithm.isEmpty()) {\n+            throw new IllegalArgumentException(\"No algorithm name specified\");\n+        }\n","filename":"jdk\/src\/share\/classes\/sun\/security\/util\/DisabledAlgorithmConstraints.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
