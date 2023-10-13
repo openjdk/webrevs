@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -485,1 +485,1 @@\n-        runJcmd(main.getName(), \"JDK.checkpoint\").shouldHaveExitValue(0);\n+        runJcmd(main().getName(), \"JDK.checkpoint\").shouldHaveExitValue(0);\n","filename":"test\/lib\/jdk\/test\/lib\/crac\/CracBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
