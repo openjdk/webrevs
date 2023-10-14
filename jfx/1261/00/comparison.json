@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3795,0 +3795,2 @@\n+        drtJar.dependsOn compileJavaDOMBinding, processResources\n+        compileShimsJava.dependsOn compileJavaDOMBinding\n","filename":"build.gradle","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
