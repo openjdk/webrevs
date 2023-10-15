@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -999,1 +999,1 @@\n-    if (jwindow && !is_iconified && !is_fullscreen) {\n+    if (jwindow && !is_iconified) {\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
