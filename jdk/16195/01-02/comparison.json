@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-    private final static ClassDesc CD_Thread = classDesc(Thread.class);\n+    private static final ClassDesc CD_Thread = classDesc(Thread.class);\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/util\/Bytecode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
