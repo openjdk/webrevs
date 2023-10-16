@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+# flag-sensitive:       test is sensitive to certain flags and might fail when flags are passed using -vmoptions and -javaoptions\n","filename":"test\/hotspot\/jtreg\/TEST.ROOT","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
