@@ -1,0 +1,1 @@
+[{"commit":{"message":"-XX:+ShowCPUFeatures: Fix double 0x (0x0x)\n - CPU features being used are: -XX:CPUFeatures=0x0x4ff7fff9dfcfbf7,0x0x3e6"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"1394dbec89e8d50d7303839e702a5e56bde0941e"}]
