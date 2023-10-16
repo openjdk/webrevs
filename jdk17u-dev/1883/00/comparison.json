@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -728,0 +728,3 @@\n+\n+  $ECHO \"check codesign, calling $CODESIGN $PARAMS $CODESIGN_TESTFILE\" >&AS_MESSAGE_LOG_FD\n+\n","filename":"make\/autoconf\/jdk-options.m4","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
