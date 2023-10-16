@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,0 +86,2 @@\n+  \"XDG_CACHE_HOME\", \"XDG_CONFIG_HOME\", \"FC_LANG\", \"FONTCONFIG_USE_MMAP\",\n+\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
