@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support 4-byte aligned doubles in structures."},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/AbstractLinker.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/ppc64\/aix\/AixPPC64Linker.java"}],"sha":"cba58ed0217fa43cac08ef3c51ad1b17e371e92f"}]
