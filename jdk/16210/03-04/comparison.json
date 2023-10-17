@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -15,1 +15,1 @@\n-    private String asString2() {\n+    private String asString2(Object o) {\n","filename":"test\/langtools\/tools\/javac\/lambda\/methodReference\/PrivateMethodReferenceWithTypeVarTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
