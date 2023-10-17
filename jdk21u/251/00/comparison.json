@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,0 +116,1 @@\n+    ResourceMark rm;\n","filename":"src\/hotspot\/share\/opto\/c2compiler.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
