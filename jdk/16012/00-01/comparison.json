@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+ * @key flag-sensitive\n@@ -45,0 +46,1 @@\n+ * @key flag-sensitive\n@@ -59,0 +61,1 @@\n+ * @key flag-sensitive\n","filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestMaxNewSize.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
