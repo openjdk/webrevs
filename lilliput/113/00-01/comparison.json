@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,1 +200,1 @@\n-  const ptrdiff_t estimate = 124;\n+  const ptrdiff_t estimate = UseCompactObjectHeaders ? 132 : 124;\n","filename":"src\/hotspot\/cpu\/aarch64\/vtableStubs_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
