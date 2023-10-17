@@ -1,0 +1,1 @@
+[{"commit":{"message":"Notify Xor when changing constraint casts"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestNotifyCastToXor.java"}],"sha":"06669ce4b74593213afc111e16148ea5db5e0487"}]
