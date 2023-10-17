@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316470: Incorrect error location for \"invalid permits clause\" depending on file order"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/sealed\/SealedErrorPositions.java"}],"sha":"94aa1abd43d593145cd71c50d1b97b59fd136c6c"}]
