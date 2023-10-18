@@ -1,0 +1,1 @@
+[{"commit":{"message":"8305753: Enable JIT compilation for -Xshare:dump"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/DeterministicDump.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/CommandLineFlagCombo.java"}],"sha":"6086c88b43fd54c71d7294d3b55458e199346f32"}]
