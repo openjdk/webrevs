@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-            int i = -10;\n+        int i = -10;\n","filename":"test\/hotspot\/jtreg\/serviceability\/HeapDump\/FieldsInInstanceTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
