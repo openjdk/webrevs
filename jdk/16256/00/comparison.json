@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,0 +91,4 @@\n+ifeq ($(call isTargetCpu, arm), true)\n+    DISABLED_WARNINGS_gcc += attributes\n+endif\n+\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
