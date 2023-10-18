@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-TZ_DATA_DIR := $(MODULE_SRC)\/..\/java.base\/share\/data\/tzdata\n+TZ_DATA_DIR := $(TOPDIR)\/src\/java.base\/share\/data\/tzdata\n","filename":"make\/modules\/jdk.localedata\/Gensrc.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
