@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,1 +239,0 @@\n-        assert(ThreadStackTracker::thread_count() == 0, \"Not used\");\n","filename":"src\/hotspot\/share\/services\/memReporter.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
