@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3048,1 +3048,1 @@\n-      log_info(cds)(\"reduced -Xcomp to -Xmixed\");\n+      log_info(cds)(\"reduced -Xcomp to -Xmixed for static dumping\");\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
