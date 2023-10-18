@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix Bootstrap initialization error by using `explicitCastArguments` for integral tests"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/SwitchBootstraps.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/PrimitivePatterns.java"}],"sha":"fa6256b4acd69eeb060d2bdd4550f018b777ad78"}]
