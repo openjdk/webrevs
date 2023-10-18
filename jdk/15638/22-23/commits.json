@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix SwitchBootstraps for pattern matching over longs"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/SwitchBootstraps.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/PrimitivePatterns.java"}],"sha":"248971be5ab4dbf89702765a73de381fce4f679c"}]
