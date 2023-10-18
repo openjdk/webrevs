@@ -1,0 +1,1 @@
+[{"commit":{"message":"improve compiler errors for improper splice\/swap"},"files":[{"filename":"src\/hotspot\/share\/utilities\/intrusiveList.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_intrusiveList.cpp"}],"sha":"b93431e26a375e6cab51cb1375fd549a7066cb8b"}]
