@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,1 @@\n-    Thread* thread = Thread::current_or_null_safe();\n+    Thread* thread = Thread::current_or_null();\n@@ -146,1 +146,1 @@\n-  initialize();\n+  assert(is_loaded(), \"invariant\");\n","filename":"src\/hotspot\/share\/utilities\/zipLibrary.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
