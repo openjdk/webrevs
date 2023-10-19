@@ -1,0 +1,1 @@
+[{"commit":{"message":"8317373: Add Telia Root CA v2"},"files":[{"filename":"src\/java.base\/share\/data\/cacerts\/teliarootcav2"},{"filename":"test\/jdk\/security\/infra\/java\/security\/cert\/CertPathValidator\/certification\/CAInterop.java"},{"filename":"test\/jdk\/sun\/security\/lib\/cacerts\/VerifyCACerts.java"}],"sha":"e4582204e9367afeae16dccf120a9a528d8a8062"}]
