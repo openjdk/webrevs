@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run main\/othervm\/timeout=150 ReflectOutOfMemoryError\n+ * @run main\/othervm -Xmx128m ReflectOutOfMemoryError\n","filename":"test\/hotspot\/jtreg\/runtime\/reflect\/ReflectOutOfMemoryError.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
