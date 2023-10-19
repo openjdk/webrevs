@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoids calling opIsStateful() during AbstractPipeline constructor"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/stream\/AbstractPipeline.java"}],"sha":"23859159fabb42e7fcdd5845682f8cf976197400"}]
