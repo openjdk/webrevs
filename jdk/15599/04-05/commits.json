@@ -1,0 +1,1 @@
+[{"commit":{"message":"Leave handling of Argument::float_on_stack_offset_in_bytes_c in CallArranger."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/foreignGlobals_ppc.cpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/ppc64\/CallArranger.java"}],"sha":"1edee2e1ace3ac9187c03bde1185cfa541da5223"}]
