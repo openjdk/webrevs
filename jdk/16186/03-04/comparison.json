@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1660,1 +1660,1 @@\n-\/\/ bool is_double - specififes single or double precision operations will be used.\n+\/\/ bool is_double - specifies single or double precision operations will be used.\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
