@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2033,1 +2033,1 @@\n-    private boolean selectorMatches(Selector s){\n+    private boolean selectorMatches(Selector s) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/Node.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
