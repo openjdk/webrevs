@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-        if (args.length==3 && args[2].equals(\"CYGWIN\")) {\n+        if (args.length == 3 && args[2].equals(\"CYGWIN\")) {\n","filename":"test\/jdk\/java\/lang\/instrument\/BootClassPath\/Setup.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
