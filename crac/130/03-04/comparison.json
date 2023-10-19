@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,1 @@\n+  static void   initialize_performance_counter();\n@@ -81,2 +82,0 @@\n-  static void initialize_performance_counter();\n-\n","filename":"src\/hotspot\/os\/windows\/os_windows.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
