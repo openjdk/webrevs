@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,0 +105,1 @@\n+                \"%define _build_id_links none\",\n@@ -138,0 +139,1 @@\n+\n","filename":"test\/jdk\/tools\/jpackage\/linux\/LinuxResourceTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
