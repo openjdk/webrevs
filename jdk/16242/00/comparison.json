@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,1 +298,1 @@\n-  MUTEX_DEFN(JfrStacktrace_lock              , PaddedMutex  , stackwatermark-1);\n+  MUTEX_DEFN(JfrStacktrace_lock              , PaddedMutex  , event);\n","filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
