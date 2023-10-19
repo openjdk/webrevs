@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoiding unnecessary pointer-chasing in sourceStageSpliterator() and avoiding a check-then-act in close()"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/stream\/AbstractPipeline.java"}],"sha":"eeb64265bdfcf6aff7263a899d88e558cffc9f14"}]
