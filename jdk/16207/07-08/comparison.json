@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    private static final int EXPECTED = (STRING.length() + 1)*COUNT;\n+    private static final int EXPECTED = COUNT*STRING.length();\n@@ -76,1 +76,0 @@\n-                actual++;\n","filename":"test\/jdk\/java\/nio\/channels\/Channels\/NewWriter.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
