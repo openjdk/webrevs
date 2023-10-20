@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,0 +37,1 @@\n+#include \"nmt\/nmtCommon.hpp\"\n@@ -42,1 +43,0 @@\n-#include \"services\/nmtCommon.hpp\"\n","filename":"src\/hotspot\/share\/compiler\/compilationMemoryStatistic.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
