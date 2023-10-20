@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,2 +102,0 @@\n-        setFocusTraversalPolicy(new ContainerOrderFocusTraversalPolicy());\n-        setFocusTraversalPolicyProvider(true);\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/colorchooser\/ColorPanel.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
