@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not urlencode IPv6 addresses"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/SocksSocketImpl.java"},{"filename":"test\/jdk\/java\/net\/Socks\/SocksSocketProxySelectorTest.java"}],"sha":"0f8e467184a8e04577a6499861d96486c933cd59"}]
