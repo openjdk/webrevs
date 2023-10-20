@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n- * @summary Test to check is JFilechooser can be Disabled\n+ * @summary Test to check if JFileChooser can be disabled\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/FileChooserDisableTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
