@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make the jtreg test checke the usage of THP"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/parallel\/TestParallelAlwaysPreTouch.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestTransparentHugePageUsage.java"}],"sha":"07d1326be23e043b1ae510e3f7dbcac94cddcbf1"}]
