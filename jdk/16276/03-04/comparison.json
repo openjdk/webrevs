@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,2 @@\n+#include \"nmt\/memTracker.hpp\"\n+#include \"nmt\/virtualMemoryTracker.hpp\"\n@@ -27,2 +29,0 @@\n-#include \"services\/memTracker.hpp\"\n-#include \"services\/virtualMemoryTracker.hpp\"\n","filename":"test\/hotspot\/gtest\/nmt\/test_nmt_reserved_region.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
