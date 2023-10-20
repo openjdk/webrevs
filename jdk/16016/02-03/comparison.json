@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -472,1 +472,1 @@\n-        \/\/ is in the runtime image and not in the upgrade module path. If so,\n+        \/\/ is in the runtime image and not on the upgrade module path. If so,\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/ModuleBootstrap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
