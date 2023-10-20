@@ -1,0 +1,1 @@
+[{"commit":{"message":"Protect 64-bit tests with supports_cx8()"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_atomic.cpp"}],"sha":"e7677da5cae87dc5bcec2d1cea28020af2300643"}]
