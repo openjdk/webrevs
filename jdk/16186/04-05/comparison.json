@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7520,1 +7520,1 @@\n-  ins_pipe(fp_uop_d);\n+  ins_pipe(fp_dop_reg_reg_d);\n@@ -7532,1 +7532,1 @@\n-  ins_pipe(fp_uop_d);\n+  ins_pipe(fp_dop_reg_reg_s);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
