@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport fe4f90021ffd44cb0af34f39d4ca0a7e44605c92"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopstripmining\/TestBrokenEmptyLoopLogic.java"}],"sha":"781e109105f17b56e0b48229ddc01a07c6f9881a"}]
