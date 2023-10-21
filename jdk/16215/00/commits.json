@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8318119-Invalid-narrow-Klass-base-on-aarch64-post-8312018"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspace.cpp"},{"filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp"}],"sha":"87cb6284d8ed63845d5600e7c5de99591c642596"}]
