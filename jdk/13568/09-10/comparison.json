@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4679,0 +4679,1 @@\n+        @SuppressWarnings(\"serial\")\n@@ -4763,0 +4764,1 @@\n+        @SuppressWarnings(\"serial\")\n","filename":"src\/java.base\/share\/classes\/java\/util\/DualPivotQuicksort.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
