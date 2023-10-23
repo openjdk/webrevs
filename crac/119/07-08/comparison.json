@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -344,1 +344,1 @@\n-  return PerfMemoryLinux::checkpoint(CRaCCheckpointTo);\n+  return PerfMemoryLinux::checkpoint();\n","filename":"src\/hotspot\/os\/linux\/crac_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
