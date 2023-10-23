@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -913,1 +913,1 @@\n-  const Type* xmeet(const Type* t) const override;\n+  const Type* xmeet(const Type* t) const;\n@@ -915,1 +915,1 @@\n-  bool singleton(void) const override;\n+  bool singleton(void) const;\n","filename":"src\/hotspot\/share\/opto\/type.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
