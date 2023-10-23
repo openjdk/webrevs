@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -152,1 +152,0 @@\n-  void add_code_root_locked(nmethod* nm);\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegionRemSet.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
