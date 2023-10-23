@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not promote regions in place during marking of the old generation"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp"}],"sha":"f82f3caba9bd5196df45087e83b84219b5afd174"}]
