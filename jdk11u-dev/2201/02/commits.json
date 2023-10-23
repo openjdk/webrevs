@@ -1,0 +1,1 @@
+[{"commit":{"message":"8273804: Platform.isTieredSupported should handle the no-compiler case\n\nBackport-of: 46af82e5b0d176e340f46125f8a3bb17e56bd7b3"},"files":[{"filename":"test\/lib\/jdk\/test\/lib\/Platform.java"}],"sha":"204e96aeabb66b8672cf9d88e7f8b3a5dfde0f53"}]
