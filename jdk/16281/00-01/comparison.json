@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,1 +173,2 @@\n-            SwingUtilities.invokeAndWait(test.f::dispose);\n+            if (test.f != null)\n+                SwingUtilities.invokeAndWait(test.f::dispose);\n","filename":"test\/jdk\/java\/awt\/event\/MouseWheelEvent\/WheelModifier\/WheelModifier.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
