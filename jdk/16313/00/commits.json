@@ -1,0 +1,1 @@
+[{"commit":{"message":"Addresses JDK-8293713 by making the waiter thread member volatile"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/SubmissionPublisher.java"}],"sha":"ce016455dfc38907e75cef60ef3f8baa1ccc391c"}]

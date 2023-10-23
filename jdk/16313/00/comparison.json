@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1062,1 +1062,1 @@\n-        Thread waiter;                     \/\/ blocked producer thread\n+        volatile Thread waiter;            \/\/ blocked producer thread\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/SubmissionPublisher.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
