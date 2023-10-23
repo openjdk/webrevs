@@ -1,0 +1,1 @@
+[{"commit":{"message":"don't save XMM16+ on Windows x64 and SysV"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/x64\/sysv\/CallArranger.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/x64\/windows\/CallArranger.java"}],"sha":"470a79575b56a39a1c3d3aaf56a3c65af6c862b8"}]
