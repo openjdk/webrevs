@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -360,1 +360,1 @@\n-    $(subst .sh,,$(subst .html,,$(subst .java,,$(suffix $(notdir $1)))))\n+    $(subst .jasm,,$(subst .sh,,$(subst .html,,$(subst .java,,$(suffix $(notdir $1))))))\n","filename":"make\/RunTests.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
