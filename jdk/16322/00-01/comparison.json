@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -503,1 +503,1 @@\n-   HARFBUZZ_DISABLED_WARNINGS_clang := missing-field-initializers range-loop-analysis\n+   HARFBUZZ_DISABLED_WARNINGS_clang := missing-field-initializers\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
