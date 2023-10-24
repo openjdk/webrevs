@@ -1,0 +1,1 @@
+[{"commit":{"message":"8318492: Http2ClientImpl should attempt to close and remove connection in stop()"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2ClientImpl.java"}],"sha":"194623bb8602e3f703676a6d550b0dd3ee065fbf"}]
