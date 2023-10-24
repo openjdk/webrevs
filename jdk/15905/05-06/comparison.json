@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -232,1 +232,1 @@\n-      assert(added, \"\");\n+      assert(added, \"clone node must be added to mapping\");\n","filename":"src\/hotspot\/share\/opto\/replacednodes.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
