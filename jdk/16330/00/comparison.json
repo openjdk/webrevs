@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @requires vm.bits == 64 & !vm.graal.enabled\n+ * @requires vm.bits == 64 & !vm.graal.enabled & vm.debug == true\n","filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedClassPointersEncodingScheme.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
