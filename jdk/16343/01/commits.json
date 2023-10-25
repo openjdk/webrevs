@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use 'else ifeq' statement"},"files":[{"filename":"make\/RunTestsPrebuilt.gmk"}],"sha":"43aa74bba34405552074e850c414f18ca8548b52"},{"commit":{"message":"8318669: Target OS detection in 'test-prebuilt' makefile target is incorrect when running on MSYS2"},"files":[{"filename":"make\/RunTestsPrebuilt.gmk"}],"sha":"7a79d5f0906e962d548c3d3195e9947ad6eb21c8"}]
