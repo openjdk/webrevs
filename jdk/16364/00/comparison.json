@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,1 +263,0 @@\n-  assert(!tl->has_java_buffer(), \"invariant\");\n","filename":"src\/hotspot\/share\/jfr\/writers\/jfrJavaEventWriter.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
