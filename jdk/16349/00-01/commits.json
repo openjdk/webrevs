@@ -1,0 +1,1 @@
+[{"commit":{"message":"explicitly propagate fallback library init failures"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/fallback\/LibFallback.java"},{"filename":"src\/java.base\/share\/native\/libfallbackLinker\/fallbackLinker.c"}],"sha":"dd74cdb9dbe7a05386a18156e7a174c9c8546b1a"}]
