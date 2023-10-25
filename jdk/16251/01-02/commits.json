@@ -1,0 +1,1 @@
+[{"commit":{"message":"changes from review:\n\n- use loopback address\n- fetch timeout once\n- formatting improvements"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/SocketInputStream.java"},{"filename":"test\/jdk\/jdk\/jfr\/event\/io\/TestSocketAdapterEvents.java"}],"sha":"625fc6a50b7d61dfab0e334a8c6babc677b6155e"}]
