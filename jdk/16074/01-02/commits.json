@@ -1,0 +1,1 @@
+[{"commit":{"message":"Refactor ShenandoahOperation to be symmetric to other GCs"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVMOperations.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVMOperations.hpp"}],"sha":"b63a105ef5ce9c1419cc8dd5675dcb7b4e41ffbe"}]
