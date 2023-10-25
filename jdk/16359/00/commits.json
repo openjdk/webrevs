@@ -1,0 +1,1 @@
+[{"commit":{"message":"8318811: Compiler directives parser swallows a character after line comments"},"files":[{"filename":"src\/hotspot\/share\/utilities\/json.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/parser\/DirectiveParserTest.java"}],"sha":"36c6a66604444aed5f7da728b53fdb37cb656a60"}]
