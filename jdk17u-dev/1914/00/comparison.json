@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n- * @run main Warning\n+ * @run main\/othervm\/timeout=400 Warning\n","filename":"test\/jdk\/sun\/security\/tools\/jarsigner\/Warning.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
