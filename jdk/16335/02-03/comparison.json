@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -643,1 +643,1 @@\n-    bytes_read += strlen(S);                  \\\n+    bytes_read += (int)strlen(S);             \\\n","filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
