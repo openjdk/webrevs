@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not set the HotSpotNmethod oop for a default HotSpotNmethod"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"}],"sha":"65e0b9e15f4a6787af9512b9ce5366e63756e56b"}]
