@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -612,1 +612,1 @@\n-                for(int column = cMin+1; column <= cMax; column++) {\n+                for(int column = cMax-1; column >= cMin; column--) {\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/synth\/SynthTableUI.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
