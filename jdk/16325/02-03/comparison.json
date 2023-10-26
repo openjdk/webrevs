@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -538,1 +538,2 @@\n-     *         default capacity is to be used; may be ignored\n+     *         default capacity is to be used. The value of\n+     *         {@code minBufferCap} may be ignored\n","filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/Channels.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
