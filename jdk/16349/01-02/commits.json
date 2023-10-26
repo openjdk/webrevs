@@ -1,0 +1,1 @@
+[{"commit":{"message":"move fallback linker initialization outside of try block"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/fallback\/LibFallback.java"}],"sha":"14ea99a2a66b8115d22437e081962664ac43ea16"}]
