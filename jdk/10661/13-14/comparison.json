@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1004,1 +1004,1 @@\n-    assert(! StubRoutines::FTZ_mode_enabled, \"fsetenv didn't work\");\n+    assert(! StubRoutines::FTZ_mode_enabled(), \"fsetenv didn't work\");\n","filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
