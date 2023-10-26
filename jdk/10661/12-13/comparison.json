@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -498,6 +498,0 @@\n-  static address small_subnormal_addr() {\n-    return (address)&_small_subnormal;\n-  }\n-  static address large_subnormal_addr() {\n-    return (address)&_large_subnormal;\n-  }\n","filename":"src\/hotspot\/share\/runtime\/stubRoutines.hpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
