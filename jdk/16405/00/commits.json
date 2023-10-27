@@ -1,0 +1,1 @@
+[{"commit":{"message":"8315890: Attempts to load from nullptr in instanceKlass.cpp and unsafe.cpp"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/prims\/unsafe.cpp"}],"sha":"a546415a53b84f5e5aa06fbfb32e187ab4c43ede"}]
