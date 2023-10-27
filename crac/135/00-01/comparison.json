@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,1 @@\n+            builder.vmOption(\"-XX:+UnlockDiagnosticVMOptions\");\n","filename":"test\/jdk\/jdk\/crac\/ResetStartTimeTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
