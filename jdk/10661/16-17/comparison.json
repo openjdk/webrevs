@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,3 +263,0 @@\n-  static const double _large_subnormal;\n-  static const volatile double _small_subnormal;\n-\n","filename":"src\/hotspot\/share\/runtime\/stubRoutines.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
