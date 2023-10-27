@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -400,1 +400,1 @@\n-  \/\/ For this to work, we must call on_end_compilatio()n at a point where\n+  \/\/ For this to work, we must call on_end_compilation() at a point where\n","filename":"src\/hotspot\/share\/compiler\/compilationMemoryStatistic.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
