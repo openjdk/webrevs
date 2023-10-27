@@ -1,0 +1,1 @@
+[{"commit":{"message":"Resolve the message size issue when sending SysexMessage on Windows"},"files":[{"filename":"src\/java.desktop\/windows\/native\/libjsound\/PLATFORM_API_WinOS_MidiOut.c"}],"sha":"16918dd541a2dd258b4fa9cd45f846f6ecccb55d"}]
