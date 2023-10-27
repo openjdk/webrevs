@@ -1,0 +1,1 @@
+[{"commit":{"message":"8255068: [JVMCI] errors during compiler creation can be hidden\n\nBackport-of: 6020991530c0efe81fd203f35a7352247aedafeb"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk.vm.ci.hotspot\/src\/jdk\/vm\/ci\/hotspot\/HotSpotJVMCIRuntime.java"}],"sha":"9e1eeac5e951265a3b75c7ab99de72e7ee7ba312"}]
