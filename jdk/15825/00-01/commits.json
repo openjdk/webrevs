@@ -1,1 +1,1 @@
-[{"commit":{"message":"Fix typo in test."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/scalarReplacement\/AllocationMergesTests.java"}],"sha":"e8e9c13dd6bade916a162fe0fdb6be907f5b367f"}]
+[{"commit":{"message":"Fix to prevent creating NULL ConNKlass constants."},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"}],"sha":"03016c96ceaf61d01eba6b036a20d13fa062291f"}]
