@@ -1,0 +1,1 @@
+[{"commit":{"message":"CompilerThreadCanCallJava scope must enclose the JVMCIEnv scope"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"7f2285ed353a976fe22afe9d9581a9f133985278"}]
