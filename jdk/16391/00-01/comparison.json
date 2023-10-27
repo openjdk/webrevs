@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4678,1 +4678,1 @@\n-    andi(Rd, Rs, imm);\n+    and_imm12(Rd, Rs, imm);\n@@ -4681,1 +4681,1 @@\n-    andi(Rd, Rd, 1);\n+    and_imm12(Rd, Rd, 1);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
