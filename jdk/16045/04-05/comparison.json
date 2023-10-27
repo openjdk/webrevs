@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -284,0 +284,2 @@\n+            CatalogMessages.reportIAE(CatalogMessages.ERR_INVALID_ARGUMENT,\n+                    new Object[]{resolve, \"RESOLVE\"}, null);\n","filename":"src\/java.xml\/share\/classes\/javax\/xml\/catalog\/CatalogResolver.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
