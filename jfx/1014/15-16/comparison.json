@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-        public void handlePreferencesChanged(Map<String, Object> properties) {\n+        public void handlePreferencesChanged(Map<String, Object> preferences) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/Application.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
