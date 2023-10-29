@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3037,0 +3037,1 @@\n+  CompilerThreadCanCallJava canCallJava(thread, true);\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

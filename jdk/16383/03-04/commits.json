@@ -1,0 +1,1 @@
+[{"commit":{"message":"    unconditionally allow class loading in HotSpotConstantPool.callSystemExit"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"f47527a7d2ca0b221ad3649676141b19c4a68847"}]
