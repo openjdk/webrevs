@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ammend previous fix & add repro tests."},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/scalarReplacement\/AllocationMergesTests.java"}],"sha":"ad6b9d1aaeed9a423cb224b8fcdffdab41490cdd"}]
