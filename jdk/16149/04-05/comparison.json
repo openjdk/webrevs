@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,1 @@\n-  \/\/ Hence no vm_exit on a resolution failure.Further refactorings should investigate this further,\n+  \/\/ Hence no vm_exit on a resolution failure. Further refactorings should investigate this,\n","filename":"src\/hotspot\/share\/utilities\/zipLibrary.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
