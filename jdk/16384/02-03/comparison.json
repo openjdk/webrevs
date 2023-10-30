@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,1 +141,1 @@\n-  tests of HotSpot, selected libraries in the `java.base` module, and the `javac` compiler.\n+  tests of HotSpot, core libraries in the `java.base` module, and the `javac` compiler.\n","filename":"doc\/testing.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
