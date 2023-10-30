@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,1 +114,1 @@\n-    _p[0] = '\\0';\n+    _p[0] = 0;\n","filename":"src\/hotspot\/os\/windows\/symbolengine.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
