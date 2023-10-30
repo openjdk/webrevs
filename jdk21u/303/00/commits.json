@@ -1,0 +1,1 @@
+[{"commit":{"message":"8318889: C2: add bailout after assert Bad graph detected in build_loop_late\n\nReviewed-by: shade, thartmann"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"}],"sha":"22d6bd0c7112371cd70f21e422c0a2da5ce1528c"}]
