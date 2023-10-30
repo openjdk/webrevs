@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved assert higher in call stack"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/prims\/unsafe.cpp"}],"sha":"0c91778fc8ccfa2725797b90ba62e11947d5d6d4"}]
