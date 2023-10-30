@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-            expStrings.add(\"Shenandoah Heap\");\n+            expStrings.add(\"Shenandoah heap\");\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestUniverse.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
