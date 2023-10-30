@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -203,1 +203,1 @@\n-    $MAKE all-opcodes all-libiberty\n+    $MAKE -j$JOBS all-opcodes all-libiberty\n@@ -209,1 +209,1 @@\n-    $MAKE install-opcodes install-libiberty\n+    $MAKE -j$JOBS install-opcodes install-libiberty\n","filename":"make\/autoconf\/lib-hsdis.m4","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
