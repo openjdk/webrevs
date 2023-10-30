@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert java changes and set NSFunctionKeyMask for non-F1-F24 menu items"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/GlassSystemMenu.java"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassMenu.m"}],"sha":"115663b02b1895197aa29449dfd96b04bc9830d6"}]
