@@ -1,0 +1,1 @@
+[{"commit":{"message":"8313710: jcmd: typo in the documentation of JFR.start and JFR.dump"},"files":[{"filename":"src\/jdk.jcmd\/share\/man\/jcmd.1"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/dcmd\/DCmdDump.java"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/dcmd\/DCmdStart.java"}],"sha":"a0f703e784db56d8457be090b2ff4bb756d453d6"}]
