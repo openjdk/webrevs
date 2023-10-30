@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,0 @@\n- *                   -XX:+UseLargePages\n@@ -51,1 +50,0 @@\n- *                   -XX:+UseLargePages\n","filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestC1Globals.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
