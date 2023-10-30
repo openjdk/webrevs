@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make into one loop"},"files":[{"filename":"src\/hotspot\/share\/utilities\/growableArray.hpp"}],"sha":"73c7583780f414c6c9cdf61b48aedeb2aa9e75f1"},{"commit":{"message":"Do not init or destruct capacity"},"files":[{"filename":"src\/hotspot\/share\/utilities\/growableArray.hpp"}],"sha":"9d19193d3fef38bdac6f99e26e3703865665793b"}]
