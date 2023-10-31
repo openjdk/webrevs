@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -404,5 +404,1 @@\n-private:\n-  static void default_fill(E* ptr) {\n-    new ((void*)ptr) E();\n-  }\n-public:\n+\n","filename":"src\/hotspot\/share\/utilities\/growableArray.hpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
