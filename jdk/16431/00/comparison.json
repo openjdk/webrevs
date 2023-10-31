@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -924,1 +924,1 @@\n-        Class c = Class.forName(className);\n+        Class<?> c = Class.forName(className);\n","filename":"test\/lib\/jdk\/test\/lib\/process\/ProcessTools.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
