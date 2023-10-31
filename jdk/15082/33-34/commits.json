@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace NULL with nullptr"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ServiceThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/stringdedup\/stringDedupProcessor.cpp"}],"sha":"be104e16cfafa2497d41157b37cd764685e4f2b7"}]
