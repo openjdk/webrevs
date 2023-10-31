@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,0 +112,1 @@\n+    ResourceMark rm(thread);\n","filename":"src\/hotspot\/share\/utilities\/exceptions.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
