@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'JDK-8306561' of https:\/\/github.com\/TOatGithub\/jdk into JDK-8306561"},"files":[],"sha":"60d46df203413cb739da095cfafefc30eb38d32a"},{"commit":{"message":"8306561: test range instead of endpoints before casting"},"files":[{"filename":"src\/hotspot\/share\/nmt\/mallocTracker.cpp"}],"sha":"d6b5eb980910a9e231fdceaf62f9c6b60bcf2880"}]
