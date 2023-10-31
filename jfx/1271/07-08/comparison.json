@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -820,0 +820,2 @@\n+            } else {\n+                stage.setNodeOrientation(NodeOrientation.LEFT_TO_RIGHT);\n","filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/JFXPanel.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
