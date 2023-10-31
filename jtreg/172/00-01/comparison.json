@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-    private Throwable globalUncaughtThrowable;\n+    private volatile Throwable globalUncaughtThrowable;\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/agent\/MainActionHelper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
