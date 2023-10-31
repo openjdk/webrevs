@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -247,2 +247,0 @@\n-        } else {\n-            modifier = modifier | NSFunctionKeyMask;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassMenu.m","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
