@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -205,1 +205,1 @@\n-  assert(os::vm_page_size() >= min_size, \"page size smaller than min_size\");\n+  assert(os::vm_page_size() <= min_size, \"page size larger than min_size\");\n","filename":"src\/hotspot\/share\/code\/codeCache.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
