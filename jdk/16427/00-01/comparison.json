@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -828,1 +828,1 @@\n-                throw new SkippedException(\"Skipping Linux aarch64 platforms.\");\n+                throw new SkippedException(\"Per JDK-8319128, skipping Linux aarch64 platforms.\");\n","filename":"test\/jdk\/sun\/security\/pkcs11\/PKCS11Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
