@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restricting masked sub-word gather to AVX512 target to align with integral gather support."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"86783403c453d329e33d94f787a5709ec35f7099"}]
