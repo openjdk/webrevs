@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -529,1 +529,1 @@\n-  if (fstat(fd, &st) || st.st_size < (ssize_t)sizeof(hdr) || st.st_size > UINT_MAX) {\n+  if (fstat(fd, &st) || st.st_size < (ssize_t)sizeof(hdr) || st.st_size > INT_MAX) {\n","filename":"src\/hotspot\/share\/runtime\/crac.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
