@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move definition of fill_new_machnode() to machnode.cpp"},"files":[{"filename":"src\/hotspot\/share\/adlc\/output_c.cpp"},{"filename":"src\/hotspot\/share\/opto\/machnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/machnode.hpp"}],"sha":"276f39c4445478f669d3c4287426fa5cf506f8e7"}]
