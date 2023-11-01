@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    private final Random rnd = RandomFactory.getRandom();\n+    private static final Random rnd = RandomFactory.getRandom();\n","filename":"test\/jdk\/java\/math\/BigInteger\/ByteArrayConstructorTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
