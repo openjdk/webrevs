@@ -1,0 +1,1 @@
+[{"commit":{"message":"change can_move_to_inner_loop to take LoopNode"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"}],"sha":"07cfafc7c8d07d352442295f56100c7781136277"}]
