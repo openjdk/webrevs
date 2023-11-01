@@ -1,0 +1,1 @@
+[{"commit":{"message":"Call dtr and global placement new"},"files":[{"filename":"src\/hotspot\/share\/utilities\/growableArray.hpp"}],"sha":"f6e910a4996736418b19f94615be9adad7239587"},{"commit":{"message":"Do not add this"},"files":[{"filename":"src\/hotspot\/share\/memory\/allocation.hpp"}],"sha":"53c5df60eb2bbedeece2d452b21b1f934c4098e9"}]
