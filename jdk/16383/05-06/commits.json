@@ -1,0 +1,1 @@
+[{"commit":{"message":"convert assertions about can_call_java to guarantees"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"},{"filename":"src\/hotspot\/share\/prims\/upcallLinker.cpp"},{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotConstantPool.java"}],"sha":"832a5912121b7dda4a0ed4459e6468f55fcd72f1"}]
