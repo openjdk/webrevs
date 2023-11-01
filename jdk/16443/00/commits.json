@@ -1,0 +1,1 @@
+[{"commit":{"message":"8191460: crash in Annotate with duplicate declaration and annotation processing enabled"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Annotate.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/CrashDuplicateAnnotationDeclarationTest.java"}],"sha":"7a75f038e5c0c1ca1e33a0f4dd8ab1d7d0749c24"}]
