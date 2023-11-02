@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -341,1 +341,1 @@\n-                                 ? NULL : app_data->insn_options);\n+                                   ? NULL : app_data->insn_options);\n","filename":"src\/utils\/hsdis\/binutils\/hsdis-binutils.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
