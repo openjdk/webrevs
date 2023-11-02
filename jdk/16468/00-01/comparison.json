@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -507,0 +507,1 @@\n+   # maybe-uninitialized required for GCC 8 builds. Not required for GCC 9+.\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
