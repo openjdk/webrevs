@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,0 +161,4 @@\n+        \/\/ If the user doesn't set full name, then use username instead\n+        if (fullName == null) {\n+            return username();\n+        }\n","filename":"host\/src\/main\/java\/org\/openjdk\/skara\/host\/HostUser.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
