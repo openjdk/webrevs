@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4192,1 +4192,1 @@\n-  \/\/       unlock order from it.\n+  \/\/       unlock order from it (see comments for interpreter_frame_monitor_*).\n","filename":"src\/hotspot\/cpu\/ppc\/templateTable_ppc_64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
