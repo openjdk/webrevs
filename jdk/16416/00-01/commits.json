@@ -1,0 +1,1 @@
+[{"commit":{"message":"add one more test case to see that we have no trap after we hit the uncommon trap and reconpile to tier 4"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestPrunedExHandler.java"}],"sha":"764bf3bd036d5f79f665ac437bdb89f38eb9463e"}]
