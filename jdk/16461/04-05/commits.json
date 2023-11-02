@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't store main method info globally. Use addition calls to fetch info."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/launcher\/LauncherHelper.java"},{"filename":"src\/java.base\/share\/native\/libjli\/java.c"}],"sha":"edbe208b078fa17cd281b238f86b0d29e2f4ca77"}]
