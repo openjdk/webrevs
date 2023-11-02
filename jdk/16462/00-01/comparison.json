@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1959,1 +1959,1 @@\n-      log_info(heapdump)(\"Remove segment file (%d) failed (%d)\", i, errno);\n+      log_info(heapdump)(\"Removal of segment file (%d) failed (%d)\", i, errno);\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
