@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8318953: RISC-V: Small refactoring for MacroAssembler::test_bit"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"39e0a1504a5f6de6361c3ac5b4ed1bd6c2499f1d"}]
