@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6143,1 +6143,1 @@\n-  const DWORD len = GetFullPathName(filename, outbuflen, outbuf, nullptr);\n+  const DWORD len = GetFullPathName(filename, (DWORD) outbuflen, outbuf, nullptr);\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
