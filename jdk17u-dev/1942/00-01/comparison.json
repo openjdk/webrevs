@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-#include \"runtime\/os.inline.hpp\"\n+#include \"runtime\/os.hpp\"\n@@ -34,1 +34,1 @@\n-#include <ctype.h>\n+#include OS_HEADER_INLINE(os)\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
