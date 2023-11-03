@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,0 +216,4 @@\n+  if (obj->is_forwarded()) {\n+    \/\/ We will see the forwardee instead, don't count this object as missed.\n+    return true;\n+  }\n","filename":"src\/hotspot\/share\/memory\/heapInspection.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
