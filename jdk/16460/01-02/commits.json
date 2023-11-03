@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove unneeded ResourceMark from JVMTI GetStackTrace"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"}],"sha":"720c9c7ea918fe66cae64bb51621338f369912d0"}]
