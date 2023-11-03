@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,0 +89,3 @@\n+    \/\/ _stats_arrays_length might not be in sync with _num_added_regions in Cleanup pause.\n+    age = MIN2(age, _stats_arrays_length - 1);\n+\n","filename":"src\/hotspot\/share\/gc\/g1\/g1SurvRateGroup.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
