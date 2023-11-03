@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2285,1 +2285,1 @@\n-            Type enclosingType = enclClass().type;\n+            Type enclosingType = enclosingClass.type;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Symbol.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
