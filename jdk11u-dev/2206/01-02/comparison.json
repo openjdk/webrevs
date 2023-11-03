@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -772,1 +772,1 @@\n-        threadControl_onEventHandlerEntry(currentSessionID, opt_info, thread, NULL);\n+        threadControl_onEventHandlerEntry(currentSessionID, opt_info->ei, thread, NULL);\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/debugInit.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
