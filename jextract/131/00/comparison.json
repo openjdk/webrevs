@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -226,1 +226,1 @@\n-            if (c == MemorySegment.class) {\n+            if (MemorySegment.class.isAssignableFrom(c)) {\n","filename":"src\/main\/resources\/org\/openjdk\/jextract\/impl\/resources\/RuntimeHelper.java.template","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
