@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -576,0 +576,6 @@\n+\n+    \/\/ receiver parameters\n+    class Inner110 {\n+        @Test(posn=2, annoType = TA.class, expect = \"110\")\n+        void f(@TA(110) Inner110 this) {}\n+    }\n","filename":"test\/langtools\/tools\/javac\/processing\/model\/type\/BasicAnnoTests.java","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
