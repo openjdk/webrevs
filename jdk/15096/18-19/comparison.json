@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -214,1 +214,1 @@\n-    JNI_CHECK_PEER_RETURN(canvas);\n+    JNI_CHECK_PEER_RETURN(canvas.get());\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Canvas.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
