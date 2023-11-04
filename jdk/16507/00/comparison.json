@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,0 +114,2 @@\n+        } else {\n+            failed(\"Did not find all expected files\");\n@@ -171,1 +173,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/langtools\/jdk\/javadoc\/doclet\/testLegalNotices\/TestLegalNotices.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
