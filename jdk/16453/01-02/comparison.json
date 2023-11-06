@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3966,2 +3966,1 @@\n-    __ mv(t1, t);\n-    __ addw(a, a, t1);\n+    __ addw(a, a, t, t1);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
