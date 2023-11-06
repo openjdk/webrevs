@@ -1,0 +1,1 @@
+[{"commit":{"message":"8319462: Signature.ClassTypeSig::classDesc() incorrect for inner class types"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/Signature.java"},{"filename":"test\/jdk\/jdk\/classfile\/SignaturesTest.java"}],"sha":"dabd24cbe1100022b0782ff22dbba14bcaf42909"}]
