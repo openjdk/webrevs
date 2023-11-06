@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 4662e06bff2cef7425c194a9cdd7a6fe7469179e"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SessionTicketExtension.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/SSLSession\/ResumeTLS13withSNI.java"}],"sha":"785e85184b927c5672f7330f35900f14e554b1e4"}]
