@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restored handling in c_calling_convention"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp"}],"sha":"59b0f5fcafed89bf78b60d5c3111fc2ffe86355e"}]
