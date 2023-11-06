@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove SecurityException and IllegalArgumentException from throws clause"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/event\/ThrowableTracer.java"}],"sha":"23a07a180af7dd0c9fd9aa30031d513ce82baec1"}]
