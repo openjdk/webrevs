@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 48f1a925e528cc9f8cd6c727129918e0e49b3429"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestMovingLoadBeforeStore.java"}],"sha":"dd330cc91564f2cd3bcbbc2e79306b6708dbc16a"}]
