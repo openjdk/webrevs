@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -583,0 +583,1 @@\n+  ResourceMark rm;\n@@ -597,0 +598,1 @@\n+  ResourceMark rm;\n@@ -604,0 +606,1 @@\n+  ResourceMark rm;\n","filename":"test\/hotspot\/gtest\/utilities\/test_growableArray.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
