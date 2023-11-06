@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n- * @summary Test concurrent monitor deflation by MonitorDeflationThread and VMThread\n+ * @summary Test concurrent monitor deflation by MonitorDeflationThread and thread dumping\n","filename":"test\/hotspot\/jtreg\/runtime\/Monitor\/ConcurrentDeflation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
