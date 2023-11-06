@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-      EXPECT_EQ(objArrayOopDesc::object_size(1), (size_t)x[i].result);\n+      EXPECT_EQ(objArrayOopDesc::object_size(1), x[i].result);\n","filename":"test\/hotspot\/gtest\/oops\/test_objArrayOop.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
