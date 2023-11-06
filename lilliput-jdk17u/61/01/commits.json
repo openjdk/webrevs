@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove bad cast"},"files":[{"filename":"test\/hotspot\/gtest\/oops\/test_objArrayOop.cpp"}],"sha":"3212d20c8954966eb64d18163a74651d8bd045e5"},{"commit":{"message":"Backport fc9020fbf193b1c6d2b2fb5d80192c3082dbcf2e"},"files":[{"filename":"test\/hotspot\/gtest\/oops\/test_objArrayOop.cpp"}],"sha":"24add19f8b80b6488c1c2dce3fed3b7d14461497"}]
