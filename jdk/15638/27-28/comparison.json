@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,0 +52,1 @@\n+        assertEquals(1,  exhaustive7s(true));\n@@ -224,1 +225,0 @@\n-    \/\/ todo run tests\n","filename":"test\/langtools\/tools\/javac\/patterns\/PrimitivePatternsSwitch.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
