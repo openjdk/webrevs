@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307536: FileAlreadyExistsException from NativeLibLoader when running concurrent applications with empty cache\n\nReviewed-by: kcr, angorya, jvos"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/utils\/NativeLibLoader.java"}],"sha":"32dabf9d0648acadc962f6011bccfb4d2eea4d66"}]
