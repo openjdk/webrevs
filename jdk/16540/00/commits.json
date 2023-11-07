@@ -1,0 +1,1 @@
+[{"commit":{"message":"8318594: NMT: VM.native_memory crashes on assert if functionality isn't supported by OS"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"cd582b7dbe65643cdc563bbc3c191062ddc45583"}]

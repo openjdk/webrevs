@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3384,0 +3384,5 @@\n+    \/\/ If mincore is not supported.\n+    if (mincore_return_value == -1 && errno == ENOSYS) {\n+      return false;\n+    }\n+\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
