@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8319554: Select LogOutput* directly for stdout and stderr"},"files":[{"filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_asynclog.cpp"}],"sha":"9a8f442d08eaae3058f5ac9b8f9a0cc7bb78bcee"}]
