@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,0 +116,4 @@\n+\n+\/\/ On some systems using SSSD files in this directory are left open\n+\/\/ after calling getpwuid_r, getpwname_r, getgrgid_r, getgrname_r\n+\/\/ or other functions in this family.\n","filename":"src\/hotspot\/os\/linux\/globals_linux.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
