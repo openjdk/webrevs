@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2432,0 +2432,1 @@\n+    ResourceMark rm;\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
