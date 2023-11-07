@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't expose forwarded objects during object iteration"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/mutableSpace.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psScavenge.cpp"}],"sha":"78ffecb106c9417fe128d0d772ac82e456607246"}]
