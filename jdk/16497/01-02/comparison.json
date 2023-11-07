@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1343,1 +1343,1 @@\n-  \/\/ Should never be shortened. Needs full 64-immediate.\n+  \/\/ Needs full 64-bit immediate for later patching.\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
