@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n- * @run main\/othervm\/timeout=1400 -Xmx512m jdk.jpackage.test.Main\n+ * @run main\/othervm\/timeout=1400 jdk.jpackage.test.Main\n","filename":"test\/jdk\/tools\/jpackage\/share\/RuntimeImageTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
