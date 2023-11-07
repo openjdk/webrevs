@@ -1,0 +1,1 @@
+[{"commit":{"message":"8319598: Fixed incorrect interpretation of interrupted running status in SMFParser"},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/media\/sound\/StandardMidiFileReader.java"},{"filename":"test\/jdk\/javax\/sound\/midi\/File\/SMFInterruptedRunningStatus.java"}],"sha":"2c23d7254d4c01c3599205ea2b01020ecc31645f"}]
