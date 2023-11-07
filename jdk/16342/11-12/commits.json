@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix tests after merge"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/g1\/pinnedobjs\/TestPinnedObjectTypes.java"},{"filename":"test\/hotspot\/jtreg\/gc\/g1\/pinnedobjs\/TestPinnedObjectsEvacuation.java"},{"filename":"test\/hotspot\/jtreg\/gc\/g1\/pinnedobjs\/TestPinnedOldObjectsEvacuation.java"}],"sha":"d9ccccffb2381d1e897d00d3cbfd9f44550f3b9b"}]
