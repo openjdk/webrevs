@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-  \/\/ Need to make sure that mtChunks don't get deallocated while the\n+  \/\/ Use ThreadCritical to make sure that mtChunks don't get deallocated while the\n","filename":"src\/hotspot\/share\/nmt\/mallocTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
