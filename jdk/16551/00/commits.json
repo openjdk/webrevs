@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8315880: change LockingMode default from LM_LEGACY to LM_LIGHTWEIGHT\"\n\nThis reverts commit 455cfae1e137ff3055b3cc858e8954f60bdf3147."},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"7d065630574e6c87aa20c9dc01cae89cc130ca87"}]
