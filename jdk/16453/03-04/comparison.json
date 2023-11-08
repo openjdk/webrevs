@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3943,1 +3943,1 @@\n-       assert(i < 2 * L, \"invalid i: %u\", i);\n+      assert(i < 2 * L, \"invalid i: %u\", i);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
