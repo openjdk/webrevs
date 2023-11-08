@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -463,0 +463,6 @@\n+    \/\/ on AIX we might get IPv6 detected (by getaddrinfo) as IPv4,\n+    \/\/ so the default maxValue does not always work\n+#if defined(_AIX)\n+    maxValue = 128;\n+#endif\n+\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libdt_socket\/socketTransport.c","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
