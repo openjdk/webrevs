@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -395,0 +395,4 @@\n+ \n+application\/sql: \\\n+\tdescription=Structured Query Language File;\\\n+\tfile_extensions=.sql;\n","filename":"src\/java.base\/windows\/classes\/sun\/net\/www\/content-types.properties","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
