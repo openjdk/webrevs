@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -250,1 +250,1 @@\n-    p += cast_to_oop(p)->size();\n+    p += obj->size();\n","filename":"src\/hotspot\/share\/gc\/parallel\/mutableSpace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
