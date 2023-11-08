@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update style according to review feedback.\n\n1. avoid nested indentation.\n2. avoid YODA conditions."},"files":[{"filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_asynclog.cpp"}],"sha":"5e350ab2dbdf6ea7a4a26f1957bbff91c0d6d9d0"}]
