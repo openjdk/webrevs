@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -830,1 +830,1 @@\n-  GrowableArrayCHeap<E,F>& operator=(GrowableArrayCHeap<E,F>& other) {\n+  GrowableArrayCHeap<E,F>& operator=(const GrowableArrayCHeap<E,F>& other) {\n","filename":"src\/hotspot\/share\/utilities\/growableArray.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
