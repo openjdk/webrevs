@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2884,1 +2884,1 @@\n-  predicate(UseRVV && (MaxVectorSize >= 16));\n+  predicate(UseRVV);\n@@ -2909,1 +2909,1 @@\n-  predicate(UseRVV && (MaxVectorSize >= 16));\n+  predicate(UseRVV);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
