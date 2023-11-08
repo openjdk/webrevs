@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'openjdk-jdk\/master' into JDK-8319748"},"files":[],"sha":"53ca2db0fc76942c256c78cbfad8c58b209ce0f0"},{"commit":{"message":"do not use os::free for memory allocated in libjvmci"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp"}],"sha":"718c34690ce4cf7470c69b2c4ea1a0a2fa1a4aeb"}]
