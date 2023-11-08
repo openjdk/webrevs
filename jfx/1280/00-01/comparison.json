@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -543,1 +543,1 @@\n-        isEmbedded = isEmbedded = ![app isKindOfClass:[NSApplicationFX class]];\n+        isEmbedded = ![app isKindOfClass:[NSApplicationFX class]];\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassApplication.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
