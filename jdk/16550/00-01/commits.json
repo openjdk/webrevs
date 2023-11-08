@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move ASSERT ResourceMark constructor to resourceArea.cpp to avoid dangling pointer warning with zero"},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"},{"filename":"src\/hotspot\/share\/memory\/resourceArea.cpp"},{"filename":"src\/hotspot\/share\/memory\/resourceArea.hpp"}],"sha":"19a9a1b77fae36eceeb9235498ea3941fa9e7d58"}]
