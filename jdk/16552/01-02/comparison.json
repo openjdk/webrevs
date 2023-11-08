@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -197,6 +197,0 @@\n-\n-    protected void processWindowEvent(WindowEvent e) {\n-        if (e.getID() == WindowEvent.WINDOW_CLOSING) {\n-            System.exit(0);\n-        }\n-    }\n","filename":"test\/jdk\/javax\/swing\/JTable\/JTableScrollPrintTest.java","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
