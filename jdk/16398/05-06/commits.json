@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set queue size to power of 2, use constant in test"},"files":[{"filename":"src\/hotspot\/share\/oops\/symbolHandle.hpp"},{"filename":"test\/hotspot\/gtest\/classfile\/test_symbolTable.cpp"}],"sha":"ed5ae51e2006ceb798eae039452023e05da70b6f"}]
