@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -534,1 +534,1 @@\n-    if ([ApplicationDelegate sharedDelegate] != nil) {\n+    if (delegate != nil) {\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/ApplicationDelegate.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
