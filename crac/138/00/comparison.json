@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,0 +125,3 @@\n+#ifdef _WINDOWS\n+  static void before_checkpoint() { \/* noop *\/ }\n+#else\n@@ -145,1 +148,2 @@\n-  friend class DecoderLocker;\n+#endif \/\/ !_WINDOWS\n+\n","filename":"src\/hotspot\/share\/utilities\/decoder.hpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
