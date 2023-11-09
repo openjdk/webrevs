@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,1 @@\n-                        (byte) SPECIAL_SYSTEM_EXCLUSIVE, 0x05, 0x06, 0x07\n+                        (byte) SPECIAL_SYSTEM_EXCLUSIVE, 0x05, 0x06, 0x07,\n","filename":"test\/jdk\/javax\/sound\/midi\/SysexMessage\/SendRawSysexMessage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
