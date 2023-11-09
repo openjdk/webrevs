@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop non-default hashcode"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"}],"sha":"fb3b32ce379dea77b98e212820ad0550a27168ee"},{"commit":{"message":"void* -> InstanceKlass*, other cleanups"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"}],"sha":"68791850f5f7740da7eaeb9a74ef8091207a6bfe"}]
