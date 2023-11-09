@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -813,1 +813,1 @@\n-class DumperClassCacheTable : public StackObj {\n+class DumperClassCacheTable {\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
