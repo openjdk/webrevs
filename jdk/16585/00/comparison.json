@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-  \"${TESTCLASSES}${PS}${TESTCLASSES}\/badfactoty.jar\" \\\n+  \"${TESTCLASSES}${PS}${TESTCLASSES}\/badfactory.jar\" \\\n","filename":"test\/jdk\/javax\/script\/JDK_8196959\/BadFactoryTest.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
