@@ -1,0 +1,1 @@
+[{"commit":{"message":"Undo GLIBC->CPU flags optimization"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"}],"sha":"6ec231d3f563888be0a4d7518b443c4a55fb29c8"}]
