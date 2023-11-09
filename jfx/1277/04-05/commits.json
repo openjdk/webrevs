@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use only 10 cycles instead of 50 (preventing this test to take 50 seconds in case it fails)."},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/stage\/SystemMenuBarTest.java"}],"sha":"cbe5ea46054f2c5c101476f8b0c6b4bb7690047d"}]
