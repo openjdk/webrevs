@@ -1,0 +1,1 @@
+[{"commit":{"message":"8319795: Static huge pages are not used for CodeCache"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_os_linux.cpp"}],"sha":"d1bdfdfdf2262f360387ca5adbc530776acb7421"}]
