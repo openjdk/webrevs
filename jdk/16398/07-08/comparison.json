@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,1 @@\n-\/\/ Helper to avoid interference from the cleanup delay queue by draining it \n+\/\/ Helper to avoid interference from the cleanup delay queue by draining it\n","filename":"test\/hotspot\/gtest\/classfile\/test_symbolTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
