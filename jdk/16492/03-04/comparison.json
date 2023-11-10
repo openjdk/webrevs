@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -413,1 +413,1 @@\n-      \/\/ precised-marked\n+      \/\/ ObjArrays are always precisely-marked so we are not allowed to jump to the end of the current object.\n","filename":"src\/hotspot\/share\/gc\/serial\/cardTableRS.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
