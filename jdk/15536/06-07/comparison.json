@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -167,0 +167,1 @@\n+      \/\/ this edge case can only happend for Load nodes\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
