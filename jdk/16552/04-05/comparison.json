@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,2 +51,0 @@\n-import java.awt.PrintGraphics;\n-import java.awt.print.PrinterGraphics;\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JViewport.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
