@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,0 +93,1 @@\n+    # False positive warnings for atomic_linux_aarch64.hpp on GCC >= 13\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
