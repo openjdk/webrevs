@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,1 @@\n+    public static int monitorCount;\n@@ -78,0 +79,1 @@\n+                monitorCount++;\n@@ -79,1 +81,1 @@\n-            monitorCount++;\n+\n","filename":"test\/hotspot\/jtreg\/runtime\/Monitor\/ConcurrentDeflation.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
