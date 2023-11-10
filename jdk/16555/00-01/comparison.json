@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-  assert(output != nullptr, \"LogOutput is NULL\");\n+  assert(output != nullptr, \"LogOutput is null\");\n","filename":"src\/hotspot\/share\/logging\/logOutputList.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
