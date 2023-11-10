@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove is_enabled check, use modulo shortcut, add drain test"},"files":[{"filename":"src\/hotspot\/share\/oops\/symbolHandle.hpp"},{"filename":"test\/hotspot\/gtest\/classfile\/test_symbolTable.cpp"}],"sha":"c885e8144e742a9976f39f290f0a02583e1f71b0"}]
