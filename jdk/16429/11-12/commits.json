@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make visit_uses and visit_uncasted_uses const member functions"},"files":[{"filename":"src\/hotspot\/share\/opto\/node.hpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.hpp"}],"sha":"e9f8809d910d2c5d7c29886561504163cda85810"}]
