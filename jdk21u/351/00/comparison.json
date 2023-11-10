@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-  BUILD_JDK_JTREG_LIBRARIES_LDFLAGS_libCreationTimeHelper := -ldl\n+  BUILD_JDK_JTREG_LIBRARIES_LIBS_libCreationTimeHelper := -ldl\n","filename":"make\/test\/JtregNativeJdk.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
