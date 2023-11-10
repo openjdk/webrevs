@@ -1,0 +1,1 @@
+[{"commit":{"message":"8319896: Remove monitor deflation from final audit"},"files":[{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.hpp"}],"sha":"7a82c13d1a67d01497b0995df573b2aab39e319e"}]
