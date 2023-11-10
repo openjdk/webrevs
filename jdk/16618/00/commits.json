@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8319927"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/floatingpoint\/TestSubnormalDouble.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/floatingpoint\/TestSubnormalFloat.java"}],"sha":"026d2739cd65da0fbba89e48a3b6658377aacb68"}]
