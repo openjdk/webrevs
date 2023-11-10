@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1755,1 +1755,1 @@\n-\/\/ The debugger reads and publishes an object with eliminated locking to a static variable.\n+\/\/ The debugger reads and publishes an object with eliminated locking to an instance field.\n","filename":"test\/jdk\/com\/sun\/jdi\/EATests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
