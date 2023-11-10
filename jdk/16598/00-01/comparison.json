@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -698,1 +698,1 @@\n-\n+    ResourceMark rm;\n@@ -704,1 +704,0 @@\n-    ResourceMark rm;\n","filename":"src\/hotspot\/share\/services\/threadService.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
