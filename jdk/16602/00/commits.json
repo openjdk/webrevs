@@ -1,0 +1,1 @@
+[{"commit":{"message":"8319778: Remove unreachable code in ObjectSynchronizer::exit"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.hpp"},{"filename":"src\/hotspot\/share\/runtime\/lockStack.inline.hpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"90676cef6ebf5b7e08cb8db9c1d4d376083b8db0"}]
