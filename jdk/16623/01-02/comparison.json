@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n-inline Generation* GenCollectedHeap::young_gen() {\n+Generation* GenCollectedHeap::young_gen() {\n","filename":"src\/hotspot\/share\/gc\/shared\/genCollectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
