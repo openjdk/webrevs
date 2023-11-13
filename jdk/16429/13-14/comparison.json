@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1134,1 +1134,1 @@\n-  \/\/ definition appears after the complete type definition of Unique_Node_List.\n+  \/\/ definition appears after the complete type definition of Node_List.\n","filename":"src\/hotspot\/share\/opto\/node.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
