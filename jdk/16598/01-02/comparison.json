@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -698,1 +698,1 @@\n-    ResourceMark rm;\n+    ResourceMark rm(VMThread::vm_thread());\n","filename":"src\/hotspot\/share\/services\/threadService.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

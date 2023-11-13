@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use VMThread::vm_thread() to avoid the need to call Thread::current()"},"files":[{"filename":"src\/hotspot\/share\/services\/threadService.cpp"}],"sha":"b485290b4a07bc6a818053bfe2336b5460e5a483"}]
