@@ -1,0 +1,1 @@
+[{"commit":{"message":"8319935: Ensure only one JvmtiThreadState is create for one JavaThread associated with attached native thread"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.inline.hpp"}],"sha":"959305be1204567197bd8bf8036c624f44ce6453"}]
