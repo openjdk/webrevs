@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -296,1 +296,0 @@\n-    FLAG_SET_DEFAULT(SpecialEncodeISOArray, false);\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
