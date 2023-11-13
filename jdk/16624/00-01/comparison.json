@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n- * IllegalArgumentException} will be thrown if <i>style<\/i> is not equal to one\n+ * IllegalArgumentException} will be thrown if <i>style<\/i> is not equal to any\n","filename":"src\/java.base\/share\/classes\/java\/text\/DateFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
