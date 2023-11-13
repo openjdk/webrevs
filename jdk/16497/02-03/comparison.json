@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1659,1 +1659,0 @@\n-  void movslq(Register dst, int32_t imm64);\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
