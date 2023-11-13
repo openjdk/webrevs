@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,0 +115,3 @@\n+            if (server.isFinishing()) {\n+                break;\n+            }\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/LeftOverInputStream.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
