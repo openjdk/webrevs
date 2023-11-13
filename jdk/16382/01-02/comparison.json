@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4261,1 +4261,1 @@\n-  fadd_s(ftmp, src, ftmp);\n+  fadd_s(ftmp, src, ftmp, RoundingMode::rdn);\n@@ -4284,1 +4284,1 @@\n-  fadd_d(ftmp, src, ftmp);\n+  fadd_d(ftmp, src, ftmp, RoundingMode::rdn);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
