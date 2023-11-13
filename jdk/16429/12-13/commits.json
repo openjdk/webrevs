@@ -1,0 +1,1 @@
+[{"commit":{"message":"Inline visit_uncasted_uses"},"files":[{"filename":"src\/hotspot\/share\/opto\/node.hpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"}],"sha":"9c97a12cb42e6006ad383db91252aedcb9db186f"},{"commit":{"message":"Replace Unique_Node_List"},"files":[{"filename":"src\/hotspot\/share\/opto\/node.hpp"}],"sha":"5b6dae6d0fbf92cc39ac7a8426a9021d6d6f76d4"}]
