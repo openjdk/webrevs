@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8319958: Fix ifdef to support WIN32 in libGetXSpace.c\n\nSigned-off-by: Stewart X Addison <sxa@redhat.com>"},"files":[{"filename":"test\/jdk\/java\/io\/File\/libGetXSpace.c"}],"sha":"cfe8813d54f80e5ddea30b8875212a698da06704"}]
