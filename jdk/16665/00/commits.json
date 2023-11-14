@@ -1,0 +1,1 @@
+[{"commit":{"message":"vthreads in heapdump"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/gc\/HeapDumpParallelTest.java"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/HeapDump\/VThreadInHeapDump.java"}],"sha":"43268104d7aa1921058048ed23f6ea47a957a45b"}]
