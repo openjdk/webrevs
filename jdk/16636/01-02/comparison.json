@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n-                .columns(40)\n+                .columns(45)\n","filename":"test\/jdk\/javax\/swing\/JPopupMenu\/FocusablePopupDismissTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
