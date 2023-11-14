@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-  if (!_loading_full_module_graph_disabled && \n+  if (!_loading_full_module_graph_disabled &&\n","filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
