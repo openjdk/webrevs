@@ -1,0 +1,1 @@
+[{"commit":{"message":"rename FileMapHeader::_use_full_module_graph -> _has_full_module_graph"},"files":[{"filename":"src\/hotspot\/share\/cds\/filemap.cpp"},{"filename":"src\/hotspot\/share\/cds\/filemap.hpp"}],"sha":"e66b2a5d669d3d5395a63c50370345add9160aa3"}]
