@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n- * <li>{@link #LONG} is longer, such as {@code January 12, 1952} or {@code 3:30:32pm}\n+ * <li>{@link #LONG} is even longer, such as {@code January 12, 1952} or {@code 3:30:32pm}\n","filename":"src\/java.base\/share\/classes\/java\/text\/DateFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
