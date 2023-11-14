@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run main\/othervm\/timeout=10 IsAlive\n+ * @run main\/othervm IsAlive\n","filename":"test\/jdk\/java\/lang\/Thread\/IsAlive.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
