@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,0 +217,1 @@\n+  memset(&_ext_event_callbacks, 0, sizeof(jvmtiExtEventCallbacks));\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
