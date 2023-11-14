@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,0 +126,2 @@\n+ * For those fields with text, typically abbreviated text form is used with {@link #MEDIUM} option,\n+ * and full text form is used with {@link #LONG} and {@link #FULL} options.\n","filename":"src\/java.base\/share\/classes\/java\/text\/DateFormat.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
