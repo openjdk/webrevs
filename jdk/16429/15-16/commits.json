@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move visited check to worklist push"},"files":[{"filename":"src\/hotspot\/share\/opto\/node.hpp"}],"sha":"1d73b0a7972222ed15fc7605ca75078d526b120a"},{"commit":{"message":"Add visited test before worklist push"},"files":[{"filename":"src\/hotspot\/share\/opto\/node.hpp"}],"sha":"f4534abf7d24978fbe8afd915dcec5b7a5b293f6"}]
