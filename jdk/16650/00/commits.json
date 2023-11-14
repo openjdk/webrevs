@@ -1,0 +1,1 @@
+[{"commit":{"message":"disable loop nest with small number of iterations"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestLongRangeChecks.java"}],"sha":"f355e6c6cf4d799ef89a639c5ab61f83303a38c4"}]
