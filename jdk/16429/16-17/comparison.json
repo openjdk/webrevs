@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1654,2 +1654,3 @@\n-    if (is_boundary(use)) { callback(use); }\n-    else {\n+    if (is_boundary(use)) {\n+      callback(use);\n+    } else {\n","filename":"src\/hotspot\/share\/opto\/node.hpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
