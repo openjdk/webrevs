@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,1 +132,0 @@\n-  size_t unlink_batch = 0;\n@@ -141,0 +140,1 @@\n+      size_t unlink_batch = 0;\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
