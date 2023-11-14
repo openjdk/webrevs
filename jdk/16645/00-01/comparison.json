@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n- * <li>{@link #FULL} is pretty completely specified, such as\n+ * <li>{@link #FULL} is the longest, such as\n","filename":"src\/java.base\/share\/classes\/java\/text\/DateFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
