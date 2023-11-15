@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -525,2 +525,2 @@\n-  assert(size > 0, \"Code cache allocation request must be > 0 but is %d\", size);\n-  if (size <= 0) {\n+  assert(size > 0, \"Code cache allocation request must be > 0\");\n+  if (size == 0) {\n","filename":"src\/hotspot\/share\/code\/codeCache.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
