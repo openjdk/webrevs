@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1635,1 +1635,0 @@\n- *     TEMP_PERM_VEC = TEMP_PERM_VEC - TWO_VEC\n@@ -1637,0 +1636,1 @@\n+ *     PERM_INDEX = PERM_INDEX - TWO_VEC\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
