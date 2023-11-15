@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,0 @@\n-            System.out.println(\"MenuItem LocationOnScreen \" + menuItem.getLocationOnScreen());\n","filename":"test\/jdk\/javax\/swing\/JMenuItem\/4654927\/bug4654927.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
