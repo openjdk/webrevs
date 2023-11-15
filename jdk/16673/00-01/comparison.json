@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1224,1 +1224,1 @@\n-          \"Adjust recompilation counters\")                                  \\\n+          \"Adjust recompilation counters (deprecated)\")                     \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
