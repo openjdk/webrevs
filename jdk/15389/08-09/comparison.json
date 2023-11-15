@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-\/\/ the bit mirroring UseCompressedClassPointers is off and maches the switch.\n+\/\/ the bit mirroring UseCompressedClassPointers is off and matches the switch.\n","filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
