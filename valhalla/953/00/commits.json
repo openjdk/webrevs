@@ -1,0 +1,1 @@
+[{"commit":{"message":"8319945: [lworld+vector] Fix vector api jtreg crash with \"-XX:-EnableVectorSupport\""},"files":[{"filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp"},{"filename":"src\/hotspot\/share\/opto\/callnode.cpp"}],"sha":"a23e09ff1631e888db4c8ac402821f9d0af55c6f"}]
