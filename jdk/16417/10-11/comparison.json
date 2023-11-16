@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4477,1 +4477,1 @@\n-    __ andi(U_2, U_2, bits2); \/\/ Clear U_2 except for the first two bits\n+    __ andi(U_2, U_2, bits2); \/\/ Clear U_2 except for the lowest two bits\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
