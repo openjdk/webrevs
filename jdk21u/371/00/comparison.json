@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,0 +77,4 @@\n+#ifdef AIX\n+#include \"loadlib_aix.hpp\"\n+#endif\n+\n@@ -1340,0 +1344,2 @@\n+  AIX_ONLY(LoadedLibraries::reload());\n+\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
