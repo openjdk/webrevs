@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316557: Make fields final in 'sun.util' package\n\nrename 'firstDay' to 'firstDays' to match 'minDays' naming"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/util\/cldr\/CLDRCalendarDataProviderImpl.java"}],"sha":"5db74105ffa9eb5b84f4e62be4dc16b79e7b4a54"}]
