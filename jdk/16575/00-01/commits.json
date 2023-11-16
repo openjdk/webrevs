@@ -1,0 +1,1 @@
+[{"commit":{"message":"- bug fix: only generate \/ use large copy code if MaxVectorSize == 64"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_arraycopy.cpp"}],"sha":"983df17ad4f617b24bd2c462cbc7f3548c4aa906"}]
