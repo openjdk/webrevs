@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -416,1 +416,1 @@\n-    if (name == NULL) {\n+    if (name == nullptr) {\n","filename":"src\/java.security.jgss\/windows\/native\/libsspi_bridge\/sspi.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
