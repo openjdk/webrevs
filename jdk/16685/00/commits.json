@@ -1,0 +1,1 @@
+[{"commit":{"message":"8320222: Wrong bytecode accepted, and StackMap table generated"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapGenerator.java"},{"filename":"test\/jdk\/jdk\/classfile\/StackMapsTest.java"}],"sha":"594e47975460310f96920fab09befe0634c11eb5"}]
