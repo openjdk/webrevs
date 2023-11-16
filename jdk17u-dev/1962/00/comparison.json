@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,0 +103,4 @@\n+      - name: 'Get GTest'\n+        id: gtest\n+        uses: .\/.github\/actions\/get-gtest\n+\n@@ -158,0 +162,1 @@\n+          --with-gtest=${{ steps.gtest.outputs.path }}\n","filename":".github\/workflows\/build-cross-compile.yml","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
