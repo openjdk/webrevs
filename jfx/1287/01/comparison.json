@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -248,1 +248,1 @@\n-            if (caretPath.getElements().size() == 0) {\n+            if (caretPath.getElements().size() != 4) {\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/TextFieldSkin.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
