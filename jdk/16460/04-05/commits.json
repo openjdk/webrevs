@@ -1,0 +1,1 @@
+[{"commit":{"message":"addressed review: (1) removed is_vthread_alive checks; (2) reverted one update"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"}],"sha":"a526bd605afff37ba735e67c0ec668bc29bf5d7d"}]
