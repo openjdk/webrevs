@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 9b372e28ceb8b054118027626eb454b8a493740b"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_adler.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_chacha.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"2031d72c9e68891ad8a0c93c9ee200899550cf08"}]
