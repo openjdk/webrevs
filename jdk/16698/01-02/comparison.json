@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,0 +71,2 @@\n+    \/\/ Number of bytes in the state buffer that has been used in squeezing.\n+    \/\/ Initialized as -1, becomes 0 when squeezing starts.\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/SHA3.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
