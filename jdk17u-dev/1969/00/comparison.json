@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8198,1 +8198,1 @@\n-instruct vmask_gen(kReg dst, rRegL len, rRegL temp) %{\n+instruct vmask_gen(kReg dst, rRegL len, rRegL temp, rFlagsReg cr) %{\n@@ -8200,1 +8200,1 @@\n-  effect(TEMP temp);\n+  effect(TEMP temp, KILL cr);\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
