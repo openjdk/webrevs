@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -372,0 +372,2 @@\n+  \/\/ Protects any existing JavaThread's from being terminated while it is set.\n+  \/\/ The FJP carrier thread compensating mechanism can create carrier threads concurrently.\n","filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
