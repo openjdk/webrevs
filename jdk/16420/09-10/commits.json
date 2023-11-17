@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adding @implSpec for Gatherer.andThen, plus adds tests to verify the default impls for Gatherer-related interfaces"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/stream\/Gatherer.java"},{"filename":"test\/jdk\/java\/util\/stream\/GathererAPITest.java"}],"sha":"080bd484c0565fa6538ef3938ec2e8fb357d3e1b"}]
