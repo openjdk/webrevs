@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: make new fields volatile, use Atomic for access\/update"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.hpp"}],"sha":"a81218fdc4ba4a47904fbefe069e74a173e5ac0f"}]
