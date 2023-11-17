@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -407,1 +407,1 @@\n-  int first = _bitset & -_bitset;\n+  size_t first = _bitset & -_bitset;\n","filename":"src\/hotspot\/cpu\/x86\/register_x86.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
