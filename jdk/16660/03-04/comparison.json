@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,2 +41,1 @@\n-        public WithoutLen(AlgorithmParameterSpec p)\n-                throws InvalidAlgorithmParameterException {\n+        public WithoutLen() {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/SHAKE256.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
