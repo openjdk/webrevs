@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8316645: RISC-V: Remove dependency on libatomic by adding cmpxchg 1b"},"files":[{"filename":"make\/autoconf\/libraries.m4"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/atomic_linux_riscv.hpp"}],"sha":"10c80ab720a888c2c5b43852a826bb799c96b6a3"}]
