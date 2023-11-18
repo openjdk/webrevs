@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n- * The {@linkplain Double##equivalenceRelation discussion of binary to\n+ * The {@linkplain Double##decimalToBinaryConversion discussion of binary to\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Float.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
