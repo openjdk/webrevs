@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: remove java_lang_VirtualThread::NEW check from is_vthread_alive"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"}],"sha":"9db5a300d6637ddd14140faeab6e2bff1aa66f65"}]
