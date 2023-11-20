@@ -1,0 +1,1 @@
+[{"commit":{"message":"8320330: Improve implementation of RShift Value"},"files":[{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/RShiftINodeIdealizationTests.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/RShiftLNodeIdealizationTests.java"}],"sha":"43a9cf3c33fe5dacd7d66e13dd46a3bd1465d03e"}]
