@@ -1,0 +1,1 @@
+[{"commit":{"message":"changed StackMapGenerator::generatorError to return an exception instead of directly throw"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapGenerator.java"}],"sha":"3c3ac9bec176e88d42d6d1641cf252fb395bb364"}]
