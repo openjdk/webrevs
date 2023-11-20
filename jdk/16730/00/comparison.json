@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -728,0 +728,7 @@\n+#ifdef AIX\n+  \/\/ avoid the cache update for malloc\/mmap errors\n+  if (should_report_bug(_id)) {\n+    LoadedLibraries::reload();\n+  }\n+#endif\n+\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":7,"deletions":0,"binary":false,"changes":7,"status":"modified"}]}
