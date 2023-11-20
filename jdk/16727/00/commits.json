@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8320382-Remove-CompressedKlassPointers-is_valid_base"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"},{"filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/compressedKlass.hpp"}],"sha":"8fe6803b7aa6a61fffe6e96f3e32b5fed16bb2bb"}]
