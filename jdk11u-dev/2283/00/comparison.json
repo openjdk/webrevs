@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,0 @@\n-        params.setProtocols(new String[]{\"TLSv1.2\"}); \/\/ TODO: This is essential. Needs to be protocol impl\n","filename":"test\/jdk\/java\/net\/httpclient\/whitebox\/java.net.http\/jdk\/internal\/net\/http\/FlowTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
