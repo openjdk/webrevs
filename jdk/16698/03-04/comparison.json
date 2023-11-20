@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,1 +173,1 @@\n-     * rate r = 1600 and capacity c = (digest length x 2).\n+     * rate r = 1600 and capacity c.\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/SHA3.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
