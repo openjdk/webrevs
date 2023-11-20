@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add a check for a thread is_attaching_via_jni, based on David Holmes' comment."},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.inline.hpp"}],"sha":"7c0214e22fa7ee2cd846af504fa60c524af6eb7e"}]
