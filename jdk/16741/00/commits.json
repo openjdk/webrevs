@@ -1,0 +1,1 @@
+[{"commit":{"message":"8320418: PPC64: invokevfinal_helper duplicates code to handle ResolvedMethodEntry"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/templateTable_ppc.hpp"},{"filename":"src\/hotspot\/cpu\/ppc\/templateTable_ppc_64.cpp"},{"filename":"src\/hotspot\/share\/interpreter\/templateInterpreter.cpp"}],"sha":"a5f141ba7d5de80d0607f4cd2afda0777c7af294"}]
