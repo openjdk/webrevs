@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -447,1 +447,1 @@\n-                CERT_SYSTEM_STORE_LOCAL_MACHINE, pszCertStoreName);\n+                CERT_SYSTEM_STORE_LOCAL_MACHINE | CERT_STORE_MAXIMUM_ALLOWED_FLAG, pszCertStoreName);\n","filename":"src\/jdk.crypto.mscapi\/windows\/native\/libsunmscapi\/security.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
