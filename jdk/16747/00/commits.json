@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8320335: Deprecate `RegisterFinalizersAtInit` option and code\n\nDeprecate the -XX:[+-]RegisterFinalizersAtInit option in JDK22.\nGoal is complete removal by JDK24."},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"180df75095c38f9bbc2aca2e9bf7618cf4482fcb"}]
