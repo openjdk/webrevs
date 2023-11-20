@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update some assertions for calls to MacroAssembler::lightweight_lock\/unlock"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c1_MacroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"ca4402f896aacdf6b09192cad4fb890109419a23"}]
