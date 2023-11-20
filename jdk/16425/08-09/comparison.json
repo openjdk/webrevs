@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -271,1 +271,1 @@\n-     * Allocates a new {@code String} so that it represents the sequence ofbb\n+     * Allocates a new {@code String} so that it represents the sequence of\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
