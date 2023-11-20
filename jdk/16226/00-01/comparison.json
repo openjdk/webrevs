@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -261,1 +261,1 @@\n-     * or if the first* character in the file name string is the only period,\n+     * or if the first character in the file name string is the only period,\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/Path.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
