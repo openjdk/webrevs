@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+\/\/ Don't want to pull in the redefined allocation functions\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_DnDDT.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
