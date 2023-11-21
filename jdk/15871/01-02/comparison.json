@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -849,1 +849,1 @@\n-  _dcmdparser.add_dcmd_option(&_filename);\n+  _dcmdparser.add_dcmd_argument(&_filename);\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
