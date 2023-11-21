@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -540,1 +540,1 @@\n-        const markWord unlocked_mark = mark.set_fast_locked();\n+        const markWord unlocked_mark = mark.set_unlocked();\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
