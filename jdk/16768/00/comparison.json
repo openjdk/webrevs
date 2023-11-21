@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-        register unsigned long __v;                             \\\n+        unsigned long __v;                                      \\\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
