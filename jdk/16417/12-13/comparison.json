@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2712,1 +2712,1 @@\n-    __ orr(haystack_len, haystack_len, needle_len); \/\/ restore needle_len(3right_2_bits)\n+    __ orr(haystack_len, haystack_len, needle_len); \/\/ restore needle_len(32bits)\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
