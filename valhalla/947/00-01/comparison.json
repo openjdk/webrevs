@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,1 +142,1 @@\n-    static primitive class ClassG {\n+    static value class ClassG {\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/StaticFieldsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
