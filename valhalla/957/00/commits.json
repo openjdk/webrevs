@@ -1,0 +1,1 @@
+[{"commit":{"message":"8320225: [lworld] TestBasicFunctionality::test20 fails intermittently because it does not correctly handle coalescing of subword stores"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestBasicFunctionality.java"}],"sha":"8a87852202c3ea1987c2e3f0eb0404411547ca0a"}]
