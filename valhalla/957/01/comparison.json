@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -469,1 +469,1 @@\n-        counts = {ALLOC, \"= 1\", STORE, \"= 1\"},  \/\/ InitializeNode::coalesce_subword_stores merges stores\n+        counts = {ALLOC, \"= 1\"},\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestBasicFunctionality.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
