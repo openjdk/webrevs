@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove obsolete `LintCategory.hidden`\n\n`LintCategory.hidden` is an obsolete member with no uses. It was used for a custom \"internal\" category, \"sunapi\"."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Lint.java"}],"sha":"40a1ec4e17496d9231a613585c58a7d298de82d6"}]
