@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1101,2 +1101,0 @@\n-\/\/ Loads .dll\/.so and in case of error it checks if .dll\/.so was built\n-\/\/ for the same architecture as Hotspot is running on.\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
