@@ -1,0 +1,1 @@
+[{"commit":{"message":"use #ifdef _LP64 instead of LP64_ONLY"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_LIRAssembler_x86.cpp"}],"sha":"4602f30e34f3e55fead3897406983f5c9047faaf"}]
