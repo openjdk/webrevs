@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -557,1 +557,1 @@\n-        String result = super.toString() + nkeys + \" pairs: \";\n+        String result = super.toString() + \" \" + nkeys + \" pairs: \";\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/MessageHeader.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
