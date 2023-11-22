@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-    _entry_specific._resolved_references_index = saved_resolved_references_index;\n+    set_resolved_references_index(saved_resolved_references_index);\n","filename":"src\/hotspot\/share\/oops\/resolvedMethodEntry.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
