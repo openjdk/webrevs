@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,1 @@\n-      log_trace(metaspace, map)(\"Failed to attach at \" PTR_FORMAT, immediate);\n+      log_trace(metaspace, map)(\"Failed to attach at \" UINT64_FORMAT_X, immediate);\n","filename":"src\/hotspot\/cpu\/aarch64\/compressedKlass_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
