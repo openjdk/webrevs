@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -579,4 +579,0 @@\n-\n-    \/\/ method to search for a instrumentation object by name\n-    static bool by_name(const char* name, PerfData* pd);\n-\n","filename":"src\/hotspot\/share\/runtime\/perfData.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
