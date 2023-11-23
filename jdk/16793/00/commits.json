@@ -1,0 +1,1 @@
+[{"commit":{"message":"8320618: NPE: Cannot invoke \"java.lang.constant.ClassDesc.isArray()\" because \"this.sym\" is null"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapGenerator.java"},{"filename":"test\/jdk\/jdk\/classfile\/StackMapsTest.java"}],"sha":"21e0c62f75a2c73d4700e8925696afd3c858e372"}]
