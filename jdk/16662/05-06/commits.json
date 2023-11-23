@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do expensive cleanup only in `purge_previous_version_list()`"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"},{"filename":"src\/hotspot\/share\/oops\/method.cpp"}],"sha":"4c6a57e81de8bede19cae1ea0bca391ce430781f"}]
