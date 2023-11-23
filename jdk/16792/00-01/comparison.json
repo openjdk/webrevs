@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,0 +108,1 @@\n+                        assertFalse(segment.scope().isAlive());\n","filename":"test\/jdk\/java\/foreign\/TestHandshake.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
