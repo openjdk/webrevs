@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,1 +192,1 @@\n-    JVMCI_event_1(\"[%s:%d] Error pushing local JNI frame (err: %d)\", _file, _line, _init_error);\n+    JVMCI_event_1(\"[%s:%d] Error pushing local JNI frame (err: %d)\", _file, _line, result);\n","filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
