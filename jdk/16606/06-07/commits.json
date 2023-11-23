@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid copy from and to the same location"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.inline.hpp"}],"sha":"0fe2561a36486f664017c1e6665390514ce01f81"},{"commit":{"message":"Fix typo"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.inline.hpp"}],"sha":"cfe8bc1ca8cdbc8d774451d887b93475f42b2cc2"}]
