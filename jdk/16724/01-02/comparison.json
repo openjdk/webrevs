@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,1 @@\n-class VirtualMemorySnapshot : public AnyObj {\n+class VirtualMemorySnapshot {\n","filename":"src\/hotspot\/share\/nmt\/virtualMemoryTracker.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
