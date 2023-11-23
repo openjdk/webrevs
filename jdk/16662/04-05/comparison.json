@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2267,1 +2267,1 @@\n-  if (const_method() != nullptr && constants() != nullptr && method_holder() == nullptr) {\n+  if (constMethod() != nullptr && constants() != nullptr && method_holder() == nullptr) {\n","filename":"src\/hotspot\/share\/oops\/method.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
