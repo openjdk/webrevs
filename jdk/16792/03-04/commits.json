@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge pull request #3 from JornVernee\/PR_async_close+NoToNativeTrans\n"},"files":[],"sha":"83cef3789b52e3e42d2d1c0702f8ebb8c41572f6"},{"commit":{"message":"don't transition to native state on Unsafe_CopySwapMemory0"},"files":[{"filename":"src\/hotspot\/share\/prims\/unsafe.cpp"}],"sha":"f7877711b819b3e14e0a9da99490dfa73202019b"}]
