@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -155,1 +155,1 @@\n-        return super.useAuthCache() && cacheSPNEGO;\n+        return false;\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/http\/NegotiateAuthentication.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
