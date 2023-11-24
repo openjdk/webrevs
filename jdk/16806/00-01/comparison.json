@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,2 +60,2 @@\n-native.core.args=-c \".dump \/ma core.%p;qd\" -p %p\n-native.core.params.timeout=3600000\n+native.core.args=-c \".dump \/mA core.%p;qd\" -p %p\n+native.core.params.timeout=600000\n","filename":"test\/failure_handler\/src\/share\/conf\/windows.properties","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
