@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adjust heap size when close to compressed oops limit"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"8a4e4c11a41bc3a154cfcd3722d072d8f01bba6f"}]
