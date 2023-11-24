@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed newly merged test TestMulAddS2I.java: a case now vectorizes that prevously did not with -XX:+AlignVector"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestMulAddS2I.java"}],"sha":"13c6486574626150ab5a98e5489629cd0d4b1975"}]
