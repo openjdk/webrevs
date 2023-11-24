@@ -1,0 +1,1 @@
+[{"commit":{"message":"switch off AIX tests since AIX does not support CDS"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedCPUSpecificClassSpaceReservation.java"}],"sha":"a381ae8618d0e042fbfc129b5397cc9ea73402d0"}]

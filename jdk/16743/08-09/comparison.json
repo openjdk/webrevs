@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @requires os.family != \"windows\"\n+ * @requires (os.family != \"windows\") & (os.family != \"aix\")\n","filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedCPUSpecificClassSpaceReservation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
