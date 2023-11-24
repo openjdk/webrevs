@@ -1,0 +1,1 @@
+[{"commit":{"message":"8320363: ppc64 TypeEntries::type_unknown logic looks wrong, missed optimization opportunity"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/c1_LIRAssembler_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc_64.cpp"}],"sha":"45c2c9b1593a641c713f05aefb34f21e3bc09f21"}]
