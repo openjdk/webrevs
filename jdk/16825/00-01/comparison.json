@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -405,2 +405,2 @@\n-JOBS? = @JOBS@\n-TEST_JOBS? = @TEST_JOBS@\n+JOBS ?= @JOBS@\n+TEST_JOBS ?= @TEST_JOBS@\n","filename":"make\/autoconf\/spec.gmk.in","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
