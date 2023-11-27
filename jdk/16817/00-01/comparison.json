@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -732,1 +732,1 @@\n-        \/\/ randomBits() returns a zero length array if len == 0\n+        \/\/ randomBits() returns a zero length array if numBits == 0\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
