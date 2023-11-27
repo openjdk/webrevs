@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,1 +95,1 @@\n-        run(new JMXExecutor(), \"Compiler.perfmap filename=\" + path.toString(), path);\n+        run(new JMXExecutor(), \"Compiler.perfmap \" + path.toString(), path);\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/compiler\/PerfMapTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
