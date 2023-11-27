@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 84124794c2ff70ba22cbfbf1ff01cf4d935896bd"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"}],"sha":"b82ca539afdc14bcbba940857b0f4f97fe7d4376"}]
