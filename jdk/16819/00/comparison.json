@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -184,2 +184,1 @@\n-  assert(buf != nullptr, \"invalid argument\");\n-  assert(buflen >= 1, \"invalid argument\");\n+  assert(buf != nullptr && buflen >= 1, \"invalid arguments\");\n","filename":"src\/hotspot\/os_cpu\/linux_aarch64\/vm_version_linux_aarch64.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
