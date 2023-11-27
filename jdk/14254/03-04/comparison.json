@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -527,1 +527,0 @@\n-                \/\/ Currently RFC 8554 only supports SHA-256.\n","filename":"src\/java.base\/share\/classes\/sun\/security\/pkcs\/SignerInfo.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
