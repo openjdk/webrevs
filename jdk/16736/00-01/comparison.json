@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1411,1 +1411,1 @@\n-  return TypeLong::make((jlong)r1->get_con() >> (r2->get_con() & 63));\n+  return TypeLong::make(r1->get_con() >> (r2->get_con() & 63));\n","filename":"src\/hotspot\/share\/opto\/mulnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
