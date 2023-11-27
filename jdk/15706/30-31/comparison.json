@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -374,1 +374,1 @@\n-                               Classfile.ACC_PUBLIC,\n+                               ClassFile.ACC_PUBLIC,\n","filename":"test\/jdk\/java\/lang\/runtime\/SwitchBootstrapsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
