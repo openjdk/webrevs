@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7834,1 +7834,1 @@\n-instruct ablendvp(legVec dst, legVec src1, legVec src2, legVec mask, legVec vtmp) %{\n+instruct vblendvp(legVec dst, legVec src1, legVec src2, legVec mask, legVec vtmp) %{\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
