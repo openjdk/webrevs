@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't drain queue periodically"},"files":[{"filename":"src\/hotspot\/share\/classfile\/symbolTable.cpp"}],"sha":"2e5dd556cfc0c937087af29a8eec81a3433917b3"},{"commit":{"message":"Avoid TempNewSymbol in placeholders test"},"files":[{"filename":"test\/hotspot\/gtest\/classfile\/test_placeholders.cpp"}],"sha":"04def7fcd5a657b4ead3d31e4388bcc87c62f66f"}]
