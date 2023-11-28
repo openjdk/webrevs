@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix code heap initial sizes to be multiple of rs.alignment()"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"}],"sha":"17c42cddd220a0f47f8b944271d9b96b32e51b59"}]
