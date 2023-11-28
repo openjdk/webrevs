@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1108,1 +1108,1 @@\n-              $(DSYMUTIL) --reproducer Off --out $$($1_SYMBOLS_DIR)\/$$($1_BASENAME).dSYM $$($1_TARGET)\n+              $(DSYMUTIL) --out $$($1_SYMBOLS_DIR)\/$$($1_BASENAME).dSYM $$($1_TARGET)\n","filename":"make\/common\/NativeCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
