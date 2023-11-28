@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport d3ebb4a155be8ed93e79b6b58c645e861ec30267"},"files":[{"filename":"jdk\/make\/data\/cacerts\/teliarootcav2"},{"filename":"jdk\/test\/security\/infra\/java\/security\/cert\/CertPathValidator\/certification\/CAInterop.java"},{"filename":"jdk\/test\/sun\/security\/lib\/cacerts\/VerifyCACerts.java"}],"sha":"243ad7185c52c674422cc462529ccb8cc8c3b961"}]
