@@ -1,0 +1,1 @@
+[{"commit":{"message":"Align ReservedCodeCacheSize to max(preferred page size, os::vm_allocation_granularity())"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"}],"sha":"f495310ef48791d851ef37eb3fb1d559dabf329e"}]
