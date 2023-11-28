@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4440,2 +4440,2 @@\n-    eor(tmp1, tmp1, tmp2);\n-    cbz(tmp1, OK);        \/\/ Only reset FPCR if it's wrong\n+    eor(tmp2, tmp1, tmp2);\n+    cbz(tmp2, OK);        \/\/ Only reset FPCR if it's wrong\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
