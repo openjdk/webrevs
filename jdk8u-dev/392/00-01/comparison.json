@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-            Java_sun_management_ThreadImpl_getTotalThreadAllocatedMemory;\n+\t    Java_sun_management_ThreadImpl_getTotalThreadAllocatedMemory;\n","filename":"jdk\/make\/mapfiles\/libmanagement\/mapfile-vers","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
