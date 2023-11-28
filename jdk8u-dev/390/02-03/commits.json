@@ -1,0 +1,1 @@
+[{"commit":{"message":"Explicitly enable stapling, which is disabled by default in the 8u backport of TLS 1.3"},"files":[{"filename":"jdk\/test\/security\/infra\/java\/security\/cert\/CertPathValidator\/certification\/ValidatePathWithURL.java"}],"sha":"1c96da7ebc823e7461c059ce4f8ff199d9f32f54"}]
