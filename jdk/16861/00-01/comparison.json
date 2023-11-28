@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -294,1 +294,1 @@\n-        Arrays.fill(bb.array(), 0, bb.arrayOffset() + bb.position(), (byte)0);\n+        Arrays.fill(bb.array(), bb.arrayOffset(), bb.arrayOffset() + bb.position(), (byte)0);\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/StreamDecoder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
