@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,2 +49,2 @@\n-     sed -e 's@\\\\r@@g' $out >$out.1\n-     sed -e 's@\\\\r@@g' $expected >$out.expected\n+     sed -e 's@\\r@@g' $out >$out.1\n+     sed -e 's@\\r@@g' $expected >$out.expected\n","filename":"jdk\/test\/sun\/tools\/native2ascii\/Native2AsciiTests.sh","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
