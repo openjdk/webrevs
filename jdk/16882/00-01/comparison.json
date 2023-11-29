@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-    num_workers = MIN2<uint>(num_chunks, pretouch_workers->max_workers());\n+    num_workers = (uint)MIN2(num_chunks, (size_t)pretouch_workers->max_workers());\n","filename":"src\/hotspot\/share\/gc\/shared\/pretouchTask.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
