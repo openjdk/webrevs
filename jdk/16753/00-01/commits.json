@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only use optimization when EnableX86ECoreOpts is true"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"e614b86f539aa96ddb28290543c2c603abaa0b97"}]
