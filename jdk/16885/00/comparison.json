@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,2 @@\n- protected:\n+\n+  ParCompactionManager();\n@@ -158,1 +159,0 @@\n-  ParCompactionManager();\n","filename":"src\/hotspot\/share\/gc\/parallel\/psCompactionManager.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
