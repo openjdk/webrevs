@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n-    private int counter = 6000;\n+    private int counter = 5000;\n@@ -90,1 +90,1 @@\n-            counter = 6000;\n+            counter = 5000;\n","filename":"test\/jdk\/jdk\/jfr\/event\/gc\/stacktrace\/AllocationStackTrace.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
