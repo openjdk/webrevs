@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-            \/\/ AArch64 intrinsics require the advanced simd instructions\n+            \/\/ Riscv64 intrinsics require the vector instructions\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/chacha\/TestChaCha20.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
