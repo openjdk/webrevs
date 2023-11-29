@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 5e24aaf4f7f11862ec8ac9d5c3e65d614104fb2c"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/typeAnnotations\/TypeAnnosOnConstructorsTest.java"}],"sha":"b80fdcd298d6cbab5e4e417aaf7d3e9cbfe4538b"}]
