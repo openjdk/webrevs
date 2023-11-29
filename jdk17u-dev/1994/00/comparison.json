@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -848,3 +848,0 @@\n-      assert(gch->gc_cause() == GCCause::_scavenge_alot ||\n-             !gch->incremental_collection_failed(),\n-             \"Twice in a row\");\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
