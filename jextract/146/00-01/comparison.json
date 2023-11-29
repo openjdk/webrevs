@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -376,2 +376,0 @@\n-\n-    static final String JAVA_NAME = \"java.name\";\n","filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/NameMangler.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
