@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -838,1 +838,1 @@\n-                        color = srcColorSpace.fromCIEXYZ(dstColor);\n+                        color = dstColorSpace.fromCIEXYZ(dstColor);\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/ColorConvertOp.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
