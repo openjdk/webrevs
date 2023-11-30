@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -292,2 +292,1 @@\n-    private void lockedFillZeroToPosition() throws IOException {\n-        ensureOpen();\n+    private void lockedFillZeroToPosition() {\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/StreamDecoder.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
