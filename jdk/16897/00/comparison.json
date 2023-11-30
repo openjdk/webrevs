@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-#ifndef AARCH64\n+#if !defined(AARCH64) || defined(ZERO)\n@@ -118,1 +118,1 @@\n-#endif \/\/ !AARCH64\n+#endif \/\/ !AARCH64 || ZERO\n","filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
