@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,1 +141,2 @@\n-        || (errval == ERROR_NETWORK_ACCESS_DENIED)) {\n+        || (errval == ERROR_NETWORK_ACCESS_DENIED)\n+        || (errval == ERROR_NO_MORE_FILES)) {\n","filename":"src\/java.base\/windows\/native\/libjava\/canonicalize_md.c","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
