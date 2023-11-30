@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321053: Use ByteArrayInputStream.buf directly when parameter of transferTo() is trusted"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ByteArrayInputStream.java"},{"filename":"test\/jdk\/java\/io\/ByteArrayInputStream\/TransferToTrusted.java"}],"sha":"a42a45ce3086fdb2ac3e5cd2eba3fb7057e8d014"}]
