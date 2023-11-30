@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321053: Trust non-FilterOutputStreams in \"java.\" packages"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ByteArrayInputStream.java"},{"filename":"test\/jdk\/java\/io\/ByteArrayInputStream\/TransferToTrusted.java"}],"sha":"176d5165f7d8f3fa4814c9838abb5d18d9f3c338"}]
