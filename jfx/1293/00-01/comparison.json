@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,5 @@\n-public class CssUtil {\n+public final class CssUtil {\n+\n+    private CssUtil() {\n+    }\n+\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/css\/CssUtil.java","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
