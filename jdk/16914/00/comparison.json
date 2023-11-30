@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -477,0 +477,1 @@\n+  return ciBitData(nullptr);\n","filename":"src\/hotspot\/share\/ci\/ciMethodData.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
