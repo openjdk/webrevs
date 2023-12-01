@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2936,2 +2936,2 @@\n-        private boolean    loadedImage;\n-        private ImageIcon  image;\n+        private volatile boolean loadedImage;\n+        private ImageIcon image;\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSS.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
