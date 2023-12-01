@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3983,1 +3983,1 @@\n-                \/\/ Do to a significant number of existing negative tests\n+                \/\/ Due to a significant number of existing negative tests\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
