@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only run the cancellation tests for mapConcurrent for the shorter streams to conserve resources"},"files":[{"filename":"test\/jdk\/java\/util\/stream\/BuiltInGatherersTest.java"}],"sha":"a4ab3469512eadf49ab14ef5d0325e20dba59906"}]
