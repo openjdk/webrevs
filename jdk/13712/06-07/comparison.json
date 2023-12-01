@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -352,1 +352,1 @@\n-        final int ITERATIONS = 512; \/\/ Total number of compositions is 1 + (iterations*2)\n+        final int ITERATIONS = 128; \/\/ Total number of compositions is 1 + (iterations*2)\n","filename":"test\/jdk\/java\/util\/stream\/GathererTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

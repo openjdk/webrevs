@@ -1,0 +1,1 @@
+[{"commit":{"message":"Lower number of composed gatherers\n\nPrevent stack overflows on 32-bit machines"},"files":[{"filename":"test\/jdk\/java\/util\/stream\/GathererTest.java"}],"sha":"bcf69dc9af5109a3329f29412afd9a83eb847ace"}]
