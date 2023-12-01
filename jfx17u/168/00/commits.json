@@ -1,0 +1,1 @@
+[{"commit":{"message":"8320267: WebView crashes on macOS 11 with WebKit 616.1\n\nReviewed-by: jbhaskar, jpereda"},"files":[{"filename":"modules\/javafx.web\/src\/main\/native\/Source\/WTF\/wtf\/PlatformJSCOnly.cmake"},{"filename":"modules\/javafx.web\/src\/main\/native\/Source\/WTF\/wtf\/threads\/Signals.cpp"}],"sha":"549433a5a0f836673f578f73c4af3c2da2edf39d"}]
