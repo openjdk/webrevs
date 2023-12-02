@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,0 +46,2 @@\n+\/\/ SerialHeap is the implementation of CollectedHeap for Serial GC.\n+\/\/\n","filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
