@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1235,0 +1235,3 @@\n+  if (mismatched_ms BIG_ENDIAN_ONLY(&& true)) {\n+    return false;\n+  }\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
