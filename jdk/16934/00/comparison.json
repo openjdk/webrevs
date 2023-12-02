@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,3 @@\n-      (thread->is_exiting() || thread->is_attaching_via_jni())) {\n+      (thread->is_exiting() ||\n+       (thread->threadObj() == nullptr && thread->is_attaching_via_jni())\n+      )) {\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.inline.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}

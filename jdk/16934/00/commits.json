@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321069: Test failure after JDK-8319935: exiting thread called setup_jvmti_thread_state"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.inline.hpp"}],"sha":"5c9eb2ec3a2425971f1f35e31655ce6c04a473ba"}]
