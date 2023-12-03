@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reduce oversignalling and contention; add test"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/ForkJoinPoolTest.java"}],"sha":"f6a51eb0b4e81e724c12efae3d0e9a921532f493"}]
