@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,0 @@\n-class JfrChunkWriter;\n@@ -35,0 +34,1 @@\n+class JfrChunkWriter;\n","filename":"src\/hotspot\/share\/jfr\/support\/jfrDeprecationManager.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
