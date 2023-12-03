@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-        @JEP(number=446, title=\"Scoped Values\", status=\"Preview\")\n+        @JEP(number=464, title=\"Scoped Values\", status=\"Second Preview\")\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/javac\/PreviewFeature.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
