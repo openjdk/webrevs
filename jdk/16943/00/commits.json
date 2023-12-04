@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321225: [JVMCI] HotSpotResolvedObjectTypeImpl.isLeafClass shouldn't create strong references"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotResolvedObjectTypeImpl.java"}],"sha":"2467c5a56863bf6d471e62381d568918d0070634"}]
