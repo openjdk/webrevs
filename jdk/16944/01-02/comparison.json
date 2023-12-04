@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,0 +107,1 @@\n+                    fail(\"Did not throw IAE\");\n","filename":"test\/jdk\/java\/foreign\/LibraryLookupTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
