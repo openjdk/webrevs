@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3302,1 +3302,0 @@\n-    JNI_CHECK_PEER_GOTO(self, ret);\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Window.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
