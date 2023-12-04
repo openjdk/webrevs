@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,6 +38,0 @@\n-  enum style {\n-    do_none,  \/\/ Do no prefetching\n-    do_read,  \/\/ Do read prefetching\n-    do_write  \/\/ Do write prefetching\n-  };\n-\n","filename":"src\/hotspot\/share\/runtime\/prefetch.hpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
