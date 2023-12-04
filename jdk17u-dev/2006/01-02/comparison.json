@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-    enum Type { DSA, RSA, ECDSA,HMAC }\n+    enum Type { DSA, RSA, ECDSA, HMAC }\n","filename":"src\/java.xml.crypto\/share\/classes\/org\/jcp\/xml\/dsig\/internal\/dom\/AbstractDOMSignatureMethod.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
