@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -236,4 +236,0 @@\n-    void emitPointerTypedef(String name) {\n-        emitPointerTypedef(null, name);\n-    }\n-\n","filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/HeaderFileBuilder.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
