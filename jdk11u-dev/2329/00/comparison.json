@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+ * @library \/lib\/testlibrary \/java\/lang\/invoke\/common\n@@ -31,1 +32,0 @@\n- * @library \/lib\/testlibrary \/java\/lang\/invoke\/common\n","filename":"test\/jdk\/java\/lang\/invoke\/LFCaching\/LFGarbageCollectedTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
