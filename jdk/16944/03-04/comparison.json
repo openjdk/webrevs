@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -297,1 +297,1 @@\n-        if (!(path.getFileSystem() == FileSystems.getDefault())) {\n+        if (path.getFileSystem() != FileSystems.getDefault()) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/SymbolLookup.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
