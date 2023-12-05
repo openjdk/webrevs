@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -561,1 +561,1 @@\n-  \/\/ work around a bug with virtual thread frames which can be not deoptimized in time. \n+  \/\/ work around a bug with virtual thread frames which can be not deoptimized in time.\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
