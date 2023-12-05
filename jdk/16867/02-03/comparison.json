@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,0 @@\n-            robot.delay(500);\n@@ -139,0 +138,1 @@\n+        robot.delay(500);\n@@ -192,0 +192,1 @@\n+        robot.delay(500);\n@@ -241,0 +242,1 @@\n+        robot.delay(500);\n","filename":"test\/jdk\/java\/awt\/Window\/Grab\/GrabTest.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
