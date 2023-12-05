@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n-export LC_ALL := C\n+export LC_ALL := C.UTF-8\n","filename":"make\/autoconf\/spec.gmk.in","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
