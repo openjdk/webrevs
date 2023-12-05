@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -560,0 +560,2 @@\n+  \/\/ This optimization is disabled when watchpoint capabilities are present. It is to\n+  \/\/ work around a bug with virtual thread frames which can be not deoptimized in time. \n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
