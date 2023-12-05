@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,1 +118,1 @@\n-                long all = Pattern.compile(\"warning: no comment\\n\")\n+                long all = Pattern.compile(\"warning: no comment\")\n","filename":"test\/langtools\/jdk\/javadoc\/doclet\/testImplicitlyDeclaredClasses\/TestImplicitlyDeclaredClasses.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
