@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4440,0 +4440,1 @@\n+    bfi(tmp1, zr, 0, 2);  \/\/ Clear AH:FIZ\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
