@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292922: [Linux] No more drag events when new Stage is created in drag handler\n\nReviewed-by: angorya, kcr"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_general.cpp"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp"}],"sha":"3a65c3ad48511eb88b57249a4e879798839261a7"}]
