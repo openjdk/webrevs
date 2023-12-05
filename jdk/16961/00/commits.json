@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321219: runtime\/jni\/FastGetField: assert(is_interpreted_frame()) failed: interpreted frame expected"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp"}],"sha":"c08484ac045d7e5659af14e456ea919468451ea8"}]
