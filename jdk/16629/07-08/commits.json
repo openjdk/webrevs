@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changed lb-->lbu for T_BOOLEAN and iRegINoSp-->iRegLNoSp for tmp2\/tmp3."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"f955a06195f9abf1d7c7476d2578c0fb4f9729f2"}]
