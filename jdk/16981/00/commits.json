@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321288: [JVMCI] HotSpotJVMCIRuntime doesn't clean up WeakReferences in resolvedJavaTypes"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotJVMCIRuntime.java"}],"sha":"e6a60ed01934d8eca41b8ea6f1afa9d089396e85"}]
