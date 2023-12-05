@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3670,1 +3670,1 @@\n-  effect(TEMP_DEF dst);\n+  effect(TEMP_DEF dst, TEMP v0);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
