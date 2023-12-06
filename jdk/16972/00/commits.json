@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321374: Add a configure option to explicitly set CompanyName property in VersionInfo resource for Windows exe\/dll"},"files":[{"filename":"make\/autoconf\/jdk-version.m4"},{"filename":"make\/autoconf\/spec.gmk.in"},{"filename":"make\/common\/JdkNativeCompilation.gmk"}],"sha":"8756034f70e79d109c9e03b0fa34823a42ca39bb"}]
