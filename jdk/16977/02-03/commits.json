@@ -1,0 +1,1 @@
+[{"commit":{"message":"Small fix to let attribution for potential elements pass through"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Annotate.java"},{"filename":"test\/langtools\/tools\/javac\/T8320144.java"},{"filename":"test\/langtools\/tools\/javac\/T8320144.out"}],"sha":"9922d38e28d6152eea0cfef2ee4b726b29242f11"}]
