@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-error=author,whitespace,executable,problemlists\n+error=author,whitespace,executable,problemlists,reviewers\n@@ -42,0 +42,3 @@\n+\n+[checks \"reviewers\"]\n+reviewers=1\n","filename":".jcheck\/conf","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
