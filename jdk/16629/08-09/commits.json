@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added two temp registers for loads; all loads in wide loop has been moved to the start of the loop."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"99f91d0496f21993a447010d5525fabe8827eba7"}]
