@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-  static const uint max_workers = os::processor_count();\n+  static const uint max_workers = MIN2(31, os::processor_count()); \/\/ ID bitmap limits the max CPU\n","filename":"test\/hotspot\/gtest\/gc\/shared\/test_workerThreads.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
