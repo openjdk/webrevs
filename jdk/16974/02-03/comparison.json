@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @requires os.maxMemory >= 4G\n+ * @requires vm.bits == 64 & os.maxMemory >= 4G\n","filename":"test\/jdk\/java\/lang\/String\/CompactString\/NegativeSize.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
