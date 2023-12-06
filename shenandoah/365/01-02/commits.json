@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove ShenandoahNoProgressThreshold\n\nWith this change, this command-line option has no effect."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoah_globals.hpp"}],"sha":"bbff38a3fb103848dd600ecdde8f89366ee80fe8"}]
