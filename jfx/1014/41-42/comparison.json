@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -231,1 +231,1 @@\n-    std::swap(*this, source);\n+    std::swap(message_, source.message_);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/RoActivationSupport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
