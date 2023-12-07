@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -186,1 +186,1 @@\n-    public static byte[] encodeSignatureWithoutNULL(ObjectIdentifier oid, byte[] digest) {\n+    static byte[] encodeSignatureWithoutNULL(ObjectIdentifier oid, byte[] digest) {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/rsa\/RSAUtil.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
