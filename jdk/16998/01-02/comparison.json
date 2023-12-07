@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,1 +192,1 @@\n-            \/\/ skipp awdl and llw interfaces on macosx\n+            \/\/ skip awdl and llw interfaces on macosx\n","filename":"test\/jdk\/java\/net\/Inet6Address\/serialize\/Inet6AddressSerializationTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
