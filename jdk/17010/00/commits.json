@@ -1,0 +1,1 @@
+[{"commit":{"message":"8270269: Desktop.browse method fails if earlier CoInitialize call as COINIT_MULTITHREADED"},"files":[{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Desktop.cpp"}],"sha":"4908d9c220950683d3a5010d12ab756eff6b6fa7"}]
