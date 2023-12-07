@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disallow read only segments for SA factories"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/SegmentAllocator.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegmentAllocators.java"}],"sha":"491e71fca96dd33e5307789b83f6d10eea41ae2a"}]
