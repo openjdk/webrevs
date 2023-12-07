@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert fix and restrict NMethodSizeLimit instead"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_globals.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestC1Globals.java"}],"sha":"a35bad0e89d162355a6c2cc95abe427eb53c59f1"}]
