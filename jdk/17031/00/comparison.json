@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,0 +67,1 @@\n+ *      -Djdk.tracePinnedThreads=full\n","filename":"test\/jdk\/java\/net\/httpclient\/HttpClientLocalAddrTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
