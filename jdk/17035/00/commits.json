@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321582: yield <primitive-type>.class not parsed correctly."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/switchexpr\/ExpressionSwitch.java"}],"sha":"48107768468df363a160794f7532817f2d8ef058"}]
