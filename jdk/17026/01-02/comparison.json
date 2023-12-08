@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,2 @@\n- * @run main\/othervm compiler.arguments.TestTraceICs\n+ * @run main\/othervm -Xlog:inlinecache=trace\n+ *                   compiler.arguments.TestTraceICs\n","filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestTraceICs.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
