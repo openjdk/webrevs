@@ -1,0 +1,1 @@
+[{"commit":{"message":"Include runtime\/globals.hpp to fix compile error when running with --disable-precompiled-headers\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/utilities\/elfFile.hpp"}],"sha":"2b88a8e0c30d7bd04a3f2461333bf461e4841474"}]

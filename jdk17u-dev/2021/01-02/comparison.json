@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,0 +73,1 @@\n+#include \"runtime\/globals.hpp\"\n","filename":"src\/hotspot\/share\/utilities\/elfFile.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
