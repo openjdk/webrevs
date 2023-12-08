@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,2 +28,1 @@\n- * @run main\/othervm -XX:+IgnoreUnrecognizedVMOptions -XX:+TraceICs\n- *                   compiler.arguments.TestTraceICs\n+ * @run main\/othervm compiler.arguments.TestTraceICs\n","filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestTraceICs.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
