@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,2 @@\n+import java.io.*;\n+\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/gc\/serial\/SerialHeap.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
