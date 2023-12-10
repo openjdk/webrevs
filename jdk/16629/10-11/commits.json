@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved zero check for cnt before TAIL per @RealFYang suggestion."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"94ad47e2af21b9999c819d9dbc7ef361a07e7599"}]

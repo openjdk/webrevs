@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1523,0 +1523,1 @@\n+  beqz(cnt, DONE);\n@@ -1525,1 +1526,0 @@\n-  beqz(cnt, DONE);\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
