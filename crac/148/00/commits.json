@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321660: [CRaC] Trim native heap before checkpoint to decrease image size"},"files":[{"filename":"src\/hotspot\/share\/logging\/logTag.hpp"},{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"}],"sha":"4646524a4102e4d5762d47d4d134081b5d057c12"}]
