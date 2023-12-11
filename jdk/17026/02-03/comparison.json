@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @summary Test running TraceICs enabled.\n+ * @summary Test running with log:inlinecache=trace enabled.\n","filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestTraceICs.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
