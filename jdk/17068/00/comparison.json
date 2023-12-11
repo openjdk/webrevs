@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,5 +94,0 @@\n-  \/\/ Has this region that is part of the regions in the collection set been processed yet.\n-  typedef bool G1RemsetIterState;\n-\n-  G1RemsetIterState volatile* _collection_set_iter_state;\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
