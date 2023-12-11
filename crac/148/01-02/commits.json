@@ -1,0 +1,1 @@
+[{"commit":{"message":"Need to unconditionally include os.inline.hpp. This will automatically include the right platform-specific .inline.hpp files"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"}],"sha":"acf9ad7d91a5865dc693e031468bfc01a7c89d73"}]
