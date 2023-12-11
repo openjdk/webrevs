@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n- * @bug 8074931\n+ * @bug 8074931 8296787\n","filename":"test\/jdk\/java\/security\/cert\/X509CertSelectorTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
