@@ -1,0 +1,1 @@
+[{"commit":{"message":"Include os_linux.inline.hpp instead of os_linux.hpp to get inline os::can_trim_native_heap()"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"}],"sha":"5200538513f6ce2d75ff9296a8a277403eb0ffaf"}]
