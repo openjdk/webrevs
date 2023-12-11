@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-final class IOStreams {\r\n+public final class IOStreams {\r\n","filename":"src\/java.base\/share\/classes\/com\/sun\/io\/IOStreams.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
