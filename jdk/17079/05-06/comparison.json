@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -395,0 +395,1 @@\n+     * @throws IllegalArgumentException if {@code elementCount < 0}\n@@ -397,1 +398,0 @@\n-     * @throws IllegalArgumentException if {@code elementCount < 0}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/SegmentAllocator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
