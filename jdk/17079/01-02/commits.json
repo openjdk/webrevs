@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove Math.multiply exact and change exception type"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/SegmentAllocator.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegmentAllocators.java"}],"sha":"f601b2f1dc040f84f3f0d58a0cdde3e8c3805973"}]
