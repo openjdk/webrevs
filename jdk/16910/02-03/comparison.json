@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3009,1 +3009,1 @@\n-    cmpxchg(addr, expected, new_val, size, acquire, release, result, false);\n+    cmpxchg(addr, expected, new_val, size, acquire, release, result, true);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
