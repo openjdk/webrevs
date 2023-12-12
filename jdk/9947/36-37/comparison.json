@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,1 @@\n+#include \"runtime\/os.hpp\"\n","filename":"test\/hotspot\/gtest\/opto\/test_constant_division.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
