@@ -1,0 +1,1 @@
+[{"commit":{"message":"Vaidate that LOC offset pointed to from the CEN actually starts with the expected LOC signature"},"files":[{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"},{"filename":"test\/jdk\/jdk\/nio\/zipfs\/CorruptedZipFilesTest.java"}],"sha":"bd18ce34af59bc45c52661516d74b4fd39ef63fd"}]
