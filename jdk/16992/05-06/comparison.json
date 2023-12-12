@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -928,1 +928,1 @@\n-    public int testHashCode() {\n+    public int testHeapHashCode() {\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/nio\/ByteBuffers.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
