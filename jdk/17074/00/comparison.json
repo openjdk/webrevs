@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,1 +121,0 @@\n-        @SuppressWarnings(\"preview\") \/\/ isUnnamed\n@@ -174,1 +173,0 @@\n-        @SuppressWarnings(\"preview\") \/\/ isUnnamed\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/processing\/PrintingProcessor.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
