@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-static UT random();\n+UT random();\n","filename":"test\/hotspot\/gtest\/opto\/test_constant_division.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
