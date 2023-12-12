@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1152,1 +1152,1 @@\n-      warning(\"Support for ChaCha20 intrinsics not available on this CPU.\");\n+      warning(\"ChaCha20 intrinsics are not available on this CPU.\");\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
