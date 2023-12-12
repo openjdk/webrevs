@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-    _threads = new GrowableArray<G1ConcurrentRefineThread*>(_max_num_threads, mtGC);\n+    _threads = new(mtGC) GrowableArray<G1ConcurrentRefineThread*>(_max_num_threads, mtGC);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentRefine.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
