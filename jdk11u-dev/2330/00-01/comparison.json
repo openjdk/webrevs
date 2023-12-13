@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,2 +27,2 @@\n- * @library \/lib\/testlibrary\n- * @build jdk.testlibrary.SimpleSSLContext\n+ * @library \/test\/lib\n+ * @build jdk.test.lib.net.SimpleSSLContext\n","filename":"test\/jdk\/java\/net\/httpclient\/ShortResponseBodyPostWithRetry.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
