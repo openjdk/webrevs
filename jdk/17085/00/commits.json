@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321974: Crash in ciKlass::is_subtype_of because TypeAryPtr::_klass is not initialized"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"},{"filename":"src\/hotspot\/share\/opto\/type.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestUninitializedKlassField.java"}],"sha":"4568433a54f3283e3ceb697b0a749e4c9992294d"}]
