@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 01ea1eff66e43f106640ecfd19fadf2c8245a1ad"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/processing\/JavacProcessingEnvironment.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/crash_empty_enum_const\/CrashEmptyEnumConstructorTest.java"}],"sha":"b8881b54f8db222e97b83dffcd3099fd2028df6f"}]
