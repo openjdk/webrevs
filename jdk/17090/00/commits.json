@@ -1,0 +1,1 @@
+[{"commit":{"message":"Propagate cause to superclass constructor in XMLStreamException constructor."},"files":[{"filename":"src\/java.xml\/share\/classes\/javax\/xml\/stream\/XMLStreamException.java"},{"filename":"test\/jaxp\/javax\/xml\/jaxp\/unittest\/stream\/XMLStreamExceptionTest\/ExceptionCauseTest.java"}],"sha":"db29462b7b00f09917507e8d38976f42c3f9cabb"}]
