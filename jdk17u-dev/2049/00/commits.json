@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8a70664e5248cd6b9d63951729e93bf73eff004c"},"files":[{"filename":"src\/hotspot\/share\/runtime\/atomic.hpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_atomic.cpp"}],"sha":"364b4ba800791e897910715f5f1d4e78483fdfe3"}]
