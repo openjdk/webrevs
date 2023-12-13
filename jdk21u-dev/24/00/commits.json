@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport f804f8652da71b18cc654c08c12d07d6fd43c2a7"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestUnorderedReduction.java"}],"sha":"a1f03a666a35c80611b159828f8817bbb25f5b9e"}]
