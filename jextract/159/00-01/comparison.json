@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,1 @@\n-            declared.tree().accept(this, null);\n+            declared.tree().accept(this, varTree);\n","filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/UnsupportedFilter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
