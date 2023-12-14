@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use char* instead"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_os_linux.cpp"}],"sha":"16dd9a5db2898380b351433d78a6716efff7f495"},{"commit":{"message":"Fix the function arguments"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_os_linux.cpp"}],"sha":"fadbac4181d14050176e352a968a3bc46988ba23"}]
