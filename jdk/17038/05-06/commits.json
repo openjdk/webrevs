@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge the ReadAfterClose test into ReadZip, converting it to JUnit."},"files":[{"filename":"test\/jdk\/java\/util\/zip\/ZipFile\/ReadAfterClose.java"},{"filename":"test\/jdk\/java\/util\/zip\/ZipFile\/ReadZip.java"},{"filename":"test\/jdk\/java\/util\/zip\/ZipFile\/crash.jar"}],"sha":"27fe1131f93a31ac67de81f409b35f3c0cccf20c"}]
