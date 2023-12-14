@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport c8ad7b7f84ead3f850f034e1db6335bbbac41589"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"},{"filename":"src\/hotspot\/share\/opto\/type.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestUninitializedKlassField.java"}],"sha":"0b9bc2cfb09bad5e6ad39eff5d0ab7907131147f"}]
