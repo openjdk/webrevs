@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix bug in GZIPInputStream when underlying available() returns short."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPInputStream.java"},{"filename":"test\/jdk\/java\/util\/zip\/GZIP\/GZIPInputStreamAvailable.java"}],"sha":"c07554d0bbf40a385aac902fc918ccdd73152e76"}]
