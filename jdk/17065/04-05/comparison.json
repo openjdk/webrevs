@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -264,1 +264,1 @@\n- * <p>The default Locale is mainly provided for any locale-sensitive methods if no\n+ * <p>The default Locale is provided for any locale-sensitive methods if no\n","filename":"src\/java.base\/share\/classes\/java\/util\/Locale.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
