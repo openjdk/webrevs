@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-            #11  0x0000;\n+            #11  0x0000; \/\/ the parameter is not mandated, flag should be 0x8000 for it to be mandated\n","filename":"test\/jdk\/java\/lang\/reflect\/records\/R10.jcod","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
