@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -566,1 +566,1 @@\n-  Node *new_bol = gvn->transform( new BoolNode(new_cmp, bol->as_Bool()->_test._test));\n+  Node* new_bol = gvn->transform(new BoolNode(new_cmp, bol->as_Bool()->_test._test));\n","filename":"src\/hotspot\/share\/opto\/ifnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
