@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -369,1 +369,1 @@\n-  EXPECT_NE(heap, (address)NULL);\n+  EXPECT_NE(heap, (char*)NULL);\n","filename":"test\/hotspot\/gtest\/runtime\/test_os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
