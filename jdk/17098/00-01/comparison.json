@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -831,1 +831,1 @@\n-     * @param instant  the instant to find the offset information for, not null, but null\n+     * @param instant  the instant to check the daylight savings for, not null, but null\n","filename":"src\/java.base\/share\/classes\/java\/time\/zone\/ZoneRules.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
