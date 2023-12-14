@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8309981: Remove expired flags in JDK 23\"\n\nThis reverts commit 0324a90e936ae01e42ae099e7235156326cc318a."},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/java.base\/share\/man\/java.1"}],"sha":"8b05214143183f6678d3b60db4902a76e99e119e"}]
