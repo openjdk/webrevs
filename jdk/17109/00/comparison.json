@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,3 +176,0 @@\n-  void set_survivor_size(size_t new_size) {\n-    _survivor_size = new_size;\n-  }\n","filename":"src\/hotspot\/share\/gc\/parallel\/psAdaptiveSizePolicy.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
