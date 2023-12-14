@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -360,1 +360,1 @@\n-    os::pretouch_memory(addr, addr + byte; os::vm_page_size());\n+    os::pretouch_memory(addr, addr + byte, os::vm_page_size());\n","filename":"test\/hotspot\/gtest\/runtime\/test_os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
