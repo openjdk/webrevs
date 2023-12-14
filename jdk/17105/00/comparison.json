@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,0 +106,1 @@\n+        tableView.setColumnSelectionAllowed(true);\n","filename":"test\/jdk\/javax\/swing\/JTable\/KeyBoardNavigation\/KeyBoardNavigation.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
