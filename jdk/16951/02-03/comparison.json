@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -278,0 +278,2 @@\n+  \/* The compiler assumes, in many places, that methods are at most 1MB. *\/ \\\n+  \/* Therefore, we restrict this flag to at most 1MB.                    *\/ \\\n","filename":"src\/hotspot\/share\/c1\/c1_globals.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
