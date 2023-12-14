@@ -1,0 +1,1 @@
+[{"commit":{"message":"8322057: Memory leaks in creating jfr symbol array"},"files":[{"filename":"src\/hotspot\/share\/jfr\/jni\/jfrJavaSupport.cpp"},{"filename":"src\/hotspot\/share\/jfr\/jni\/jfrJavaSupport.hpp"}],"sha":"709277303d9e8172c439c61dd370e3e9db2b73fa"}]
