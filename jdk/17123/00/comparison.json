@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4159,1 +4159,0 @@\n-    __ mv(t0, mask32);\n@@ -4162,1 +4161,0 @@\n-    __ andr(state0, state0, t0);\n@@ -4165,1 +4163,0 @@\n-    __ andr(state2, state2, t0);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
