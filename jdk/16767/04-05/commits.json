@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disallow use of Serial\/Parallel\/G1 unregister_method() because it's never called"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/scavengableNMethods.cpp"}],"sha":"da90c60779cdd16c907f83b0ddad20d68473ec86"}]
