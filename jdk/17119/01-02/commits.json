@@ -1,0 +1,1 @@
+[{"commit":{"message":"New test asserts subsequent input stream is read when preceding stream already was MAX_VALUE long."},"files":[{"filename":"test\/jdk\/java\/io\/SequenceInputStream\/TransferTo.java"}],"sha":"2aaac630a3e6d1df0fd77f6b34c0f0d3a3b50292"}]
