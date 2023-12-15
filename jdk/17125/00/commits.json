@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove 'supports_vtime'"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentRefineThread.hpp"},{"filename":"src\/hotspot\/share\/runtime\/os.hpp"}],"sha":"c0d89b4eebfb427b80e358ff288efdd9da7bdc68"}]
