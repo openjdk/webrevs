@@ -1,0 +1,1 @@
+[{"commit":{"message":"make preconditions for calling nmethod::purge more strict and eliminate dead code"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"4527a3161abca2d132c0717cd14ebe62a6170948"}]
