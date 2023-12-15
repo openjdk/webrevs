@@ -1,0 +1,1 @@
+[{"commit":{"message":"init SYMBOL_LOOKUP inline + omit static block when no libraries are loaded"},"files":[{"filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/HeaderFileBuilder.java"}],"sha":"7d6d905288640fa36c3ff81079593b58b6a7f2fc"}]
