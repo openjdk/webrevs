@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,1 +219,1 @@\n-      \/\/ This string object is not refernced by any of the archived object graphs. It's archived\n+      \/\/ This string object is not referenced by any of the archived object graphs. It's archived\n","filename":"src\/hotspot\/share\/cds\/cdsHeapVerifier.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
