@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -249,1 +249,1 @@\n-                        return Long.MAX_VALUE;\n+                        transferred = Long.MAX_VALUE;\n","filename":"src\/java.base\/share\/classes\/java\/io\/SequenceInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
