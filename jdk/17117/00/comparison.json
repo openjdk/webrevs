@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2774,1 +2774,1 @@\n-      zero_extend(t0, t0, 32);\n+      zero_extend(dst, dst, 32);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
