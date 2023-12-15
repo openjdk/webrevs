@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294961: Convert java.base\/java.lang.reflect.ProxyGenerator to use the Classfile API to generate proxy classes"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/Proxy.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/ProxyGenerator.java"}],"sha":"0267d6578ebbf6f12159a0f5fa7874a52a020ef4"}]
