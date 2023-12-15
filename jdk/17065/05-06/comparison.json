@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -326,1 +326,1 @@\n- * {@code language} part of the default Locale for {@link Locale.Category#DISPLAY}\n+ * {@code language} part of the default Locale for the {@link Locale.Category#DISPLAY}\n","filename":"src\/java.base\/share\/classes\/java\/util\/Locale.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
