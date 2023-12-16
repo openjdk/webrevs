@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-    if (!filtered || (filtered && im_ctx.send_keypress)) {\n+    if (filtered && im_ctx.send_keypress) {\n@@ -177,0 +177,1 @@\n+        im_ctx.ctx = NULL;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window_ime.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
