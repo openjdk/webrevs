@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8322242 ShenandoahSuspendibleWorkers was removed in JDK-8321410 in\nopenjdk\/jdk tip, but this version of the flag, which is present only in\ntests in genshen was missed in the merge from upstream."},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/TestAllocObjects.java"}],"sha":"8cf36ac8d3a1a67c726ff4f9ea2b0cd3c7d23077"}]
