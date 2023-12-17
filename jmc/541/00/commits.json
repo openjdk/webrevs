@@ -1,0 +1,1 @@
+[{"commit":{"message":"8160: Fix test failure in core due to missing new File Force rule in newly added JFRs"},"files":[{"filename":"core\/tests\/org.openjdk.jmc.flightrecorder.rules.jdk.test\/src\/main\/resources\/baseline\/JfrRuleBaseline.xml"}],"sha":"e65e63c7c12f16807c6f87c80f2a0a0de81449af"}]
