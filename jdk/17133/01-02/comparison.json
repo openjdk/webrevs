@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -588,1 +588,1 @@\n-            return access(file, F_OK) == 0 ? true : false;\n+            return access(file, F_OK) == 0;\n","filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixFileSystemProvider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
