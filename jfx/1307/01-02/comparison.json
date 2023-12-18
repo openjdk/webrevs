@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-        ::memset(ptr, 0xcc, sz);\n+        ::memset(ptr, FILL, sz);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/DeletedMemDebug.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
