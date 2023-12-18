@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n- * @run main\/othervm\n+ * @run main\/othervm\/timeout=300\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/mlvm\/meth\/stress\/compiler\/deoptimize\/Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
