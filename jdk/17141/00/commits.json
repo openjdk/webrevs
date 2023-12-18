@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321619: Generational ZGC: ZColorStoreGoodOopClosure is only valid for young objects"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zBarrierSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zBarrierSet.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zBarrierSet.inline.hpp"}],"sha":"aa9e67d5b8ed79f7dd816e6cdb484652571698eb"}]
