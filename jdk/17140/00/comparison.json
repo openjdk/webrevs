@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -390,1 +390,1 @@\n-    pp1->extend_loader_constraint(class_name, loader1, klass);\n+    pp1->extend_loader_constraint(class_name, loader2, klass);\n","filename":"src\/hotspot\/share\/classfile\/loaderConstraints.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
