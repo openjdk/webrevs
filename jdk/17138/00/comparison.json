@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-  const size_t per_cpu_share = significant_heap_overhead() \/ ZCPU::count();\n+  const size_t per_cpu_share = (MaxHeapSize * 0.03125) \/ ZCPU::count();\n","filename":"src\/hotspot\/share\/gc\/z\/zHeuristics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
