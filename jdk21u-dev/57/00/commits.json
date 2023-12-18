@@ -1,0 +1,1 @@
+[{"commit":{"message":"Trigger GHA"},"files":[],"sha":"7576f8b302f1af64e5781acb4ea057b14aac8c31"},{"commit":{"message":"Backport 05f950934ee720c82e9b62dd8d31e13bab7775da"},"files":[{"filename":"make\/autoconf\/jdk-version.m4"},{"filename":"make\/autoconf\/spec.gmk.in"},{"filename":"make\/common\/JdkNativeCompilation.gmk"}],"sha":"b2d20bf2d2020740beb636d271d5bcf44be53b92"}]
