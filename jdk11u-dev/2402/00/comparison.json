@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-    output_detail.shouldMatch(\"# +SIGFPE.*\");\n+    output_detail.shouldMatch(\"#.+SIGFPE.*\");\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/SecondaryErrorTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
