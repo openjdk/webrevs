@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix more memoryleaks due to listeners never being unregistered."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/GlassSystemMenu.java"}],"sha":"47f4d65d98feb58752d394410b181aefb0005513"}]
