@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use ZFragmentationLimit and ZYoungCompactionLimit as percentage instead of multiples"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zHeuristics.cpp"}],"sha":"5d4cb8364dd4391494b4cd404d0d682b4c074270"}]
