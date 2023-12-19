@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,1 +263,1 @@\n-    public List<ReviewComment> reviewComments(boolean includeLocationData) {\n+    private List<ReviewComment> reviewComments(boolean includeLocationData) {\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/github\/GitHubPullRequest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
