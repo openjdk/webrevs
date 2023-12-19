@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4264,1 +4264,1 @@\n-  li(t0, jint_cast(0.5f));\n+  mv(t0, jint_cast(0.5f));\n@@ -4281,1 +4281,1 @@\n-  li(t0, julong_cast(0.5));\n+  mv(t0, julong_cast(0.5));\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
