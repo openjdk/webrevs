@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4163,1 +4163,1 @@\n-    \/\/ we can apply futher optimization, which is to just ignore the\n+    \/\/ we can apply further optimization, which is to just ignore the\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
