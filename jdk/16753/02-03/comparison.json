@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2543,0 +2543,1 @@\n+    __ addq(length, start_offset);\n@@ -2547,0 +2548,1 @@\n+    __ subq(length, start_offset);\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
