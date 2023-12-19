@@ -1,0 +1,1 @@
+[{"commit":{"message":"8320798: Console read line with zero out should zero out when throwing exception"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/io\/JdkConsoleImpl.java"}],"sha":"c66527ff923ee23327c24816573f7a4fb669ef2b"}]
