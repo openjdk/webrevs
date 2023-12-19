@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-  for (Thread* t : _threads) {\n+  for (G1ConcurrentRefineThread* t : _threads) {\n@@ -130,1 +130,1 @@\n-  for (Thread* t : _threads) {\n+  for (G1ConcurrentRefineThread* t : _threads) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentRefine.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
