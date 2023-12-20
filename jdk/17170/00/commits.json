@@ -1,0 +1,1 @@
+[{"commit":{"message":"Preserve non-permission 'external file attributes' bits when setting posix permissions"},"files":[{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"},{"filename":"test\/jdk\/jdk\/nio\/zipfs\/TestPosix.java"}],"sha":"7f7771ee9ee5401a90d5152903ae670bcf7e14fc"}]
