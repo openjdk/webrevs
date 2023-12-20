@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only start global cycles when metaspace is out of memory"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRegulatorThread.cpp"}],"sha":"25de11778e7b20fb53636535e58fcee4c88fb30b"}]

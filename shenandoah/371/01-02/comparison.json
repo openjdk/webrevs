@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -185,1 +185,1 @@\n-  return _global_heuristics->should_unload_classes();\n+  return _global_heuristics->has_metaspace_oom();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRegulatorThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
