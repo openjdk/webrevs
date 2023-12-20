@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,0 @@\n-  PerfVariable*         _major_pause_old_slope_counter;\n","filename":"src\/hotspot\/share\/gc\/parallel\/gcAdaptivePolicyCounters.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
