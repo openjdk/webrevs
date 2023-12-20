@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clear toStringCache when calling StringBuffer::repeat"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/StringBuffer.java"},{"filename":"test\/jdk\/java\/lang\/StringBuilder\/StringBufferRepeat.java"}],"sha":"82b7e342a3fce22fda3adc04c6b2e6e1b90083a1"}]
