@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix indentation of padding layout strings nested inside struct layouts"},"files":[{"filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/ClassSourceBuilder.java"},{"filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/StructBuilder.java"}],"sha":"1e6bf58abd309edfe0c8e258f838eb668d1f33b0"}]
