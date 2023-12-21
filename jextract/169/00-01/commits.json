@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add heuristic to shorten javadoc when named struct\/unions\/enums are referenced"},"files":[{"filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/TreeMaker.java"},{"filename":"test\/testng\/org\/openjdk\/jextract\/test\/toolprovider\/Test7903257\/TestDocComments.java"}],"sha":"9a986e4560dfaa30fbb9d639f3f560b9892f56cb"}]
