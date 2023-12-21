@@ -1,0 +1,1 @@
+[{"commit":{"message":"Corrected @Label of event and of field."},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/events\/SerializationMisdeclarationEvent.java"},{"filename":"test\/jdk\/jdk\/jfr\/event\/io\/TestSerializationMisdeclarationEvent.java"}],"sha":"9cb25a125a21ef2d9eea0d02021ab50faf9f4dab"}]
