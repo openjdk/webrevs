@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -930,1 +930,1 @@\n-  assert(METHOD_IS_NOT_SERIALIZED(method), \"invariant\");\n+  assert(unloading() ? true : METHOD_IS_NOT_SERIALIZED(method), \"invariant\");\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrTypeSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
