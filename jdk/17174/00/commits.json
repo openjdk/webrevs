@@ -1,0 +1,1 @@
+[{"commit":{"message":"8322538: remove fatal from JVM_VirtualThread functions for !INCLUDE_JVMTI"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"8fe80c10a4a0cb2bbeaed74e03fa73df1f150573"}]
