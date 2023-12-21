@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2006,0 +2006,1 @@\n+                    clearDirtyTree();\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/sg\/prism\/NGNode.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

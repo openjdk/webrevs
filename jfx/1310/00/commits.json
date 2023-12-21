@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8322544\nFix for rendering bug, related to overlap - culling - dirtynodes"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/sg\/prism\/NGNode.java"}],"sha":"59ccdbb2c563a37e524b1691a04046cd709f573b"}]
