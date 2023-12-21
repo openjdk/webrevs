@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-        g.drawString(str,5,25);\n+        g.drawString(str, 5, 25);\n@@ -121,0 +121,1 @@\n+\n@@ -225,0 +226,2 @@\n+        button.setPressedIcon(PR);\n+        panel.add(button);\n","filename":"test\/jdk\/javax\/swing\/AbstractButton\/5049549\/bug5049549.java","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
