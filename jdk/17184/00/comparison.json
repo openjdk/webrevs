@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -740,1 +740,1 @@\n-        doAWTRunLoop(mediator, false);\n+        doAWTRunLoop(mediator, true);\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/LWCToolkit.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
