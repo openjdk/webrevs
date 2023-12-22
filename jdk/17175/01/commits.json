@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do loop only on Alpine\/MUSL"},"files":[{"filename":"src\/hotspot\/share\/utilities\/copy.cpp"}],"sha":"b1526976bc817f11df7079f2eadc00fe62cf4a0d"},{"commit":{"message":"JDK-8322163"},"files":[{"filename":"src\/hotspot\/share\/utilities\/copy.cpp"}],"sha":"9e12df94f820d62bd924f4c666240da72786629d"}]
