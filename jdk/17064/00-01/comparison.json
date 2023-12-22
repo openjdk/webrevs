@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -353,1 +353,1 @@\n-        this.thpEligible = Integer.parseInt(thpEligible) == 1;\n+        this.thpEligible = thpEligible == null ? false : (Integer.parseInt(thpEligible) == 1);\n","filename":"test\/hotspot\/jtreg\/runtime\/os\/TestTracePageSizes.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
