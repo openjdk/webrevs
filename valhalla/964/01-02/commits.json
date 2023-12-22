@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handling for passing larval state value objects across method calls."},"files":[{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"src\/hotspot\/share\/opto\/parse1.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestDeoptInLarvalState.java"}],"sha":"8eb0b01e7a3eb39a2ea448e715d9517a212f1283"}]
