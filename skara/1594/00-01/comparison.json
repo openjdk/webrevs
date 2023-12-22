@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,1 @@\n-        return line.replaceFirst(\"\/skara\\\\s*\", \"\/\");\n+        return line.replaceFirst(\"\/skara\\\\s+\", \"\/\");\n","filename":"bots\/common\/src\/main\/java\/org\/openjdk\/skara\/bots\/common\/BotUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
