@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1934,0 +1934,1 @@\n+    \/\/ If we encounter an unmounted virtual thread it needs to be dumped explicitly.\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
