@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-        \/\/ Conversely, a JKS keystore can be laoded as a PKCS12, and it follows\n+        \/\/ Conversely, a JKS keystore can be loaded as a PKCS12, and it follows\n","filename":"test\/jdk\/sun\/security\/tools\/keytool\/PKCS12Passwd.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
