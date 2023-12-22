@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -212,3 +212,0 @@\n-        if (failedSpeculations == null) {\n-            collectFailedSpeculations();\n-        }\n","filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotSpeculationLog.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
