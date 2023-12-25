@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -174,0 +174,3 @@\n+    if ((d & (d - 1)) == 0) {\n+      continue;\n+    }\n","filename":"test\/hotspot\/gtest\/opto\/test_constant_division.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
