@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -567,1 +567,1 @@\n-  uint32_t data = (oopmap_slot << 24) | cb_offset;\n+  uint32_t data = ((uint32_t)oopmap_slot << 24) | cb_offset;\n","filename":"src\/hotspot\/cpu\/aarch64\/nativeInst_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
