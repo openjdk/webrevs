@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8314629: Generational ZGC: Clearing All SoftReferences log line lacks GCId"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zDriver.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zDriver.hpp"}],"sha":"f22ea3f512d675c307925c016e3b05ca385615bc"}]
