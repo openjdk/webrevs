@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -187,1 +187,1 @@\n-     * of its elements the same as the queue initialized with a comparator \n+     * of its elements the same as the queue initialized with a comparator\n","filename":"test\/jdk\/java\/util\/concurrent\/tck\/PriorityQueueTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
