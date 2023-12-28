@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -258,1 +258,0 @@\n-  if (!ClassUnloadingWithConcurrentMark) return false;\n@@ -260,1 +259,1 @@\n-  return false;\n+  return ClassUnloadingWithConcurrentMark;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahHeuristics.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
