@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4471,1 +4471,3 @@\n-  vmap()->print();\n+  if (UseLocalValueNumbering) {\n+    vmap()->print();\n+  }\n","filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
