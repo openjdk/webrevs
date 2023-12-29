@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,0 @@\n-static uint totalInstructionNodes = 0;\n@@ -497,1 +496,0 @@\n-  totalInstructionNodes += Instruction::number_of_instructions();\n","filename":"src\/hotspot\/share\/c1\/c1_Compilation.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
