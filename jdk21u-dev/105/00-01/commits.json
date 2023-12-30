@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove -Xbatch in TestAbortVmOnException.java\n\nI missed this when resolving 8310919"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/TestAbortVmOnException.java"}],"sha":"3aca9c3536de0f3ca1d1f615a42c8c9014f74161"}]
