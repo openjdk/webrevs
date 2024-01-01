@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only fix comment."},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zHeuristics.cpp"}],"sha":"4106fbcc5e3f2c7414e429758588a3108532d54a"},{"commit":{"message":"Adjust ZHeuristics::use_per_cpu_shared_small_pages to meet its comment"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zHeuristics.cpp"}],"sha":"85486e9db680805311c66a6fff32d2bd56f75977"}]
