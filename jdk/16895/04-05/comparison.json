@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-            throw new RuntimeException(\"\\\"Test failed: \\\" Source equal to Destination\");\n+            throw new RuntimeException(\"Test failed: Source equal to Destination\");\n","filename":"test\/jdk\/java\/awt\/color\/NonICCFilterTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
