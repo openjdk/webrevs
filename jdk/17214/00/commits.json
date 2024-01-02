@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix -Wparentheses warnings in shenandoah code"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp"}],"sha":"b0d9d50dc1ff6aaa836726db944e7c8ca27bf8fa"}]
