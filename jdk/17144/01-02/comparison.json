@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,2 +95,2 @@\n-  static bool is_word_aligned(const CardValue* const card) {\n-    return is_aligned(card, sizeof(CardWord));\n+  static bool is_word_aligned(void* p) {\n+    return is_aligned(p, sizeof(CardWord));\n","filename":"src\/hotspot\/share\/gc\/shared\/cardTable.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
