@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -257,2 +257,0 @@\n-  ContinuationGCSupport::transform_stack_chunk(new_obj);\n-\n@@ -293,0 +291,2 @@\n+\n+      ContinuationGCSupport::transform_stack_chunk(new_obj);\n","filename":"src\/hotspot\/share\/gc\/parallel\/psPromotionManager.inline.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
