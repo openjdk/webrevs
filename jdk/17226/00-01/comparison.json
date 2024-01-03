@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-  bool volatile _stop;\n+  bool _stop;\n","filename":"src\/hotspot\/share\/runtime\/trimNativeHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
