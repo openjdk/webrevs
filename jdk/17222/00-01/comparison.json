@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2107,1 +2107,1 @@\n-  \"\/etc\/SuSE-release\",\n+  \"\/etc\/SuSE-release\", \/\/ Deprecated in favor of os-release since SuSE 12\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
