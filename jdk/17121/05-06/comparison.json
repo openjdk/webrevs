@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,1 @@\n+import java.util.Queue;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackCounter.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
