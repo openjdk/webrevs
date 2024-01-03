@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 7455b1b527568aff5b1c16a29fd80b05260c0fad"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ThisEscapeAnalyzer.java"},{"filename":"test\/langtools\/tools\/javac\/recovery\/AttrRecovery.java"}],"sha":"088af6b7d1b759fceb1a758eb3d883545af9d4ca"}]
