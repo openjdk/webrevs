@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -198,1 +198,1 @@\n-\\f[V]Compiler.directives_add\\f[R] \\f[I]filename\\f[R] \\f[I]arguments\\f[R]\n+\\f[V]Compiler.directives_add\\f[R] \\f[I]arguments\\f[R]\n","filename":"src\/jdk.jcmd\/share\/man\/jcmd.1","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
