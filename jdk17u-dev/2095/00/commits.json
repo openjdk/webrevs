@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport JDK-8317335"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_atomic.cpp"}],"sha":"84be69e5f8cec70ee65312943526243990403a54"},{"commit":{"message":"Missing piece of JDK-8316645"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_atomic.cpp"}],"sha":"747efa58ec1ffff3713949a25713898e820ad066"}]
