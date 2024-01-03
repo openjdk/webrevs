@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,2 +176,0 @@\n-  ParallelScavengeHeap* heap = ParallelScavengeHeap::heap();\n-\n@@ -181,2 +179,0 @@\n-  uint queue_size = claimed_stack_depth()->max_elems();\n-\n","filename":"src\/hotspot\/share\/gc\/parallel\/psPromotionManager.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
