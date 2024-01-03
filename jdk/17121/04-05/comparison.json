@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-    private final ArrayDeque<Target> targets;\n+    private final Queue<Target> targets;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackCounter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
