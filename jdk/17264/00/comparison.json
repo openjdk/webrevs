@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,0 @@\n-class OopStack;\n@@ -41,1 +40,0 @@\n-class PSRefProcTaskExecutor;\n","filename":"src\/hotspot\/share\/gc\/parallel\/psScavenge.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
