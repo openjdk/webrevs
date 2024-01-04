@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1458,1 +1458,1 @@\n-          assert(data->method() == nullptr, \"method must be set\");\n+          assert(data->method() != nullptr, \"method must be set\");\n","filename":"src\/hotspot\/share\/oops\/methodData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
