@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -511,1 +511,1 @@\n-          tty->print(\"OSR @%d type flow bailout: %s\", _entry_bci, _flow->failure_reason());\n+          tty->print_cr(\"OSR @%d type flow bailout: %s\", _entry_bci, _flow->failure_reason());\n","filename":"src\/hotspot\/share\/opto\/parse1.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
