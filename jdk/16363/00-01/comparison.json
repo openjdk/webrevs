@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -214,1 +214,1 @@\n-                    final String name = \":name=Test_instance_\" + i;\n+                    final String name = \"d:instance=\" + i;\n","filename":"test\/jdk\/javax\/management\/remote\/mandatory\/connection\/IdleTimeoutTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
