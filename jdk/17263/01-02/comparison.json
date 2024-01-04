@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,2 +26,1 @@\n- * @requires vm.gc.Serial\n- * @requires vm.opt.DisableExplicitGC != \"true\"\n+ * @requires vm.gc.Serial & (vm.opt.DisableExplicitGC != \"true\")\n","filename":"test\/hotspot\/jtreg\/serviceability\/HeapDump\/FullGCHeapDumpLimitTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
