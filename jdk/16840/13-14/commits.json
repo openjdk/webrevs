@@ -1,0 +1,1 @@
+[{"commit":{"message":"refactor MethodData::bci_to_extra_data - remove redundant code"},"files":[{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.hpp"}],"sha":"b0ff5d183205ea7ff151c84fddd6bdd3d2515fff"}]
