@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reset update watermark for cycles degenerated during evacuation\n\nReviewed-by: kdnilsen"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahDegeneratedGC.cpp"}],"sha":"dd63eb61bbe014289bfba9166e45305cae463386"}]
