@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -427,1 +427,1 @@\n-    return (jlong)g_utf8_strlen((const gchar *)str, (const gchar *)pos);\n+    return (jlong)g_utf8_strlen((const gchar *)str, pos);\n","filename":"modules\/javafx.graphics\/src\/main\/native-font\/pango.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
