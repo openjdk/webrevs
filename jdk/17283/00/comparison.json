@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,0 +96,1 @@\n+gc\/g1\/TestSkipRebuildRemsetPhase.java 8323066 linux-aarch64\n@@ -115,0 +116,1 @@\n+runtime\/cds\/appcds\/jigsaw\/modulepath\/OptimizeModuleHandlingTest.java 8323032 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
