@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -365,1 +365,1 @@\n-  _ref_proc_thread_locals->inc_encountered(type);\n+  _ref_proc_thread_locals[worker_id].inc_encountered(type);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
