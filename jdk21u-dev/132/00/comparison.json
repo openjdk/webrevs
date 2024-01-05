@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -204,0 +204,3 @@\n+\n+  \/\/ RISCV64 supports fast class initialization checks\n+  static bool supports_fast_class_init_checks() { return true; }\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
