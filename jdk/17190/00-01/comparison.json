@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3519,1 +3519,1 @@\n-    int newN = 0;\n+    int max_swap_index = 0;\n@@ -3529,1 +3529,1 @@\n-        newN = i;\n+        max_swap_index = i;\n@@ -3532,1 +3532,1 @@\n-    n = newN;\n+    n = max_swap_index;\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
