@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add tests for using De Morgan's Law for both optimizations."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/DeMorganLawIntTests.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/DeMorganLawLongTests.java"}],"sha":"d8ed0f358e9577942fc2c378978bb474ffbfe271"}]
