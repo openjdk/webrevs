@@ -1,0 +1,1 @@
+[{"commit":{"message":"8315042: NPE in PKCS7.parseOldSignedData\n\nReviewed-by: valeriep, weijun"},"files":[{"filename":"jdk\/src\/share\/classes\/sun\/security\/pkcs\/PKCS7.java"},{"filename":"jdk\/test\/sun\/security\/x509\/X509CRLImpl\/UnexpectedNPE.java"}],"sha":"8f671c97a2dc23cf0123cee497d5617c5321aa59"}]
