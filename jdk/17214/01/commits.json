@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into shenandoah-wparentheses"},"files":[],"sha":"e5ed28069515e95bd3f1655fa8dd2a76ffd28964"},{"commit":{"message":"fix -Wparentheses warnings in shenandoah code"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.cpp"}],"sha":"b0d9d50dc1ff6aaa836726db944e7c8ca27bf8fa"}]
