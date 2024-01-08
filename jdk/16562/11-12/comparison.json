@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -269,1 +269,1 @@\n-  } if (UseChaCha20Intrinsics) {\n+  } else if (UseChaCha20Intrinsics) {\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
