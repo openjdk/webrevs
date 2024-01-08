@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move assert to GC-specific code"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCCompactionPoint.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/preservedMarks.inline.hpp"}],"sha":"326255700580a5f1dcd9d9081aa663344338fe18"}]
