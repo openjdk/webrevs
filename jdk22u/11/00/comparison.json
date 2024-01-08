@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2218,0 +2218,2 @@\n+  _print_ascii_file_h(\"\/sys\/kernel\/mm\/transparent_hugepage\/hpage_pdm_size\",\n+                      \"\/sys\/kernel\/mm\/transparent_hugepage\/hpage_pmd_size\", st);\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
