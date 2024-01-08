@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,2 +121,2 @@\n-\t\t\t\t\t\t\"rss_usage_in_bytes\",\n-\t\t\t\t\t\t\"cache_usage_in_bytes\"\n+            \"rss_usage_in_bytes\",\n+            \"cache_usage_in_bytes\"\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TestMisc.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
