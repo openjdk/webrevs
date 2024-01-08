@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,1 +194,0 @@\n-        UIManager.setLookAndFeel(\"javax.swing.plaf.metal.MetalLookAndFeel\");\n","filename":"test\/jdk\/javax\/swing\/JTable\/KeyBoardNavigation.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
