@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -279,1 +279,1 @@\n-                glXGetProcAddress(\"glXSwapIntervalSGI\");\n+                glXGetProcAddress((const GLubyte *)\"glXSwapIntervalSGI\");\n","filename":"modules\/javafx.graphics\/src\/main\/native-prism-es2\/x11\/X11GLContext.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
