@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -495,1 +495,1 @@\n-jobject newInsets(JNIEnv *env, jint top, jint left, jint bottom, jint right) {\n+static jobject newInsets(JNIEnv *env, jint top, jint left, jint bottom, jint right) {\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/ThemeReader.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
