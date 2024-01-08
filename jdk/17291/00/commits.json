@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into patch-BigIntegerDivision"},"files":[],"sha":"5345d6d8be187e9999ed2010c5de499b5bc79df1"},{"commit":{"message":"Implementation of divWord(long, int) changed"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java"}],"sha":"929a6cb03d70b989042f8894ecac9d114c2f0935"}]
