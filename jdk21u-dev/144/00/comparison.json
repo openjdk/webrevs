@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,1 +244,1 @@\n-    Handle pd = get_protection_domain_from_classloader(class_loader, url, THREAD);\n+    Handle pd = get_protection_domain_from_classloader(class_loader, url, CHECK_NH);\n","filename":"src\/hotspot\/share\/cds\/cdsProtectionDomain.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
