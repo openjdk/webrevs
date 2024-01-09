@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -175,1 +175,1 @@\n-.PP\n+.IP \\[bu] 2\n@@ -179,1 +179,1 @@\n-.PP\n+.IP \\[bu] 2\n@@ -205,1 +205,1 @@\n-.PP\n+.IP \\[bu] 2\n@@ -256,1 +256,1 @@\n-.PP\n+.IP \\[bu] 2\n","filename":"src\/jdk.jcmd\/share\/man\/jcmd.1","additions":4,"deletions":4,"binary":false,"changes":8,"status":"modified"}]}
