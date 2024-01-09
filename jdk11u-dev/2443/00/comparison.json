@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -338,1 +338,1 @@\n-                        java.util.Arrays.fill(passwd, ' ');\n+                        Arrays.fill(passwd, ' ');\n","filename":"src\/java.base\/share\/classes\/java\/io\/Console.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
