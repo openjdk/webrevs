@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -810,1 +810,1 @@\n-    return tn->make_not(phase, T_INT);\n+    return AddNode::make_not(phase, tn, T_INT);\n@@ -883,1 +883,1 @@\n-    return tn->make_not(phase, T_LONG);\n+    return AddNode::make_not(phase, tn, T_LONG);\n","filename":"src\/hotspot\/share\/opto\/addnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
