@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -260,1 +260,1 @@\n-AddNode* AddNode::make_not(PhaseGVN* phase, Node*n, BasicType bt) {\n+AddNode* AddNode::make_not(PhaseGVN* phase, Node* n, BasicType bt) {\n","filename":"src\/hotspot\/share\/opto\/addnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
