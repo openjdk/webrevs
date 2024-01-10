@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -687,1 +687,3 @@\n-    C->print_inlining_update_delayed(this);\n+    if (C->print_inlining() && (is_mh_late_inline() || is_virtual_late_inline())) {\n+      C->print_inlining_update_delayed(this);\n+    }\n","filename":"src\/hotspot\/share\/opto\/callGenerator.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
