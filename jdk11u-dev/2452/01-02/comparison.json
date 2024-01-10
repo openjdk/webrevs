@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -773,1 +773,1 @@\n-    return cur != nullptr && cur->in_asgct();\n+    return cur != NULL && cur->in_asgct();\n@@ -782,1 +782,1 @@\n-    assert(thread != nullptr, \"invariant\");\n+    assert(thread != NULL, \"invariant\");\n","filename":"src\/hotspot\/share\/runtime\/thread.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
