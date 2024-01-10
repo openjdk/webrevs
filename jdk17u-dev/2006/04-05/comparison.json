@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,0 @@\n-import java.security.cert.X509Certificate;\n@@ -110,1 +109,0 @@\n-    private static KeySelector x5ks = new KeySelectors.RawX509KeySelector();\n","filename":"test\/jdk\/javax\/xml\/crypto\/dsig\/GenerationTests.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
