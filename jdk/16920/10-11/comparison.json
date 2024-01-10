@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -975,1 +975,1 @@\n-  char* path2 = os::strdup (path);\n+  char* path2 = os::strdup(path);\n@@ -1019,1 +1019,1 @@\n-  char* libpath = os::strdup (Libpath.base());\n+  char* libpath = os::strdup(Libpath.base());\n","filename":"src\/hotspot\/os\/aix\/porting_aix.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
