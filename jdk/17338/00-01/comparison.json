@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,1 +237,1 @@\n-     * not <em>not<\/em> have a constant in the this class should be\n+     * <em>not<\/em> have a constant in this class should be\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/Modifier.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
