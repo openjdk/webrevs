@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -956,1 +956,0 @@\n-  assert(METHOD_IS_NOT_SERIALIZED(method), \"invariant\");\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrTypeSet.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
