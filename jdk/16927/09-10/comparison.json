@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,1 +256,2 @@\n-    } else if (isInHeap() && isInTLAB()) {\n+    } else if (isInHeap()) {\n+      if (isInTLAB()) {\n@@ -261,0 +262,1 @@\n+      }\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/utilities\/PointerLocation.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
