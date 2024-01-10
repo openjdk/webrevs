@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -221,1 +221,1 @@\n-        \/\/ In this mode, all columns will get their preferred widths, as set blow.\n+        \/\/ In this mode, all columns will get their preferred widths, as set below.\n","filename":"test\/jdk\/javax\/swing\/JTable\/KeyBoardNavigation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
