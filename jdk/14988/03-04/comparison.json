@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -248,1 +248,1 @@\n-      CXXFLAGS := $(CXXFLAGS_JDKLIB) -std=c++17, \\\n+      CXXFLAGS := $(CXXFLAGS_JDKLIB), \\\n","filename":"make\/modules\/java.base\/Lib.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
