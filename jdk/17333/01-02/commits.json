@@ -1,0 +1,1 @@
+[{"commit":{"message":"Convert NULL to nullptr. Remove type cast."},"files":[{"filename":"src\/hotspot\/share\/opto\/output.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestInvalidLocation.java"}],"sha":"8c21a4b515e0a2fb8160999f6277f46e1b60dd74"}]
