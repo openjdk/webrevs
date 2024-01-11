@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Just do checked_cast<int32_t>\"\n\nThis reverts commit 3f94218b46b6b0492ffcc24404b7bb5546b3318a."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"f50510ce9b731f748472b954495ac9f79ab83c58"}]
