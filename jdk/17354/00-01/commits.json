@@ -1,0 +1,1 @@
+[{"commit":{"message":"move special-case check for equal segments to the instance method (more probable)"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java"}],"sha":"5112839b29555f5a24c0d1909ab2eb901976042f"}]
