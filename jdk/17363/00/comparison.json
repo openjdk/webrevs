@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run testng\/othervm\/timeout=180 StressDirListings\n+ * @run testng\/othervm\/timeout=180 -Dsun.net.httpserver.nodelay=true StressDirListings\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/simpleserver\/StressDirListings.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
