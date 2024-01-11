@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -684,4 +684,0 @@\n-        if (dstImpl == srcImpl) {\n-            srcImpl.checkValidState();\n-            return -1;\n-        }\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
