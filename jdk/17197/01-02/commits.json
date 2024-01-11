@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not call CreateCompatibleBitmap if hBMDC is NULL, do not call GetDIBits if hBM is NULL"},"files":[{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Win32GraphicsDevice.cpp"}],"sha":"f7a5b7e7ee5efed3945fe39a521fb857b9290245"}]
