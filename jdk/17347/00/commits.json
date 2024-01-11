@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8316756: C2 EA fails with \"missing memory path\" when encountering unsafe_arraycopy stub call"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/unsafe\/UnsafeArrayCopy.java"}],"sha":"88b4e827c20bb9853511fed2414648b9e3f5f54b"}]
