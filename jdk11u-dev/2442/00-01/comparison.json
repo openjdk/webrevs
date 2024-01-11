@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,1 @@\n- * @run main\/othervm -XX:+UseZGC gc.TestSystemGC\n+ * @run main\/othervm -XX:+UseZGC -XX:+UnlockExperimentalVMOptions gc.TestSystemGC\n","filename":"test\/hotspot\/jtreg\/gc\/TestSystemGC.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
