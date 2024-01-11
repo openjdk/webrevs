@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -428,2 +428,3 @@\n-    } else\n-         return JDWPTRANSPORT_ERROR_IO_ERROR;\n+    } else {\n+        return JDWPTRANSPORT_ERROR_IO_ERROR;\n+    }\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libdt_socket\/socketTransport.c","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
