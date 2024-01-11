@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -911,0 +911,3 @@\n+      if (ZapUnusedHeapArea) {\n+        SpaceMangler::mangle_region(MemRegion(r->top(), r->end()));\n+      }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFullGC.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
