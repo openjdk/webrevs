@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,1 +217,1 @@\n-        frame = new JFrame();\n+        frame = new JFrame(\"FileChooser set location test\");\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/JFileChooserSetLocationTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
