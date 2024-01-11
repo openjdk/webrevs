@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,4 +26,0 @@\n-struct Bar {\n-    int x;\n-};\n-\n","filename":"test\/jtreg\/generator\/outOfOrder\/out_of_order_typedef.h","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
