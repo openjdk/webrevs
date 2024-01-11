@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8323615: PopupControl.skin.setSkin(Skin) fails to call dispose() on discarded Skin"},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/PopupControl.java"},{"filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/PopupControlTest.java"}],"sha":"2452f36b0d4363c399d382e7c9fca688f8cecd37"}]
