@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2572,1 +2572,1 @@\n-    movl(dst, checked_cast<uint32_t>(src));\n+    movl(dst, checked_cast<int32_t>(src));\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
