@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2433,1 +2433,1 @@\n-            \"\"\".formatted(locale.getDisplayName(), toPattern());\n+            \"\"\".formatted(locale == null ? \"None\" :locale.getDisplayName(), toPattern());\n","filename":"src\/java.base\/share\/classes\/java\/text\/SimpleDateFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
