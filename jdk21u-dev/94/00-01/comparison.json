@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -245,1 +245,1 @@\n-    \/\/ As of JDK 17, the number of defined algorithms are...\n+    \/\/ As of JDK 21, the number of defined algorithms are...\n","filename":"test\/jdk\/javax\/xml\/crypto\/dsig\/GenerationTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
