@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -238,1 +238,1 @@\n-     * included and ordered consistent with the full recommended\n+     * included and appear in an order consistent with the full recommended\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/Modifier.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
