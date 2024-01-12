@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,1 @@\n+#include \"services\/memoryManager.hpp\"\n@@ -81,1 +82,0 @@\n-#include \"services\/memoryManager.hpp\"\n","filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
