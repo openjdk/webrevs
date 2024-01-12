@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update LinkedTransferQueue add and put methods to not call overridable offer"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/LinkedTransferQueue.java"}],"sha":"206e2652d776ea91dfa5c0aac87dd279b08c6bab"}]
