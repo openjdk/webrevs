@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,2 @@\n-    java\/lang\/classfile\/components\/snippet-files\n+    java\/lang\/classfile\/components\/snippet-files \\\n+    jdk\/lang\/foreign\/snippet-files\n","filename":"make\/modules\/java.base\/Java.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
