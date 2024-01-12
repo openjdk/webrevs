@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -490,0 +490,1 @@\n+#if INCLUDE_JVMTI\n@@ -494,0 +495,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/handshake.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
