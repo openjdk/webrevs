@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,1 +131,1 @@\n-     * {@link UnsupportedEncodingException} otherwise.\n+     * {@link UnsupportedOperationException} otherwise.\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/css\/FixedCapacitySet.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
