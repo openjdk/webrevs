@@ -1,0 +1,1 @@
+[{"commit":{"message":"Quote runs of extra unquoted closing braces in subformat patterns."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/text\/MessageFormat.java"},{"filename":"test\/jdk\/java\/text\/Format\/MessageFormat\/MessageFormatToPatternTest.java"}],"sha":"688f57486ddb5be814f198cd0da14a97838ab43f"}]
