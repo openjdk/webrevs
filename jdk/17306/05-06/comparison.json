@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-        for(int pi = 0; pi < methodType.parameterCount(); pi++) {\n+        for (int pi = 0; pi < methodType.parameterCount(); pi++) {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapDecoder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
