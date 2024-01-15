@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -257,2 +257,2 @@\n-  \/\/ at some additional cost. Override superclass's implementation.\n-  virtual bool collection_attempt_is_safe();\n+  \/\/ at some additional cost.\n+  bool collection_attempt_is_safe();\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
