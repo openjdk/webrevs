@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2126,2 +2126,2 @@\n-\tAtomic::add(reinterpret_cast<int*>(cur), 0, memory_order_relaxed);\n-\tif (cur >= last) break;\n+        Atomic::add(reinterpret_cast<int*>(cur), 0, memory_order_relaxed);\n+        if (cur >= last) break;\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
