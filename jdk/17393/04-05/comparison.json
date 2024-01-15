@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,0 @@\n- * @run testng SubclassTest\n@@ -33,0 +32,1 @@\n+ * @run testng SubclassTest\n","filename":"test\/jdk\/java\/util\/concurrent\/LinkedTransferQueue\/SubclassTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
