@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+ * @requires vm.opt.DeoptimizeALot != true\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestPrunedExHandler.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
