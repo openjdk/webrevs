@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-                blackHole(new byte[16 * 1024 * 1024]);\n+                blackHole(new byte[4 * 1024 * 1024]);\n","filename":"test\/jdk\/jdk\/jfr\/event\/gc\/detailed\/TestZAllocationStallEvent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
