@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -756,0 +756,2 @@\n+<li>To install on Alpine Linux, try running\n+<code>sudo apk add fontconfig-dev<\/code>.<\/li>\n","filename":"doc\/building.html","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
