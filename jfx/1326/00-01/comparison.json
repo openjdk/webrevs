@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1548,1 +1548,1 @@\n-private boolean tryScrollOneCell(int targetIndex, boolean downOrRight) {\n+    private boolean tryScrollOneCell(int targetIndex, boolean downOrRight) {\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/VirtualFlow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
