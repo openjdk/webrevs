@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -251,2 +251,0 @@\n-  bool no_gc_in_progress() { return !is_gc_active(); }\n-\n","filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
