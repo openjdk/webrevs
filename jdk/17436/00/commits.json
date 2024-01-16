@@ -1,0 +1,1 @@
+[{"commit":{"message":"8323694: RISC-V: Unnecessary ResourceMark in NativeCall::set_destination_mt_safe"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.cpp"}],"sha":"20a3a7cad49671842aa39b3ba8b3feb5ef998c46"}]
