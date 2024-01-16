@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -471,0 +471,1 @@\n+  return nullptr;\n","filename":"src\/hotspot\/share\/opto\/castnode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
