@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -762,1 +762,1 @@\n-                if (isEqualIPv6Addr(listenAddr, in6addr_any)) {\n+                if (isEqualIPv6Addr(ai, in6addr_any)) {\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libdt_socket\/socketTransport.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
