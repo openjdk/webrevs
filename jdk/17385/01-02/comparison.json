@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,0 +101,3 @@\n+#ifdef ASSERT\n+  Atomic::store(&_evacuation_state, _evacuating);\n+#endif\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahEvacOOMHandler.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
