@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n- * @summary Verifies Color filter on Non ICC profile\n+ * @summary Verifies Color filter on non-ICC profile\n","filename":"test\/jdk\/java\/awt\/color\/NonICCFilterTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
