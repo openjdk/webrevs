@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-            frame.setSize(200,200);\n+            frame.setSize(200, 200);\n","filename":"test\/jdk\/java\/awt\/TrayIcon\/ShowAfterDisposeTest\/ShowAfterDisposeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"test\/jdk\/java\/awt\/TrayIcon\/ShowAfterDisposeTest.java","status":"renamed"}]}
