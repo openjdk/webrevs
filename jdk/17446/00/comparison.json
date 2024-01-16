@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,2 +25,2 @@\n-#ifndef SHARE_GC_SHARED_GENERATION_HPP\n-#define SHARE_GC_SHARED_GENERATION_HPP\n+#ifndef SHARE_GC_SERIAL_GENERATION_HPP\n+#define SHARE_GC_SERIAL_GENERATION_HPP\n","filename":"src\/hotspot\/share\/gc\/serial\/generation.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
