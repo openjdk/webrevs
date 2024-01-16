@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -174,0 +174,2 @@\n+        # VS2017 incorrectly triggers this warning for static cast (test_atomic.cpp)\n+        DISABLED_WARNINGS+=\" 4309\"\n","filename":"make\/autoconf\/flags-cflags.m4","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
