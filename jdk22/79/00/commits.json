@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8323019:Remove gc\/stress\/gclocker\/TestGCLocker* since they always fail with OOME\n\nRemove gc\/stress\/gclocker\/TestGCLocker* since they always fail with OOME"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/stress\/gclocker\/TestGCLocker.java"}],"sha":"34859bb216e194659da3c93e6cd419054f46950a"}]
