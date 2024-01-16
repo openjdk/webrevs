@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -224,1 +224,1 @@\n-                return addr.reinterpret($LAYOUT().byteSize(), scope, cleanup);\n+                return reinterpret(addr, 1, scope, cleanup);\n","filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/StructBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
