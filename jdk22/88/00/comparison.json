@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7,1 +7,2 @@\n-    systemctl enable --now \"$unit\"\n+    local unit_name=`basename \"$unit\"`\n+    systemctl enable --now \"$unit_name\"\n","filename":"src\/jdk.jpackage\/linux\/classes\/jdk\/jpackage\/internal\/resources\/services_utils.sh","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
