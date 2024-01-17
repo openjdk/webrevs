@@ -1,0 +1,1 @@
+[{"commit":{"message":"8323154: C2: assert(cmp != nullptr && cmp->Opcode() == Op_Cmp(bt)) failed: no exit test"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMinValueStrideLongCountedLoop.java"}],"sha":"21663259562f28b585a22347971a5ed9b428c852"}]
