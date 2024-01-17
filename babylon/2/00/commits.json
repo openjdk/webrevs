@@ -1,0 +1,1 @@
+[{"commit":{"message":"throw instead returning when erasing checked to unchecked exception"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/interpreter\/Interpreter.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/interpreter\/TestThrowing.java"}],"sha":"50fdca783a8a8a5580e98542bb625c92519d33ec"}]
