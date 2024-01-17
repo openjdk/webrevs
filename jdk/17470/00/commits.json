@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8314329 AgeTable: add is_clear() & allocation spec, and relax assert\nto allow use of 0-index slot"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/ageTable.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/ageTable.hpp"}],"sha":"d4b650a970892062994468a86a425919742b2aec"}]
