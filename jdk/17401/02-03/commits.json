@@ -1,0 +1,1 @@
+[{"commit":{"message":"Switch to UTIL_PROG_CC and UTIL_PROG_CXX in toolchain.m4"},"files":[{"filename":"make\/autoconf\/toolchain.m4"}],"sha":"776f8aa489aa924ef6d0233eb5b387a228b799c4"},{"commit":{"message":"Provide UTIL_PROG_CC and UTIL_PROG_CXX in util.m4"},"files":[{"filename":"make\/autoconf\/util.m4"}],"sha":"f171130ea84bf33ccd7719e89fe1d67a1b82089e"}]
