@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1337,0 +1337,3 @@\n+            if (!tree.isVisible()) {\n+                rendererPane.removeAll();\n+            }\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicTreeUI.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
