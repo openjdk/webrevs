@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add support for mac aarch64 + build updates for jdk22 + verbose error ouput for tests in make build"},"files":[{"filename":"make\/Build.gmk"},{"filename":"make\/Common.gmk"},{"filename":"make\/RunTestsPrebuilt.gmk"}],"sha":"323db1763e716e92c14d359f3f72b3960a856570"}]
