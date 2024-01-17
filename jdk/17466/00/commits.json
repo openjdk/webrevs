@@ -1,0 +1,1 @@
+[{"commit":{"message":"8323502: javac crash with wrongly typed method block in Flow"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/T8323502.java"},{"filename":"test\/langtools\/tools\/javac\/T8323502.out"}],"sha":"e441c17d8f44b1394a035c72a3384e1de0617f6f"}]
