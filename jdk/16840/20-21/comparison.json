@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,0 +144,1 @@\n+  NoSafepointVerifier no_safepoint;\n","filename":"src\/hotspot\/share\/ci\/ciMethodData.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
