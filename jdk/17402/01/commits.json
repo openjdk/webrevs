@@ -1,0 +1,1 @@
+[{"commit":{"message":"Let jdk.javadoc-gendata only depend on GENSRC_TARGETS"},"files":[{"filename":"make\/Main.gmk"}],"sha":"b679b190684e6c54da8f6f298c2839756be03f3f"},{"commit":{"message":"8323675: Race in jdk.javadoc-gendata"},"files":[{"filename":"make\/Main.gmk"}],"sha":"fececce65b72cae9150b44496b8350d0ec9c36c4"}]
