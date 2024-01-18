@@ -1,0 +1,1 @@
+[{"commit":{"message":"8323657: Compilation of snippet results in VerifyError at runtime with --release 9 (and above)"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/StringConcat.java"},{"filename":"test\/langtools\/tools\/javac\/StringConcat\/StringConcatWithAssignments.java"}],"sha":"bbeaafdcf6e5cd57eedf2faf92599aff2591da65"}]
