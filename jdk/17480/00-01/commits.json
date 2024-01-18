@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove MacroAssembler::fast_log() and generate_dlog()"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64_log.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"}],"sha":"f1eaee30fc1cd45a300c5f91c9b74a4481262914"}]
