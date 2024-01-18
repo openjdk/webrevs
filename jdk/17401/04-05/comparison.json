@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -657,1 +657,1 @@\n-  UTIL_PROG_CC(CC: [$CC])\n+  AC_PROG_CC([$CC])\n@@ -661,1 +661,1 @@\n-  UTIL_PROG_CXX(CXX: [$CXX])\n+  AC_PROG_CXX([$CXX])\n","filename":"make\/autoconf\/toolchain.m4","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
