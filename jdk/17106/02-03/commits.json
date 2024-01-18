@@ -1,0 +1,1 @@
+[{"commit":{"message":"make IGV build work with mainline JDK version"},"files":[{"filename":"src\/utils\/IdealGraphVisualizer\/pom.xml"}],"sha":"35080de727135741fee96834470072f002c32501"},{"commit":{"message":"remove requirement for nashorn"},"files":[{"filename":"src\/utils\/IdealGraphVisualizer\/Filter\/pom.xml"}],"sha":"d8bf3f6a89906ea5d62b0f2773c6cdf59385fa59"}]
