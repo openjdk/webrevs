@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,0 +194,6 @@\n+struct CodeHeapInfo {\n+  size_t size;\n+  bool set;\n+  bool enabled;\n+};\n+\n@@ -220,6 +226,0 @@\n-struct CodeHeapInfo {\n-  size_t size;\n-  bool set;\n-  bool enabled;\n-};\n-\n","filename":"src\/hotspot\/share\/code\/codeCache.cpp","additions":6,"deletions":6,"binary":false,"changes":12,"status":"modified"}]}
