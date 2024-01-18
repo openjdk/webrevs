@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert NPE to asserts\nMove null check inside the loop so we do not retrieve extra\nicons if we encounter a null one"},"files":[{"filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/shell\/Win32ShellFolder2.java"}],"sha":"b9e453de4d3be5464f06dacc5b156a7b3054da35"}]
