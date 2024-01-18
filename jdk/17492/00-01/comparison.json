@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -817,0 +817,2 @@\n+    \/\/ The `last` year that transitions are accounted for. If there are\n+    \/\/ rules that go beyond this LASTYEAR, the value needs to be expanded.\n","filename":"src\/java.base\/share\/classes\/sun\/util\/calendar\/ZoneInfoFile.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
