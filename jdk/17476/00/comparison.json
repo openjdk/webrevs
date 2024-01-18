@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,1 @@\n+import java.util.List;\n@@ -46,1 +47,1 @@\n-        runInNewProcess(Runner.class, true)\n+        runInNewProcess(Runner.class, true, List.of(\"-XX:-CreateCoredumpOnCrash\"), List.of())\n","filename":"test\/jdk\/java\/foreign\/critical\/TestCriticalUpcall.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
