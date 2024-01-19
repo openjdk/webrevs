@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4158,1 +4158,1 @@\n-     * translated as if in a string literal.\n+     * and unicode escape sequences translated as if in a string literal.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
