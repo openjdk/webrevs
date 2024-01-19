@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -472,0 +472,1 @@\n+  ShouldNotReachHere();\n","filename":"src\/hotspot\/share\/c1\/c1_Canonicalizer.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
