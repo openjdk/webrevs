@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changes from @albertnetymk review : used #ifndef PRODUCT rather than\nPRODUCT_RETURN0 for is_clear()."},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/ageTable.hpp"}],"sha":"3572babfb8ee94f4a027f473ad1989d9ce873cba"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,2 @@\n+\n+#ifndef PRODUCT\n@@ -57,1 +59,2 @@\n-  bool is_clear() PRODUCT_RETURN0;\n+  bool is_clear();\n+#endif \/\/ !PRODUCT\n","filename":"src\/hotspot\/share\/gc\/shared\/ageTable.hpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
