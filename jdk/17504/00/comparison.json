@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,2 @@\n-                assert false : msg;\n+                \/\/ Disable assertion until JDK-8323883 is fixed\n+                \/\/ assert false : msg;\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/consumer\/ConstantMap.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
