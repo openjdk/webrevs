@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1029,1 +1029,1 @@\n-        return ProcessTools.executeCommand(cmd).getOutput();\n+        return ProcessTools.executeCommand(cmd).getStdout();\n","filename":"test\/jdk\/sun\/security\/tools\/jarsigner\/compatibility\/Compatibility.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
