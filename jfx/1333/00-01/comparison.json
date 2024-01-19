@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,0 +48,8 @@\n+    \/**\n+     * Explicit constructor for subtype use.\n+     *\n+     * @since 23\n+     *\/\n+    protected Selector() {\n+    }\n+\n@@ -178,0 +186,1 @@\n+     * @since 23\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/css\/Selector.java","additions":9,"deletions":0,"binary":false,"changes":9,"status":"modified"}]}
