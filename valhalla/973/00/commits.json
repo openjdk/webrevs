@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324114: [lworld] GTestWrapper.java fails with \"assert(LockingMode == LM_LEGACY) failed: should only be called with legacy stack locking\""},"files":[{"filename":"test\/hotspot\/gtest\/oops\/test_markWord.cpp"}],"sha":"f14e8925c05ec7645be0a7b111c43d0579881c2d"}]
