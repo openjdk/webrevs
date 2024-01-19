@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,0 @@\n-  size_t total = 0;\n@@ -78,1 +77,1 @@\n-    total += *p;\n+    if (*p != 0) return false;\n@@ -80,1 +79,1 @@\n-  return total == 0;\n+  return true;\n","filename":"src\/hotspot\/share\/gc\/shared\/ageTable.cpp","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
