@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -556,0 +556,3 @@\n+     * @implNote The string returned by this method can be used to create\n+     * an instance that is semantically equivalent to this instance.\n+     *\n","filename":"src\/java.base\/share\/classes\/java\/text\/MessageFormat.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
