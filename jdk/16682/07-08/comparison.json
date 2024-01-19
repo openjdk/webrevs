@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -555,1 +555,1 @@\n-    char* buffer = static_cast<char*>(malloc(10 + mechLen + len));\n+    char* buffer = static_cast<char*>(std::malloc(10 + mechLen + len));\n","filename":"src\/java.security.jgss\/windows\/native\/libsspi_bridge\/sspi.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
