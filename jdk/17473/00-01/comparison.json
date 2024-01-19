@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,3 @@\n+        \/\/ Pattern of a module version string.\n+        \/\/ e.g. JDK 22:     \"java 22\"\n+        \/\/      JDK 22.0.1: \"java 22.0.1\"\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/jigsaw\/module\/ModuleOption.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
