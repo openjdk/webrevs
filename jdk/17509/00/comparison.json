@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,0 +118,4 @@\n+#if INCLUDE_JVMTI\n+  JvmtiExport::set_can_hotswap_or_post_breakpoint(true);\n+  JvmtiExport::set_all_dependencies_are_recorded(true);\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/init.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
