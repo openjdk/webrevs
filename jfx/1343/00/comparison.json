@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -588,1 +588,1 @@\n-        \/\/ to _invokeAndWait and _invokeAndExit. This includes\n+        \/\/ to _invokeAndWait and _submitForLaterInvocation. This includes\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassApplication.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
