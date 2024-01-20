@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,2 +127,0 @@\n-  const static GrowableArrayView EMPTY;\n-\n@@ -353,3 +351,0 @@\n-template<typename E>\n-const GrowableArrayView<E> GrowableArrayView<E>::EMPTY(nullptr, 0, 0);\n-\n","filename":"src\/hotspot\/share\/utilities\/growableArray.hpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
