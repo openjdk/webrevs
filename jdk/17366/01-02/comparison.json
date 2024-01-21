@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4238,1 +4238,1 @@\n-    ::_Exit(exit_code);\n+    ALLOW_C_FUNCTION(::_exit, ::_exit(exit_code);)\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
