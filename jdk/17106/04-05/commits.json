@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"make IGV build work with mainline JDK version\"\n\nThis reverts commit 35080de727135741fee96834470072f002c32501."},"files":[{"filename":"src\/utils\/IdealGraphVisualizer\/pom.xml"}],"sha":"273c965297a2c004c3e7dc3e31a8c986cea0387d"}]
