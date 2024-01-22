@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,2 @@\n+#ifdef ASSERT\n+\n@@ -111,1 +113,0 @@\n-  int non_empty = 0;\n@@ -128,1 +129,0 @@\n-#ifdef ASSERT\n@@ -141,1 +141,0 @@\n-#endif \/\/ ASSERT\n@@ -150,0 +149,2 @@\n+\n+#endif \/\/ ASSERT\n","filename":"test\/hotspot\/gtest\/opto\/test_rangeinference.cpp","additions":4,"deletions":3,"binary":false,"changes":7,"status":"modified"}]}
