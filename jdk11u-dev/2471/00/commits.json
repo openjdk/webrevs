@@ -1,0 +1,1 @@
+[{"commit":{"message":"8249087: Always initialize _body[0..1] in Symbol constructor\n\nReviewed-by: dholmes, lfoltan"},"files":[{"filename":"src\/hotspot\/share\/oops\/symbol.cpp"}],"sha":"f8a3b515570e89c966faafb7c465387a1f539f49"}]
