@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,1 @@\n+                \"-XX:-BackgroundCompilation\",\n","filename":"test\/hotspot\/jtreg\/compiler\/inlining\/TestDuplicatedLateInliningOutput.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
