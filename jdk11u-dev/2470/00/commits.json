@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324307: hotspot fails to build with GCC 12 and newer (non-static data member initializers)"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupV1Subsystem_linux.hpp"},{"filename":"src\/hotspot\/os\/linux\/cgroupV2Subsystem_linux.hpp"}],"sha":"550e71000fca57c2c146b2090bf45b2d48ff37cd"}]
