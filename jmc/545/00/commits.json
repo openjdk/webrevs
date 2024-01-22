@@ -1,0 +1,1 @@
+[{"commit":{"message":"8163: Fix update-site not working\n\nFix : https:\/\/bugs.openjdk.org\/browse\/JMC-8163\n\nMissing rjmx.common plugin, as well as the fireplace plugins in\njmc.feature.core\/feature.xml"},"files":[{"filename":"application\/org.openjdk.jmc.feature.core\/feature.xml"}],"sha":"c878d1cccc3bfa69bf7d11ddbfb582f3cda5d4ec"}]
