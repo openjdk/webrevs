@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-        SwingUtilities.invokeLater(() -> myApp = new MyApp());\n+        SwingUtilities.invokeAndWait(() -> myApp = new MyApp());\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/embed\/swing\/JFXPanelHiDPITest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
