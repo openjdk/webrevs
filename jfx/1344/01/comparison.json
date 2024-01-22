@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,2 @@\n+import com.sun.javafx.application.PlatformImpl;\n+\n@@ -152,1 +154,1 @@\n-            Platform.runLater(() -> {\n+            PlatformImpl.runAndWait(() -> {\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/embed\/swing\/JFXPanelHiDPITest.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
