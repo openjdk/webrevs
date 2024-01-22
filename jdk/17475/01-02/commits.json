@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed indentation\nTest now checks for returned icon not to be null"},"files":[{"filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/shell\/Win32ShellFolder2.java"},{"filename":"test\/jdk\/javax\/swing\/JFileChooser\/FileSystemView\/NoIconExeNPE.java"}],"sha":"83998a2e4a5c094e6ff195a6adf078108ddebb42"}]
