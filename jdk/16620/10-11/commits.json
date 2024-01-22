@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove SuperWord::init, and reserve space in data structures"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"src\/hotspot\/share\/opto\/superword.hpp"},{"filename":"src\/hotspot\/share\/opto\/vectorization.hpp"}],"sha":"30ef793b19b6ca36931f1b7327bc427c108b0b34"}]
