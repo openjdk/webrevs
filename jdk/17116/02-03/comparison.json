@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-        ConcurrentHashMap<Integer, Integer> map = new ConcurrentHashMap<>();\n+        ConcurrentHashMap<Integer, Integer> map = new ConcurrentHashMap<>(nkeys);\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/concurrent\/Maps.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
