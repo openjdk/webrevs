@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -149,1 +149,0 @@\n-  if (is_empty()) return;\n","filename":"src\/hotspot\/share\/gc\/shared\/space.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
