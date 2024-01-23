@@ -1,0 +1,1 @@
+[{"commit":{"message":"8322511: JfrCheckpointThreadClosure::do_thread crashes when fetching thread_id"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrThreadGroup.cpp"},{"filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrType.cpp"}],"sha":"8e7be57f9741c30d63ccdb5b3afd2fafc6014f78"}]
