@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-  \/*  threads, if it is too large, we reduce our chance of getting a low hea   *\/   \\\n+  \/*  threads, if it is too large, we reduce our chance of getting a low heap  *\/   \\\n","filename":"src\/hotspot\/os\/aix\/globals_aix.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
