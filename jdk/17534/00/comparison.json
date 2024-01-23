@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1006,1 +1006,1 @@\n-  out->print_cr(\" - class loader        \" INTPTR_FORMAT, p2i(_class_loader.ptr_raw()));\n+  out->print_cr(\" - class loader        \" INTPTR_FORMAT, p2i(_class_loader.peek()));\n","filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
