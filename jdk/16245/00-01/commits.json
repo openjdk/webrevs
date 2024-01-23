@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add Release\/Volatile\/Opaque store test, limit optimization to little-endian builds only"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMergeStores.java"}],"sha":"e5a93414e089b9a014fdfbef9395d99b86a0670c"}]
