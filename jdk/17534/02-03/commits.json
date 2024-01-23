@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"peek_raw\"\n\nThis reverts commit dca07884ed6a07a0517764020fcc7d62bc7be31b."},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"},{"filename":"src\/hotspot\/share\/oops\/oopHandle.hpp"},{"filename":"src\/hotspot\/share\/oops\/oopHandle.inline.hpp"}],"sha":"1cf93ba7956b778a2dcedd99f1b6d0105a087279"}]
