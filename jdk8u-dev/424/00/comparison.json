@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -382,1 +382,1 @@\n-  for (int i = 0; i < 8; i++) {\n+  for (int i = 0; i < 7; i++) {\n","filename":"hotspot\/src\/share\/vm\/ci\/ciMethodBlocks.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
