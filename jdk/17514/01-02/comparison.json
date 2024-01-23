@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-            \/\/ Allocate 512M of data\n+            \/\/ Allocate 512M of data in 1M chunks per iteration\n","filename":"test\/jdk\/jdk\/internal\/platform\/docker\/MetricsMemoryTester.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

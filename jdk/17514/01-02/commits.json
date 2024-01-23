@@ -1,0 +1,1 @@
+[{"commit":{"message":"8323640: [TESTBUG]testMemoryFailCount in jdk\/internal\/platform\/docker\/TestDockerMemoryMetrics.java always fail because OOM killed\n\nSigned-off-by: sendaoYan <yansendao.ysd@alibaba-inc.com>"},"files":[{"filename":"test\/jdk\/jdk\/internal\/platform\/docker\/MetricsMemoryTester.java"}],"sha":"d1eb4fac03a1ebd4a519f132332cd527afe2090b"}]
