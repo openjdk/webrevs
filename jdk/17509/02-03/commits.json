@@ -1,0 +1,1 @@
+[{"commit":{"message":"Made the flag experimental and added an assertion to set_can_hotswap_or_post_breakpoint()"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.hpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"2996663532733d90e949afae431a093923845b1f"}]
