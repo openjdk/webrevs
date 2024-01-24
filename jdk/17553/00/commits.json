@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324630: C1: Canonicalizer::do_LookupSwitch doesn't break the loop when the successor is found"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_Canonicalizer.cpp"}],"sha":"c316ff263a3ca562ed8732d4ca897dca6a2a1572"}]
