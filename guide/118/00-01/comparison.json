@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -352,0 +352,2 @@\n+      It's not recommended to specify update releases like 17u4 or 21u in the label. Please stick to labels like [17-na]{.jbs-label} and [21-na]{.jbs-label}.\n+\n","filename":"src\/guide\/jbs-jdk-bug-system.md","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
