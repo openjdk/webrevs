@@ -1,0 +1,1 @@
+[{"commit":{"message":"Retain last component in rendererPane. Testcase added"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicTreeUI.java"},{"filename":"test\/jdk\/javax\/swing\/plaf\/basic\/BasicTreeUI\/TreeCellRendererLeakTest.java"}],"sha":"301ecbce345b4fa2a3834a5759a62b959138c16e"}]
