@@ -1,0 +1,1 @@
+[{"commit":{"message":"Temporarily enable debug logging for cross-compile build"},"files":[{"filename":".github\/workflows\/submit.yml"}],"sha":"d1c15a5592d8616e267f7f2ccf0c1366ad4c6ba3"},{"commit":{"message":"8281096: Flags introduced by configure script are not passed to ADLC build"},"files":[],"sha":"0f50681b8cce89ce9f3a983e73fba31ab1858f06"}]

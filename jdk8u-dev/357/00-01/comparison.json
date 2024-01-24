@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -455,1 +455,1 @@\n-        run: make CONF_NAME=linux-${{ matrix.gnu-arch }}-hotspot hotspot\n+        run: make CONF_NAME=linux-${{ matrix.gnu-arch }}-hotspot LOG_LEVEL=debug hotspot\n","filename":".github\/workflows\/submit.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
