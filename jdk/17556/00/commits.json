@@ -1,0 +1,1 @@
+[{"commit":{"message":"If the entry currently has no permissions set, don't try to merge permission bits with existing -1 bits"},"files":[{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"},{"filename":"test\/jdk\/jdk\/nio\/zipfs\/TestPosix.java"}],"sha":"dabe0fb7e781d035c8f57bcfa13814f5972ee55f"}]
