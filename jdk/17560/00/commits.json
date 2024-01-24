@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324648: Avoid NoSuchMethodError when instantiating NativePRNG"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/security\/provider\/NativePRNG.java"}],"sha":"d537b80c2dceb652786a4cc26f3062bec9d85c0f"}]
