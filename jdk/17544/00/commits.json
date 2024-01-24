@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324573: HashMap::putAll should resize to sum of both map sizes"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/HashMap.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/HashMapBench.java"}],"sha":"d1ad90cdeaf483410a461623bd5db44a7beac64e"}]
