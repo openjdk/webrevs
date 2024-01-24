@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,1 +168,0 @@\n-        labels = labels.clone();\n","filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/SwitchBootstraps.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
