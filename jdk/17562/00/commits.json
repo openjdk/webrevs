@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make value_from_mem able to detect memory loop."},"files":[{"filename":"src\/hotspot\/share\/opto\/macro.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestReduceAllocationAndMemoryLoop.java"}],"sha":"4d4569574bd127d9e6a6dd7962c3999e2a8107d2"}]
