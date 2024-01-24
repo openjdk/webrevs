@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,0 @@\n-#include \"gc\/serial\/tenuredGeneration.hpp\"\n@@ -29,0 +28,1 @@\n+#include \"gc\/serial\/tenuredGeneration.hpp\"\n","filename":"src\/hotspot\/share\/gc\/serial\/serialMemoryPools.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
