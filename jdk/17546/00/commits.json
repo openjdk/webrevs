@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8300088: [IMPROVE] OPEN_MAX is no longer the max limit on macOS >= 10.6 for RLIMIT_NOFILE\"\n\nThis reverts commit 3d8236367d695976946d267ee62f4a26879731ac."},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"7ef4045cdcaeefc3157e0863769d92c59c08af2d"}]
