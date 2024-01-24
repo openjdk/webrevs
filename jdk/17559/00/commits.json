@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324646 - Avoid Class.forName in SecureRandom constructor"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/security\/Provider.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/security\/SecureRandomBench.java"}],"sha":"93f0cc7f27916e3a18a3d69a7fef53e74d4cdc26"}]
