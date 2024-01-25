@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport c9cacfb25d1f15c879c961d2965a63c9fe4d9fa7"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/StringConcat.java"},{"filename":"test\/langtools\/tools\/javac\/StringConcat\/StringConcatWithAssignments.java"}],"sha":"2c66c0f9d68ffeb9fe9e07aad145f73ae9475dcc"}]
