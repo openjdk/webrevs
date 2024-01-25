@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -277,1 +277,0 @@\n-    \/\/ Acquire to satisfy the JMM.\n@@ -381,1 +380,0 @@\n-    \/\/ Release to satisfy the JMM.\n","filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
