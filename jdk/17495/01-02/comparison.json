@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1231,1 +1231,1 @@\n-        if( nm != nullptr ) {\n+        if (nm != nullptr) {\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
