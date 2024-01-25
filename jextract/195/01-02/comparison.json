@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -175,1 +175,1 @@\n-                    \/\/ steal the name from the parent typedef\n+                    \/\/ steal the name from the parent typedef (which has already been mangled)\n","filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/NameMangler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
