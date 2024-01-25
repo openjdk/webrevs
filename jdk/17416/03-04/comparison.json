@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -556,1 +556,1 @@\n-     * @implNote The implementation in {@link MessageFormat} returns a string\n+     * @implSpec The implementation in {@link MessageFormat} returns a string\n","filename":"src\/java.base\/share\/classes\/java\/text\/MessageFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
