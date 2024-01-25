@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -470,1 +470,1 @@\n-  product(bool, ReduceAllocationMerges, true, DIAGNOSTIC,                   \\\n+  product(bool, ReduceAllocationMerges, false, DIAGNOSTIC,                  \\\n","filename":"src\/hotspot\/share\/opto\/c2_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
