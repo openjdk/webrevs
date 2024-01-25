@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8313576: GCC 7 reports compiler warning in bundled freetype 2.13.0\"\n\nThis reverts commit 8248e351d0bed263fb68d8468004a4286e6391af."},"files":[{"filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk"}],"sha":"70ace49587dc017db6cb4c873431716830a5288c"}]

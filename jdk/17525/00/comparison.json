@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -452,1 +452,0 @@\n-  # gcc_ftobjs.c := maybe-uninitialized required for GCC 7 builds.\n@@ -461,1 +460,0 @@\n-      DISABLED_WARNINGS_gcc_ftobjs.c := maybe-uninitialized, \\\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
