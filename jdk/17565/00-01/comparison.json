@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,5 +74,1 @@\n-        addWindowListener(new WindowAdapter() {\n-            public void windowClosing(WindowEvent e) {\n-                dispose();\n-            }\n-        });\n+        \n","filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/Collate2DPrintingTest.java","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
