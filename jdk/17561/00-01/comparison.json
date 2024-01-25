@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,2 +90,1 @@\n-  bool result = _is_complete.is_set();\n-  return result;\n+  return _is_complete.is_set();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMarkingContext.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
