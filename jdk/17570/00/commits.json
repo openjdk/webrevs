@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove unsupported HotSpotJVMCICompilerFactory class"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotJVMCICompilerFactory.java"},{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotJVMCIRuntime.java"}],"sha":"5685d9ca99235342f4e7ccad26f4478688fba71b"}]
