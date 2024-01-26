@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,0 +45,1 @@\n+  echo 'failure=true' >> $GITHUB_OUTPUT\n","filename":".github\/scripts\/gen-test-summary.sh","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
