@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,2 +47,1 @@\n- * in a method throwing an {@link IllegalArgumentException\n- * IllegalArgumentException}.\n+ * in a method throwing an {@link IllegalArgumentException}.\n","filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/util\/Types.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
