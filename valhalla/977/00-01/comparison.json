@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1374,1 +1374,1 @@\n-            if ((flags & (INTERFACE | ENUM | VALUE_CLASS)) == 0) {\n+            if ((flags & (INTERFACE | VALUE_CLASS)) == 0) {\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Check.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
