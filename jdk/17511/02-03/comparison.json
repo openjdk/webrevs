@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,1 +130,1 @@\n-  product(bool, AlwaysMergeDMB, false,                                  \\\n+  product(bool, AlwaysMergeDMB, false, DIAGNOSTIC,                      \\\n","filename":"src\/hotspot\/cpu\/aarch64\/globals_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
