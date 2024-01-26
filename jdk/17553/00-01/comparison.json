@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -846,1 +846,5 @@\n-      if (v == x->key_at(i)) {\n+      int key = x->key_at(i);\n+      if (v < key) {\n+        break;\n+      }\n+      if (v == key) {\n","filename":"src\/hotspot\/share\/c1\/c1_Canonicalizer.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
