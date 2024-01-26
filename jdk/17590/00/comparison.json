@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1092,1 +1092,0 @@\n-    assert(VM_Version::supports_evex(), \"shouldn't have EVEX prefix\");\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}

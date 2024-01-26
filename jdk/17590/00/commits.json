@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324734: Remove too-strict assert(VM_Version::supports_evex()) in Assembler::locate_operand()"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"}],"sha":"1788055005564eb43fff34a0e746f571e641fecb"}]
