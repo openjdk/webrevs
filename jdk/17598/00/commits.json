@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324236: compiler\/ciReplay\/TestInliningProtectionDomain.java failed with RuntimeException: should only dump inline information for ... expected true, was false"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/ciReplay\/TestInliningProtectionDomain.java"}],"sha":"3a2238f91e5bf81dcc75086aef889c4cdf605160"}]
