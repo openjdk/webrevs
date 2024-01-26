@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n- * Where a method returns a type mirror or a collection of type\n+ * <p>Where a method returns a type mirror or a collection of type\n","filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/util\/Types.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
