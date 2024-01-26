@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,0 +306,2 @@\n+     * Annotations on the type arguments are preserved.\n+     *\n","filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/util\/Types.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
