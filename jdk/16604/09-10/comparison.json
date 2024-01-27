@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1165,1 +1165,1 @@\n- filename-> load \"libfilename.so\" first,then load libfilename.a,on failure. \n+ libfilename-> load \"libfilename.so\" first,then load libfilename.a,on failure. \n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
