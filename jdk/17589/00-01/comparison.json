@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2854,1 +2854,1 @@\n-\/\/ which are properly vector uses of def.\n+\/\/ which are proper vector uses of def.\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
