@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -426,1 +426,1 @@\n-  \/\/ #5: Test JVMTI GetLocalObject function with nullptr value_ptr\n+  \/\/ #5: Test JVMTI GetLocalObject function with null value_ptr\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/VThreadTest\/libVThreadTest.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
