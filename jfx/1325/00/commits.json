@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix type of variables in code example from ObservableValue to Property.\n\nOnly the latter give access to the method setValue."},"files":[{"filename":"modules\/javafx.base\/src\/main\/java\/javafx\/beans\/value\/ObservableValue.java"}],"sha":"2e651186c901a05c2713123cea0a33e268130f1c"}]
