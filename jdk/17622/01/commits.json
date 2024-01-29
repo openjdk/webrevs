@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update fix"},"files":[{"filename":"src\/hotspot\/share\/utilities\/stringUtils.hpp"}],"sha":"e22c1f0ab57ba3ddeff78f9800bb87b1a5377d01"},{"commit":{"message":"8324865: windows-x64-slowdebug still does not build after JDK-8324840"},"files":[{"filename":"src\/hotspot\/share\/utilities\/stringUtils.hpp"}],"sha":"e3b346ff4accafe170d64e0221be9c40d511d54c"}]
