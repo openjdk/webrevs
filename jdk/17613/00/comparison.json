@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,2 @@\n+#include <string.h>\n+\n","filename":"src\/hotspot\/share\/utilities\/stringUtils.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
