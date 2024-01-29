@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,0 +67,1 @@\n+#ifdef LINUX\n@@ -92,0 +93,1 @@\n+#endif\n","filename":"test\/hotspot\/gtest\/nmt\/test_nmt_locationprinting.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
