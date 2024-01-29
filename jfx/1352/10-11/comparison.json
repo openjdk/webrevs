@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -195,1 +195,1 @@\n-    void stopOnFxThread() {\n+    void stopImpl() {\n@@ -202,1 +202,1 @@\n-        super.stopOnFxThread();\n+        super.stopImpl();\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/animation\/Timeline.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
