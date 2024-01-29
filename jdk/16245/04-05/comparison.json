@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -360,1 +360,1 @@\n-  notproduct(bool, TraceMergeStores, false,                                 \\\n+  develop(bool, TraceMergeStores, false,                                    \\\n","filename":"src\/hotspot\/share\/opto\/c2_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
