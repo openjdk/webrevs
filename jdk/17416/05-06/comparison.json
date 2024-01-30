@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1689,1 +1689,1 @@\n-        \/\/ Build new string, automaticaly consolidating adjacent runs of quoted chars\n+        \/\/ Build new string, automatically consolidating adjacent runs of quoted chars\n","filename":"src\/java.base\/share\/classes\/java\/text\/MessageFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
