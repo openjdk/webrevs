@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307977: Fix dynamic attach to processes with elevated capabilities on Linux"},"files":[{"filename":"src\/jdk.attach\/linux\/classes\/sun\/tools\/attach\/VirtualMachineImpl.java"}],"sha":"f1848b950893aba0da12568d0774f8253ea5f802"}]
