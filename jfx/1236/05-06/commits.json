@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix bug which confused char index with glyph index"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/text\/PrismTextLayout.java"},{"filename":"tests\/system\/src\/test\/java\/test\/com\/sun\/javafx\/text\/TextLayoutTest.java"}],"sha":"93be3f4813bc1e73f46357f1c891e92a11e59a03"}]
