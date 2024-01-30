@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8324753: [AIX] adjust os_posix after JDK-8318696\"\n\nThis reverts commit 8950d68ddb36d35831fbb4b98969cd0537527070."},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"}],"sha":"5119bdc96ce3256c375a8ac77586704cc292503b"}]
