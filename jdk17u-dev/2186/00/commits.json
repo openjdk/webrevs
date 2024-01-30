@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324978: java\/lang\/reflect\/callerCache\/ReflectionCallerCacheTest.java run fail with -Xcomp: Class AccessTest$PublicStaticFinalField not unloaded!\n\nSigned-off-by: sendaoYan <yansendao.ysd@alibaba-inc.com>"},"files":[{"filename":"test\/jdk\/ProblemList-Xcomp.txt"}],"sha":"8e12a85c5d959dd44e6c0a7289cc48d1e1aceb13"}]
