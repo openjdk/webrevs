@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix MBeanServerFileAccessController, more test in SM"},"files":[{"filename":"src\/java.management\/share\/classes\/com\/sun\/jmx\/remote\/security\/MBeanServerFileAccessController.java"},{"filename":"test\/jdk\/javax\/management\/security\/AuthorizationTest.java"}],"sha":"8f270d09585a9be0ea9fff746189e5300adc1691"}]
