@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324933: ConcurrentHashTable::statistics_calculate synchronization is expensive"},"files":[{"filename":"src\/hotspot\/share\/utilities\/concurrentHashTable.inline.hpp"}],"sha":"f0b8f46ae6a4186a67dc5ad28c5567966864e140"}]
