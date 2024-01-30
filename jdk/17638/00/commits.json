@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip to full gc when humongous allocations fails"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.hpp"}],"sha":"57bc91ac16f7162430dbeda1c0b8f37a1340f1f3"}]
