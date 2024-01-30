@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,2 @@\n-com\/sun\/net\/httpserver\/simpleserver sun\/tools\/jhsdb\n+com\/sun\/net\/httpserver\/simpleserver sun\/tools\/jhsdb \\\n+java\/lang\/StringBuilder\n","filename":"test\/jdk\/TEST.ROOT","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
