@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -153,1 +153,1 @@\n-    \/\/ immediate thread group\n+  \/\/ immediate thread group\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrThreadGroup.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
