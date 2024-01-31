@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -258,1 +258,1 @@\n-#      Specifies the address on which the JMX RMI agent will bind.\n+#      The local host name or IP address on which the JMX RMI agent will bind.\n","filename":"src\/jdk.management.agent\/share\/conf\/management.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
