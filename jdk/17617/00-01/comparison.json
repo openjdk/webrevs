@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1061,1 +1061,0 @@\n-    \/\/ Make sure we compute these without overflows.\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
