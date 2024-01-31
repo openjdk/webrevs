@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,2 @@\n-\/* @test\n+\/*\n+ * @test\n@@ -63,1 +64,0 @@\n-\n","filename":"test\/jdk\/java\/awt\/PopupMenu\/TruncatedPopupMenuTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
