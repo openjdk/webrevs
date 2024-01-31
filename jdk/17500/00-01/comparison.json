@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -511,1 +511,1 @@\n-  uint _depth;                    \/\/ Depth of the JVM state the first index field refers to\n+  uint _depth;                    \/\/ Depth of the JVM state the _first_index field refers to\n","filename":"src\/hotspot\/share\/opto\/callnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
