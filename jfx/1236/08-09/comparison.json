@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -475,1 +475,1 @@\n-        layout.setAlignment(2);  \/\/ 2 == center\n+        layout.setAlignment(2);  \/\/ 2 == right\n","filename":"tests\/system\/src\/test\/java\/test\/com\/sun\/javafx\/text\/TextLayoutTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
