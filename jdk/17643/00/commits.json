@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324960: Unsafe.allocateMemory documentation incorrect regarding zero return value"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java"},{"filename":"src\/jdk.unsupported\/share\/classes\/sun\/misc\/Unsafe.java"}],"sha":"3e81efa08538b69880b50b9c6ec812736b92b4d1"}]
