@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -807,1 +807,1 @@\n-  implementation( nullptr, ra_, false, st );\n+  implementation(nullptr, ra_, false, st );\n","filename":"src\/hotspot\/cpu\/arm\/arm.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
