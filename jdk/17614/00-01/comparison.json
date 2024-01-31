@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,0 +98,1 @@\n+    \/\/ Ignore monitors where CreateDC fails\n@@ -127,0 +128,1 @@\n+        \/\/ Ignore monitors where CreateDC fails\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/Devices.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
