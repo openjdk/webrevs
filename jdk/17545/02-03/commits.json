@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable THP for too large page sizes"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestHugePageDecisionsAtVMStartup.java"}],"sha":"8f931adcd0e355996b5f97ebcdab44bdb92097f8"}]
