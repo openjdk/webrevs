@@ -1,0 +1,1 @@
+[{"commit":{"message":"BranchCompactor improved to compact nested sequences of one conditional and one unconditional branch in a single pass."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BranchCompactor.java"}],"sha":"39287b699ea9246032ad5d74d0f4ed49603fc8ff"}]
