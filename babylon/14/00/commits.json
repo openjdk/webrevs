@@ -1,0 +1,1 @@
+[{"commit":{"message":"Correct computation of block indexes"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/Block.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/Body.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/TestBlockIndexes.java"}],"sha":"481cc841ab9bdf9fd6b349fcbe8feb6ac30bc0f6"}]
