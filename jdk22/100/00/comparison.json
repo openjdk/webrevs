@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -261,1 +261,1 @@\n-     * {@return a new shared arena} Segments allocated with the global arena can be\n+     * {@return a new shared arena} Segments allocated with the shared arena can be\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/Arena.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
