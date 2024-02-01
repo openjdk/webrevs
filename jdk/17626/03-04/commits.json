@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix enter_for LockingMode == LM_LEGACY and strengthen assert"},"files":[{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp"}],"sha":"080c7922e44ee391f97f97c9958d1844d31f5df2"}]
