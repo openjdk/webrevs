@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,0 +120,4 @@\n+#ifndef _LARGE_FILES\n+#error Hotspot on AIX must be compiled with -D_LARGE_FILES\n+#endif\n+\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
