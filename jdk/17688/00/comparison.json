@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -149,0 +149,4 @@\n+ifeq ($(TOOLCHAIN_TYPE), clang)\n+  BUILD_JDK_JTREG_LIBRARIES_CFLAGS_libSafeAllocationTest += -Wno-format\n+endif\n+\n","filename":"make\/test\/JtregNativeJdk.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
