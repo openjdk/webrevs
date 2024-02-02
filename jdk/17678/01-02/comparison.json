@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -751,1 +751,1 @@\n-     * in the pattern with the lenient parsing; otherwise, it will not match.\n+     * in the pattern with lenient parsing; otherwise, it will not match.\n","filename":"src\/java.base\/share\/classes\/java\/text\/DateFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
