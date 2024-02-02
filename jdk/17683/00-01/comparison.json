@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+#include \"opto\/phase.hpp\"\n@@ -1104,0 +1105,2 @@\n+      Compile::TracePhase tp(\"autoVectorize\", &Phase::timers[Phase::_t_autoVectorize]);\n+\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
