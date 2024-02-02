@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,4 @@\n+#if defined(_AIX) && defined(open)\n+#undef open\n+#endif\n+\n","filename":"src\/java.desktop\/share\/native\/libawt\/java2d\/pipe\/BufferedRenderPipe.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
