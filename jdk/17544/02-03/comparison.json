@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -503,1 +503,2 @@\n-        int s = Math.max(size() + m.size(), m.size());\n+        int msize = m.size();\n+        int s = Math.max(size() + msize, msize);\n","filename":"src\/java.base\/share\/classes\/java\/util\/HashMap.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
