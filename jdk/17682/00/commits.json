@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8325158: Revert JDK-8248657 for X86"},"files":[{"filename":"src\/hotspot\/os_cpu\/windows_aarch64\/threadCritical_windows_aarch64.cpp"},{"filename":"src\/hotspot\/os_cpu\/windows_x86\/threadCritical_windows_x86.cpp"}],"sha":"de4e4705ee5f4e1ce6cd22d8354c1bf7ca6c3e7a"}]
