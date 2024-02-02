@@ -1,0 +1,1 @@
+[{"commit":{"message":"handle AutoVectorizeStatus::TriedAndFailed outside autovectorize"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"}],"sha":"d04ff51bc5a0d07d9a8b1bf8dc382e807718ae48"}]
