@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-        \/\/ Read RSS from \/proc\/$pid\/status. Only avaiable on Linux\n+        \/\/ Read RSS from \/proc\/$pid\/status. Only available on Linux.\n","filename":"test\/hotspot\/jtreg\/gc\/parallel\/TestAlwaysPreTouchBehavior.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
