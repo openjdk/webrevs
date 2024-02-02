@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -873,1 +873,1 @@\n-            if (entries.contains(alias.toLowerCase(Locale.ROOT))) {\n+            if (entries.containsKey(alias.toLowerCase(Locale.ROOT))) {\n","filename":"src\/java.base\/macosx\/classes\/apple\/security\/KeychainStore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
