@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -514,1 +514,1 @@\n-\tcalloc-transposed-args\n+       calloc-transposed-args\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
