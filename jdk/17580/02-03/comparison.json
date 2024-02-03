@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-   ACC_STATIC        = 0x0008,\n+    ACC_STATIC        = 0x0008\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/FollowReferences\/FieldIndices\/libFieldIndicesTest.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
