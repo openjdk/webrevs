@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix jtreg action"},"files":[{"filename":".github\/actions\/get-jtreg\/action.yml"}],"sha":"36fefbbc5909beb87f33b1480a4e3f2532aa63c3"},{"commit":{"message":"8325194: GHA: Add macOS M1 testing"},"files":[{"filename":".github\/workflows\/build-macos.yml"},{"filename":".github\/workflows\/main.yml"}],"sha":"308f9437d64b5cab99fcc5b22f9d8a3d0358ba3a"}]
