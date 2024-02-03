@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -498,1 +498,1 @@\n-    \/\/ update total_field_number for superclass\n+    \/\/ update total_field_number for superclass (decrease by the field count in the current class)\n","filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
