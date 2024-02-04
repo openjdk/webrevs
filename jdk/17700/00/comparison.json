@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,0 +45,1 @@\n+import org.junit.jupiter.api.Disabled;\n@@ -743,0 +744,1 @@\n+    @Disabled\n","filename":"test\/jdk\/jdk\/nio\/zipfs\/TestPosix.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

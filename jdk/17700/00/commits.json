@@ -1,0 +1,1 @@
+[{"commit":{"message":"TestPosix.setPermissionsShouldConvertToUnix fails intermittently on Windows. Disable for now."},"files":[{"filename":"test\/jdk\/jdk\/nio\/zipfs\/TestPosix.java"}],"sha":"3adb75d3b0b1a35544374112a4c28ab6ed48789e"}]
