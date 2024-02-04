@@ -1,0 +1,1 @@
+[{"commit":{"message":"Selectively skip the test only on Windows"},"files":[{"filename":"test\/jdk\/jdk\/nio\/zipfs\/TestPosix.java"},{"filename":"test\/jdk\/jdk\/nio\/zipfs\/test.policy.posix"}],"sha":"b09472c7fe3ddbb72cdde086e4f002a670940644"}]
