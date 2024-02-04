@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -426,1 +426,1 @@\n-    FuncOp dfcm = f.transform(STR.\"d\\{f.funcName()}_darg\\{indI}\",\n+    FuncOp dfcm = fcm.transform(STR.\"d\\{fcm.funcName()}_darg\\{indI}\",\n","filename":"site\/articles\/auto-diff.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
