@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-    gnu-zero-variadic-macro-arguments\n+    gnu-zero-variadic-macro-arguments dollar-in-identifier-extension\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
