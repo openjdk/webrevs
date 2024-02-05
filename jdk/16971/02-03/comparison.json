@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-      AC_MSG_WARN([locale command not not found, using C locale])\n+    AC_MSG_WARN([locale command not not found, using C locale])\n","filename":"make\/autoconf\/basic.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
