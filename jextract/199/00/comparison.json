@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-               curl_easy_setopt(curl, CURLOPT_URL(), url.address());\n+               curl_easy_setopt.invoke(curl, CURLOPT_URL(), url.address());\n","filename":"samples\/libcurl\/CurlMain.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
