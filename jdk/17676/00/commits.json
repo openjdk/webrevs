@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove use of get_current_thread helper which can mislead static code analysis tools"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"c7d4c23d4c174022534ff2064c7a520e877eb70d"}]
