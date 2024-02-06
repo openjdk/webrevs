@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -819,0 +819,3 @@\n+java\/lang\/reflect\/Proxy\/ClassRestrictions.java 8325343 generic-all\n+java\/lang\/instrument\/valhalla\/RedefinePrimitive.java 8325344 generic-all\n+\n","filename":"test\/jdk\/ProblemList.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
