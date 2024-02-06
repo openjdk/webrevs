@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,1 @@\n+  #define fstatvfs fstatvfs64\n","filename":"src\/java.base\/unix\/native\/libnio\/ch\/UnixFileDispatcherImpl.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
