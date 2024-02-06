@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324117: [lworld] C1 hits \"Can not patch access to flat field\" assert after JDK-8320437"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_LIRGenerator.hpp"},{"filename":"src\/hotspot\/share\/c1\/c1_Runtime1.cpp"}],"sha":"02d3f897572cc9a485c16ac721721347bd69efd5"}]
