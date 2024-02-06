@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324824: AArch64: Detect Ampere-1B core and update default options for Ampere CPUs\n\nSigned-off-by: Patrick Zhang <patrick@os.amperecomputing.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.hpp"}],"sha":"0e365443fdec817b73ddd877e4397f243644c28e"}]
