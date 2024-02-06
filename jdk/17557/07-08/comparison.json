@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,0 @@\n-The normal test method is invoked directly by the framework, and hence the user does not have control over the invokation.\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/README.md","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
