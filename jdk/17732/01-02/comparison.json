@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,0 +134,1 @@\n+        assertTrue(set.add(value1), \"key not added after second attempt\");\n","filename":"test\/jdk\/jdk\/internal\/util\/ReferencedKeyTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
