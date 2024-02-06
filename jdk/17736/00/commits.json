@@ -1,0 +1,1 @@
+[{"commit":{"message":"8322239: [macos] a11y : java.lang.NullPointerException is thrown when focus is moved on the JTabbedPane\n\nAdd null check for the Aqua LnF situation when tab is hidden die to the tabs overflow."},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JTabbedPane.java"}],"sha":"dfab2416a65e279ca40cbcb829c25d02eb282e6b"}]
