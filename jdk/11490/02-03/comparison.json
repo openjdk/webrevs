@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n-agent.err.exception                = 에이전트에 예외사항이 발생했습니다\n+agent.err.exception                = 에이전트에 예외사항이 발생했습니다.\n","filename":"src\/jdk.management.agent\/share\/classes\/jdk\/internal\/agent\/resources\/agent_ko.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
