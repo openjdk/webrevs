@@ -1,0 +1,1 @@
+[{"commit":{"message":"streamline gradle task dependencies"},"files":[{"filename":"build.gradle"}],"sha":"c82fd2c20aee9fe4e11a4469e4441312ada8e1cd"},{"commit":{"message":"Don't have verify as dependency of test image"},"files":[{"filename":"build.gradle"}],"sha":"554e89c611fda6c0a23006fc40038a196f46fa6a"}]
