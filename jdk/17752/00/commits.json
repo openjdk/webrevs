@@ -1,0 +1,1 @@
+[{"commit":{"message":"8325437: Safepoint polling in monitor deflation can cause massive logs"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"c58cc6f872e863d78c09ff17a5b3ce9607190408"}]
