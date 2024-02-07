@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -603,0 +603,1 @@\n+            @SuppressWarnings(\"deprecation\")\n@@ -620,0 +621,1 @@\n+            @SuppressWarnings(\"deprecation\")\n","filename":"test\/langtools\/tools\/javac\/lib\/DPrinter.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
