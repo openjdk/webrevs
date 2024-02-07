@@ -1,0 +1,1 @@
+[{"commit":{"message":"8325398: [lworld] C1 should not patch null restricted field stores"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_Runtime1.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestUnloadedInlineTypeField.java"}],"sha":"c3103136062fbf60405dd6df653258ebdec270b6"}]
