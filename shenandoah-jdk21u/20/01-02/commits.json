@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove uses of removed flag from generational code"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/mode\/shenandoahGenerationalMode.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.cpp"}],"sha":"19626567f9335c544b2478921116f66f687428b0"}]
