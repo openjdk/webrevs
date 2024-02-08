@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -744,1 +744,1 @@\n-    illegal digit in an binary literal\n+    illegal digit in a binary literal\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
