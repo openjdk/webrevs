@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-  oopDesc _oop;\n+  alignas(ObjectAlignmentInBytes) oopDesc _oop;\n","filename":"test\/hotspot\/gtest\/gc\/shared\/test_preservedMarks.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
