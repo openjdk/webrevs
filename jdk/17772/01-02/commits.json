@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure fix is effective for switch expressions only"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"},{"filename":"test\/langtools\/tools\/javac\/classfiles\/attributes\/LineNumberTable\/T8314275.java"}],"sha":"a836d976e56c624882ae793ee89b1146c9fd4352"}]
