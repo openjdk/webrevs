@@ -1,0 +1,1 @@
+[{"commit":{"message":"8325451: Missed elimination of assertion predicates"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/TestPredicatesBasic.java"}],"sha":"ac2b3291eceea887d31bf5835ed0656bec3bda4e"}]
