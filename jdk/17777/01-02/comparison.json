@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,0 +298,2 @@\n+\n+  \/\/ tracks if new regions have been allocated or retired since last check\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
