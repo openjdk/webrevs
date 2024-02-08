@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -638,1 +638,1 @@\n-  explicit CHeapBitMap(MEMFLAGS flags) : GrowableBitMap(0, false), _flags(flags) {}\n+  explicit CHeapBitMap(MEMFLAGS flags) : GrowableBitMap(), _flags(flags) {}\n","filename":"src\/hotspot\/share\/utilities\/bitMap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
