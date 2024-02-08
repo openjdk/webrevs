@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -170,1 +170,1 @@\n-    private static String TEXT_FONT = \"Dialog\";\n+    private static String TEXT_FONT = Font.DIALOG;\n","filename":"test\/jdk\/performance\/client\/RenderPerfTest\/src\/renderperf\/RenderPerfTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
