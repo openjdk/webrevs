@@ -1,0 +1,1 @@
+[{"commit":{"message":"8325546: [lworld] Missing barrier in C1 compiled code on AArch64"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_Runtime1_aarch64.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestBufferTearingC1.java"}],"sha":"8879c08e1f87979a108eacfff9bf733f3b6557f5"}]
