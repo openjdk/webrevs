@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-\/\/ A CompiledICData* is a helper object for the inline cache implementation.\n+\/\/ A CompiledICData is a helper object for the inline cache implementation.\n","filename":"src\/hotspot\/share\/code\/compiledIC.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
