@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1803,1 +1803,1 @@\n-    \/\/ No reloc entry found; not a static or opt virutal call\n+    \/\/ No reloc entry found; not a static or optimized virtual call\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
