@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1828,0 +1828,1 @@\n+    log_warning(redefine, class, constantpool)(\"Merged constant pool overflow: %d entries\", merge_cp_length);\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
