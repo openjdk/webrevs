@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -831,0 +831,3 @@\n+    \/\/ Ensure the stores to copy the inline field contents are visible\n+    \/\/ before any subsequent store that publishes this reference.\n+    __ membar(Assembler::StoreStore);\n","filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
