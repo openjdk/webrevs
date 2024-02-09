@@ -1,0 +1,1 @@
+[{"commit":{"message":"8325382: (fc) FileChannel.transferTo throws IOException when position equals size"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/FileChannelImpl.java"},{"filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/Transfer.java"}],"sha":"40370a4f1fc3367a6c8c17e471cc21679145fa87"}]
