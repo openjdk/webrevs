@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+ * @requires vm.compiler2.enabled\n@@ -69,1 +70,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestReduceAllocationAndMemoryLoop.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
