@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,3 +120,0 @@\n-  bool is_in(oop obj) const {\n-    return is_in((void*)obj);\n-  }\n","filename":"src\/hotspot\/share\/gc\/shared\/space.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
