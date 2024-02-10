@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused code (design changed in upstream patch)"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPeriodicTasks.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPeriodicTasks.hpp"}],"sha":"ce189e7b311859407f4b67e84746479cbf3faa50"}]
