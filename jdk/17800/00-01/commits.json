@@ -1,0 +1,1 @@
+[{"commit":{"message":"move _loop_or_ctrl from ResouceArena, bc ResourceMark in SuperWord::dependence_graph"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"}],"sha":"b43d513b2f0fff1ffaad4bb3718798706eb46d0d"}]

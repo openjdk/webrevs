@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1101,0 +1101,1 @@\n+    _loop_or_ctrl(igvn.C->comp_arena()),\n@@ -1115,0 +1116,1 @@\n+    _loop_or_ctrl(igvn.C->comp_arena()),\n","filename":"src\/hotspot\/share\/opto\/loopnode.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
