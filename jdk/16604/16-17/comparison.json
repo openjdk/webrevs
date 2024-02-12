@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1183,0 +1183,1 @@\n+  \/\/ Shared object in .so format dont have braces, hence they get removed for archives with members.\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
