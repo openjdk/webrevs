@@ -1,0 +1,1 @@
+[{"commit":{"message":"Missing #include of ShenandoahGenerationType (albeit satisfied transitively via other include)."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentMark.hpp"}],"sha":"04c32336b0bc87291ef20d4f739b93b7f233c165"}]
