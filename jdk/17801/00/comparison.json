@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-    @Arguments({Argument.NUMBER_42})\n+    @Arguments(values = {Argument.NUMBER_42})\n@@ -97,1 +97,0 @@\n-\n","filename":"test\/hotspot\/jtreg\/compiler\/predicates\/TestPredicatesBasic.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
