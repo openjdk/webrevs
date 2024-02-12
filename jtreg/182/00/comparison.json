@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,5 @@\n+### Rebuilding faster with `build\/make.sh`\n+\n+After you have run `build.sh` once, if you wish to rebuild after making some \n+changes, you can run `build\/make.sh` which should be significantly faster.\n+\n","filename":"doc\/building.md","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
