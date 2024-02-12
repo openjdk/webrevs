@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1176,1 +1176,0 @@\n-    log_info(os)(\"Attempting to load a shared object without extension %s\", filename);\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
