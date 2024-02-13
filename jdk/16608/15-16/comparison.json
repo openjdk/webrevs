@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -384,1 +384,1 @@\n-    \/\/ Load link store conditional exclusive failed.\n+    \/\/ Compare and exchange failed.\n","filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
