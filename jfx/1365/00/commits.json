@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8325798: Spinner throws uncatchable exception on tab out from garbled text"},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/Spinner.java"},{"filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/SpinnerTest.java"}],"sha":"5330939e9a8b44d8eef43595e8dcb46a43e0a897"}]
