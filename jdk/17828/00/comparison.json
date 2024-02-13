@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,4 +57,0 @@\n-  MemRegion(MetaWord* start, MetaWord* end) :\n-    _start((HeapWord*)start), _word_size(pointer_delta(end, start)) {\n-    assert(end >= start, \"incorrect constructor arguments\");\n-  }\n","filename":"src\/hotspot\/share\/memory\/memRegion.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
