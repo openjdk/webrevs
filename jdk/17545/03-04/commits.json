@@ -1,0 +1,1 @@
+[{"commit":{"message":"Modified THP fallback mechanism"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestHugePageDecisionsAtVMStartup.java"}],"sha":"7204668935fbfb6238567400f2b7bed690d8d401"}]
