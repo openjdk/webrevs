@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -833,1 +833,1 @@\n-                    TypeDesc resultType = typeToDesc(sym.type); \/\/ why not sym.type\n+                    TypeDesc resultType = typeToDesc(sym.type);\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ReflectMethods.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
