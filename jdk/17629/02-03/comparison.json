@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1231,0 +1231,2 @@\n+    \/\/ We batch the use of ScopedCS here as it has been found to be quite expensive to\n+    \/\/ invoke it for every single bucket.\n","filename":"src\/hotspot\/share\/utilities\/concurrentHashTable.inline.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
