@@ -1,0 +1,1 @@
+[{"commit":{"message":"8025439: [TEST BUG] [macosx] PrintServiceLookup.lookupPrintServices doesn't work properly since jdk8b105\n\nReviewed-by: prr"},"files":[{"filename":"jdk\/test\/javax\/print\/PrintServiceLookup\/GetPrintServices.java"}],"sha":"d0228f8ff4949791bbbb6b553e4bb70bbf3a6526"}]
