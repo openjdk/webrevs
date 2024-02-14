@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-            if (pgIndex > 0)\n+            if (pgIndex > 0) {\n@@ -109,1 +109,2 @@\n-\n+            }\n+            \n","filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/raster\/RasterTest.java","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
