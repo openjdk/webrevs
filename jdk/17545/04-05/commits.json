@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved fallback logic of THP pagesize computation into HugePages class"},"files":[{"filename":"src\/hotspot\/os\/linux\/hugepages.cpp"},{"filename":"src\/hotspot\/os\/linux\/hugepages.hpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"ea2e136c42aa0eb101846e1fd0a28a3f8f9e9763"}]
