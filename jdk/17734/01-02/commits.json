@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Refactor to use a shared impl for slow-path mod-UTF8 decoding\"\n\nThis reverts commit e6a8c3120b7f9c96a66ba40c27f8352735cdb588."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/DataInputStream.java"},{"filename":"src\/java.base\/share\/classes\/java\/io\/ObjectInputStream.java"}],"sha":"5655826b20a4c91b3e1f28e705719db850eff374"}]
