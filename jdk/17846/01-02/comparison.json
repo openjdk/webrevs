@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -431,0 +431,1 @@\n+            @SuppressWarnings(\"restricted\")\n@@ -432,1 +433,1 @@\n-                    .reinterpret(bytes, arena, ms -> {});\n+                    .reinterpret(bytes, arena, null);\n","filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XAtom.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
