@@ -1,0 +1,1 @@
+[{"commit":{"message":"8325074: ZGC fails assert(index == 0 || is_power_of_2(index)) failed: Incorrect load shift: 11"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zBarrierSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zBarrierSet.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zBarrierSet.inline.hpp"}],"sha":"29ba6727323a97db308f44ae9154e60e85982dab"}]
