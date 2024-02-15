@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed storing of values into invalid slots"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeGenerator.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestLiftSmallCorpus.java"}],"sha":"62caefda82ad28f051286a666c825c0c40a428c3"}]
