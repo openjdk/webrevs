@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed redundant block argument assignements of unused variables in BytecodeGenerator"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeGenerator.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestLiftSmallCorpus.java"}],"sha":"94048283796f90f26282c55caf1b364c6abbe0c1"}]
