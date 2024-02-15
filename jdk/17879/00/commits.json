@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix build failure after JDK-8324580"},"files":[{"filename":"src\/hotspot\/os\/linux\/hugepages.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/HugePageConfiguration.java"}],"sha":"630c29c5869442ed2937ae1835583f3f6e1a6f41"}]
