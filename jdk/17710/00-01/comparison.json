@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,2 +35,0 @@\n-    \/\/ Make sure it is written before the pointer is used again\n-    OrderAccess::storestore();\n","filename":"src\/hotspot\/share\/utilities\/cHeapStringHolder.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
