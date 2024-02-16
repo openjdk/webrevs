@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -18,1 +18,1 @@\n-ZZ      =       ZZZ     ,       999     ,       3\n+ZZ\\t=\\tZZZ\\t,\\t999\\t,\\t3\n","filename":"test\/jdk\/java\/util\/Currency\/currency.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
