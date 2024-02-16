@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n-echo \"The IGV workspace in which the imported graphs are saved saved can be set as follows :\"\n+echo \"The IGV workspace in which the imported graphs are saved can be set as follows:\"\n","filename":"src\/utils\/IdealGraphVisualizer\/igv.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
