@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,1 +141,1 @@\n-     * openOutputStream} in a {@link Writer}.\n+     * #openOutputStream} in a {@link Writer}.\n","filename":"src\/java.compiler\/share\/classes\/javax\/tools\/SimpleJavaFileObject.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
