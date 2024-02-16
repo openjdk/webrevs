@@ -1,0 +1,1 @@
+[{"commit":{"message":"Factor out epilogue and template function to prepare for compaction"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFullGC.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFullGC.hpp"}],"sha":"c631bde4b23ad238dfe6ce21c0a708bbe624fa09"}]
