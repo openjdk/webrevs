@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n- *         and the provider behaves as in no connection timeout was set.\n+ *         and the provider behaves as if no connection timeout was set.\n","filename":"src\/java.naming\/share\/classes\/module-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
