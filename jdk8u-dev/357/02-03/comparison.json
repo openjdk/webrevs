@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -179,3 +179,3 @@\n-\t  cat spec.gmk\n-\t  cat hotspot-spec.gmk\n-\t  make CONF_NAME=linux-x64 LOG_LEVEL=debug images\n+          cat spec.gmk\n+          cat hotspot-spec.gmk\n+          make CONF_NAME=linux-x64 LOG_LEVEL=debug images\n","filename":".github\/workflows\/submit.yml","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
