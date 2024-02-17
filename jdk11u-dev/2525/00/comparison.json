@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,4 @@\n+  ifeq ($(call check-jvm-feature, dtrace), true)\n+    # DTRACE_PROBE macros trigger a maybe-uninitialized warning on 'ret'\n+    BUILD_LIBJVM_jni.cpp_CXXFLAGS := -Wno-maybe-uninitialized\n+  endif\n","filename":"make\/hotspot\/lib\/JvmOverrideFiles.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
