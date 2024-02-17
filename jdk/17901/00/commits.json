@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update DeflaterDictionaryTests to use Deflater.getBytesWritten instead of Deflater.getTotalOut"},"files":[{"filename":"test\/jdk\/java\/util\/zip\/DeflaterDictionaryTests.java"}],"sha":"4f9059a07ae3bdc3d4fd25bbe958c4bdf9f78651"}]
