@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2030,1 +2030,1 @@\n-  if (base == NULL) {\n+  if (base == nullptr) {\n@@ -2050,1 +2050,1 @@\n-  if (base == NULL) {\n+  if (base == nullptr) {\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
