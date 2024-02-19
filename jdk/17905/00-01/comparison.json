@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,0 @@\n-    _last_entries = 0;\n@@ -125,0 +124,1 @@\n+  _last_entries = _entries;\n","filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrStackTraceRepository.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
