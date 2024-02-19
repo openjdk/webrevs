@@ -1,0 +1,1 @@
+[{"commit":{"message":"8322881: Method createTempFile() causes file copy permission issue when running through jtreg"},"files":[{"filename":"test\/jdk\/java\/nio\/file\/Files\/CopyMoveVariations.java"}],"sha":"034324c0df286203b3b718898c9538f565fb6232"}]
