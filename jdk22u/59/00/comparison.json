@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -861,1 +861,1 @@\n-         *     int errno = (int) errnoHandle.get(capturedState);\n+         *     int errno = (int) errnoHandle.get(capturedState, 0L);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/Linker.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
