@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -754,0 +754,5 @@\n+  \/\/ If there is no debugger attached skip raising the exception\n+  if (!IsDebuggerPresent()) {\n+    return;\n+  }\n+\n","filename":"hotspot\/src\/os\/windows\/vm\/os_windows.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
