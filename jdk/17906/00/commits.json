@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8252802: java launcher should set MALLOCOPTIONS and LDR_CNTRL in order to use 64KB pages on AIX"},"files":[{"filename":"src\/java.base\/unix\/native\/libjli\/java_md.c"},{"filename":"test\/jdk\/java\/lang\/ProcessBuilder\/Basic.java"}],"sha":"035700bfc42090e7fbe51b276d5c5d139c042f21"}]
