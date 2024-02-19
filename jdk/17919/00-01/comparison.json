@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -646,1 +646,1 @@\n-     * Use the @link #getBytesRead()} method instead when obtaining this information.\n+     * Use the {@link #getBytesRead()} method instead when obtaining this information.\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/Inflater.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
