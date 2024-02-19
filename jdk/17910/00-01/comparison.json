@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -766,1 +766,1 @@\n-  if (cnt) fprintf(stderr, \"\\n-------Warning: total %d unused operandsn\", cnt);\n+  if (cnt) fprintf(stderr, \"\\n-------Warning: total %d unused operands\\n\", cnt);\n","filename":"src\/hotspot\/share\/adlc\/archDesc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
