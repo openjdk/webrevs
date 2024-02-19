@@ -1,0 +1,1 @@
+[{"commit":{"message":"8325202: gc\/g1\/TestMarkStackOverflow.java intermittently crash: G1CMMarkStack::ChunkAllocator::allocate_new_chunk"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp"}],"sha":"3b25f05b9e43dca80de27704750fbcf8dcdd9b42"}]
