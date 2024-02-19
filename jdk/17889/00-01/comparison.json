@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-  if (!(major >= 6 && minor >= 9)) {\n+  if (!(major > 6 || (major == 6 && minor >= 9))) {\n","filename":"src\/hotspot\/os\/linux\/systemMemoryBarrier_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
