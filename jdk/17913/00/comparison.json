@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,6 +122,0 @@\n-  \/\/ For use by VM operations\n-  enum CollectionType {\n-    Scavenge,\n-    MarkSweep\n-  };\n-\n","filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.hpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
