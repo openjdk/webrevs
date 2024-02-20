@@ -1,0 +1,1 @@
+[{"commit":{"message":"8326233 Utils#copySSLParameters loses needClientAuth Setting"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/common\/Utils.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/HttpClientBuilderTest.java"}],"sha":"d8ec1d177e491497cc9a073849a95b6a7eb6c82c"}]
