@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,0 @@\n-import org.openjdk.jmh.annotations.Setup;\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StringBuilderToString.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
