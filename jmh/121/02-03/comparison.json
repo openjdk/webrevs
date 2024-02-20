@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-        Assert.assertEquals(5, files.size());\n+        Assert.assertEquals(6, files.size());\n","filename":"jmh-core-it\/src\/test\/java\/org\/openjdk\/jmh\/it\/profilers\/AsyncProfilerForkTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
