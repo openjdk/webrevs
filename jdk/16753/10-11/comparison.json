@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -589,0 +589,1 @@\n+      __ bind(L_tmp);\n@@ -612,0 +613,1 @@\n+      __ bind(L_tmp);\n@@ -812,1 +814,1 @@\n-      __ je_b(L_loopTop);\n+      __ je(L_loopTop);\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_string.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
