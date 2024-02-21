@@ -1,0 +1,1 @@
+[{"commit":{"message":"8326129: Java Record Pattern Match leads to infinite loop"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/TranslationTest.java"}],"sha":"1587574175de29ca651fe1240c6a18619ec6c391"}]
