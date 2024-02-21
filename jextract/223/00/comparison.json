@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-\t    --add-options '\\\"--enable-native-access=org.openjdk.jextract\\\" \\\"--enable-preview\\\"' \\\n+\t    --add-options \"\\\"--enable-native-access=org.openjdk.jextract\\\" \\\"--enable-preview\\\"\" \\\n","filename":"make\/Build.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
