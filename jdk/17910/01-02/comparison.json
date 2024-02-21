@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -733,0 +733,2 @@\n+  \/\/ it may happen no instruction use these operands, like stackSlotP in aarch64,\n+  \/\/ but we can not desclare they are useless.\n","filename":"src\/hotspot\/share\/adlc\/archDesc.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
