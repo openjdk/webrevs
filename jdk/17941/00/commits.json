@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8326376-java-version-failed-with-CONF=fastdebug-XX-InitialCodeCacheSize=1024K-XX-ReservedCodeCacheSize=1200k"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilationFailureInfo.cpp"},{"filename":"src\/hotspot\/share\/compiler\/compilationFailureInfo.hpp"}],"sha":"375b647ecde60993d3b5af8b805ad17a9571ef71"}]
