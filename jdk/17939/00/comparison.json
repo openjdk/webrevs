@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-define_pd_global(intx,  CodeEntryAlignment,    128);\n+define_pd_global(intx,  CodeEntryAlignment,    64);\n","filename":"src\/hotspot\/cpu\/ppc\/globals_ppc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
