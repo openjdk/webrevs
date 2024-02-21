@@ -1,0 +1,1 @@
+[{"commit":{"message":"8186199: [windows] JNI_DestroyJavaVM not covered by SEH"},"files":[{"filename":"hotspot\/src\/share\/vm\/prims\/jni.cpp"}],"sha":"b23254d51f8b5d9ee390726f035d5edd223ce210"}]
