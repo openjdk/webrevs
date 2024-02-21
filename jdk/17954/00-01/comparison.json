@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-                         const char* options, outputStream* st) NOT_JVMTI_RETURN_(0);\n+                         const char* options, outputStream* st) NOT_JVMTI_RETURN;\n","filename":"src\/hotspot\/share\/prims\/jvmtiAgentList.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
