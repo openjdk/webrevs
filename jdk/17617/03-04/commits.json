@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix a place where we cast to jlong after uabs"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"}],"sha":"b94224205dfa312b4c40daf8a728e02070424078"}]
