@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,1 +194,1 @@\n-      movl(Address(obj, arrayOopDesc::length_offset_in_bytes() + BytesPerInt), t1);\n+      movl(Address(obj, base_offset), t1);\n","filename":"src\/hotspot\/cpu\/x86\/c1_MacroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
