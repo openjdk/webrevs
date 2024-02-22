@@ -1,0 +1,1 @@
+[{"commit":{"message":"reverted Compatibility.java to avoid possible conflicts with VM options and older JDKs."},"files":[{"filename":"test\/jdk\/sun\/security\/tools\/jarsigner\/compatibility\/Compatibility.java"}],"sha":"4cdeb87ac57ecfd214cc6c8ce8c3e0dfd9a7deff"}]
