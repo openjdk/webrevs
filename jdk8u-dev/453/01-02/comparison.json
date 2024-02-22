@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @library \/test\/lib\n+ * @library \/lib\/testlibrary\n@@ -217,1 +217,1 @@\n-import jdk.test.lib.net.URIBuilder;\n+import jdk.testlibrary.net.URIBuilder;\n","filename":"jdk\/test\/sun\/net\/www\/http\/HttpClient\/KeepAliveTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
