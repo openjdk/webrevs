@@ -1,0 +1,1 @@
+[{"commit":{"message":"Addressed some review coments; replaced hard-coded registers with descriptive names."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_string.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"src\/hotspot\/share\/opto\/runtime.cpp"}],"sha":"82bcd8b391684530a71f9b3fdfd6c706ce546dee"}]
