@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename the Windows export file to .def"},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"}],"sha":"27b4df5346d3ac7a2f00297a4b48207b67698703"},{"commit":{"message":"Remove unused symbol _Copy_conjoint_bytes on linux\/arm32"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_arm\/linux_arm_32.S"}],"sha":"4f1668afdeeb975a38f8e2a211f828bbeb3161f6"}]
