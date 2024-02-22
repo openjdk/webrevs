@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -647,1 +647,1 @@\n-     * the narrowing conversion to <code>int<\/code> causes the highest 32 bits of\n+     * the narrowing conversion to <code>int<\/code> causes the 32 highest order bits of\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/Inflater.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
