@@ -1,0 +1,1 @@
+[{"commit":{"message":"Comment refined. Removed the perf-test as the fix no longer offers perf improvement."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/util\/locale\/BaseLocale.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/LocaleCache.java"}],"sha":"92cf07f429771a23937321f93eaf30254914bef5"}]
