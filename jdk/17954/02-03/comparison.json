@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -375,0 +375,3 @@\n+            if (message.length() > 0) {\n+                message.append(' ');\n+            }\n","filename":"src\/jdk.attach\/share\/classes\/sun\/tools\/attach\/HotSpotVirtualMachine.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
