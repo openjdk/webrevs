@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix specs: JDWP ThreadReference.CurrentContendedMonitor command, JDI ThreadReference.currentContendedMonitor method"},"files":[{"filename":"src\/java.se\/share\/data\/jdwp\/jdwp.spec"},{"filename":"src\/jdk.jdi\/share\/classes\/com\/sun\/jdi\/ThreadReference.java"}],"sha":"3ce67fa9a493dfd1360568604d5275692303ad0a"}]
