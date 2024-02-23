@@ -1,0 +1,1 @@
+[{"commit":{"message":"8278893: Parallel: Remove GCWorkerDelayMillis\n\nReviewed-by: ayang, mli"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/parallel_globals.hpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psCardTable.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psPromotionManager.inline.hpp"}],"sha":"080e0002ffb2f16e58c960e3b88a6a3618937f21"}]
