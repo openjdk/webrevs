@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,1 @@\n-    LOG(\">>>          owner:               none (0x0)\\n\", check_idx);\n+    LOG(\">>>          owner:               none (0x0)\\n\");\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/ObjectMonitorUsage\/libObjectMonitorUsage.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
