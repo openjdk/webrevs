@@ -1,0 +1,1 @@
+[{"commit":{"message":"8326404: Assertion error when trying to compile switch with fallthrough with pattern"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8326404.java"}],"sha":"b6c90ca448b17a7bd0c47e8951893d1450e91b6f"}]
