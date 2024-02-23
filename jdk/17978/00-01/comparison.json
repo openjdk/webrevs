@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,0 +66,2 @@\n+     * @param verbose If true, the content of the hs-err file is printed while matching. If false, only important\n+     *               information are printed.\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/HsErrFileUtils.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
