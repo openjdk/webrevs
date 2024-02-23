@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-                    \"cet_ss\",       \"avx512_ifma\",      \"serialize\"\n+                    \"cet_ss\",       \"avx512_ifma\",      \"serialize\",         \"avx_ifma\"\n","filename":"test\/lib-test\/jdk\/test\/whitebox\/CPUInfoTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
