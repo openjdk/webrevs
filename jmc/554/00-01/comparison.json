@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,0 +217,1 @@\n+\t\t\t\t\ttableInspector.setFocus();\n@@ -231,0 +232,1 @@\n+\t\ttableInspector.setFocus();\n","filename":"application\/org.openjdk.jmc.console.agent\/src\/main\/java\/org\/openjdk\/jmc\/console\/agent\/manager\/wizards\/PresetManagerPage.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
