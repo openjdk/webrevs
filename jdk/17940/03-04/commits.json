@@ -1,0 +1,1 @@
+[{"commit":{"message":"undo changes to SimpleSSLContext in test library"},"files":[{"filename":"test\/jdk\/com\/sun\/net\/httpserver\/HttpsParametersClientAuthTest.java"},{"filename":"test\/lib\/jdk\/test\/lib\/net\/SimpleSSLContext.java"}],"sha":"86323a1643dcbc02b6d64a493fd36ca26ab1066a"}]
