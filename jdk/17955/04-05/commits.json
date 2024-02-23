@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Use #pragma instead of HIDDEN define\"\n\nThis reverts commit 00e40a7f6e4cdef6592d72b3d08063cdcc41532a."},"files":[{"filename":"src\/hotspot\/share\/oops\/accessBackend.cpp"}],"sha":"7be8372ad2f62c9fba79f58b2b8a48aa38c6810d"}]
