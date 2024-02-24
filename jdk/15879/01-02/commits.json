@@ -1,1 +1,1 @@
-[{"commit":{"message":"Fix typo found in code review."},"files":[{"filename":"test\/jdk\/java\/lang\/Math\/WorstCaseTests.java"}],"sha":"2442b72f8b6ea4b0d525c075950fb78530b9c265"}]
+[{"commit":{"message":"Improve comments, implement review feedback."},"files":[{"filename":"test\/jdk\/java\/lang\/Math\/Tests.java"},{"filename":"test\/jdk\/java\/lang\/Math\/WorstCaseTests.java"}],"sha":"c0e9cefe48371ba2c549513d160a07f8ea130de5"}]
