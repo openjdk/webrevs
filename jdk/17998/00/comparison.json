@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @run main Exhaustiveness\n+ * @run main\/timeout=6000 Exhaustiveness\n","filename":"test\/langtools\/tools\/javac\/patterns\/Exhaustiveness.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
