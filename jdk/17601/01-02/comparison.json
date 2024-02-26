@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1029,0 +1029,1 @@\n+  assert(lo != nullptr && hi != nullptr, \"sanity\");\n","filename":"src\/hotspot\/share\/opto\/ifnode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
