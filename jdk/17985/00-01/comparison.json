@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,2 @@\n+ * @key headful\n+ * @bug 8326497\n@@ -27,1 +29,0 @@\n- * @requires os.family == \"linux\"\n","filename":"test\/jdk\/java\/awt\/Frame\/Iconify\/IconifiedToFront.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
