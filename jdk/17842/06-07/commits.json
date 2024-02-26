@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix If creation and add assert with test"},"files":[{"filename":"src\/hotspot\/share\/opto\/ifnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopUnswitch.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestBaseCountedEndLoopUnswitchCandidate.java"}],"sha":"5a314ff23ad27cd4279a62350bea915c5f2f3a6d"}]
