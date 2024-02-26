@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,3 +88,0 @@\n-        System.setProperty(\"sun.awt.exception.handler \",\n-                           \"DisposeInActionEventTest$EDTExceptionHandler\");\n-\n","filename":"test\/jdk\/java\/awt\/TrayIcon\/DisposeInActionEventTest\/DisposeInActionEventTest.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
