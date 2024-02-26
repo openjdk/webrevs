@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,0 +125,2 @@\n+            DEBUG_PREFIX_CFLAGS=\"$DEBUG_PREFIX_CFLAGS -fdebug-prefix-map=\\$(SUPPORT_OUTPUTDIR)\/=\"\n+            DEBUG_PREFIX_CFLAGS=\"$DEBUG_PREFIX_CFLAGS -fdebug-prefix-map=\\$(HOTSPOT_OUTPUTDIR)\/=\"\n","filename":"make\/autoconf\/flags-cflags.m4","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
