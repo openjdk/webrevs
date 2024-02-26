@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -172,0 +172,1 @@\n+    DISABLED_WARNINGS_gcc_shenandoahLock.cpp := stringop-overflow, \\\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
