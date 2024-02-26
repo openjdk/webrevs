@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -264,1 +264,1 @@\n-        \/\/ Parse the string, swapping between the LIMIT and FORMAT enum mode values\n+        \/\/ Parse the string, alternating the value of part\n","filename":"src\/java.base\/share\/classes\/java\/text\/ChoiceFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
