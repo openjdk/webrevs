@@ -1,0 +1,1 @@
+[{"commit":{"message":"8326653: Remove jdk.internal.reflect.UTF8"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/reflect\/ClassFileAssembler.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/reflect\/UTF8.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StringEncode.java"}],"sha":"595b464d5164c433daeabaa87810665c8114df03"}]
