@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -768,1 +768,1 @@\n-        availableIds.stream().forEach(tzid -> {\n+        availableIds.forEach(tzid -> {\n","filename":"make\/jdk\/src\/classes\/build\/tools\/cldrconverter\/CLDRConverter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
