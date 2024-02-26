@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -622,1 +622,1 @@\n-                                                     (char2 & 0x3F));\n+                                                    (char2 & 0x3F));\n","filename":"src\/java.base\/share\/classes\/java\/io\/DataInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
