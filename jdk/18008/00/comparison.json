@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2554,1 +2554,0 @@\n-  _start_array->update_for_block(addr, addr + cast_to_oop(addr)->size());\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
