@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport8307955: Prefer to PTRACE_GETREGSET instead of PTRACE_GETREGS in method 'ps_proc.c::process_get_lwp_regs'"},"files":[{"filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/ps_proc.c"}],"sha":"926d7fef07ce483e74be50a5a6be66ffd6fbdc0d"}]
