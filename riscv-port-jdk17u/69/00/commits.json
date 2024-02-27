@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the Java Management Extension (JMX) Subject Delegation feature."},"files":[{"filename":"src\/java.management.rmi\/share\/classes\/javax\/management\/remote\/rmi\/RMIConnector.java"},{"filename":"src\/java.management\/share\/classes\/javax\/management\/remote\/JMXConnector.java"}],"sha":"879bc1d1aff5fbee0e2c2e6aacfbfe787de5b34d"}]
