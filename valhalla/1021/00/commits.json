@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow bytecode new to operate on value classes on aarch64"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/InlineTypeCreation.java"}],"sha":"dcd9c81f2e89e99261d5624aff5e8bce88bbe497"}]
