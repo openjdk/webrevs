@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run main\/othervm compiler.loopopts.TestBaseCountedEndLoopUnswitchCandidate\n+ * @run main compiler.loopopts.TestBaseCountedEndLoopUnswitchCandidate\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestBaseCountedEndLoopUnswitchCandidate.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
