@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,0 +216,2 @@\n+      cb->initiator_addrtype = GSS_C_AF_UNSPEC;\n+      cb->acceptor_addrtype = GSS_C_AF_UNSPEC;\n","filename":"src\/java.security.jgss\/share\/native\/libj2gss\/GSSLibStub.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
