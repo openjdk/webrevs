@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1051,1 +1051,1 @@\n-\n+  Let the 32-byte one-time key be partitioned into two equal parts R and K.\n@@ -1053,1 +1053,1 @@\n-  Let K be the 16-byte secret AES key.\n+  Let K be the 16-byte secret key.\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_poly.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
