@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -421,1 +421,1 @@\n-                count = 1;\n+                count = 0;\n","filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipPath.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
