@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @summary Make sure that date is formatted correctlyin th locale.\n+ * @summary Make sure that date is formatted correctly in th locale.\n","filename":"test\/jdk\/java\/text\/Format\/DateFormat\/Bug6683975.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
