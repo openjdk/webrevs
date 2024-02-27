@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1175,1 +1175,0 @@\n-    if (strcmp(pointer_to_dot, old_extension) == 0) {\n@@ -1178,1 +1177,0 @@\n-    }\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
