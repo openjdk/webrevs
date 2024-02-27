@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,3 +49,0 @@\n-class WorkerTask;\n-class AdaptiveSizePolicy;\n-class BarrierSet;\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
