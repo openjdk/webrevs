@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8324050-deopt-store-store"},"files":[],"sha":"81d105ce93e9cb0142ce1ea62cea90f1cbc5537f"},{"commit":{"message":"Backport 52523d33dde797bf03b15a05bb227b19b22c06be"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"}],"sha":"81e23b24cc9539e0d5a1b68f31458599ac93122f"}]
