@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,2 +268,0 @@\n-     * If the value is null, this method returns a default value for\n-     * primitive value types or null for identity classes and value classes.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
