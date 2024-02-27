@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -315,1 +315,1 @@\n-\/\/ (all new blocks set this flag) to avoid repeated processing.\n+\/\/ (all new blocks set this flag) we can avoid repeated processing.\n","filename":"src\/hotspot\/share\/c1\/c1_IR.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
