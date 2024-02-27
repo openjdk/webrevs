@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace Thread.currentThread().getId() with Thread.currentThread().threadId()"},"files":[{"filename":"modules\/javafx.base\/src\/main\/java\/com\/sun\/javafx\/logging\/PrintLogger.java"},{"filename":"modules\/javafx.web\/src\/main\/java\/com\/sun\/javafx\/webkit\/drt\/DumpRenderTree.java"}],"sha":"307f4252fa18f674346c4288d6fef935a655ff62"}]
