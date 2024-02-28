@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -666,1 +666,1 @@\n-         if (isPrimitive() | isArray() | isInterface())\n+         if (isPrimitive() || isArray() || isInterface())\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
