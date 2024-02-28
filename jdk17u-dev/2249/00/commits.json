@@ -1,0 +1,1 @@
+[{"commit":{"message":"8326942: [17u] Backout \"8325254: CKA_TOKEN private and secret keys are not necessarily sensitive\""},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/P11Key.java"}],"sha":"d65446c73d3df61c798092a8aaacd19fe26acb01"}]
