@@ -1,0 +1,1 @@
+[{"commit":{"message":"8326897: (fs) The utility TestUtil.supportsLinks is wrongly used to check for hard link support"},"files":[{"filename":"test\/jdk\/java\/nio\/file\/Files\/CheckPermissions.java"},{"filename":"test\/jdk\/java\/nio\/file\/Files\/Misc.java"},{"filename":"test\/jdk\/java\/nio\/file\/TestUtil.java"}],"sha":"dcac6971437a6a935fcc25b36f83c7e4b76b6b23"}]
