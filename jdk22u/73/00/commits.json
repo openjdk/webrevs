@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 6997bfc68def7f80fbf6a7486a4b9f61225fc471"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMinValueStrideLongCountedLoop.java"}],"sha":"b73ddd56315f24204272379463ee5801a226edb7"}]
