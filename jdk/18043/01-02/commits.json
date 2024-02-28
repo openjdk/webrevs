@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also restore newline"},"files":[{"filename":"make\/hotspot\/lib\/CompileGtest.gmk"}],"sha":"18e03322c48a9e8da480b0a789034ac69e742d22"},{"commit":{"message":"Roll back gtest changes"},"files":[{"filename":"make\/hotspot\/lib\/CompileGtest.gmk"},{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"}],"sha":"72e53a0b6c8f1891ca865b55c4dfdd7debcb0cfc"}]
