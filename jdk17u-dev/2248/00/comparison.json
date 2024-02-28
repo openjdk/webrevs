@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-  ADLC_CFLAGS += $(ADLC_LANGSTD_CXXFLAG)\n+  ADLC_CFLAGS += $(ADLC_LANGSTD_CXXFLAGS)\n","filename":"make\/hotspot\/gensrc\/GensrcAdlc.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
