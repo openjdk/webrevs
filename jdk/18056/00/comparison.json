@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,0 +151,2 @@\n+namespace { \/\/ All have internal linkage in this file\n+\n@@ -495,0 +497,1 @@\n+}\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
