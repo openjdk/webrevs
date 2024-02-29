@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -188,1 +188,1 @@\n-        return memory_usage + swap_current;\n+        return memory_usage + (swap_current >= 0 ? swap_current : 0);\n","filename":"src\/hotspot\/os\/linux\/cgroupV2Subsystem_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
