@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use WINDOWS_ONLY instead"},"files":[{"filename":"src\/hotspot\/share\/utilities\/debug.cpp"}],"sha":"3323265ecdf08f41c0bb2e91147e7d490e2b1941"},{"commit":{"message":"8327049: Stop exporting debug.cpp functions on gcc"},"files":[{"filename":"src\/hotspot\/share\/utilities\/debug.cpp"}],"sha":"04cacdfadc896ebcf52d7d149065d05128e30ee5"}]
