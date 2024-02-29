@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,1 +190,1 @@\n-    return memory_usage; \/\/ case of no memory limits\n+    return memory_usage; \/\/ not supported or unlimited case\n","filename":"src\/hotspot\/os\/linux\/cgroupV2Subsystem_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
