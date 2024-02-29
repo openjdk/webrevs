@@ -1,0 +1,1 @@
+[{"commit":{"message":"8322703: Intermittent crash in WebView in a JFXPanel from IME calls on macOS\n\nReviewed-by: jbhaskar, arapte"},"files":[{"filename":"modules\/javafx.web\/src\/main\/java\/com\/sun\/javafx\/webkit\/InputMethodClientImpl.java"}],"sha":"5e0b4b602b002ccf6962e5adeb9d61c8ab112abe"}]
