@@ -1,0 +1,1 @@
+[{"commit":{"message":"8319876: Reduce memory consumption of VM_ThreadDump::doit"},"files":[{"filename":"src\/hotspot\/share\/runtime\/vmOperations.cpp"},{"filename":"src\/hotspot\/share\/services\/threadService.cpp"}],"sha":"c16384386625f0b40bbe3a57572bdd87c59abebd"}]
