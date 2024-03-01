@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify log_info and log_debug parameters\n\nThis change endeavors to mitigate a problem with googletest and overflow\nof LogSelectionList::MaxSelections"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"}],"sha":"c2f95567abc70add6230d17dac4cab69f096aa0b"}]
