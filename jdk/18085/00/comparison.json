@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -179,1 +179,1 @@\n-    private static final long serverTimeout = 2000;\n+    private static final long serverTimeout = 3000;\n","filename":"test\/jdk\/javax\/management\/remote\/mandatory\/notif\/NotifReconnectDeadlockTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
