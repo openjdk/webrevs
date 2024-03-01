@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n- * by some thread without traversing any reference objects.  A\n+ * by some thread without traversing any {@link Reference} objects.  A\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ref\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
