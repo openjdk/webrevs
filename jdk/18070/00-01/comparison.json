@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,0 @@\n-  product(bool, UseZcb, false, EXPERIMENTAL, \"Use Zcb instructions\")             \\\n@@ -111,0 +110,1 @@\n+  product(bool, UseZcb, false, EXPERIMENTAL, \"Use Zcb instructions\")             \\\n","filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
