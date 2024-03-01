@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -412,0 +412,1 @@\n+    MACOS_AARCH64_ONLY(ThreadWXEnable __wx(WXWrite, thread));        \\\n","filename":"src\/hotspot\/share\/runtime\/interfaceSupport.inline.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
