@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -747,1 +747,0 @@\n-  DEBUG_ONLY(const size_t     _initial_words_remaining;) \/\/ Useful in debugger.\n@@ -759,3 +758,0 @@\n-#ifdef  ASSERT\n-  , _initial_words_remaining(words)\n-#endif\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
