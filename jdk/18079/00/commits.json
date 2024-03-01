@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327105: compiler.compilercontrol.share.scenario.Executor should listen on loopback address only"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/share\/actions\/BaseAction.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/share\/scenario\/Executor.java"}],"sha":"301631d507d48431a34685081483c7e717c27df1"}]
