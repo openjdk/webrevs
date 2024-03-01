@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n-#include \"jvmti_common.h\"\n+#include \"jvmti_common.hpp\"\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/ObjectMonitorUsage\/libObjectMonitorUsage.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
