@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,0 +54,1 @@\n+import jdk.test.lib.util.CoreUtils;\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/ClhsdbCDSCore.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
