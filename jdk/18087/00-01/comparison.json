@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,0 +54,2 @@\n+     * If the value returned is less than {@link #getStartBCI}, this object denotes a local\n+     * variable that is never live.\n","filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/meta\/Local.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
