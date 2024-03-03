@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-             _sleep_time.milliseconds());\n+             _sleep_time.microseconds());\n","filename":"src\/hotspot\/share\/utilities\/spinYield.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
