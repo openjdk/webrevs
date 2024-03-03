@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8290496: riscv: Fix build warnings-as-errors with GCC 11"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vtableStubs_riscv.cpp"}],"sha":"461fec883c62392c0744c28520c114bc7febf2ec"}]
