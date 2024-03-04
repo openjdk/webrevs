@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not attempt to leave eventloop after leaving another eventloop"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/EventLoop.java"}],"sha":"0bcda3a236232c4a47d996ae8eb3e5704f7d6ff2"}]
