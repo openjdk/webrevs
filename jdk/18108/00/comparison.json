@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -392,1 +392,1 @@\n-    \/\/ Keep this code in sync with new_deferred_store_barrier() in runtime.cpp.\n+    \/\/ Keep this code in sync with CardTableBarrierSet::on_slowpath_allocation_exit.\n","filename":"src\/hotspot\/share\/gc\/g1\/c2\/g1BarrierSetC2.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
