@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5495,1 +5495,1 @@\n-                       if (!supertypeSym.isPermittedSubclass(c.type.tsym)) {\n+                        if (!supertypeSym.isPermittedSubclass(c.type.tsym)) {\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
