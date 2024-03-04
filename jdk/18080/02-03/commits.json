@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove useless declaration, clone_nodes -> clone_data_nodes, add assertion to prevent double-usage of clone()"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"}],"sha":"14b46ba6f3e2db4acbddb979f0f8d176b476b553"}]
