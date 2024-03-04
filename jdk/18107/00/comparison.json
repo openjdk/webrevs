@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -574,1 +574,1 @@\n-    public static String readUTF(DataInput in) throws IOException {\n+    public static final String readUTF(DataInput in) throws IOException {\n","filename":"src\/java.base\/share\/classes\/java\/io\/DataInputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
