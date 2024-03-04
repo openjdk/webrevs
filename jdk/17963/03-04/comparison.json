@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -604,2 +604,0 @@\n-  virtual ~RedirtyLoggedCardsTask() = default;\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1YoungGCPostEvacuateTasks.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
