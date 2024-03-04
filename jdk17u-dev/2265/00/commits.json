@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 9f0e7da64e21237322e55ca4f0e3639fa5d1c4ed"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestRemixAddressExpressionsWithIrreducibleLoop.java"}],"sha":"8f4b9d088fe3ffa12a0fddad88295328a652c023"}]
