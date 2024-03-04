@@ -1,0 +1,1 @@
+[{"commit":{"message":"Explicitly remove old global ref value from menu->jCallback.\nThis avoids the possibility of that value (which can be reused\nfor other refs) to be deleted twice."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassMenu.m"}],"sha":"21c70006de165d9faaea70a70047201e77afddbf"}]
