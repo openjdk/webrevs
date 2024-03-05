@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -317,1 +317,1 @@\n-    ssize_t set_bits_0[] = { };\n+    ssize_t set_bits_0[1] = { 0 };\n","filename":"test\/hotspot\/gtest\/gc\/shenandoah\/test_shenandoahSimpleBitMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
