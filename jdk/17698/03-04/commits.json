@@ -1,0 +1,1 @@
+[{"commit":{"message":"correct uimm assert in vnsra_wi; use vnsra_wi instead of vnsra_wx; add register asserts"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"370892edcc8ad1f207057f0e9646d9439fd1e726"}]
