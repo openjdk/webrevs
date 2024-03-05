@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327287\n\nHi all,\n\n  please review this removal of some CMS specific verification debug option.\n\nTesting: local compilation, grepping through sources\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"f1864355af95227d124dfd21aecbf2107b3b364c"}]
