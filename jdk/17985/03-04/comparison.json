@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,0 +101,1 @@\n+        robot.waitForIdle();\n","filename":"test\/jdk\/java\/awt\/Frame\/Iconify\/IconifiedToFront.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
