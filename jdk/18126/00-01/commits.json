@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle fakePersonal on Windows 10\n\nThe desktop folder on Windows 10 does not include\nthe Personal (Documents) folder."},"files":[{"filename":"test\/jdk\/javax\/swing\/JFileChooser\/FileSystemView\/Win32FolderSort.java"}],"sha":"7bccc847fe9e8c5e640d8fa9c93ce32563a0ccfa"}]
