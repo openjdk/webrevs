@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: added new internal function JvmtiEnvBase::get_thread_or_vthread_state"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.hpp"}],"sha":"9b69af5043316014cac3a7988125d27a0034bd6b"}]
