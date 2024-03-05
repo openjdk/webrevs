@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -408,1 +408,0 @@\n-  inline size_t     block(const BlockData* block_ptr) const;\n@@ -1043,3 +1042,0 @@\n-\n-  PSParallelCompact();\n-\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
