@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -322,1 +322,1 @@\n-    bm_small.set_bit(63);\n+\/\/    bm_small.set_bit(63);  confirm that this test actually runs\n","filename":"test\/hotspot\/gtest\/gc\/shenandoah\/test_shenandoahSimpleBitMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
