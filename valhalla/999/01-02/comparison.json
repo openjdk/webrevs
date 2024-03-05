@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5239,0 +5239,1 @@\n+  lea(inline_klass, Address(inline_klass, Array<InlineKlass*>::base_offset_in_bytes()));\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
