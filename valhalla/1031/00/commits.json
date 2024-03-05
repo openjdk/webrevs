@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327280: [lworld] aarch64 compilation fails without support for JDK-8327150"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_CodeStubs_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/c1_Runtime1_aarch64.cpp"}],"sha":"d4469eedc10ba8d3e1a4463a9012ec2d0d0c7c3e"}]
