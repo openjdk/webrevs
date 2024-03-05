@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327152: NMT: use BitMap for committed memory regions in summary mode"},"files":[{"filename":"src\/hotspot\/share\/nmt\/virtualMemoryTracker.cpp"},{"filename":"src\/hotspot\/share\/nmt\/virtualMemoryTracker.hpp"},{"filename":"test\/hotspot\/gtest\/nmt\/test_nmt_reserved_region.cpp"}],"sha":"d9ba5749dd7ee53e5167b823ce52b0a2248d78a8"}]
