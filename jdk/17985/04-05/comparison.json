@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-    private static final int PAUSE_MS = 1500;\n+    private static final int PAUSE_MS = 500;\n","filename":"test\/jdk\/java\/awt\/Frame\/Iconify\/IconifiedToFront.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
