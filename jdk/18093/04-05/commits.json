@@ -1,0 +1,1 @@
+[{"commit":{"message":"reordered JavaThread::is_interrupted code to use lock when needed only"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"}],"sha":"2a483b6f72dca3bb1b5f973a1a927e3f5c9d8af5"}]
