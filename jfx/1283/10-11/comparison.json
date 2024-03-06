@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,1 @@\n+import static org.junit.Assume.assumeTrue;\n@@ -216,0 +217,1 @@\n+        assumeTrue(\"SystemMenu only supported on MacOS\", gsmh.isSupported());\n","filename":"tests\/system\/src\/test\/java\/test\/com\/sun\/javafx\/tk\/quantum\/SystemMenuBarTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
