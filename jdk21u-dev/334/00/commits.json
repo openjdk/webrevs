@@ -1,0 +1,1 @@
+[{"commit":{"message":"8324174: assert(m->is_entered(current)) failed: invariant"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestNestedRelockAtDeopt.java"}],"sha":"4d62be3d6759b4ad04f6386e39dceabbc12ff051"}]
