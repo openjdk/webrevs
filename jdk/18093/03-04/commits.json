@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed trailing spaces in javaClasses.cpp and libInterruptRawMonitor.cpp"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/InterruptRawMonitor\/libInterruptRawMonitor.cpp"}],"sha":"b99fad54acec71ecff81b8837d4318d77a6abf4b"}]
