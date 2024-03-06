@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-            } catch (Exception e) {\n+            } catch (UnsupportedOperationException e) {\n","filename":"test\/jdk\/javax\/management\/remote\/mandatory\/RemovedSubjectDelegation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
