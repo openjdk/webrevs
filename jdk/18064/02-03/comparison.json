@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,1 +160,0 @@\n-  static_assert(sizeof(nullptr) == sizeof(char*), \"NULL must be same size as pointer\");\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
