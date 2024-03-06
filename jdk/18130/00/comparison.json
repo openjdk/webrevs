@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,2 @@\n-    _iv        (nullptr) {}\n+    _iv        (nullptr),\n+    _pre_loop_end (nullptr) {}\n","filename":"src\/hotspot\/share\/opto\/vectorization.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327201: C2: Uninitialized VLoop::_pre_loop_end after JDK-8324890"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorization.hpp"}],"sha":"e7609c310ea3121fafdf87a46cd994efaaa79e0c"}]
