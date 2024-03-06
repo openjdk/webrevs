@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -370,1 +370,0 @@\n-    HeapWord*            _highest_ref;\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
