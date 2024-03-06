@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6,0 +6,3 @@\n+* jtreg, when communicating with the AgentServer in agentvm mode, will now bind to loopback address.\n+  [CODETOOLS-7903686](https:\/\/bugs.openjdk.org\/browse\/CODETOOLS-7903686)\n+\n","filename":"CHANGELOG.md","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
