@@ -1,0 +1,1 @@
+[{"commit":{"message":"Addresses a capture of AccessControlContext when\ncreating threads in the common ForkJoinPool preventing\nclass unloading. This fix avoids that when no SecurityManager\nis configured."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"}],"sha":"611c9e28abd6814bbef7c106639ec57fd5245e10"}]
