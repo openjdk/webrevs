@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1224,1 +1224,0 @@\n-        _g1h->free_humongous_region(hr, _local_cleanup_list);\n@@ -1227,0 +1226,1 @@\n+        _g1h->free_humongous_region(hr, _local_cleanup_list);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
