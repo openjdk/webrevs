@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1913,1 +1913,1 @@\n-  \/\/ Set `new_ctrl` as ctrl for the cloned nodes.\n+  \/\/ Set 'new_ctrl' as ctrl for the cloned nodes.\n","filename":"src\/hotspot\/share\/opto\/loopnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
