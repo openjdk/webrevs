@@ -1,0 +1,1 @@
+[{"commit":{"message":"optimize holding the interruptLock in JavaThread::is_interrupted"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"}],"sha":"db3149dcc78292689c6cffb566846cce0a5c9b9a"}]
