@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327426: RISC-V: Move alignment shim into initialize_header() in C1_MacroAssembler::allocate_array"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c1_MacroAssembler_riscv.cpp"}],"sha":"12c70ae85a9da2d75cf2a61c444689e773233cf5"}]
