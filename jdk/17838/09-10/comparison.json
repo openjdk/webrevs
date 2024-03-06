@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,3 @@\n-            systemTray.remove(trayIcon);\n+            if (systemTray != null) {\n+                systemTray.remove(trayIcon);\n+            }\n","filename":"test\/jdk\/java\/awt\/TrayIcon\/DisposeInActionEventTest\/DisposeInActionEventTest.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
