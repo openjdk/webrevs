@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -901,1 +901,1 @@\n-  const idx_t end_bit = _mark_bitmap.align_range_end(_mark_bitmap.addr_to_bit(top));\n+  const idx_t end_bit = _mark_bitmap.addr_to_bit(top);\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
