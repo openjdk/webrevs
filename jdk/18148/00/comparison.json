@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -222,1 +222,0 @@\n-  Address in_progress(thread, in_bytes(ShenandoahThreadLocalData::satb_mark_queue_active_offset()));\n","filename":"src\/hotspot\/cpu\/x86\/gc\/shenandoah\/shenandoahBarrierSetAssembler_x86.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}

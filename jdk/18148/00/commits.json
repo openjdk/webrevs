@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327522: Shenandoah: Remove unused references to satb_mark_queue_active_offset"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/gc\/shenandoah\/shenandoahBarrierSetAssembler_x86.cpp"}],"sha":"48d23d5fcbf4f160a0ffa6d1c51d63ff3011e05f"}]
