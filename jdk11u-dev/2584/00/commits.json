@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 16744b34498e7aac59caef8c9b1a3d4d15f8c22e"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLContextImpl.java"},{"filename":"src\/java.base\/share\/conf\/security\/java.security"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLContextImpl\/SSLContextDefault.java"}],"sha":"f00ba25f05c0ba97122f2ab4320fe3f7249ddf52"}]
