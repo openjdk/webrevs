@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,2 +37,0 @@\n-import org.junit.jupiter.params.ParameterizedTest;\n-import org.junit.jupiter.params.provider.ArgumentsProvider;\n","filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/transform\/TransformValidCacheAfterInverseTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
