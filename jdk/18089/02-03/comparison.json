@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3878,1 +3878,1 @@\n-    __ pxor($dst$$XMMRegister, $dst$$XMMRegister);\n+      __ pxor($dst$$XMMRegister, $dst$$XMMRegister);\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
