@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix gtest for ShenandoahSimpleBitMap and fix ShennadoahSimpleBitMap bugs"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"test\/hotspot\/gtest\/gc\/shenandoah\/test_shenandoahSimpleBitMap.cpp"}],"sha":"6d71c3243229d31a5f5023966235252c0df595ef"}]
