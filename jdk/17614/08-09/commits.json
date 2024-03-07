@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert touching awt_Win32GraphicsDevice.cpp altogether and remove unnecessary private method for hasDisplays()"},"files":[{"filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/PlatformGraphicsInfo.java"},{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Win32GraphicsDevice.cpp"}],"sha":"2f378c88a7425f3c2d8f2d17bef0cec8d0e0637f"}]
