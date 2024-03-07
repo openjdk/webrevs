@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore original SunEC behavior"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ec\/ECKeyPairGenerator.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/util\/ECParameters.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/util\/ECUtil.java"}],"sha":"09ac283d4a74fc2148603d0761890d9c2041562c"}]
