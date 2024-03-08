@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1268,1 +1268,1 @@\n-        ArrayList<Name> openTags = new ArrayList<>();\n+        List<Name> openTags = new ArrayList<>();\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/HtmlDocletWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
