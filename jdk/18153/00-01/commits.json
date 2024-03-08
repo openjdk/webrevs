@@ -1,0 +1,1 @@
+[{"commit":{"message":"Get the hostname only if the user explicitly requests it"},"files":[{"filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp"},{"filename":"src\/hotspot\/share\/logging\/logFileOutput.cpp"},{"filename":"src\/hotspot\/share\/logging\/logFileOutput.hpp"}],"sha":"57a03469e94f9ce6a6047a5b3e04ccf9d2b97ff2"}]
