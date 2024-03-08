@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -757,1 +757,1 @@\n-        if (classPath != null) {\n+        if (classPath != null && !vmArgs.contains(\"-cp\") && !vmArgs.contains(\"-classpath\")) {\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/jdi\/Binder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
