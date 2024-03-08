@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3237,1 +3237,1 @@\n-instruct vcvtStoB(vReg dst, vReg src) %{\n+instruct vcvtStoX(vReg dst, vReg src) %{\n@@ -3245,1 +3245,1 @@\n-  format %{ \"vcvtStoB $dst, $src\" %}\n+  format %{ \"vcvtStoX $dst, $src\" %}\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
