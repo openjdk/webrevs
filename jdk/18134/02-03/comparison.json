@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1331,1 +1331,0 @@\n-#ifdef ASSERT\n@@ -1336,2 +1335,1 @@\n-#endif\n-      FREE_C_HEAP_ARRAY(BufferNode::Stack, _dirty_card_buffers);\n+      FREE_C_HEAP_ARRAY(Stack, _dirty_card_buffers);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
