@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2664,1 +2664,1 @@\n-  if (num_dump_threads == 1) {\n+  if (!dumper.is_parallel_dump()) {\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
