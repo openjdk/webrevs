@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -542,2 +542,2 @@\n-    Node* current() const { \n-      assert(!done(), \"not done yet\"); \n+    Node* current() const {\n+      assert(!done(), \"not done yet\");\n","filename":"src\/hotspot\/share\/opto\/vectorization.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
