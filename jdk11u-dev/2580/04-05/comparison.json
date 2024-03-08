@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -152,1 +152,1 @@\n-        if(crashOutputString.equals(\"\")) {\n+        if(crashOutputString == null || crashOutputString.equals(\"\")) {\n","filename":"test\/lib\/jdk\/test\/lib\/util\/CoreUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
