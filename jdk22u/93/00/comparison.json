@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,0 +50,1 @@\n+ *     -XX:CompileOnly=jdk.jfr.event.compiler.TestCompilerCompile::dummyMethod,jdk.jfr.event.compiler.TestCompilerCompile::doTest\n","filename":"test\/jdk\/jdk\/jfr\/event\/compiler\/TestCompilerCompile.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
