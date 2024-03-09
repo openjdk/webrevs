@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,0 +58,2 @@\n+    \/\/ use Locale.US, since when the date comment was written by Properties.store(...),\n+    \/\/ it internally calls the Date.toString() which uses Locale.US for time zone names\n","filename":"test\/jdk\/java\/util\/Properties\/PropertiesStoreTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
