@@ -1,0 +1,1 @@
+[{"commit":{"message":"8326204: yield statements doesn't allow cast expressions with more than 1 type arguments"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/T8326204.java"}],"sha":"25f6ffec007803a6cf42dbcacbff979f07ad3d54"}]
