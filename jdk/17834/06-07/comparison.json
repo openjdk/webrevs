@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,0 +66,1 @@\n+                        .withVersion(ClassFile.JAVA_11_VERSION, 0)\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/mlvm\/meth\/func\/regression\/b7127687\/Test.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
