@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not throw exception on close error"},"files":[{"filename":"src\/jdk.attach\/linux\/native\/libattach\/VirtualMachineImpl.c"},{"filename":"src\/jdk.attach\/macosx\/native\/libattach\/VirtualMachineImpl.c"}],"sha":"7ed2cc074c6d8d5fff7ad087fb90c46f5740d74d"}]
