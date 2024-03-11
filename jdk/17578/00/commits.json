@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add functional-style setAccessible()\n\nThe feature allows to extract a private field value in a single expression, like so:\n\nobject.getClass().getDeclaredField().setAccessible().get(object)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/Field.java"}],"sha":"78d3f525d289a5a2d38186595401465afe234423"}]
