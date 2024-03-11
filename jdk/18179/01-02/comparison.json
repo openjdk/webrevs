@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,0 @@\n-import java.util.Locale;\n@@ -41,1 +40,0 @@\n-import javax.lang.model.type.PrimitiveType;\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/HtmlLinkFactory.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
