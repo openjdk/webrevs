@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-            If menory usage is increasing, click Fail else click Pass .  \"\"\";\n+            If memory usage is increasing, click Fail else click Pass .  \"\"\";\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/6798062\/bug6798062.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
