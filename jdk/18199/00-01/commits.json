@@ -1,0 +1,1 @@
+[{"commit":{"message":"no longer configurable with java.security.debug"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/util\/Debug.java"},{"filename":"test\/jdk\/sun\/security\/krb5\/auto\/LoginModuleDebug.java"}],"sha":"46dcb6859003627d615580fd1459b3e289e2d4c8"}]
