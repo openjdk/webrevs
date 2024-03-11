@@ -1,0 +1,1 @@
+[{"commit":{"message":"Compute the list of caller sensitive methods only once yielding a slight performance improvement."},"files":[{"filename":"test\/jdk\/java\/lang\/invoke\/callerSensitive\/CallerSensitiveAccess.java"}],"sha":"0348ab38ad63408bf90203de0538d198090fe19c"}]
