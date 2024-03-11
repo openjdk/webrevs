@@ -1,0 +1,1 @@
+[{"commit":{"message":"8321299: runtime\/logging\/ClassLoadUnloadTest.java doesn't reliably trigger class unloading"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/ClassLoadUnloadTest.java"},{"filename":"test\/lib\/jdk\/test\/lib\/classloader\/ClassUnloadCommon.java"}],"sha":"efa6b5e2645abef70194e0e36278fad73e050938"}]
