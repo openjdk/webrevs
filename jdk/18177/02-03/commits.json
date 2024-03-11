@@ -1,0 +1,1 @@
+[{"commit":{"message":"1. bug fix for CharBuffer catch IndexOutOfBoundsException\n2. reorder if statement\n3. Improve the performance of !isCompact branch"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java"}],"sha":"bb45da4da1c0fcd79db85dc9c1ce17b6b3dfd8a3"}]
