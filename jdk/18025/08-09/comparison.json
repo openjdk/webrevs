@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -959,1 +959,1 @@\n-     * @param delegationSubject must be {@code null}.\n+     * @param delegationSubjects must be {@code null}.\n","filename":"src\/java.management.rmi\/share\/classes\/javax\/management\/remote\/rmi\/RMIConnection.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
