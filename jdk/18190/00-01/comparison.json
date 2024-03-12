@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2614,1 +2614,2 @@\n-\/\/ helper function to create the heap dump path name; free the returned pointer\n+\/\/ helper function to create the heap dump path name\n+\/\/ the caller must free the returned pointer\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
