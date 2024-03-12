@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327999: Remove copy of unused registers for cpu features check in x86_64 AVX2 Poly1305 implementation"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"cebfb26ccaa6a0b1815e5c919ed795b23ef713ae"}]

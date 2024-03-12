@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -312,3 +312,0 @@\n-    __ movl(Address(rsi, 4), rbx);\n-    __ movl(Address(rsi, 8), rcx);\n-    __ movl(Address(rsi, 12), rdx);\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
