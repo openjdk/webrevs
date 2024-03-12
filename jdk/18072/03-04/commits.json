@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327095: If mkfifo fails with \"Operation not supported\", continue with a warning instead of failing"},"files":[{"filename":"test\/jdk\/java\/nio\/channels\/AsyncCloseAndInterrupt.java"}],"sha":"0ae84063861e6911f4bc6370d90ece3c1e363a93"}]
