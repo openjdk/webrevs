@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -940,1 +940,2 @@\n-    $ECHO \"$CC_VERSION_OUTPUT\" | $GREP \"IBM Open XL C\/C++ for AIX\" > \/dev\/null\n+\n+    $ECHO \"$CC_VERSION_STRING\" | $GREP \"IBM Open XL C\/C++ for AIX\" > \/dev\/null\n","filename":"make\/autoconf\/toolchain.m4","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace CC_VERSION_OUTPUT with CC_VERSION_STRING"},"files":[{"filename":"make\/autoconf\/toolchain.m4"}],"sha":"577715b38a76ecf7da9340bb3e594ee7ee5e58d2"},{"commit":{"message":"We need CC_VERSION_OUTPUT before we can check it"},"files":[{"filename":"make\/autoconf\/toolchain.m4"}],"sha":"335b30a4c2f5b4afed2062cbdf5a68f534924d8f"}]
