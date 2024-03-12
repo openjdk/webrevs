@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -607,0 +607,2 @@\n+     * Sign is precalculated outside and not allowed in the val. The {@code val}\n+     * array is assumed to be unchanged for the duration of the constructor\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
