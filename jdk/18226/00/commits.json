@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify BigInteger.implMultiplyToLen intrinsic"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java"}],"sha":"37232a5f2dbe081a6b41b2252fa476175c7e8d24"}]
