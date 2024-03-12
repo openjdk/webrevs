@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -346,1 +346,1 @@\n-     *         or if the uristring is invalid.\n+     *         or if the provided {@code uristring} is not a valid URI.\n","filename":"src\/java.net.http\/share\/classes\/java\/net\/http\/HttpRequest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
