@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -346,0 +346,3 @@\n+        if (Instant.MIN.equals(instant)) {\n+            return \"N\/A\";\n+        }\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/util\/ValueFormatter.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
