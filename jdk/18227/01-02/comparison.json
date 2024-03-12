@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,2 +148,2 @@\n-     * Returns the body if the given predicate is satisfied. \n-     * \n+     * Returns the body if the given predicate is satisfied.\n+     *\n","filename":"src\/java.net.http\/share\/classes\/java\/net\/http\/HttpResponse.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
