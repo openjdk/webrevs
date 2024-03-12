@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -284,1 +284,1 @@\n-If the Java runtime version is \\f[V]N\\f[R], then \\f[V]`--release N`\\f[R]\n+If the Java runtime version is \\f[V]N\\f[R], then \\f[V]--release N\\f[R]\n","filename":"src\/java.base\/share\/man\/java.1","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
