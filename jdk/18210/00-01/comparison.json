@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n- * @run main Test4319113\n+ * @run main\/manual Test4319113\n@@ -56,1 +56,0 @@\n-                .testTimeOut(10)\n@@ -59,0 +58,1 @@\n+                .testTimeOut(10)\n","filename":"test\/jdk\/javax\/swing\/JColorChooser\/Test4319113.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
