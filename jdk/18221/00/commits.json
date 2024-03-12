@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327864: Support segmented heap dump for HotSpotDiagnosticMXBean"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"},{"filename":"src\/hotspot\/share\/services\/management.cpp"}],"sha":"21279b1f652c54693e317d55e7da6478b959fdfb"}]
