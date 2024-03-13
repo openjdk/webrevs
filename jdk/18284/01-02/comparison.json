@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n- * @run testng\/othervm -Xmx64m -XX:+UseZGC ObjectStreamClassCaching\n+ * @run testng\/othervm -Xmx64m -XX:+UseZGC -XX:+ZGenerational ObjectStreamClassCaching\n","filename":"test\/jdk\/java\/io\/ObjectStreamClass\/ObjectStreamClassCaching.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
