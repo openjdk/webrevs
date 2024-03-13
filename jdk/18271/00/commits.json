@@ -1,0 +1,1 @@
+[{"commit":{"message":"migrate loadClassData to use ClassFile API instead of ASM"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/finalStatic\/FinalStatic.java"}],"sha":"c00417b22f8bcb0bdaf11f6856b3ff8c2a294207"}]
