@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-    static final int WIDTH = 500;\n+    static final int WIDTH = 600;\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/RTLTextFlowCharacterIndexTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
