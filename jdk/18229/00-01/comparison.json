@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-        JFrame frame = new JFrame(\"Matte border test\");\n+        JFrame frame = new JFrame(\"Matte Border Test\");\n","filename":"test\/jdk\/javax\/swing\/border\/Test6910490.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
