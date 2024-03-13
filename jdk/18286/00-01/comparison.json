@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @library \/test\/jdk\/java\/awt\/regtesthelpers \/test\/lib\n+ * @library ..\/..\/..\/java\/awt\/regtesthelpers\n@@ -37,0 +37,1 @@\n+\n","filename":"test\/jdk\/javax\/swing\/JColorChooser\/Test4759306.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
