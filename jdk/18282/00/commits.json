@@ -1,0 +1,1 @@
+[{"commit":{"message":"8319889: Vector API tests trigger VM crashes with -XX:+StressIncrementalInlining"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"43c1e39910a5f77bbec94d045cfce654c9b4d07f"}]
