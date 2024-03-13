@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,1 @@\n-package compiler.c2;\n+package compiler.c2.irTests;\n@@ -39,1 +39,1 @@\n- * @run driver compiler.c2.TestBoolNodeGvn\n+ * @run driver compiler.c2.irTests.TestBoolNodeGvn\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestBoolNodeGvn.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
