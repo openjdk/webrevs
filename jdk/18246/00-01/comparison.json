@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,0 @@\n-    private static JTextArea textArea;\n@@ -95,1 +94,1 @@\n-        textArea = new JTextArea();\n+        JTextArea textArea = new JTextArea();\n","filename":"test\/jdk\/java\/awt\/TrayIcon\/DisposeInActionEventTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
