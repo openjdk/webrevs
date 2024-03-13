@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-                .testUI(obj.init())\n+                .testUI(obj.initializeTest())\n@@ -61,1 +61,1 @@\n-    public JFrame init() {\n+    public JFrame initializeTest() {\n","filename":"test\/jdk\/javax\/swing\/border\/Test6910490.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
