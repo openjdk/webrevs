@@ -1,0 +1,1 @@
+[{"commit":{"message":"8326979: (jdeps) improve the error message for FindException caused by InvalidModuleDescriptorException"},"files":[{"filename":"src\/jdk.jdeps\/share\/classes\/com\/sun\/tools\/jdeps\/JdepsTask.java"},{"filename":"test\/langtools\/tools\/jdeps\/modules\/InvalidModuleDescriptor.java"}],"sha":"9bf99ff46fab9c6c5162935b7b3b904693e0ad36"}]
