@@ -1,0 +1,1 @@
+[{"commit":{"message":"whitespaces"},"files":[{"filename":"src\/hotspot\/share\/opto\/ifnode.cpp"}],"sha":"32a52ecddfbe86cd80d215b4997eda100e265525"},{"commit":{"message":"fix & test"},"files":[{"filename":"src\/hotspot\/share\/opto\/ifnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestFoldIfRemovesTopNode.java"}],"sha":"15ef0253ea94fe3567d6995050d98685622f946a"}]
