@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,1 +131,1 @@\n-        return Paths.exist(\"\/usr\/bin\/coreutils\");\n+        return Files.exists(Paths.get(\"\/usr\/bin\/coreutils\"));\n","filename":"test\/lib\/jdk\/test\/lib\/Platform.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
