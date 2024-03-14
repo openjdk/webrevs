@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,2 +24,0 @@\n-import javax.swing.JScrollPane;\n-import javax.swing.JTextArea;\n@@ -30,0 +28,2 @@\n+import javax.swing.JScrollPane;\n+import javax.swing.JTextArea;\n","filename":"test\/jdk\/java\/awt\/event\/MouseEvent\/AWTPanelSmoothWheel.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
