@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,2 +59,1 @@\n- * @requires vm.bits == \"64\"\n- * @requires os.maxMemory > 2G\n+ * @requires vm.bits == \"64\" & os.maxMemory > 2G\n","filename":"test\/jdk\/java\/util\/HashMap\/WhiteBoxResizeTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
