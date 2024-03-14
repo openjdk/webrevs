@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -596,1 +596,1 @@\n-# jlink related.\n+# Configure option for runtime image based linkable jimage.\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
