@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disabling tests on AIX due to VMA accounting and exchanging some test logic set up to trigger more subtle failures"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestMemoryAllocationLogging.java"}],"sha":"329be4e3c22497ccb9295cbedf284c50b1bfed54"}]
