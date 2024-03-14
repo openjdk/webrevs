@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,1 @@\n-                e.printStackTrace();\n+                throw new RuntimeException(e);\n","filename":"test\/jdk\/javax\/swing\/JDesktopPane\/bug4773378.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
