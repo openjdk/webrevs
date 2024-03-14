@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,1 @@\n-            this.fieldDesc = fieldDesc;\n+            this.fieldDesc = fieldRef;\n","filename":"cr-examples\/spirv\/src\/main\/java\/intel\/code\/spirv\/SpirvOps.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
