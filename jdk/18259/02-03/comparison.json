@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -100,1 +100,1 @@\n-                throw new RuntimeException(\"Test failed.\");\n+                throw new RuntimeException(\"Test failed.\", blex);\n","filename":"test\/jdk\/javax\/swing\/JEditorPane\/bug4325606.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
