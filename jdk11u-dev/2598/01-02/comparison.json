@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,0 +68,1 @@\n+import jtreg.SkippedException;\n","filename":"test\/jdk\/sun\/security\/pkcs11\/PKCS11Test.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
