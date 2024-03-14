@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,0 +96,1 @@\n+            \/\/ Ensure retransformation does not fail with ClassFormatError.\n","filename":"test\/jdk\/java\/lang\/instrument\/RetransformRecordAnnotation.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
