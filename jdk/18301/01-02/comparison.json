@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-    HSDIS_TOOLCHAIN_DEFAULT_CFLAGS := false, \\\n+    HSDIS_TOOLCHAIN_DEFAULT_CFLAGS := false\n","filename":"make\/Hsdis.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
