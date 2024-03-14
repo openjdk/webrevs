@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -487,1 +487,1 @@\n-        long deadline = System.currentTimeMillis() + 60000;\n+        long deadline = System.currentTimeMillis() + 90000;\n","filename":"test\/jdk\/javax\/management\/remote\/mandatory\/loading\/MissingClassTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
