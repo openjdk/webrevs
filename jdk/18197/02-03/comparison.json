@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,0 @@\n-import java.awt.Font;\n@@ -26,0 +25,1 @@\n+import java.awt.Font;\n","filename":"test\/jdk\/javax\/swing\/border\/Test4243289.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
