@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix extra space"},"files":[{"filename":"make\/test\/JtregNativeJdk.gmk"}],"sha":"d7efdeafa0ee3d906078076fc1412f6ef486113a"},{"commit":{"message":"Restore $(LIBCXX) in tests since they don't use SetupJdkLibrary."},"files":[{"filename":"make\/test\/JtregNativeJdk.gmk"}],"sha":"87f6e9ba269f43b23e5dc48cfad08c1dfa197299"}]
