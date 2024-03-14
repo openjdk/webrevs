@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,0 +45,1 @@\n+                When test starts, a panel with a compound titled border is seen.\n@@ -51,1 +52,1 @@\n-                .rows(3)\n+                .rows(4)\n","filename":"test\/jdk\/javax\/swing\/border\/Test4760089.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
