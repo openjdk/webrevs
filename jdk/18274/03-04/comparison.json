@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,2 +56,1 @@\n-public class Tab\n-{\n+public class Tab {\n@@ -120,2 +119,1 @@\n-    static void createAndShowUI()\n-    {\n+    static void createAndShowUI() {\n","filename":"test\/jdk\/javax\/swing\/JTable\/Tab.java","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}
