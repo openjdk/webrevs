@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove redundant byte[] declaration and directly return the result instead"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/ConstantPool\/BadMethodHandles.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/finalStatic\/FinalStatic.java"}],"sha":"3b913b54931984269a441c73d6e6d0783e5042fa"}]
