@@ -1,0 +1,1 @@
+[{"commit":{"message":"Robustify ShenandoahGCSession, and fix a missing use for\ncoalesce_and_fill of old gen."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"6663406aac9e91a1a7b9cd3df62ee2c469b3625a"}]
