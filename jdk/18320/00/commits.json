@@ -1,0 +1,1 @@
+[{"commit":{"message":"8328236: module_entry in CDS map file has stale value"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/CDSMapReader.java"}],"sha":"2fef88687231e6b0bc9b26d8000bbc0001d71c01"}]
