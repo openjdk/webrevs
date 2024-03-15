@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @run main bug6742358\n+ * @run main\/manual bug6742358\n","filename":"test\/jdk\/javax\/swing\/JSlider\/bug6742358.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
