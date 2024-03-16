@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-class Closure { };\n+class Closure : public StackObj { };\n","filename":"src\/hotspot\/share\/memory\/iterator.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
