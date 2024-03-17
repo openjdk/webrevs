@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,2 +80,1 @@\n-  \/\/ each card takes 1 byte\n-  size_t num_bytes = num_cards;\n+  size_t num_bytes = num_cards * sizeof(CardValue);\n","filename":"src\/hotspot\/share\/gc\/shared\/cardTable.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
