@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -438,2 +438,0 @@\n-     *\n-     * @since 10\n@@ -476,0 +474,2 @@\n+     *\n+     * @since 10\n@@ -582,2 +582,0 @@\n-     *\n-     * @since 10\n","filename":"src\/java.base\/share\/classes\/java\/nio\/channels\/Channels.java","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}
