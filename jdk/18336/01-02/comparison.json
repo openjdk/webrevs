@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-        if (((double)correctColoredPixels \/ totalPixels * 100) <= tolerance) {\n+        if (((double) correctColoredPixels \/ totalPixels * 100) <= tolerance) {\n","filename":"test\/jdk\/javax\/swing\/border\/Test4129681.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
