@@ -1,0 +1,1 @@
+[{"commit":{"message":"8328329: [lworld] Optimize field type checking sequence for x86 target."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"dcb3adf15febdace5909778794361bf058430309"}]
