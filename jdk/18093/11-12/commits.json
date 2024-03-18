@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: rename is_interrupted() to get_and_clear_interrupted(); update comment"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiRawMonitor.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"}],"sha":"f45f355c654374ed4dba766d95896b437468a087"}]
