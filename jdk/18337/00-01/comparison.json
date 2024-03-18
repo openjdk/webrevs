@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-  product(uintx, MaxExpectedDataSegmentSize, 8*G, DIAGNOSTIC,                       \\\n+  product(uintx, MaxExpectedDataSegmentSize, 8*G,                                   \\\n","filename":"src\/hotspot\/os\/aix\/globals_aix.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
