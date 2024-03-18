@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,1 +117,1 @@\n-bash build\/make.sh -- $(pwd)\/build\/test\/ControlTest.ok\n+bash build\/make.sh $(pwd)\/build\/test\/ControlTest.ok\n","filename":"doc\/building.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
