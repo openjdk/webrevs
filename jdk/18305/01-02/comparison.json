@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-            int  j = k + 3;\n+            int j = k + 3;\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestFoldIfRemovesTopNode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
