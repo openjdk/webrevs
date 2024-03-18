@@ -1,0 +1,1 @@
+[{"commit":{"message":"8328261: public lookup fails with IllegalAccessException when used while module system is being initialized"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/invoke\/util\/VerifyAccess.java"}],"sha":"059ee62ef842b0ef4386e2d74fa78218883af336"}]
