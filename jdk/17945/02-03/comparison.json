@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-     * If the path name has a member, we place the member name after \n+     * If the path name has a member, we place the member name after\n","filename":"src\/java.base\/aix\/classes\/jdk\/internal\/loader\/ClassLoaderHelper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
