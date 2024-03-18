@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,0 @@\n-import javax.swing.WindowConstants;\n@@ -71,1 +70,0 @@\n-        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);\n","filename":"test\/jdk\/java\/awt\/im\/JTextFieldTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
