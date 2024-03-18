@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5253,0 +5253,2 @@\n+#endif \/\/ COMPILER2\n+\n@@ -5298,2 +5300,0 @@\n-#endif \/\/ COMPILER2\n-\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
