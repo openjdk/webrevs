@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -422,1 +422,1 @@\n-     * @return \"true\" if compiler in use supports RTM and false otherwise.\n+     * @return \"true\" if compiler in use supports RTM and \"false\" otherwise.\n","filename":"test\/jtreg-ext\/requires\/VMProps.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
