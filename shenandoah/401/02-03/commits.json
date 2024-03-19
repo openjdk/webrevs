@@ -1,0 +1,1 @@
+[{"commit":{"message":"Force size to align up\n\nA newly allocated PLAB needs, at minimum, to be as large as the object\nthat is goign to be allocated from within it."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"5de18812caefaeffd3cbf22afcc29c7704278671"}]
