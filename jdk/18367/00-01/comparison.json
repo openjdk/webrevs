@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-            robot.delay(2000);\n+            robot.delay(1000);\n","filename":"test\/jdk\/java\/awt\/Frame\/InitialMaximizedTest\/InitialMaximizedTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
