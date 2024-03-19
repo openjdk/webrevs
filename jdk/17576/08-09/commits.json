@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure Windows version initialization happens exactly once"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.hpp"}],"sha":"515e35340dc7d9b36131b9bb257de348331fcab6"}]
