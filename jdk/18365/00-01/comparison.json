@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-                \"\"\";\n+                \"\"\".replace(\"$clickDirName\", clickDirName);\n","filename":"test\/jdk\/java\/awt\/FileDialog\/FileNameOverrideTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
