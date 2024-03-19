@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2004,1 +2004,1 @@\n-  hs_cl->set_is_virtual(is_virtual); \/\/ needed when suspend is required for non-current target thread\n+  hs_cl->set_is_virtual(is_virtual); \/\/ can be needed in the virtual thread case\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
