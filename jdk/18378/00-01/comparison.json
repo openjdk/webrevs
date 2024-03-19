@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,0 @@\n-  assert(!jt->is_terminated(), \"Poll after termination is a bug\");\n","filename":"src\/hotspot\/share\/runtime\/stackWatermarkSet.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
