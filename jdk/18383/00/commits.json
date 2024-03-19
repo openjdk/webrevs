@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix jshell crash on unknown type in switch yield"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/jdk\/jshell\/ToolSimpleTest.java"}],"sha":"ed7dc8fe756938588c2d4b144a6f951f8383b4b0"}]
