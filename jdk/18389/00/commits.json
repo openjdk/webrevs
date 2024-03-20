@@ -1,0 +1,1 @@
+[{"commit":{"message":"8328556: Do not extract large CKO_SECRET_KEY keys from the NSS Software Token"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/p11_keymgmt.c"}],"sha":"b3c7bfa0a1a1e87b3afff81f41cc2b938cb0ae26"}]
