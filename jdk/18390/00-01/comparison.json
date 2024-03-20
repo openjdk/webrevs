@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-        JFrame frame = new JFrame(\"TEST\");\n+        JFrame frame = new JFrame(\"PaintTest\");\n","filename":"test\/jdk\/javax\/swing\/text\/PaintTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
