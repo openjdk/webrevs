@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n- * @requires !(os.family == \"windows\" & sun.arch.data.model == \"32\")\n+ * @requires vm.bits == \"64\"\n","filename":"test\/jdk\/java\/lang\/String\/StringRepeat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
