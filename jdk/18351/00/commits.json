@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adds differentiation between direct and transitive short circutiting for Gatherers"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/stream\/GathererOp.java"},{"filename":"test\/jdk\/java\/util\/stream\/GathererShortCircuitTest.java"}],"sha":"fe867a15f69a904c6bf9cbefad1477ea1812f358"}]
