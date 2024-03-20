@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -576,1 +576,1 @@\n-        \/\/ use String bounds checking to handle too-long, len == 0,\n+        \/\/ use CharSequence bounds checking to handle too-long, len == 0,\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
