@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+#include \"runtime\/os.inline.hpp\"\n","filename":"src\/hotspot\/share\/nmt\/nmtMemoryFileTracker.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
