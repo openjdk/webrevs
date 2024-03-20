@@ -1,0 +1,1 @@
+[{"commit":{"message":"Apply changes from code review and add IR test for vectorization and reduction"},"files":[{"filename":"src\/hotspot\/share\/opto\/movenode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestIfMinMax.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java"}],"sha":"3882d241162a48e66c7c8b648535d8b435ef2a55"}]
