@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7295,1 +7295,1 @@\n-  match(Set dst (ConvD2F (SqrtD (ConvF2D src))));\n+  match(Set dst (SqrtF src));\n@@ -7318,1 +7318,1 @@\n-  match(Set dst (ConvD2F (SqrtD (ConvF2D src))));\n+  match(Set dst (SqrtF src));\n","filename":"src\/hotspot\/cpu\/s390\/s390.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
