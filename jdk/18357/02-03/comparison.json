@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,0 @@\n-    static final Color colors[] = {Color.WHITE, Color.RED, Color.GREEN, Color.BLUE};\n@@ -72,0 +71,1 @@\n+        Color colors[] = {Color.WHITE, Color.RED, Color.GREEN, Color.BLUE};\n","filename":"test\/jdk\/java\/awt\/Cursor\/MultiResolutionCursorTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
