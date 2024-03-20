@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add ASSERT macro and don't use CardTable::card_shift_in_words."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1BlockOffsetTable.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1BlockOffsetTable.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1BlockOffsetTable.inline.hpp"}],"sha":"1672ea7d5d480c91dd3fb14e6feb60748346e6ff"}]
