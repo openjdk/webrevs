@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: work around problem for vthreads in EscapeBarrier::deoptimize_objects"},"files":[{"filename":"src\/hotspot\/share\/runtime\/escapeBarrier.cpp"}],"sha":"b7380b195795b3f3bb6af32cbfddc0fb7c80911b"}]
