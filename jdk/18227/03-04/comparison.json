@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-        HttpTestContext serverContext = server.addHandler(h,\"\/test\/\");\n+        HttpTestContext serverContext = server.addHandler(h, \"\/test\/\");\n","filename":"test\/jdk\/java\/net\/httpclient\/GETTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
