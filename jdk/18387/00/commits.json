@@ -1,0 +1,1 @@
+[{"commit":{"message":"8293345: SunPKCS11 provider checks on PKCS11 Mechanism are problematic"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/Config.java"},{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/SunPKCS11.java"}],"sha":"f0cc775ebc0dc03d9e7c3d479df5e004b03aded6"}]
