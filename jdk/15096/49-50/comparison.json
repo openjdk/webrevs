@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -505,1 +505,2 @@\n-Java_sun_awt_windows_WPageDialogPeer__1show(JNIEnv *env, jobject peer) {\n+Java_sun_awt_windows_WPageDialogPeer__1show(JNIEnv *env, jobject peer)\n+{\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_PrintJob.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
