@@ -1,0 +1,1 @@
+[{"commit":{"message":"8328580: Remove trivial shared code changes which are leftover from riscv port"},"files":[{"filename":"make\/autoconf\/libraries.m4"},{"filename":"src\/hotspot\/cpu\/ppc\/c1_LIRAssembler_ppc.cpp"},{"filename":"src\/hotspot\/share\/opto\/regmask.hpp"}],"sha":"2ef437156e07da1db40c6cdc93749caa74fc04c1"}]
