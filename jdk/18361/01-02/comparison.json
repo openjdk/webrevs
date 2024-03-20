@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-        System.setProperty(\"sun.awt.disableGtkFileDialogs\",\"true\");\n+        System.setProperty(\"sun.awt.disableGtkFileDialogs\", \"true\");\n","filename":"test\/jdk\/java\/awt\/FileDialog\/FileDialogOpenDirTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
