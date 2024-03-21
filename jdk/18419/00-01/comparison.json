@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,0 +147,1 @@\n+            notifyAtBreakpoint(); \/\/ needed to reset the native state\n@@ -148,0 +149,1 @@\n+\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/PopFrameTest\/PopFrameTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
