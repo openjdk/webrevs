@@ -1,0 +1,1 @@
+[{"commit":{"message":"Detect UEK releases and adjust the detection of MADV_POPULATE_WRITE accordingly"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"},{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"}],"sha":"192855f80c2c0d9b006faa6f577c1d1900a7c1dc"}]
