@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2474,4 +2474,1 @@\n-  if (_target_jt == nullptr) {\n-    _result = JVMTI_ERROR_NONE;\n-    return;\n-  }\n+  assert(_target_jt != nullptr, \"sanity check\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
