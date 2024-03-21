@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -243,1 +243,1 @@\n-    security\/infra\/java\/security\/cert\/CertPathValidator\/certification\n+    security\/infra\n","filename":"test\/jdk\/TEST.groups","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
