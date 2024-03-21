@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-\/\/ We can't have safepoints in the middle of a scoped method.\n+\/\/ As a rule, we disallow safepoints in the middle of a scoped method.\n","filename":"src\/hotspot\/share\/prims\/unsafe.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
