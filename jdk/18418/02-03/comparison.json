@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,2 +30,2 @@\n-   @run main\/manual bug4243479\n-*\/\n+ * @run main\/manual bug4243479\n+ *\/\n","filename":"test\/jdk\/javax\/swing\/JViewport\/bug4243479.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
