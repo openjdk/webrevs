@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1567,1 +1567,0 @@\n-      assert(ld->in(1)->Opcode() == Op_LoadN, \"Assumption invalid: input to DecodeN is not LoadN\");\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
