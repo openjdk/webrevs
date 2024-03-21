@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove swap file"},"files":[],"sha":"288627454128baa25da79f95cbc263c34dc25c9c"},{"commit":{"message":"export symbols"},"files":[{"filename":"src\/utils\/hsdis\/binutils\/hsdis-binutils.c"},{"filename":"src\/utils\/hsdis\/capstone\/hsdis-capstone.c"},{"filename":"src\/utils\/hsdis\/llvm\/hsdis-llvm.cpp"}],"sha":"65e3cb17832884ee6e1eb028c92763dcc8e3a033"}]
