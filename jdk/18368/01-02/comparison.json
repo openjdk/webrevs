@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -660,1 +660,1 @@\n-            button = new JButton(TimeoutHandlerPanel.PAUSE_BUTTON_LABEL);\n+            button = new JButton(PAUSE_BUTTON_LABEL);\n","filename":"test\/jdk\/java\/awt\/regtesthelpers\/PassFailJFrame.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
