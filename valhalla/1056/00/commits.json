@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix missing ACC_IDENTITY even when in non Valhalla mode"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/ClassFile\/ClassAccessFlagsRawTest.java"}],"sha":"8fc49ea5881b335f2604c4dc2e6a9895bbf31dca"}]
