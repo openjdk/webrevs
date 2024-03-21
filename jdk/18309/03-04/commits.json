@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8180450: secondary_super_cache does not scale well"},"files":[{"filename":"src\/hotspot\/share\/oops\/klass.cpp"}],"sha":"6c596d7081c4b37645b890ab72ae13d96b7f8129"}]

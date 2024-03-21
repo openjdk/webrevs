@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -373,1 +373,1 @@\n-      if (hashed_secondaries->at(slot) != nullptr) {\n+      if (((bitmap >> slot) & 1) != 0) {\n","filename":"src\/hotspot\/share\/oops\/klass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
