@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add PreviewFeature annotation to AccessFlag.IDENTITY.\nUpdate module-info.java to allow jfr to use IDENTITY in writing classes."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/AccessFlag.java"},{"filename":"src\/java.base\/share\/classes\/module-info.java"}],"sha":"dde005e50637e9d7d15aaf304e478873ccd479cc"}]
