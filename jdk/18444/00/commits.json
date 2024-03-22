@@ -1,0 +1,1 @@
+[{"commit":{"message":"8328758: GetCurrentContendedMonitor function should use JvmtiHandshake"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.hpp"}],"sha":"5589d02402469d124019673f63a79493fa9f80dd"}]
