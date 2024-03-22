@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-                .rows(20)\n+                .rows((int) INSTRUCTIONS.lines().count() + 1)\n","filename":"test\/jdk\/java\/awt\/print\/Dialog\/PrintModalDialog.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
