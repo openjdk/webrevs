@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -798,1 +798,1 @@\n-  if (stride_con_long != (jint)stride_con_long) {\n+  if (stride_con_long != (jint)stride_con_long || stride_con_long == min_jint) {\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
