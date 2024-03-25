@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-                .instructions(\"Check that there is an empty panel \" +\n+                .instructions(\"Check that there is a panel with white text \" +\n","filename":"test\/jdk\/javax\/swing\/JColorChooser\/Test6977726.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
