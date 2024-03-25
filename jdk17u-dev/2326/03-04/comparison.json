@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1149,1 +1149,1 @@\n-void *os::dll_load(const char *filename, char *ebuf, int ebuflen) {\n+static void* dll_load_library(const char *filename, char *ebuf, int ebuflen) {\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
