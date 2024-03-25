@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-                .rows(5)\n+                .rows(25)\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/6698013\/bug6698013.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
