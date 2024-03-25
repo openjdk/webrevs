@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 907e30ff00abd6cd4935987810d282f46ec07704"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/Connection.java"},{"filename":"src\/java.naming\/share\/classes\/module-info.java"},{"filename":"test\/jdk\/com\/sun\/jndi\/ldap\/LdapSSLHandshakeFailureTest.java"}],"sha":"2930d93d8e8dda173b38e111584265ef0ebff598"}]
