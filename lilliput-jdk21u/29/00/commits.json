@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329091: [Lilliput\/JDK21] Fix tests after LM_LIGHTWEIGHT backports"},"files":[{"filename":"test\/hotspot\/jtreg\/gtest\/LockStackGtests.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/lockStack\/TestLockStackCapacity.java"},{"filename":"test\/jdk\/com\/sun\/jdi\/EATests.java"}],"sha":"b719c42450d2eda3ece1729330cb4e933ca6371f"}]
