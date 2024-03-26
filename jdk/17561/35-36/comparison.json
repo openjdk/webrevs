@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-  uintx mask = right_n_bits(BitsPerWord) & ~omit_mask;\n+  uintx mask = ((uintx) 0 - 1) & ~omit_mask;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
