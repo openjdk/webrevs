@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -188,1 +188,1 @@\n-    DISABLED_WARNINGS_microsoft := 4146, \\\n+    DISABLED_WARNINGS_microsoft := $(DISABLED_WARNINGS_microsoft) 4146, \\\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
