@@ -1,0 +1,1 @@
+[{"commit":{"message":"apply test only on x64, aarch64 and riscv64"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestBoolNodeGVN.java"}],"sha":"ae5bed2376e18824b0cbd801a55d30f6ce513fd7"}]
