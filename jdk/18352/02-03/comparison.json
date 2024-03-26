@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -162,1 +162,1 @@\n-            UnixDomainSocketAddress usa =  UnixDomainSocketAddress.of(\"with space\");\n+            UnixDomainSocketAddress usa = UnixDomainSocketAddress.of(\"with space\");\n","filename":"test\/jdk\/java\/nio\/channels\/unixdomain\/Bind.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
