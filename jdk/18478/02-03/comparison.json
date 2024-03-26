@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,1 @@\n+              {\"RTMRetryCount\",         \"5\"}\n","filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
