@@ -1,0 +1,1 @@
+[{"commit":{"message":"8247449: Revisit the argument processing logic for MetaspaceShared::disable_optimized_module_handling()"},"files":[{"filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp"},{"filename":"src\/hotspot\/share\/cds\/cdsConfig.hpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"e3b841dd8fe3eb074fd9d9049c06cd89bb291d0e"}]
