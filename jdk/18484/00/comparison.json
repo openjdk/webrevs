@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -201,1 +201,1 @@\n-          $(LIBZ_CFLAGS) (addprefix -I, $(LIBJLI_SRC_DIRS)), \\\n+          $(LIBZ_CFLAGS) $(addprefix -I, $(LIBJLI_SRC_DIRS)), \\\n","filename":"make\/modules\/java.base\/lib\/CoreLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
