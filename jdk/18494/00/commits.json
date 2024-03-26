@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329115: Crash involving return from inner switch"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8329115.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8329115.out"}],"sha":"0a527b549c4e0b40aba976275f3c2473358310cd"}]
