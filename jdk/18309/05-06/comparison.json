@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -251,1 +251,1 @@\n-  static constexpr int secondary_shift() { return hash_size_in_bits() - 6; }\n+  static constexpr int secondary_shift() { return (int)hash_size_in_bits() - 6; }\n","filename":"src\/hotspot\/share\/oops\/klass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
