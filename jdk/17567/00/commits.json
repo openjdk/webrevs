@@ -1,0 +1,1 @@
+[{"commit":{"message":"8328953 : JEditorPane.read throws ChangedCharSetException"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JEditorPane.java"},{"filename":"test\/jdk\/javax\/swing\/JEditorPane\/8328953\/EditorPaneCharset.java"}],"sha":"0a5bc93e4ad024fa18f4cbeab6673733a84b5f09"}]
