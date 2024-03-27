@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -598,1 +598,1 @@\n-          LPTSTR str = (LPTSTR) SAFE_SIZE_ARRAY_ALLOC(safe_Malloc, sizeof(TCHAR), sz);\n+          LPTSTR str = (LPTSTR)SAFE_SIZE_ARRAY_ALLOC(safe_Malloc, sizeof(TCHAR), sz);\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_PrintJob.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
