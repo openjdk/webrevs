@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -271,1 +271,0 @@\n-  HeapWord* prev_p = nullptr;\n@@ -274,1 +273,0 @@\n-    prev_p = p;\n","filename":"src\/hotspot\/share\/gc\/parallel\/mutableSpace.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
