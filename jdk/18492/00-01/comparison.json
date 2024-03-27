@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1134,1 +1134,1 @@\n-      assert(!CDSConfig::is_dumping_archive(), \"CDS doesn't support exploded build\");\n+      assert(!CDSConfig::is_dumping_archive(), \"CDS dumping doesn't support exploded build\");\n","filename":"src\/hotspot\/share\/classfile\/classLoader.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
