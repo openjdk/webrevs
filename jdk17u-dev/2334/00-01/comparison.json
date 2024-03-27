@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1201,0 +1201,1 @@\n+  \/\/ JDK-8271911 is not in JDK 17, so we fall back to using the class name below.\n","filename":"src\/hotspot\/share\/ci\/ciEnv.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
