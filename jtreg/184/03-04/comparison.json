@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,2 +113,2 @@\n-target which runs one of the self-tests. In order to run that individual test, use the following\n-command:\n+target which runs one of the self-tests. In order to run that individual test, \n+use a command such as the following:\n","filename":"doc\/building.md","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
