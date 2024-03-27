@@ -1,0 +1,1 @@
+[{"commit":{"message":"8328480: C2: SubTypeCheckNode in checkcast should use the klass constant of a unique concrete sub class"},"files":[{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/types\/TestSubTypeCheckUniqueSubclass.java"}],"sha":"26a717db576dd818f9f9dc23cc4904b6f08fa59c"}]
