@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n- * If the text is bold, the font will be 1 pixel bigger.\n+ * If the text is bold, the font will be 1 pixel wider for the calculation.\n","filename":"modules\/javafx.graphics\/src\/test\/java\/test\/com\/sun\/javafx\/pgstub\/StubTextLayout.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
