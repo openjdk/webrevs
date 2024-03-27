@@ -1,0 +1,1 @@
+[{"commit":{"message":"mitigate against truncation of JVMCI error messages"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompiler.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"}],"sha":"5f23d0e7f3191b2ac56050875c55761f22253ab2"}]
