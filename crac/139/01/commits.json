@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'crac' into crac-glibccpureduction"},"files":[],"sha":"f6b372e2964dc4e63234c9dced99b10409a6c137"},{"commit":{"message":"GLIBC->CPU flags optimization"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"}],"sha":"5f77d82b29b84292bb32a08b2bccec421a878cfe"}]
