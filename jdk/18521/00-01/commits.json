@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix build error on MacOs (with clang, if we use 'override' for a virtual method we have to use it for all methods to avoid '-Winconsistent-missing-override')"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/mutableNUMASpace.hpp"}],"sha":"4264e53d8e9ffca3a959aa6b55367f1a2eee5951"}]
