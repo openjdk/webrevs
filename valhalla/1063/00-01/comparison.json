@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    \/\/ Not working yet -- e.g., HeapShared::ooo_hash() needs to be implemented for value oops\n+    \/\/ Not working yet -- e.g., HeapShared::oop_hash() needs to be implemented for value oops\n","filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
