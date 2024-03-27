@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3285,1 +3285,1 @@\n-    window->UpdateWindow(env, data, (int) uws->width, (int) uws->height,\n+    window->UpdateWindow(env, data, (int)uws->width, (int)uws->height,\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Window.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
