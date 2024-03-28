@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,0 +97,3 @@\n+  ifeq ($(call isTargetOs, aix), true)\n+    BUILD_JDK_JTREG_EXECUTABLES_LDFLAGS_exeJliLaunchTest := -L$(SUPPORT_OUTPUTDIR)\/native\/java.base\n+  endif\n","filename":"make\/test\/JtregNativeJdk.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
