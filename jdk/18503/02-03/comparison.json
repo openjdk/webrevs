@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9978,3 +9978,0 @@\n-    if (UseAVX > 0) {\n-      __ pxor($dst$$XMMRegister, $dst$$XMMRegister);\n-    }\n@@ -10153,0 +10150,3 @@\n+    if (UseAVX > 0) {\n+      __ pxor($dst$$XMMRegister, $dst$$XMMRegister);\n+    }\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
