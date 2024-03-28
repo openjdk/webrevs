@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1960,3 +1960,1 @@\n-\/\/ the other list operations so spin-locking is (order access next are?) used for safety.\n-\/\/ I don't see spin locking?\n-\/\/\n+\/\/ the other list operations.\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
