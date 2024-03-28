@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -516,1 +516,1 @@\n-         used(), get_humongous_waste(), heap->capacity());\n+         used(), get_humongous_waste(), gen_heap->capacity());\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
