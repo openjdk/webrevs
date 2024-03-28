@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329223: Parallel: Parallel GC resizes heap even has -Xms = -Xmx"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psOldGen.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp"}],"sha":"16e0ce3e16cdd89be6979d09eb58006f3220364f"}]
