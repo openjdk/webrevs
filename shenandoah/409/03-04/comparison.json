@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -534,1 +534,1 @@\n-y    size_t old_bytes_spanned = old_region_span * region_size_bytes;\n+    size_t old_bytes_spanned = old_region_span * region_size_bytes;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
