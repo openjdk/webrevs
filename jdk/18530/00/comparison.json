@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2954,0 +2954,2 @@\n+    if (sef_cpuid7_ecx.bits.gfni != 0)\n+        result |= CPU_GFNI;\n@@ -2979,2 +2981,0 @@\n-      if (sef_cpuid7_ecx.bits.gfni != 0)\n-        result |= CPU_GFNI;\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
