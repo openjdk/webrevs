@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n- * @enablePreview\n@@ -150,1 +149,0 @@\n-            expectedSet.remove(PreviewFeatures.isEnabled() ? AccessFlag.SUPER : AccessFlag.IDENTITY);\n","filename":"test\/jdk\/java\/lang\/reflect\/AccessFlag\/BasicAccessFlagTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
