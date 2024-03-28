@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handling abstract value class constructors with arguments"},"files":[{"filename":"src\/hotspot\/share\/opto\/doCall.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestValueConstruction.java"}],"sha":"d12ce386dcaaea59f0fd91303b6884751ddb014e"}]
