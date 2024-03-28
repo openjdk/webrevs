@@ -1,0 +1,1 @@
+[{"commit":{"message":"Compile native methods like trivial methods and added JTreg test"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilationPolicy.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/calls\/NativeCalls.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/calls\/libNativeCalls.c"}],"sha":"3324731a6bcc0d5d62360b6117289a2d720f2d37"}]
