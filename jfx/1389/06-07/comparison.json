@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -19,0 +19,1 @@\n+--add-exports javafx.graphics\/com.sun.javafx.scene.layout=ALL-UNNAMED\n","filename":"modules\/javafx.controls\/src\/test\/addExports","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
