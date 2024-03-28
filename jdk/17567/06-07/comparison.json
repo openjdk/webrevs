@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-                                        p.getEndOffset() - p.getStartOffset());\n+                                        p.getEndOffset() - p.getStartOffset() - 1);\n","filename":"test\/jdk\/javax\/swing\/JEditorPane\/EditorPaneCharset.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
