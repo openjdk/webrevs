@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -664,1 +664,1 @@\n-    \/\/ AsyncGetCallTrace is reentrant - save the previous state.\n+    \/\/ Allow AsyncGetCallTrace to be reentrant - save the previous state.\n","filename":"src\/hotspot\/share\/runtime\/thread.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
