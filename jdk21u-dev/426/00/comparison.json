@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -497,1 +497,0 @@\n-  bool seen_dead_loader = false;\n@@ -508,1 +507,0 @@\n-      seen_dead_loader = true;\n@@ -526,1 +524,1 @@\n-  return seen_dead_loader;\n+  return loaders_removed != 0;\n","filename":"src\/hotspot\/share\/classfile\/classLoaderDataGraph.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
