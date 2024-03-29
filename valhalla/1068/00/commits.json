@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329345: [lworld] type of expression in a synchronized statement can be an abstract value class"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Check.java"},{"filename":"test\/langtools\/tools\/javac\/valhalla\/value-objects\/ValueObjectCompilationTests.java"}],"sha":"9e42b0844087e8986d348ac79702f864ae60d30b"}]
