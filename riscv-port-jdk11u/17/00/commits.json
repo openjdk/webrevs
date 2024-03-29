@@ -1,0 +1,1 @@
+[{"commit":{"message":"backport 8284937: riscv: should not allocate special register for temp"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"2a9471fb16b371757014abc9dd516b52522706d4"}]
