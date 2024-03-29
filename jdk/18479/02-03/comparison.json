@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-#define ZIP64_EXTMAXLEN 36 \/\/ Maximum Zip64 extra field length\n+#define ZIP64_EXTMAXLEN 32    \/\/ Maximum Zip64 extra field length\n","filename":"src\/java.base\/share\/native\/libjli\/manifest_info.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
