@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-  static bool has_unsupported_runtime_module_options() NOT_CDS_RETURN;\n+  static bool has_unsupported_runtime_module_options() NOT_CDS_RETURN_(false);\n","filename":"src\/hotspot\/share\/cds\/cdsConfig.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
