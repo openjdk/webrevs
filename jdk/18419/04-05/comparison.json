@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,1 +161,0 @@\n-    LOG(\"Main: ensureAtBreakpoint: waitig 100 millis\\n\");\n@@ -165,0 +164,1 @@\n+    LOG(\"Main: ensureAtBreakpoint: waitig 100 millis\\n\");\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/PopFrameTest\/libPopFrameTest.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
