@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -297,1 +297,0 @@\n-  new_size = clamp(new_size, min_gen_size(), max_gen_size());\n","filename":"src\/hotspot\/share\/gc\/parallel\/psOldGen.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
