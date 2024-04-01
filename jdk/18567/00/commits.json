@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329421: Native methods can not be selectively printed"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/calls\/NativeCalls.java"}],"sha":"49ae8d51854e1ebcc37f8ea6e67fce7ff59e5e5e"}]
