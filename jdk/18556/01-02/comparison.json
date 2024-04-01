@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -393,2 +393,0 @@\n-    \/\/ We should not ignore any errors.\n-    XSetIOErrorHandler(NULL);\n","filename":"src\/java.desktop\/unix\/native\/libsplashscreen\/splashscreen_sys.c","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
