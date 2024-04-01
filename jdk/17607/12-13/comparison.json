@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-        PassFailJFrame passFailJFrame = new PassFailJFrame.Builder()\n+        PassFailJFrame passFailJFrame = PassFailJFrame.builder()\n","filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/PrintAllFonts.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
