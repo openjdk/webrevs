@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use MemBarStoreStore in replace_string_concat"},"files":[{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/ConstructorBarriers.java"}],"sha":"c47029539f4894af266d0992f330386b538c3699"}]
