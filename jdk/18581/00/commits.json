@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make empty immutable lists always throw UOE on remove(F|L)"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/ImmutableCollections.java"},{"filename":"test\/jdk\/java\/util\/Collection\/MOAT.java"}],"sha":"af1c9a137d0698c0994a3588ad63ac8827e2de98"}]
