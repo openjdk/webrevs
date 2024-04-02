@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329491: GetThreadListStackTraces function should use JvmtiHandshake"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.hpp"}],"sha":"86cb34e75d35f05a3d9a252b300a77c56e80cdc5"}]
