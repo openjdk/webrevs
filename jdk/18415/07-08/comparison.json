@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,1 @@\n-        if (prevDir == crntDir) {\n+        if (prevDir.equals(crntDir)) {\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/4150029\/bug4150029.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
