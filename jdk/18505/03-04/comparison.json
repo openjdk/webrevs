@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+ * @requires os.arch==\"aarch64\" | os.arch==\"x86_64\" | os.arch==\"amd64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/ConstructorBarriers.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
