@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1150,0 +1150,1 @@\n+    region_after_dense_prefix->set_partial_obj_addr(obj_beg);\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
