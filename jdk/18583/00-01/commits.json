@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove use of jdk.crypto.ec"},"files":[{"filename":"src\/java.base\/share\/classes\/module-info.java"},{"filename":"test\/jdk\/com\/sun\/security\/util\/math\/intpoly\/IntegerPolynomialTest.java"}],"sha":"82b6dae78f4dbc87776bb790656938671ffdec12"}]
