@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @library ..\/..\/..\/..\/java\/security\/testlibrary\/\n+ * @library ..\/..\/..\/..\/java\/security\/testlibrary\/ \/test\/lib\n","filename":"jdk\/test\/sun\/security\/krb5\/auto\/ReplayCacheTestProc.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
