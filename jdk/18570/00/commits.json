@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329432: PopFrame and ForceEarlyReturn functions should use JvmtiHandshake"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.hpp"}],"sha":"9ca1ea20dac40c6d45eafeb757f77dad1672da57"}]
