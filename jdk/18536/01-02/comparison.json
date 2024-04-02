@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,6 +75,0 @@\n-#ifdef _AIX\n-#if !defined(__open_xl_version__) || (__open_xl_version__ < 17)\n-  #error \"this xlc version is not supported\"\n-#endif\n-#endif \/\/ AIX\n-\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions_gcc.hpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
