@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2648,1 +2648,1 @@\n-  \/\/ perform heapdump file merge operation in the current thread prevents us\n+  \/\/ Perform heapdump file merge operation in the current thread prevents us\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
