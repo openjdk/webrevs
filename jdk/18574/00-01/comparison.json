@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1986,1 +1986,0 @@\n-    printf(\"DBG: JvmtiHandshake::execute: err: %d\\n\", (int)err); fflush(0);\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
