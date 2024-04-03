@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,1 +169,1 @@\n-        case 4: __ mem2reg_opt(as_Register(to_reg), from_addr, false);break;\n+        case 4: __ mem2reg_signed_opt(as_Register(to_reg), from_addr);break;\n","filename":"src\/hotspot\/cpu\/s390\/foreignGlobals_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
