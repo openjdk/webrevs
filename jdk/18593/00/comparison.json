@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -648,1 +648,1 @@\n-    IFNONNULL(ClassFile.IFNONNULL, 3, Kind.BRANCH, TypeKind.IntType),\n+    IFNONNULL(ClassFile.IFNONNULL, 3, Kind.BRANCH, TypeKind.ReferenceType),\n","filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/Opcode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
