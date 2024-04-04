@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,2 +56,2 @@\n-                .rows(12)\n-                .columns(42)\n+                .rows((int) INSTRUCTIONS.lines().count() + 2)\n+                .columns(48)\n","filename":"test\/jdk\/javax\/swing\/JFrame\/bug4419914.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
