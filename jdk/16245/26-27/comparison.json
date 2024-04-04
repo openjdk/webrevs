@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3081,0 +3081,1 @@\n+\/\/ Detect pattern: n = base_out >> shift_out\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
