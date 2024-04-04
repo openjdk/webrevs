@@ -1,0 +1,1 @@
+[{"commit":{"message":"rm dead code"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"6677ecad8ed054d5f3c1c931e9d46c54f4a025be"},{"commit":{"message":"add IR rule to two tests"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMergeStores.java"}],"sha":"fa3ebc9333d4c1b15119c528ba9295c8ed983226"}]
