@@ -1,0 +1,1 @@
+[{"commit":{"message":"use java library code of Math.round as golden value"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestRoundVectorDoubleRandom.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestRoundVectorFloatRandom.java"}],"sha":"a8c4172d5b0bc7630681884ffa6ed4f301d5998c"}]
