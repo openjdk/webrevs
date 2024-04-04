@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2771,1 +2771,1 @@\n-  bool is_thread_safe() { return true; }\n+  bool is_thread_safe() override { return true; }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
