@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329641: RISC-V: Enable some tests related to SHA-2 instrinsic"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/testlibrary\/sha\/predicate\/IntrinsicPredicates.java"}],"sha":"341669ce3955af7d8d56c3fef7889dc0814ebcdf"}]
