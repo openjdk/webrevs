@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -888,0 +888,1 @@\n+  DEBUG_ONLY(ResourceMark rm(thread);) \/\/ ~InterpreterOopMap already handles possible deallocation of bitmask\n","filename":"src\/hotspot\/share\/runtime\/frame.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
