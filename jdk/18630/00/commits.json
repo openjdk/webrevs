@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329674: JvmtiEnvThreadState::reset_current_location function should use JvmtiHandshake"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvThreadState.cpp"},{"filename":"src\/hotspot\/share\/runtime\/vmOperation.hpp"}],"sha":"6071446fbc8269b3b18682d0fa1925dcb26bae8a"}]
