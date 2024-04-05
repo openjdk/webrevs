@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,0 @@\n-class DataLayout;\n@@ -85,9 +84,0 @@\n-  \/\/\n-  \/\/ Friend decls\n-  \/\/\n-  friend class AdjustPointerClosure;\n-  friend class KeepAliveClosure;\n-\n-  \/\/\n-  \/\/ Vars\n-  \/\/\n","filename":"src\/hotspot\/share\/gc\/serial\/serialFullGC.hpp","additions":0,"deletions":10,"binary":false,"changes":10,"status":"modified"}]}
