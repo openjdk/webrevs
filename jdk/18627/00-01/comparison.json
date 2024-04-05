@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1084,1 +1084,1 @@\n-  Events::log(Thread::current(), \"exited thread: \" INTPTR_FORMAT, p2i(p));\n+  Events::log(Thread::current(), \"removed thread: \" INTPTR_FORMAT, p2i(p));\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
