@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -246,1 +246,1 @@\n-      int cmp_r = addr_cmp(head->key(), key);\n+      int cmp_r = CMP(head->key(), key);\n@@ -265,1 +265,1 @@\n-      int cmp_r = addr_cmp(head->key(), key);\n+      int cmp_r = CMP(head->key(), key);\n","filename":"src\/hotspot\/share\/nmt\/nmtTreap.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
