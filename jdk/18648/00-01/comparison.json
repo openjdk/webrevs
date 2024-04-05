@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -540,0 +540,1 @@\n+  { \"UseNeon\",                      JDK_Version::undefined(), JDK_Version::jdk(23), JDK_Version::jdk(24) },\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
