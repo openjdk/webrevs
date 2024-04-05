@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n-typedef void (*cb_var_t)(void);\n+typedef void (*cb_var_t)(int x, ...);\n","filename":"test\/jtreg\/generator\/passaddr\/passaddr.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
