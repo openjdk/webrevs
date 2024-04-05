@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use JNIEXPORT"},"files":[{"filename":"make\/Hsdis.gmk"},{"filename":"src\/utils\/hsdis\/binutils\/hsdis-binutils.c"},{"filename":"src\/utils\/hsdis\/capstone\/hsdis-capstone.c"},{"filename":"src\/utils\/hsdis\/hsdis.h"},{"filename":"src\/utils\/hsdis\/llvm\/hsdis-llvm.cpp"}],"sha":"b4003e9f5c256b3ba7cc6e4da09e5c6dcea47f82"}]
