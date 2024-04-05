@@ -1,0 +1,1 @@
+[{"commit":{"message":"handle UseUnalignedAccesses in test, and a few cosmetics"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMergeStores.java"}],"sha":"c85cce1d71d26a62ae9456414a8cf972e8789403"}]
