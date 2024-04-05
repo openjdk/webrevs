@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316735: Print LockStack in hs_err files\n\nReviewed-by: dholmes, mbaesken"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.cpp"},{"filename":"src\/hotspot\/share\/runtime\/lockStack.hpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.cpp"}],"sha":"0697faa6062f7af1367cde146d0d8f54af5413aa"}]
