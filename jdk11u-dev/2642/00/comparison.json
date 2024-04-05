@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -371,1 +371,1 @@\n-  return (julong)si.totalswap;\n+  return (julong)(si.totalswap * si.mem_unit);\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
