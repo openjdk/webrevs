@@ -1,0 +1,1 @@
+[{"commit":{"message":"Shuffle code to preserve short-jump on non-assert paths"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"}],"sha":"025755b2d834669bb54d9cf8404383ba3a5f0194"}]
