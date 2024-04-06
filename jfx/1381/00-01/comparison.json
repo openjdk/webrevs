@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,0 @@\n-    fprintf(stderr, \"EGLFactory_nInitialize\");\n","filename":"modules\/javafx.graphics\/src\/main\/native-prism-es2\/linux\/egl\/LinuxGLFactory.c","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
