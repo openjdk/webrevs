@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -964,1 +964,4 @@\n-    request_frame_extents();\n+    if (frame_type == TITLED) {\n+        request_frame_extents();\n+    }\n+\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
