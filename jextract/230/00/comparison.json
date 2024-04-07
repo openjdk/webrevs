@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,1 +240,1 @@\n-                    yield double.class;\n+                    yield (Class<?>) double.class;\n","filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/Utils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
