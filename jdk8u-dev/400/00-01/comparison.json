@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4,1 +4,1 @@\n-# Copyright (c) 2002, 2011, Oracle and\/or its affiliates. All rights reserved.\n+# Copyright (c) 2002, 2024, Oracle and\/or its affiliates. All rights reserved.\n@@ -28,0 +28,1 @@\n+# 8320964\n","filename":"jdk\/test\/sun\/tools\/native2ascii\/Native2AsciiTests.sh","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
