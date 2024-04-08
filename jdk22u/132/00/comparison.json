@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -591,1 +591,0 @@\n-    assert(!G1CollectedHeap::heap()->is_obj_dead_cond(_containing_obj, _vo), \"Precondition\");\n@@ -623,0 +622,1 @@\n+    assert(!G1CollectedHeap::heap()->is_obj_dead_cond(obj, _vo), \"Precondition\");\n","filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
