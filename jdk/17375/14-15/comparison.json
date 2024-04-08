@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -277,1 +277,1 @@\n-    BoolNode *bool_out = n->out(i)->isa_Bool();\n+    BoolNode* bool_out = n->out(i)->isa_Bool();\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
