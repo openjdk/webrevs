@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,1 @@\n-  bool promotion_failed() { return _promotion_failed; }\n+  bool   promotion_failed() { return _promotion_failed; }\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
