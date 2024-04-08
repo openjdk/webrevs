@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n-final class PrimitiveType implements JavaType {\n+\/* package *\/ final class PrimitiveType implements JavaType {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/type\/PrimitiveType.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
