@@ -1,0 +1,1 @@
+[{"commit":{"message":"s\/cmpwi\/cmpdi  for intx value"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/sharedRuntime_ppc.cpp"}],"sha":"59d9338952f654ae2d8275f12da3249a0f46e182"},{"commit":{"message":"Restore use of lwz for loading int flags"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/sharedRuntime_ppc.cpp"}],"sha":"9c75c8347d6834cb278aaada91b5042dffced655"}]
