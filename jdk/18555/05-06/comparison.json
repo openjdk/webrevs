@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -937,0 +937,1 @@\n+    case 0xD6: \/\/ movq\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
