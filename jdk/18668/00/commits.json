@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329823: RISC-V: Need to sync CPU features with related JVM flags"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp"}],"sha":"897b31a63023e0f3c14c6cca8c13d6a064fdcaae"}]
