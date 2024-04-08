@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-                \/\/ All frames freezed in last yield should be compiled\n+                \/\/ All frames frozen in last yield should be compiled\n","filename":"test\/jdk\/jdk\/internal\/vm\/Continuation\/OSRTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
