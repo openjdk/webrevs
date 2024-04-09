@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -164,0 +164,2 @@\n+     * <tr><th scope=\"row\">1.3.6.1.5.5.7.1.1<\/th>\n+     * <td>AuthorityInformationAccess<\/td><\/tr>\n","filename":"src\/java.base\/share\/classes\/java\/security\/cert\/X509Extension.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
