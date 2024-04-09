@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5079,1 +5079,1 @@\n-    __ vadd_vv(vtemp3, vtemp1, vtemp2); \/\/ 0x14 * 0xFF * 2 = 0x27D8 -- max value per element, \n+    __ vadd_vv(vtemp3, vtemp1, vtemp2); \/\/ 0x14 * 0xFF * 2 = 0x27D8 -- max value per element,\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
