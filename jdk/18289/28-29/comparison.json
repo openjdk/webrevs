@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,0 @@\n-    Metadata data;\n@@ -74,0 +73,1 @@\n+    Metadata data;\n","filename":"src\/hotspot\/share\/nmt\/vmatree.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
