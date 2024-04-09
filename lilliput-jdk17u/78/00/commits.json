@@ -1,0 +1,1 @@
+[{"commit":{"message":"8319897: Move StackWatermark handling out of LockStack::contains\n\nReviewed-by: eosterlund, dholmes, dcubed"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.inline.hpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"807e3c25cfbe9e61361f0dbe712f64fb8e536626"}]
