@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,0 @@\n-    bool new_entry = false;\n","filename":"src\/hotspot\/share\/classfile\/bytecodeAssembler.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
