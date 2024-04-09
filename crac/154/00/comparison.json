@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n-DEFAULT_ACCEPTABLE_BOOT_VERSIONS=\"20 21 22\"\n+DEFAULT_ACCEPTABLE_BOOT_VERSIONS=\"20 21\"\n","filename":"make\/conf\/version-numbers.conf","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
