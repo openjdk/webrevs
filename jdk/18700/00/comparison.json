@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -690,1 +690,1 @@\n-  NMethodIterator iter(NMethodIterator::all_blobs);\n+  NMethodIterator iter(NMethodIterator::all);\n","filename":"src\/hotspot\/share\/code\/codeCache.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
