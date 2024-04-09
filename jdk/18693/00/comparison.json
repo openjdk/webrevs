@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -434,2 +434,0 @@\n-  inline const char* collection_set_candidate_short_type_str() const;\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HeapRegion.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
