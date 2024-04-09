@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329898: Revert one use of markWord.is_unlocked back to is_neutral"},"files":[{"filename":"src\/hotspot\/share\/runtime\/basicLock.cpp"}],"sha":"6c412cf929c8242be7ab07f0dafaacab096e9a4b"}]
