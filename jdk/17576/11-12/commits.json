@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix Windows version detection\n\nThe build number in this check is tied to the current major version of Windows. The test should still be correct if there is a newer Windows version with a major version > 10 regardless of the build number."},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"98b5193c512d75d28f02db82fb65ad29ce1600b3"}]
