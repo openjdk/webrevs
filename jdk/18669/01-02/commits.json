@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check class name for valid UTF8 encoding"},"files":[{"filename":"src\/hotspot\/share\/cds\/classListParser.cpp"},{"filename":"src\/hotspot\/share\/cds\/classListParser.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/customLoader\/ClassListFormatA.java"}],"sha":"05afb6ed19b18cf3942b5bbf2f067a785d5ada6e"}]
