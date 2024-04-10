@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329998: Remove double initialization for parts of small TypeArrays in ZObjArrayAllocator"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zObjArrayAllocator.cpp"}],"sha":"5d055a3d1ad544f9a693ed58968534fd3b6594f4"}]
