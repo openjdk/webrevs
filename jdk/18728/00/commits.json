@@ -1,0 +1,1 @@
+[{"commit":{"message":"8323900: Avoid calling os::init_random() in CDS static dump"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"},{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.hpp"},{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"},{"filename":"src\/hotspot\/share\/oops\/symbol.cpp"}],"sha":"23883dcbb215a14af34621bc079bc9d2260806ae"}]
