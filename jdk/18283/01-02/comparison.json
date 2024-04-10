@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,3 +25,0 @@\n-#if INCLUDE_SERVICES\n-#ifndef AIX\n-\n@@ -36,0 +33,1 @@\n+#include \"utilities\/macros.hpp\"\n@@ -44,0 +42,3 @@\n+#if INCLUDE_SERVICES\n+#ifndef AIX\n+\n","filename":"src\/hotspot\/os\/posix\/attachListener_posix.cpp","additions":4,"deletions":3,"binary":false,"changes":7,"status":"modified"}]}
