@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restrict the scope of the method block_start_const to only its file."},"files":[{"filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.hpp"}],"sha":"4181badc0499154886ea4ad28578e6e5449c839c"}]
