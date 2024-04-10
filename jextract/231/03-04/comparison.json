@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -407,1 +407,1 @@\n-Jextract will generate a separate class for each function pointer type found in the header\n+Jextract generates a separate class for each function pointer type found in the header\n","filename":"doc\/GUIDE.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
