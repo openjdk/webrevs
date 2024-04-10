@@ -1,0 +1,1 @@
+[{"commit":{"message":"moved setting boolean to inside try statement to avoid race condition"},"files":[{"filename":"test\/jdk\/com\/sun\/net\/httpserver\/bugs\/B6431193.java"}],"sha":"a975b714b2f43788574bb5d9f7a5b99ae633963c"}]
