@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2070,0 +2070,1 @@\n+  assert(_target_jt == JavaThread::cast(target), \"sanity check\");\n@@ -2075,0 +2076,1 @@\n+  assert(_target_jt == nullptr || _target_jt->vthread() == target_h(), \"sanity check\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
