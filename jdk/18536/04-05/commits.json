@@ -1,0 +1,1 @@
+[{"commit":{"message":"replaced pragma alloca and include alloca by compiler define"},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"},{"filename":"src\/hotspot\/os\/aix\/os_aix.cpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions_gcc.hpp"}],"sha":"801cfb54fbc42105743c62b24ddb8615f03a6710"}]
