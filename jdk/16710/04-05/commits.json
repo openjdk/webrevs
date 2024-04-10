@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove selector spin event attempt and associated test."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/SelectorImpl.java"},{"filename":"test\/jdk\/jdk\/jfr\/event\/io\/TestSelectorSelectEvent.java"}],"sha":"d10be83e3f92b65e133ba9993eafce9b6575e54a"}]
