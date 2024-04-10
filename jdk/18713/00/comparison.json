@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-      if (!seen_gc_safepoint && gc_safepoint_happened()) {\n+      if (is_reference_type(element_type) && !seen_gc_safepoint && gc_safepoint_happened()) {\n","filename":"src\/hotspot\/share\/gc\/z\/zObjArrayAllocator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
