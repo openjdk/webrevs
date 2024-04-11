@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -327,2 +327,1 @@\n-                \"String String.format(java.util.Locale, String, Object...)\"\n-                );\n+                \"String String.format(java.util.Locale, String, Object...)\");\n","filename":"test\/langtools\/jdk\/jshell\/CompletionSuggestionTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
