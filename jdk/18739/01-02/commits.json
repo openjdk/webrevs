@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clamp to [512, Integer.MAX_VALUE]"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/fs\/AbstractWatchKey.java"},{"filename":"test\/jdk\/java\/nio\/file\/WatchService\/LotsOfEntries.java"}],"sha":"aadce74b9789246d7ee07927e347512108d406d6"}]
