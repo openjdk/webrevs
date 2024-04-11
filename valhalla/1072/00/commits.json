@@ -1,0 +1,1 @@
+[{"commit":{"message":"[lworld] Fixing compiler tests failing after JDK-8328543"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c1\/CanonicalizeGetModifiers.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/klass\/TestGetModifiers.java"}],"sha":"24be34de5a5a58437ae4b977972be536760ff3c0"}]
