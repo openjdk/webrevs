@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixing constructor to constructor calls and added more tests"},"files":[{"filename":"src\/hotspot\/share\/compiler\/methodLiveness.cpp"},{"filename":"src\/hotspot\/share\/opto\/doCall.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestValueConstruction.java"}],"sha":"b18ec2fe9210aea6865086e60c0260a87561d051"}]
