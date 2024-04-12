@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,0 +121,2 @@\n+        else ifeq ($$($1_$2_STATIC_LIBRARY), true)\n+          $1_$2_LIBPATH := $$(SUPPORT_OUTPUTDIR)\/native\/$$($1_$2_MODULE)\n","filename":"make\/common\/JdkNativeCompilation.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
