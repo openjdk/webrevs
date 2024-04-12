@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n-    _nmethod_flush_messages = new StringEventLog(\"Nmethod flushes\", \"nmethodflushs\");\n+    _nmethod_flush_messages = new StringEventLog(\"Nmethod flushes\", \"nmethodflushes\");\n","filename":"src\/hotspot\/share\/utilities\/events.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
