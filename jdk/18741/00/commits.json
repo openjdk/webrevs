@@ -1,0 +1,1 @@
+[{"commit":{"message":"SharedRuntime::resolve* should respect interpreter-only mode"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.hpp"}],"sha":"cbb66e4cf46506c91361f91e4058ba16420a2e6c"}]
