@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: remove unneded check for is_vthread_alive; do not call do_thread from do_vthread"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvThreadState.cpp"}],"sha":"86775376517ac8652da93cfa615b1cf8a6251813"}]
