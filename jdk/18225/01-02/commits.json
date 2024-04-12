@@ -1,0 +1,1 @@
+[{"commit":{"message":"If isCgroupV1() return true, add docker run opts --memory-swappiness=60"},"files":[{"filename":"test\/hotspot\/jtreg\/containers\/docker\/TestJFREvents.java"}],"sha":"ecb71597d8eb68c841578e504be8c3393059f62d"}]
