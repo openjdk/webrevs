@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,2 @@\n-            DUP, LDC,\n+            DUP,\n+            LDC, LDC_W, LDC2_W,\n","filename":"plugins\/simple_methods_anc\/src\/openjdk\/jcov\/filter\/simplemethods\/Utils.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
