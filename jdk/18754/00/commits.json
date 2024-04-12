@@ -1,0 +1,1 @@
+[{"commit":{"message":"Dump barrier information for all Mach nodes, not just MachType ones, to include CompareAndSwap\/WeakCompareAndSwap matches"},"files":[{"filename":"src\/hotspot\/share\/opto\/machnode.cpp"}],"sha":"b856d41f480eece2b4094400180d1b1f5b906a36"}]
