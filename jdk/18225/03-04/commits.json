@@ -1,0 +1,1 @@
+[{"commit":{"message":"1. if (isCgroupV1) only contains opts.addDockerOpts(\"--memory-swappiness=60\"); 2. delete extra space at the beginning of the line in testSwapMemory"},"files":[{"filename":"test\/hotspot\/jtreg\/containers\/docker\/TestJFREvents.java"}],"sha":"4e5ea6639695faf2b81cf2c1b5b7d7217cbcebea"}]
