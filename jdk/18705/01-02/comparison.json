@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,0 +101,3 @@\n+        log.display(\"cArgs1: \" + cArgs1);\n+        log.display(\"cArgs2: \" + cArgs2);\n+\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/ListeningConnector\/stopListening\/stoplis001.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
