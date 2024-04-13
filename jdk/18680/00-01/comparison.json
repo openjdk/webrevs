@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,0 +59,1 @@\n+            {\"PreserveAllAnnotations\", \"true\"},\n","filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
