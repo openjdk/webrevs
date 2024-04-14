@@ -1,0 +1,1 @@
+[{"commit":{"message":"Pre-size stringbuilders based on constant size and a small argument factor"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/StringConcatFactory.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StringConcat.java"}],"sha":"796d968becc0b802a185a0bb6c11a5e3ad957ab4"}]
