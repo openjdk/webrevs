@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip verify when deoptimizing from monitorenter bytecode."},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"}],"sha":"4e00138a5a7db6490f11bb41767b7b3bca4b04d7"}]
