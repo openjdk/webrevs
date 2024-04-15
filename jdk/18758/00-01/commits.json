@@ -1,0 +1,1 @@
+[{"commit":{"message":"update comment accordingly"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"0e7b2414914f23bb2e6d8374725083b68bdd51f2"},{"commit":{"message":"skip setting frm when not needed"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"a9db83bddaf9adb94f6588e028ab8629e3c8c671"}]
