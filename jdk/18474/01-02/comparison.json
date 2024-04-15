@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -154,1 +154,1 @@\n-     * This is equivalent to the following code, but is more resource efficient:\n+     * This is equivalent to the following code, but is more efficient:\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/SymbolLookup.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
