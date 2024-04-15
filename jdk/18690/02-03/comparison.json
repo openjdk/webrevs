@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1424,1 +1424,1 @@\n-                DUMPER.dumpClass(className, innerClass, classBytes);\n+                DUMPER.dumpClass(innerClass.getName(), innerClass, classBytes);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/StringConcatFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
