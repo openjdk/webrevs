@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 2931458711244e20eb7845a1aefcf6ed4206bce1"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestLargeScaleAndStride.java"}],"sha":"e8def153d00e782b0ce17b098a1e6ef33c409181"}]
