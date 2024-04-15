@@ -1,0 +1,1 @@
+[{"commit":{"message":"Working secondary supers table with -XX:-UsePopCountInstruction"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"486336bd7f6f44661e05123d505a96da408a1a83"}]
