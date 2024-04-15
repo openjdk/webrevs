@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -307,2 +307,2 @@\n-    __ mv(t1, __ RoundingMode::rne);\n-    __ beq(t0, t1, skip_fsrmi);\n+    guarantee(__ RoundingMode::rne == 0, \"must be\");\n+    __ beq(t0, zr, skip_fsrmi);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
