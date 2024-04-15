@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -297,0 +297,1 @@\n+        Assert.assertTrue(f.quoted().op() instanceof CoreOps.LambdaOp);\n","filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestBytecode.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
