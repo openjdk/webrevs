@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -152,1 +152,1 @@\n-     * Returns the address of the symbol with the given name or throws an Exception.\n+     * Returns the address of the symbol with the given name or throws an exception.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/SymbolLookup.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
