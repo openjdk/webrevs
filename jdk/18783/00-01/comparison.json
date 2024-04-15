@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -184,1 +184,1 @@\n-\t    $$($1_STRIP) $$($1_STRIPFLAGS) $$($1_TARGET)\n+\t    $$($1_STRIP) $$($1_STRIPFLAGS) $$($1_TARGET))\n","filename":"make\/common\/native\/Link.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
