@@ -1,0 +1,1 @@
+[{"commit":{"message":"Relabel \"trailing garbage\" as \"extra bytes\" to sound less accusatory."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPInputStream.java"},{"filename":"test\/jdk\/java\/util\/zip\/GZIP\/GZIPInputStreamConcat.java"}],"sha":"df302a6244516dffd94c6525cd069285b4a723f5"}]
