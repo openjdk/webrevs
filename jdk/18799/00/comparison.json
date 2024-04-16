@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1492,1 +1492,1 @@\n-  if (current->is_interp_only_mode()) {\n+  if (current->is_interp_only_mode() && !callee_method->is_special_native_intrinsic()) {\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

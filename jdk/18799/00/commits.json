@@ -1,0 +1,1 @@
+[{"commit":{"message":"SharedRuntime::get_resolved_entry should not return c2i entry if the callee is special native intrinsic."},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"585439dee8862f76475d047ea5928531f361d78b"}]
