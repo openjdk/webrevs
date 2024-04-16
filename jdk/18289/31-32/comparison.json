@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n-      data.stack_idx = sidx;\n+      sidx = data.stack_idx;\n","filename":"src\/hotspot\/share\/nmt\/vmatree.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
