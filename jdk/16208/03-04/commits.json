@@ -1,0 +1,1 @@
+[{"commit":{"message":"Synchronize TreeInfo.isExplicitThisReference() with PR #18088."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ThisEscapeAnalyzer.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/tree\/TreeInfo.java"}],"sha":"304a92b619e01be0cea9c469900efe68d6e785dd"}]
