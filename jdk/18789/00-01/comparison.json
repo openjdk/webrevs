@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -213,3 +213,0 @@\n-        if (((CK_VERSION *)moduleData->ckFunctionListPtr)->major == 3) {\n-            moduleData->ckFunctionList30Ptr = interface->pFunctionList;\n-        }\n","filename":"src\/jdk.crypto.cryptoki\/unix\/native\/libj2pkcs11\/p11_md.c","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
