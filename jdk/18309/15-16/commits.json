@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8180450: secondary_super_cache does not scale well"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubRoutines_x86.hpp"},{"filename":"src\/hotspot\/share\/cds\/filemap.cpp"},{"filename":"src\/hotspot\/share\/cds\/filemap.hpp"}],"sha":"a622c7dd3c8b30a795eb3773d0e5d802db822dfb"}]
