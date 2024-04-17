@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4213,1 +4213,1 @@\n-  jlong long_stride = slp->iv_stride();\n+  jlong long_stride = slp->lp()->stride_is_con() ? slp->iv_stride() : 0;\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
