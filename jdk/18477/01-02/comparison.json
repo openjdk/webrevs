@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -303,2 +303,0 @@\n-  \/\/ Must prevent reordering of the following cp cache loads with bytecode load\n-  membar(MacroAssembler::LoadLoad);\n","filename":"src\/hotspot\/cpu\/arm\/interp_masm_arm.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
