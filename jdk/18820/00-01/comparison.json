@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3649,1 +3649,1 @@\n-  if (HandshakeALot && SafepointALot && FLAG_IS_DEFAULT(GuaranteedSafepointInterval)) {\n+  if ((HandshakeALot || SafepointALot) && FLAG_IS_DEFAULT(GuaranteedSafepointInterval)) {\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
