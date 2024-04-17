@@ -1,0 +1,1 @@
+[{"commit":{"message":"Correct typo in symbolic constant\n\nFRACTIONAL_DENOMINATOR should be a power of 2.  Small round-off errors\nwere observed because there was an error in one digit of this contant."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.hpp"}],"sha":"8e5164c69fbc0a5b2de44f9f54958c52ff599f8c"}]

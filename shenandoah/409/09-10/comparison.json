@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -215,1 +215,1 @@\n-  static const size_t FRACTIONAL_DENOMINATOR = 64536;\n+  static const size_t FRACTIONAL_DENOMINATOR = 65536;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
