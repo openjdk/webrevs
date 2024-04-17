@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make TryLockResult an enum class for better grepping and C++ type checking."},"files":[{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp"},{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.hpp"}],"sha":"5499cc0412d938510a13023e9537375e8bdbd574"}]
