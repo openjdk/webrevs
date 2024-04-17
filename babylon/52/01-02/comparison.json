@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,1 +216,1 @@\n-                               implInfo.getDeclaringClass().isHidden();\n+                               implKind == H_INVOKESTATIC && implClass.isHidden();\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/InnerClassLambdaMetafactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
