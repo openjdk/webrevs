@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3812,1 +3812,1 @@\n-    \/\/ Make sure klass does not have has_finalizer, or is abstract, or interface or java\/lang\/Class.\n+    \/\/ Make sure klass is not abstract, or interface or java\/lang\/Class.\n","filename":"src\/hotspot\/cpu\/ppc\/templateTable_ppc_64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
