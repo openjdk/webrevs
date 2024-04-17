@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow ssl,<option> type syntax as currently done. Improve test case coverage"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLLogger.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLLogger\/DebugPropertyValues.java"}],"sha":"277583cd1d83f4a0e2698062ad67847e8b655848"}]
