@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1835,2 +1835,2 @@\n-        if (z == null || z.length < (xlen+ ylen))\n-             z = new int[xlen+ylen];\n+        if (z == null || z.length < (xlen + ylen))\n+             z = new int[xlen + ylen];\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
