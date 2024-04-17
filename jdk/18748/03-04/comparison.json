@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2645,1 +2645,1 @@\n-  VM_HeapDumper dumper(&writer, _gc_before_heap_dump, _oome, (uint)num_dump_threads);\n+  VM_HeapDumper dumper(&writer, _gc_before_heap_dump, _oome, num_dump_threads);\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
