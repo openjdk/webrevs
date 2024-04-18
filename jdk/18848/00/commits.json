@@ -1,0 +1,1 @@
+[{"commit":{"message":"8314846: Do not store Klass::_secondary_super_cache in CDS archive"},"files":[{"filename":"src\/hotspot\/share\/oops\/klass.cpp"}],"sha":"9f5c532645469cff34809be3f6237cb0eb0bf007"}]
