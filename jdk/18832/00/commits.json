@@ -1,0 +1,1 @@
+[{"commit":{"message":"8322992: Javac fails with StackOverflowError when compiling deeply nested synchronized blocks"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"}],"sha":"739cf493581cb2d3d06a98465a08833664d9cb75"}]
