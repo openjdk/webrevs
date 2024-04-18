@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,0 @@\n-import java.time.Instant;\n@@ -113,1 +112,1 @@\n-            return LocalDateTime.ofInstant(Instant.now(), ZoneOffset.UTC);\n+            return LocalDateTime.now(ZoneOffset.UTC);\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/Repository.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
