@@ -1,0 +1,1 @@
+[{"commit":{"message":"8330572: jdk.internal.net.http.HttpConnection calls an expensive checkOpen() when returning a HTTP\/1.1 connection to the pool"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpConnection.java"}],"sha":"41c1b3ec6fa19db5f66df28260e88ef160842c73"}]
