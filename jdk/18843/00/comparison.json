@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,2 +47,0 @@\n-import jdk.jfr.events.SocketReadEvent;\n-import jdk.jfr.events.SocketWriteEvent;\n@@ -65,2 +63,0 @@\n-        SocketReadEvent.class,\n-        SocketWriteEvent.class,\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/instrument\/JDKEvents.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
