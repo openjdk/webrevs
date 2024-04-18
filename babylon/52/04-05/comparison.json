@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n-         Function<Object, String> f = o -> o.toString();\n+         Function<Object, String> f = Object::toString;\n","filename":"test\/jdk\/java\/lang\/invoke\/defineHiddenClass\/src\/Lambda.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
