@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1512,1 +1512,0 @@\n-  bool has_finalizer_flag = has_finalizer(); \/\/ Query before possible GC\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
