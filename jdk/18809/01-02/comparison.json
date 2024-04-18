@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -836,1 +836,1 @@\n-\/\/ vm_exit() when the program calls System.exit() to return a value, or when\n+\/\/ vm_exit(), when the program calls System.exit() to return a value, or when\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
