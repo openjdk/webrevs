@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,6 @@\n+\n+    \/** Comment ignored here: does not affect decls in block *\/\n+    static {\n+        \/** Good comment. *\/\n+        int i = 0;\n+    }\n","filename":"test\/langtools\/tools\/javac\/danglingDocComments\/DanglingDocCommentsClass.java","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
