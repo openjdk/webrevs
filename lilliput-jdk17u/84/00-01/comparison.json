@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,2 +72,0 @@\n-    \/\/ Load object header\n-    movptr(hdr, Address(obj, hdr_offset));\n","filename":"src\/hotspot\/cpu\/x86\/c1_MacroAssembler_x86.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
