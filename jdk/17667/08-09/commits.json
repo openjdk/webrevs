@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use vmIntrinsics instead of vmIntrinsicID"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp"}],"sha":"2d8854d07a7d2dc2c7757da645fe42db5ad36805"},{"commit":{"message":"Fix formatting"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_MacroAssembler_x86.cpp"}],"sha":"44757debc1604b50e6dbd8a0c2ba8661a1e79163"}]
