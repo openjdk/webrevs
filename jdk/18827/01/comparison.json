@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,1 +112,1 @@\n-            return LocalDateTime.ofEpochSecond(System.currentTimeMillis(), 0, ZoneOffset.UTC);\n+            return LocalDateTime.now(ZoneOffset.UTC);\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/Repository.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
