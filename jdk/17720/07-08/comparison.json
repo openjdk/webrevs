@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-        int NUM_TABS = 5;\n+        int NUM_TABS = 15;\n","filename":"test\/jdk\/javax\/swing\/JTabbedPane\/TestJTabbedPaneOpaqueColor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
