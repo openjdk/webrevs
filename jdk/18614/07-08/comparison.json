@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-        @JEP(number=0, title=\"Module Imports\", status=\"Preview\")\n+        @JEP(number=476, title=\"Module Import Declarations\", status=\"Preview\")\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/javac\/PreviewFeature.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
