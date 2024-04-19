@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -576,0 +576,3 @@\n+    } else if (!res_type->klass_is_exact()) {\n+      NOT_PRODUCT(fail_eliminate = \"Not an exact type.\";)\n+      can_eliminate = false;\n","filename":"src\/hotspot\/share\/opto\/macro.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
