@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -316,1 +316,1 @@\n-     * @return the index of the last occurrence of the specified element in\n+     * @return the index of the first occurrence of the specified element in\n","filename":"src\/java.base\/share\/classes\/java\/util\/ArrayList.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
