@@ -1,0 +1,1 @@
+[{"commit":{"message":"Comment on not allowing macro nodes after we start expanding. Rename\ndont_allow_macro_nodes to reset_allow_macro_nodes."},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.hpp"},{"filename":"src\/hotspot\/share\/opto\/macro.cpp"}],"sha":"35cff12cf93973cf5f7b97dd58cd8f2eb50097d5"}]
