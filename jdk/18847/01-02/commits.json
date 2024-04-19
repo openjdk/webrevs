@@ -1,0 +1,1 @@
+[{"commit":{"message":"We don't need to link and initialize VirtualMachineError class because the lines just below it that link and initialize and create an instance of StackOverflowError will do that, since VME is a subclass of SOE."},"files":[{"filename":"src\/hotspot\/share\/memory\/universe.cpp"}],"sha":"9eaf79568c20a3584ac3e997e209471ca376b954"}]
