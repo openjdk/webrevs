@@ -1,0 +1,1 @@
+[{"commit":{"message":"8330607: Deprecate -XX:+UseEmptySlotsInSupers"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java"}],"sha":"d7a9f244fc18f7af7efda974112188e4651b0c86"}]
