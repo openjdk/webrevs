@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,0 @@\n-                                log.finer(\"issue: bad whitespace\");\n","filename":"jcheck\/src\/main\/java\/org\/openjdk\/skara\/jcheck\/WhitespaceCheck.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
