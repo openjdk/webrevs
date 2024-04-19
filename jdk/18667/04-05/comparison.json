@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,1 +140,0 @@\n-        flush();\n@@ -142,0 +141,2 @@\n+            \/* write any pending chunk data *\/\n+            writeChunk();\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ChunkedOutputStream.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
