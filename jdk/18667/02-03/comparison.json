@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @run main\/timeout=5 -Dsun.net.httpserver.nodelay=false B6968351\n+ * @run main\/othervm\/timeout=5 -Dsun.net.httpserver.nodelay=false B6968351\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/bugs\/B6968351.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
