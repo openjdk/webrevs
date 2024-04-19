@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -310,0 +310,3 @@\n+\n+    \/\/ Make sure MinOldSize <= OldSize\n+    MinOldSize = MIN2(MinOldSize, initial_old_size);\n","filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
