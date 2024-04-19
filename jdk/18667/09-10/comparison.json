@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-public class B6968351 {\n+public class TcpNoDelayNotRequired {\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/bugs\/TcpNoDelayNotRequired.java","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"test\/jdk\/com\/sun\/net\/httpserver\/bugs\/B6968351.java","status":"renamed"}]}
