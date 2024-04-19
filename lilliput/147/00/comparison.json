@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,1 @@\n-  if (!m.is_marked()) {\n+  if (!m.is_forwarded()) {\n@@ -267,1 +267,1 @@\n-    if (!mark.is_marked()) {\n+    if (!mark.is_forwarded()) {\n","filename":"src\/hotspot\/share\/gc\/parallel\/psPromotionManager.inline.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
