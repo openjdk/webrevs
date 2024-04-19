@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'upstream\/master' into JDK-8324577"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"1376278e4680cd88be40df8864e5289f7330ef1f"},{"commit":{"message":"use higher RLIMIT_NOFILE limit on macosx"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"f61f91e6c617424709e9fcf363334e5107f9a591"}]
