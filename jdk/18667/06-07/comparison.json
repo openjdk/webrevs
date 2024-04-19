@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,0 +101,1 @@\n+            t.getResponseBody().close();\n@@ -115,1 +116,1 @@\n-            t.getRequestBody().close();\n+            t.getResponseBody().close();\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/bugs\/B6968351.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
