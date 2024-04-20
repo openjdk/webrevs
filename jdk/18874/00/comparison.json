@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n- *     throws IOException\n+ *     throws IOException;\n","filename":"src\/java.base\/share\/classes\/java\/io\/Serializable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
