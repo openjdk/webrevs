@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -267,0 +267,3 @@\n+\n+      \/\/ Derive MinNewSize from MinHeapSize\n+      MinNewSize = MIN2(scale_by_NewRatio_aligned(MinHeapSize, GenAlignment), initial_young_size);\n","filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

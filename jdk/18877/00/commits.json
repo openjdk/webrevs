@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272364: Parallel GC adaptive size policy may shrink the heap below MinHeapSize"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp"}],"sha":"dde348dfb53575f5bb0c09de5a0e2e2c2b554b22"}]
