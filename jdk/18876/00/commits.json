@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into 8323724_dont_reinflate_in_fasthashcode"},"files":[],"sha":"90de700264f350b054a776510a49b30b585e824f"},{"commit":{"message":"8323724: Remove potential re-inflation from FastHashCode"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"496eee15bec3101486106e5caf97d397ff87ae2c"}]
