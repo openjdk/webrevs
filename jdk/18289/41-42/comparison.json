@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -254,1 +254,1 @@\n-      int cmp_r = COMPARATOR(head->key(), key);\n+      int cmp_r = COMPARATOR::cmp(head->key(), key);\n","filename":"src\/hotspot\/share\/nmt\/nmtTreap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
