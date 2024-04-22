@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,0 +48,1 @@\n+import org.testng.annotations.Ignore;\n@@ -65,0 +66,1 @@\n+    @Ignore\n","filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestSmallCorpus.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
