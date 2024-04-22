@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -851,1 +851,0 @@\n-                tx.getResponseBody().flush();\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ServerImpl.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"flush after exchange returns\"\n\nThis reverts commit 30340e58be8ae08205400079b055460ed9ac2e25."},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ServerImpl.java"}],"sha":"02dc1ad7d5a025d3adfd84c20324335c505a5f82"}]
