@@ -1,0 +1,1 @@
+[{"commit":{"message":"8330748: ByteArrayOutputStream.writeTo(OutputStream) pins carrier"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ByteArrayOutputStream.java"},{"filename":"test\/jdk\/java\/io\/ByteArrayOutputStream\/WriteToReleasesCarrier.java"}],"sha":"08bb9cb6afe1ad382efc580cc6303295afd1da55"}]
