@@ -1,0 +1,1 @@
+[{"commit":{"message":"JVMCI: Don't call CompressedKlassPointers functions with -UCCP"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVMInit.cpp"}],"sha":"c6de9edef27058d22576a64d66a58a982db37b2d"}]
