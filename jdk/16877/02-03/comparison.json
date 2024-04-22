@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4314,1 +4314,1 @@\n-  Node* entry = loop->_head->in(LoopNode::EntryControl);\n+  Node* entry = loop->_head->as_Loop()->skip_strip_mined()->in(LoopNode::EntryControl);\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
