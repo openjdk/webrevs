@@ -1,0 +1,1 @@
+[{"commit":{"message":"8330583: [lworld] javac doesn't set ACC_STRICT to final synthetic fields in value classes"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"}],"sha":"cb6810ed1580f9dd01fe2125c7a76dd77085a1b5"}]
