@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -712,2 +712,2 @@\n-        \"lastName\", var last,\r\n-        \"age\", Integer.valueOf(var age),\r\n+        \"lastName\": var last,\r\n+        \"age\": Integer.valueOf(var age),\r\n","filename":"site\/design-notes\/patterns\/pattern-match-object-model.md","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
