@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -258,1 +258,1 @@\n-        THROW_OOP_(Universe::class_init_stack_overflow_error(), false);\n+        THROW_OOP_(Universe::internal_error_instance(), false);\n","filename":"src\/hotspot\/share\/classfile\/verifier.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
