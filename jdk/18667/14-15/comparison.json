@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,0 @@\n-        if(time>5000) throw new IllegalStateException(\"took too long\");\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/bugs\/TcpNoDelayNotRequired.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
