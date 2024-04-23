@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n- *     Generally, this is only package that would be needed for creating tools.\n+ *     Generally, this is the only package that would be needed for creating tools.\n","filename":"src\/jdk.jshell\/share\/classes\/module-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
