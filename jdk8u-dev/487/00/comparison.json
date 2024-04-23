@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -248,1 +248,2 @@\n-        if (c1 != count) {\n+        \/\/ Allow number of recursive calls to vary by 1\n+        if ((c1 < (count - 1)) || (c1 > (count + 1))) {\n","filename":"hotspot\/test\/compiler\/8009761\/Test8009761.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
