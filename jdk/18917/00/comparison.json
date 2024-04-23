@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -521,1 +521,1 @@\n-            sb.append(tsym.name.toString());\n+            sb.append(tsym.getQualifiedName().toString());\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Type.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
