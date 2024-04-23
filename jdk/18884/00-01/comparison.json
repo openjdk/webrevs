@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-                if (threadInfo[i].getThreadName().equals(\"Keep-Alive-SocketCleaner\"))  {\n+                if (threadInfo[i].getThreadName().equals(\"Keep-Alive-SocketCleaner\")) {\n","filename":"test\/jdk\/sun\/net\/www\/http\/KeepAliveCache\/B5045306.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
