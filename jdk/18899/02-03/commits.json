@@ -1,0 +1,1 @@
+[{"commit":{"message":"Let the monitor object escape to prevent it from getting optimized away"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/locking\/TestRecursiveMonitorChurn.java"}],"sha":"7a1cdc3f6af4c2c60795433e408d7082bb35e2ea"}]
