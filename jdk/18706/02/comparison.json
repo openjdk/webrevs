@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,0 +115,3 @@\n+       if (theme == 0) {\n+           theme = openTheme(widget, defaultDPI);\n+       }\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/ThemeReader.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
