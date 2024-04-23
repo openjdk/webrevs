@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -497,2 +497,1 @@\n-  return (cmp->Opcode() == Op_CmpP || cmp->Opcode() == Op_CmpN) &&\n-         (left == n || right == n) &&\n+  return (left == n || right == n) &&\n","filename":"src\/hotspot\/share\/opto\/escape.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
