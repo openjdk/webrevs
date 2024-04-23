@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,0 +72,1 @@\n+    \/\/ Implicit null check.\n","filename":"src\/hotspot\/cpu\/x86\/c1_MacroAssembler_x86.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
