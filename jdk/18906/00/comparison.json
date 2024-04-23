@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,1 @@\n+ * @requires vm.gc.ZGenerational\n","filename":"test\/hotspot\/jtreg\/testlibrary_tests\/ir_framework\/examples\/GCBarrierIRExample.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
