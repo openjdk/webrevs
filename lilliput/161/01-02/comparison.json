@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -146,1 +146,1 @@\n-  DEFINE_PAD_MINUS_SIZE(0, OM_CACHE_LINE_SIZE, sizeof(volatile uintptr_t) +\n+  DEFINE_PAD_MINUS_SIZE(0, OM_CACHE_LINE_SIZE, sizeof(_metadata) +\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
