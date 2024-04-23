@@ -1,0 +1,1 @@
+[{"commit":{"message":"Introduce CacheSetter and move cache updates out of inflate_and_enter"},"files":[{"filename":"src\/hotspot\/share\/runtime\/lightweightSynchronizer.cpp"},{"filename":"src\/hotspot\/share\/runtime\/lightweightSynchronizer.hpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"bb474806f8b8de18a36a433ea75bd59a1820d611"}]
