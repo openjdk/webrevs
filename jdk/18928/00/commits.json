@@ -1,0 +1,1 @@
+[{"commit":{"message":"8331021: Deprecate and obsolete the DontYieldALot flag"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java"}],"sha":"4981b6fae8c7f38cb442597f5e68ceffb777d9c9"}]
