@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -483,1 +483,1 @@\n-  return _the_space->allocate(word_size);\n+  return allocate(word_size, is_tlab);\n","filename":"src\/hotspot\/share\/gc\/serial\/tenuredGeneration.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
