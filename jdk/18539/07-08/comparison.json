@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -311,1 +311,1 @@\n-      initial_old_size = MinOldSize;\n+      MinOldSize = initial_old_size;\n","filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
