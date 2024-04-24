@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,2 @@\n- * with the system property {@code jdk.nio.file.WatchService.maxEventsPerPoll}\n+ * with the system property\n+ * {@systemProperty jdk.nio.file.WatchService.maxEventsPerPoll}\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/WatchService.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
