@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -569,1 +569,1 @@\n-    ObjectSynchronizer::handle_sync_on_value_based_class(obj, current);\n+    ObjectSynchronizer::handle_sync_on_value_based_class(obj, locking_thread);\n","filename":"src\/hotspot\/share\/runtime\/lightweightSynchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
