@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n- * @run driver compiler.ccp.TestShiftConvertAndNotification\n+ * @run main compiler.ccp.TestShiftConvertAndNotification\n","filename":"test\/hotspot\/jtreg\/compiler\/ccp\/TestShiftConvertAndNotification.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
