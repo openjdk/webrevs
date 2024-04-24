@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,4 +239,0 @@\n-  \/\/ The functions below are helper functions that a subclass of\n-  \/\/ \"CollectedHeap\" can use in the implementation of its virtual\n-  \/\/ functions.\n-\n","filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
