@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,3 +142,0 @@\n-  \/\/ Saved mark word, for to-space\n-  HeapWord* _saved_mark_word;\n-\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
