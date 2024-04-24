@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,0 @@\n-  HeapWord*           _saved_mark_word;\n@@ -92,1 +91,0 @@\n-  HeapWord* saved_mark_word() const { return _saved_mark_word; }\n","filename":"src\/hotspot\/share\/gc\/serial\/tenuredGeneration.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
