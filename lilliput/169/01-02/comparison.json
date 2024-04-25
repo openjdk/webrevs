@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1022,1 +1022,1 @@\n-bool LightweightSynchronizer::quick_enter(oop obj, JavaThread* current, BasicLock * lock) {\n+bool LightweightSynchronizer::quick_enter(oop obj, JavaThread* current, BasicLock* lock) {\n","filename":"src\/hotspot\/share\/runtime\/lightweightSynchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
