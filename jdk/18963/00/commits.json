@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8331108: Unused Math.abs call in java.lang.FdLibm.Expm1#compute"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/FdLibm.java"}],"sha":"e8f5c3343c06a885665ca713ef15d94c6ecfc372"}]
