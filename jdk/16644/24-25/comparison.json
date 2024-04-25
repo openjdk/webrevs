@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n- * (that is, <em>\"dequeue\"<\/em> them) using the {@link ReferenceQueue#poll()} or\n+ * (that is, <em>dequeue<\/em> them) using the {@link ReferenceQueue#poll()} or\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ref\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
