@@ -1,0 +1,1 @@
+[{"commit":{"message":"Re-enable Non-generational ZGC"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"d6f58052c8490d9cfd5bedbc7cbda0cdfcbd3095"},{"commit":{"message":"Don't warn when UCOH is on by default"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"823fa4bad23e1f25362d52d0d71bdcfb3c82faa9"}]
