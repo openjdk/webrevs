@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -453,0 +453,1 @@\n+        checkScreenCaptureAllowed();\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Robot.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
