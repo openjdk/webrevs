@@ -1,0 +1,1 @@
+[{"commit":{"message":"Put back ZGC-specific trampoline stub state into ZBarrierSetC2State"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/c2\/barrierSetC2.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/c2\/zBarrierSetC2.cpp"}],"sha":"7132780fd87333a69b21d6ced7c604349c654c85"}]
