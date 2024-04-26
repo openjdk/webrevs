@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -494,1 +494,1 @@\n-        if () {\n+        if (needSecurity) {\n","filename":"issuetracker\/src\/main\/java\/org\/openjdk\/skara\/issuetracker\/jira\/JiraIssue.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
