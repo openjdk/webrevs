@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5554,0 +5554,2 @@\n+  assert(is_aligned(base_offset, BytesPerWord) || base_offset == length_offset + BytesPerInt,\n+         \"base_offset must be 8-byte aligned or no padding between base and length\");\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
