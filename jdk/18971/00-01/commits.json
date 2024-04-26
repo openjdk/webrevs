@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix ClassDescTest; remove redundant validation performed by ReferenceClassDescImpl"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ClassDesc.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ReferenceClassDescImpl.java"}],"sha":"257dc54702ebd8c6ba55ba46f2c798f4a70627b0"}]
