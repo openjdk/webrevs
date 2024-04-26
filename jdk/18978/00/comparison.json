@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,3 +150,0 @@\n-  bool is_old_gen(const Generation* gen) const { return gen == _old_gen; }\n-\n-  MemRegion reserved_region() const { return _reserved; }\n","filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
