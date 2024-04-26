@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n-            } else if (identifier.contains(\"::\")) {\n+            } else if (identifier.startsWith(\"#\")) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/type\/CoreTypeFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
