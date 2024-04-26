@@ -1,0 +1,1 @@
+[{"commit":{"message":"8331164: createJMHBundle.sh download jars fail when url needed to be redirected\nThe curl command lack of \"-L\" option, cause download file fail, the size of download file is empty.\n\nSigned-off-by: sendaoYan <yansendao.ysd@alibaba-inc.com>"},"files":[{"filename":"make\/devkit\/createJMHBundle.sh"}],"sha":"b2eda4d1d5ba72840210b3ac32e784946fa792a9"}]
