@@ -1,0 +1,1 @@
+[{"commit":{"message":"8331154: [lworld] javac is not adding the STRICT flag to final instance fields of value records"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Flags.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"}],"sha":"4951ce2fa2fd84a17f6893f833771cc230b8646d"}]
