@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,1 +176,1 @@\n-  E& last() const {\n+  E& last() {\n@@ -180,1 +180,1 @@\n-  E const& last() {\n+  E const& last() const {\n","filename":"src\/hotspot\/share\/utilities\/growableArray.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
