@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,0 @@\n-  UpcallContext() {} \/\/ Explicit constructor to address XL C compiler bug.\n","filename":"src\/hotspot\/share\/prims\/upcallLinker.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
