@@ -1,0 +1,1 @@
+[{"commit":{"message":"Descriptors can't be empty, optimize isArray and isClassOrInterface with descriptorString().charAt(0) =="},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ClassDesc.java"}],"sha":"7e7386e1b89929d917cafc3cd085b7bcaf885446"}]
