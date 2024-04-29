@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix issues; modify vm options to make sure test the expected behaviors."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/floatingpoint\/TestRoundFloatAll.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestRoundVectorFloatAll.java"}],"sha":"b520743652d99d02f1691f560402bf174f4d4b7c"}]
