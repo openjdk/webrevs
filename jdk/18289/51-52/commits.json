@@ -1,0 +1,1 @@
+[{"commit":{"message":"Explicitly handle 0-sized mappings as no-ops"},"files":[{"filename":"src\/hotspot\/share\/nmt\/vmatree.cpp"}],"sha":"be2f03a9d79487e7fa47148e7620bf1c3eeb347b"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,4 @@\n+  if (A == B) {\n+    \/\/ A 0-sized mapping isn't worth recording.\n+    return SummaryDiff();\n+  }\n","filename":"src\/hotspot\/share\/nmt\/vmatree.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
