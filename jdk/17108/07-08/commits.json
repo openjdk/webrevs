@@ -1,0 +1,1 @@
+[{"commit":{"message":"Deferred initialization of attributes map by moving into a holder class\n\nCo-authored-by: Claes Redestad <redestad@openjdk.org>"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/Attributes.java"}],"sha":"803c804d00bc79b7d01f23a649252b57854ce6cd"}]
