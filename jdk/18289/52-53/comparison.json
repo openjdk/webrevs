@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,0 +137,1 @@\n+  assert(device != nullptr, \"must be\");\n","filename":"src\/hotspot\/share\/nmt\/nmtMemoryFileTracker.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
