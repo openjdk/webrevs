@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-\t    try {\n+        try {\n@@ -55,2 +55,2 @@\n-\t    }\n-\t    catch (InstantiationException e) {\n+        }\n+        catch (InstantiationException e) {\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestReduceAllocationAndNonExactAllocate.java","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
