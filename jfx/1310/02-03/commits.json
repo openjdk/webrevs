@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8322619: Clear dirty flag on the node and all its children if they are skipped due to visible==false or opacity==0"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/sg\/prism\/NGNode.java"}],"sha":"5f9f1574515c078c1fd0dccd476325090a0b284d"}]
