@@ -1,0 +1,1 @@
+[{"commit":{"message":"8308033: The jcmd thread dump related tests should test virtual threads"},"files":[{"filename":"test\/jdk\/ProblemList-Virtual.txt"},{"filename":"test\/jdk\/sun\/tools\/jcmd\/JcmdOutputEncodingTest.java"},{"filename":"test\/jdk\/sun\/tools\/jstack\/BasicJStackTest.java"}],"sha":"201be489c925799f3d1e5d168cff1fb452fcf297"}]
