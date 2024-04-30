@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8330094: RISC-V: Save and restore FRM in the call stub"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/frame_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"768909ff3e5486a5cb94fc8702b9642ef7d57c9c"}]
