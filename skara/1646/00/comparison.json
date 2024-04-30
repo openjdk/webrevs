@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -614,1 +614,1 @@\n-            \"src\/hotspot\/share\/services\/(attach|management)\",\n+            \"src\/hotspot\/share\/services\/(attach|management|heapdumper|diagnostic)\",\n","filename":"config\/mailinglist\/rules\/jdk.json","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
