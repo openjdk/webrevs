@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -434,1 +434,1 @@\n-            String text = \"The head hash of this pull request is missing.\" +\n+            String text = \"The head hash of this pull request is missing. \" +\n","filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckWorkItem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
