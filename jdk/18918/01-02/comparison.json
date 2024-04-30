@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1716,1 +1716,1 @@\n-  int oflags = O_WRONLY | O_CREAT WINDOWS_ONLY(| _O_BINARY);\n+  int oflags = O_WRONLY | O_CREAT WINDOWS_ONLY(| O_BINARY);\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
