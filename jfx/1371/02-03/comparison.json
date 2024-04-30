@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,2 +168,1 @@\n-    private Group createTarget(TransferMode[] modes)\n-    {\n+    private Group createTarget(TransferMode[] modes) {\n","filename":"tests\/manual\/dnd\/DndBasic.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
