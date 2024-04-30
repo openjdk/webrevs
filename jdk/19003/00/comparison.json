@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n-        @JEP(number=461, title=\"Stream Gatherers\", status=\"Preview\")\n+        @JEP(number=473, title=\"Stream Gatherers\", status=\"Second Preview\")\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/javac\/PreviewFeature.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
