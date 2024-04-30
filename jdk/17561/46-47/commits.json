@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix NumPartition type\n\nBeautify the code by changing type of NumPartitions and adding Int and\nUInt forms of NumPartitions."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.hpp"}],"sha":"06909bad69a807eeba9c3d232adf5b5f441f9064"}]
