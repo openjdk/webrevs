@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,1 +151,6 @@\n-  E* adr_at(int i) const {\n+  E* adr_at(int i) {\n+    assert(0 <= i && i < _len, \"illegal index %d for length %d\", i, _len);\n+    return &_data[i];\n+  }\n+\n+  const E* adr_at(int i) const {\n","filename":"src\/hotspot\/share\/utilities\/growableArray.hpp","additions":6,"deletions":1,"binary":false,"changes":7,"status":"modified"}]}
