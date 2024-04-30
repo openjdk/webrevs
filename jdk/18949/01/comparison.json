@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -153,1 +153,3 @@\n-  report_region_type_change(G1HeapRegionTraceType::Free);\n+  if (!is_free()) {\n+    report_region_type_change(G1HeapRegionTraceType::Free);\n+  }\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HeapRegion.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
