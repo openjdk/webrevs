@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,2 +31,0 @@\n-#define SKIP_RETIRED_FULL_REGIONS 1\n-\n@@ -61,3 +59,1 @@\n-      if (!SKIP_RETIRED_FULL_REGIONS || hr->top() < hr->end()) {\n-        print(\"RETIRE\", hr);\n-      }\n+      print(\"RETIRE\", hr);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HRPrinter.hpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
