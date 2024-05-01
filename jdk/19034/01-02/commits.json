@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8331427: Rename confusingly named ArraysSupport.signedHashCode\"\n\nThis reverts commit 4f529f8c232b4082aa4aa39766bcf42b09885ee4."},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/ArraysSupport.java"}],"sha":"051da56eaced6af823b9bce1f020afe23b42ebcb"}]
