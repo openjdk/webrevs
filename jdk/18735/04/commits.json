@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8330027-cds-ihash-reproducability.patch"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveHeapWriter.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"ddfb2181f0875a0f681ac4dab15eea922f5c0c5e"}]
