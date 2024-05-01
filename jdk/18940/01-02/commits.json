@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove JavaThread's is_lock_owned"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"ce92b92b67c810cee9fb755798dcef27bfc9184b"}]
