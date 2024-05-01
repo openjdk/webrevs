@@ -1,0 +1,1 @@
+[{"commit":{"message":"Bump copyright year"},"files":[{"filename":"agent\/pom.xml"}],"sha":"17e8d0f65b5c4d4bbee278e8daa7c7aff02a3b48"},{"commit":{"message":"Update ASM to 9.7 so the agent can build and run with JDK17"},"files":[{"filename":"agent\/pom.xml"}],"sha":"f77c6f02d72388c8fd0b2c5ee5aaf680770d742f"}]
