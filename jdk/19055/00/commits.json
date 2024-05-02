@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327114: Attach in Linux may have wrong behaviour when pid == ns_pid (Kubernetes debug container)"},"files":[{"filename":"src\/jdk.attach\/linux\/classes\/sun\/tools\/attach\/VirtualMachineImpl.java"},{"filename":"test\/hotspot\/jtreg\/containers\/docker\/TestJcmdWithSideCar.java"}],"sha":"d37423fcdb210b20529efea9ed75529ead86dbc2"}]
