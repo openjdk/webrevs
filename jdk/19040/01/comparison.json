@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,1 @@\n+ *      -XX:-VerifyDependencies\n@@ -70,0 +71,1 @@\n+ *      -XX:-VerifyDependencies\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/mlvm\/meth\/stress\/compiler\/deoptimize\/Test.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
