@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-        flagList.add(\"-Xmx4g\");\n+        flagList.add(\"-Xmx2g\");\n","filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestParallelGCErgo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

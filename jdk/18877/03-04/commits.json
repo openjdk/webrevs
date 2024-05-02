@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reduce max heap size to 2GB in test, so it can run on 32-bit JVM"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestParallelGCErgo.java"}],"sha":"70c180fb7726f39e6fc04156f3aaad0d62eda4c8"}]
