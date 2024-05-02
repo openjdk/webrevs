@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1104,2 +1104,0 @@\n-        deleteRecursively(ctSym);\n-\n","filename":"test\/langtools\/tools\/javac\/platform\/createsymbols\/CreateSymbolsTestImpl.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
