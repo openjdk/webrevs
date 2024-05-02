@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 2ceeb6c00135310b7bdabacb92d26d81de525240"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/TestCountedLoopMinJintStride.java"}],"sha":"b242c2a105efe906a14dcdbd0c2c2a93dcbbe5cf"}]
