@@ -1,0 +1,1 @@
+[{"commit":{"message":"8330146: assert(!_thread->is_in_any_VTMS_transition()) failed"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"038abb3df69fe396e17d72bcd82765f369198a4e"}]
