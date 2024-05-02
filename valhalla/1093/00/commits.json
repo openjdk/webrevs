@@ -1,0 +1,1 @@
+[{"commit":{"message":"8331461: [lworld] javac is generating a class file with the Preload attribute but with minor version '0'"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassWriter.java"},{"filename":"test\/langtools\/tools\/javac\/valhalla\/value-objects\/PreloadAttrTest2.java"}],"sha":"4d6b5a418bb767fa0196c4f2d990d3c429f3dc93"}]
