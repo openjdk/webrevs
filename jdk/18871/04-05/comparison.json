@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-  void mark_reclaim(HeapRegion* hr) {\n+  void mark_reclaim(G1HeapRegion* hr) {\n@@ -93,1 +93,1 @@\n-  void evac_reclaim(HeapRegion* hr) {\n+  void evac_reclaim(G1HeapRegion* hr) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HRPrinter.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
