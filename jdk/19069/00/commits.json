@@ -1,0 +1,1 @@
+[{"commit":{"message":"8331081: 'internal proprietary API' diagnostics if --system is configured to an earlier JDK version"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/ClassFinder.java"},{"filename":"test\/langtools\/tools\/javac\/options\/system\/SystemSunProprietary.java"}],"sha":"4cb9915ed83d8453f14cab219f3a690b098a4dde"}]
