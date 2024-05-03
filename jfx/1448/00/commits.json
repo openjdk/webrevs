@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix problem in ExpressionHelper that could copy the wrong current value"},"files":[{"filename":"modules\/javafx.base\/src\/main\/java\/com\/sun\/javafx\/binding\/ExpressionHelper.java"},{"filename":"modules\/javafx.base\/src\/test\/java\/test\/com\/sun\/javafx\/binding\/ExpressionHelperTest.java"}],"sha":"4199e00383b6bfde2bf26b8c44f10b67ba8b804e"}]
