@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-    int cmp(int a, int b) {\n+    static int cmp(int a, int b) {\n","filename":"test\/hotspot\/gtest\/nmt\/test_nmt_treap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
