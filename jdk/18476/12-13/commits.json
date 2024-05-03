@@ -1,0 +1,1 @@
+[{"commit":{"message":"revert unneeded legacy flag change for kmovwl(K,K) and kmovql(K,K)"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"}],"sha":"d93e9893c409278c95b5b6819487b56e794ce5cc"}]
