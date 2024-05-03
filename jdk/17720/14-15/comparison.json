@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n- * @bug 8226990 6462396 4690946\n+ * @bug 4690946 8226990 6462396\n","filename":"test\/jdk\/javax\/swing\/JTabbedPane\/TestJTabbedPaneOpaqueColor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
