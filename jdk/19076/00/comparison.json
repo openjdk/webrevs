@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-  return desired_size < max_minus ? desired_size : max_minus;\n+  return MIN2(desired_size, max_minus);\n","filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
