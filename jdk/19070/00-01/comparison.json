@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -409,1 +409,1 @@\n-             * name of the implementation, and which defaults to the value\n+             * name of the implementation, and which defaults to the value of\n","filename":"src\/java.base\/share\/classes\/java\/io\/Console.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
