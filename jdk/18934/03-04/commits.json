@@ -1,0 +1,1 @@
+[{"commit":{"message":"- Not checking elements enclosed within a record, I doubt a record class will change after being created\n- Added a null check as `toString` can return an exception"},"files":[{"filename":"test\/jdk\/tools\/sincechecker\/SinceChecker.java"}],"sha":"48c87814a4527ce6314acec47b68105dc326c5e9"}]
