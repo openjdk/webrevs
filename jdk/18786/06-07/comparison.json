@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -641,2 +641,3 @@\n-\n-    CHECK_EXCEPTION_LEAVE(1);\n+    if (!ret) {\n+        CHECK_EXCEPTION_LEAVE(1);\n+    }\n","filename":"src\/java.base\/share\/native\/libjli\/java.c","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
