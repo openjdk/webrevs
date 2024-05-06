@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'openjdk\/master' into 8331711"},"files":[],"sha":"12681d738e991a45f7a250fdf119a499b6aa7b3b"},{"commit":{"message":"8331711: G1 doesn't need pre write barrier for stores from new allocated objects"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/c2\/g1BarrierSetC2.cpp"}],"sha":"b34d6e7ba97f6c8be3aaab910e0d280fdc883159"}]
