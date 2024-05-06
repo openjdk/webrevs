@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,0 +110,3 @@\n+      for (int i = 0; i < _nr_buckets; i++) {\n+        _buckets[i] = nullptr;\n+      }\n","filename":"src\/hotspot\/share\/nmt\/nmtNativeCallStackStorage.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
