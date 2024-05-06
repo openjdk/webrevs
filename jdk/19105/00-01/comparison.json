@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,1 +131,1 @@\n-        validateBinaryClassName(requireNonNull(packageName));\n+        validateBinaryClassName(packageName);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ClassDesc.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
