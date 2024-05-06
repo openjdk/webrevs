@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -229,0 +229,1 @@\n+    _promotion_failed(false),\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

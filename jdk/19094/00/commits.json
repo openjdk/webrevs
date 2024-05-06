@@ -1,0 +1,1 @@
+[{"commit":{"message":"8331695: Serial: DefNewGeneration:_promotion_failed used without being initialized"},"files":[{"filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp"}],"sha":"2a7ba7a05005d54463cd0d8d1521aab89b4a53fe"}]
