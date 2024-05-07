@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -538,1 +538,1 @@\n-    bool unused;\n+    bool unused = false;\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
