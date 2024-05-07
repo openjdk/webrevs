@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-\/\/ _is_stw_gc_active, _is_any_gc_active state without requiring\n+\/\/ _is_stw_gc_active, _any_gc_count state without requiring\n@@ -35,2 +35,0 @@\n- private:\n-  bool _skip;\n","filename":"src\/hotspot\/share\/gc\/shared\/isGCActiveMark.hpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
