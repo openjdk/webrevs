@@ -1,0 +1,1 @@
+[{"commit":{"message":"correct behavior when underflow from adjustment + use MIN"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/text\/DecimalFormat.java"},{"filename":"test\/jdk\/java\/text\/Format\/DecimalFormat\/LargeExponentsTest.java"}],"sha":"2c1674938a4fda385e9b365654d5e7a96ee5b038"}]
