@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3549,1 +3549,1 @@\n-          assert(Opcode() = Op_StoreVector, \"just a plain vector store, no offset or mask\");\n+          assert(Opcode() == Op_StoreVector, \"just a plain vector store, no offset or mask\");\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
