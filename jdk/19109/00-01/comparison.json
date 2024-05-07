@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-@Fork(1)\n+@Fork(jvmArgsAppend = \"--enable-preview\", value = 1)\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/classfile\/TypeKindBench.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
