@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,1 @@\n+        assumeTrue(PlatformUtil.isWindows());\n@@ -76,0 +77,1 @@\n+        assumeTrue(PlatformUtil.isWindows());\n","filename":"tests\/system\/src\/test\/java\/test\/com\/sun\/glass\/ui\/win\/WinTextRangeProviderTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
