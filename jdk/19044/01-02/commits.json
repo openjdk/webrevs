@@ -1,0 +1,1 @@
+[{"commit":{"message":"Call verifyMonitorRank() when doing a wait since wait does an exit and enter, so we should do the same rank check that we do during an enter."},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.c"}],"sha":"c782279be88723c32aeafc3e0bcb982e05183b1b"}]
