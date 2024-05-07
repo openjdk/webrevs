@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+ * @run main\/othervm -Djdk.console=java.base java.base ConsolePromptTest\n","filename":"test\/jdk\/java\/io\/Console\/ConsolePromptTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
