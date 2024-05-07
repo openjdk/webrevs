@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -291,3 +291,0 @@\n-  if (_input != nullptr)  {\n-    set_input(nullptr);\n-  }\n","filename":"src\/hotspot\/share\/utilities\/istream.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}

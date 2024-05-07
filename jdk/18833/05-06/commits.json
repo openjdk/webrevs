@@ -1,0 +1,1 @@
+[{"commit":{"message":"No need to call set_input(null_ptr) from inputStream destructor"},"files":[{"filename":"src\/hotspot\/share\/utilities\/istream.cpp"}],"sha":"2ddbfea9b7be397f9f6f500dbec856d7ccb1eb11"}]
