@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,2 @@\n-LibjavaExists(const char *path) {\n+LibjavaExists(const char *path)\n+{\n@@ -139,1 +140,1 @@\n-    char* save_ptr = NULL;\n+    char *save_ptr = NULL;\n","filename":"src\/java.base\/unix\/native\/libjli\/java_md_common.c","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
