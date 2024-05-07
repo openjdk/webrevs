@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-        MethodTypeDescImpl result = ofTrusted(ptypes.get(0), paramTypes);\n+        MethodTypeDescImpl result = new MethodTypeDescImpl(ptypes.get(0), paramTypes);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/constant\/MethodTypeDescImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
