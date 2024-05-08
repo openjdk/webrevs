@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1297,1 +1297,1 @@\n-    \/\/ Iterate over all the monitors and makes sure we don't already hold one that\n+    \/\/ Iterate over all the monitors and make sure we don't already hold one that\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
