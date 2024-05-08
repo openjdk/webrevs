@@ -1,0 +1,1 @@
+[{"commit":{"message":"Applicable platforms expanded to the entire neoverse family\n\nEven on the V series (V1 and V2), both sdiv\/udiv and msub instructions are executed in M0 unit (Integer multi cycle). It should benefit the V series as well."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp"}],"sha":"d8b8dbfe102d2716ef9e332aec7c52e566bf1727"}]
