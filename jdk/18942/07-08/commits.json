@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert JNI field, call()->li()"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/jniFastGetField_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp"}],"sha":"d08afa51d97c4b29252cd1d1bbfbb20149a7d4bd"}]
