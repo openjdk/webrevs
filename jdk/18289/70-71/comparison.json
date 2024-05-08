@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-  _tracker->allocate_memory(device, offset, size, flag, stack);\n+  _tracker->allocate_memory(device, offset, size, stack, flag);\n","filename":"src\/hotspot\/share\/nmt\/nmtMemoryFileTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
