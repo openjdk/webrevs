@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,2 +43,0 @@\n-  $$(call PrintVar, $1_$2_INPUT_FILE)\n-  $$(call PrintVar, $1_$2_OUTPUT_FILE_PROCESSED)\n","filename":"make\/common\/ProcessMarkdown.gmk","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
