@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8325520: simplify check for offsets and masks"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"}],"sha":"9b742109b196d79cbf712ffd3f64edd1d6497114"}]
