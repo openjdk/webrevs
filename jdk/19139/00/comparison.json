@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,3 @@\n+# Hook to include the corresponding custom file, if present.\n+$(eval $(call IncludeCustomExtension, TestImage-pre.gmk))\n+\n","filename":"make\/TestImage.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
