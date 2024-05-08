@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make phi merging pointer loads nullable & add test."},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestReduceAllocationAndNullableLoads.java"}],"sha":"26f0e4d595108d4794ded1d5517a2646bb34b0f7"}]
