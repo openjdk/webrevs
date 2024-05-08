@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3764,1 +3764,1 @@\n-  format %{ \"vreverse_bytes_masked $dst, $src, v0.t\" %}\n+  format %{ \"vreverse_bytes_masked $dst, $src, v0\" %}\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
