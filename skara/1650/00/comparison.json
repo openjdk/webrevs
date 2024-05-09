@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-        if (!issuesWithTrailingPeriod.isEmpty()) {\n+        if (!issuesWithTrailingPeriod.isEmpty() || !issuesWithLeadingLowerCaseLetter.isEmpty()) {\n","filename":"jcheck\/src\/main\/java\/org\/openjdk\/skara\/jcheck\/IssuesTitleCheck.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
