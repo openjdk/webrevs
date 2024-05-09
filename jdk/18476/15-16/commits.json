@@ -1,0 +1,1 @@
+[{"commit":{"message":"enable EEVEX encoding of vex map2 instructions when UseAVX=2 if UseAPX=true"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"}],"sha":"d4ecb31c2e2e9e8bd115418d6bcdba67fa308d74"}]
