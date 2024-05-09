@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -100,1 +100,1 @@\n-        private static boolean invoked = false;\n+        private static volatile boolean invoked = false;\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/BasicAuthToken.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
