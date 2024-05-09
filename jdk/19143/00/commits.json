@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove MemoryPoolMBean\/isCollectionUsageThresholdExceeded from ZGC ProblemLists"},"files":[{"filename":"test\/hotspot\/jtreg\/ProblemList-generational-zgc.txt"},{"filename":"test\/hotspot\/jtreg\/ProblemList-zgc.txt"}],"sha":"ebaa3a303149326ea387d399514bf414c127bda8"}]
