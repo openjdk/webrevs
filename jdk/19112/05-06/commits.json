@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix System.console().readln(null) in jshell\n\nWithout it, jshell hangs on me. Will think of a test."},"files":[{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/execution\/impl\/ConsoleImpl.java"}],"sha":"1bf7a4cd9f8affdb732cb63b07647357346f4efe"}]

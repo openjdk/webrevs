@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -222,1 +222,1 @@\n-                    char[] chars = prompt.toCharArray();\n+                    char[] chars = (prompt == null ? \"null\" : prompt).toCharArray();\n","filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/execution\/impl\/ConsoleImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
