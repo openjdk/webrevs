@@ -1,0 +1,1 @@
+[{"commit":{"message":"Need to apply the same fdopen work-around as in JDK-8216184"},"files":[{"filename":"src\/hotspot\/share\/cds\/classListParser.cpp"},{"filename":"src\/hotspot\/share\/cds\/classListParser.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/LongClassListPath.java"}],"sha":"909e51752d601a05d7a89df8cf85064568c0c537"}]
