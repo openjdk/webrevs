@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -459,1 +459,1 @@\n-                CK_VERSION cryptokiVersion = token.p11.C_GetInfo().cryptokiVersion;\n+                CK_VERSION cryptokiVersion = token.p11.getVersion();\n","filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/P11AEADCipher.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
