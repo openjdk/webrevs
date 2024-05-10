@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -189,1 +189,1 @@\n-            validateArgument(argTypes[i]);\n+            validateArgument(newArgs[i]);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/constant\/MethodTypeDescImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
