@@ -1,0 +1,1 @@
+[{"commit":{"message":"8330027: Identity hashes of archived objects must be based on a reproducible random seed\n\nReviewed-by: ccheung, iklam"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveHeapWriter.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"a7e9005681786809dd74cdc2508bd74b6e16b321"}]
