@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-public sealed interface HKDFParameterSpec extends KDFParameterSpec {\n+public interface HKDFParameterSpec extends KDFParameterSpec {\n","filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/HKDFParameterSpec.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
