@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -258,1 +258,1 @@\n-  return ! allocated_regs.contains(first_register);\n+  return !allocated_regs.contains(first_register);\n","filename":"src\/hotspot\/share\/asm\/register.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
