@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5554,1 +5554,1 @@\n-  assert(start_offset == length_offset || start_offset == klass_offset, \n+  assert(start_offset == length_offset || start_offset == klass_offset,\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
