@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix entry condition for EEVEX encoding when UseAVX=2"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.hpp"}],"sha":"aee89e7cb5d233183f81ea62879e54c71c3eb372"}]
