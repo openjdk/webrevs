@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -702,1 +702,1 @@\n-                                \"Bad multiple found at [\" +d+\"][\"+w+\"]\" + \n+                                \"Bad multiple found at [\" +d+\"][\"+w+\"]\" +\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ec\/ECOperations.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
