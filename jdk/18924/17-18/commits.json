@@ -1,0 +1,1 @@
+[{"commit":{"message":"replace in-place SecretKeySpec alg for IKM\/salt with \"Generic\""},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/HKDFParameterSpec.java"}],"sha":"2ed500f121d079f879c4a531572a813c91efad1c"}]
