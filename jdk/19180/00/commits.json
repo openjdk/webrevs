@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check for satb active flag, rather than gc state\n\nThis is consistent with c1 and other platforms"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/gc\/shenandoah\/shenandoahBarrierSetAssembler_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/gc\/shenandoah\/shenandoahBarrierSetAssembler_x86.cpp"}],"sha":"2769c97cbf5313c5c0f1336060ec39cb66584e3c"}]
