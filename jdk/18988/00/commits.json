@@ -1,0 +1,1 @@
+[{"commit":{"message":"CompletableFuture should be more resilient against misbehaving exceptions"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/CompletableFuture.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/CompletableFutureTest.java"}],"sha":"245f07a63148a4b175b5ee0b909dd7772bb72694"}]
