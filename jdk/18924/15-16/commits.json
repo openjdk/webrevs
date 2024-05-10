@@ -1,0 +1,1 @@
+[{"commit":{"message":"set hmacLen *before* inspecting the KDFParameterSpec"},"files":[{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/HkdfKeyDerivation.java"}],"sha":"da9a7bb232433aa3aae9b47a09544157b5ee80c1"}]
