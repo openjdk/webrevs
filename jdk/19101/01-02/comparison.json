@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,0 @@\n-\/\/ todo: smaller region size for debugging only\n@@ -104,1 +103,0 @@\n-\/\/ const size_t ParallelCompactData::Log2RegionSize  = 10; \/\/ 64K words\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
