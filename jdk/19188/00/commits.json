@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8332105-Exploded-JDK-should-count-as-if-CDS-had-not-been-included-in-the-build"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedCPUSpecificClassSpaceReservation.java"}],"sha":"179d00b390a63e737c39187b7880b174baf24305"}]
