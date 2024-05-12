@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-            G1HeapRegion hr = heap.hrm().g1HeapRegionIterator().next();\n+            G1HeapRegion hr = heap.hrm().heapRegionIterator().next();\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestG1HeapRegion.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
