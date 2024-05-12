@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cleanup asserts\/code after introducing IsSTWGCActiveMark"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psScavenge.cpp"},{"filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.cpp"}],"sha":"74373a79ccfcffbcc445a406360897d5a9d24ad8"}]
