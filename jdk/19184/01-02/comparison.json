@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-                        } catch (IOException x) {\n+                        } catch (IOException _) {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/io\/JdkConsoleImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
