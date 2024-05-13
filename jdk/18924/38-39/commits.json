@@ -1,0 +1,1 @@
+[{"commit":{"message":"rename static extract() method to builder()"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/HKDFParameterSpec.java"},{"filename":"test\/jdk\/com\/sun\/crypto\/provider\/KDF\/Functions.java"},{"filename":"test\/jdk\/com\/sun\/crypto\/provider\/KDF\/TestHKDF.java"}],"sha":"c42a195aba1c0fa93644678349faf4181a10887b"}]
