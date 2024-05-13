@@ -1,0 +1,1 @@
+[{"commit":{"message":"disallow null or empty values for ikm\/salt rather than silent ignore"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/HKDFParameterSpec.java"}],"sha":"fa60b0188e1716b60876a8d3ac205582a6f2a2a1"}]
