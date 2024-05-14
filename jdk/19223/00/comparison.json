@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -304,2 +304,0 @@\n-    \/\/ The generation minimums and the overall heap minimum should\n-    \/\/ be within one generation alignment.\n","filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
