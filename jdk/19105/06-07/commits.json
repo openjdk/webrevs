@@ -1,0 +1,1 @@
+[{"commit":{"message":"Weed out redundant null-checks, clarify javadoc of internal static utilities"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ClassDesc.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/constant\/ConstantUtils.java"}],"sha":"e2d7b59d2f2d3d0c8140c04771b5ab323a4d8fd6"}]
