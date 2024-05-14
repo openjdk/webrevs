@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add microbenchmark for ClassDesc methods + a few optimizations"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ClassDesc.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/constant\/ClassDescMethods.java"}],"sha":"6d5df18e68478a2db255feca5431e06a5c2ecc3f"}]
