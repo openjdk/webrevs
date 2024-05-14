@@ -1,0 +1,1 @@
+[{"commit":{"message":"8331352: error: template-id not allowed for constructor\/destructor in C++20\n\nReviewed-by: kbarrett, stefank"},"files":[{"filename":"src\/hotspot\/share\/utilities\/chunkedList.hpp"},{"filename":"src\/hotspot\/share\/utilities\/events.hpp"},{"filename":"src\/hotspot\/share\/utilities\/linkedlist.hpp"}],"sha":"c8489c1ebf6a20d1ce595e2de59ad1ee750e57aa"}]
