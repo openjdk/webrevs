@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not inline evacuate_object"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.inline.hpp"}],"sha":"c28960c62e80010ffdbef6450ed34ede54beedaf"}]
