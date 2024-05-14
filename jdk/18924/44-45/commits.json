@@ -1,0 +1,1 @@
+[{"commit":{"message":"refactor to remove some class fields for thread-safety and to also unify around one \"derive\" method"},"files":[{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/HkdfKeyDerivation.java"}],"sha":"34a9f1973f045faa6657a5799ee055fb17693f07"}]
