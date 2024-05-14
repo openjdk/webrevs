@@ -1,0 +1,1 @@
+[{"commit":{"message":"expand javadoc wrt addIKM and addSalt; also provide HKDFParameterSpec creation examples"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/KDF.java"},{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/HKDFParameterSpec.java"}],"sha":"2919bfe539a3147cb261f54259ef22ec2da066dd"}]
