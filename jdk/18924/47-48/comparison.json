@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,2 +54,1 @@\n-     * may require this. Though no such KDF algorithms are currently defined,\n-     * this parameter is held for future use.\n+     * may require this. \n","filename":"src\/java.base\/share\/classes\/javax\/crypto\/KDFSpi.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
