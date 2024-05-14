@@ -1,0 +1,1 @@
+[{"commit":{"message":"handle null IKM like null salt in hkdfExtract"},"files":[{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/HkdfKeyDerivation.java"}],"sha":"841e8ed825acc487cb362d30d5c7bff18641ccf0"}]
