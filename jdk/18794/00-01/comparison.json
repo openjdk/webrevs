@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,3 +193,0 @@\n-     * <li>final fields of a type that implements\n-     * {@linkplain jdk.internal.lang.stable.TrustedFieldType}\n-     * (e.g {@linkplain StableValue StableValue})<\/li>\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/AccessibleObject.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
