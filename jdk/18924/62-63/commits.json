@@ -1,0 +1,1 @@
+[{"commit":{"message":"disable Delayed test temporarily due to new error checking; remove explicit statement about KDFParameterSpec from javadoc"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/KDF.java"},{"filename":"test\/jdk\/javax\/crypto\/KDF\/Delayed.java"}],"sha":"14e93b77425fe0bd5ab3cc5533298d80864a5fc4"}]
