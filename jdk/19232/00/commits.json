@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332236: javac crashes with module imports and implicitly declared class"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/ImportModule.java"}],"sha":"c63041e00c19a5575feeb81472c24344923c0cfb"}]
