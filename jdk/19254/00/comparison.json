@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,0 +256,1 @@\n+  volatile_nonstatic_field(InstanceKlass,      _methods_jmethod_ids,                          jmethodID*)                            \\\n","filename":"src\/hotspot\/share\/runtime\/vmStructs.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
