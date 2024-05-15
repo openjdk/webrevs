@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -341,1 +341,1 @@\n-        return (index == -1) ? \"\" : internalToBinary(desc.substring(1, index - 1));\n+        return (index == -1) ? \"\" : internalToBinary(desc.substring(1, index));\n","filename":"src\/java.base\/share\/classes\/java\/lang\/constant\/ClassDesc.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
