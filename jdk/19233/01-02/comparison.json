@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1471,1 +1471,3 @@\n-  if (!tst->is_Con())  record_for_igvn(iff);\n+  if (!tst->is_Con()) {\n+    record_for_igvn(iff);\n+  }\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
