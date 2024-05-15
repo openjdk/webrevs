@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reverted test workaround. Fixed JLine (backing out a questionable change)"},"files":[{"filename":"src\/jdk.internal.le\/share\/classes\/jdk\/internal\/org\/jline\/utils\/Display.java"},{"filename":"test\/jdk\/java\/io\/Console\/LocaleTest.java"}],"sha":"7833da36642b330ec2b0fc9ca94b010847134acf"}]
