@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -871,1 +871,1 @@\n-            fail(\"Value specified to --illegal-access not recognized:\"\n+            fail(\"Value specified to --illegal-native-access not recognized:\"\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/ModuleBootstrap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
