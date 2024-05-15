@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- *                   -XX:-TieredCompilation -Xbatch -Xcomp -server\n+ *                   -XX:-TieredCompilation -Xcomp -server\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestReduceAllocationAndNullableLoads.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
