@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-         *     {@code null}; the byte[] is copied to prevent subsequent\n+         *     {@code null}); the byte[] is copied to prevent subsequent\n","filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/HKDFParameterSpec.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
