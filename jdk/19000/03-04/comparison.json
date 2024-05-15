@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n- * one of the LIBPATH and then truncating the path to it.\n+ * LIBPATH and then truncating the path to it.\n","filename":"src\/java.base\/unix\/native\/libjli\/java_md_common.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
