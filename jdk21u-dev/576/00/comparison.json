@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,2 @@\n+  #elif defined(ARM32)\n+  #define SYS_membarrier 389\n","filename":"src\/hotspot\/os\/linux\/systemMemoryBarrier_linux.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
