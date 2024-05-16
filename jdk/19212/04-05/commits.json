@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rely on Deprecated annotation only for legacy generators."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/random\/RandomGeneratorFactory.java"},{"filename":"test\/jdk\/java\/util\/Random\/RandomTestCoverage.java"}],"sha":"a77146f59e2a36e6e2bb316da0db59f110a8d12b"}]
