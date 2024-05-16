@@ -1,0 +1,1 @@
+[{"commit":{"message":"add asserts requiring UseAPX and UseAVX > 2 for egpr use with some instructions"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"156bbfc5be381aac4bf636429306565ab75bdf7a"}]
