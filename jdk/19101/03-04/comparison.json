@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1290,2 +1290,0 @@\n-    \/\/ adjust_pointers() updates Universe::_intArrayKlass which is\n-    \/\/ needed by the compaction for filling holes in the dense prefix.\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
