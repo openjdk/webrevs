@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -288,1 +288,0 @@\n-            e.printStackTrace();\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/verifier\/VerifierImpl.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
