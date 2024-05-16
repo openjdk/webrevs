@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1040,1 +1040,1 @@\n-        int foo = rI;\n+        int foo = 42;\n@@ -1060,1 +1060,1 @@\n-        Asserts.assertEQ(test27(), rI);\n+        Asserts.assertEQ(test27(), 42);\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestUnloadedInlineTypeField.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
