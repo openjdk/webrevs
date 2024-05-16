@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify by getting rid of special logic around leaf monitors."},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.c"},{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.h"}],"sha":"c3bd171674698b59762f063b3d4394dd4a707aa4"}]
