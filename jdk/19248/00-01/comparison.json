@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1100,1 +1100,1 @@\n-        ws = isspace(*p);\n+        ws = isspace((unsigned)*p);\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
