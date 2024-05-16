@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4794,1 +4794,1 @@\n-                return t;\n+                return rewriteTypeVars ? makeExtendsWildcard(syms.objectType, t) : t;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Types.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
