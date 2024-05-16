@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,2 @@\n- * Purposes<\/i><\/a>.\n+ * Purposes<\/i><\/a>. Aside from {@code Inet4Address.ofPosixLiteral(String)}, all methods only\n+ * support strict decimal parsing.\n","filename":"src\/java.base\/share\/classes\/java\/net\/Inet4Address.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
