@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1007,1 +1007,2 @@\n-    returned as <code>nullptr<\/code>.\n+    returned as <code>nullptr<\/code> which is C programming language\n+    <code>null<\/code> pointer.\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
