@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove dependency on JFR for retransformation"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/RedefineClasses\/RedefineSharedClass.java"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/RedefineClasses\/RedefineSharedClassJFR.java"}],"sha":"c4c6477476ece219a84873962bf8d14503094d0f"}]
