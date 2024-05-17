@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -979,1 +979,1 @@\n-     * contains any non-null values.\n+     * is non-null and contains any non-null values.\n","filename":"src\/java.management.rmi\/share\/classes\/javax\/management\/remote\/rmi\/RMIConnection.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
