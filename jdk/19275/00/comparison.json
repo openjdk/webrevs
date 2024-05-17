@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+#include \"runtime\/interfaceSupport.inline.hpp\"\n@@ -280,0 +281,1 @@\n+  ThreadInVMfromUnknown tiv;\n","filename":"src\/hotspot\/share\/prims\/jvmtiTrace.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
