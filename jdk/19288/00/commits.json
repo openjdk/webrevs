@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332297: annotation processor that generates records sometimes fails due to NPE in javac"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Symbol.java"},{"filename":"test\/langtools\/tools\/javac\/processing\/RecordGenerationTest.java"}],"sha":"87d5b6fd334b3fda8251f4240c1983e9b2a97478"}]
