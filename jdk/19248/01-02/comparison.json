@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1099,1 +1099,1 @@\n-      for (const char* p = s; *p && !ws; p++) {\n+      for (const char* p = s; *p != '\\0' && !ws; p++) {\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
