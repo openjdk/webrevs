@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,0 +88,5 @@\n+    @Override\n+    public void visitModuleImport(JCModuleImport tree) {\n+        scan(tree.module);\n+    }\n+\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/tree\/TreeScanner.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
