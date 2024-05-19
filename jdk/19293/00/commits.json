@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332360: JVM hangs at exit when running on a uniprocessor"},"files":[{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp"}],"sha":"11b147e6bd4b555bd15a99d363401ed76938035b"}]
