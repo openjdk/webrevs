@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -352,1 +352,1 @@\n-    public void indifyJar(File f, Object dest){\n+    public void indifyJar(File f, Object dest) {\n","filename":"test\/jdk\/java\/lang\/invoke\/indify\/Indify.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
