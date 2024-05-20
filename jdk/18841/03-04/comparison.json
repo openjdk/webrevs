@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,2 +200,2 @@\n-                err.addSuppressed(ex);\n-            }\n+                    err.addSuppressed(ex);\n+                }\n","filename":"test\/jdk\/java\/lang\/invoke\/indify\/Indify.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
