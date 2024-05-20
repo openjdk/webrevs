@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -312,1 +312,1 @@\n-            err = errAccumulator.result();\n+            err = errAccumulator.result().replaceAll(\".* VM warning:.* deprecated.*\\\\R\", \"\");\n","filename":"test\/jdk\/java\/util\/logging\/LoggingDeadlock2.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
