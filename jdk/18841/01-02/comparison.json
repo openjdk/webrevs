@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -155,2 +155,0 @@\n-    public ClassModel classModel;\n-\n@@ -1402,1 +1400,1 @@\n-        return classModel = of().parse(bytes);\n+        return ClassFile.of().parse(bytes);\n","filename":"test\/jdk\/java\/lang\/invoke\/indify\/Indify.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
