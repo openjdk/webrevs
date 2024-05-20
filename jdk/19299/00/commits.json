@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332505: JEP 457: ClassRemapper forgets to remap bootstrap method references"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/ClassRemapperImpl.java"},{"filename":"test\/jdk\/jdk\/classfile\/AdvancedTransformationsTest.java"}],"sha":"f39c36897a25afc7ce31253261e6ff6a823c26fc"}]
