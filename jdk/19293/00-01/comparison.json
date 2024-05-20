@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -990,1 +990,1 @@\n-    \/\/ This thread has been notified to reacquire the lock.\n+    \/\/ This thread has been notified so reacquire the lock.\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
