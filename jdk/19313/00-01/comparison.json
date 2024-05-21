@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,1 +131,1 @@\n-  static constexpr bool supports_vector_variable_shifts(void) {\n+  static bool supports_vector_variable_shifts(void) {\n","filename":"src\/hotspot\/cpu\/riscv\/matcher_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
