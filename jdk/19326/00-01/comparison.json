@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -984,1 +984,0 @@\n-  int nWakeups = 0;\n@@ -1014,2 +1013,0 @@\n-    \/\/ Keep a tally of the # of futile wakeups.\n-    ++nWakeups;\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
