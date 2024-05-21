@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removing -Dcom.sun.security.ocsp.useget=false because it is of no use here without JDK-8328638\nAdding white line between switch case statements as in JDK 17"},"files":[{"filename":"test\/jdk\/security\/infra\/java\/security\/cert\/CertPathValidator\/certification\/CAInterop.java"}],"sha":"afeeaf66079a3f5e57c3d2de9c141cf7bcfe5545"}]
