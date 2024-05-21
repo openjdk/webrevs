@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1668,1 +1668,1 @@\n-  assert(!needs_eevex(dst, src1, src2) || UseAPX, \"extended gpr use requires UseAPX and UseAVX > 2\");\n+  assert(!needs_eevex(dst, src1, src2) || UseAPX, \"extended gpr use requires UseAPX\");\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
