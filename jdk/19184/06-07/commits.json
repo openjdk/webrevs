@@ -1,0 +1,1 @@
+[{"commit":{"message":"Used a dedicate lock for restoreEcho"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/io\/JdkConsoleImpl.java"},{"filename":"src\/java.base\/unix\/native\/libjava\/JdkConsoleImpl_md.c"},{"filename":"src\/java.base\/windows\/native\/libjava\/JdkConsoleImpl_md.c"}],"sha":"f69f747a8669647d6f924369fd98b945f9d0ae63"}]
