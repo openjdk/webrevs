@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1214,1 +1214,1 @@\n-    const bool isDirect = IsTouchEvent();\n+    const bool isDirect = (ti->dwFlags & TOUCHEVENTF_PEN) == 0;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/ViewContainer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
