@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1008,1 +1008,1 @@\n-        warning(\"UseAPX is only available when UseAVX > 2\");\n+        warning(\"UseAPX is only available when UseAVX > 2. Disabling UseAPX.\");\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
