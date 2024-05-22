@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,0 +141,5 @@\n+if [ ! -e \"$JTREG_JAVA\" ]; then\n+    echo \"No java executable at $JTREG_JAVA\"\n+    exit 1;\n+fi\n+\n","filename":"src\/share\/bin\/jtreg.sh","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
