@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,2 @@\n- * @compile JavacTestingAbstractProcessor.java ModuleImportProcessingTest.java\n+ * @build JavacTestingAbstractProcessor\n+ * @compile ModuleImportProcessingTest.java\n","filename":"test\/langtools\/tools\/javac\/processing\/ModuleImportProcessingTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
