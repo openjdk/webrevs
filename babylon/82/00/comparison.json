@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    private TranslateToSpirvModel() {\n+    public TranslateToSpirvModel() {\n@@ -307,1 +307,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"cr-examples\/spirv\/src\/main\/java\/intel\/code\/spirv\/TranslateToSpirvModel.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
