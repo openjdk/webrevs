@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -373,1 +373,1 @@\n-    assert(end_idx < (size_t)num_pages - 1, \"\");\n+    assert(end_idx < (size_t)num_pages, \"\");\n","filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
