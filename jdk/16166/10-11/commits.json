@@ -1,0 +1,1 @@
+[{"commit":{"message":"Print skip message in tests if number of output bin tests is less than 2 or type print dialog is the same"},"files":[{"filename":"test\/jdk\/javax\/print\/attribute\/OutputBinAttributePrintDialogTest.java"},{"filename":"test\/jdk\/javax\/print\/attribute\/OutputBinAttributeTest.java"}],"sha":"ff0db22ce1b3b508f5c5903ba1caedc76ecfc3a3"}]
