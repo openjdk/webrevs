@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8325520: remove unused enums, renamed offsets->indices"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorGatherMaskFoldingTest.java"}],"sha":"8f341cd6707bacbfb602aad3a6af4a35c86dfdde"}]
