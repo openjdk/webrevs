@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,2 +35,0 @@\n-import jdk.test.lib.Utils;\n-\n@@ -39,1 +37,1 @@\n-  static Random generator = Utils.getRandomInstance();\n+  static Random generator = new Random();\n","filename":"test\/jdk\/java\/lang\/StringBuffer\/IndexOf.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
