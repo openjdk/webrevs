@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -226,1 +226,2 @@\n-  Treap(uint64_t seed = static_cast<uint64_t>(os::random()))\n+  Treap(uint64_t seed = static_cast<uint64_t>(os::random())\n+                        | (static_cast<uint64_t>(os::random()) << 32))\n","filename":"src\/hotspot\/share\/nmt\/nmtTreap.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
