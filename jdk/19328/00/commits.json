@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332615: RISC-V: Enable vector unsigned comparison instructions for machines with RVV"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/matcher_riscv.hpp"}],"sha":"55838401e1cecc8023f1dae59bb2d839894a90a3"}]
