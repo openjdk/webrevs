@@ -1,0 +1,1 @@
+[{"commit":{"message":"8307193: Several Swing jtreg tests use class.forName on L&F classes"},"files":[{"filename":"test\/jdk\/javax\/swing\/JMenuBar\/RightLeftOrientation.java"},{"filename":"test\/jdk\/javax\/swing\/JToolBar\/RightLeftOrientation.java"}],"sha":"e9c1da0e496281832b5c81aa1bce1ed13d9a8eea"}]
