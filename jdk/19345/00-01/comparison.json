@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -596,2 +596,0 @@\n-  static ByteSize allocated_bytes_offset()       { return byte_offset_of(Thread, _allocated_bytes); }\n-\n","filename":"src\/hotspot\/share\/runtime\/thread.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
