@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332725: Binding patterns with inferred type have erroneous type in the AST"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/BindingPatternVarTypeModel.java"}],"sha":"cde43ad77d91e9dd6729627a66066357f17153a2"}]
