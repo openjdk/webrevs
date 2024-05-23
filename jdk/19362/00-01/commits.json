@@ -1,0 +1,1 @@
+[{"commit":{"message":"We should only explicitly append JAVA_FLAGS_TMPDIR for JAVAC and BUILD_JAVAC, not the JAVA invocations."},"files":[{"filename":"make\/common\/JavaCompilation.gmk"}],"sha":"a9897ba3362b70de49efcef87ebe74ba3fbd53f4"}]
