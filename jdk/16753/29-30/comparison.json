@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n-#include \"opto\/c2_MacroAssembler.hpp\"\n@@ -31,0 +30,1 @@\n+#include \"opto\/c2_MacroAssembler.hpp\"\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_string.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
