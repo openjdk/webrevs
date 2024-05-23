@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1162,1 +1162,1 @@\n-  assert(modulus <= CodeEntryAlignment, \"Alignment must be <= CodeEntryAlignment\");\n+  assert(modulus <= (uintx)CodeEntryAlignment, \"Alignment must be <= CodeEntryAlignment\");\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
