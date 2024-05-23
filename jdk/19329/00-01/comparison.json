@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -562,1 +562,1 @@\n-    if (c->pdir != NULL) {\n+    if (sp.dirlen > 0 && c->pdir != NULL) {\n@@ -564,0 +564,1 @@\n+        offset += sp.dirlen;\n@@ -565,1 +566,0 @@\n-    offset += sp.dirlen;\n","filename":"src\/java.base\/unix\/native\/libjava\/ProcessImpl_md.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
