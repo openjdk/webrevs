@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n-#ifdef COMPILER2\n+\/\/ #ifdef COMPILER2\n@@ -1867,1 +1867,1 @@\n-#endif\n+\/\/ #endif\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_string.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
