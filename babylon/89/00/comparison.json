@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -305,1 +305,1 @@\n-        \"-framework OpenCL\"\n+        \"OpenCL\"\n@@ -308,1 +308,1 @@\n-          \"-framework OpenCL\"\n+        \"OpenCL\"\n","filename":"hat\/CMakeLists.txt","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
