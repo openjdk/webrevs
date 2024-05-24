@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -669,2 +669,0 @@\n-        free(info->err);\n-        info->err = NULL;\n@@ -681,0 +679,2 @@\n+        free(info->err);\n+        info->err = NULL;\n","filename":"src\/java.desktop\/share\/native\/libjavajpeg\/imageioJPEG.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
