@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Copy `ModulePath`'s exploded directories logic\"\n\nThis reverts commit d019452355ecd9f537d919c5edd2a5cba608c194."},"files":[{"filename":"make\/CompileInterimLangtools.gmk"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/launcher\/ProgramDescriptor.java"}],"sha":"709f4ad3e4bd524d36857e689ec716b30d9024df"}]
