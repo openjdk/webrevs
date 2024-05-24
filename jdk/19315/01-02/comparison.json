@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n- *     This test relies on the static JdkConsoleImpl.echo() methods, which\n+ *     This test relies on the static JdkConsoleImpl.echo() method, which\n","filename":"test\/jdk\/java\/io\/Console\/RestoreEchoTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
