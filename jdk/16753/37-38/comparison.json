@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,8 @@\n+ * @key randomness\n+ *\/\n+\n+\/* @test\n+ * @bug 8320448\n+ * @summary Test indexOf\n+ * @requires vm.cpu.features ~= \".*avx2.*\"\n+ * @requires vm.compiler2.enabled\n","filename":"test\/jdk\/java\/lang\/StringBuffer\/IndexOf.java","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
