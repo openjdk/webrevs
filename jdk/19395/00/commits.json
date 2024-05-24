@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332632: Redundant assert \"compiler should always document failure: %s\" with possible UB"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"}],"sha":"08d26b7a5b1b24a33051fbe42675af373b515433"}]
