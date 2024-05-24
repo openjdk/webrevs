@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2087,0 +2087,4 @@\n+\n+#if defined(__clang__) || defined(__GNUC__)\n+__attribute__((no_sanitize(\"undefined\")))\n+#endif\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
