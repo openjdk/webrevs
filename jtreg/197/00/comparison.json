@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -21,1 +21,1 @@\n-      uses: actions\/setup-java@v3\n+      uses: oracle-actions\/setup-java@v1\n@@ -23,2 +23,2 @@\n-        distribution: 'oracle'\n-        java-version: '17'\n+        website: oracle.com\n+        release: 17\n","filename":".github\/workflows\/test.yml","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
