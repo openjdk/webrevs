@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -382,1 +382,1 @@\n-  constexpr static const size_t num_pages = 1024 * 512;\n+  static constexpr const size_t num_pages = 1024 * 512;\n@@ -438,0 +438,2 @@\n+constexpr const size_t SimpleVMATracker::num_pages;\n+\n","filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
