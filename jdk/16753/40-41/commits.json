@@ -1,0 +1,1 @@
+[{"commit":{"message":"Review comments; fix reading past end of haystack when (n-k) < 32"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_stubGenerator_x86_64_string.cpp"}],"sha":"e13c7ea462af97b3b923aa2a98f5bec1632c4300"}]
