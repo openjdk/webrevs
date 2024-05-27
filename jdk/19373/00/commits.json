@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332125: [nmt] Totals in diff report should print out total malloc and mmap diffs"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memReporter.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/NMT\/TotalMallocMmapDiffTest.java"}],"sha":"218361738eff51f790125f6978e009de592e76db"}]
