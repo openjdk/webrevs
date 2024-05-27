@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-                case Block block -> gn.computeIfAbsent(block, _b -> name(block));\n+                case Block block -> gn.computeIfAbsent(block, _b -> name(_b));\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/writer\/OpWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
