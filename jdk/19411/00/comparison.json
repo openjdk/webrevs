@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,2 @@\n-    _input_stream(&_file_input) {\n+    _input_stream(&_file_input),\n+    _parse_mode(parse_mode) {\n@@ -73,1 +74,0 @@\n-  _parse_mode = parse_mode;\n","filename":"src\/hotspot\/share\/cds\/classListParser.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
