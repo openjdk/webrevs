@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,0 +90,1 @@\n+\t$(CHMOD) +x \"$(JEXTRACT_IMAGE_DIR)\/bin\/jextract\"\n","filename":"make\/Build.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"},{"patch":"@@ -111,0 +111,1 @@\n+CHMOD := chmod\n","filename":"make\/Common.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
