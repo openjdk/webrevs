@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1330,0 +1330,1 @@\n+        check(m.hashCode() == m.entrySet().hashCode());\n","filename":"test\/jdk\/java\/util\/Collection\/MOAT.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
