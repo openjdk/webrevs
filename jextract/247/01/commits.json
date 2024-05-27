@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set correct permissions for linux script, to mimic what gradle does"},"files":[{"filename":"make\/Build.gmk"},{"filename":"make\/Common.gmk"}],"sha":"620fbd7bdb27f19a9e32118c2f3fe08b3eb46116"},{"commit":{"message":"Initial push"},"files":[{"filename":"make\/Build.gmk"}],"sha":"8c98876dad658b479632c356f0964e1793c344db"}]
