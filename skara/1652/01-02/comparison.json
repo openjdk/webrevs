@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -332,1 +332,1 @@\n-                if (response.statusCode() == 301) {\n+                if (response.statusCode() == 301 && retryCount < 2) {\n","filename":"network\/src\/main\/java\/org\/openjdk\/skara\/network\/RestRequest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
