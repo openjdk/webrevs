@@ -1,0 +1,1 @@
+[{"commit":{"message":"Macro-ize previously inlined shenandoah assert."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAsserts.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"982dcd22fab72504a77abf07eb2ee10b9cefcc48"}]
