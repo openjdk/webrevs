@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,0 @@\n-import java.util.ArrayList;\n@@ -38,1 +37,0 @@\n-import java.util.LinkedHashMap;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
