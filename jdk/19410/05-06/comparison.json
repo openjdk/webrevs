@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -554,1 +554,1 @@\n-     * Generate the static initializer method for the proxy class.\n+     * Generate CONDY bootstrap method for the proxy class to retrieve {@link Method} instances.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/ProxyGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
