@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adapt assertion. We sometimes have only 1 element in the secondary supers array."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"}],"sha":"c1840719f9b752141d51749071ac2cebc38ace9c"}]
