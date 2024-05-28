@@ -1,0 +1,1 @@
+[{"commit":{"message":"8285506: Unify os::vsnprintf implementations"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.hpp"}],"sha":"95b8ac2cf2b96446d9ec98fcda6a8e40d92efe2f"}]
