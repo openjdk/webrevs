@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,2 +66,0 @@\n-  static Thread* thread();\n-\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahController.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
