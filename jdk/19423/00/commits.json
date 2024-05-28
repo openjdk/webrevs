@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8331579: Reference to primitive type fails without error or warning"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclint\/Checker.java"},{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testLinkTaglet\/TestLinkTagletPrimitive.java"}],"sha":"3d6a7bdc31398acd098b82809027d180038261c9"}]
