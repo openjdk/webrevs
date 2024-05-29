@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333189: Make sure clang on linux uses lld as linker"},"files":[{"filename":"make\/autoconf\/flags-ldflags.m4"},{"filename":"make\/data\/hotspot-symbols\/version-script-clang.txt"},{"filename":"make\/data\/hotspot-symbols\/version-script-gcc.txt"},{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"}],"sha":"a65aa5152028e9c334535249b76a5569c1b4cc69"}]
