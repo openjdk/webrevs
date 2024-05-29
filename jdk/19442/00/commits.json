@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332119: Incorrect IllegalArgumentException for C2 compiled permute kernel"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.hpp"},{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestTwoVectorPermute.java"}],"sha":"12cc2b4274bcea2df4ac1f3e00fd28bdcb545d2a"}]
