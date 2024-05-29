@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333129: Move ShrinkHeapInSteps flag to Serial GC"},"files":[{"filename":"src\/hotspot\/share\/gc\/serial\/serial_globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"cbf1387d45169d1dcadde195abe9dedc36164811"}]
