@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 1f81e5b19ebfb7cd1b5a01d6cf79efda7e827c35"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/LambdaToMethod.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8312229.java"}],"sha":"02725ceb36fc81451272969c6a9c8f69a67a34c3"}]
