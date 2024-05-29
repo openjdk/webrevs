@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,2 +28,0 @@\n-import jdk.internal.vm.annotation.Stable;\n-\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/ClassReaderImpl.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
