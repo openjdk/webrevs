@@ -1,0 +1,1 @@
+[{"commit":{"message":"change from java_lang_VirtualThread::is_instance(thread_oop) to hread_oop->is_a(vmClasses::BaseVirtualThread_klass()) in Threads::get_pending_threads()"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"}],"sha":"83521f4729adcd3bd50a4ab83a81357bd9cba041"}]
