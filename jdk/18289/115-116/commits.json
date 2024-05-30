@@ -1,0 +1,1 @@
+[{"commit":{"message":"Just return int"},"files":[{"filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp"}],"sha":"ed1e1f2181c251f922b6702f1871bfd53c6ce8e7"},{"commit":{"message":"Using functions for EXPECTs messes up reports when tests fail"},"files":[{"filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp"}],"sha":"7e567e742581359a3f318cbb402972ea9dfa0dbd"}]
