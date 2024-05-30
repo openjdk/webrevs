@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -502,0 +502,3 @@\n+java\/lang\/instrument\/NativeMethodPrefixAgent.java               8333130 generic-all\n+java\/lang\/instrument\/RetransformAgent.java                      8333130 generic-all\n+\n","filename":"test\/jdk\/ProblemList.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
