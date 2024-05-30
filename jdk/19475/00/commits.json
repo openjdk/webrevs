@@ -1,0 +1,1 @@
+[{"commit":{"message":"8210471: GZIPInputStream constructor could leak an un-end()ed Inflater"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPInputStream.java"}],"sha":"8d565e1185b5b4ea9a908a8c40ba82994776f680"}]
