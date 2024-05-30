@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix std::string to char * for kernel names"},"files":[{"filename":"hat\/backends\/opencl\/cpp\/opencl_backend.cpp"},{"filename":"hat\/backends\/ptx\/cpp\/ptx_backend.cpp"}],"sha":"f7fd1e182c5cf65cdba45e3feb5d5ef9a1fcd694"}]
