@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,2 +49,0 @@\n-  static methodHandle resolve_sub_helper(bool is_virtual, bool is_optimized, TRAPS);\n-\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
