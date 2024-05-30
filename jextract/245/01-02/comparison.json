@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5,1 +5,1 @@\n-javac --source=22 -d . opengl\/*.java\n\\ No newline at end of file\n+javac --source=22 -d . opengl\/*.java\n","filename":"samples\/opengl\/compilesource.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
