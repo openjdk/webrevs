@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make Treap and VMATree NONCOPYABLE as an accidental copy\n\nin tests caused double-free crashes"},"files":[{"filename":"src\/hotspot\/share\/nmt\/nmtTreap.hpp"},{"filename":"src\/hotspot\/share\/nmt\/vmatree.hpp"},{"filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp"}],"sha":"e401a7a43deae1db53d4d2392475eeaa9366b131"}]
