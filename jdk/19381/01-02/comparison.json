@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -153,5 +153,0 @@\n-\n-    public void onBackgroundThread30() {\n-        \/\/ Allow enough time for visual verification\n-        try { Thread.sleep(3000); } catch (Exception e) {}\n-    }\n","filename":"test\/jdk\/com\/sun\/java\/swing\/plaf\/gtk\/bug6492108.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
