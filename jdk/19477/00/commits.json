@@ -1,0 +1,1 @@
+[{"commit":{"message":"De-duplicate identical lambdas in FindOps"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/stream\/FindOps.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/stream\/ops\/ref\/FindAny.java"}],"sha":"cff6d034d1ef909ab6e050f21a9ead1d36190292"}]
