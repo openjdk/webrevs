@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332935: Crash: assert(*lastPtr != 0) failed: Mismatched JNINativeInterface tables, check for new entries"},"files":[{"filename":"src\/hotspot\/share\/prims\/jniCheck.cpp"}],"sha":"4241674b684223d046947fe68d49dcb908c89179"}]
