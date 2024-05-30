@@ -1,0 +1,1 @@
+[{"commit":{"message":"Some asserts to catch a tricky race. These assertions may be too strong\nin general but would help with debugging a rare crash."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.cpp"}],"sha":"fead6fd2ff58013769123b22e22a445785f99b7c"}]

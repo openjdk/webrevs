@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,0 +165,3 @@\n+  shenandoah_assert_generations_reconciled();\n+  assert(gc_generation() != nullptr, \"Error\");\n+  assert(active_generation() != nullptr, \"Error\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
