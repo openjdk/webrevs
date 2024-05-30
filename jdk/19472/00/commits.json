@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333245: RISC-V: UseRVV option can't be enabled after JDK-8316859"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp"}],"sha":"e8f0208175cdb488b80c9e1931c7eafa03ded26d"}]
