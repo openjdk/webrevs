@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n- * @run driver RewriteBytecodesInlineTest\n+ * @run main\/othervm RewriteBytecodesInlineTest\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/RewriteBytecodesInlineTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
