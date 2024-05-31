@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1686,1 +1686,1 @@\n-  \/\/ image divide both `upper` and `lower` into 2 parts respectively, i.e.\n+  \/\/ imagine divide both `upper` and `lower` into 2 parts respectively, i.e.\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
