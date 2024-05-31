@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -850,1 +850,1 @@\n-  _valid = true;\n+  _valid = _dir != nullptr; \/\/ May be null if \/proc is not accessible.;\n","filename":"src\/hotspot\/os\/linux\/os_perf_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
