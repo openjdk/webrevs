@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333252: C2: assert(assertion_predicate_has_loop_opaque_node(iff)) failed: must find OpaqueLoop* nodes"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/assertion\/TestTemplateWithoutOpaqueLoopNodes.java"}],"sha":"c54ba3cc6c61a92d7c6d7686c9724576eec6c2ba"}]
