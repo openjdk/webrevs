@@ -1,0 +1,1 @@
+[{"commit":{"message":"lifting LOOKUPSWITCH and TABLESWITCH"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeLift.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestBytecode.java"}],"sha":"6c1e859dca41a259645dac9fca1ed3b823e2dc48"}]
