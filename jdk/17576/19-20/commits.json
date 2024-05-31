@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove implicit casts from int to bool"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"133d02514ce3c5affb5e63b325e50196bfa170dd"},{"commit":{"message":"Fix whitespace inconsistencies"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/os\/windows\/exeGetProcessorInfo.c"}],"sha":"90c0174573fac9fa09c3e52acd3e06e84706bd3c"}]
