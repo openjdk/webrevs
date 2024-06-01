@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -664,1 +664,1 @@\n-            new Option(resources, \"--legal-notices\", 1) {\n+            new XOption(resources, \"--legal-notices\", 1) {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/HtmlConfiguration.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
