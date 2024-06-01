@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -508,0 +508,2 @@\n+  guarantee(!CDSConfig::is_using_archive(), \"We should not be using an archive when we dump\");\n+\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
