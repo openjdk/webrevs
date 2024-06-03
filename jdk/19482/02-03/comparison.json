@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,0 +59,1 @@\n+#include \"oops\/method.inline.hpp\"\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
