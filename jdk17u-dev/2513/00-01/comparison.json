@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @compile T8312229.java\n+ * @compile --enable-preview -source ${jdk.version} T8312229.java\n","filename":"test\/langtools\/tools\/javac\/patterns\/T8312229.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
