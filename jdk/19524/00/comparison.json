@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1784,1 +1784,1 @@\n-  C->print_method(PHASE_BEFORE_CLOOPS, 3);\n+  C->print_method(PHASE_BEFORE_CLOOPS, 3, x);\n@@ -2292,1 +2292,1 @@\n-  C->print_method(PHASE_AFTER_CLOOPS, 3);\n+  C->print_method(PHASE_AFTER_CLOOPS, 3, l);\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
