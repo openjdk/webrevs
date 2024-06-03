@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use constexpr and add missing definition that some compilers complain about"},"files":[{"filename":"test\/hotspot\/gtest\/utilities\/test_ostream.cpp"}],"sha":"e0b0693a68ebd723bc3072be9655f907c44596cb"},{"commit":{"message":"use strncmp"},"files":[{"filename":"src\/hotspot\/share\/utilities\/ostream.cpp"}],"sha":"2b80b4e488ac14572df18c8afe214178bf5a655f"}]
