@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,0 +96,3 @@\n+#ifndef ARM\n+  STATIC_ASSERT(RegImpl::number_of_registers <= 64);\n+#endif\n@@ -110,1 +113,0 @@\n-    assert(RegImpl::number_of_registers <= 64, \"must be\");\n","filename":"src\/hotspot\/share\/asm\/register.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
