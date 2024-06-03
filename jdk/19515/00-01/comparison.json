@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -211,0 +211,2 @@\n+     * This method may block until the specified number of bytes are read and\n+     * skipped.\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/InflaterInputStream.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
