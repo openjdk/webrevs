@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix vrsub_vi for case of vlen > 128"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"8530d662d609f1179bc6046fbb9bb44a5c332f34"},{"commit":{"message":"Add process_bytes_by32 function"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"089520198e037f038dcd60635b23030e64f9f9e8"}]
