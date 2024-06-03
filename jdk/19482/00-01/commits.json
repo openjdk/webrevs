@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove duplicated Carrying statement and indent vthread stack"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"}],"sha":"ae690b255c9456f3db534be11fbc932648907ead"}]
