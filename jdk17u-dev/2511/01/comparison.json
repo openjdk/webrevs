@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,5 @@\n+hotspot_runtime_non_cds_mode = \\\n+  runtime \\\n+  -runtime\/cds\/CheckSharingWithDefaultArchive.java \\\n+  -runtime\/cds\/appcds\/jcmd\n+\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
