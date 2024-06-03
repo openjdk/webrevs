@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332920: C2: Partial Peeling is wrongly applied for CmpU with negative limit"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestPartialPeelAtUnsignedTestsNegativeLimit.java"}],"sha":"0ea3bacf48be90d93f9e6c8e6568a0b8c61afb46"}]
