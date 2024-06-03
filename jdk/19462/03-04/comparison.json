@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,3 +33,0 @@\n-\/\/ forward declaration\n-class outputStream;\n-\n@@ -46,0 +43,3 @@\n+\/\/ forward declaration\n+class outputStream;\n+\n","filename":"src\/hotspot\/share\/nmt\/mallocLimit.hpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
