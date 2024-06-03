@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,2 @@\n-  size_t _bitset;\n+  STATIC_ASSERT(RegImpl::number_of_registers <= 64);\n+  uint64_t _bitset;\n","filename":"src\/hotspot\/share\/asm\/register.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
