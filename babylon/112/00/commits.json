@@ -1,0 +1,1 @@
+[{"commit":{"message":"Null check only when selector expression of switch expression is of reference type."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/op\/ExtendedOp.java"}],"sha":"c1b918ac599c19814017fd80e650faa01fa607a8"}]
