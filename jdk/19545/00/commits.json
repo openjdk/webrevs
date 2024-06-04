@@ -1,0 +1,1 @@
+[{"commit":{"message":"Throttle split unique types if number of live nodes is too big."},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestScalarReplacementMaxLiveNodes.java"}],"sha":"1e92268a08306e7e93879ed20e86d884882729b8"}]
