@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n-    tty->print_cr(\"Broken tree found with first occurrence at nodes %lu, %lu\",\n+    tty->print_cr(\"Broken tree found with first occurrence at nodes %zu, %zu\",\n","filename":"src\/hotspot\/share\/nmt\/memoryFileTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
