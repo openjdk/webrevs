@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -352,1 +352,1 @@\n-        var ret = new Comment(Integer.toString(comment.get(\"id\").asInt()),\n+        var ret = new Comment(Long.toString(comment.get(\"id\").asLong()),\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/github\/GitHubPullRequest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
