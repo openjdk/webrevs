@@ -1,0 +1,1 @@
+[{"commit":{"message":"It's OK that _device is nullptr"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zNMT.cpp"}],"sha":"f1dd3096b66d6cab177da31a83bbc0dfc9df2d29"},{"commit":{"message":"Add the free_file method for Instance"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memoryFileTracker.cpp"}],"sha":"1fcef141487ad9bee04bab9f218536b317ca5c66"}]
