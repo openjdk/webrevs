@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,0 +82,2 @@\n+   int  indentation() const    { return _indentation; }\n+   void set_indentation(int i) { _indentation = i;    }\n","filename":"src\/hotspot\/share\/utilities\/ostream.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
