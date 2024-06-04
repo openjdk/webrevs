@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable assertion that old marking only finds young pointers with marked cards"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMark.inline.hpp"}],"sha":"08996baad5229d89f9793c3a4c207907a9e70f35"}]
