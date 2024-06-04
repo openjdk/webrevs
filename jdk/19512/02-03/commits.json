@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplified the test code - thanks @tstuefe!\nRewrote the comment block describing do_vsnprintf."},"files":[{"filename":"src\/hotspot\/share\/utilities\/defaultStream.hpp"},{"filename":"src\/hotspot\/share\/utilities\/ostream.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_ostream.cpp"}],"sha":"1aef14ca1f2dac4a5b9ed606a6c2f97b1e6e4ac6"}]
