@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1037,1 +1037,1 @@\n-        Object[] es = new Object[len];\n+        Object[] es = (len == 0 ? EMPTY_ELEMENTDATA : new Object[len]);\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/CopyOnWriteArrayList.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
