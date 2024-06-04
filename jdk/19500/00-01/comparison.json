@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1373,1 +1373,1 @@\n-    if (bt != BoolTest::lt && bt != BoolTest::gt)\n+    if (bt != BoolTest::lt && bt != BoolTest::gt) {\n@@ -1375,0 +1375,1 @@\n+    }\n","filename":"src\/hotspot\/share\/opto\/loopPredicate.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
