@@ -1,0 +1,1 @@
+[{"commit":{"message":"Delete dead code and only account for committed memory in summary"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memoryFileTracker.cpp"},{"filename":"src\/hotspot\/share\/nmt\/memoryFileTracker.hpp"}],"sha":"ae73fda89a79b3420c220b41235bc311495b8702"}]
