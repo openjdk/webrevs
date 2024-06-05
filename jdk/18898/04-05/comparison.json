@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,2 +69,1 @@\n-    @SuppressWarnings(\"serial\") \/\/ Type of field is not Serializable\n-    final CTSVariant ctsVariant;\n+    final transient CTSVariant ctsVariant;\n","filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/Token.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
