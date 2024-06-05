@@ -1,0 +1,1 @@
+[{"commit":{"message":"Keep storestore barrier for array allocation\n\n* Having c1 array clone use 2 storestore barriers\nhas no performance impact, so it's safer to keep it in place."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_MacroAssembler_aarch64.cpp"}],"sha":"24d72c677ef1bee29948a7d4e42faa1f62d2d279"}]
