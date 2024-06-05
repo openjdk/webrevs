@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PPC64] saving and restoring CR is not needed at most places"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetAssembler_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/gc\/x\/xBarrierSetAssembler_ppc.cpp"}],"sha":"3445e9ac308e8d524734ee682289d40fd4f159d0"}]
