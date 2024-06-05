@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332920: C2: assert(is_Bool()) failed: invalid node class: Phi"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/assertion\/TestOpaqueInitializedAssertionPredicateNode.java"}],"sha":"682153667fa45f29e7d7ede7f3518fa51bd9eb3c"}]
