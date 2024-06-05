@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333590: UnmodifiableHeaders shadows field declared in parent class"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/UnmodifiableHeaders.java"},{"filename":"test\/jdk\/com\/sun\/net\/httpserver\/UnmodifiableHeadersTest.java"}],"sha":"c471338011805b7037b4f8a56b53d17820506b14"}]
