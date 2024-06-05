@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -149,1 +149,3 @@\n-        strncpy(value, val, val_len);\n+        if (val != nullptr) {\n+            strncpy(value, val, val_len);\n+        }\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/jvmti\/jvmti_tools.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
