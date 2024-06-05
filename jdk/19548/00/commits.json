@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix -Xlint:restricted when using --release"},"files":[{"filename":"make\/langtools\/src\/classes\/build\/tools\/symbolgenerator\/CreateSymbols.java"},{"filename":"test\/langtools\/tools\/javac\/RestrictedMethods.java"},{"filename":"test\/langtools\/tools\/javac\/RestrictedMethods.out"}],"sha":"54f062c321259d4d9587fe0709926c23baa363e3"}]
