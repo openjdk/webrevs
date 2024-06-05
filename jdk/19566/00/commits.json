@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333674: Disable CollectorPolicy.young_min_ergo_vm for PPC64"},"files":[{"filename":"test\/hotspot\/gtest\/gc\/shared\/test_collectorPolicy.cpp"}],"sha":"c1aa88f70e0a15be2f599414b371828dccf85d75"}]

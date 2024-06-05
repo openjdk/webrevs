@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,0 +217,2 @@\n+\/\/ This test doesn't work with 64k pages. See JDK-8331675.\n+#if !defined(PPC)\n@@ -223,0 +225,1 @@\n+#endif\n","filename":"test\/hotspot\/gtest\/gc\/shared\/test_collectorPolicy.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
