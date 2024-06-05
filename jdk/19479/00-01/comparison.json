@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run main LazyJdkConsoleProvider\n+ * @run main\/othervm -Djdk.console=jdk.internal.le LazyJdkConsoleProvider\n","filename":"test\/jdk\/jdk\/internal\/jline\/LazyJdkConsoleProvider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
