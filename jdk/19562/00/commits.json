@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make MallocHeader unaware of MallocSiteTable"},"files":[{"filename":"src\/hotspot\/share\/nmt\/mallocHeader.cpp"},{"filename":"src\/hotspot\/share\/nmt\/mallocHeader.hpp"},{"filename":"src\/hotspot\/share\/nmt\/mallocSiteTable.hpp"},{"filename":"src\/hotspot\/share\/nmt\/mallocTracker.cpp"}],"sha":"cd0f0572f17b3a3174349715831fe24811ae57ac"}]
