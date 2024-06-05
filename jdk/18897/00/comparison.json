@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -970,1 +970,1 @@\n-  tty = DisplayVMOutputToStderr ? fdStream::stdout_stream() : fdStream::stderr_stream();\n+  tty = DisplayVMOutputToStderr ? fdStream::stderr_stream() : fdStream::stdout_stream();\n","filename":"src\/hotspot\/share\/utilities\/ostream.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

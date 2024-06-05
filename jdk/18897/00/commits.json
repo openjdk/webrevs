@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into JDK-8330420"},"files":[],"sha":"24dc581f70177dc67e8bd0ca111611689a1f59f2"},{"commit":{"message":"8330420: Inverted use of DisplayVMOutputToStderr in ostream_exit"},"files":[{"filename":"src\/hotspot\/share\/utilities\/ostream.cpp"}],"sha":"d8e2d261e3dd4e55627656581e137bcec77c1e11"}]
