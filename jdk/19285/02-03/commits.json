@@ -1,0 +1,1 @@
+[{"commit":{"message":"8331911: Remove is_armed check from callers"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/barrierSetNMethod.cpp"}],"sha":"d474c1b74e09fc2cc7eb96243b8ec7efbd042b04"}]
