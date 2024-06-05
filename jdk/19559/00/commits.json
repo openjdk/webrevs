@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332921: Ctrl+C does not call shutdown hooks after JLine upgrade"},"files":[{"filename":"src\/jdk.internal.le\/share\/classes\/jdk\/internal\/org\/jline\/JdkConsoleProviderImpl.java"},{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/internal\/jshell\/tool\/ConsoleIOContext.java"}],"sha":"c471ad1a3f0c76efac5ef9543ebd28f27760aaff"}]
