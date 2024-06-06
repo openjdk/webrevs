@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -317,1 +317,1 @@\n-  jlong host_free_swap_val = host_free_swap();\n+  jlong host_free_swap_val = MIN2(os::total_swap_space(), host_free_swap());\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
