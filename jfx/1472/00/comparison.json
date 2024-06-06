@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1734,1 +1734,1 @@\n-                            classifier \"$t.name\"\n+                            archiveClassifier.set(\"$t.name\")\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
