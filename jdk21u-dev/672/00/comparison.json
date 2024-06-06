@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,0 +281,1 @@\n+    if (_data == nullptr) return;\n@@ -285,0 +286,1 @@\n+    if (_data == nullptr) return;\n","filename":"src\/hotspot\/share\/utilities\/growableArray.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
