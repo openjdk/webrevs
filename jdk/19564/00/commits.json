@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333652: RISC-V: compiler\/vectorapi\/VectorGatherMaskFoldingTest.java fails when using RVV"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"8ff7e93063b3a8f6960c76f5be44eef508c4417d"}]
