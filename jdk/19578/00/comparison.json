@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -764,1 +764,1 @@\n-        if (match->EnableOption) {\n+        if (match->EnableOption || dir->is_default_directive()) {\n","filename":"src\/hotspot\/share\/compiler\/compilerDirectives.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
