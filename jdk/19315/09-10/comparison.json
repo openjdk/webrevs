@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,0 +63,1 @@\n+        var testClasses = System.getProperty(\"test.classes\", \".\");\n@@ -71,0 +72,1 @@\n+                \"-classpath\", testClasses,\n","filename":"test\/jdk\/java\/io\/Console\/RestoreEchoTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
