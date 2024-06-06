@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-     * @throws IOException if cannot write file to specified directory\n+     * @throws Exception if cannot write file to specified directory\n","filename":"test\/hotspot\/jtreg\/gc\/testlibrary\/Helpers.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
