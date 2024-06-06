@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -607,0 +607,1 @@\n+      DEFAULT_DESC: [enabled by default unless --enable-runtime-link-image is set],\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
