@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,3 @@\n+#ifndef PRODUCT\n+    _verify_count = 0;\n+#endif\n","filename":"src\/hotspot\/share\/oops\/klassVtable.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
