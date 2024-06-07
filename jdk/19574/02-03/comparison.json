@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -317,0 +317,2 @@\n+  \/\/ os::total_swap_space() might return the containerized limit which might be\n+  \/\/ less than host_free_swap(). The upper bound of free swap needs to be the lower of the two.\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
