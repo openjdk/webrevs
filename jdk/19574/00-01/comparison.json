@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -318,0 +318,1 @@\n+  assert(host_free_swap_val >= 0, \"sysinfo failed?\")\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
