@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 7652f9811bfddf08650b0c3277012074873deade"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"},{"filename":"src\/hotspot\/share\/opto\/type.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/runtime\/unloaded\/TestMHUnloaded.java"}],"sha":"234ffd88d57fa82e932b9f444d3c3673ad193228"}]
