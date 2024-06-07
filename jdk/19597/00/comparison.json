@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,4 @@\n+\/\/ avoid adding to CompressedOops::base() == nullptr\n+#if defined(__clang__) || defined(__GNUC__)\n+__attribute__((no_sanitize(\"undefined\")))\n+#endif\n","filename":"src\/hotspot\/share\/cds\/archiveHeapLoader.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
