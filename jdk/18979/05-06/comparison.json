@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,1 @@\n-    : _idx(idx), _owner(owner) {}\n+    : _idx(idx) DEBUG_ONLY(COMMA _owner(owner)) {}\n","filename":"src\/hotspot\/share\/nmt\/indexedFreeListAllocator.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
