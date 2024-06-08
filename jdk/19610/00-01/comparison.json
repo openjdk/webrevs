@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,0 +123,1 @@\n+        \/\/ Prepare an int value so C2 generates a 4-byte write instead of two 2-byte writes\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/HexDigits.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
