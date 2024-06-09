@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adding JVM_PID aggregator and marking it as deprecated"},"files":[{"filename":"core\/org.openjdk.jmc.common\/src\/main\/java\/org\/openjdk\/jmc\/common\/item\/Aggregators.java"},{"filename":"core\/org.openjdk.jmc.flightrecorder\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/jdk\/JdkAggregators.java"}],"sha":"d52a03764ce0d80039adc0526cee1ecb1b17d5c5"}]
