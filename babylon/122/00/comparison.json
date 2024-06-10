@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-                CudaBuffer(Backend::Program::Kernel *kernel, Arg_t *arg);\n+                CudaBuffer(Backend::Program::Kernel *kernel, Arg_s *arg);\n","filename":"hat\/backends\/cuda\/include\/cuda_backend.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
