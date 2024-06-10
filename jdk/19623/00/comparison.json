@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-  intptr_t _cloned_vtable[1];\n+  intptr_t _cloned_vtable[];\n","filename":"src\/hotspot\/share\/cds\/cppVtables.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
