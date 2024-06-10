@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,1 +117,1 @@\n-  product(uintx, ShenandoahImmediateThreshold, 90, EXPERIMENTAL,            \\\n+  product(uintx, ShenandoahImmediateThreshold, 70, EXPERIMENTAL,            \\\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoah_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
