@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,1 +118,1 @@\n-     * only least significant 16 bits of {@code i} are used.\n+     * only least significant 16 bits of {@code value} are used.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/HexDigits.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
