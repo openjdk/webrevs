@@ -1,0 +1,1 @@
+[{"commit":{"message":"update copyright year"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libjawt\/jawt.m"}],"sha":"377dab5f3265482966af5b80e79f7947bdd9b574"},{"commit":{"message":"remove if check for awt version >= 1.4"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libjawt\/jawt.m"}],"sha":"e965666c0433a772c908975654a3164bf3302fd8"}]
