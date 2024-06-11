@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3614,1 +3614,1 @@\n-\/\/ Ensure that the inline code and the stub are using the same registers.\n+\/\/ Ensure that the inline code and the stub are using the same registers\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
