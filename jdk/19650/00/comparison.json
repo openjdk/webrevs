@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -804,1 +804,1 @@\n-  constexpr float infrequent_prob = PROB_UNLIKELY_MAG(2);\n+  float infrequent_prob = used_inside_loop ? (float)BlockLayoutMinDiamondPercentage \/ 110.0f : PROB_UNLIKELY_MAG(2);\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
