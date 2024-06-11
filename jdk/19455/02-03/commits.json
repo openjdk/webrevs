@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplification. Just cast address to char* on aix."},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"}],"sha":"bdaf9d33b669dd5e0030e896cdcf0edaaa3fd06f"}]
