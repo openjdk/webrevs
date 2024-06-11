@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8319451: PhaseIdealLoop::conditional_move is too conservative\"\n\nThis reverts commit ac968c36d7cc2e13270d28c9310178f6b654d7dc."},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/CMove.java"}],"sha":"caaee62bc50590c57430e0eac3476c2f0e60a5b8"}]
