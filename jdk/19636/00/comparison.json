@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -624,1 +624,1 @@\n-sun\/security\/pkcs11\/sslecc\/ClientJSSEServerJSSE.java            8316183 linux-ppc64le\n+sun\/security\/pkcs11\/sslecc\/ClientJSSEServerJSSE.java            8316183,8333317 generic-all\n","filename":"test\/jdk\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
