@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove debug log. Enable tests for aix."},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_committed_virtualmemory.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/Thread\/TestAlwaysPreTouchStacks.java"}],"sha":"1b8853cd87e2d3eeb548de3dc8892f78ffd23a2b"}]
