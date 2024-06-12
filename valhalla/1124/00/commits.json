@@ -1,0 +1,1 @@
+[{"commit":{"message":"8334140: [lworld] -XX:LockingMode=0 ignored makes MapLoops fail\nThe default for lightweight locking should only be overridden if Valhalla is enabled."},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"952ad81f77a78a4daa80691bf21b2aec057d9fb1"}]
