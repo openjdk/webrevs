@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1552,1 +1552,0 @@\n-        index <<= 1;\n@@ -1554,0 +1553,1 @@\n+        index <<= 1;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringUTF16.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
