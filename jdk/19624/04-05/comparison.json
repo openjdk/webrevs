@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,2 @@\n-    permission java.io.FilePermission \"*\",\"read,write\";\n+       permission java.io.FilePermission \"*\",\"read,write\";\n+\n","filename":"test\/jdk\/javax\/management\/security\/java.policy.authorization","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
