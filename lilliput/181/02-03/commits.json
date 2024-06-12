@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix command line processing.  When COH is on, turn on ObjectTable (ignoring what one said about UseObjectMonitorTable)"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"43ef424c221aed4a26219ab1f8aaaf12eed5ff2d"}]
