@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 67d6f3ca9e8d1312c9e3a85dbe19903619f59064"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/runner\/ArrayShiftOpTest.java"}],"sha":"6cd3ad25c77edcdea49a7293851db10c7e45b4c3"}]
