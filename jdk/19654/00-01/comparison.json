@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @summary JTabbedPane throws ArrayOutOfBoundsException\n+ * @summary JTabbedPane throws ArrayIndexOutOfBoundsException\n","filename":"test\/jdk\/javax\/swing\/JTabbedPane\/4361477\/bug4361477.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
