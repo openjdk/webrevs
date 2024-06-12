@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -296,1 +296,1 @@\n-     * @see Gatherer#finisher()\n+     * @see Gatherer#combiner()\n","filename":"src\/java.base\/share\/classes\/java\/util\/stream\/Gatherer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
