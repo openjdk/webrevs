@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 5b9b176c6729aeff2a70d304a1ef57da3965fb53"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestNestedRelockAtDeopt.java"}],"sha":"39d1740e905b79574090037fb6f5be73e4d17220"}]
