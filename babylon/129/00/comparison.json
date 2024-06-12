@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,7 @@\n+Before a first build we need to create the `backends\/cmake-build-debug` dir.\n+```\n+cd hat\/backends\n+mkdir cmake-build-debug\n+cmake -B cmake-build-debug\n+```\n+\n","filename":"hat\/README.md","additions":7,"deletions":0,"binary":false,"changes":7,"status":"modified"}]}
