@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -940,1 +940,1 @@\n-  MachCallJavaNode() : MachCallNode(), _override_symbolic_info(false) {\n+  MachCallJavaNode() : MachCallNode(), _override_symbolic_info(false), _arg_escape(false) {\n","filename":"src\/hotspot\/share\/opto\/machnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
