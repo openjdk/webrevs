@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1528,1 +1528,0 @@\n-  DUIterator_Fast i;\n@@ -1530,0 +1529,1 @@\n+  DUIterator_Fast i;\n","filename":"src\/hotspot\/share\/opto\/node.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
