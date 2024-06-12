@@ -1,0 +1,1 @@
+[{"commit":{"message":"disable SharedStubToInterpTest when Graal is JIT"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/sharedstubs\/SharedStubToInterpTest.java"}],"sha":"bc68eb77c79ec264d8a8522a8d3b0895f60da7e4"}]
