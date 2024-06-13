@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert to the old behaviour for AIX."},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_committed_virtualmemory.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/Thread\/TestAlwaysPreTouchStacks.java"}],"sha":"a6b917dff29d5b3e2b3a13ba680529f80f6b38ef"}]
