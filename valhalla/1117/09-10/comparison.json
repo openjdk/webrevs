@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -695,1 +695,1 @@\n-     * Subtracts two {@code Float16} values as per the {@code +}\n+     * Subtracts two {@code Float16} values as per the {@code -}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Float16.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
