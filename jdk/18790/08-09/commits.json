@@ -1,0 +1,1 @@
+[{"commit":{"message":"check log_is_enable() in ClassLoader::print_counters"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/runtime\/java.cpp"}],"sha":"d0c857c5c3b31ad2c834f4d2bba9e52870acaf19"}]
