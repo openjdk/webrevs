@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -361,1 +361,1 @@\n-  static constexpr const size_t num_pages = 1024 * 512;\n+  static constexpr const size_t num_pages = 1024 * 4;\n@@ -437,2 +437,0 @@\n-    mtGC,\n-    mtCompiler\n","filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
