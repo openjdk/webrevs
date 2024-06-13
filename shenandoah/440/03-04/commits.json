@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix GHA errors\n\nOne of these errors was introduced by auto-merge.  The other addresses\nmore stringent restrictions enforced by the Microsoft compiler."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"}],"sha":"5f22805a50d43e26a946c0c85d90e44f5c6c85be"}]
