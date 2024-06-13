@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,4 +141,0 @@\n-  {\n-    LL2<int, CHeapAllocator> list;\n-    test_with_list(list);\n-  }\n","filename":"test\/hotspot\/gtest\/nmt\/test_indexedFreeListAllocator.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
