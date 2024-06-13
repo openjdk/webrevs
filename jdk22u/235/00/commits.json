@@ -1,0 +1,1 @@
+[{"commit":{"message":"8322008: Exclude some CDS tests from running with -Xshare:off\n\nReviewed-by: lmesnik, iklam"},"files":[{"filename":"test\/hotspot\/jtreg\/TEST.groups"}],"sha":"30e4ef6b0a193e681254dd2a08b80174f5d36f0b"}]
