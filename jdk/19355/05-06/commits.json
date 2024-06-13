@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed failures with -Xcomp and -Dtest.dynamic.cds.archive=true"},"files":[{"filename":"test\/hotspot\/jtreg\/TEST.groups"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/resolvedConstants\/ResolvedPutField.java"}],"sha":"d0b37dc29292192d10a05afcd8671c6538dfe94a"}]
