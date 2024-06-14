@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -859,0 +859,4 @@\n+\n+        \/\/ Peculiarities from AccessFlag.maskToAccessFlag\n+        map.compute(AccessFlag.Location.METHOD, (_, v) -> v | Modifier.STRICT);\n+\n","filename":"src\/jdk.jdeps\/share\/classes\/com\/sun\/tools\/javap\/ClassWriter.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
