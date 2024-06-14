@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -258,0 +258,1 @@\n+  assert(reads()->is_empty(), \"must be\");\n","filename":"src\/hotspot\/share\/classfile\/moduleEntry.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
