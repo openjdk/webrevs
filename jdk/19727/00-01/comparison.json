@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -135,1 +135,1 @@\n-        return process.toHandle().pid();\n+        return process.pid();\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/compiler\/complog\/share\/ProcessExecutor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
