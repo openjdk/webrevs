@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved state bool into initializer list"},"files":[{"filename":"src\/hotspot\/share\/classfile\/moduleEntry.cpp"}],"sha":"434554abb1272160817b1d2154b1501d2aeb5409"},{"commit":{"message":"Reverted assert"},"files":[{"filename":"src\/hotspot\/share\/classfile\/moduleEntry.cpp"}],"sha":"4b1360d224f329d039f091263b88ad8f58303f9d"}]
