@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -445,1 +445,1 @@\n-    int h = 0;\n+    unsigned int h = 0;\n","filename":"src\/java.base\/share\/native\/libzip\/zip_util.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
