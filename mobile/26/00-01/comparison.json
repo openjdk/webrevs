@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n-#if !defined(_WINDOWS) && (!defined(__APPLE__) || defined(__BIOS__)) && !defined(_AIX)\n+#if !defined(_WINDOWS) && (!defined(__APPLE__) || defined(__IOS__)) && !defined(_AIX)\n","filename":"src\/hotspot\/share\/utilities\/elfFile.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
