@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -670,1 +670,1 @@\n-        if (attr==null){\n+        if (attr == null) {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclint\/HtmlTag.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
