@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -220,0 +220,3 @@\n+        if (!enable) {\n+            throw new RuntimeException(\"The non-verbose logging is not supported.\");\n+        }\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/Log.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
