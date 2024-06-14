@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -212,1 +212,1 @@\n-  return ((_reads != nullptr) && !reads()->is_empty());\n+  return ((reads() != nullptr) && !reads()->is_empty());\n","filename":"src\/hotspot\/share\/classfile\/moduleEntry.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
