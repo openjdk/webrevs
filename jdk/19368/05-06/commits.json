@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use same registers for sub_klass and super_klass as C1."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"},{"filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp"}],"sha":"6136dbb9201f60bd6b850dc27ba73d23da6df7c7"}]
