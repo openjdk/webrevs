@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make sure UseSecondarySupersTable is only used on Power7 or later."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.cpp"}],"sha":"5633ff25982f24d916968001d7a66feeda0a1c7f"}]
