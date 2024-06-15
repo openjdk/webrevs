@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-        if(Platform.isRoot() && ! tester.isWindows()) {\n+        if(Platform.isRoot() && !tester.isWindows()) {\n","filename":"test\/langtools\/jdk\/javadoc\/doclet\/testIOException\/TestIOException.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
