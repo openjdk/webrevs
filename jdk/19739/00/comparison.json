@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -284,0 +284,1 @@\n+   LIBFONTMANAGER_CFLAGS += $(HARFBUZZ_CFLAGS)\n","filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
