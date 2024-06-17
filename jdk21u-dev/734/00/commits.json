@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 9fd78022b19149ade40f92749f0b585ecfd41410"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/TestAssertionPredicateDoesntConstantFold.java"}],"sha":"bf4d86444ed3cb5a034de1028fe75009e42fa79e"}]
