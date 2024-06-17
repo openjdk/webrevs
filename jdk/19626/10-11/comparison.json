@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -248,1 +248,0 @@\n-        buf.append('\\uFF16');\n@@ -281,1 +280,0 @@\n-        buf.append('\\uFF16');\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/StringBuilders.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
