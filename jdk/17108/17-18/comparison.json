@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,1 +281,0 @@\n-                       .withVersion(CLASSFILE_VERSION, 0)\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/InvokerBytecodeGenerator.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
