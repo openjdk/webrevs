@@ -1,0 +1,1 @@
+[{"commit":{"message":"move ATTRIBUTE_NO_UBSAN to a separate line"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveHeapLoader.cpp"},{"filename":"src\/hotspot\/share\/prims\/unsafe.cpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.cpp"}],"sha":"735a6871a896f7086602a42550cc4cdaddef63f9"}]
