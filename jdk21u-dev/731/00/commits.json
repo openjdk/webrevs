@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 0259da92831087e918d00b8a83e04c96a6877f41"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/ServerNameExtension.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/SSLSession\/ServerNameRejectedTLSSessionResumption.java"}],"sha":"ffd5be24b059698159eedacb48b1cdcde280e96b"}]
