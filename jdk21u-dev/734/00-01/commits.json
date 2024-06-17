@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable part of an assertion which requires JDK-8305636."},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"}],"sha":"4c82cbfcf9305d5d490b47c3ecbae429bfa22043"}]
