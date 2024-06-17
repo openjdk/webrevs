@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8297191:[macos] printing page range \"page 2 to 2\" or \"page 2 to 4\" on macOS leads to not print"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CPrinterJob.java"}],"sha":"0db29a26420ae23e2ba06bc281ad3a8d2f0df772"}]
