@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2953,1 +2953,1 @@\n-      } else if (LockingMode == LM_LIGHTWEIGHT) {\n+      } else if (UseObjectMonitorTable) {\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
