@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-    private static JTable table = null;\n+    private static JTable table;\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/TABTestONFCExit.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
