@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix BasicLock to test for UseObjectMonitorTable rather than LM_LIGHTWEIGHT."},"files":[{"filename":"src\/hotspot\/share\/runtime\/basicLock.cpp"},{"filename":"src\/hotspot\/share\/runtime\/basicLock.inline.hpp"}],"sha":"065c1db1132cbcbf745e1c445ff4d8b8995f0f22"}]
