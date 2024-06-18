@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move comments describing fragmentation functions to header file\n\nfor consistency with upstream code"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.hpp"}],"sha":"d675bed413aca48ceaa6c72118b55ff6113d3acd"}]
