@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove thread name from the output"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/thread\/PrintMountedVirtualThread.java"}],"sha":"af85b2617c97eeb31ce347f42b019c261bc141f1"}]
