@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -154,0 +154,2 @@\n+\/\/ Visual Studio 2013 introduced strtoull(); before, one has to use _strtoui64() instead.\n+#define strtoull _strtoui64\n","filename":"hotspot\/src\/share\/vm\/utilities\/globalDefinitions_visCPP.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
