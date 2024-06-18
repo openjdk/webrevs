@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove is_generational argument from try_recycle_trashed()"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.hpp"}],"sha":"d113ee731b0bbee75458daa4fdae0d4aea5f1890"}]
