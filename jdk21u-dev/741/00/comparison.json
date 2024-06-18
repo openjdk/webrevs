@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -167,1 +167,1 @@\n-            if (count > 0) {\n+            if (count > loaderCount.size() \/ 2) {\n","filename":"test\/jdk\/javax\/swing\/plaf\/basic\/BasicDirectoryModel\/LoaderThreadCount.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
