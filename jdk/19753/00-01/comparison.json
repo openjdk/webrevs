@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-            \/\/ We assume vmIntrinsics are sorted by ID\n+            \/\/ We speculate that vmIntrinsics are sorted by ID\n","filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotVMConfigStore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
