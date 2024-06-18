@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,1 @@\n+import java.util.HashMap;\n@@ -91,0 +92,1 @@\n+                    .persistence(new HashMap<>())\n","filename":"test\/langtools\/jdk\/jshell\/CustomInputToolBuilder.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
