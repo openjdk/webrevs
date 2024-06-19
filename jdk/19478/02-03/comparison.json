@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1406,0 +1406,6 @@\n+void* os::lookup_function(const char* name) {\n+  \/\/ This is needed only for static builds which are not supported on Windows\n+  ShouldNotReachHere();\n+  return nullptr; \/\/ Satisfy compiler\n+}\n+\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
