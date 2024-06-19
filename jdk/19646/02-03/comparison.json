@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1024,0 +1024,1 @@\n+  _phase_verify_ideal_loop = false;\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
