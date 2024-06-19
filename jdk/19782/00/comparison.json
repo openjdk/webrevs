@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -212,2 +212,2 @@\n-  const time_t zone_hours = (abs_local_to_UTC \/ seconds_per_hour);\n-  const time_t zone_min =\n+  const int zone_hours = (abs_local_to_UTC \/ seconds_per_hour);\n+  const int zone_min =\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
