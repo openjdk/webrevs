@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333854: IllegalAccessError with proxies after JDK-8332457"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/ProxyGenerator.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/Proxy\/NonPublicMethodTypeTest.java"}],"sha":"cccec5cb2b00dc14a38ca70c6b887e9e9903945a"}]
