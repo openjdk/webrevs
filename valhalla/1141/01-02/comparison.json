@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -199,1 +199,1 @@\n-                return (cffv.compareTo(ClassFileFormatVersion.RELEASE_22) >= 0) &&\n+                return (cffv.compareTo(ClassFileFormatVersion.latest()) >= 0) &&\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/AccessFlag.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
