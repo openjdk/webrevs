@@ -1,0 +1,1 @@
+[{"commit":{"message":"Build barrier data in G1BarrierSetC2::get_store_barrier() by adding, rather than removing, barrier tags"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/c2\/g1BarrierSetC2.cpp"}],"sha":"d722d4c7c1534794aaa38d54ecf7a4c12b158e84"}]
