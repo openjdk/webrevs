@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,4 +115,0 @@\n-  address pc;\n-  char    buf[1024];\n-  int     offset;\n-  int     line;\n","filename":"src\/hotspot\/share\/utilities\/nativeCallStack.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
