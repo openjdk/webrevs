@@ -1,0 +1,1 @@
+[{"commit":{"message":"7903758: jextract can avoid temporary file creation for single simple header case"},"files":[{"filename":"src\/main\/java\/org\/openjdk\/jextract\/JextractTool.java"},{"filename":"src\/main\/resources\/org\/openjdk\/jextract\/impl\/resources\/Messages.properties"}],"sha":"050e8b37d38c813063f03b5ab5d74d8a8c28f41f"}]
