@@ -1,0 +1,1 @@
+[{"commit":{"message":"Tagged the new IDENTITY and STRICT_FIELD AccessFlags to be valid as of the `latest()` class file version number.\nThey should float forward with releases until the first release in which Valhalla is integrated."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/AccessFlag.java"}],"sha":"9e0368fc40607bd47071ee3fe0b9299850c61c8e"}]
