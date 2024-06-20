@@ -1,0 +1,1 @@
+[{"commit":{"message":"VM startup: fatal error: FLAG_SET_ERGO cannot be used to set an invalid value for NonNMethodCodeHeapSize"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"}],"sha":"53f32a1486ccf605199e4e3a293c5c9fd924d9d0"}]
