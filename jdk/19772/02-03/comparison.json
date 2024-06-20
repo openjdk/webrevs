@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,0 +81,4 @@\n+#ifdef LINUX\n+#include \"osContainer_linux.hpp\"\n+#endif\n+\n@@ -2068,1 +2072,1 @@\n-#ifndef LINUX\n+#ifdef LINUX\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
