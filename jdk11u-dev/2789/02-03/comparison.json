@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -236,1 +236,1 @@\n-\tprivate Scanner(JFileChooser fileChooser) {\n+        private Scanner(JFileChooser fileChooser) {\n","filename":"test\/jdk\/javax\/swing\/plaf\/basic\/BasicDirectoryModel\/LoaderThreadCount.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
