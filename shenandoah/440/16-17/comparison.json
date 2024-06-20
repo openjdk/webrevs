@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1488,0 +1488,1 @@\n+      ShenandoahHeapLocker locker(_heap->lock());\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
