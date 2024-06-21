@@ -1,0 +1,1 @@
+[{"commit":{"message":"8334713: WebKit build failed on LoongArch64 because currentStackPointer is undefined"},"files":[{"filename":"modules\/javafx.web\/src\/main\/native\/Source\/WTF\/wtf\/StackPointer.cpp"}],"sha":"24867e266ace3e3f78ca90180f4c47191fb8a626"}]
