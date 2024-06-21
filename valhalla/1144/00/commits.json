@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prevent CDS code from calling Java code from VM thread"},"files":[{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"}],"sha":"7e22b81367ab56cc712832f362a82c67884d9a3e"}]

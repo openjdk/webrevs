@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -286,1 +286,3 @@\n-    obj->identity_hash();\n+    if (!obj->klass()->is_inline_klass()) {\n+      obj->identity_hash();\n+    }\n","filename":"src\/hotspot\/share\/cds\/heapShared.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
