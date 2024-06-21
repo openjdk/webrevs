@@ -1,0 +1,1 @@
+[{"commit":{"message":"8334299: Deprecate LockingMode option, along with LM_LEGACY and LM_MONITOR"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java"}],"sha":"60d1f03cef181a6e2d9ca4637062af35e47eb3e4"}]
