@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,0 +86,1 @@\n+    \/\/ The set of common CPU registers available on all x64 platforms.\n","filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/amd64\/AMD64.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
