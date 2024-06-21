@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -185,1 +185,1 @@\n-            return this;\n+            return XYChart.this;\n@@ -214,1 +214,1 @@\n-            return this;\n+            return XYChart.this;\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/chart\/XYChart.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
