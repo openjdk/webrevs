@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -371,1 +371,0 @@\n-        System.err.println(\"Class file transformation: \" + changed);\n","filename":"test\/jdk\/java\/lang\/invoke\/indify\/Indify.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
