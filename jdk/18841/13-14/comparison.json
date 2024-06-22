@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -379,1 +379,1 @@\n-                outfile = f;\n+                outfile = f;  \/\/ overwrite input file, no matter where it is\n","filename":"test\/jdk\/java\/lang\/invoke\/indify\/Indify.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
