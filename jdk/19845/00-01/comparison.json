@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -234,2 +234,0 @@\n-                output.writeLong(pool.getTypeId());\n-                output.writeLong(pool.getTouchedCount());\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/consumer\/filter\/ChunkWriter.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
