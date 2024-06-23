@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -234,1 +234,1 @@\n-    switch expression does not have any result expressions\n+    Unable to determine switch expression type: no branch that yields value found\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
