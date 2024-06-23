@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-    alloc.free(start);\n+    alloc.deallocate(start);\n","filename":"test\/hotspot\/gtest\/nmt\/test_homogenousObjectArray.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"test\/hotspot\/gtest\/nmt\/test_homogenousObjectArray.hpp","status":"renamed"}]}
