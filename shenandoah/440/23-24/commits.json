@@ -1,0 +1,1 @@
+[{"commit":{"message":"Arrange for verifier to omit trashed regions from span"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.cpp"}],"sha":"5bf12f694e0bbdc0991d92a5106989782eb65690"}]
