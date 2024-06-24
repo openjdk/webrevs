@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Implement address-use-after-return\"\n\nThis reverts commit 7e089829f1ebf3d4e5aafe0934bd18db0234136b."},"files":[{"filename":"make\/autoconf\/jdk-options.m4"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"0fa0102d0d12bba655f5874840a275e2d73fb04f"}]
