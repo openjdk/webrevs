@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332124: Jcmd processing should accept the \"help\" sub option as command argument"},"files":[{"filename":"src\/hotspot\/share\/services\/diagnosticFramework.cpp"},{"filename":"src\/hotspot\/share\/services\/diagnosticFramework.hpp"},{"filename":"test\/jdk\/sun\/tools\/jcmd\/TestJcmdSubcommandHelp.java"}],"sha":"21c1031473be3176c37b8c6a8263906e79b79912"}]
