@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,3 +34,0 @@\n-        \/**\n-         * {@inheritDoc}\n-         *\/\n@@ -97,1 +94,1 @@\n-         * {@snippet lang=java\n+         * {@snippet lang=java :\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/TypeElement.java","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
