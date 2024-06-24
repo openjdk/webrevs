@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1640,1 +1640,0 @@\n-#ifdef ASSERT\n@@ -1642,0 +1641,1 @@\n+#ifdef ASSERT\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
