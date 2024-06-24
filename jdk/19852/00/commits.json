@@ -1,0 +1,1 @@
+[{"commit":{"message":"8334843: RISC-V: Fix wraparound checking for r_array_index in lookup_secondary_supers_table_slow_path"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"4780027f9f9e43ebb6e17b6079abb4b993395b8e"}]

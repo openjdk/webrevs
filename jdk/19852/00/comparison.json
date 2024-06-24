@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3802,1 +3802,1 @@\n-    bge(r_array_length, r_array_index, skip);\n+    blt(r_array_index, r_array_length, skip);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
