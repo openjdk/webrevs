@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -441,1 +441,1 @@\n-          # detect_stack_use_after_return is using a fake stack and thus JDK would crashe:\n+          # detect_stack_use_after_return is using a fake stack and thus JDK would crash:\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
