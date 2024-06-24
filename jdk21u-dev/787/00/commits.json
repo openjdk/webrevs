@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 2ea365c94533a59865ab4c20ad8e1008072278da"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestIsLoadVector.java"}],"sha":"20784d48ed8674797fc81f7c842559ba651d7a38"}]
