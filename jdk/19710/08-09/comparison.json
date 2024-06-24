@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1988,2 +1988,0 @@\n-            long r = x - s * s;\n-\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
