@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -668,1 +668,1 @@\n-      DEFAULT_DESC: [disabled except on aarch64],\n+      DEFAULT_DESC: [disabled except on linux-aarch64],\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
