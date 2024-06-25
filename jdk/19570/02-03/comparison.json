@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+#include \"runtime\/os.inline.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahLock.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
