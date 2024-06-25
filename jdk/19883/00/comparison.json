@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -870,1 +870,1 @@\n-                if (className.indexOf('.') > 0) {\n+                if (className.indexOf('.') > 0 || className.indexOf('\/') > 0) {\n","filename":"src\/jdk.jdeps\/share\/classes\/com\/sun\/tools\/javap\/JavapTask.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
