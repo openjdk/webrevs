@@ -1,0 +1,1 @@
+[{"commit":{"message":"Using clang_parseTranslationUnit2 instead of clang_createTranslationUnitFromSourceFile."},"files":[{"filename":"src\/main\/java\/org\/openjdk\/jextract\/clang\/Index.java"},{"filename":"src\/main\/java\/org\/openjdk\/jextract\/clang\/libclang\/Index_h.java"},{"filename":"updateclang\/clang.symbols"}],"sha":"267c889de2983ce7ea897a14e8781de017d96059"}]
