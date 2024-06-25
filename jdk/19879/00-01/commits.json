@@ -1,0 +1,1 @@
+[{"commit":{"message":"don't inject NIO_ACCESS instead patch InetSocketAddress to introduce crafted delays"},"files":[{"filename":"test\/jdk\/java\/nio\/channels\/Selector\/DeferredCloseTest.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Selector\/java.base\/java\/net\/InetSocketAddress.java"}],"sha":"ae041539b269c0b3ae9dd4357b866a7c7cf8483f"}]
