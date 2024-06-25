@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -671,1 +671,1 @@\n-            for (TypeElement t : metadata.getEventsAndStructs()) {\n+            for (TypeElement t : metadata.getEvents()) {\n","filename":"make\/src\/classes\/build\/tools\/jfr\/GenerateJfrFiles.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
