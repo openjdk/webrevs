@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3505,1 +3505,0 @@\n-  BoxLockNode* box = alock->box_node()->as_BoxLock();\n@@ -3510,1 +3509,1 @@\n-      box->set_local();\n+      alock->box_node()->as_BoxLock()->set_local();\n","filename":"src\/hotspot\/share\/opto\/escape.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
