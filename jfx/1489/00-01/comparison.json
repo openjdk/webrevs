@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,2 +37,0 @@\n-import java.util.stream.Collectors;\n-\n@@ -153,0 +151,1 @@\n+        \/\/ forward time until after animation is finished\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/chart\/XYNumberLineChartsTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
