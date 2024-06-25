@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,1 +200,1 @@\n-    COMPATIBLE_CDS_ALIGNMENT_DEFAULT=true\n+    COMPATIBLE_CDS_ALIGNMENT_DEFAULT=auto\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
