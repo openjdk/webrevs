@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -500,3 +500,3 @@\n-    DEFAULT: [],\n-    DESC: [Custom ubsan checks],\n-    OPTIONAL: true)\n+      DEFAULT: [],\n+      DESC: [Customizes the ubsan checks],\n+      OPTIONAL: true)\n","filename":"make\/autoconf\/jdk-options.m4","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
