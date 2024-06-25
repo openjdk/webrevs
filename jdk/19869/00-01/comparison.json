@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -202,1 +202,0 @@\n-  AC_SUBST(COMPATIBLE_CDS_ALIGNMENT_DEFAULT)\n@@ -669,1 +668,1 @@\n-      DEFAULT_DESC: [disabled],\n+      DEFAULT_DESC: [disabled except on aarch64],\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
