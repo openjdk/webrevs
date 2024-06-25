@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3173,1 +3173,1 @@\n-  add2reg(r_addr, wordSize);\n+  z_la(r_addr, wordSize, r_addr);\n","filename":"src\/hotspot\/cpu\/s390\/macroAssembler_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
