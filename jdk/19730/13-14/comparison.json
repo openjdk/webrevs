@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,1 @@\n-    int length(byte[] str) {\n+    final int length(byte[] str) {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/math\/ToDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
