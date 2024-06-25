@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve consistency of OOM in GenShen mode\n\nTreat any full GC that enables a previously blocked allocation as good\nprogress."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"},{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/oom\/TestThreadFailure.java"}],"sha":"91c3ab07d71a5936f4b886eae83f1f09c077fb3a"}]
