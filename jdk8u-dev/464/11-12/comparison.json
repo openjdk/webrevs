@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @bug 6741526 8004693\n+ * @bug 6741526\n@@ -30,0 +30,1 @@\n+ * @build Sysout\n","filename":"jdk\/test\/java\/awt\/KeyboardFocusmanager\/DefaultPolicyChange\/DefaultPolicyChange_Swing.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
