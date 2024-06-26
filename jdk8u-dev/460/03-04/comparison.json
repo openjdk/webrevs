@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,1 @@\n+   @key headful\n@@ -42,1 +43,0 @@\n-   @key headful\n","filename":"jdk\/test\/java\/awt\/Container\/MoveToOtherScreenTest\/MoveToOtherScreenTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
