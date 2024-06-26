@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-    Linux ) if grep -qi Microsoft \/proc\/version ; then wsl=1 ; fi ;;\n+    Linux ) if test -f \/proc\/version && grep -qi Microsoft \/proc\/version ; then wsl=1 ; fi ;;\n","filename":"src\/share\/bin\/jtreg.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
