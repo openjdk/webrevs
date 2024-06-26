@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -182,0 +182,2 @@\n+# Tests in this group are manual as they depend on external infra\n+# and may fail with external reasons, for instance - change in CA test portal.\n","filename":"jdk\/test\/TEST.groups","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
