@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-CXX_FLAGS=$(EXTRA_CFLAGS) \/nologo \/W3 \/WX\n+CXX_FLAGS=$(EXTRA_CFLAGS) \/nologo \/W3 \/WX \/wd4800\n","filename":"hotspot\/make\/windows\/makefiles\/compile.make","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
