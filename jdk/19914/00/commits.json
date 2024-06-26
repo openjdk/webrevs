@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move Min\/Max opt before CMove de-canonicalization"},"files":[{"filename":"src\/hotspot\/share\/opto\/movenode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestIfMinMax.java"}],"sha":"4918f26cc615a59666f377ea9cb6de7a0d09c7ee"}]
