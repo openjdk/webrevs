@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3600,1 +3600,1 @@\n-  print_on_maybe_null(st, BULLET\"field annotations:  \", fields_annotations());\n+  print_on_maybe_null(st, BULLET\"field annotations:       \", fields_annotations());\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
