@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,2 @@\n-    \/** {@return the instantiation of the superclass in this signature}\n+    \/**\n+     * {@return the instantiation of the superclass in this signature}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/ClassSignature.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
