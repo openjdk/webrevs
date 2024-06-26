@@ -1,0 +1,1 @@
+[{"commit":{"message":"8335060: ClassCastException after JDK-8294960"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/TypeConvertingMethodAdapter.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/TypeConvertingTest.java"}],"sha":"e15f2f02e90e0eb0b6f3296ef44ffbe8c8c4539a"}]
