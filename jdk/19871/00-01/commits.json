@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use external_word_Relocation::spec_for_immediate() instead of relocInfo::none"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"6da56e22dd170e38160f0f8082b61aa2c6bde783"}]
