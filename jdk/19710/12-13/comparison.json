@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2041,3 +2041,1 @@\n-            int rSign = rem.subtract(qSqr);\n-\n-            if (rSign == -1) {\n+            if (rem.subtract(qSqr) == -1) {\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
