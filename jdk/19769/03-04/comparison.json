@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,1 +244,1 @@\n-\/\/ unloading can remove entries concurrently soon.\n+\/\/ unloading can remove entries concurrently.\n","filename":"src\/hotspot\/share\/classfile\/classLoaderDataGraph.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
