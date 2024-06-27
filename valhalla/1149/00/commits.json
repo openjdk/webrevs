@@ -1,0 +1,1 @@
+[{"commit":{"message":"8334546: [lworld] C2: Calling clone() on non-allocated inline types fails with \"Should have been buffered\""},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestIntrinsics.java"}],"sha":"bd1d725da26c4f78ae4950a1ffc03c1f1f5fa784"}]
