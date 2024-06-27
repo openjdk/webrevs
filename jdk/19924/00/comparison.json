@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,0 @@\n-\n@@ -225,0 +224,2 @@\n+        \/\/ Account for threads using CPU for a few millis after their WAITING state is visible:\n+        goSleep(500);\n","filename":"test\/jdk\/com\/sun\/management\/ThreadMXBean\/ThreadCpuTimeArray.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
