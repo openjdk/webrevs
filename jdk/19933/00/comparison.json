@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -361,1 +361,1 @@\n-        private Object[] resolvedEnum;\n+        private final Object[] resolvedEnum;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/SwitchBootstraps.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
