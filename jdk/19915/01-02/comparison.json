@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1836,1 +1836,0 @@\n-  _free_set->log_status();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
