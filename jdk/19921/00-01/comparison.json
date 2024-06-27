@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -577,0 +577,3 @@\n+          \/\/ We may have Opaque4 node between If and Bool nodes.\n+          \/\/ Bail out in such case - we need to preserve Opaque4 for correct\n+          \/\/ processing predicates after loop opts.\n","filename":"src\/hotspot\/share\/opto\/escape.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
