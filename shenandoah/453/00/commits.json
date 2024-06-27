@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not busy loop when handling whitebox breakpoint request"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"}],"sha":"51dbb9148aa8d016500c89fb2bc66cde9499834b"}]
