@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -321,2 +321,0 @@\n-  void log_status_with_heap_locked();\n-\n@@ -346,0 +344,1 @@\n+  void log_status_with_heap_locked();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
