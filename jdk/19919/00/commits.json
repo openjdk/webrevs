@@ -1,0 +1,1 @@
+[{"commit":{"message":"8335217: Fix memory ordering in ClassLoaderData::ChunkedHandleList"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"}],"sha":"84a7d1cf92a3dda68273b6a9fc089ec85c01664a"}]
