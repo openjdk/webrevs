@@ -1,0 +1,1 @@
+[{"commit":{"message":"Pass bt argument as reference instead of pointer"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.hpp"}],"sha":"a35b3eec7fd31c3aec6617875e1926015625c811"}]
