@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,1 +160,3 @@\n-                updateSceneState();\n+                if (host != null) {\n+                    updateSceneState();\n+                }\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/EmbeddedScene.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}

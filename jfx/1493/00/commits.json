@@ -1,0 +1,1 @@
+[{"commit":{"message":"8334593: Adding, removing and then adding a JFXPanel again leads to NullPointerException"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/EmbeddedScene.java"}],"sha":"14ac6ef3237356b31dae85d1389069ffd7552e2d"}]
