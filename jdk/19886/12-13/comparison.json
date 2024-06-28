@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -278,2 +278,0 @@\n-    if(UseNewCode)\n-\t    stop(\"check here\");\n","filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.inline.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
