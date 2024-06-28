@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,2 @@\n+ * @comment Running with -Xcomp is likely to cause a timeout from ServerCommunicatorAdmin\n+ *          before addNotificationListener can complete.\n","filename":"test\/jdk\/javax\/management\/remote\/mandatory\/notif\/NotifReconnectDeadlockTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
