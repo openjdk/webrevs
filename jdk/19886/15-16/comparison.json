@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -375,1 +375,1 @@\n-    __ normalize_bool(R3_RET, R0);\n+    __ normalize_bool(R3_RET);\n","filename":"src\/hotspot\/cpu\/ppc\/templateInterpreterGenerator_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
