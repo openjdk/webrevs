@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disallow mutator threads from reading the asynchronously updated\n_gc_generation field of ShHeap."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp"}],"sha":"c79fea11e18a9d5730246a55bcc9d74777cd384b"}]
