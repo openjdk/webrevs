@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,1 +140,1 @@\n-                str = String.valueOf(arg1);\n+                arg1 = str = String.valueOf(arg1);\n@@ -142,1 +142,0 @@\n-                arg1 = String.valueOf(str);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringFormat.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
