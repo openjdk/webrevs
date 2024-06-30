@@ -1,0 +1,1 @@
+[{"commit":{"message":"8334999: RISC-V: implement AES single block encryption\/decryption intrinsics"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"02dc4e29c71bca835c35218184ac5382ed0eb36c"}]
