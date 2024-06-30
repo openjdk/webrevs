@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -242,1 +242,1 @@\n-  fflush(0);\n+  fflush(nullptr);\n","filename":"test\/lib\/jdk\/test\/lib\/jvmti\/jvmti_common.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
