@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add a 1\/2 second delay to make sure the threads have finished moving to the right state and and idle."},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/sa\/LingeredAppWithConcurrentLock.java"},{"filename":"test\/hotspot\/jtreg\/serviceability\/sa\/LingeredAppWithLock.java"}],"sha":"6cd3860d34661d9b12092ef230480ff41c1f38e6"}]
