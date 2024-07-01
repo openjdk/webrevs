@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3362,1 +3362,1 @@\n-    \/\/ look-ahead check (Bit 2), if bit-2 is also 0, we're done\n+    \/\/ look-ahead check: if Bit 2 is 0, we're done\n","filename":"src\/hotspot\/cpu\/s390\/macroAssembler_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
