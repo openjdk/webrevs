@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5207,1 +5207,0 @@\n-    __ zero_extend(s1, s1, 16); \/\/ s1 = (adler & 0xffff)\n@@ -5209,0 +5208,1 @@\n+    __ zero_extend(s1, adler, 16); \/\/ s1 = (adler & 0xffff)\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
