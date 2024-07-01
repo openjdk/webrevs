@@ -1,0 +1,1 @@
+[{"commit":{"message":"8335475: ClassBuilder incorrectly calculates max_locals in some cases"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapGenerator.java"},{"filename":"test\/jdk\/jdk\/classfile\/StackMapsTest.java"}],"sha":"a60bdca3b7cf93ed601ff0aee5682dfa30644e8c"}]
