@@ -1,0 +1,1 @@
+[{"commit":{"message":"8331725: ubsan: pc may not always be the entry point for a VtableStub"},"files":[{"filename":"src\/hotspot\/share\/code\/vtableStubs.cpp"},{"filename":"src\/hotspot\/share\/code\/vtableStubs.hpp"}],"sha":"6629f475071ab4d084b7d113b0f64262382da3be"}]
