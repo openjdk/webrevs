@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move _resource_allocate_bit_mask to the place before _num_oops for better layout in debug build"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/oopMapCache.hpp"}],"sha":"db1170ac01761843cae12d721016e3aac0711af6"}]
