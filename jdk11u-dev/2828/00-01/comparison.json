@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-    private static final int iter = 20_000;\n+    private static final int iter = 10_000;\n","filename":"test\/hotspot\/jtreg\/compiler\/arraycopy\/TestIllegalArrayCopyBeforeInfiniteLoop.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
