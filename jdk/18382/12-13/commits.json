@@ -1,0 +1,1 @@
+[{"commit":{"message":"Optimize vtables generation for MaxVectorSize == 16"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"8ec0e3c9ac0e62d6bf26d7f90849f9dc4419a632"}]
