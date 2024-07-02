@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -609,1 +609,1 @@\n-\\f[V]path-to-gc-roots\\f[R]: (Optional) Flag for saving the path to\n+\\f[V]path-to-gc-root\\f[R]: (Optional) Flag for saving the path to\n","filename":"src\/jdk.jcmd\/share\/man\/jcmd.1","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
