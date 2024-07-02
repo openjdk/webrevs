@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix assertion fail in `IdealGraphPrinter` when `append` is true."},"files":[{"filename":"src\/hotspot\/share\/opto\/idealGraphPrinter.cpp"},{"filename":"src\/hotspot\/share\/opto\/idealGraphPrinter.hpp"}],"sha":"42de6316cf7318b8d0d9eb976715ececb77cf2eb"}]
