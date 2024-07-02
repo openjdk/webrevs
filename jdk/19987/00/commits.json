@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303884: jlink --add-options plugin does not allow GNU style options to be provided"},"files":[{"filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/TaskHelper.java"},{"filename":"test\/jdk\/tools\/jlink\/plugins\/AddOptionsPluginTest.java"}],"sha":"ea8fc5564e47855c84bc1ea3e0b4feaa1d733b52"}]
