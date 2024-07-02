@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,1 @@\n-    local destfile=\"$2\"\n+    local destfile=`realpath \"$2\"`\n","filename":"make\/build-support\/build-common.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
