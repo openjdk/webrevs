@@ -1,0 +1,1 @@
+[{"commit":{"message":"change comment to refer to gcc bug"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CardSetContainers.hpp"}],"sha":"cbe06d226e70f9a3bd1988ced7a69cf3252046d7"},{"commit":{"message":"fix G1CardSetInlinePtr"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CardSetContainers.hpp"}],"sha":"08d3cc88823ce4a4424005318d790cf96f5e0f7a"}]
