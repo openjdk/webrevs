@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333396: Performance regression of DecimalFormat.format"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/text\/DateFormatterBench.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/text\/ListFormatterBench.java"}],"sha":"7122c2c8ad243f15b063818eecdd33cbb271a894"}]
