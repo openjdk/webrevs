@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-            \".java\/.robot\/screencast-tokens.properties\";\n+            \".java\/robot\/screencast-tokens.properties\";\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/gtk\/screencast\/TokenStorage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
