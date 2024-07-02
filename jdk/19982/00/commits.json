@@ -1,0 +1,1 @@
+[{"commit":{"message":"8335493: ClearedAllSoftRefs::~ClearedAllSoftRefs should reset SoftRefPolicy::_should_clear_all_soft_refs"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/softRefPolicy.hpp"}],"sha":"e9b42d7c43fabeec50663609c7e9c60991c8b39b"}]
