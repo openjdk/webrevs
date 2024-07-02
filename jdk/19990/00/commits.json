@@ -1,0 +1,1 @@
+[{"commit":{"message":"8334890: Missing unconditional cross modifying fence in nmethod entry barriers"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/barrierSetNMethod.cpp"}],"sha":"f27552f02d099d489649fbcc46e1ee3f0d56b1ac"}]
