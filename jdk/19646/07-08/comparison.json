@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -557,1 +557,1 @@\n-    if (C->failing()){\n+    if (C->failing()) {\n","filename":"src\/hotspot\/share\/opto\/chaitin.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
