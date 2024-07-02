@@ -1,0 +1,1 @@
+[{"commit":{"message":"Enabling only -h or --help. Also modifying test case"},"files":[{"filename":"src\/hotspot\/share\/services\/diagnosticFramework.cpp"},{"filename":"src\/hotspot\/share\/services\/diagnosticFramework.hpp"},{"filename":"test\/jdk\/sun\/tools\/jcmd\/TestJcmdSubcommandHelp.java"}],"sha":"65cab4d3dce167182778c4e222e2835ec6c0c2d1"}]
