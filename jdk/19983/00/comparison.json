@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,0 +256,3 @@\n+  if (hr->is_free()) {\n+    return true;\n+  }\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.inline.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
