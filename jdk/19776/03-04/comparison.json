@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -429,1 +429,1 @@\n-    if (strncmp(token, \"-h\", 2) == 0 || strncmp(token, \"--help\", 6) == 0) {\n+    if (strcmp(token, \"-h\") == 0 || strcmp(token, \"--help\") == 0) {\n","filename":"src\/hotspot\/share\/services\/diagnosticFramework.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
