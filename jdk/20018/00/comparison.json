@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4252,2 +4252,2 @@\n-            for (int i = 0; i < nzeros; i++) {\n-                sb.append('0');\n+            if (nzeros > 0) {\n+                sb.repeat('0', nzeros);\n","filename":"src\/java.base\/share\/classes\/java\/util\/Formatter.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
