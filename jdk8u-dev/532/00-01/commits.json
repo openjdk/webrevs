@@ -1,0 +1,1 @@
+[{"commit":{"message":"Back out JDK-8075511 backport\n\nThis reverts commit cbd483afa413f006c991f1b4d92c83463cc11baa."},"files":[{"filename":"hotspot\/make\/linux\/makefiles\/gcc.make"}],"sha":"9f5b757cbb7a7b2d532596319cfa71cdaa121ca1"}]
