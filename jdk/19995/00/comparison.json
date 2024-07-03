@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -610,1 +610,1 @@\n-    : _parent(0), _next(0), _child(0),\n+    : _parent(nullptr), _next(nullptr), _child(nullptr),\n","filename":"src\/hotspot\/share\/opto\/loopnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
