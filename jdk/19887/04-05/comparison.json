@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1094,1 +1094,1 @@\n-      errno = 0\n+      errno = 0;\n","filename":"src\/hotspot\/os\/aix\/porting_aix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
