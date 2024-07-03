@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,2 @@\n+ * @build ForceLoad SimpleFileTypeDetector\n+ * @run main\/othervm ForceLoad\n","filename":"jdk\/test\/java\/nio\/file\/Files\/probeContentType\/ForceLoad.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
