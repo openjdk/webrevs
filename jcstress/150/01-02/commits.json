@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved removeJdwpAgentLib from Options to VMSupport"},"files":[{"filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/Options.java"},{"filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/vm\/VMSupport.java"}],"sha":"23291cb3d75324944e914b45813d812a917c53b2"}]
