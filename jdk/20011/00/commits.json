@@ -1,0 +1,1 @@
+[{"commit":{"message":"8335619: Add an @apiNote to j.l.i.ClassFileTransformer to warn about recursive class loading and ClassCircularityErrors"},"files":[{"filename":"src\/java.instrument\/share\/classes\/java\/lang\/instrument\/ClassFileTransformer.java"}],"sha":"69b06d4bcf60c007f75074bc79a390922fb34886"}]
