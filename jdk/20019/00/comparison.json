@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1949,1 +1949,0 @@\n-private:\n@@ -2083,1 +2082,0 @@\n-  int                _jvmci_ir_size;\n@@ -2085,0 +2083,1 @@\n+  int                _jvmci_ir_size;\n","filename":"src\/hotspot\/share\/oops\/methodData.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
