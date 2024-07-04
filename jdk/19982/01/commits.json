@@ -1,0 +1,1 @@
+[{"commit":{"message":"reset in check_gc_overhead_limit"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gcOverheadChecker.cpp"}],"sha":"8dc625dcfce5af82e8d75ee86a24acc1266e8d92"},{"commit":{"message":"8335493: ClearedAllSoftRefs::~ClearedAllSoftRefs should reset SoftRefPolicy::_should_clear_all_soft_refs"},"files":[],"sha":"e9b42d7c43fabeec50663609c7e9c60991c8b39b"}]
