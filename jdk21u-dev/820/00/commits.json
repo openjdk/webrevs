@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport eeb63cd0fad9de1f7182ab97d0f25ac67745aa9e"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestNotifyOpaqueZeroTripGuardToCmpI.java"}],"sha":"e4a6ed5155ba5da5510fd15879271e12b192ee2b"}]
