@@ -1,0 +1,1 @@
+[{"commit":{"message":"8335532: [JVMCI] Export VM_Version::L1_line_size in JVMCI"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.hpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVMInit.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp"}],"sha":"2b853841037a9ea4e6b513988a5c3a97e365abc6"}]
