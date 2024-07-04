@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,5 +169,0 @@\n-        EventQueue.invokeAndWait(() -> {\n-            frame.dispose();\n-            frame.setVisible(true);\n-        });\n-\n","filename":"test\/jdk\/java\/awt\/event\/ComponentEvent\/ComponentEventTest.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
