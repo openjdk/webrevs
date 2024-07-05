@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport d53cac379419b7b74df045bb119df6d5f9e91878"},"files":[{"filename":"src\/hotspot\/share\/metaprogramming\/removePointer.hpp"},{"filename":"src\/hotspot\/share\/runtime\/atomic.hpp"},{"filename":"test\/hotspot\/gtest\/metaprogramming\/test_removePointer.cpp"}],"sha":"8a39f93639f3afc31523a2aa98178d2a80641fbe"}]
