@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport d287a5e9d8e1b87397694781772c4ddbf5e4f4a4"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libdt_socket\/socketTransport.c"},{"filename":"src\/jdk.jdwp.agent\/windows\/native\/libdt_socket\/socket_md.c"},{"filename":"src\/jdk.jdwp.agent\/windows\/native\/libjdwp\/linker_md.c"}],"sha":"63d2d5ed952728a338647f25b946c13387e5bd0f"}]
