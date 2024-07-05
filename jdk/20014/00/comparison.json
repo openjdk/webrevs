@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -473,1 +473,1 @@\n-  vm_exit_during_initialization(error, message);\n+  vm_exit_during_cds_dumping(error, message);\n","filename":"src\/hotspot\/share\/classfile\/classLoader.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
