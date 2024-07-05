@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+ * @requires vm.simpleArch == \"x64\" | vm.simpleArch == \"aarch64\" | vm.simpleArch == \"riscv64\"\n","filename":"test\/hotspot\/jtreg\/runtime\/ClassInitErrors\/TestStackOverflowDuringInit.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
