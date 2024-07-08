@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -768,1 +768,1 @@\n-            testConnect(port1);\n+            testConnect(pa.getPort1());\n","filename":"jdk\/test\/sun\/management\/jmxremote\/startstop\/JMXStartStopTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
