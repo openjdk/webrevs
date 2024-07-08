@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,1 @@\n-        scanLength < width) {\n+        scanLength < width || offset < 0) {\n@@ -165,1 +165,1 @@\n-        scanLength < width) {\n+        scanLength < width || offset < 0) {\n","filename":"modules\/javafx.graphics\/src\/main\/native-prism-sw\/JAbstractSurface.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
