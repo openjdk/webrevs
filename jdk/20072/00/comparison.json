@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,2 +52,0 @@\n-        \/\/ vdso library, should be part of all user space apps on all architectures OpenJDK supports.\n-        regexBase_committed + \"\\\\[vdso\\\\]\",\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/vm\/SystemMapTestBase.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
