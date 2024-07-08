@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n- * @run main\/othervm -Xss240K -Xint TestStackOverflowDuringInit\n+ * @run main\/othervm -Xss384K -Xint TestStackOverflowDuringInit\n","filename":"test\/hotspot\/jtreg\/runtime\/ClassInitErrors\/TestStackOverflowDuringInit.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
