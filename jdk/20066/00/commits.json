@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve result of AndNode mul_ring"},"files":[{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/AndINodeIdealizationTests.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/AndLNodeIdealizationTests.java"}],"sha":"808d8067829885d99e369adccfcd436532eaf4b4"}]
