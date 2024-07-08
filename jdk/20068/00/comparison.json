@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-                ON ALL PLATFORMS\n+                ON ALL PLATFORMS except macos where pt.6 is not applicable\n","filename":"test\/jdk\/javax\/swing\/JTabbedPane\/bug4666224.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
