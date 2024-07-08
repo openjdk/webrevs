@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make `Node::dominates` and `MemNode::all_controls_dominate` returns an `enum`."},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/memnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/node.cpp"},{"filename":"src\/hotspot\/share\/opto\/node.hpp"}],"sha":"38418f26120a5e51f39f1e16254719710f77bd7b"}]
