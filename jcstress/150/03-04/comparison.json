@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -402,1 +402,1 @@\n-    private static List<String> removeJdwpAgentLib(List<String> originalArgs ) {\n+    private static List<String> removeJdwpAgentLib(List<String> originalArgs) {\n","filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/vm\/VMSupport.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
