@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-  @run main FilenameFilterTest\n+  @run main\/othervm FilenameFilterTest\n","filename":"test\/jdk\/java\/awt\/FileDialog\/FilenameFilterTest\/FilenameFilterTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
