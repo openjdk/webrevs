@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -541,1 +541,1 @@\n-      testCollMutatorsAlwaysThrow(c, ABSENT_VALUE);\n+        testCollMutatorsAlwaysThrow(c, ABSENT_VALUE);\n","filename":"test\/jdk\/java\/util\/Collection\/MOAT.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
