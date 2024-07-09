@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow scheduled runnables to be executed on the FX App Thread before checking for exceptions."},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/com\/sun\/javafx\/tk\/quantum\/SystemMenuBarTest.java"}],"sha":"39bf43dabe62f903b6c2fbbc4736f45e74c7129e"}]
