@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1832,4 +1832,0 @@\n-  \/\/ Valhalla missing LM_LIGHTWEIGHT support just now\n-  if (EnableValhalla && LockingMode == LM_LIGHTWEIGHT) {\n-    FLAG_SET_CMDLINE(LockingMode, LM_LEGACY);\n-  }\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
