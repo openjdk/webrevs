@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -206,2 +206,1 @@\n-            \/\/ Ensure the name is the Object ID\n-            String name = namedCurve.getObjectId();\n+            String name = namedCurve.getNameAndAliases()[0];\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/ECParameters.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
