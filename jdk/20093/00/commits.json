@@ -1,0 +1,1 @@
+[{"commit":{"message":"8335766: Switch case with pattern matching and guard clause compiles inconsistently"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/DisambiguatePatterns.java"}],"sha":"139bf1db96755d524309f37ae29fec6f696cc963"}]
