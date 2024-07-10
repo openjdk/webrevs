@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1588,1 +1588,1 @@\n-     * {@code iterator} to the StringBuffer {@code result}.\n+     * {@code iterator} to the StringBuf {@code result}.\n","filename":"src\/java.base\/share\/classes\/java\/text\/MessageFormat.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
