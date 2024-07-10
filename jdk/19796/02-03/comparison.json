@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,5 @@\n+  \/\/ Performance optimization: no need to call find_blob() if it is a self-call\n+  if (destination == addr) {\n+    return destination;\n+  }\n+\n","filename":"src\/hotspot\/cpu\/aarch64\/nativeInst_aarch64.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
