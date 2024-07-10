@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-  heap->try_collect_at_safepoint(is_cause_full(_gc_cause));\n+  heap->try_collect_at_safepoint(_full);\n","filename":"src\/hotspot\/share\/gc\/parallel\/psVMOperations.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
