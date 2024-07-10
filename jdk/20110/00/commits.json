@@ -1,0 +1,1 @@
+[{"commit":{"message":"8335817: javac AssertionError addLocalVar checkNull"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/MatchExceptionLambdaExpression.java"}],"sha":"742c37e082b0baa82e96a2a231a62158e1cbe883"}]
