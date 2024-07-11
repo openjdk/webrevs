@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -376,1 +376,1 @@\n-  \/\/ It inherits from supers along with NonTearable.\n+  \/\/ It inherits from supers.\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
