@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1582,1 +1582,1 @@\n-    \/\/ Avoid Thread.yield() loops without safepoint polls (see 8335269).\n+    \/\/ Avoid Thread.yield() loops without safepoint polls.\n","filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
