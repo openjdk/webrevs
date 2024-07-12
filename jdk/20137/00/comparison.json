@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -265,1 +265,2 @@\n-  int vtable_index;\n+  short vtable_index;\n+  static_assert(sizeof(VtableStub::_index) == sizeof(vtable_index), \"precondition\");\n","filename":"src\/hotspot\/share\/code\/vtableStubs.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
