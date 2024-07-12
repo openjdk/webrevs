@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid uniform initialization"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_CodeStubs_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"}],"sha":"cccffeda8eb7e68995ef7af25303c5b4c0605bcc"}]
