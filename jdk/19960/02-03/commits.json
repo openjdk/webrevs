@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add newlines after each of new functions"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"ede19103b28d4c14d6fcc64a558ceae6c24f63c3"},{"commit":{"message":"Use global x0 instead of alias for it"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"62c310b0b54592b8a9f19fb578f30b9dbd69c950"}]
