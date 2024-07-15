@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2783,1 +2783,1 @@\n-     * A different line to test SKARA-2312.\n+     * A different line to test SKARA-2312. Here's a conflict!\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
