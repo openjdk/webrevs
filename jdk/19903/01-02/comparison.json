@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -629,1 +629,1 @@\n-        return  (tree.sym.flags() & PRIVATE) != 0 &&\n+        return (tree.sym.flags() & PRIVATE) != 0 &&\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransTypes.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
