@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure ValueObjectMethods is initialized before calling isSubstitutable"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp"}],"sha":"ea706bb23931d9fb6dc8dc5469a299bd1b05d938"}]

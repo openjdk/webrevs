@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -441,0 +441,1 @@\n+  method->method_holder()->initialize(CHECK_false); \/\/ Ensure class ValueObjectMethods is initialized\n","filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
