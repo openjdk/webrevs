@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,3 @@\n+#if defined(__clang__) || defined(__GNUC__)\n+__attribute__((no_sanitize(\"undefined\")))\n+#endif\n","filename":"src\/hotspot\/share\/cds\/archiveHeapLoader.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
