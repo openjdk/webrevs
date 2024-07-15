@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use t2 instead of count as scratch register"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"479b2b2598bd9bd5c7df62e057205bd7fdd9897f"},{"commit":{"message":"Remove blt after by16_loop_unroll"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"51349342f59555c9b3fcb314d3865fb827147255"}]
