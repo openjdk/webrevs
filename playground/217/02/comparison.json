@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2748,0 +2748,4 @@\n+     *\n+     * This line is to test SKARA-2312. Okay, let's add one more \"feature\"\n+     * commit.\n+     *\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
