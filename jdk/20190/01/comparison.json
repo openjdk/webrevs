@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-  if (callee_method->is_initializer()) {\n+  if (callee_method->is_object_initializer()) {\n@@ -92,1 +92,1 @@\n-  if (caller_method->is_initializer() &&\n+  if (caller_method->is_object_initializer() &&\n","filename":"src\/hotspot\/share\/opto\/bytecodeInfo.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
