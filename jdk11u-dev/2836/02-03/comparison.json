@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,2 @@\n-#endif \/\/ SHARE_ADLC_ADLC_HPP\n\\ No newline at end of file\n+#endif \/\/ SHARE_VM_ADLC_ADLC_HPP\n+\n","filename":"src\/hotspot\/share\/adlc\/adlc.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
