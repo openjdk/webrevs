@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -368,2 +368,0 @@\n-  \/\/ TODO remove - not in 21\n-  \/\/ResolvedMethodEntry* method_entry = resolved_method_entry_at(method_index);\n","filename":"src\/hotspot\/share\/oops\/cpCache.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
