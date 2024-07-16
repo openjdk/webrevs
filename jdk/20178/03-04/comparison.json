@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1387,0 +1387,1 @@\n+            if (i == this.index) return this;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/LambdaForm.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
