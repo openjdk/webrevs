@@ -1,0 +1,1 @@
+[{"commit":{"message":"8336421: ciMethod() constructor should use ConditionalMutexLocker(Compile_lock)"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciMethod.cpp"}],"sha":"4969cecf0fb38e62109ba4a8ed388b3970ef2cec"}]
