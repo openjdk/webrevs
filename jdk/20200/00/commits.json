@@ -1,0 +1,1 @@
+[{"commit":{"message":"8162500: Receiver annotations of inner classes of local classes not found at runtime"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/reflect\/annotation\/AnnotatedTypeFactory.java"},{"filename":"test\/jdk\/java\/lang\/annotation\/typeAnnotations\/ConstructorReceiverTest.java"}],"sha":"010257cbed90703419770bbbec9111b164776f33"}]
