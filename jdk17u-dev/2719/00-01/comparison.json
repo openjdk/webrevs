@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,1 @@\n+import java.util.Iterator;\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ServerImpl.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
