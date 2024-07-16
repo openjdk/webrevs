@@ -1,0 +1,1 @@
+[{"commit":{"message":"add static_cast<int> to avoid -Wconversion warnings."},"files":[{"filename":"src\/hotspot\/share\/runtime\/os.cpp"}],"sha":"ff97727f9a7141451dcc9a2565d277368c4b5d99"}]
