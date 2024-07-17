@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename register aliases"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"951a83f5912e0d626ecd9112a0010cdcac3fd5a8"},{"commit":{"message":"Generate all vtables explicitly"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"6a960bde997fc95715cec115def6dc7398dc8fb3"}]
