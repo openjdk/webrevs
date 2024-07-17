@@ -1,0 +1,1 @@
+[{"commit":{"message":"Correct bytecode gen for lambda capture"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeGenerator.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestNestedCapturingLambda.java"}],"sha":"16b476408da32fdbfa72f1cce58390fd0e67e439"}]
