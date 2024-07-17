@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1310,1 +1310,1 @@\n-          \"print with the middle of the string is elided.\")                 \\\n+          \"printed with the middle of the string elided.\")                  \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
