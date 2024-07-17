@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-import java.awt.ComponentiOrientation;\n+import java.awt.ComponentOrientation;\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JSplitPane.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
