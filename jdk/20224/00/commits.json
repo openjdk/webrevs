@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changed constructor, getPathLen, and toString to return a canonical representation for unconstrained pathLens"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/x509\/BasicConstraintsExtension.java"}],"sha":"911bd2281c4949b4bd467fd065ba2c6661a7253d"}]
