@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -199,1 +199,1 @@\n-            (\"Algorithm                      DataSize Rounds Kbytes\/microsec\");\n+            (\"Algorithm                      DataSize Rounds Bytes\/microsec\");\n","filename":"test\/jdk\/com\/sun\/crypto\/provider\/Cipher\/DES\/PerformanceTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
