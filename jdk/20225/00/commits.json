@@ -1,0 +1,1 @@
+[{"commit":{"message":"8336585: BoundAttribute.readEntryList not type-safe"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/BoundAttribute.java"},{"filename":"test\/jdk\/jdk\/classfile\/BoundAttributeTest.java"}],"sha":"2b96036a57fc494ed0c5ca0d614ef14cb8b24b90"}]
