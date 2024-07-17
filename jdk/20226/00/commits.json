@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add a GZIPOutputStream() constructor that takes a Deflator."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPOutputStream.java"},{"filename":"test\/jdk\/java\/util\/zip\/GZIP\/BasicGZIPOutputStreamTest.java"}],"sha":"c6e52e0d4b1bec64c0ca3d378b4ceea73781f90d"}]
