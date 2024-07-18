@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into ubsan-first"},"files":[],"sha":"1775cee2427c990987031ad6f4967bae8099c6b2"},{"commit":{"message":"Backport ff30240926224b2f98e173bcd606c157af788919"},"files":[{"filename":"src\/hotspot\/share\/sanitizers\/ub.hpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.cpp"}],"sha":"6b9532ac552eb4edbdbfb093956308398312cf56"}]
