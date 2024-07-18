@@ -1,0 +1,1 @@
+[{"commit":{"message":"8336781: Erroneous exhaustivity check with boolean switch"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Flow.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8336781.java"}],"sha":"91cd2a9acdcd53d6ce60e679bde1d2b53cb93fe2"}]
