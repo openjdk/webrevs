@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2026,1 +2026,1 @@\n-        return s > LONG_MASK || Long.compareUnsigned(x, s2) < 0\n+        return Long.compareUnsigned(x, s2) < 0 || s > LONG_MASK\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
