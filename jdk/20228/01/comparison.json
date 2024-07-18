@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+ * @build jdk.test.lib.Utils jdk.test.lib.apps.LingeredApp\n","filename":"test\/hotspot\/jtreg\/serviceability\/attach\/LongArgTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
