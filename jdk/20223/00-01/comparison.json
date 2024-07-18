@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1113,2 +1113,1 @@\n-    \/\/ Set by VM\n-    private transient Object classData;\n+    private transient Object classData; \/\/ Set by VM\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
