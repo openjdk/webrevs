@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-        while(true) {\n+        while (true) {\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/InfiniteLoopBadControlNeverBranch.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
