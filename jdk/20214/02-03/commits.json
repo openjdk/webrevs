@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prevent ComponentOrientation.UNKNOWN to be treated as RTL in previous fix"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JSplitPane.java"},{"filename":"test\/jdk\/javax\/swing\/JSplitPane\/TestSplitPaneOrientationTest.java"}],"sha":"b0ef1dbdebaf53e4de094f169f404960a586f293"}]
