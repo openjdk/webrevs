@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @bug 8336635\n+ * @bug 8256999\n@@ -40,1 +40,0 @@\n-\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/gc\/ReferenceRefersToTests.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
