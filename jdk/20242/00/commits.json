@@ -1,0 +1,1 @@
+[{"commit":{"message":"call disableCollection() on allocated object so it is not collected during the invokeMethod() call"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/VoidValue\/toString\/tostring001.java"}],"sha":"2338c09ed578cf0758514413cd7b8fc6c96614f9"}]
