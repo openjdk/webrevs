@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1300,1 +1300,1 @@\n-                        if (clazz.isSubClass(sym, types) || sym.isMemberOf(clazz, types)) {\n+                        if (sym.isMemberOf(clazz, types)) {\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/LambdaToMethod.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
