@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1294,0 +1294,1 @@\n+            Assert.check(sym.kind != TYP);\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/LambdaToMethod.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
