@@ -1,0 +1,1 @@
+[{"commit":{"message":"8336833: Endless loop in Javap ClassWriter"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/AbstractInstruction.java"},{"filename":"test\/jdk\/jdk\/classfile\/LimitsTest.java"}],"sha":"108c7e454b48bfd2c6d3d97af67f2a1a89b47fa4"}]
