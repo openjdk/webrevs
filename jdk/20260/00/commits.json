@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332850: javac crashes if container for repeatable annotation is not found"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Annotate.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/repeatingAnnotations\/CompletionErrorOnRepeatingAnnosTest.java"}],"sha":"4557494c601233d46efb22d9ed2c9eb53cd0ce8d"}]
