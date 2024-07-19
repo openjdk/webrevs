@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333728: fix ubsan:shenandoahFreeSet.cpp runtime division by zero"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"}],"sha":"cf6fb062f7fac3e919ce0427b71ea0bf99054ac9"}]
