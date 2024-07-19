@@ -1,0 +1,1 @@
+[{"commit":{"message":"extract a common doConcat handling both non-empty strings"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/String.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/StringConcatHelper.java"}],"sha":"a509b7cd1e7ea948e1de70b4a98197c7616fea38"}]
