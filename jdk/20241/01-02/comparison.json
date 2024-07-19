@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-        var bytes = ClassFile.of().parse(new byte[]{(byte)0xCA, (byte)0xFE, (byte)0xBA, (byte)0xBE,\n+        var bytes = cc.parse(new byte[]{(byte)0xCA, (byte)0xFE, (byte)0xBA, (byte)0xBE,\n","filename":"test\/jdk\/jdk\/classfile\/VerifierSelfTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
