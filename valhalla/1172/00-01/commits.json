@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove check for LoadableDescriptors for redefinition."},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp"},{"filename":"src\/java.instrument\/share\/native\/libinstrument\/JavaExceptions.c"}],"sha":"7343a17d01726908c426367ecb39914c41a3d1fe"}]
