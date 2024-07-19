@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1069,1 +1069,1 @@\n-#define right_n_bits(n)   (nth_bit(n) - 1)\n+#define right_n_bits(n)   ((uintptr_t) nth_bit(n) - 1)\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

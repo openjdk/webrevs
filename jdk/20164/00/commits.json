@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332697: fix ubsan:shenandoahSimpleBitMap.inline.hpp runtime integer overflow"},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"ed2797febe6d770a84463cc5d33429617cd18ae5"}]
