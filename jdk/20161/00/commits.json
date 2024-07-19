@@ -1,0 +1,1 @@
+[{"commit":{"message":"8333088: fix ubsan:shenandoahAdaptiveHeuristics divide by zero"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAdaptiveHeuristics.cpp"}],"sha":"75e5435db0300f54ec2d88684f3a6b888badff4c"}]
