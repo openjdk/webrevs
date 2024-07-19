@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327538: The SSLExtension class specifies incorrect values for heartbeat per RFC 6520 and post_handshake_auth per RFC 8446"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLExtension.java"}],"sha":"9c1366299adeb1560ba5b37179c7f22a4fdac98b"}]
