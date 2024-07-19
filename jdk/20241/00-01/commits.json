@@ -1,0 +1,1 @@
+[{"commit":{"message":"wrapped ClassFile::verify(Method) + added test"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/ClassFileImpl.java"},{"filename":"test\/jdk\/jdk\/classfile\/VerifierSelfTest.java"}],"sha":"c5f6e0187a3ee6091417aaaec2014c6de411942f"}]
