@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,0 @@\n-            SelectionKey key = dc.register(sel, SelectionKey.OP_READ);\n","filename":"test\/jdk\/java\/nio\/channels\/Selector\/RaceUpdatesAndClose.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
