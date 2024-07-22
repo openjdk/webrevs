@@ -1,0 +1,1 @@
+[{"commit":{"message":"Export JavaThread::_lock_id, ObjectMonitor::_stack_locker and markWord::marked_value."},"files":[{"filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp"}],"sha":"0b808fc35d3db7cc9b2cf868a647cc90165067fb"}]
