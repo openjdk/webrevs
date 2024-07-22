@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,0 +72,3 @@\n+\n+        \/\/ Apparently, need to access this property first, or nothing will be appended at all.\n+        CssParser.errorsProperty().clear();\n","filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/CssStyleHelperTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
