@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -370,1 +370,1 @@\n-          ALL_ARTIFACT_IDS=\"$(curl -L \\\n+          ALL_ARTIFACT_IDS=\"$(curl -sL \\\n@@ -378,1 +378,1 @@\n-            curl -L \\\n+            curl -sL \\\n","filename":".github\/workflows\/main.yml","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
