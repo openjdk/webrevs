@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -527,0 +527,4 @@\n+  if (!stats._old_stats._cycle._is_time_trustable) {\n+    return 1.0;\n+  }\n+\n","filename":"src\/hotspot\/share\/gc\/z\/zDirector.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
