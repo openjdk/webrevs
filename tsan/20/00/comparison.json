@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8,1 +8,1 @@\n-error=author,committer,reviewers,merge,issues,executable,symlink,message,hg-tag,whitespace,problemlists\n+error=author,committer,reviewers,merge,executable,symlink,message,hg-tag,whitespace,problemlists\n","filename":".jcheck\/conf","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
