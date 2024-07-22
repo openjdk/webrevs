@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n-* @run driver compiler.vectorization.TestFloat16VectorConvChain\n+* @run driver\/timeout=1200 compiler.vectorization.TestFloat16VectorConvChain\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestFloat16VectorConvChain.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
