@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,0 +263,1 @@\n+    \/\/ Unlike DIGITS, which supports all radixes (2 to 36), DECIMAL_DIGITS is optimized for decimal (radix = 10).\n","filename":"src\/java.base\/share\/classes\/java\/lang\/CharacterDataLatin1.java.template","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
