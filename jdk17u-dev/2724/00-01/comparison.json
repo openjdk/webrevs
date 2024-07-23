@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-keys=stress headful intermittent randomness cgroups flag-sensitive\n+keys=stress headful intermittent randomness cgroups external-dep flag-sensitive\n","filename":"test\/hotspot\/jtreg\/TEST.ROOT","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
