@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -243,1 +243,3 @@\n-  if (UseRVV) {\n+  if (UseRVV && MaxVectorSize >= 32) {\n+    \/\/ performance tests on hardwares (MaxVectorSize == 16, 32) show that\n+    \/\/ it brings regression when MaxVectorSize == 16.\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
