@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1181,2 +1181,0 @@\n-  ContinuationGCSupport::relativize_stack_chunk(copy_val);\n-\n@@ -1187,0 +1185,1 @@\n+    ContinuationGCSupport::relativize_stack_chunk(copy_val);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
