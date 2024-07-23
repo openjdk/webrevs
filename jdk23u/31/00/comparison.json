@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+#ifdef UNDEFINED_BEHAVIOR_SANITIZER\n@@ -38,0 +39,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/sanitizers\/ub.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
