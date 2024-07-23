@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1184,1 +1184,0 @@\n-    shenandoah_assert_correct(nullptr, copy_val);\n@@ -1186,0 +1185,1 @@\n+    shenandoah_assert_correct(nullptr, copy_val);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
