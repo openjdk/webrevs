@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -614,0 +614,1 @@\n+      _body(Compile::current()->comp_arena()),\n","filename":"src\/hotspot\/share\/opto\/loopnode.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
