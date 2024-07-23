@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove TsanOopBitMap. We can use CHeapBitMap instead. Thanks manc@ for catching it in https:\/\/github.com\/openjdk\/tsan\/pull\/19\/files#r1687286079."},"files":[{"filename":"src\/hotspot\/share\/tsan\/tsanOopMap.cpp"},{"filename":"src\/hotspot\/share\/utilities\/bitMap.hpp"}],"sha":"a41bc9877b8e2293b8f2def398743e6870f4887a"}]
