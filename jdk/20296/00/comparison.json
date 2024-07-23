@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-  if (reg->is_reg()) {\n+  if (reg_map != nullptr && reg->is_reg()) {\n@@ -91,1 +91,1 @@\n-    if (reg_map->in_cont()) {\n+    if (reg_map != nullptr && reg_map->in_cont()) {\n","filename":"src\/hotspot\/share\/runtime\/frame.inline.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
