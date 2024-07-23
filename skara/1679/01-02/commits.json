@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't special-case wrong target or missing commit\n\nAfter out-of-band conversation with @zhaosongzs, we decided to drop\nuseStaleReviews check."},"files":[{"filename":"bots\/pr\/src\/main\/java\/org\/openjdk\/skara\/bots\/pr\/CheckRun.java"}],"sha":"15aba4b6eac03bd91e66dcc192a9843b7f34a558"}]
