@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1205,1 +1205,1 @@\n-            throw new IOException(\"Problem reading font data.\", t);\n+            throw new IOException(\"Problem reading font data.\");\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Font.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
