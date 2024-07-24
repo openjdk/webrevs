@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -615,1 +615,1 @@\n-                if (img != null && border == img.getRGB(w \/ 2, h \/ 2)) {\n+                if (border == img.getRGB(w \/ 2, h \/ 2)) {\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/java\/swing\/plaf\/gtk\/GTKPainter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
