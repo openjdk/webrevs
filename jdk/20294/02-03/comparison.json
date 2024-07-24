@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,1 @@\n-                \/\/ Two sub-sequential thaws are needed in that sceanrio.\n+                \/\/ Two sub-sequential thaws are needed in that scenario.\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/GetOwnedMonitorInfo\/GetOwnedMonitorInfoTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
