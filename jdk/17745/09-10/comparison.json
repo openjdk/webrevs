@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1914,1 +1914,0 @@\n-    case Op_RoundVD:\n@@ -1916,0 +1915,2 @@\n+    case Op_RoundVD:\n+      return UseRVV && MaxVectorSize >= 64;\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
