@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -524,0 +524,2 @@\n+\n+  { \"BaseFootPrintEstimate\",           JDK_Version::undefined(), JDK_Version::jdk(24), JDK_Version::jdk(25) },\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
