@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,0 +74,1 @@\n+    assert(entry._obj == entry.object_no_keepalive(), \"sanity\");\n","filename":"src\/hotspot\/share\/tsan\/tsanOopMapTable.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
