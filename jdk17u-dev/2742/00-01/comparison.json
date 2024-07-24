@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -330,1 +330,0 @@\n-    MutexLocker mu(CodeCache_lock, Mutex::_no_safepoint_check_flag);\n@@ -335,1 +334,0 @@\n-    MutexLocker mu(CodeCache_lock, Mutex::_no_safepoint_check_flag);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahCodeRoots.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
