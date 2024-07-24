@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -323,1 +323,1 @@\n-          \"iteration. Affects heaps with lots of regions.\"                  \\\n+          \"iteration. Affects heaps with lots of regions. \"                 \\\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoah_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
