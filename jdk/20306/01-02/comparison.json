@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1790,1 +1790,0 @@\n-  int vector_len = Assembler::AVX_128bit;\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
