@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -998,1 +998,1 @@\n-#define DEFAULT_CDS_ARCHIVE_FILENAME \"java_pid<pid>_<subcmd>.jsa\"\n+#define DEFAULT_CDS_ARCHIVE_FILENAME \"java_pid%p_<subcmd>.jsa\"\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
