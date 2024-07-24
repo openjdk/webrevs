@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,1 @@\n-package org.openjdk.bench.java.lang;\n+package org.openjdk.bench.vm.compiler;\n","filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/MergeStoreBench.java","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/MergeStoreBench.java","status":"renamed"}]}
