@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-        \/\/ The monitor iterator used by GetOwnedMonitorInfo to\n+        \/\/ The monitor iterator used by GetOwnedMonitorInfo used to\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/GetOwnedMonitorInfo\/GetOwnedMonitorInfoTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
