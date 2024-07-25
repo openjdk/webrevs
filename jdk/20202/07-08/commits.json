@@ -1,0 +1,1 @@
+[{"commit":{"message":"apply constexpr to the entire chain of BitMap::calc_size_in_words"},"files":[{"filename":"src\/hotspot\/share\/utilities\/bitMap.cpp"},{"filename":"src\/hotspot\/share\/utilities\/bitMap.hpp"}],"sha":"9c0b2edaca39b0137959df417e9f9c4b0a4836e8"}]
