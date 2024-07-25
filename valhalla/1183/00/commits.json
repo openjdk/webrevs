@@ -1,0 +1,1 @@
+[{"commit":{"message":"8336747: [lworld] Test TestPrimitiveAndArrayModifiers.java fails because of the ACC_IDENTITY flag\nInclude IDENTITY on arrays when --enable-preview"},"files":[{"filename":"test\/jdk\/java\/lang\/Class\/getModifiers\/TestPrimitiveAndArrayModifiers.java"}],"sha":"d8d863e8c82a82a13773add485debc9f831095a1"}]
