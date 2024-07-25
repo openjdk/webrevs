@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -696,1 +696,1 @@\n-  const size_t length = JVMFlag::numFlags - 1;\n+  constexpr size_t length = (sizeof(flagTable) \/ sizeof(JVMFlag)) - 1;\n","filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlag.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
