@@ -1,0 +1,1 @@
+[{"commit":{"message":"Convert array access indexing expression to int"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ReflectMethods.java"},{"filename":"test\/langtools\/tools\/javac\/reflect\/ArrayAccessTest.java"}],"sha":"b752331814087aa53e4a93024e9890b46d18c558"}]
