@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1641,1 +1641,1 @@\n-     * Requires extra capacity of 10 to avoid StringBuilder reallocation.\n+     * Requires extra capacity of 18 to avoid StringBuilder reallocation.\n","filename":"src\/java.base\/share\/classes\/java\/time\/LocalTime.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
