@@ -1,0 +1,1 @@
+[{"commit":{"message":"1. Just catch the IOException here when getting the FileStore and skip the test instead of checking for specific exception messages. 2. Throw a org.testng.SkipException instead print and return"},"files":[{"filename":"test\/jdk\/java\/lang\/invoke\/lambda\/LogGeneratedClassesTest.java"}],"sha":"9c7946f8c791a1a50e693d40ae4a7fc6404552a5"}]
