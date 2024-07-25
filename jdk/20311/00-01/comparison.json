@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,0 @@\n-  assert(i >= Max(), \"must be an overflow\");\n","filename":"src\/hotspot\/share\/opto\/block.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
