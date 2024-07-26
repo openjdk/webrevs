@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove debug prints"},"files":[{"filename":"build.gradle"}],"sha":"7d25dd82f90aea0df3a7cc967ca53fed013826c4"},{"commit":{"message":"8337281: build.gradle assumes all modules are named \"javafx.$project\""},"files":[{"filename":"build.gradle"}],"sha":"b6631ca1179d488736dbb5af17313b5b44d0851c"}]
