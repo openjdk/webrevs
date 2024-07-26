@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,1 +121,1 @@\n-        private final AtomicInteger successCount  = new AtomicInteger();\n+        private final AtomicInteger successCount = new AtomicInteger();\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/agent\/TestNGRunner.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
