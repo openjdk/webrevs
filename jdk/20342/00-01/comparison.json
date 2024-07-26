@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-#endif \/\/SHARE_GC_SHENANDOAH_SHENANDOAHCONTROLLER_HPP\n+#endif \/\/ SHARE_GC_SHENANDOAH_SHENANDOAHCONTROLLER_HPP\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahController.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
