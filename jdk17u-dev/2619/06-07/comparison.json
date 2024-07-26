@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -594,1 +594,1 @@\n-java\/net\/MulticastSocket\/SetGetNetworkInterfaceTest.java        8219083 windows-all,aix-ppc64\n+java\/net\/MulticastSocket\/SetGetNetworkInterfaceTest.java        8219083,8308807 windows-all,aix-ppc64\n","filename":"test\/jdk\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
