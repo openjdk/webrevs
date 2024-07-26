@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -227,1 +227,1 @@\n-const int LogBytesPerWord    = 2;\n+constexpr int LogBytesPerWord    = 2;\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
