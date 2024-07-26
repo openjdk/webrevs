@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1798,1 +1798,2 @@\n-                            projectDependencies.each { dep ->\n+                            projectDependencies.each { projName ->\n+                                def dep = project.project(\":$projName\")\n","filename":"build.gradle","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
