@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -550,1 +550,1 @@\n-        if (n\/32 >= intLen) {\n+        if (n >= bitLength()) {\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
