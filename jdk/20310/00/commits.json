@@ -1,0 +1,1 @@
+[{"commit":{"message":"8337102: JITTester: Fix breaks in static initialization blocks"},"files":[{"filename":"test\/hotspot\/jtreg\/testlibrary\/jittester\/conf\/default.properties"},{"filename":"test\/hotspot\/jtreg\/testlibrary\/jittester\/src\/jdk\/test\/lib\/jittester\/factories\/StaticConstructorDefinitionFactory.java"}],"sha":"ad8b42b554152cc2af8790c06a30cca14e44be23"}]
