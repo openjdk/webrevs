@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -523,1 +523,1 @@\n-  dumper.dump(_filename.value(), output(), (int)level, _overwrite.value(), (uint)parallel);\n+  dumper.dump(_filename.value(), output(), (int) level, _overwrite.value(), (uint)parallel);\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
