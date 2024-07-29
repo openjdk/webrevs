@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,0 @@\n-        this.value = levels[0];\n@@ -51,0 +50,1 @@\n+        this.value = levels[0];\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/settings\/LevelSetting.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
