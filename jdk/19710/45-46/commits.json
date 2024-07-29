@@ -1,0 +1,1 @@
+[{"commit":{"message":"If the input is a square, then s0 == 0, so testing for non-zero remainder is redundant"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java"}],"sha":"53b7adca77d14cacc5ce6417103cdc8b87025555"}]

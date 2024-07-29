@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1904,1 +1904,1 @@\n-            if (needRemainder && !sqrtRem[1].isZero()) {\n+            if (needRemainder) {\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
