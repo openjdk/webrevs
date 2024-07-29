@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,2 @@\n-    vm.continuations\n+    vm.continuations \\\n+    vm.debug\n","filename":"test\/langtools\/TEST.ROOT","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
