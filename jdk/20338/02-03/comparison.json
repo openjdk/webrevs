@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -353,1 +353,1 @@\n-    void testAllocateLocalTransformingCodeAttribute() throws IOException  {\n+    void testAllocateLocalTransformingCodeAttribute() throws IOException {\n","filename":"test\/jdk\/jdk\/classfile\/BuilderBlockTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
