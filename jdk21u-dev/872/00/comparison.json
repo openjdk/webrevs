@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3536,0 +3536,1 @@\n+    call->_arg_escape        = _arg_escape;\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
