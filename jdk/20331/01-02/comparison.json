@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,1 +181,1 @@\n-                 and verifying each key combinations against the spec defined.\n+                 and verify each key combination against the spec defined.\n","filename":"test\/jdk\/javax\/swing\/JTable\/KeyBoardNavigation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
