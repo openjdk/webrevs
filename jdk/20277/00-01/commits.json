@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use newer Ticks\/Tickspan API and switch to class with scope to hide\nmanual call to log_debug_jni"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gcLocker.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/gcLocker.hpp"}],"sha":"b2185185db1297a4900216854603b476851c1f67"}]
