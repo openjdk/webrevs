@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-    private static final int DEFAULT_ITERS = 10 * 1000;\n+    private static final int DEFAULT_ITERS = 5 * 1000;\n","filename":"test\/jdk\/sun\/nio\/ch\/TestMaxCachedBufferSize.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
