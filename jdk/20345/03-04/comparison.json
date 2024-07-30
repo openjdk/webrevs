@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -284,1 +284,1 @@\n-      UTF8::truncate_to_legal_utf8((unsigned char*)msg, len);\n+      UTF8::truncate_to_legal_utf8((unsigned char*)msg, len + 1);\n","filename":"src\/hotspot\/share\/utilities\/exceptions.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
