@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename ArenaTagsCounter to ArenaCountersByTag\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilationMemoryStatistic.cpp"},{"filename":"src\/hotspot\/share\/compiler\/compilationMemoryStatistic.hpp"}],"sha":"7076211041f8b17db0b2f662710504b811dd58e8"}]
