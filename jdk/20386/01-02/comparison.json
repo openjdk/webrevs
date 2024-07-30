@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5939,1 +5939,0 @@\n-#if COMPILER2_OR_JVMCI\n@@ -6003,1 +6002,0 @@\n-#endif \/\/ COMPILER2\n@@ -6009,1 +6007,1 @@\n-#endif \/\/ COMPILER2_OR_JVMCI\n+#endif \/\/ COMPILER2\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}

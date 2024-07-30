@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove check for macro COMPILER2_OR_JVMCI in generate_compiler_stubs function"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"9d3b6d29f3b8f1067d597881e26f6a8d8c7acf96"}]
