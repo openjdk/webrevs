@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed ConstantInstruction type detection in LocalsTypeMapper"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/LocalsTypeMapper.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestSmallCorpus.java"}],"sha":"40e25729e1d5bc55ae3566a8f0644d43c1d1963d"}]
