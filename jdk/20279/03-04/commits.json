@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove archive for dumping static archive.  The is_superclass parameter always true may or may not reach the code that's wrong."},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"3d06a77cade7fdf9e3e3b21224b0a2ac16a2ef9f"}]
