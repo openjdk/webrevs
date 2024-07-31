@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2477,5 +2477,0 @@\n-    \/**\n-     * Returns true is a print job is ongoing but will\n-     * be cancelled and the next opportunity. false is\n-     * returned otherwise.\n-     *\/\n","filename":"src\/java.desktop\/share\/classes\/sun\/print\/RasterPrinterJob.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
