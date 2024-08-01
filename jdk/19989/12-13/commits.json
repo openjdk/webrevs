@@ -1,0 +1,1 @@
+[{"commit":{"message":"use assert rather than guarantee"},"files":[{"filename":"src\/hotspot\/share\/oops\/klass.inline.hpp"}],"sha":"4c7fad7bc0ac0bb3aef80f6449b80bfe61ae2ce3"},{"commit":{"message":"Untabify"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"e41f15afe38028dbf91f4762123a1e89a0fd7927"}]
