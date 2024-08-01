@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,0 @@\n-        verifyOutputFilenames(\"Compiler.perfmap\", FILENAME);\n","filename":"test\/jdk\/sun\/tools\/jcmd\/TestJcmdPIDSubstitution.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
