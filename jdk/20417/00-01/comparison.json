@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,0 @@\n-#endif\n@@ -44,2 +43,0 @@\n-#ifdef COMPILER2\n-\n@@ -290,0 +287,3 @@\n+\n+#endif \/\/ COMPILER2\n+\n","filename":"src\/hotspot\/cpu\/arm\/runtime_arm.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
