@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,0 +132,1 @@\n+        fifoFile.deleteOnExit();\n","filename":"test\/jdk\/java\/nio\/channels\/AsyncCloseAndInterrupt.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
