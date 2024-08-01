@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -285,1 +285,0 @@\n-                               _secondary_supers_bitmap(SECONDARY_SUPERS_BITMAP_EMPTY),\n","filename":"src\/hotspot\/share\/oops\/klass.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
