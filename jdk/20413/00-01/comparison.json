@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -985,0 +985,2 @@\n+  JvmtiVTMSTransitionDisabler disabler;\n+\n@@ -988,1 +990,0 @@\n-      JvmtiVTMSTransitionDisabler disabler;\n@@ -995,1 +996,0 @@\n-        JvmtiVTMSTransitionDisabler disabler;\n","filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
