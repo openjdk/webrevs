@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed generation of exception regions with implicit exits only"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeGenerator.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeLift.java"}],"sha":"401b4380040fdda5ebaeabf59599f2d365d7a08d"}]
