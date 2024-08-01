@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -215,0 +215,1 @@\n+    if (byte_count == 0) return;\n","filename":"src\/hotspot\/share\/utilities\/copy.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
