@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8337681: PNGImageWriter uses more memory than necessary"},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/png\/PNGImageWriter.java"},{"filename":"test\/jdk\/javax\/imageio\/plugins\/png\/RasterReuseWriteTest.java"}],"sha":"bf1632ace3fcd158aa8841c3fa879ab5ab7e1e40"}]
