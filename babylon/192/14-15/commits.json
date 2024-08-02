@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed INDY lifting of BSMs with vararg parameter"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeLift.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestSmallCorpus.java"}],"sha":"30790163802062ac82762ac3122406bbd5d628d0"}]
