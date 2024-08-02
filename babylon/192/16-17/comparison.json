@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -824,1 +824,1 @@\n-        Op.Result res = constantCache.get(c);\n+        Op.Result res = c instanceof ClassDesc ? null : constantCache.get(c); \/\/ Do not cache class constants\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeLift.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
