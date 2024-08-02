@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix performance regression caused by args.erase()"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/StringConcatFactory.java"}],"sha":"e2b30b3f5f74ba8881e3674f3e0beef12883b138"}]
