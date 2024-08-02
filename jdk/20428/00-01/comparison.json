@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,0 +120,2 @@\n+    \/\/ If the call to WideCharToMultiByte() fails, it returns 0, which\n+    \/\/ will then make the following JLI_MemAlloc() to issue exit(1)\n","filename":"src\/java.base\/share\/native\/launcher\/main.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
