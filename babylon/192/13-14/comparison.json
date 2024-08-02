@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -669,1 +669,1 @@\n-                            case IntType -> cob.ishl();\n+                            case ByteType, CharType, IntType, ShortType -> cob.ishl();\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
