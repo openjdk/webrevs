@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,0 +65,2 @@\n+    \/\/ request approver which takes the server connection instance and the incoming request path\n+    \/\/ as inputs\n","filename":"test\/jdk\/java\/net\/httpclient\/lib\/jdk\/httpclient\/test\/lib\/http2\/Http2TestServer.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
