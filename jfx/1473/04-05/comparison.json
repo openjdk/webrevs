@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -218,1 +218,2 @@\n-    @Test\n+    \/\/ Timeout for potential hang on XWayland, see JDK-8335468.\n+    @Test(timeout = 15000)\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/SRGBTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
