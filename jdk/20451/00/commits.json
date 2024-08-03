@@ -1,0 +1,1 @@
+[{"commit":{"message":"8337716: ByteBuffer hashCode implementations are inconsistent"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Heap-X-Buffer.java.template"},{"filename":"test\/jdk\/java\/nio\/Buffer\/EqualsCompareTest.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/nio\/ByteBuffers.java"}],"sha":"c257988fb038733306270e4fea1fe6c089446a01"}]
