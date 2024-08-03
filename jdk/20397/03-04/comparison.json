@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -363,1 +363,1 @@\n-    if (is_vm_dead == JNI_TRUE) {\n+    if (is_vm_dead) {\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/StartPhase\/AllowedFunctions\/libAllowedFunctions.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
