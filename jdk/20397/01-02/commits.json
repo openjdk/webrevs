@@ -1,0 +1,1 @@
+[{"commit":{"message":"introduced is_vm_dead flag to prevent WRONG_PHASE error"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/StartPhase\/AllowedFunctions\/libAllowedFunctions.c"}],"sha":"4cf09f7b86df228a45cbea11dd5de14b601836c4"}]
