@@ -1,0 +1,1 @@
+[{"commit":{"message":"8337795: Type annotation attached to incorrect type during class reading"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"},{"filename":"test\/langtools\/tools\/javac\/processing\/model\/type\/BasicAnnoTests.java"}],"sha":"e801a29119f875413d89e85f8e1972bad79ac871"}]
