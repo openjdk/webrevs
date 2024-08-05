@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Make a few fields in MergeCollation static\n\n3 fields in java.text.MergeCollation could be made 'static':\n1. BITARRAYMASK\n2. BYTEPOWER\n3. BYTEMASK"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/text\/MergeCollation.java"}],"sha":"70d864ec5b9aa591a7a6dbef03a81db7a1c754bc"}]
