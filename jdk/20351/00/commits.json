@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Remove redundant null check in ObjectOutputStream.writeProxyDesc\n\nThere is implicit null check in line before this:\n\nClass<?>[] ifaces = cl.getInterfaces();\n\n'cl' can't be null after that."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ObjectOutputStream.java"}],"sha":"f9a5223e9c163b5930307d6c9e17aacfcb6d83aa"}]
