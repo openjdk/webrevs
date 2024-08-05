@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,0 @@\n-  \/\/ Thread is in rdi already.\n","filename":"src\/hotspot\/cpu\/aarch64\/runtime_aarch64.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
