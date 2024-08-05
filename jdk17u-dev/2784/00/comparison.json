@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -303,1 +303,0 @@\n-BASIC_POST_CONFIG_OUTPUT\n@@ -309,0 +308,3 @@\n+\n+# All output is done. Do the post-config output management.\n+BASIC_POST_CONFIG_OUTPUT\n","filename":"make\/autoconf\/configure.ac","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
