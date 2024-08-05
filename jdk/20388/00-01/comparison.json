@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,1 +192,1 @@\n-     * It is possible for the size to change during execution of this method,\n+     * <p>It is possible for the size to change during execution of this method,\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ConcurrentSkipListSet.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
