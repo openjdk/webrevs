@@ -1,0 +1,1 @@
+[{"commit":{"message":"Dont call completePrintLoop if cancelDoc is called as both exits PrintingLoop"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/PrinterView.m"}],"sha":"3ff67eb2e3b0a18425b9896ccf7b1c8345f0908f"}]
