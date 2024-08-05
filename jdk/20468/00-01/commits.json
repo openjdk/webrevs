@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move constant to separate class to unbreak Windows builds"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveHeapWriter.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"3a8fa655177f468f1da98375ef15103940091fe8"}]
