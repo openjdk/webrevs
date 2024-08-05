@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n- * must greater than or equal to <code>minimum<\/code>, and <code>maximum<\/code>\n+ * must be greater than or equal to <code>minimum<\/code>, and <code>maximum<\/code>\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/BoundedRangeModel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
