@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-        f.setSize(300,100);\n+        f.setSize(300, 100);\n","filename":"test\/jdk\/javax\/swing\/JOptionPane\/OptionPaneInput.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
