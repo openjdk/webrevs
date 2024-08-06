@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-        String value = GetPropertyAction.privilegedGetProperty(key);\n+        String value = VM.getSavedProperty(key);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/ClassFileDumper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
