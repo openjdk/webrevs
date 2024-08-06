@@ -1,0 +1,1 @@
+[{"commit":{"message":"use MUTEX_DEFL instead of MUTEX_DEFN to define JvmtiVTMSTransition_lock"},"files":[{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"}],"sha":"29f807de94fbc41ca00fe4e6b1a5626209c84b1e"}]
