@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-        t.addActionListener(e->{\n+        t.addActionListener(e -> {\n@@ -82,1 +82,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/jdk\/javax\/swing\/JOptionPane\/OptionPaneInput.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
