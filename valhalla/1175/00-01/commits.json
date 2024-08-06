@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add MulHF::Ideal() and MulHF Idealization tests"},"files":[{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/mulnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/MulHFNodeIdealizationTests.java"}],"sha":"914dfc2477ae3a4119a6f7a749f2b7b2f4840963"}]
