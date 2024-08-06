@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix the test condition to avoid NoClassDefFoundError"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/TestPinCaseWithCFLH\/TestPinCaseWithCFLH.java"}],"sha":"05888a25e2eb594600a38cead3b26f86caaf3a43"}]
