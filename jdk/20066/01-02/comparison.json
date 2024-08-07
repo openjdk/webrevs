@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,1 @@\n+        phase = CompilePhase.BEFORE_MACRO_EXPANSION,\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/runner\/BasicBooleanOpTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
