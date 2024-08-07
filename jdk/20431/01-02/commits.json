@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix compilation error and use pointer_delta_as_int instead."},"files":[{"filename":"src\/hotspot\/share\/runtime\/atomic.hpp"},{"filename":"src\/hotspot\/share\/utilities\/byteswap.hpp"}],"sha":"acbdbbdce1c27b30b4d92d4d0bf6dfa9c35d09e0"}]
