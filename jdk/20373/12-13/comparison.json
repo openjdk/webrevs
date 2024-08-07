@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n- * @build jdk.test.lib.thread.VThreadPinner\n+ * @build jdk.test.lib.Utils\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/TestPinCaseWithCFLH\/TestPinCaseWithCFLH.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
