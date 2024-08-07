@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8335121: Native memory leak when not recording any events\"\n\nThis reverts commit ef909bdf7f08dfd67bac2665aa85f86c0e303db9."},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/service\/jfrRecorderService.cpp"}],"sha":"750613bb76d68bff0e9f0b864b5ab730858b7daa"}]
