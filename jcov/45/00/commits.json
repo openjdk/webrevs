@@ -1,0 +1,1 @@
+[{"commit":{"message":"CODETOOLS-7903786: Allow JCov to read zip files"},"files":[{"filename":"src\/classes\/com\/sun\/tdk\/jcov\/io\/Reader.java"},{"filename":"test\/unit\/com\/sun\/tdk\/jcov\/instrument\/ReadZipTest.java"}],"sha":"bf7899b51f3d851d5036cc1cb13b51f8eed0f570"}]
