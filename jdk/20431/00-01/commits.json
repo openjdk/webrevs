@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix additional -Wsign-conversion errors, contributed by Stefan."},"files":[{"filename":"src\/hotspot\/share\/oops\/arrayOop.hpp"},{"filename":"src\/hotspot\/share\/runtime\/atomic.hpp"},{"filename":"src\/hotspot\/share\/utilities\/byteswap.hpp"}],"sha":"4ac52827803dc9936acb037b9f4520e2ab1d429f"}]
