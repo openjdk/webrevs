@@ -1,0 +1,1 @@
+[{"commit":{"message":"GlassViewDelegate: Restore offset calculation on startDrag\n\nThis makes drag image offset work after it was broken pre-21"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassViewDelegate.m"}],"sha":"92c190e283000fe78f5914620e59c59f9e8826ce"}]
