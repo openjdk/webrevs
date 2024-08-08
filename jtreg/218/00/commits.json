@@ -1,0 +1,1 @@
+[{"commit":{"message":"7903784: NullPointerException: Cannot read the array length because the return value of \"java.io.File.listFiles()\" is null"},"files":[{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/ScratchDirectory.java"}],"sha":"b739e22c44ee95bac6a9d8fe8b3a51d35d8f79eb"}]
