@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,2 +117,1 @@\n-  virtual void update_counters() = 0;\n-  virtual CollectorCounters* counters() { return _gc_counters; }\n+  CollectorCounters* counters() { return _gc_counters; }\n","filename":"src\/hotspot\/share\/gc\/serial\/generation.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
