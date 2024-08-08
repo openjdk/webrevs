@@ -1,0 +1,1 @@
+[{"commit":{"message":"Flatten barrier assembly generation code by removing helpers individual barrier tests and operations"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/g1\/g1BarrierSetAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/gc\/g1\/g1BarrierSetAssembler_x86.cpp"}],"sha":"20ef68c81ee8d1ceb985224b3e4770d2cd6ba63d"}]
