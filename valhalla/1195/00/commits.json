@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338013: [lworld] User defined value classes cannot extend j.l.Number"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"},{"filename":"test\/langtools\/tools\/javac\/valhalla\/value-objects\/ValueObjectCompilationTests.java"}],"sha":"3efbe3325b4a7b3fe96265ff63ac314564372d33"}]
