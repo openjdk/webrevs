@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -206,0 +206,1 @@\n+        $d\/cpu\/$(HOTSPOT_TARGET_CPU_ARCH)\/gc\/g1\/g1_$(HOTSPOT_TARGET_CPU_ARCH).ad \\\n","filename":"make\/hotspot\/gensrc\/GensrcAdlc.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
