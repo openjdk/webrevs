@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1425,0 +1425,1 @@\n+  declare_c2_type(ForwardExceptionNode, ReturnNode)                       \\\n","filename":"src\/hotspot\/share\/runtime\/vmStructs.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
