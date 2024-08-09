@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n- * @requires vm.flagless\n+ * @requires vm.debug == true & vm.compMode != \"Xint\" & vm.compiler2.enabled & vm.flagless\n","filename":"test\/hotspot\/jtreg\/testlibrary_tests\/ir_framework\/tests\/TestPrivilegedMode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
