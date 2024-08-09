@@ -1,0 +1,1 @@
+[{"commit":{"message":"GlassViewDelegate: Correctly set origin and offset in dragImage\n\n- Centering to dragImage was removed - origin is now top-left of dragImage\n- Offset direction was swapped"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassViewDelegate.m"}],"sha":"c922de84725a43be6afd75a2544f934ace254273"}]
