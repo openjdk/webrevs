@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+ * @requires vm.debug == true\n","filename":"test\/hotspot\/jtreg\/testlibrary_tests\/ir_framework\/tests\/TestPrivilegedMode.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
