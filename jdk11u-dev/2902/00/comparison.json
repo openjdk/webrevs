@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-        this(className, new ArgumentHandler(new String[0]));\n+        this(className, new ArgumentHandler(new String[] {\"-transport.address=dynamic\"}));\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/framework\/TestProcessLauncher.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
