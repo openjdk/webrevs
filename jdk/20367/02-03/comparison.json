@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n- * @run main\/othervm\/timeout=15 DataDumpTest\n+ * @run driver DataDumpTest\n","filename":"test\/jdk\/com\/sun\/jdi\/DataDumpTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
