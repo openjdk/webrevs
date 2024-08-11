@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2188,1 +2188,1 @@\n-      log_error(cds)(\"Failed to read archived heap region at \" INTPTR_FORMAT, p2i(addr));\n+      log_error(cds)(\"Failed to read archived heap region into \" INTPTR_FORMAT, p2i(addr));\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
