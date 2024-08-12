@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,1 +298,1 @@\n-    uint64_t or_bits_top = (0 << nbits) | or_bits_sub;\n+    uint64_t or_bits_top = (UCONST64(0) << nbits) | or_bits_sub;\n","filename":"src\/hotspot\/cpu\/aarch64\/immediate_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
