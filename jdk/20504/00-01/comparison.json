@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,3 @@\n+ * @run main\/othervm -Xcomp\n+ *                   -XX:EliminateAllocationArraySizeLimit=10240\n+ *                   compiler.loopopts.superword.ReductionPerf\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/ReductionPerf.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
