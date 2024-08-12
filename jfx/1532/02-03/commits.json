@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge two if image != nil statements together\n\nThose were unnecessarily split"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassViewDelegate.m"}],"sha":"f6d065ce3809e2724761b37ddd25178ce4f286f6"}]
