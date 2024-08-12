@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed BytecodeGenerator::moreThanOneUse calculation\nand implemented isFirstOperand calculation for unconditional branches"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeGenerator.java"}],"sha":"3a94b055352c78e7d2d745fe1b24fdd0699d1151"}]
