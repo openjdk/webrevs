@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4921,0 +4921,4 @@\n+    \/**\n+     * {@return true if and only if the current token is definitelly a token that\n+     *  starts a statement.}\n+     *\/\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
