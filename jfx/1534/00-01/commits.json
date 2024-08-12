@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Add debug prints\"\n\nThis reverts commit 3ea8ee58867d21e5c0aeb6a22170cdc28dd7a486."},"files":[{"filename":".github\/workflows\/submit.yml"},{"filename":"buildSrc\/win.gradle"}],"sha":"b6972b3649cb1a4494cc032ccf024e843c169850"}]
