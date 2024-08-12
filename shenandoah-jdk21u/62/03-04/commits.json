@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert incorrect resolution of merge conflict\n\nOne of the changes recently committed in attempt to resolve merge\nconflict was wrong."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"}],"sha":"9ecc1914b71e6dcb03066f6d0a7829a3114a518c"}]
