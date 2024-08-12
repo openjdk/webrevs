@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1071,1 +1071,1 @@\n-     * Bytecode strategy.\n+     * Implement efficient hidden class strategy for String concatenation\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/StringConcatFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
