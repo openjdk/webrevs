@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338262: [lworld] Make tests require flagless until JDK-8338261 is fixed"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/field_layout\/FieldAlignmentTest.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/field_layout\/ValueFieldInheritanceTest.java"}],"sha":"459b7e83694a3e24baedbc68118521f800fdcecc"}]
