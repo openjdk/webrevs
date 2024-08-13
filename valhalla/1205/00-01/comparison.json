@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,0 @@\n-  assert(is_larval() == other->is_larval(), \"Inconsistent larval state\");\n","filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
