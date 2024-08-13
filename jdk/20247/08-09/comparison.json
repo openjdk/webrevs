@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-         * which must not be an array type. ({@jls 9.6.1}) If such elements are\n+         * which must not be an array type. (JLS {@jls 9.6.1}) If such elements are\n","filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/AnnotationValue.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
