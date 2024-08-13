@@ -1,0 +1,1 @@
+[{"commit":{"message":"8336837: [lworld] Invalid monitor information in JVMState when buffering at return"},"files":[{"filename":"src\/hotspot\/share\/opto\/parse1.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorld.java"}],"sha":"99a2cb069e37e063000eb8e88b9cd9aafda5d0a4"}]
