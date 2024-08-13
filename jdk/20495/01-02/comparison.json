@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,2 +26,2 @@\n- * @bug 8332850\n- * @summary XXX\n+ * @bug 8337998\n+ * @summary CompletionFailure in getEnclosingType attaching type annotations\n","filename":"test\/langtools\/tools\/javac\/annotations\/typeAnnotations\/CompletionErrorOnEnclosingType.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
