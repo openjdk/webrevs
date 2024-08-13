@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-        \/\/ cfi_rel_offset(%ebx, 8)\n+        \/* cfi_rel_offset(%ebx, 8) *\/\n","filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/3rd_party\/libffi\/src\/x86\/sysv_intel.S","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
