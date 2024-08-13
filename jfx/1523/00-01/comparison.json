@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -155,1 +155,1 @@\n-    public final boolean isConsumed() {\n+    public boolean isConsumed() {\n@@ -162,1 +162,1 @@\n-    public final void consume() {\n+    public void consume() {\n","filename":"modules\/javafx.base\/src\/main\/java\/javafx\/event\/Event.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
