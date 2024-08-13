@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -553,1 +553,1 @@\n-        err_msg(\"Expected interface type, got %s\", klass->external_name()));\n+                   err_msg(\"Expected interface type, got %s\", klass->external_name()));\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
