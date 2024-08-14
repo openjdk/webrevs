@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3358,0 +3358,1 @@\n+  assert(aligned_base != nullptr, \"Did not manage to re-map after %d attempts (size %zu, alignment %zu, file descriptor %d)\", max_attempts, size, alignment, file_desc);\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
