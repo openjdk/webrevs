@@ -1,0 +1,1 @@
+[{"commit":{"message":"8336842: [lworld] Return value buffering in TLAB does not work with -XX:FastAllocateSizeLimit=0"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"26be4c6e529e4d3126721b1266a9332331e3c114"}]
