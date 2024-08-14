@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,1 @@\n-    Atomic::inc(&_items_count);\n+    Atomic::dec(&_items_count);\n","filename":"src\/hotspot\/share\/runtime\/lightweightSynchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
