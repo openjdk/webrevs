@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,0 +69,1 @@\n+    \/\/ Tests that numeric promotion occurs\n@@ -83,0 +84,1 @@\n+    \/\/ Tests that numeric promotion is retained\n","filename":"test\/langtools\/tools\/javac\/reflect\/UnaryopTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
