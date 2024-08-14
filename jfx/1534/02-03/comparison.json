@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-        for %%b in (Enterprise, Professional, Community) do (\n+        for %%b in (Enterprise, Professional, Community, BuildTools) do (\n","filename":"buildSrc\/genVSproperties.bat","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
