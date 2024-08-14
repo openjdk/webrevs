@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-        value=\"$(grep -h ${{ inputs.var }}= make\/conf\/github-actions.conf | cut -d '=' -f 2-)\"\n+        value=\"$(grep -h '^${{ inputs.var }}'= make\/conf\/github-actions.conf | cut -d '=' -f 2-)\"\n","filename":".github\/actions\/config\/action.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
