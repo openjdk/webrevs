@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1107,0 +1107,3 @@\n+     *\n+     * <p> Once closed, several of the methods defined by this class will throw\n+     * an exception if invoked on the closed socket.\n","filename":"src\/java.base\/share\/classes\/java\/net\/DatagramSocket.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
