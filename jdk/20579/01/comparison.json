@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,0 +74,1 @@\n+      # Clang needs the lld linker to work correctly\n@@ -75,0 +76,1 @@\n+      UTIL_REQUIRE_PROGS(LLD, lld)\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
