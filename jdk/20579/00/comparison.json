@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,0 +75,2 @@\n+      # Linux\/clang toolchain needs now lld on the system to work\n+      UTIL_REQUIRE_PROGS(LLD, lld)\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
