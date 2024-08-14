@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2025,0 +2025,2 @@\n+      assert(n->in(1)->as_Mach()->barrier_data() == 0,\n+             \"Implicit null checks on memory accesses with barriers are not yet supported\");\n","filename":"src\/hotspot\/share\/opto\/output.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

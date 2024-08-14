@@ -1,0 +1,1 @@
+[{"commit":{"message":"Assert that no implicit null checks are generated for memory accesses with barriers"},"files":[{"filename":"src\/hotspot\/share\/opto\/output.cpp"}],"sha":"554de7791c87fd4ff182c3479213854d41d88de4"}]
