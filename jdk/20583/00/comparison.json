@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -377,3 +377,0 @@\n-  void clear_range(HeapWord* beg, HeapWord* end) {\n-    clear_range(addr_to_region_idx(beg), addr_to_region_idx(end));\n-  }\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
