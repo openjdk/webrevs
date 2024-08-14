@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,1 +263,1 @@\n-      FLAG_SET_ERGO(G1HeapRegionSize, HeapRegionBounds::min_size());\n+      FLAG_SET_ERGO(G1HeapRegionSize, G1HeapRegionBounds::min_size());\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
