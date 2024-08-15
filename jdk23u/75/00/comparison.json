@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+#include \"sanitizers\/ub.hpp\"\n@@ -341,0 +342,1 @@\n+  ATTRIBUTE_NO_UBSAN\n","filename":"src\/hotspot\/share\/runtime\/signature.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
