@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338447: Remove InstanceKlass::_is_marked_dependent"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"},{"filename":"src\/hotspot\/share\/runtime\/vmStructs.cpp"}],"sha":"b84b7b124b88138953d7fda85b4c0ed8281e818d"}]
