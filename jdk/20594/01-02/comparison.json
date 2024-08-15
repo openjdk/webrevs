@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-    \/\/ Fixed with JDK-8336792.\n+    \/\/ Fixed with JDK-8336729.\n","filename":"test\/hotspot\/jtreg\/compiler\/splitif\/TestSplitDivisionThroughPhi.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
