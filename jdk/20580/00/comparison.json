@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -305,1 +305,0 @@\n-        boolean hasBeenRoundedUp = fdConverter.digitsRoundedUp();\n@@ -311,1 +310,1 @@\n-            hasBeenRoundedUp, valueExactAsDecimal,\n+            false, valueExactAsDecimal,\n","filename":"src\/java.base\/share\/classes\/java\/text\/DigitList.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
