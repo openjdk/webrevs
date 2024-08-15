@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n-* @bug 8299259\n+* @bug 8299259 8336729\n@@ -38,1 +38,1 @@\n-* @bug 8299259\n+* @bug 8299259 8336729\n","filename":"test\/hotspot\/jtreg\/compiler\/splitif\/TestSplitDivisionThroughPhi.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
