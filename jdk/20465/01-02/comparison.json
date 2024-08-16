@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n-import javax.swing.event.*;\n+import javax.swing.event.ChangeListener;\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/BoundedRangeModel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
