@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -246,1 +246,1 @@\n-  if (avg_cycle_time > allocation_headroom \/ avg_alloc_rate) {\n+  if (avg_cycle_time * avg_alloc_rate > allocation_headroom) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAdaptiveHeuristics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
