@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed BigInteger and BigDecimal support."},"files":[{"filename":"src\/main\/java\/org\/openjdk\/jextract\/json\/JSONObjects.java"},{"filename":"test\/testng\/org\/openjdk\/jextract\/test\/json\/JSONObjectsTests.java"}],"sha":"943e6ad4dda32cc6ed1b6fea972db7939c5c0f3b"}]
