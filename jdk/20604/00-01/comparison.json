@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -100,1 +100,1 @@\n-            System.out.println(\"Deuggee output:\");\n+            System.out.println(\"Debuggee output:\");\n","filename":"test\/jdk\/com\/sun\/jdi\/DataDumpTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
