@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8338538: [JVMCI] Allow HotSpotJVMCIRuntime#getJObjectValue to be called by host compiler threads."},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"030102454a5ea9ea6167499dd06d6f4c55eaa72a"}]
