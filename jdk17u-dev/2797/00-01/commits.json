@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use thread->as_Java_thread() instead of static_cast"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahLock.cpp"}],"sha":"22086ff28b9a797c3841a854b43dbaece8908530"}]

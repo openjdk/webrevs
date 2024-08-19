@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-    contended_lock_internal<ThreadBlockInVM>(static_cast<JavaThread*>(thread));\n+    contended_lock_internal<ThreadBlockInVM>(thread->as_Java_thread());\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahLock.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
