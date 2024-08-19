@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-    @Param({\"4\"})\n+    @Param({\"4\", \"32\", \"76\", \"128\"})\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/Base64Decode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
