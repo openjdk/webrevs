@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,0 +89,1 @@\n+        frame.setResizable(false);\n","filename":"test\/jdk\/java\/awt\/Choice\/SelectCurrentItemTest\/SelectCurrentItemTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
