@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-\t\t-reportDir:$(BUILDTESTDIR)\/$(@:%.ok=%) \\\n+\t\t-reportDir:$(@:%.ok=%) \\\n","filename":"test\/basic\/ReportOnlyTest.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
