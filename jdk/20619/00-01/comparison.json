@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -213,1 +213,1 @@\n- * public class SimpleDoclet implements Doclet {\n+ * public class Example implements Doclet {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/doclet\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
