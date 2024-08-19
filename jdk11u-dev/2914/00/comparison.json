@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1663,1 +1663,1 @@\n-    cmsIOHANDLER* io = Icc ->IOhandler;\n+    cmsIOHANDLER* io;\n@@ -1708,0 +1708,2 @@\n+    io = Icc ->IOhandler;\n+\n","filename":"src\/java.desktop\/share\/native\/liblcms\/cmsio0.c","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
