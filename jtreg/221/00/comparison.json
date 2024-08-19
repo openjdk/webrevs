@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -312,1 +312,1 @@\n-                    compArgs.add(\"--release=\" + script.getTestJDKVersion().major);\n+                    compArgs.add(\"--source=\" + script.getTestJDKVersion().major);\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/BuildAction.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
