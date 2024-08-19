@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,0 +50,1 @@\n+\t$(CAT) $(@:%.ok=%.jt.log)\n","filename":"test\/basic\/ReportOnlyTest.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
