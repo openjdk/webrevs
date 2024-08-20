@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -307,1 +307,1 @@\n-    size_t utf8_len = length;\n+    size_t utf8_len = static_cast<size_t>(length);\n@@ -603,1 +603,1 @@\n-    size_t utf8_len = length;\n+    size_t utf8_len = static_cast<size_t>(length);\n","filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
