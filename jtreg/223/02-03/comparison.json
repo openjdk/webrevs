@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-\t@echo \"Expect: Test results: passed: $${EXPECT_PASS}; failed: $${EXPECT_FAIL}; error: 88\" ; \\\n+\techo \"Expect: Test results: passed: $${EXPECT_PASS}; failed: $${EXPECT_FAIL}; error: 88\" ; \\\n","filename":"test\/basic\/ReportOnlyTest.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
