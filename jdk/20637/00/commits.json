@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338623: StackCounter adding extraneous slots for receiver invoke instructions"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackCounter.java"},{"filename":"test\/jdk\/jdk\/classfile\/StackMapsTest.java"}],"sha":"54123c8018e257f1481e22fa696101b79bcb04f4"}]
