@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify case for scanning all references within humongous object"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.hpp"}],"sha":"79f6ca250aca9679f4c5e6360d526ae7f0042fbf"}]
