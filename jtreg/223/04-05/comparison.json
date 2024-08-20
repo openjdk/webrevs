@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-\tif $(GREP) \"headless: true\" $(BUILDTESTDIR)\/Basic.othervm\/log > \/dev\/null ; then \\\n+\tif $(GREP) \"headless: *true\" $(BUILDTESTDIR)\/Basic.othervm\/log > \/dev\/null ; then \\\n","filename":"test\/basic\/ReportOnlyTest.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
