@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8334078: RISC-V: TestIntVect.java fails after JDK-8332153 when running without RVV"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/test\/IREncodingPrinter.java"}],"sha":"744799982524c0ff4d2004fea6e4917902394eec"}]
