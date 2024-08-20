@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3323,1 +3323,1 @@\n-  z_cghi(r_array_length, Klass::SECONDARY_SUPERS_BITMAP_FULL - 2);\n+  z_chi(r_array_length, Klass::SECONDARY_SUPERS_BITMAP_FULL - 2);\n","filename":"src\/hotspot\/cpu\/s390\/macroAssembler_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
