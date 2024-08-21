@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,2 +63,2 @@\n-        java.base:libjava \\\n-        java.base:libjvm, \\\n+        java.base:libjava, \\\n+    JDK_LIBS := java.base:libjvm, \\\n","filename":"make\/modules\/jdk.jdwp.agent\/Lib.gmk","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
