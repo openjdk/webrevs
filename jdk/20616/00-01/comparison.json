@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-    CLASSPATH := $(JMH_COMPILE_JARS), \\\n+    CLASSPATH := $(JMH_COMPILE_JARS) $(MICROBENCHMARK_CLASSES), \\\n","filename":"make\/test\/BuildMicrobenchmark.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
