@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-  void establish_preselected(bool preselected[]) {\n+  void establish_preselected(bool *preselected) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahCollectionSet.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
