@@ -1,0 +1,1 @@
+[{"commit":{"message":"cleanup: use a constexpr function for intpow instead of a templated class"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/share\/utilities\/intpow.hpp"}],"sha":"eb9708c9bec44523e256d9ea662ce2c3deac02fb"}]
