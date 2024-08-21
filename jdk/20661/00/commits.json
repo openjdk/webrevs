@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338727: RISCV: Avoid synthetic data dependency in nmethod barrier on Ztso"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/barrierSetAssembler_riscv.cpp"}],"sha":"925b527fa0e0123d04c826f66509bc9e04b3322e"}]
