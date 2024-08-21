@@ -1,0 +1,1 @@
+[{"commit":{"message":"* Clarify javadoc for var handles with dereference path elements\n* Add test where dereference path element is last element in path"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/MemoryLayout.java"},{"filename":"test\/jdk\/java\/foreign\/TestDereferencePath.java"}],"sha":"8079981b8d4137163c7daa5664690a6aa1f0461f"}]
