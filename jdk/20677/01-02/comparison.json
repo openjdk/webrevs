@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,0 @@\n-    hashMaskCompactInPlace = db.lookupLongConstant(\"markWord::hash_mask_compact_in_place\").longValue();\n@@ -97,1 +96,0 @@\n-  private static long hashMaskCompactInPlace;\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/Mark.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
