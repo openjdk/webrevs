@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8337828: CDS: Trim down minimum GC region alignment\"\nThis reverts commit 598169756c903bb1f77e35ea32717043bc166e3c."},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveHeapWriter.hpp"}],"sha":"894277445de4ef8a7cd2deddb36310d72a74bafb"}]
