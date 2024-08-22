@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-  static const int unused_gap_bits                = 4; \/\/ Reserved for Valhalla.\n+  static const int unused_gap_bits                = LP64_ONLY(4) NOT_LP64(0); \/\/ Reserved for Valhalla.\n","filename":"src\/hotspot\/share\/oops\/markWord.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
