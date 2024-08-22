@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -705,2 +705,0 @@\n-      } else if (obj->is_forwarded()) {\n-        obj->init_mark();\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
