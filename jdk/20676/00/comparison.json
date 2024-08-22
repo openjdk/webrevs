@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,0 +194,4 @@\n+  if (!initialize(THREAD)) {\n+    log_error(jfr, system)(\"JfrUpcall could not be initialized.\");\n+    return false;\n+  }\n","filename":"src\/hotspot\/share\/jfr\/jni\/jfrUpcalls.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
