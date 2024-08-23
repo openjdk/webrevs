@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -422,1 +422,1 @@\n-  bool needs_post_barrier = val != noreg && in_heap && ShenandoahCardBarrier;\n+  bool needs_post_barrier = (val != noreg) && in_heap && ShenandoahCardBarrier;\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoahBarrierSetAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
