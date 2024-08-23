@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-        long maxAllowedDiff = (numEvents - 1)  * strLen;\n+        long maxAllowedDiff = (numEvents - 1) * strLen;\n","filename":"test\/jdk\/jdk\/jfr\/jvm\/TestLongStringsInPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
