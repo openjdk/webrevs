@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338922: Parallel: Add task queue stats support in full GC"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psCompactionManager.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psCompactionManager.hpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp"}],"sha":"3e4592a2e90f641c5a6e4273fbd70b869bd80fa8"}]
