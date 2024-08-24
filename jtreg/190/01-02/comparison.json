@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -782,0 +782,1 @@\n+     JAVA_SPECIFICATION_VERSION=\"${JAVA_SPECIFICATION_VERSION}\" \\\\\n@@ -790,1 +791,0 @@\n-     JAVA_SPECIFICATION_VERSION=\"${JAVA_SPECIFICATION_VERSION}\" \\\\\n","filename":"make\/build.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
