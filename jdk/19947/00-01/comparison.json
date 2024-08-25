@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-  address return_pc = this->call_c(entry_point);\n+  address return_pc = call_c(entry_point);\n","filename":"src\/hotspot\/cpu\/ppc\/c1_Runtime1_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
