@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Optimize the construction of MethodType and MethodTypeDesc to reduce memory allocation\"\n\nThis reverts commit 3bed7290f5cb987e86407f698fb0598f19d65628."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/StringConcatFactory.java"}],"sha":"a016723fec04e391dfb4085abff9595c194ec53b"}]
