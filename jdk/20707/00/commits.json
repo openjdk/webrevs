@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed to use the return value of the combine method of SettingsControl"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/Control.java"},{"filename":"test\/jdk\/jdk\/jfr\/api\/settings\/TestFilterEvents.java"}],"sha":"b05ddabe3bb722cf31c4ad7bdfa6d72d6a111534"}]
