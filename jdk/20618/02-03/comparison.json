@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -280,1 +280,1 @@\n-main.doclet.usage.header=\\nProvided by the {0} Doclet:\n+main.doclet.usage.header=\\nProvided by the {0} doclet:\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/tool\/resources\/javadoc.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
