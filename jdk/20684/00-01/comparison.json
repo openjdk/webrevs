@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -865,1 +865,1 @@\n-  char buf[512];\n+  char buf[SYMBOL_BUFSIZE];\n","filename":"src\/jdk.hotspot.agent\/windows\/native\/libsaproc\/sawindbg.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
