@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -998,1 +998,1 @@\n-    private static class LocaleCache implements Function<Object, Locale> {\n+    private static final class LocaleCache implements Function<Object, Locale> {\n","filename":"src\/java.base\/share\/classes\/java\/util\/Locale.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
