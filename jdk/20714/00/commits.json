@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid bootstrapped switches in the classfile API to reduce risk of bootstrap circularity"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/ClassFileImpl.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapDecoder.java"}],"sha":"43429cc0c80ce5e21628ad3ee93e07746ea290ae"}]
