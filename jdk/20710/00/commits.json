@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338947: Deprecate the UseLinuxPosixThreadCPUClocks flag and remove it in a future release"},"files":[{"filename":"src\/hotspot\/os\/linux\/globals_linux.hpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/VMDeprecatedOptions.java"}],"sha":"c689a92a8d6f96ea5881f9992cd18a2d6fc3c921"}]
