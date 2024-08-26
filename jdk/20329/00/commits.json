@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Make a couple of fields in DoubleByte static\n\n3 fields in sun.nio.cs.DoubleByte.{Encoder,Decoder} could be made 'static':\n1. SS2\n2. SS3\n3. MAX_SINGLEBYTE"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/DoubleByte.java"}],"sha":"cdf05e26e396a633ade3ec107ca4947ac6444255"}]
