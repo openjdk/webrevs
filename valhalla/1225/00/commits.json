@@ -1,0 +1,1 @@
+[{"commit":{"message":"8339076: Float16.valueOf(long) incorrectly returns infinities in some cases"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Float16.java"},{"filename":"test\/jdk\/java\/lang\/Float16\/BasicFloat16ArithTests.java"}],"sha":"f607b32c53cc0dc39f256776332d821547093541"}]
