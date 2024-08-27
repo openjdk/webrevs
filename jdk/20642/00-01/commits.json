@@ -1,0 +1,1 @@
+[{"commit":{"message":"Extend the deprecation note to mention that the error became obsolete in JDK 9 and to mention that code may be updated to catch the super class InternalError"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipError.java"}],"sha":"eba159f4602f5759d37e561d5f96c66ad335b739"}]
