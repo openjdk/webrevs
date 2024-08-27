@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n-   @ignore Test truncates system files when run as root, see 7042603\n+   @ignore 7042603 - Test truncates system files when run as root\n","filename":"test\/jdk\/java\/io\/IOException\/LastErrorString.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
