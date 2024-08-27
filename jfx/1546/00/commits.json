@@ -1,0 +1,1 @@
+[{"commit":{"message":"prevent NPE if FontConfigManager.FcCompFont is null"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/font\/LogicalFont.java"},{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/font\/freetype\/FTFactory.java"}],"sha":"e080a4a50b939f9f9a9565749935344e859ef695"}]
