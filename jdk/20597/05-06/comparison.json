@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -146,0 +146,1 @@\n+    st->print_cr(\"current process region count: \" PROPERFMT, PROPERFMTARGS(_num_mappings));\n","filename":"src\/hotspot\/os\/windows\/memMapPrinter_windows.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
