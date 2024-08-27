@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -437,1 +437,1 @@\n-  void print_value_on(outputStream *st) const;\n+  void print_value_on(outputStream* st) const;\n","filename":"src\/hotspot\/share\/runtime\/frame.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
