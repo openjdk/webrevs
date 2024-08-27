@@ -1,0 +1,1 @@
+[{"commit":{"message":"add ciMethod::equals() to compare possibly-redefined methods"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciMethod.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciMethod.hpp"}],"sha":"0a94f615ec4d3ad3b14061e14ac33cb1c2d6d8be"}]
