@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -554,1 +554,0 @@\n-            cause.printStackTrace();\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/ConnectionPool.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
