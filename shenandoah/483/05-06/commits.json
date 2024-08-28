@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable CDS only for generational mode (need to fix card table)"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp"}],"sha":"61ef37a5315127d56cc5896bf8dae5ad4d50c7cb"}]
