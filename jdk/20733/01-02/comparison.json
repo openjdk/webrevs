@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -182,0 +182,1 @@\n+    DISABLED_WARNINGS_gcc_c1_Runtime1_aarch64.cpp := unused-const-variable, \\\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
