@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -195,0 +195,1 @@\n+    DISABLED_WARNINGS_gcc_macroAssembler_ppc_sha.cpp := unused-const-variable, \\\n@@ -199,0 +200,1 @@\n+    DISABLED_WARNINGS_gcc_xGlobals_ppc.cpp := unused-const-variable, \\\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
