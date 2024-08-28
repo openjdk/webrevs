@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -352,0 +352,1 @@\n+  assert(len >= 0, \"negative length %d suggests integer overflow in the caller\", len);\n","filename":"src\/hotspot\/share\/classfile\/symbolTable.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
