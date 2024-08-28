@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,0 @@\n-        int len = getContentLength();\n@@ -91,0 +90,1 @@\n+            int len = getContentLength();\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/Resource.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
