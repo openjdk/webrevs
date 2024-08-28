@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix compilation failure with --disable-precompiled-headers"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/register_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"c0ec54998031da8df345c560034d9862dedf8df7"}]
