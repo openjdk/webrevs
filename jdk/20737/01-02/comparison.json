@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-     *  The primitive type {@code long}. It is of {@linkplain #slotSize() category} 2.\n+     * The primitive type {@code long}. It is of {@linkplain #slotSize() category} 2.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/TypeKind.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
