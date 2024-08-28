@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8338440: Parallel: Improve fragmentation mitigation in Full GC\"\n\nThis reverts commit 1ff5f8d65cf6153e517ee7a242d10536eee0d637."},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.hpp"}],"sha":"6259e918fd762ebff78fde79d3636bf81334b88e"}]
