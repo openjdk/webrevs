@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -867,1 +867,1 @@\n-  if (ptrIDebugSymbols->GetNameByOffset(offset, buf, sizeof(buf), 0, &disp) ==  S_OK) {\n+  if (ptrIDebugSymbols->GetNameByOffset(offset, buf, sizeof(buf), 0, &disp) == S_OK) {\n","filename":"src\/jdk.hotspot.agent\/windows\/native\/libsaproc\/sawindbg.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
