@@ -1,0 +1,1 @@
+[{"commit":{"message":"8339133: [8u] Profiler crashes at guarantee(is_result_safe || is_in_asgct()): unsafe access to zombie method"},"files":[{"filename":"hotspot\/src\/share\/vm\/prims\/forte.cpp"}],"sha":"39d645367e089d3e5d2e0851395c5a38812ed647"}]
