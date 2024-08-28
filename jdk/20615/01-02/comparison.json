@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -318,0 +318,1 @@\n+      \/\/ avoid division by 0, set divisor to at least 1\n","filename":"src\/hotspot\/share\/opto\/bytecodeInfo.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
