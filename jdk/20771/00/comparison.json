@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-        for (int i = 0; i < 2000; i++) {\n+        for (int i = 0; i < 12000; i++) {\n","filename":"test\/jdk\/java\/lang\/String\/concat\/HiddenClassUnloading.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
