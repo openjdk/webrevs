@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,0 @@\n-                closeChunk();\n@@ -123,1 +122,0 @@\n-                closeChunk();\n@@ -134,0 +132,1 @@\n+        closeChunk();\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/ChunkInputStream.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
