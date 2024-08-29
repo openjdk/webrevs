@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move bipush and sipush fix from Opcode cleanup to this patch"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/instruction\/ConstantInstruction.java"}],"sha":"86c4104d86d91fefae3d9dc11e4f2684d29fcde1"}]
