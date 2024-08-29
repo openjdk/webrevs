@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename Compile::init_start as Compile::verify_start and make it debug only"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/compile.hpp"},{"filename":"src\/hotspot\/share\/opto\/generateOptoStub.cpp"}],"sha":"fb5fd187de06e52f3ce268362d7ca5d67e620952"}]
