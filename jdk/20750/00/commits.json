@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adjust OS name for macosx"},"files":[{"filename":"make\/CreateJmods.gmk"}],"sha":"ec2be7400c352cbb45531f985c89e08ca345a3d0"},{"commit":{"message":"8338404: Cross-compilation to different endianness fails after JDK-8318913"},"files":[{"filename":"make\/CreateJmods.gmk"},{"filename":"make\/InterimImage.gmk"}],"sha":"e46d142e657ca71d9bdcfa3d9c06ad7310c38f46"}]
