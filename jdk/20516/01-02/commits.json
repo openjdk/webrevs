@@ -1,0 +1,1 @@
+[{"commit":{"message":"@dholmes-ora comments: do not check for -XX:AOTMode=create in JLI java.c"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"},{"filename":"src\/java.base\/share\/native\/libjli\/java.c"}],"sha":"1da2ed9fb2873a1ee584a8bbf86af21874bc3d4a"}]
