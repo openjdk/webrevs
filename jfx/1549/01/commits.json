@@ -1,0 +1,1 @@
+[{"commit":{"message":"Updated verification-metadata.xml. Added sha256 for Linux \/aarch64 jar"},"files":[{"filename":"gradle\/verification-metadata.xml"}],"sha":"b00c2f32eecc529277bdc44d118af8642b1b01c5"},{"commit":{"message":"Updated build.gradle for SWT_FILE_NAME to support Linux aarch64"},"files":[{"filename":"build.gradle"}],"sha":"8433800fcafcdaa066d7106b2790b4a71d591931"}]
