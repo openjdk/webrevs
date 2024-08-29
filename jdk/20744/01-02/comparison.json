@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,0 +69,1 @@\n+            stored.setMethod(ZipEntry.STORED);\n","filename":"test\/jdk\/java\/util\/zip\/Available.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
