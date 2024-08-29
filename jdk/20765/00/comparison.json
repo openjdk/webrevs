@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -226,2 +226,0 @@\n-const int float_regs_as_doubles_size_in_slots = pd_nof_fpu_regs_frame_map * 2;\n-\n","filename":"src\/hotspot\/cpu\/riscv\/c1_Runtime1_riscv.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
