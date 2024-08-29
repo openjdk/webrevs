@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add function in Metaspace to tell you if Klass pointer is in compressible space."},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/traceid\/jfrTraceIdKlassQueue.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspace.hpp"}],"sha":"ce96165ebcebcca3210aa3648ddee39bf11def13"}]
