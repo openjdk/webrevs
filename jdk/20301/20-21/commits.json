@@ -1,0 +1,1 @@
+[{"commit":{"message":"change impl class to use byte arrays rather than SecretKey objects where possible"},"files":[{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/HkdfKeyDerivation.java"}],"sha":"25c17b26231b2b63bab9193fe29c7c258f96a31f"}]
