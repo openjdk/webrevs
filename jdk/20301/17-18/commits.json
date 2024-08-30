@@ -1,0 +1,1 @@
+[{"commit":{"message":"use a delegate record to hold the spi and provider"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/KDF.java"},{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/KDFSpi.java"},{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/HKDFParameterSpec.java"}],"sha":"4a0bc0ef28ebbe8c5f22b3a5540725e3b4339c2e"}]
