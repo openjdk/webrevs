@@ -1,0 +1,1 @@
+[{"commit":{"message":"8339299: C1 will miss type profile when inline final method"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIR.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/cha\/TypeProfileFinalMethod.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/cha\/cha_control.txt"}],"sha":"1455feb0f9288c6ce6b540b22bb3bb9c7a44b587"}]
