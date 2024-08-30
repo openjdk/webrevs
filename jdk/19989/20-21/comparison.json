@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3217,1 +3217,1 @@\n-  z_lg(r_bitmap, Address(r_sub_klass, Klass::bitmap_offset()));\n+  z_lg(r_bitmap, Address(r_sub_klass, Klass::secondary_supers_bitmap_offset()));\n","filename":"src\/hotspot\/cpu\/s390\/macroAssembler_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
