@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,2 +60,0 @@\n-import static java.lang.foreign.ValueLayout.JAVA_INT_UNALIGNED;\n-import static java.lang.foreign.ValueLayout.JAVA_SHORT_UNALIGNED;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
