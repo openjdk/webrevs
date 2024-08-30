@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-  char* subsystem_path() override {\n+  const char* subsystem_path() override {\n","filename":"test\/hotspot\/gtest\/runtime\/test_cgroupSubsystem_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
