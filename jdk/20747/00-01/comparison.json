@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,2 +256,1 @@\n-        return desc == CD_void ? 0\n-             : desc == CD_double || desc == CD_long ? 2 : 1;\n+        return desc == CD_void ? 0 : isDoubleSlot(desc) ? 2 : 1;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/Util.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
