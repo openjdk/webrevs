@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use cached Env only for AWT NSApplication and not for Override-delegate"},"files":[{"filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/ApplicationDelegate.m"}],"sha":"105fe7d6b966f694a2c490294107e00c277f1f7d"}]
