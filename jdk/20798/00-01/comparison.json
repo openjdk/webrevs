@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,2 +70,2 @@\n-MICROBENCHMARK_MANIFEST := Build: $(FULL_VERSION)\\n \\\n-\\nJMH-Version: $(JMH_VERSION)\\n \\\n+MICROBENCHMARK_MANIFEST := Build: $(FULL_VERSION)\\n\\\n+\\nJMH-Version: $(JMH_VERSION)\\n\\\n","filename":"make\/test\/BuildMicrobenchmark.gmk","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
