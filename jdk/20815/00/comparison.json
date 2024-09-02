@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,0 +126,2 @@\n+                } else {\n+                    p = Packet.fromByteArray(b);\n@@ -127,1 +129,0 @@\n-                p = Packet.fromByteArray(b);\n","filename":"src\/jdk.jdi\/share\/classes\/com\/sun\/tools\/jdi\/TargetVM.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
