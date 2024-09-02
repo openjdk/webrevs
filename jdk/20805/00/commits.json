@@ -1,0 +1,1 @@
+[{"commit":{"message":"8339359: RISC-V: Use auipc explicitly in far_jump and far_call macro assembler routines"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"95b69ff08af0efe5ad736b59b28f6c20b1217eae"}]
