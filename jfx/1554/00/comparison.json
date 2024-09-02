@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3725,0 +3725,1 @@\n+                    def makeArgs = \"-j $NUM_COMPILE_THREADS\"\n@@ -3795,0 +3796,1 @@\n+                        \"--makeArgs=${makeArgs}\",\n","filename":"build.gradle","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
