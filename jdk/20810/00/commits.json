@@ -1,0 +1,1 @@
+[{"commit":{"message":"8339368: Switch targets are not inflated in CodeModel if no StackMap"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/CodeImpl.java"},{"filename":"test\/jdk\/jdk\/classfile\/OneToOneTest.java"}],"sha":"d5c44d9b84d8ecfdedec286fc9a911072df04dd1"}]
