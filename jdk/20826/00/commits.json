@@ -1,0 +1,1 @@
+[{"commit":{"message":"8339411: [PPC64] cmpxchgw\/h\/b doesn't handle external Label"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"}],"sha":"63f49aa2861e930a33ac943f37ec591e83b20707"}]
