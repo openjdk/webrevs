@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -271,1 +271,0 @@\n-  st->print_cr(\"- narrow_oop_base:                \" INTPTR_FORMAT, p2i(_narrow_oop_base));\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
