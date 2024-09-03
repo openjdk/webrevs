@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused function declaration."},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.hpp"}],"sha":"79c35f7c91318af3e5d5a1faa02ff0f578bf8fd1"},{"commit":{"message":"Add parameters and rename generate_klass_flags_guard."},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"}],"sha":"9f91857d06457aab0631cf171618fed54e919def"}]
