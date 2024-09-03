@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-            U.putObject(v, off_o, list);\n+            U.putReference(v, off_o, list);\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/UnsafeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
