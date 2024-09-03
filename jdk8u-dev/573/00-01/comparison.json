@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1952,3 +1952,0 @@\n-  #ifndef EM_RISCV\n-  #define EM_RISCV      243               \/* RISC-V *\/\n-  #endif\n@@ -1958,0 +1955,3 @@\n+  #ifndef EM_RISCV\n+  #define EM_RISCV      243               \/* RISC-V *\/\n+  #endif\n","filename":"hotspot\/src\/os\/linux\/vm\/os_linux.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
