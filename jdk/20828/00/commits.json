@@ -1,0 +1,1 @@
+[{"commit":{"message":"8323688: C2: Fix UB of jlong overflow in PhaseIdealLoop::is_counted_loop()"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"}],"sha":"f7ddf30215c456cbd3e3e90f1e1f1a899c728dcd"}]
