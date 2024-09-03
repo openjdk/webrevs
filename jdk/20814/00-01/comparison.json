@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,2 @@\n-    COMMAND := $(RM) -r $(INTERIM_IMAGE_DIR) && $(JLINK_TOOL) --output $(INTERIM_IMAGE_DIR) \\\n+    PRE_COMMAND := $(RM) -r $(INTERIM_IMAGE_DIR), \\\n+    COMMAND := $(JLINK_TOOL) --output $(INTERIM_IMAGE_DIR) \\\n","filename":"make\/InterimImage.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
