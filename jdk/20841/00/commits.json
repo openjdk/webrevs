@@ -1,0 +1,1 @@
+[{"commit":{"message":"8339492: StackMapDecoder::writeFrames makes lots of allocations"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapDecoder.java"}],"sha":"54b16010d68c3bc2ac2723b3128b419d8de34a64"}]
