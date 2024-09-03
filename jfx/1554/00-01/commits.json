@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the special case where native compile jobs are hard set to 1\non Mac -- see JDK-8339505"},"files":[{"filename":"build.gradle"}],"sha":"1a1a360a253cd5c75cba2982c639f35e7ad2364c"}]
