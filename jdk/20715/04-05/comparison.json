@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1109,1 +1109,1 @@\n-\/\/ Install the StartNode on this compile object.\n+\/\/ Verify that the current StartNode is valid.\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
