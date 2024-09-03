@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-        if (JLA.stringCoder(s) == 0) {\n+        if (JLA.isLatin1(s)) {\n@@ -58,1 +58,1 @@\n-                if (JLA.stringCoder(s) == 0) {\n+                if (JLA.isLatin1(s)) {\n","filename":"test\/jdk\/java\/lang\/String\/CountGreaterZero.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
