@@ -1,0 +1,1 @@
+[{"commit":{"message":"revert changes for copy_file_range and ENOSYS for statx"},"files":[{"filename":"src\/java.base\/linux\/native\/libnio\/ch\/FileDispatcherImpl.c"},{"filename":"src\/java.base\/linux\/native\/libnio\/fs\/LinuxNativeDispatcher.c"},{"filename":"src\/java.base\/unix\/native\/libnio\/fs\/UnixNativeDispatcher.c"}],"sha":"74acb11fa7602dbb625f825c0ae3cda35d63538d"}]
