@@ -1,0 +1,1 @@
+[{"commit":{"message":"8003887: Use Assumptions.assumeTrue() and other and other cleanup"},"files":[{"filename":"src\/java.base\/windows\/native\/libjava\/WinNTFileSystem_md.c"},{"filename":"test\/jdk\/java\/io\/File\/GetCanonicalPath.java"}],"sha":"796a634f07345285213524f7ee8ba57688a47dcb"}]
