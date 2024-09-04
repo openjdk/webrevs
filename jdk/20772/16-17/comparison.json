@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -322,1 +322,1 @@\n-     * Count the number of leading non-zero ascii chars in the range.\n+     * Count the number of leading non-zero ascii chars in the String.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/JavaLangAccess.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
