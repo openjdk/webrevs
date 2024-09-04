@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @run main\/othervm -Ddoccheck.dir=api\/java.base -Ddoccheck.dir=true DocCheck\n+ * @run main\/othervm -Ddoccheck.dir=api\/java.base -Ddoccheck.runParallel=true DocCheck\n","filename":"test\/langtools\/jdk\/javadoc\/doccheck\/modules\/DocCheck__jdk_javadoc.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
