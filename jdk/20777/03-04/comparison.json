@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -213,1 +213,3 @@\n-        frame.dispose();\n+        if(frame != null) {\n+            frame.dispose();\n+        }\n","filename":"test\/jdk\/javax\/swing\/JButton\/SwingButtonResizeTestWithOpenGL.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
