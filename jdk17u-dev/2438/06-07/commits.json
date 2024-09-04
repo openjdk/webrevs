@@ -1,0 +1,1 @@
+[{"commit":{"message":"backport JDK-8290269, to fix error: \"TEST RESULT: Error. Parse Exception: Invalid tag: required\""},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/TestVerifyJCStress.java"}],"sha":"4e0213bc9bf6237fa4155d804754bba63aa7ac6f"}]
