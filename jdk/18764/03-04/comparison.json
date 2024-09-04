@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,0 @@\n-        System.err.println(\"\\tpluggability print pluggability tracing\");\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLLogger.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
