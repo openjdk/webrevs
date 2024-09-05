@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338471: Refactor Method::get_new_method() for better NoSuchMethodError handling"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"},{"filename":"src\/hotspot\/share\/oops\/method.hpp"},{"filename":"src\/hotspot\/share\/prims\/resolvedMethodTable.cpp"}],"sha":"f3d4f23afdab2879f9f1389c15993aa45fbea026"}]
