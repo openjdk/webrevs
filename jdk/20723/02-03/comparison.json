@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    private static final int TOLERANCE = 10;\n+    private static final int TOLERANCE = 5;\n","filename":"test\/jdk\/java\/awt\/Checkbox\/CheckboxCheckerScalingTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
