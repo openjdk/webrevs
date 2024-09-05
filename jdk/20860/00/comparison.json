@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,1 +147,1 @@\n-     * @param cbh The non-null CallbackHanlder object for callbacks\n+     * @param cbh The non-null CallbackHandler object for callbacks\n","filename":"src\/java.security.sasl\/share\/classes\/com\/sun\/security\/sasl\/digest\/DigestMD5Client.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
