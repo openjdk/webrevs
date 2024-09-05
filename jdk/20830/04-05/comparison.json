@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -186,1 +186,1 @@\n-        if (!getStderr().replaceAll(VM_DEPRECATED_MSG + \"\\\\R\", \"\").isEmpty() && \n+        if (!getStderr().replaceAll(VM_DEPRECATED_MSG + \"\\\\R\", \"\").isEmpty() &&\n","filename":"test\/lib\/jdk\/test\/lib\/process\/OutputAnalyzer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
