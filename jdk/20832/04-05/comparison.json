@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3441,1 +3441,1 @@\n-  TraceTime timer(timer_msg, TRACETIME_LOG(shInfo, startuptime));\n+  TraceTime timer(timer_msg, TRACETIME_LOG(Info, startuptime));\n","filename":"src\/hotspot\/cpu\/ppc\/sharedRuntime_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
