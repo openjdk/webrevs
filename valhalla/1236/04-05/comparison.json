@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -253,1 +253,1 @@\n-  bool index() const {\n+  int index() const {\n","filename":"src\/hotspot\/share\/oops\/fieldStreams.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
