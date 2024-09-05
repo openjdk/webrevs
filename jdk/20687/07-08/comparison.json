@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,1 @@\n-    return JNI_FALSE;\n+    return false;\n","filename":"test\/jdk\/java\/nio\/file\/attribute\/BasicFileAttributeView\/libCreationTimeHelper.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
