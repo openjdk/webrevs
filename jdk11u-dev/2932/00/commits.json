@@ -1,0 +1,1 @@
+[{"commit":{"message":"8301118: Ignore allow and disallow options for java.security.manager System Property"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/System.java"},{"filename":"test\/jdk\/java\/lang\/System\/AllowSecurityManager.java"}],"sha":"3e0233bc7138d7cedecedbe43242db65fa6e56de"}]
