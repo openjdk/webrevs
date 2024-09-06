@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix replace in map for updated receiver instead of original one"},"files":[{"filename":"src\/hotspot\/share\/opto\/doCall.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestValueConstruction.java"}],"sha":"7d6468f6f2ba62afe8adaab20a1c045be0242528"}]
