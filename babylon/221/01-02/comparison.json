@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1095,0 +1095,1 @@\n+                        \/\/ @@@ expr.super(...) for inner class super constructor calls\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ReflectMethods.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
