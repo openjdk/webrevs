@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed a bug when null values require discrete transitions"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/css\/StyleableObjectProperty.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/css\/StyleableProperty_transition_Test.java"}],"sha":"acdec1105435b6febdfbe6f1be8bd8e44a827b20"}]
