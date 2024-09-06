@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -910,0 +910,6 @@\n+    if (task->is_scc()) {\n+      \/\/ AOT task, it should load fast, take it, and go.\n+      max_task = task;\n+      max_method = method;\n+      break;\n+    }\n","filename":"src\/hotspot\/share\/compiler\/compilationPolicy.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
