@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -853,1 +853,1 @@\n-    return new_method == nullptr ? Universe::throw_no_such_method_error() : new_method;\n+    return (new_method == nullptr || is_deleted()) ? Universe::throw_no_such_method_error() : new_method;\n","filename":"src\/hotspot\/share\/oops\/method.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
