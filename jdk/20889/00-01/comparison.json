@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,0 @@\n-import jdk.test.lib.compiler.InMemoryJavaCompiler;\n","filename":"test\/hotspot\/jtreg\/runtime\/condy\/CondyExtendedNullPointerTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
