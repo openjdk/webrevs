@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not try to classdata non-live lambda forms in pre-generation"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/GenerateJLIClassesHelper.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/InvokerBytecodeGenerator.java"}],"sha":"4f163cb2c2a66375521426e6c26327a80cbb4f0a"}]
