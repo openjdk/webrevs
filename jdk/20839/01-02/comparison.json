@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-    } while (errsysctl < 0 && maxRetries-- > 0);\n+    } while (errsysctl < 0 && errno == ENOMEM && maxRetries-- > 0);\n","filename":"src\/java.base\/macosx\/native\/libjava\/ProcessHandleImpl_macosx.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
