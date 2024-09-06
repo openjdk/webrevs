@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -455,0 +455,3 @@\n+    \/**\n+     * Get the string initial coder, When COMPACT_STRINGS is on, it returns 0, and when it is off, it returns 1.\n+     *\/\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/JavaLangAccess.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
