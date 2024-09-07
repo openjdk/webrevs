@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,0 +47,2 @@\n+        if (!abi.defaultLookup().find(\"statx\").isPresent())\n+            return false;\n","filename":"test\/jdk\/java\/nio\/file\/attribute\/BasicFileAttributeView\/CreationTimeHelper.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
