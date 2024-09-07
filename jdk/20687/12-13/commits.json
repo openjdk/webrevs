@@ -1,0 +1,1 @@
+[{"commit":{"message":"After JDK-JDK-8338696, the file birth time never get the epoch (0), so delete the SkippedException for epoch (0)"},"files":[{"filename":"test\/jdk\/java\/nio\/file\/attribute\/BasicFileAttributeView\/CreationTime.java"}],"sha":"a931938aabc8eb4645beb39e0e24c249a46bb39b"}]
