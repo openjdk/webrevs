@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,6 @@\n+    @Override\n+    public MethodBuilder withFlags(int flags) {\n+        setFlags(flags);\n+        return this;\n+    }\n+\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/DirectMethodBuilder.java","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
