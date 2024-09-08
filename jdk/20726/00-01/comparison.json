@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -518,1 +518,1 @@\n-        } else if (paramCount == 2 && constants[1] == null) {\n+        } else if (paramCount == 2 && constants[1].isEmpty()) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/StringConcatFactory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
