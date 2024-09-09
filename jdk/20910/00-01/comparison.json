@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1533,2 +1533,1 @@\n-        slli(t0, t0, 32);\n-        srli(t0, t0, 32);\n+        zext_w(t0, t0);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
