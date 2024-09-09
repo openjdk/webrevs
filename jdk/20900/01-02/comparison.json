@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n- * block. Concretely, there is no model of the abstract syntax tree\n+ * block. Concretely, there is no model of any abstract syntax tree\n","filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/element\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
