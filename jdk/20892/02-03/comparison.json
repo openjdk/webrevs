@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -441,1 +441,1 @@\n-                \/\/ integer overflow (timeout is an int) \n+                \/\/ integer overflow (timeout is an int)\n","filename":"src\/jdk.naming.dns\/share\/classes\/com\/sun\/jndi\/dns\/DnsClient.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
