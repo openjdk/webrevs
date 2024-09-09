@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove redundant arguments, test with -XX:-UseDivMod"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/compile.hpp"},{"filename":"src\/hotspot\/share\/opto\/node.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestDivModNodes.java"}],"sha":"6c604d25806bbe5d140dfa12a2e8081dfebf2a19"}]
