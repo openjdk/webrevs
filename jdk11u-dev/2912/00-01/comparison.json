@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-                    \"The dialogs should be displayed even when \" +\n+                    \"The dialogs should be displayed even when \\n\" +\n","filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/SecurityDialogTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
