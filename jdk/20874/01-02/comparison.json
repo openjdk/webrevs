@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -851,0 +851,1 @@\n+    assert(is_old(), \"must be\");\n","filename":"src\/hotspot\/share\/oops\/method.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
