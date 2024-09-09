@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-template <DecoratorSet decorators = DECORATORS_NONE>\n+template <DecoratorSet decorators>\n","filename":"src\/hotspot\/share\/oops\/oopHandle.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
