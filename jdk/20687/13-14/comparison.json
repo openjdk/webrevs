@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,7 +24,1 @@\n-#if (__STDC_VERSION__ >= 199901L)\n-  #include <stdbool.h>\n-#else\n-  #define bool int\n-  #define true 1\n-  #define false 0\n-#endif\n+#include <stdbool.h>\n","filename":"test\/jdk\/java\/nio\/file\/attribute\/BasicFileAttributeView\/libCreationTimeHelper.c","additions":1,"deletions":7,"binary":false,"changes":8,"status":"modified"}]}
