@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-        \/\/ for processes started rigth after the first sysctl call\n+        \/\/ for processes started right after the first sysctl call\n","filename":"src\/java.base\/macosx\/native\/libjava\/ProcessHandleImpl_macosx.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
