@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -515,0 +515,5 @@\n+# Wayland related\n+\n+java\/awt\/Mouse\/EnterExitEvents\/ResizingFrameTest.java 8332158 linux-x64\n+java\/awt\/FullScreen\/FullscreenWindowProps\/FullscreenWindowProps.java 8280991 linux-x64\n+\n","filename":"test\/jdk\/ProblemList.txt","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
