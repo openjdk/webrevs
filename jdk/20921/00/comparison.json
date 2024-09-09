@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1048,0 +1048,4 @@\n+  if (!UseAPX) {\n+    _features &= ~CPU_APX_F;\n+  }\n+\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
