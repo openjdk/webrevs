@@ -1,0 +1,1 @@
+[{"commit":{"message":"Extend createWithDefaultForNested to look for @since in the package"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/taglets\/SimpleTaglet.java"},{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testSinceTag\/TestSinceTag.java"}],"sha":"b79262ad30a0c0200c7653fc5f1f2fbffd708da7"}]
