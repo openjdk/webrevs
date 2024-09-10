@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4729,2 +4729,2 @@\n-                dirMode = 0755\n-                fileMode = 0755\n+                dirPermissions { unix(0755) }\n+                filePermissions { unix(0755) }\n","filename":"build.gradle","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
