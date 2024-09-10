@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid boxing when concatenating a string with a primitive"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ReflectMethods.java"},{"filename":"test\/langtools\/tools\/javac\/reflect\/StringConcatTest.java"}],"sha":"bf55c1c0bda68c8d388e7b95860cd52edebb76cb"}]
