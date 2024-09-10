@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-product(bool, EnableAllLargePageSizesForWindows, false, EXPERIMENTAL,     \\\n+product(bool, EnableAllLargePageSizesForWindows, false,                   \\\n","filename":"src\/hotspot\/os\/windows\/globals_windows.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
