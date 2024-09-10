@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8339548: GHA: RISC-V: Use Debian snapshot archive for bootstrap"},"files":[{"filename":".github\/workflows\/build-cross-compile.yml"}],"sha":"19c7188b0fe430ca79eee1ac2aa3946eedde2e40"}]
