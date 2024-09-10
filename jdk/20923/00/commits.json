@@ -1,0 +1,1 @@
+[{"commit":{"message":"Hardening Thread::beforeSleep to not be able to throw OOME as per Alan Batemans ThreadSleepEvent.patch"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Thread.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/event\/ThreadSleepEvent.java"}],"sha":"64bb44a94eadc1684b497782cd7bf5532cc93276"}]
