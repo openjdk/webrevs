@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -177,1 +177,1 @@\n-        \/\/ Can't print the now free'd symbol's value, but we just printed it above.\n+        \/\/ Can't access the symbol after Afree, but we just printed it above.\n","filename":"src\/hotspot\/share\/classfile\/symbolTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
