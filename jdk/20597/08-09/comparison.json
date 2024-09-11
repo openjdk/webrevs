@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1196,1 +1196,1 @@\n-  if (name == NULL || *name == 0) {\n+  if (name == NULL || name[0] == 0) {\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
