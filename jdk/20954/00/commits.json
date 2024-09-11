@@ -1,0 +1,1 @@
+[{"commit":{"message":"8339954: Print JVMCI names with the Compiler.{permap,codelist,CodeHeap_Analytics} diagnostic commands"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/codeHeapState.cpp"}],"sha":"a52e3c910e806546423323362130134bbd67e91e"}]
