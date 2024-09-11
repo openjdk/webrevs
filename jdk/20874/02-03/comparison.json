@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -854,0 +854,1 @@\n+    assert(new_method != nullptr || is_deleted(), \"must be\");\n","filename":"src\/hotspot\/share\/oops\/method.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
