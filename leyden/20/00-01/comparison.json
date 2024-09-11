@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -679,0 +679,1 @@\n+#ifdef _LP64\n@@ -684,0 +685,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/code\/SCCache.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
