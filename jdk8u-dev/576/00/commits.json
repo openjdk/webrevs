@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8339882: Replace ThreadLocalStorage::thread with Thread::current_or_null in jdk8 backport of JDK-8183925"},"files":[{"filename":"hotspot\/src\/os\/posix\/vm\/os_posix.cpp"},{"filename":"hotspot\/src\/os\/windows\/vm\/os_windows.cpp"},{"filename":"hotspot\/src\/share\/vm\/runtime\/os.cpp"}],"sha":"cb59935d4bb8ebe9342badab61f29c364f53f487"}]
