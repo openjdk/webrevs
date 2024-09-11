@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-                \"-Xmx20m\",\n+                \"-Xmx50m\",\n","filename":"test\/hotspot\/jtreg\/runtime\/8339725\/Test8339725.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
