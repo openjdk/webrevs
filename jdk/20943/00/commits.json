@@ -1,0 +1,1 @@
+[{"commit":{"message":"8306679: com\/sun\/jdi\/InterruptHangTest.java asserts with -Xcomp -Dmain.wrapper=Virtual options"},"files":[{"filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp"},{"filename":"test\/jdk\/ProblemList-Xcomp.txt"}],"sha":"3f40efefe6dff6e56b53e1bdae0a482129bceda4"}]
