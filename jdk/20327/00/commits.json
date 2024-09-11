@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Make a few fields in SortingFocusTraversalPolicy static\n\n2 fields in javax.swing.SortingFocusTraversalPolicy could be made 'static':\n1. FORWARD_TRAVERSAL = 0\n2. BACKWARD_TRAVERSAL = 1"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/SortingFocusTraversalPolicy.java"}],"sha":"42f2ce1bbe8a47f527ec7f5ed9a61c261b7ef7cd"}]
