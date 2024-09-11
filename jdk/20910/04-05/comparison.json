@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1645,1 +1645,0 @@\n-    j(L_exit);\n@@ -1649,0 +1648,2 @@\n+    j(L_exit); \/\/ only need to jump exit when UseRVV == true, it's a jump from end of block `L_by1_loop`.\n+\n@@ -1656,1 +1657,0 @@\n-    j(L_exit);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
