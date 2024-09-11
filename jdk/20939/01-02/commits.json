@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert some field read ordering changes to make the PR easier to review. Move nlen read to the common path."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipFile.java"}],"sha":"b6de843b5d662295acd4308ec743bea050f6d007"}]
