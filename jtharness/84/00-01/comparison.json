@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -285,1 +285,1 @@\n-            <batchtest fork=\"true\" todir=\"${report.dir}\" unless=\"testfile\">\n+            <batchtest fork=\"true\" todir=\"${report.dir}\">\n","filename":"gui-tests\/src\/build.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
