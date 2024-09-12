@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340027: [lw5] the ACC_STRICT flag is not being set for non-nullable static fields"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Check.java"},{"filename":"test\/langtools\/tools\/javac\/nullability\/NullabilityCompilationTests.java"}],"sha":"e0a49052227072be7da22e18a8e8044d195acdeb"}]
