@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace call to ::sprintf() by os::snprintf()"},"files":[{"filename":"src\/hotspot\/share\/code\/codeHeapState.cpp"}],"sha":"0c3fbb7a9a83caba1e5d63df84077a66ef14d8ee"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -743,1 +743,1 @@\n-              ::sprintf(new_blob_name, \"%s jvmci_name=%s\", blob_name, jvmci_name);\n+              os::snprintf(new_blob_name, size, \"%s jvmci_name=%s\", blob_name, jvmci_name);\n","filename":"src\/hotspot\/share\/code\/codeHeapState.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
