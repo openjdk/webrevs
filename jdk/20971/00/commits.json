@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340012: [C2] assert(KlassEncodingMetaspaceMax > pd) failed: change encoding max if new encoding after 8338526"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciKlass.hpp"},{"filename":"src\/hotspot\/share\/oops\/compressedKlass.inline.hpp"},{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"a6a0bdf70ce2b1dbc8420b89076926c3582a217e"}]
