@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,2 +35,0 @@\n-import java.util.Base64;\n-\n@@ -38,1 +36,0 @@\n-import jdk.test.lib.Platform;\n@@ -45,1 +42,0 @@\n-import java.io.IOException;\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/GetMethodDeclaringClass\/TestUnloadedClass.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
