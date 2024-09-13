@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @requires vm.cpu.features ~= \".*v,.*\"\n+ * @requires vm.cpu.features ~= \".*rvv.*\"\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestRoundVectRiscv64.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
