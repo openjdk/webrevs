@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run main\/othervm\/timeout=300 TestUnloadedClass\n+ * @run driver\/timeout=300 TestUnloadedClass\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/GetMethodDeclaringClass\/TestUnloadedClass.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
