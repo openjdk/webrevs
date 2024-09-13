@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3338,1 +3338,1 @@\n-        if (scaleFactor > -3 * DoubleConsts.EXP_BIAS) {\n+        if (scaleFactor > -2 * DoubleConsts.EXP_BIAS - PRECISION) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Math.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
