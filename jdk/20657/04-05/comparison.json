@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1011,1 +1011,1 @@\n-        for(int i = 0; i < testCases.length; i++) {\n+        for (int i = 0; i < testCases.length; i++) {\n","filename":"test\/jdk\/java\/lang\/Math\/HyperbolicTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
