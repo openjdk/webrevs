@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -579,0 +579,4 @@\n+  if (heap->is_bitmap_slice_committed(this)) {\n+    heap->marking_context()->clear_bitmap(this);\n+  }\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
