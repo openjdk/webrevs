@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,0 +119,1 @@\n+      output.reportDiagnosticSummary();\n@@ -132,1 +133,0 @@\n-              output.reportDiagnosticSummary();\n@@ -141,1 +141,0 @@\n-          output.reportDiagnosticSummary();\n","filename":"test\/hotspot\/jtreg\/runtime\/Thread\/TestAlwaysPreTouchStacks.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
