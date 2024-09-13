@@ -1,0 +1,1 @@
+[{"commit":{"message":"8292867: RISC-V: Simplify weak CAS return value handling"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"ebf1e29d243b388e72450fe82ea50b281a072a6c"}]
