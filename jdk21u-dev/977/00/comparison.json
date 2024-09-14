@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @requires vm.cds\n+ * @requires vm.cds & vm.flagless\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/DeterministicDump.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
