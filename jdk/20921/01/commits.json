@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' of http:\/\/github.com\/openjdk\/jdk into JDK-8339793"},"files":[],"sha":"86d90d7c9504acbf2339af1100a49bb7e089faba"},{"commit":{"message":"8339793: Fix incorrect APX feature enabling with -XX:-UseAPX."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"bb6ebe5ad8a8d238f55e0e94c6900e9b6c0bf421"}]
