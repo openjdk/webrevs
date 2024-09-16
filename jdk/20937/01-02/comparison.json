@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -198,1 +198,1 @@\n- * to extend {@link AbstractProcessor} rather than implement this\n+ * to extend {@link AbstractProcessor} rather than implementing this\n","filename":"src\/java.compiler\/share\/classes\/javax\/annotation\/processing\/Processor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
