@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed lifting of INVOKESPECIAL + TestSmallCorpus skipping when UnsupportedOperationException"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeLift.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestSmallCorpus.java"}],"sha":"c5291987a84b63ccd7b3b48235776f448659ab68"}]
