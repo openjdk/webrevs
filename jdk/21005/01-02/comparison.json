@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n- * @summary Verifies that ctrl+left\/right does not move word-by-word in a TexField\n+ * @summary Verifies that ctrl+left\/right does not move word-by-word in a TextField\n","filename":"test\/jdk\/java\/awt\/TextField\/SetEchoCharWordOpsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
