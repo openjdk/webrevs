@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-    $1_JAVA_ARGS += -ms8m\n+    $1_JAVA_ARGS += -Xms8m\n","filename":"make\/common\/modules\/LauncherCommon.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
