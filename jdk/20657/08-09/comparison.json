@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -972,0 +972,2 @@\n+        failures += testTanhAdditionalTests();\n+\n","filename":"test\/jdk\/java\/lang\/Math\/HyperbolicTests.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
