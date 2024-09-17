@@ -1,0 +1,1 @@
+[{"commit":{"message":"treat -version: -jre-restrict-search and -jre-no-restrict-search like any other unknown option"},"files":[{"filename":"src\/java.base\/share\/native\/libjli\/emessages.h"},{"filename":"src\/java.base\/share\/native\/libjli\/java.c"},{"filename":"test\/jdk\/tools\/launcher\/MultipleJRERemoved.java"}],"sha":"04bf9f4aeaef51e2b1743e79dea38f7591855956"}]
