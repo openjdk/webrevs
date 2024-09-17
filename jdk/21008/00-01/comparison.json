@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,3 +55,0 @@\n-        if (\"sun.awt.motif.MToolkit\".equals(Toolkit.getDefaultToolkit().getClass().getName())) {\n-            return;\n-        }\n","filename":"test\/jdk\/java\/awt\/Focus\/MinimizeNonfocusableWindowTest.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
