@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1158,1 +1158,1 @@\n-      int n_members = MIN(count, 2);\n+      int n_members = MIN2(count, 2);\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
