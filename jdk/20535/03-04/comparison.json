@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,0 +54,6 @@\n+        \/*\n+          package sample;\n+          public class MissingVariable {\n+            public A f; \/\/ undeclared type variable\n+          }\n+         *\/\n","filename":"test\/jdk\/java\/lang\/reflect\/Generics\/TestMissingTypeVariable.java","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
