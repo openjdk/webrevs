@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,1 +256,1 @@\n-            var newPtypes = new Class<?>[ptypes.length + (doesAlloc ? 2 : 1)];\n+            var newPtypes = new Class<?>[ptypes.length + 2];\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/DirectMethodHandle.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
