@@ -1,0 +1,1 @@
+[{"commit":{"message":"Method name AOTClassInitializer::has_non_default_static_fields\nshould be has_default_static_fields\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotClassInitializer.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotClassInitializer.hpp"}],"sha":"64e666f376f89fb30f75425296951dc8bb3572f6"}]
