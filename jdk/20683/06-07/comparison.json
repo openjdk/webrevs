@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -374,0 +374,4 @@\n+#ifndef MAX_PATH\n+#define MAX_PATH    (2 * K)\n+#endif\n+\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
