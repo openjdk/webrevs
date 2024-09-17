@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -375,1 +375,1 @@\n-  static const char* path = \"\\\\1234567890123456789\";\n+  static const char* path = \"\/1234567890123456789\";\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
