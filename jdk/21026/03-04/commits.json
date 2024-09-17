@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixing typo in thrown keyword;\nRemoved windows platform because on modern windows platform the cursor position does always return 0 when all text selected."},"files":[{"filename":"test\/jdk\/java\/awt\/TextField\/CaretPositionTest\/CaretPositionTest.java"}],"sha":"e4804501827f40cd38d1e8581801dd843c0850ce"}]
