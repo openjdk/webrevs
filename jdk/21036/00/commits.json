@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340230: Tests crash: assert(is_in_encoding_range || k->is_interface() || k->is_abstract()) failed: sanity"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"7af0688f6a69e499687960af5f2b73c3a7f55c07"}]
