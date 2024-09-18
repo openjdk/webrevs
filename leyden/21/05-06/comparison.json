@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -494,1 +494,1 @@\n-    entry_point = Interpreter::entry_for_kind(native ? Interpreter::native \n+    entry_point = Interpreter::entry_for_kind(native ? Interpreter::native\n","filename":"src\/hotspot\/share\/interpreter\/templateInterpreterGenerator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
