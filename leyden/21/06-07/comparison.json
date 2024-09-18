@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1249,0 +1249,1 @@\n+  set_is_end_training_trigger(false);\n","filename":"src\/hotspot\/share\/oops\/method.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

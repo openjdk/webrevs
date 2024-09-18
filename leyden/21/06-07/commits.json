@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clear the method flags before committing to the archive, so that we don't require 'trigger' methods outside of training"},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"}],"sha":"d41acfcd865cc402147558cd1d2e9df3e1f211f2"}]
