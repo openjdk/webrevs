@@ -1,0 +1,1 @@
+[{"commit":{"message":"Consistently use CCR0 in compiler_fast_lock_lightweight_object and compiler_fast_unlock_lightweight_object"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"}],"sha":"6581e5abd5628ad21ed8f2c01c1bee94a3ed286c"}]
