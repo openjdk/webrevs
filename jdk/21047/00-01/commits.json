@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340329: Pass the path into readLinkImpl instead of calling GetFinalPathNameByHandle"},"files":[{"filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsLinkSupport.java"},{"filename":"test\/jdk\/java\/nio\/file\/Files\/Links.java"}],"sha":"a117766be32b5b83dba7fee0d33a987f9e30ca0f"}]
