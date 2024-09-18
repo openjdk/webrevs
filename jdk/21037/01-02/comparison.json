@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -570,1 +570,0 @@\n-  void    stress_trap(IfNode* orig_iff, Node* counter, Node* incr_store);\n@@ -616,0 +615,2 @@\n+  \/\/ Stress unstable if traps\n+  void stress_trap(IfNode* orig_iff, Node* counter, Node* incr_store);\n","filename":"src\/hotspot\/share\/opto\/parse.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
