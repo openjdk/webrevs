@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-                .testUI(obj.createAndShowUI())\n+                .testUI(obj::createAndShowUI)\n@@ -83,0 +83,1 @@\n+    @Override\n","filename":"test\/jdk\/java\/awt\/MenuItem\/LotsOfMenuItemsTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
