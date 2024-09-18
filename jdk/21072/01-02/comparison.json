@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1151,1 +1151,1 @@\n-    st->print(INTPTR_FORMAT \" is a pointer %u\/%lu into block %zu\",\n+    st->print(INTPTR_FORMAT \" is a pointer %u\/\" SIZE_FORMAT \" into block %zu\",\n","filename":"src\/hotspot\/share\/gc\/shared\/oopStorage.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
