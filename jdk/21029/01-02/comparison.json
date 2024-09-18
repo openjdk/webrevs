@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,1 @@\n+ * @requires os.family == \"windows\"\n","filename":"test\/jdk\/java\/awt\/MenuItem\/LotsOfMenuItemsTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
