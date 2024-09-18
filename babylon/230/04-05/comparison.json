@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2984,0 +2984,3 @@\n+            \/\/ @@@ we may need to add info about the type of the record component\n+            \/\/ this info can be used when lowering\n+\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/op\/ExtendedOp.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
