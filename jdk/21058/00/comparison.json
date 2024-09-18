@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1135,1 +1135,0 @@\n-        KeyStore cakstore = buildTrustedCerts();\n@@ -1144,0 +1143,1 @@\n+            KeyStore cakstore = buildTrustedCerts();\n","filename":"src\/java.base\/share\/classes\/sun\/security\/tools\/keytool\/Main.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
