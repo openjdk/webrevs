@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,2 @@\n-\n+        dprintln (\"sender endpoint == \" + s1.getLocalSocketAddress());\n+        dprintln (\"echo endpoint == \" + s2.getLocalSocketAddress());\n","filename":"test\/jdk\/java\/net\/ipv6tests\/Tests.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
