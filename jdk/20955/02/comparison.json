@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1152,0 +1152,1 @@\n+    ik->set_shared_loading_failed();\n@@ -1156,0 +1157,1 @@\n+    ik->set_shared_loading_failed();\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
