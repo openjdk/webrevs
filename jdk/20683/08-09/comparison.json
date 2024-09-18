@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1205,1 +1205,0 @@\n-#ifndef _WIN64\n@@ -1210,1 +1209,0 @@\n-#endif\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
