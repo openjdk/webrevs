@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,0 @@\n-\n@@ -29,1 +28,2 @@\n-#include \"runtime\/os.hpp\"\n+#include \"os_windows.hpp\"\n+#include \"runtime\/vm_version.hpp\"\n","filename":"src\/hotspot\/os\/windows\/memMapPrinter_windows.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
