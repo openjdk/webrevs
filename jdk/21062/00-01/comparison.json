@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-         1. This test is for Win32 and Linux only.\n+         1. This test is for Windown and Linux only.\n","filename":"test\/jdk\/java\/awt\/Robot\/RobotScrollTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
