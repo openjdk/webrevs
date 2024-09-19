@@ -1,0 +1,1 @@
+[{"commit":{"message":"Track unfulfilled timeouts during UDP queries.\nUpdate exceptions handling.\nUpdate TCP client to use nano time source."},"files":[{"filename":"src\/jdk.naming.dns\/share\/classes\/com\/sun\/jndi\/dns\/DnsClient.java"}],"sha":"70922207dcf5d587fb96e4343d05a6dd1361ff0c"}]
