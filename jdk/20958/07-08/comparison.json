@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    \/\/   object identity than the value referenced the the Wrapper enums.\n+    \/\/   object identity than the value referenced by the the Wrapper enums.\n","filename":"src\/hotspot\/share\/cds\/aotClassInitializer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
