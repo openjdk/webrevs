@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340405: JavaFX shutdown hook can hang preventing app from exiting"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/QuantumToolkit.java"}],"sha":"aed4f026192f067eb915069f1d6869e221ce201e"}]
