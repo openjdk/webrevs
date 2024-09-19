@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,1 @@\n+using ::testing::Not;\n@@ -120,0 +121,1 @@\n+          ASSERT_THAT(ss.freeze(), Not(HasSubstr(\"(unaligned)\")));\n","filename":"test\/hotspot\/gtest\/gc\/shared\/test_oopStorageSet.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
