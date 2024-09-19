@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,0 @@\n-        \n@@ -74,1 +73,1 @@\n-        if (device.getPressedPoints() == 2) {\n+        if ((device != null) && (device.getPressedPoints() == 2)) {\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/com\/sun\/glass\/ui\/monocle\/RotateTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
