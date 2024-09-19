@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify LIR_Assembler::emit_load_klass()"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/c1_LIRAssembler_x86.cpp"}],"sha":"b25a4b691e1c2b4e0314e5fcba28e1b6ffe79b5e"}]
