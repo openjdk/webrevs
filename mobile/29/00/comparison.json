@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-ifeq ($(call isTargetOs, macosx), true)\n+ifeq ($(call isTargetOs, macosx ios), true)\n","filename":"make\/modules\/java.prefs\/Lib.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
