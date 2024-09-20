@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -435,3 +435,0 @@\n-\/\/#else if defined(__APPLE_)\n- \/\/ EXPECT_TRUE(returnedBuffer == nullptr);\n- \/\/ EXPECT_TRUE(errno == ENOENT);\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
