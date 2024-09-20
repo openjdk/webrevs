@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -175,0 +175,2 @@\n+  \/\/ If the stack size is zero (i.e. no stack assigned yet), then return false.\n+  if (t->stack_size() == 0) return false;\n","filename":"src\/hotspot\/share\/nmt\/memMapPrinter.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
