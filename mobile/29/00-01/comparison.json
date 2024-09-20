@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-# libprefs on macosx does not use the unix code\n+# libprefs on macosx or ios does not use the unix code\n","filename":"make\/modules\/java.prefs\/Lib.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
