@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n- * multi-release jar file, the content of a versioned entry is verfieid against\n+ * multi-release jar file, the content of a versioned entry is verified against\n","filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
