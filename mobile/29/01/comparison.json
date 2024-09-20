@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,2 +32,2 @@\n-# libprefs on macosx does not use the unix code\n-ifeq ($(call isTargetOs, macosx), true)\n+# libprefs on macosx or ios does not use the unix code\n+ifeq ($(call isTargetOs, macosx ios), true)\n","filename":"make\/modules\/java.prefs\/Lib.gmk","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
