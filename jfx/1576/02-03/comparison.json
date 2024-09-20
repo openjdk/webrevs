@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,2 +69,1 @@\n-            }\n-            catch (NoSuchMethodException e) {\n+            } catch (NoSuchMethodException e) {\n","filename":"modules\/javafx.base\/src\/test\/java\/test\/javafx\/beans\/property\/adapter\/ReadOnlyJavaBeanPropertyTestBase.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
