@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @summary focus lost in text fields or text areas, unable to enter characters from keyboar\n+ * @summary focus lost in text fields or text areas, unable to enter characters from keyboard\n","filename":"test\/jdk\/java\/awt\/Focus\/ComponentLostFocusTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
