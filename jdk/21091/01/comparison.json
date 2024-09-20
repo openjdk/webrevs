@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -212,1 +212,1 @@\n-  if (T != nullptr && vma_touches_thread_stack(from, to, T)) {                  \\\n+  if (T != nullptr && T->stack_size() != 0 && vma_touches_thread_stack(from, to, T)) { \\\n","filename":"src\/hotspot\/share\/nmt\/memMapPrinter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
