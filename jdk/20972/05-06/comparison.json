@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3087,1 +3087,1 @@\n-        NEXT = MhUtil.findVarHandle(l, \"next\", Completion.class);\n+        NEXT = MhUtil.findVarHandle(l, Completion.class, \"next\", Completion.class);\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/CompletableFuture.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
