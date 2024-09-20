@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-    private final static MultiResourceBundle BUNDLE;\n+    private static final MultiResourceBundle BUNDLE;\n","filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/I18N.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
