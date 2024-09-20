@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2064,0 +2064,1 @@\n+                    this.pos = pos;\n","filename":"src\/java.base\/share\/classes\/java\/io\/ObjectOutputStream.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
