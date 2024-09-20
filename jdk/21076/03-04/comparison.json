@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n- * implementation classes.  Charset providers are made available by\n+ * implementation classes.  Charset providers are deployed by\n","filename":"src\/java.base\/share\/classes\/java\/nio\/charset\/spi\/CharsetProvider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
