@@ -1,0 +1,1 @@
+[{"commit":{"message":"Inherit from ConditionalMutexLocker. Use current_or_null_safe instead of current_or_null."},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.hpp"}],"sha":"07a2f4c282840c83aeec4b1dcae244bc93155697"}]
