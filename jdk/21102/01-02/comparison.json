@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,1 @@\n-#ifndef DEBUG\n+#ifdef ASSERT\n","filename":"src\/hotspot\/share\/runtime\/thread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
