@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,2 +90,0 @@\n-  \/\/ Size (in elements) of a partial objArray task chunk.\n-  size_t _partial_objarray_chunk_size;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ParScanThreadState.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
