@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,0 +89,5 @@\n+    # See JDK-8340341\n+    ifeq \"$(firstword $(subst ., ,$(CXX_VERSION_NUMBER)))\" \"16\"\n+      BUILD_LIBJVM_stackMapTable.cpp_CXXFLAGS := \"-O1\"\n+    endif\n+\n","filename":"make\/hotspot\/lib\/JvmOverrideFiles.gmk","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
