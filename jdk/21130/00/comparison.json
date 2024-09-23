@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -236,3 +236,0 @@\n-#ifdef PROCESSOR_ARCHITECTURE_IA64\n-    case PROCESSOR_ARCHITECTURE_IA64: return \"ia64\";\n-#endif\n","filename":"src\/java.base\/windows\/native\/libjava\/java_props_md.c","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
