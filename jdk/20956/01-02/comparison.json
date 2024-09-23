@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -499,1 +499,1 @@\n-            lastNonWhite = bp - 1; \/\/ no not include newline or EOF\n+            lastNonWhite = bp - 1; \/\/ do not include newline or EOF\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/DocCommentParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
