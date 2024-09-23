@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4099,1 +4099,1 @@\n-  Atomic::release_store_fence(&_init_state, state);\n+  Atomic::release_store(&_init_state, state);\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
