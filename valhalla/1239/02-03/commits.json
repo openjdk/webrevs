@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add more regression tests for FP16 isFinite, isInfinite, isNaN"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Float16.java"},{"filename":"test\/jdk\/java\/lang\/Float16\/FP16ScalarOperations.java"}],"sha":"e965b58c14887c5fbcd53c8708d626d6669ff1b4"}]
