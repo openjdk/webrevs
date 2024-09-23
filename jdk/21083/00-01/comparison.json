@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,1 @@\n+      OPTIMIZATION := HIGH, \\\n@@ -48,1 +49,1 @@\n-      CFLAGS := $(CFLAGS_JDKLIB) -O3 -march=rv64gcv, \\\n+      CFLAGS := $(CFLAGS_JDKLIB) -march=rv64gcv, \\\n","filename":"make\/modules\/jdk.incubator.vector\/Lib.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
