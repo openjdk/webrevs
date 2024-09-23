@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -170,1 +170,1 @@\n-  #if defined(X86)\n+  #if defined(AMD64)\n","filename":"src\/hotspot\/share\/c1\/c1_Compiler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
