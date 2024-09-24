@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340838: Clean up MutableCallSite to use explicit release fence instead of AtomicInteger"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MutableCallSite.java"}],"sha":"a6e828b6bcab22109d715d42b902c50e50f3d8ed"}]
