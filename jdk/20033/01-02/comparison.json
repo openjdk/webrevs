@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,0 +37,3 @@\n+ * @run main\/othervm\n+ * -Xbatch -XX:-TieredCompilation\n+ * compiler.parsing.TestUnsafeArrayAccessWithNullBase\n","filename":"test\/hotspot\/jtreg\/compiler\/parsing\/TestUnsafeArrayAccessWithNullBase.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
