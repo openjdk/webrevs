@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -320,1 +320,1 @@\n-    raw_unextendedSP = getFP();\n+    \/\/ Nothing to do. senderForInterpreterFrame finds the correct unextendedSP.\n@@ -322,0 +322,1 @@\n+\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/ppc64\/PPC64Frame.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
