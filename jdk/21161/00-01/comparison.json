@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -492,1 +492,1 @@\n-  dump_at(loop_node->skip_strip_mined(LoopNode::EntryControl));\n+  dump_at(loop_node->skip_strip_mined()->in(LoopNode::EntryControl));\n","filename":"src\/hotspot\/share\/opto\/predicates.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
