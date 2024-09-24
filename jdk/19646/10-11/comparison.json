@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -361,1 +361,0 @@\n-  bool                  _stress_seed_is_initialized; \/\/ True if _stress_seed has been set\n","filename":"src\/hotspot\/share\/opto\/compile.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
