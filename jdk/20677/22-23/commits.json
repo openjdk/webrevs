@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve matching of loadNKlassCompactHeaders on aarch64"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.hpp"}],"sha":"2c4a7877e4ef94017c8155578d8cfc9342441656"}]
