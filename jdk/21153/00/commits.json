@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340793: Fix client build on AArch64 and arm after JDK-8337987"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/arm\/sharedRuntime_arm.cpp"}],"sha":"d065b04e44afe1fa07ae25edd87d93a66652f899"}]
