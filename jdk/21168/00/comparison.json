@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1081,0 +1081,1 @@\n+    case Interpreter::java_lang_math_tanh : \/* run interpreted *\/ break;\n","filename":"src\/hotspot\/cpu\/ppc\/templateInterpreterGenerator_ppc.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
