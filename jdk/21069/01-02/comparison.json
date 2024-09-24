@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-          \"on the HotSpot heap. Defaults to true if EnableJVMCIProduct is \" \\\n+          \"on the HotSpot heap. Defaults to true if EnableJVMCI is \"        \\\n","filename":"src\/hotspot\/share\/jvmci\/jvmci_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
