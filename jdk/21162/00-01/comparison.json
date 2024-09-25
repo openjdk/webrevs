@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n- * to select the test result, handles test timeout.\n+ * to select the test result, and handles test timeout.\n","filename":"test\/jdk\/java\/awt\/regtesthelpers\/PassFailJFrame.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
