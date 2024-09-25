@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use 'useTLS13PlusSpec()' instead of comparing the version to TLS13. This improves the odds that we won't need to fix this issue again when TLS1.4 comes out"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLTransport.java"}],"sha":"f72bab25949e52cd9d9cfa0695dea68f4f261a18"}]
