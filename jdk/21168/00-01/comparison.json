@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1227,0 +1227,1 @@\n+    case Interpreter::java_lang_math_tanh : \/* run interpreted *\/ break;\n","filename":"src\/hotspot\/cpu\/s390\/templateInterpreterGenerator_s390.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
