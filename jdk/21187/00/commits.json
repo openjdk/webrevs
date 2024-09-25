@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340679: compiler\/uncommontrap\/DeoptReallocFailure.java fails assert(!set || SafepointSynchronize::is_at_safepoint()) failed: set once or at safepoin"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"88ffa4239790e7512f606b120191467641d4c3bd"}]
