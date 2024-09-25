@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-import org.junit.Test;\n+import org.junit.jupiter.api.Test;\n","filename":"test\/junit\/apitest\/SerializationMethodsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
