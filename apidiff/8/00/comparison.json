@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,1 @@\n+        p = p.replace(File.separatorChar, '\/'); \/\/ normalize paths\n","filename":"src\/share\/classes\/jdk\/codetools\/apidiff\/report\/html\/DocPath.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
