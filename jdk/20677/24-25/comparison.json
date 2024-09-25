@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1824,1 +1824,1 @@\n-  if (LockingMode != LM_LIGHTWEIGHT) {\n+  if (LockingMode == LM_LEGACY) {\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
