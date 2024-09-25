@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-  for (int i = _ntags; i < _LogTag::MaxTags; i++) {\n+  for (size_t i = _ntags; i < LogTag::MaxTags; i++) {\n","filename":"src\/hotspot\/share\/logging\/logSelection.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
