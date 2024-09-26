@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reset bitmaps for unaffiliated regions in prepare_gc"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp"}],"sha":"8330f89cd102a3c66332a1f459f07a6a0fe6d136"}]
