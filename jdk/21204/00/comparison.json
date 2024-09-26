@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-      if (storage->print_containing((oop*) aligned_addr, st)) {\n+      if (storage != nullptr && storage->print_containing((oop*) aligned_addr, st)) {\n","filename":"src\/hotspot\/share\/gc\/shared\/oopStorageSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
