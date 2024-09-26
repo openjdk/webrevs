@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make sure that we record every error instead of stopping at the first error in a particular CPE"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/verifier\/ParserVerifier.java"}],"sha":"f157286534f69d728726fac96986b78d583adda4"}]
