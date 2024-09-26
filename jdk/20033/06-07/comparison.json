@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2367,1 +2367,1 @@\n-  if (_gvn.type(base)->isa_ptr() == TypePtr::NULL_PTR) {\n+  if (_gvn.type(base->uncast())->isa_ptr() == TypePtr::NULL_PTR) {\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
