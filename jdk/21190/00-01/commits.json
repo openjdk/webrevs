@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename Compiler.isLibgraalEnabled to isLibgraalJIT"},"files":[{"filename":"test\/jtreg-ext\/requires\/VMProps.java"},{"filename":"test\/lib\/jdk\/test\/whitebox\/code\/Compiler.java"}],"sha":"59a8ed3c876e6084f95cd15dffa1403b263b8048"}]
