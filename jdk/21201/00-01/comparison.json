@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-                        \"-subpackages\", \"pkg\")\n+                         \"-subpackages\", \"pkg\")\n@@ -73,1 +73,0 @@\n-\n","filename":"test\/langtools\/jdk\/javadoc\/tool\/subpackageNoModules\/SubpackageNoModules.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
