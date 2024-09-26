@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,1 @@\n-            If the local time in the control panel and test window are always the same,\n+            If the local time in the Settings app and test window are always the same,\n","filename":"test\/jdk\/java\/util\/TimeZone\/DefaultTimeZoneTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
