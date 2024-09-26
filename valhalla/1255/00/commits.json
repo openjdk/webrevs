@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341005: [lworld+fp16] Revert intrinsification of Float16.abs and Float16.negate for x86 target"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"test\/jdk\/java\/lang\/Float16\/FP16ScalarOperations.java"}],"sha":"0f5954b53a1ae5a036064956cd9debe921987458"}]
