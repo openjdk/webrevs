@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -487,1 +487,1 @@\n-  if(klass->is_instance_klass() && InstanceKlass::cast(klass)->is_scratch_class()) {\n+  if (klass->is_instance_klass() && InstanceKlass::cast(klass)->is_scratch_class()) {\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrTypeSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
