@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,2 +66,0 @@\n-    \/\/ clear out this chunk (to detect allocation bugs)\n-    memset(k, 0xBE, k->_len);\n","filename":"src\/hotspot\/share\/adlc\/adlArena.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
