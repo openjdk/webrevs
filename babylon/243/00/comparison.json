@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,1 +114,1 @@\n-            invokedMethod = methodRef().resolveToMethod(lookup);\n+            invokedMethod = methodRef().resolveToMethod(lookup, op().invokeKind());\n","filename":"hat\/hat\/src\/main\/java\/hat\/optools\/InvokeOpWrapper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
