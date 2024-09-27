@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1637,1 +1637,1 @@\n-  size_in_bytes = rw_ptrmap->size_in_bytes() + ro_ptrmap->size_in_bytes();\n+  size_in_bytes = rw_ptrmap->size_in_bytes() + ro_ptrmap->size_in_bytes() + cc_ptrmap->size_in_bytes();\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
