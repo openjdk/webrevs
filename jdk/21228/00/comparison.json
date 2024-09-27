@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,0 +178,1 @@\n+  case Interpreter::java_lang_math_tanh:\n","filename":"src\/hotspot\/cpu\/arm\/templateInterpreterGenerator_arm.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
