@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n- * @run main AbsPathsInImage\n+ * @run main\/othervm -Xmx900m AbsPathsInImage\n","filename":"test\/jdk\/build\/AbsPathsInImage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
