@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,0 @@\n-        frame0.setLocation(200, 300);\n@@ -111,1 +110,0 @@\n-        frame1.setLocation(500 + HGAP, 300);\n","filename":"test\/jdk\/java\/awt\/dnd\/DragToAnotherScreenTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
