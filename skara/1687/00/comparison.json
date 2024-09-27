@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,0 +156,1 @@\n+                                     .filter(comment -> !comment.author().equals(pr.repository().forge().currentUser()))\n","filename":"bots\/bridgekeeper\/src\/main\/java\/org\/openjdk\/skara\/bots\/bridgekeeper\/PullRequestPrunerBot.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
