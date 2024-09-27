@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,0 +173,2 @@\n+        \/\/ TODO: when APIDiff moves to JDK 21, thia can trivially become SequencedSet,\n+        \/\/       which would be useful in varoius places, such as PageReporter.getResultGlyph\n","filename":"src\/share\/classes\/jdk\/codetools\/apidiff\/Main.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
