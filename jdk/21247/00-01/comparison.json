@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -166,1 +166,1 @@\n-                return getObjectExtraSize() + length * objectSize;\n+                return getArrayExtraSize() + length * objectSize;\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/gc\/Memory.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
