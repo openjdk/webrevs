@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,0 @@\n-class ReferenceProcessor;\n@@ -39,1 +38,0 @@\n-class ParallelScavengeTracer;\n","filename":"src\/hotspot\/share\/gc\/parallel\/psScavenge.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
