@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also dispatch to slow-path on other arches"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/gc\/z\/zBarrierSetAssembler_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/gc\/z\/zBarrierSetAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/gc\/z\/zBarrierSetAssembler_x86.cpp"}],"sha":"4fe4a911362dda90a64af74bf94fc05506b584f1"}]
