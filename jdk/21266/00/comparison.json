@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -685,1 +685,2 @@\n-  return is_shenandoah_lrb_call(node) ||\n+  return (node->Opcode() == Op_ShenandoahLoadReferenceBarrier) ||\n+         is_shenandoah_lrb_call(node) ||\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahBarrierSetC2.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
