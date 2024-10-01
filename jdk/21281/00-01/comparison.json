@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-        fm  = KeyboardFocusManager.getCurrentKeyboardFocusManager();\n+        fm = KeyboardFocusManager.getCurrentKeyboardFocusManager();\n","filename":"test\/jdk\/java\/awt\/Window\/InvalidFocusLostEventTest\/InvalidFocusLostEventTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
