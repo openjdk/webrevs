@@ -1,0 +1,1 @@
+[{"commit":{"message":"[JVMCI] Export JavaThread::_unlocked_inflated_monitor to JVMCI"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp"}],"sha":"84ee2112988ca7b4ff30d2b4944a1c0e4694094d"}]
