@@ -1,0 +1,1 @@
+[{"commit":{"message":"8325937: runtime\/handshake\/HandshakeDirectTest.java causes \"monitor end should be strictly below the frame pointer\" assertion failure on AArch64"},"files":[{"filename":"src\/hotspot\/share\/runtime\/handshake.cpp"}],"sha":"ed17b70fb56ae5c39104b2b0832313d8615da78b"}]
