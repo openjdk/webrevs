@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n- * Unit tests for the {@code TextDiffBuilder} class.\n+ * Unit tests for the {@code HtmlDiffBuilder} class.\n","filename":"test\/junit\/apitest\/HtmlDiffBuilderTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
