@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -550,1 +550,1 @@\n-    static BYTE kbState[256] = {};\n+    BYTE kbState[256] = {};\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/ViewContainer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
