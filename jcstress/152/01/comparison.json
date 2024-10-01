@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -21,1 +21,1 @@\n-        os: [ubuntu-22.04, windows-2022, macos-11]\n+        os: [ubuntu-22.04, windows-2022, macos-13]\n","filename":".github\/workflows\/pre-integration.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
