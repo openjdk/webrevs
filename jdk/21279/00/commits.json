@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use the same number of JVMCI threads as C2 threads per default."},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmci_globals.hpp"}],"sha":"9e0a318831b5df4137104438626f22bb508cbc42"}]
