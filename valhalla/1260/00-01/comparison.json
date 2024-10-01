@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -411,1 +411,2 @@\n-        return valueOf(new BigDecimal(s));\n+        \/\/ TOOD: adjust precision of parsing if needed\n+        return valueOf(Double.parseDouble(s));\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Float16.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
