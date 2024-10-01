@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -341,1 +341,1 @@\n-            jmodDir.toString() + TEST_MODULE + \".jmod\"; \n+            jmodDir.toString() + TEST_MODULE + \".jmod\";\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/jigsaw\/modulepath\/ModulePathAndFMG.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
