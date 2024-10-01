@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -550,2 +550,2 @@\n-    static BYTE kbState[256];\n-    ::GetKeyboardState(kbState);\n+    BYTE kbState[256] = {};\n+    kbState[VK_SPACE] = 0x80;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/ViewContainer.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
