@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make sure we gracefully shutdown whatever happens, refix shutdown race"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveUtils.cpp"},{"filename":"src\/hotspot\/share\/cds\/archiveUtils.hpp"}],"sha":"7416a9bd928903c1395bc9c62a0a89066348ac86"}]
