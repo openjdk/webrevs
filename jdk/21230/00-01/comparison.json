@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -260,1 +260,1 @@\n-                        StatusInfo info = null;\n+                        StatusInfo info;\n@@ -272,0 +272,1 @@\n+                            continue;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/StatusResponseManager.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
