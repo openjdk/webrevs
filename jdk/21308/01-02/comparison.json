@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-  fi\n+  done\n","filename":".github\/scripts\/gen-build-failure-report.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
