@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -247,0 +247,1 @@\n+                    \/\/ unfulfilledServerTimeout is always >= 0\n","filename":"src\/jdk.naming.dns\/share\/classes\/com\/sun\/jndi\/dns\/DnsClient.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
