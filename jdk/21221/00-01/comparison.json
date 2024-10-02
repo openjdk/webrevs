@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -379,1 +379,1 @@\n-    \/\/ The byte size of each segment (except for the last one) is max_size.\n+    \/\/ The size of each segment (except for the last one) is max_size_in_{elems,bytes}.\n","filename":"src\/hotspot\/share\/cds\/archiveHeapLoader.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
