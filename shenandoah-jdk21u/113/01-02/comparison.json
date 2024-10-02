@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,4 +134,1 @@\n-  {\n-    ShenandoahHeapLocker locker(heap->lock());\n-    heap->free_set()->log_status();\n-  }\n+  heap->free_set()->log_status_under_lock();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGC.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
