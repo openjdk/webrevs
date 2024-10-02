@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341443: [macos] AppContentTest and SigningOptionsTest failed due to \"codesign\" does not fails with \"--app-content\" on macOS 15"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/macosx\/SigningOptionsTest.java"},{"filename":"test\/jdk\/tools\/jpackage\/share\/AppContentTest.java"}],"sha":"36bdeb6a9f40f818181477aefaed18b08b86794b"}]
