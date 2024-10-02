@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,4 @@\n-        run: bash make\/build.sh\n+        run: |\n+          java --version\n+          echo \"${{ runner.temp }}\/msys64\/mingw64\/bin\" >> $GITHUB_PATH\n+          bash make\/build.sh\n","filename":".github\/workflows\/test.yml","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
