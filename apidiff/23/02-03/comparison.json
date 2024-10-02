@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-          echo \"${{ runner.temp }}\/msys64\/mingw64\/bin\" >> $GITHUB_PATH\n+          echo \"\/c\/msys64\/usr\/bin\" >> $GITHUB_PATH\n","filename":".github\/workflows\/test.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
