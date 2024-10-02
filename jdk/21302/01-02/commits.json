@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not create worker threads too early: Mac\/Windows are not yet ready to use Semaphores"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveUtils.cpp"}],"sha":"594bc2e3329801d8f9f5774622b9c65c348ae5a5"}]
