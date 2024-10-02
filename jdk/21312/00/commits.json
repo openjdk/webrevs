@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8327114: fix to resolve permissions issue as per: 8341246"},"files":[{"filename":"src\/jdk.attach\/linux\/classes\/sun\/tools\/attach\/VirtualMachineImpl.java"}],"sha":"99a9b1b435623f69029f611cb886eb6c67617633"}]
