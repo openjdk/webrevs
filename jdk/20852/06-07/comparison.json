@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -723,1 +723,1 @@\n-    \/\/ Manually unlock if already holding lock when upon entering error reporting.\n+    \/\/ Manually unlock if already holding lock upon entering error reporting.\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
