@@ -1,0 +1,1 @@
+[{"commit":{"message":"address Chen's comment - provide a NPE setter whitelist in test"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/text\/DecimalFormatSymbols.java"},{"filename":"test\/jdk\/java\/text\/Format\/DecimalFormat\/DFSymbolsNullEqualityTest.java"}],"sha":"bd6b021cc84034d55eb6d262ade7ea19e520c1fe"}]
