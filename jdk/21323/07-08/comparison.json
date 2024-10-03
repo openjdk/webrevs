@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5261,1 +5261,1 @@\n-                i >= 0 && intVal.compareMagnitude(10L) >= 0; i--) {\n+                i >= 0 && intVal.compareMagnitude(5L) >= 0; i--) {\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
