@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5231,1 +5231,1 @@\n-     * @param n an integer such that {@code 0 <= n < POWERS_OF_5.length}\n+     * @param n an integer such that {@code 0 <= n < FIVE_TO_2_TO.length}\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
