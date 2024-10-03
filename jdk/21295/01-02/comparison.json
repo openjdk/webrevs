@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -704,0 +704,4 @@\n+  \/\/ Separate all the writes above for other threads reading state\n+  \/\/ set by this suspended thread.\n+  OrderAccess::fence();\n+\n","filename":"src\/hotspot\/share\/runtime\/handshake.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
