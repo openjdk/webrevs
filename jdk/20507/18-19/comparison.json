@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,1 +140,1 @@\n-     * @see VectorOperators#SADD\n+     * @see VectorOperators#SUADD\n@@ -167,1 +167,1 @@\n-     * @see VectorOperators#SSUB\n+     * @see VectorOperators#SUSUB\n","filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/VectorMath.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
