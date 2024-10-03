@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5241,1 +5241,1 @@\n-        for (int i = 0; zeroR && remainingZeros >= 1 << i; i++) {\n+        for (int i = 0; zeroR && remainingZeros >= 1L << i; i++) {\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
