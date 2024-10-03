@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-    private static Attribute<?>[] EMPTY_ATTRIBUTE_ARRAY = {};\n+    private static final Attribute<?>[] EMPTY_ATTRIBUTE_ARRAY = {};\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/AttributeHolder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
