@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5222,1 +5222,1 @@\n-    private static final BigInteger[] FIVE_TO_2_TO = new BigInteger[29];\n+    private static final BigInteger[] FIVE_TO_2_TO = new BigInteger[30];\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
