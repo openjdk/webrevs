@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid invoking out.printf() with unknown format strings that might contain escapes."},"files":[{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/internal\/jshell\/tool\/JShellTool.java"},{"filename":"test\/langtools\/jdk\/jshell\/StartupWithFormatSpecifierTest.java"}],"sha":"ab1c9b2b7277afda5a8b6614bdc81a2e551f1206"}]
