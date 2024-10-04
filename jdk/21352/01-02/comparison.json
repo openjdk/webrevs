@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,1 +114,1 @@\n-  const Address limit = r12;\n+  const Register limit = r12;\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_sha3.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
