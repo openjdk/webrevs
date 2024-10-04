@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5258,0 +5258,2 @@\n+        \/\/ avoid overflow of scale - preferredScale\n+        preferredScale = Math.clamp(preferredScale, Integer.MIN_VALUE - 1L, Integer.MAX_VALUE);\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
