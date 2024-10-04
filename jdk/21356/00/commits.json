@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clear pre-barrier bit of tightly-coupled initialization stores using bit clearing rather than toggling"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/c2\/g1BarrierSetC2.cpp"}],"sha":"85e7425d2b0262b59dcdc15578c4d707a801ce59"}]
