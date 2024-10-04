@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set __block_can_call_java to true for non compiler threads."},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"346f89825db703c7660cd0678c94f3a54fce9415"}]

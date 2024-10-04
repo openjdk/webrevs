@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,1 +193,1 @@\n-    __block_can_call_java = false;                         \\\n+    __block_can_call_java = true;                          \\\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
