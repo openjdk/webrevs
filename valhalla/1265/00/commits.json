@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341368: Refactor to use nextUp\/nextDown and scalb in Float16 impl. and tests"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Float16.java"},{"filename":"test\/jdk\/java\/math\/BigDecimal\/DoubleFloatValueTests.java"}],"sha":"db7da14165e6676265cd2dd38e33caac233d44b0"}]
