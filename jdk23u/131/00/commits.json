@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 7fa2f229fbee68112cbdd18b811d95721adfe2ec"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandle.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/LoopOverNonConstantAsType.java"}],"sha":"9ddead8b6e9282c1df345ad1b276bcd7168ec02c"}]
