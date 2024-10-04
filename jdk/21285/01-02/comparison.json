@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-  _can_call_java = c != nullptr && c->is_jvmci() && !UseJVMCINativeLibrary;\n+  _can_call_java = c != nullptr && c->is_jvmci() JVMCI_ONLY(&& !UseJVMCINativeLibrary);\n","filename":"src\/hotspot\/share\/compiler\/compilerThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"UseJVMCINativeLibrary check must be guarded by JVMCI_ONLY."},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerThread.cpp"}],"sha":"f687c82ef9ede1d9d02ca0965c896bcf658c450a"}]
