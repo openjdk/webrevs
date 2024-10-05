@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341562: RISC-V: Generate comments in -XX:+PrintInterpreter to link to source code"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/methodHandles_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/templateTable_riscv.cpp"}],"sha":"1ba36f6dd08ce9c5300d93e3f7c7e0ebd8243e93"}]
