@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5289,1 +5289,1 @@\n-                if (remainingZeros <= exp >> 2)\n+                if (remainingZeros < exp >> 1)\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
