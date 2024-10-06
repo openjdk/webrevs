@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @run testng\/othervm\/timeout=3200\n+ * @run testng\/native\/othervm\/timeout=3200\n","filename":"test\/jdk\/java\/foreign\/TestUpcallStress.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
