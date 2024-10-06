@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use compressed size instead of uncompressed size when determining the ZipFileInflaterInputStream input buffer size"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipFile.java"}],"sha":"7bdf33ebe8b48e4b6398f38feb59028cf80a8425"}]
