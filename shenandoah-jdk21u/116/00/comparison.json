@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2044,1 +2044,0 @@\n-  int count = 0;\n@@ -2054,1 +2053,0 @@\n-    count++;\n@@ -2058,1 +2056,1 @@\n-  if (count > 0) {\n+  if (linear > 0) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
