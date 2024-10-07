@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341639: Add float16ToShortBits(), signum(), copySign() to Float16"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Float16.java"},{"filename":"test\/jdk\/java\/lang\/Math\/IeeeRecommendedTests.java"},{"filename":"test\/jdk\/java\/lang\/Math\/Tests.java"}],"sha":"9fe9adc8afbdb382eec5eb404eae2f87e44df2a8"}]
