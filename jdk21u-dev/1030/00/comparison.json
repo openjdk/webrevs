@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -617,1 +617,0 @@\n-  int count = 0;\n@@ -625,1 +624,0 @@\n-      count++;\n@@ -629,1 +627,1 @@\n-  if (count > 0) {\n+  if (linear > 0) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
