@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341554: Shenandoah: Missing heap lock when updating usage for soft ref policy\n\nReviewed-by: kdnilsen, ysr"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"}],"sha":"a10c6a786232fdad2c8c866d9bb3dbc203b38cfc"}]
