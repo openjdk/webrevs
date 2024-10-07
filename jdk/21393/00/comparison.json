@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n- * @run main\/othervm -Djava.locale.providers=CLDR,SPI DateFormatProviderTest\n+ * @run main\/othervm\/timeout=300 -Djava.locale.providers=CLDR,SPI DateFormatProviderTest\n","filename":"test\/jdk\/java\/util\/PluggableLocale\/DateFormatProviderTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
