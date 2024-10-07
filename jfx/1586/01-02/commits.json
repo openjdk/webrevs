@@ -1,0 +1,1 @@
+[{"commit":{"message":"Let `createGraphics` fail if called after dispose"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/es2\/ES2SwapChain.java"}],"sha":"ad27a8d939675454bfdbff3560e085b7e702afd2"}]
