@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5267,1 +5267,1 @@\n-        \/\/ maxPowsOf5 == ceil(log5(intValt)) roughly\n+        \/\/ maxPowsOf5 == ceil(log5(intVal)) roughly\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
