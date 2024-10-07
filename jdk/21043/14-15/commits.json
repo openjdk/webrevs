@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set timeout values. The SSLSocket test fails on linux-x64 because nunber of hello+ packets there is less than 6"},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/TLSv13\/SSLSocketNoServerHelloClientShutdown.java"}],"sha":"b6f79f3640227786187ef800d02c3f45593df8c2"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,0 +90,1 @@\n+                socket.setSoTimeout(2000);\n@@ -122,0 +123,1 @@\n+                    clientSocket.setSoTimeout(500);\n","filename":"test\/jdk\/javax\/net\/ssl\/TLSv13\/SSLSocketNoServerHelloClientShutdown.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
