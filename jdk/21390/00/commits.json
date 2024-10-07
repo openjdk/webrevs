@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341643\n\nHi all,\n\n   please review this change that subtracts the dummy cards from the merge cards counter at the end of the phase to keep its value correct.\n\nTesting: gha, log messages\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp"}],"sha":"de1277fb5ef8a3b1a0b00f29fd77678b981d57aa"}]
