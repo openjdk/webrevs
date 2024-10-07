@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,2 +29,0 @@\n-import java.io.File;\n-import java.io.FileInputStream;\n@@ -40,0 +38,1 @@\n+\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/KeyStoreDelegator.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
