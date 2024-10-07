@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,1 +263,1 @@\n-      FLAG_SET_DEFAULT(CodeEntryAlignment, 16);\n+      FLAG_SET_DEFAULT(CodeEntryAlignment, 32);\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

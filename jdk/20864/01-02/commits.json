@@ -1,0 +1,1 @@
+[{"commit":{"message":"Relax CodeEntryAlignment. Default value is now 32B for Neoverse V1\/V2, as recommended in the Optimization Guide."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"0939006df18139c7254852e2034990bcb4b5925d"}]
