@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -706,1 +706,1 @@\n-        \/\/ rewrite to _W if index is > 256\n+        \/\/ rewrite to _W if index is >= 256\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/DirectCodeBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
