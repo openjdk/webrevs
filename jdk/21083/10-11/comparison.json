@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-      CFLAGS := -march=rv64gcv \\\n+      CFLAGS := -march=rv64gcv, \\\n","filename":"make\/modules\/jdk.incubator.vector\/Lib.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
