@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,0 +69,1 @@\n+        f.setSize(200, 200);\n@@ -81,2 +82,0 @@\n-        f.setSize(200, 200);\n-\n","filename":"test\/jdk\/java\/awt\/EventQueue\/PushPopDeadlock\/PushPopDeadlock.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
