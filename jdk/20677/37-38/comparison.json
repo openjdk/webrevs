@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n-  _compiler_stubs_code_size     = 20000 LP64_ONLY(+46000) WINDOWS_ONLY(+2000),\n+  _compiler_stubs_code_size     = 20000 LP64_ONLY(+47000) WINDOWS_ONLY(+2000),\n","filename":"src\/hotspot\/cpu\/x86\/stubRoutines_x86.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
