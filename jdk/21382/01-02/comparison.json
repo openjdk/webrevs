@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,0 +105,2 @@\n+    \/\/ qsort() may reverse the order of fields with the same size.\n+    \/\/ The extension is to ensure stable sort.\n","filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
