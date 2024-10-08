@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2258,1 +2258,1 @@\n-  mv(result, -1);\n+  mv(result, 1);\n@@ -2284,1 +2284,1 @@\n-    mv(result, -1);\n+    mv(result, 1);\n@@ -2313,1 +2313,1 @@\n-  mv(result, -1);\n+  mv(result, 1);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
