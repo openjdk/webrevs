@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Fix typo in InterpreterMacroAssembler::call_VM_preemptable"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/continuationFreezeThaw_riscv.inline.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/interp_masm_riscv.cpp"}],"sha":"335bfcd1ea89efcdb349523b8f7d6a2d251d8bbf"}]
