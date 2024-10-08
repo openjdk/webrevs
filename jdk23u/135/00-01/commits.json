@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341668: Shenandoah: assert(tail_bits < (idx_t)BitsPerWord) failed: precondition\n\nReviewed-by: ysr"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahSimpleBitMap.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahSimpleBitMap.inline.hpp"}],"sha":"826b0958aeef21f5b84a8552338cb92835badc46"}]
