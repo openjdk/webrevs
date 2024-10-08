@@ -1,0 +1,1 @@
+[{"commit":{"message":"Refactor patch to resolve AmbiguityError's eagerly within findMethod()."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Resolve.java"}],"sha":"64264cfd4eb4639eab4ac0749a36a13dd189afce"}]
