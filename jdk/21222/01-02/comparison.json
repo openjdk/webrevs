@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -750,1 +750,1 @@\n-  \/\/ We don't optimize memory graph for pinned loads, so we may need to raise the\n+  \/\/ We don't optimize the memory graph for pinned loads, so we may need to raise the\n","filename":"src\/hotspot\/share\/opto\/gcm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
