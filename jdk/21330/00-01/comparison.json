@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -198,1 +198,1 @@\n-        fatal(\"Should have been caught by verifier\");\n+        raw_code = code = Bytecodes::_illegal;\n","filename":"src\/hotspot\/share\/interpreter\/bytecodeStream.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
