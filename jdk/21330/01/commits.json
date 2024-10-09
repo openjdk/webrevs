@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed fatal()"},"files":[],"sha":"8b599317fe6f1430bd19b06c5a511cf39453d439"},{"commit":{"message":"8341444: Unnecessary check for JSRs in CDS"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"}],"sha":"9268ef489ae798eeb510091fc0bd506508a64f75"}]
