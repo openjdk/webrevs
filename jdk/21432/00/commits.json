@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix 32bit and windows builds"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPacer.cpp"}],"sha":"7d2eabdeaa9c5f62c1d60057213c7df411cee5a9"},{"commit":{"message":"Avoid divide-by-zero error"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPacer.cpp"}],"sha":"5c03fc30b8e2bab008406ebfe4f48f3730e2441d"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,0 +68,1 @@\n+  taxable = MAX2<size_t>(1, taxable);\n@@ -91,0 +92,1 @@\n+  taxable = MAX2<size_t>(1, taxable);\n@@ -115,0 +117,1 @@\n+  taxable = MAX2<size_t>(1, taxable);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPacer.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
