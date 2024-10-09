@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-                posX = l.getWidth() + 95;\n+                posX = l.getWidth() + 75;\n","filename":"test\/jdk\/java\/awt\/LightweightComponent\/MultipleAddNotifyTest\/MultipleAddNotifyTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
