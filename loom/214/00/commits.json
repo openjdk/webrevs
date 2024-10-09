@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Reserve one extra temp register for C2_MacroAssembler::fast_lock"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"ae0855f20e7aea8db4053e023e37859243f47604"}]
