@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1306,1 +1306,1 @@\n-  if (UseSHA && supports_avx2() && supports_bmi2()) {\n+  if (UseSHA && supports_avx2() && (supports_bmi2() || supports_sha512())) {\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
