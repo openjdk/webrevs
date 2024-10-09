@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,0 +139,3 @@\n+            if (frame != null) {\n+                frame.dispose();\n+            }\n@@ -216,0 +219,3 @@\n+        if (frame != null) {\n+            frame.dispose();\n+        }\n","filename":"test\/jdk\/java\/awt\/dnd\/DnDClipboardDeadlockTest.java","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
