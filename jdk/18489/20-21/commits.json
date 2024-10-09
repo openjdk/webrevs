@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove <= test cases, disable StressLongCountedLoop and PerMethodTrapLimit"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/parallel_iv\/TestParallelIvInIntCountedLoop.java"}],"sha":"845e34cc7a82ef5cb69620a12f487adaca9d2613"}]
