@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disallow NotifyFramePop for enter\/enter0\/VirtualThread.run\/VThreadContinuation.run"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/VirtualThread.java"}],"sha":"3317ea81016bc3ed35e805b87e6c4c688f46d6f8"}]
