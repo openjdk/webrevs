@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -440,0 +440,1 @@\n+#ifndef PRODUCT\n@@ -456,0 +457,1 @@\n+#endif\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
