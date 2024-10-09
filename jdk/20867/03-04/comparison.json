@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,2 +65,1 @@\n-        JColorChooser chooser = new JColorChooser(Color.BLUE);\n-        return chooser;\n+        return new JColorChooser(Color.BLUE);\n","filename":"test\/jdk\/javax\/swing\/plaf\/basic\/BasicSliderUI\/bug4419255.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
