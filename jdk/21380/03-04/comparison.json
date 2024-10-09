@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,2 @@\n-This tool is deprecated and will be removed in a future release.\n+This tool is \\f[B]experimental\\f[R] and unsupported.\n+It is deprecated and will be removed in a future release.\n","filename":"src\/java.scripting\/share\/man\/jrunscript.1","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
