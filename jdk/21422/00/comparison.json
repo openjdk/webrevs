@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -825,1 +825,1 @@\n-    testl(monitor, monitor);            \/\/ Fast Unlock ZF = 0\n+    orl(t, 1); \/\/ Fast Unlock ZF = 0\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
