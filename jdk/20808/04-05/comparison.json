@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -208,0 +208,1 @@\n+#ifdef ASSERT\n@@ -226,1 +227,2 @@\n-}\n\\ No newline at end of file\n+}\n+#endif \/\/ ASSERT\n\\ No newline at end of file\n","filename":"test\/hotspot\/gtest\/utilities\/test_align.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
