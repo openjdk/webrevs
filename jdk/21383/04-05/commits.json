@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace LogDecorators::Decorator::NoDecorator with LogDecorators::None"},"files":[{"filename":"src\/hotspot\/share\/logging\/logDecorators.hpp"},{"filename":"src\/hotspot\/share\/logging\/logSelectionList.cpp"},{"filename":"test\/hotspot\/gtest\/logging\/test_logDefaultDecorators.cpp"}],"sha":"5c933c063a9807e2be8c5b30dbc4ce72bb479d13"}]
