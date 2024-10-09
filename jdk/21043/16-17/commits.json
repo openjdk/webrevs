@@ -1,0 +1,1 @@
+[{"commit":{"message":"Write and read to\/from server in a single pass. Use SocketChannel."},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/TLSv13\/SSLEngineNoServerHelloClientShutdown.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/TLSv13\/SSLSocketNoServerHelloClientShutdown.java"}],"sha":"d7237a59dac7d620cbfc4ac8c82a6d2b75a76999"}]
