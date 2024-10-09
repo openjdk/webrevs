@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3225,2 +3225,0 @@\n-  case TypePtr::Null:\n-    return make( (address)offset );\n","filename":"src\/hotspot\/share\/opto\/type.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
