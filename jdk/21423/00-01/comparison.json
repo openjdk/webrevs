@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n-    \/\/ Use this property to specify container location on your system.\n+    \/\/ Use this property to specify container runtime location (e.g. docker) on your system.\n","filename":"test\/lib\/jdk\/test\/lib\/Container.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
