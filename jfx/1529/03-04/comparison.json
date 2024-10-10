@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,5 +49,0 @@\n-\n-    static {\n-        System.err.println(\"KCR: JavaFX version of jdk.jsobject loaded\");\n-    }\n-\n","filename":"modules\/jdk.jsobject\/src\/main\/java\/netscape\/javascript\/JSObject.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
