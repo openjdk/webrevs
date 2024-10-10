@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5014,1 +5014,1 @@\n-    if (CompressedOops::shift() != 0 || d != s) {\n+    if (CompressedOops::shift() != 0) {\n@@ -5016,0 +5016,2 @@\n+    } else if (d != s) {\n+      mov(d, s);\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
