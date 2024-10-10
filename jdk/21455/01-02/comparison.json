@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -768,0 +768,2 @@\n+    \/\/ CacheWB nodes are peculiar in a sense that they both are anti-dependent and produce memory.\n+    \/\/ Allow them to be treated as a store.\n","filename":"src\/hotspot\/share\/opto\/gcm.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
