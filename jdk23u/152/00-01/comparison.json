@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-            LocalDate.of(2024, 11, 1).atStartOfDay(ZoneOffset.UTC);\n+            LocalDate.of(2024, 11, 12).atStartOfDay(ZoneOffset.UTC);\n","filename":"test\/jdk\/sun\/security\/ssl\/X509TrustManagerImpl\/distrust\/Entrust.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
