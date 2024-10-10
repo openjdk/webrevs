@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341831: PhaseCFG::insert_anti_dependences asserts with \"no loads\"\nSummary: Relax assert to deal with CacheWB nodes"},"files":[{"filename":"src\/hotspot\/share\/opto\/gcm.cpp"}],"sha":"6cb7eb7ac14ee65bfbf8fc64e4ddfa32a74f53c6"}]
