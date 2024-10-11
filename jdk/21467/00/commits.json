@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove overrides of InflaterInputStream.fill which provide an extra dummy byte at the end of raw compressed streams"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipFile.java"},{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"}],"sha":"661032c85257711583826b8f4ebdbc6161e6abff"}]
