@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1889,1 +1889,1 @@\n-  \/\/ The JRT_BLOCK_END can safepoint in ThreadInVM  desctructor. Now it is safe to allow\n+  \/\/ The JRT_BLOCK_END can safepoint in ThreadInVMfromJava desctructor. Now it is safe to allow\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
