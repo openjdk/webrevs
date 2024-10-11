@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,3 @@\n-        if (flag) return;\n+        if (flag) {\n+            return;\n+        }\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestCallDevirtualizationWithInfiniteLoop.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
