@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,2 @@\n+#if __GNUC__ >= 14 || (defined(__clang_major__) && __clang_major__ >= 17)\n+\n@@ -121,0 +123,2 @@\n+\n+#endif\n\\ No newline at end of file\n","filename":"src\/jdk.incubator.vector\/linux\/native\/libsleef\/lib\/vector_math_rvv.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
