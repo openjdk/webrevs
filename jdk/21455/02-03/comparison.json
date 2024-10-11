@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -773,1 +773,1 @@\n-      is_cache_wb = (ideal_op == Op_CacheWB || ideal_op == Op_CacheWBPostSync || ideal_op == Op_CacheWBPreSync);\n+      is_cache_wb = (ideal_op == Op_CacheWB);\n","filename":"src\/hotspot\/share\/opto\/gcm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
