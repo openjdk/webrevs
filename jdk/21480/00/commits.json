@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338126 : C2 SuperWord: VectorCastF2HF \/ vcvtps2ph produces wrong results for vector length 2"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestFloatConversionsVector.java"}],"sha":"dedb4a0a02777e6b57f6c5bd4ef7f8a6f1d13072"}]
