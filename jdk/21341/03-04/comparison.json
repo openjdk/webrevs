@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,5 @@\n+# Creates a tidy bundle in the build directory. A dependency that can be\n+# used to validate and correct HTML.\n+\n+# wget and cmake are required to build tidy.\n+\n","filename":"make\/devkit\/createTidyBundle.sh","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
