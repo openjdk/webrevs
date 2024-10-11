@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n-        if (!checkDisassembly(out)) {\n+        if (!checkDisassembly(out) && someEventsCaptured(out)) {\n","filename":"jmh-core-it\/src\/test\/java\/org\/openjdk\/jmh\/it\/profilers\/LinuxPerfAsmProfilerTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
