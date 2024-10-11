@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+ * @requires vm.opt.UseLargePages == null | !vm.opt.UseLargePages\n","filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestParallelGCErgo.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
