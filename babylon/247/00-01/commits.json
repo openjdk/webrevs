@@ -1,0 +1,1 @@
+[{"commit":{"message":"Verifier.VerifyError not extending Error"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/interpreter\/Verifier.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestSmallCorpus.java"}],"sha":"2155ccb311a4174ca899fb1e344c9a287e629fd4"}]
