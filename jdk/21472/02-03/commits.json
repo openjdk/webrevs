@@ -1,0 +1,1 @@
+[{"commit":{"message":"add LoopAwaredSpilling flag, refine implementation"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"},{"filename":"src\/hotspot\/share\/opto\/reg_split.cpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/LoopCounterBench.java"}],"sha":"5f572bbb4c7ac7102e3d0e2038905ac2ef8b89b3"}]
