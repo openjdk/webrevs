@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5292,1 +5292,1 @@\n-        \/\/ so, while the cycle's condition is true,\n+        \/\/ so, while the loop condition is true,\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
