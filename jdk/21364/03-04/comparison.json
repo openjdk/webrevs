@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -777,1 +777,1 @@\n-                    if (y[idx - 1] >= y[idx]) {\n+                    if ((y[idx - 1] & 0xff) >= (y[idx] & 0xff)) {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/ML_DSA.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
