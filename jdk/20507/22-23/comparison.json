@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3961,2 +3961,2 @@\n-    \"OrI\",\"OrL\",\n-    \"XorI\",\"XorL\"\n+    \"OrI\",\"OrL\", \"XorI\",\"XorL\",\n+    \"UMax\",\"UMin\"\n@@ -3969,1 +3969,1 @@\n-    \"MaxV\", \"MinV\"\n+    \"MaxV\", \"MinV\", \"UMax\",\"UMin\"\n","filename":"src\/hotspot\/share\/adlc\/formssel.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
