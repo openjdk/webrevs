@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make \"effectively final in the loop\" work with try-with-resources statements."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Flow.java"},{"filename":"test\/langtools\/tools\/javac\/forLoopVarsEffectivelyFinal\/ForLoopVarsEffectivelyFinalValidTest.java"}],"sha":"9494473a3de473874310b9cdab4b1d886648ed3a"}]
