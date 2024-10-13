@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5242,1 +5242,1 @@\n-    private static final double LOG_5_OF_2 = Math.log(2.0) \/ Math.log(5.0);\n+    private static final double LOG_5_OF_2 = 0.43067655807339306; \/\/ double closest to log5(2)\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
