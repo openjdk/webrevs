@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341966: Broken annotated module may lead to an exception in javac"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"},{"filename":"test\/langtools\/tools\/javac\/modules\/AnnotationsOnModules.java"}],"sha":"c93ad2641a32b9b09a0b722d40fde1d0b37a6124"}]
