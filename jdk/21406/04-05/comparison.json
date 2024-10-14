@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -972,1 +972,0 @@\n-    assert(temp != x5 && temp != x1, \"Register x5\/x1 not used for jumps.\");\n@@ -974,0 +973,1 @@\n+    assert(temp != x1 && temp != x5, \"temp register must not be x1\/x5.\");\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
