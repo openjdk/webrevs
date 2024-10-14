@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-    private static final int OFFSET = 2;\n+    private static final int OFFSET = 5;\n","filename":"test\/jdk\/java\/awt\/Frame\/MaximizeUndecoratedTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
