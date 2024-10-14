@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1192,1 +1192,1 @@\n-    __ j(nooverlap_target, t1);\n+    __ j(nooverlap_target);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
