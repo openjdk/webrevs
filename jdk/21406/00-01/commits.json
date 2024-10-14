@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed return should be done with RA by using RET mnemonic"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp"}],"sha":"1bfd40cf9df64e6bc5b5e25d590f729cd10d4f5b"}]
