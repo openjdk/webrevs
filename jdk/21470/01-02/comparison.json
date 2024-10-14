@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2220,1 +2220,1 @@\n-      return str.is_in_error();\n+      return str.is_in_error() || !str.get_constant().is_loaded();\n","filename":"src\/hotspot\/share\/ci\/ciTypeFlow.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
