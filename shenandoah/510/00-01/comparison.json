@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -537,1 +537,1 @@\n-  ShenandoahEvacOOMHandler*  oom_evac_handler() { return &_oom_evac_handler; }\n+  ShenandoahEvacOOMHandler*  oom_evac_handler()        { return &_oom_evac_handler; }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
