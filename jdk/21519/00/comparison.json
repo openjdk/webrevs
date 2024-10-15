@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-                LingeredApp.startApp(theApp);\n+                LingeredApp.startApp(theApp, \"-Xmx1g\", \"-Xcomp\");\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestDebugInfoDecode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
