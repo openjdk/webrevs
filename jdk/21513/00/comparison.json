@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -363,1 +363,1 @@\n-    auto pretouch = [heap](Thread*, int) {\n+    auto pretouch = [&](Thread*, int) {\n@@ -366,1 +366,1 @@\n-    auto useMemory = [heap](Thread*, int) {\n+    auto useMemory = [&](Thread*, int) {\n","filename":"test\/hotspot\/gtest\/runtime\/test_os_linux.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
