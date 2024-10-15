@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1283,1 +1283,1 @@\n-            configure_args: \"TIDY=\" + input.get(\"tidy\", \"home_path\") +\"\/bin\/tidy\",\n+            configure_args: \"TIDY=\" + input.get(\"tidy\", \"home_path\") + \"\/bin\/tidy\",\n","filename":"make\/conf\/jib-profiles.js","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
