@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -407,1 +407,1 @@\n-    postcond((int)population_count(bitmap) <= secondaries->length());\n+    postcond((int)population_count(bitmap) == secondaries->length());\n","filename":"src\/hotspot\/share\/oops\/klass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
