@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use iterator abstraction to reduce code duplication"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.hpp"}],"sha":"fdfee0571b0b702531e2f21f97617ae5f2765a01"}]
