@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid overflow on 32bit platforms"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAdaptiveHeuristics.cpp"}],"sha":"f83ebe121511d8214cb1c573ce4717891963e444"}]
