@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,1 +194,1 @@\n-  precond((int)population_count(rotated_bitmap) <= secondary_supers()->length());\n+  precond((int)population_count(rotated_bitmap) == secondary_supers()->length());\n","filename":"src\/hotspot\/share\/oops\/klass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
