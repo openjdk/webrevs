@@ -1,0 +1,1 @@
+[{"commit":{"message":"renamed JVM_EnqueueOperation2\n\nrenamed JVM_EnqueueOperation2 to JVM_EnqueueOperation_v2 for consistency (per Serguei request)"},"files":[{"filename":"src\/hotspot\/os\/windows\/attachListener_windows.cpp"},{"filename":"src\/jdk.attach\/windows\/native\/libattach\/VirtualMachineImpl.c"}],"sha":"1fed4ea627ba9d4065d6f7e6adeddb375f08c066"}]
