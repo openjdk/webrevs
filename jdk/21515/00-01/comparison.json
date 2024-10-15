@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-      output.shouldContain(\"Error occurred during initialization of VM\");\n+      output.shouldContain(\"Invalid combination of GCCardSizeInBytes and ObjectAlignmentInBytes\");\n","filename":"test\/hotspot\/jtreg\/gc\/TestObjectAlignmentCardSize.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
