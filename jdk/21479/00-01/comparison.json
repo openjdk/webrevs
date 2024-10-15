@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n- * @library \/open\/test\/jdk\/java\/awt\/regtesthelpers \/open\/test\/lib\n+ * @library \/java\/awt\/regtesthelpers \/test\/lib\n","filename":"test\/jdk\/java\/awt\/Dialog\/ModalExcludedTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
