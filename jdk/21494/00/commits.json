@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove assertion"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"}],"sha":"a12158cc338d234fae84fda55f10077f90880761"},{"commit":{"message":"compiler_fast_unlock_object: no need to check ObjectMonitor::_owner"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"}],"sha":"390a01556d2ba9a775f8c43cd7dc8281b6abe988"}]
