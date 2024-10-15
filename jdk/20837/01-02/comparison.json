@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,2 +171,0 @@\n-    SRC := $(dir $(JAVA_LAUNCHER)), \\\n-    DEST := $(STATIC_JDK_IMAGE_DIR)\/bin, \\\n@@ -174,0 +172,1 @@\n+    DEST := $(STATIC_JDK_IMAGE_DIR)\/bin, \\\n","filename":"make\/StaticLibs.gmk","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
