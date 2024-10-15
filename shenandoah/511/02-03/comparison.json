@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -899,0 +899,2 @@\n+  \/\/ The collector prefers to keep longer lived regions toward the right side of the heap, so it always\n+  \/\/ searches for regions from right to left here.\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
