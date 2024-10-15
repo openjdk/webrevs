@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -460,1 +460,1 @@\n-    DEPS := hotspot-server-static-libs static-libs, \\\n+    DEPS := hotspot-static-libs static-libs, \\\n","filename":"make\/Main.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
