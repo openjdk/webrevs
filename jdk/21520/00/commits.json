@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8321500: javadoc rejects '@' in multi-line attribute value"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/DocCommentParser.java"},{"filename":"test\/langtools\/tools\/javac\/doctree\/AttrTest.java"}],"sha":"46d9a92d373364ce47e663f08dc614ce0ac330e5"}]
