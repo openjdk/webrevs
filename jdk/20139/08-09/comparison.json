@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -850,0 +850,1 @@\n+  ZGC_ONLY(DECLARE_FUNCTION_FROM_ADDR(declare_function_with_value, ZBarrierSetRuntime::no_keepalive_store_barrier_on_oop_field_without_healing))  \\\n","filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
