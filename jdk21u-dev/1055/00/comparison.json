@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,0 @@\n-  uintx _claim_token;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentMark.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
