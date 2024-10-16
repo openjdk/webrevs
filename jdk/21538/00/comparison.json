@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,0 +180,1 @@\n+                WhiteBox.getWhiteBox().fullGC();\n@@ -187,1 +188,0 @@\n-                    WhiteBox.getWhiteBox().fullGC();\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/gc\/gctests\/PhantomReference\/phantom001\/phantom001.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
