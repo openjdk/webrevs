@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-    runs-on: \"macos-12\"\n+    runs-on: \"macos-14\"\n","filename":".github\/workflows\/ci.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
