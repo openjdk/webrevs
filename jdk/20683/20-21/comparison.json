@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -413,1 +413,1 @@\n-  \/\/ POSIX requires that the file exists; Windows tests for a valid drive letter \n+  \/\/ POSIX requires that the file exists; Windows tests for a valid drive letter\n","filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
