@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove usage of TIDY_HOME, replace with TIDY\nRevert changes to RunTestsPrebuiltSpec.gmk\nAdd TEST_DEPS to InitSupport.gmk"},"files":[{"filename":"make\/InitSupport.gmk"},{"filename":"make\/RunTestsPrebuiltSpec.gmk"},{"filename":"make\/conf\/jib-profiles.js"}],"sha":"c71f01fde35ca3b97c5e853ad4abc7b88f0edab5"}]
