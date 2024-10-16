@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,4 +181,0 @@\n-#ifdef ASSERT\n-  sanity_check_after_initialization();\n-#endif\n-\n","filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
