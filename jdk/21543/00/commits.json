@@ -1,0 +1,1 @@
+[{"commit":{"message":"8342086: FileInputStream.available() fails with \"Incorrect function\" for \"nul\" path (win)"},"files":[{"filename":"src\/java.base\/windows\/native\/libjava\/io_util_md.c"},{"filename":"test\/jdk\/java\/io\/FileInputStream\/Available.java"}],"sha":"fd111807c7a28cdcf702e398e8c63bcfd77bf844"}]
