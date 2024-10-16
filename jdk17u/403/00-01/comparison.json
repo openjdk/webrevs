@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -967,1 +967,0 @@\n-        ((codePoint == 0x5c) && ([(NSString *)kbdLayout containsString:@\"Kotoeri\"])) ||\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/AWTView.m","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
