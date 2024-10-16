@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -644,3 +644,1 @@\n-#ifndef _LP64\n-    NOT_LP64(ShouldNotReachHere();)\n-#else\n+#ifdef _LP64\n@@ -654,0 +652,2 @@\n+#else\n+    ShouldNotReachHere();\n","filename":"src\/hotspot\/share\/memory\/virtualspace.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
