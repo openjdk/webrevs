@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,0 +58,5 @@\n+  \/\/ Check for self-assignment\n+  if (this == &pmem) {\n+    return *this;\n+  }\n+\n","filename":"src\/hotspot\/share\/gc\/z\/zPhysicalMemory.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
