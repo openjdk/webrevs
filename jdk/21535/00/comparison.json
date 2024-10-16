@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -135,0 +135,1 @@\n+  static_field(CompilerToVM::Data,             dtanh,                                  address)                                      \\\n","filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
