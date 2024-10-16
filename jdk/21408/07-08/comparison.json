@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -365,1 +365,1 @@\n-            return (k, v) -> true;\n+            return Utils.ACCEPT_ALL;\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpConnection.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
