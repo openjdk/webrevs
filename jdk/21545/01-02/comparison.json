@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -292,3 +292,1 @@\n-        for (var key : ZoneId.SHORT_IDS.keySet()) {\n-            aliases.put(key, ZoneId.SHORT_IDS.get(key));\n-        }\n+        aliases.putAll(ZoneId.SHORT_IDS);\n","filename":"src\/java.base\/share\/classes\/sun\/util\/calendar\/ZoneInfoFile.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
