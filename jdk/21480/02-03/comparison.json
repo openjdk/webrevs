@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3679,1 +3679,1 @@\n-  predicate(Matcher::vector_length_in_bytes(n->in(3)->in(1)) >= 16);\n+  predicate(n->as_StoreVector()->memory_size() >= 16);\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
