@@ -1,0 +1,1 @@
+[{"commit":{"message":"@coleenp: No need to hold InvokeMethodIntrinsicTable_lock during bootstrap"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"1e79b7e2fd9197dcb9cc361cf296fade67df4270"}]
