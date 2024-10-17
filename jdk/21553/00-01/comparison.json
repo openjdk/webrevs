@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -697,1 +697,1 @@\n-      prefix = \",\";\n+      prefix = \"\\n\";\n","filename":"src\/hotspot\/share\/classfile\/modules.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
