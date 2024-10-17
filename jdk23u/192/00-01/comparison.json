@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -753,1 +753,1 @@\n-        byte[] newBytes = ClassFile.of().transformClass(cm1, (builder, element) -> {\n+        byte[] newBytes = ClassFile.of().transform(cm1, (builder, element) -> {\n","filename":"test\/langtools\/tools\/javac\/modules\/AnnotationsOnModules.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
