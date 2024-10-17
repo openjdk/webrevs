@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -325,0 +325,1 @@\n+  assert_alignment(pc());\n@@ -340,1 +341,0 @@\n-  assert_alignment(pc());\n","filename":"src\/hotspot\/cpu\/riscv\/c1_MacroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
