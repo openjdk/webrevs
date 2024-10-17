@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: tweaked disabler for carrier threads; more hiddenjvmti_mount_transition frames"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp"}],"sha":"0ad3fd7aecc8efcf4278946f97c785b078bf7ca3"}]
