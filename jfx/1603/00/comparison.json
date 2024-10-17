@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-    @Disabled(\"JDK-8190329\")\n+    @Disabled(\"JDK-8340849\")\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/embed\/swing\/SwingNodePlatformExitCrashTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
