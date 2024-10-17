@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,0 +95,1 @@\n+        setLocation(frame.getX(), frame.getY());\n","filename":"test\/jdk\/java\/awt\/Dialog\/DialogDisposeLeak.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
