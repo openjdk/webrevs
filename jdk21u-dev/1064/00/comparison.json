@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -305,0 +305,1 @@\n+                \"-XX:+StressIncrementalInlining\",\n","filename":"test\/hotspot\/jtreg\/testlibrary\/ctw\/src\/sun\/hotspot\/tools\/ctw\/CtwRunner.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
