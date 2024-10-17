@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,2 @@\n-    private static final int ENOENT     = 2;\n+    private static final int ENOENT = 2;\n+\n","filename":"src\/java.base\/aix\/classes\/sun\/nio\/ch\/AixPollPort.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
