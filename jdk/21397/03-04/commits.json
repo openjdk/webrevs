@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: moved notifyJvmtiStart\/notifyJvmtiEnd calls from VirtualThread.run to the caller"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/VirtualThread.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/vm\/annotation\/JvmtiMountTransition.java"}],"sha":"f8d051520c589c3214ddb73791ed5a3071fcd160"}]
