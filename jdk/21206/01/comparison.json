@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1293,1 +1293,1 @@\n-  if (Metaspace::contains(addr)) {\n+  if (Metaspace::initialized() && Metaspace::contains(addr)) {\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
