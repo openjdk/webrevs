@@ -1,0 +1,1 @@
+[{"commit":{"message":"set need_bitmap_reset flag when change affiliation of heap region from OLD_GENERATION"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp"}],"sha":"d4fddac5a1e7321ff3b4441bd5cd096e949cd56a"}]
