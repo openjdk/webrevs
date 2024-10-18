@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * combined length of the field, including the size of the CEN Header,\n+ * combined length of the fields, including the size of the CEN Header,\n","filename":"test\/jdk\/java\/util\/zip\/ZipEntry\/MaxZipEntryFieldSizeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
