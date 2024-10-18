@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace Path.equals() call with Files.isSameFile()"},"files":[{"filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/AbstractAppImageBuilder.java"}],"sha":"3cbd2a2db5969be2557700e31cbff4fbf320b7de"}]
