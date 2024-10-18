@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,2 +66,0 @@\n-  pop_count++;\n-\n@@ -83,0 +81,1 @@\n+  pop_count++;\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/events\/NotifyFramePopStressTest\/libNotifyFramePopStressTest.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
