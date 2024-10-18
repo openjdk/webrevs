@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -331,1 +331,1 @@\n-      AC_MSG_RESULT([$TIDY_VERSION])\n+      AC_MSG_RESULT([$tidy_version])\n","filename":"make\/autoconf\/lib-tests.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
