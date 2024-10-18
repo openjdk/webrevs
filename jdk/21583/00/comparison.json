@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,2 +51,1 @@\n-            \"-XX:+UseJVMCICompiler\",\n-            \"-Djvmci.Compiler=null\",\n+            \"-XX:+EnableJVMCI\",\n","filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/TestJVMCISavedProperties.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
