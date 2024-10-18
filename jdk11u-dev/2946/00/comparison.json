@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -381,0 +381,1 @@\n+      AC_MSG_RESULT([no, must be manually enabled --with-jvm-features=shenandoahgc])\n","filename":"make\/autoconf\/hotspot.m4","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
