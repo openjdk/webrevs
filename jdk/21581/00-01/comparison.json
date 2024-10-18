@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,2 @@\n-    @Param({\"false\", \"true\"}) private boolean randomized;\n+    @Param({\"false\", \"true\"})\n+    private boolean randomized;\n","filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/InterfaceCalls.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
