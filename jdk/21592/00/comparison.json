@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -304,1 +304,0 @@\n-        COLLECT(\"collect\"),\n@@ -306,2 +305,0 @@\n-        CONVERT(\"convert\"),\n-        SPREAD(\"spread\"),\n@@ -309,1 +306,0 @@\n-        FIELD(\"field\"),\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/LambdaForm.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
