@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -253,1 +253,1 @@\n-    \/\/ Fallback if running on pre-10.9 Mac OS\n+    \/\/ Fallback to reading the SystemVersion.plist\n","filename":"src\/java.base\/macosx\/native\/libjava\/java_props_macosx.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
