@@ -1,0 +1,1 @@
+[{"commit":{"message":"RTM tests assume UnlockExperimentalVMOptions is disabled by default"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/rtm\/cli\/RTMGenericCommandLineOptionTest.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/rtm\/cli\/TestUseRTMForStackLocksOptionOnUnsupportedConfig.java"}],"sha":"b27c50cfff77d4729da48f90ae13d2b033579f8d"}]
