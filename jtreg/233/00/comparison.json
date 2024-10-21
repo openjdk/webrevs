@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1291,1 +1291,1 @@\n-        this.testThreadFactoryPath = testThreadFactoryPath;\n+        this.testThreadFactoryPath = new File(testThreadFactoryPath).getAbsolutePath();\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/config\/RegressionParameters.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
