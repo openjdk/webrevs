@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into backport-mrserb-bc0379ea-master"},"files":[],"sha":"6397e2ebbf936be3e80376588113e78e84740b24"},{"commit":{"message":"Backport bc0379ea1a22a2631b49ecd6a331352bec81c1c6"},"files":[{"filename":"jdk\/src\/windows\/native\/sun\/java2d\/d3d\/D3DBadHardware.h"}],"sha":"d4fbf3aec2d2b6ddc457502ef3d19f9932ded55e"}]
