@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3952,1 +3952,1 @@\n-\/\/      if ( iv >= limit ) goto exit\n+\/\/      if (iv >= limit) goto exit\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
