@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed JDK-8342438: runtime\/cds\/SharedBaseAddress.java fails with Parallel and Serial GCs when running with AOTClassLinking enabled"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/SharedBaseAddress.java"}],"sha":"07e80df82ce331dec70007fc3262a48860b751cf"}]
