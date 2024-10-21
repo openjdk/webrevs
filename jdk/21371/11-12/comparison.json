@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,1 +147,2 @@\n-     * Reading starts at the first character in the sequence.\n+     * The reader is initially opened and reading starts at the\n+     * first character in the sequence.\n","filename":"src\/java.base\/share\/classes\/java\/io\/Reader.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
