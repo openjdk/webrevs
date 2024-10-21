@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340145: Problem with generic pattern matching results in internal compiler error"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Flow.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8340145.java"}],"sha":"b8f0742fd7fdf6c9c75de2e38c2d732da19727ae"}]
