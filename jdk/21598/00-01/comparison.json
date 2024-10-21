@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -805,1 +805,1 @@\n-            return Collections.emptyList();\n+            return List.of();\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/DirectCodeBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
