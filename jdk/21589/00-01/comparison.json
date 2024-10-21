@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1377,1 +1377,1 @@\n-      if (shift)  __ lsr(r15, r15, shift);\n+      if (shift > 0)  __ lsr(r15, r15, shift);\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
