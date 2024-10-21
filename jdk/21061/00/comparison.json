@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,0 @@\n-        PassFailJFrame.addTestWindow(testFrame);\n@@ -130,1 +129,0 @@\n-        PassFailJFrame.addTestWindow(testDialog);\n","filename":"test\/jdk\/javax\/swing\/JFrame\/DefaultCloseOperation.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
