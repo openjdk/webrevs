@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-changes, you can run `build\/make.sh`. It skips the steps to download and build\n+changes, you can run `build\/make.sh --skip-download`. It skips the steps to download and build\n","filename":"doc\/building.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
