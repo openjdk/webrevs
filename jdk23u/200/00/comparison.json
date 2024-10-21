@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,1 @@\n+ *                   -XX:CompileCommand=MemLimit,*.*,0\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestScalarReplacementMaxLiveNodes.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
