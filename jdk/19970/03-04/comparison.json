@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2916,1 +2916,0 @@\n-  \/\/ assert(_store->adr_type()->isa_aryptr() != nullptr, \"must be array store\");\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
