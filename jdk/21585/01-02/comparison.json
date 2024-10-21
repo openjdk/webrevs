@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,1 @@\n-            SwingUtilities.invokeAndWait(() -> frame.dispose());\n+            SwingUtilities.invokeAndWait(frame::dispose);\n","filename":"test\/jdk\/javax\/swing\/plaf\/basic\/BasicMenuUI\/4983388\/bug4983388.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
