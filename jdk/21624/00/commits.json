@@ -1,0 +1,1 @@
+[{"commit":{"message":"Preserve is_root status across JVMS."},"files":[{"filename":"src\/hotspot\/share\/opto\/output.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestReduceAllocationAndJVMStates.java"}],"sha":"8e345b593a3553cded11103c8912164fc2d7a090"}]
