@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340177: Malformed system classes loaded by bootloader crash the JVM in product builds"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classFileParser.hpp"}],"sha":"ce97bd56acd5a6601d33a5f720cc0596643a9a8f"}]
