@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -584,1 +584,1 @@\n-     * which defaults to the one based on {@link System##stdout.encoding stdtout.encoding}.\n+     * which defaults to the one based on {@link System##stdout.encoding stdout.encoding}.\n","filename":"src\/java.base\/share\/classes\/java\/io\/Console.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
