@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341939: SigningOptionsTest fails without Xcode with command line developer tools after JDK-8341443 [v2]"},"files":[{"filename":"src\/jdk.jpackage\/macosx\/classes\/jdk\/jpackage\/internal\/MacAppImageBuilder.java"},{"filename":"test\/jdk\/tools\/jpackage\/macosx\/base\/SigningCheck.java"}],"sha":"b0b5909b33f0af78290d0af30a5138c9ad646d2c"}]
