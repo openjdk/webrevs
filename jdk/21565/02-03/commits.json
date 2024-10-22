@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make lea with RIP-relative addressing more general"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.hpp"}],"sha":"81e5c6d0ee8dcfaf3980eafdb2904eaff868ae4d"}]
