@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix needle copying in indexOf intrinsic for smaller headers"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_stubGenerator_x86_64_string.cpp"}],"sha":"8c4eb6d6992a6d800023d67c4687e9102caa1306"}]
