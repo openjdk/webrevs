@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,2 +68,1 @@\n-        var country = Locale.getDefault().getCountry();\n-        if (country.equals(\"DE\")) {\n+        if (System.getProperty(\"user.region\").startsWith(\"DE\")) {\n","filename":"test\/jdk\/java\/util\/Locale\/UserRegionTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
