@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8207,0 +8207,1 @@\n+        \/\/ Skip \"tanh\" because there is performance regression\n@@ -8225,0 +8226,1 @@\n+      \/\/ Skip \"tanh\" because there is performance regression\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
