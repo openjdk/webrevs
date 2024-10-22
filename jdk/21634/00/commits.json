@@ -1,0 +1,1 @@
+[{"commit":{"message":"8342809: C2 hits \"assert(is_If()) failed: invalid node class: Con\" during IGVN due to unhandled top"},"files":[{"filename":"src\/hotspot\/share\/opto\/predicates.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/TestTopIntoIfTrue.java"}],"sha":"521088479f61fb6c2365177c0eecdad33b3427c7"}]
