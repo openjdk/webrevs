@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2292,1 +2292,1 @@\n-     * Assumes {@code precision() <= maxPrecision}.\n+     * Assumes {@code (precision() <= maxPrecision || maxPrecision == 0) && this != 0}.\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
