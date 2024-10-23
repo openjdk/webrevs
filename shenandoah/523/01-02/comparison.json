@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,1 +178,1 @@\n-  virtual bool contains(ShenandoahAffiliation affiliation) const;\n+  virtual bool contains(ShenandoahAffiliation affiliation) const = 0;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
