@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -554,1 +554,1 @@\n-        void positionTestWindows(List<? extends Window> testWindows,\n+        void positionTestWindows(List<Window> testWindows,\n","filename":"test\/jdk\/java\/awt\/regtesthelpers\/PassFailJFrame.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
