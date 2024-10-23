@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,0 @@\n-import java.io.FileWriter;\n@@ -123,1 +122,1 @@\n-        for (int i = 0; i < value; i++) {\n+        for (int i = 0; i < value - 1; i++) {\n","filename":"test\/langtools\/tools\/javac\/annotations\/ParameterArraySizeLimit.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
