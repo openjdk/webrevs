@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -10449,1 +10449,1 @@\n-    public final boolean traverseFocus(TraversalDirection direction) {\n+    public final boolean requestFocusTraversal(TraversalDirection direction) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/Node.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
