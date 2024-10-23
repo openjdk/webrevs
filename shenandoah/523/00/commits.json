@@ -1,0 +1,1 @@
+[{"commit":{"message":"8342848: Shenandoah: Marking bitmap may not be completely cleared in generational mode"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp"}],"sha":"8cf581ecf7099319488ef59971b885fa712297cd"}]
