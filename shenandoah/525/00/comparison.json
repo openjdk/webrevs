@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,2 @@\n-\n+gc\/shenandoah\/TestReferenceRefersToShenandoah.java#generational 8342734 generic-all\n+gc\/shenandoah\/TestReferenceRefersToShenandoah.java#generational-100 8342734 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
