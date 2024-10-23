@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n-#include \"gc\/shenandoah\/shenandoahAffiliation.hpp\"\n@@ -31,0 +30,1 @@\n+#include \"gc\/shenandoah\/shenandoahAffiliation.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
