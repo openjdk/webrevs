@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,0 +75,1 @@\n+import static javax.swing.BorderFactory.createEmptyBorder;\n@@ -468,0 +469,1 @@\n+        text.setBorder(createEmptyBorder(4, 4, 4, 4));\n","filename":"test\/jdk\/java\/awt\/regtesthelpers\/PassFailJFrame.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
