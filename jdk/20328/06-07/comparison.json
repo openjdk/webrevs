@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,2 @@\n- * @requires vm.hasJFRLeakProf & vm.gc.Shenandoah\n+ * @ignore \/\/ Leak profiler does not work with Shenandoah\n+ * @requires vm.hasJFRLeakProf\n","filename":"test\/jdk\/jdk\/jfr\/event\/oldobject\/TestShenandoah.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
