@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -366,0 +366,1 @@\n+#ifdef COMPILER2\n@@ -368,0 +369,3 @@\n+#else\n+  return false;\n+#endif\n","filename":"src\/hotspot\/cpu\/x86\/gc\/z\/zBarrierSetAssembler_x86.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
