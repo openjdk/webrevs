@@ -1,0 +1,1 @@
+[{"commit":{"message":"Better fix for Thread.setContextClassloader from thread in FJP commonPool task no longer works after JDK-8327501"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"}],"sha":"16639e4c1d4a3efb300b21d6a355a298449eba7c"}]
