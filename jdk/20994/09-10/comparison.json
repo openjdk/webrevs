@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,1 +190,1 @@\n-  tree.visit_in_order([&](Node* node) {\n+  tree.visit_in_order([&](TreeNode* node) {\n","filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
