@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-        if (Platform.isAArch64() || Platform.isX64()) {\n+        if (Platform.isAArch64() || Platform.isX64() || Platform.isRISCV64()) {\n","filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedClassPointersEncodingScheme.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
