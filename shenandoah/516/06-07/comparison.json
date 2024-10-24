@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -155,2 +155,0 @@\n-  entry_reset_after_collect();\n-\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGC.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
