@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+#include \"utilities\/formatBuffer.hpp\"\n","filename":"src\/hotspot\/cpu\/aarch64\/compressedKlass_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
