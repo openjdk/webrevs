@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -443,1 +443,1 @@\n-       CIntegerType sizeType = (CIntegerType) sizetType;\n+       CIntegerType sizeType = (CIntegerType) db.lookupType(\"size_t\");\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/VM.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

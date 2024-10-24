@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Remove redundant db.lookupType\"\n\nThis reverts commit e8ec2957d43730560c73e2ea9b3ec7a91fc25535."},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/VM.java"}],"sha":"3f50944e8c94fa88a27fb5c8853b843417b3d7db"}]
