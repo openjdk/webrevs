@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-#define   RISCV_HWPROBE_EXT_ZVFHMIN             (1 << 31)\n+#define   RISCV_HWPROBE_EXT_ZVFHMIN             (1ULL << 31)\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
