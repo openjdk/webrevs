@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix issue with native benchmark lib"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/CallByRefHighArity.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/libCallByRefHighArity.c"}],"sha":"72b223964f42c0bd92ae9e1823be1a790f6468fb"}]
