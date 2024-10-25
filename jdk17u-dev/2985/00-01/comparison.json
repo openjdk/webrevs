@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,4 +26,1 @@\n-import javax.net.ssl.*;\n-import java.io.IOException;\n-import java.net.Socket;\n-import java.nio.charset.StandardCharsets;\n+import java.nio.file.Path;\n","filename":"test\/jdk\/javax\/net\/ssl\/ciphersuites\/TLSWontNegotiateDisabledCipherAlgos.java","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
