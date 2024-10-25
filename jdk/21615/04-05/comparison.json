@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -547,1 +547,0 @@\n-#ifndef MUSL_LIBC\n@@ -562,1 +561,0 @@\n-#endif\n","filename":"src\/hotspot\/os_cpu\/linux_x86\/os_linux_x86.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
