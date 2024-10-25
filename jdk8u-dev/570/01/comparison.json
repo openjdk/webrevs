@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,2 @@\n- * @run main ParallelProbes 10\n+ * @build ParallelProbes SimpleFileTypeDetector\n+ * @run main\/othervm ParallelProbes 10\n","filename":"jdk\/test\/java\/nio\/file\/Files\/probeContentType\/ParallelProbes.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
