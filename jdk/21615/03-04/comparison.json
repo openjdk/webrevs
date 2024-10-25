@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -552,1 +552,1 @@\n-  if (fpregs_offset > sizeof(ucontext_t)) {\n+  if (fpregs_offset >= sizeof(ucontext_t)) {\n","filename":"src\/hotspot\/os_cpu\/linux_x86\/os_linux_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
