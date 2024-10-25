@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1,1 +1,1 @@\n-package compiler.c2;\/*\n+\/*\n@@ -24,0 +24,2 @@\n+package compiler.c2;\n+\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestCastX2NotProcessedIGVN.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
