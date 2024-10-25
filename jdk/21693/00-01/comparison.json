@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -231,2 +231,1 @@\n-     * Writes a prompt as if by calling {@code print}, then reads a single line\n-     * of text from this console.\n+     * Reads a single line of text from this console.\n","filename":"src\/java.base\/share\/classes\/java\/io\/Console.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
