@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -540,1 +540,2 @@\n-    return _vloop.vtrace().is_trace(TraceAutoVectorizationTag::ALIGN_VECTOR) ||\n+    return TraceSuperWord ||\n+           _vloop.vtrace().is_trace(TraceAutoVectorizationTag::ALIGN_VECTOR) ||\n","filename":"src\/hotspot\/share\/opto\/superword.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
