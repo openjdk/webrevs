@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-#define IO_CanSeek handleCanSeek\n+#define IO_IsRegularFile handleIsRegulerFile\n","filename":"src\/java.base\/windows\/native\/libjava\/io_util_md.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
