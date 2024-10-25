@@ -1,0 +1,1 @@
+[{"commit":{"message":"8342576: [macos] AppContentTest still fails after JDK-8341443 for same reason on older macOS versions"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/JPackageCommand.java"},{"filename":"test\/jdk\/tools\/jpackage\/share\/AppContentTest.java"}],"sha":"d964968c7aa19fbaa635685749fe36c4a51bc916"}]
