@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-    private static AtomicInteger nextHashCode =\n+    private static final AtomicInteger nextHashCode =\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ThreadLocal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
