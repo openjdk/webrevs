@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -223,1 +223,1 @@\n-        BOOL result;\n+     \/\/ BOOL result;\n","filename":"src\/jdk.accessibility\/windows\/native\/bridge\/AccessBridgeCalls.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
