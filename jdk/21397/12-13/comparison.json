@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -843,1 +843,1 @@\n-  javaVFrame* jvf = JvmtiEnvBase::get_vthread_jvf(_vthread_h()); \n+  javaVFrame* jvf = JvmtiEnvBase::get_vthread_jvf(_vthread_h());\n","filename":"src\/hotspot\/share\/prims\/jvmtiImpl.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
