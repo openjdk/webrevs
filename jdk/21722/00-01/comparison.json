@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-         * Map from module to a class loader name. The name is resolved to the\n+         * Map from module name to class loader name. The name is resolved to the\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/ModuleLoaderMap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
