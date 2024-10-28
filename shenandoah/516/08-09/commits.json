@@ -1,0 +1,1 @@
+[{"commit":{"message":"set_mark_incomplete should be always set after resetting bitmap"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp"}],"sha":"0c334b65fbdafc43e2812519673e8408aafd0451"}]
