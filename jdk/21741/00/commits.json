@@ -1,0 +1,1 @@
+[{"commit":{"message":"8342576: [macos] AppContentTest still fails after JDK-8341443 for same reason on older macOS versions"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/TKit.java"},{"filename":"test\/jdk\/tools\/jpackage\/share\/AppContentTest.java"}],"sha":"a7bda48bd42bd01d140283a86ca5ba62aa36f2e5"}]
