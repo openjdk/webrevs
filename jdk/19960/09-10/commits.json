@@ -1,0 +1,1 @@
+[{"commit":{"message":"Utilize the UseAES flag"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"0f38182dca88b836ec82589bf38d195fde02ecd7"},{"commit":{"message":"Left comment on keys endiannes"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"c3dc6e6274d3159b794061eac0256120fc8f5a8b"}]
