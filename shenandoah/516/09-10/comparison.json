@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -241,1 +241,0 @@\n-      heap->old_generation()->set_mark_incomplete();\n@@ -244,1 +243,0 @@\n-      set_mark_incomplete();\n@@ -247,0 +245,1 @@\n+  set_mark_incomplete();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
