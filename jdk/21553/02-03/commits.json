@@ -1,0 +1,1 @@
+[{"commit":{"message":"allow --add-modules add modules that aren't in the runtime image"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/ModuleBootstrap.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/jigsaw\/addmods\/AddmodsOption.java"}],"sha":"d0c4191b7738bc2beeb94bd7eeb9f7c6fdbe1795"}]
