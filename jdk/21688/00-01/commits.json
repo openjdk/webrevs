@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8342449: changed logic of attach loop to throw if target still not ready when timed out and consolidated comments"},"files":[{"filename":"src\/jdk.attach\/linux\/classes\/sun\/tools\/attach\/VirtualMachineImpl.java"}],"sha":"4bee5d1e050fad50813767c4020069ed63c4a0ae"}]
