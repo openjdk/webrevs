@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-         #echo \"PATH already contains \\${JAVA_HOME}\/bin\"\n+         echo \"PATH already contains \\${JAVA_HOME}\/bin\"\n","filename":"hat\/env.bash","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
