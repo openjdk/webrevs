@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move set_mark_incomplete into reset_mark_bitmap"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp"}],"sha":"df91d467e9a9975d90d2d033986864643dc35ca8"}]
