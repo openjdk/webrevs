@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix distance assert"},"files":[{"filename":"src\/hotspot\/share\/opto\/mempointer.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMergeStoresUnsafeArrayPointer.java"}],"sha":"9f442d27b7ab3eb6accdf67f3e83da9e32fe2b64"}]
