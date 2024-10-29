@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add support for proper String -> Float16 conversion."},"files":[{"filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/Float16.java"},{"filename":"test\/jdk\/jdk\/incubator\/vector\/BasicFloat16ArithTests.java"}],"sha":"31f05c82fe1d43e44aa20ad30b5fd0474bf25231"}]
