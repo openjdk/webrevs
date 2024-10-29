@@ -1,0 +1,1 @@
+[{"commit":{"message":"8342544: [macos] jpackage test helper should check for both \"--app-image\" and \"--mac-sign\" for signing predefined app image case"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/JPackageCommand.java"}],"sha":"78a6e6c5e9926c53b2f310cc2a73d0c5426aa05f"}]
