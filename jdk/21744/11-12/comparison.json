@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -234,1 +234,1 @@\n-     * On Windows we need to handle 32-bit tools trying to attach to 64-bit\n+     * On Windows we need to handle 64-bit tools trying to attach to 32-bit\n","filename":"src\/jdk.attach\/windows\/native\/libattach\/VirtualMachineImpl.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
