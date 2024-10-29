@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use #error for unknown CPU"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"c6b8771bc519ab88d8c51f6d7c841a16672e495c"},{"commit":{"message":"Restore PLATFORM_CHECK_DEPRECATION"},"files":[{"filename":"make\/autoconf\/platform.m4"}],"sha":"bcf821db3df26a4413eadcf60b7799b927f0a6ae"}]
