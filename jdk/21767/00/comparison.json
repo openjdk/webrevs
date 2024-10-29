@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,0 @@\n-        Basic.finalized = true;\n@@ -51,0 +50,1 @@\n+        Basic.finalized = true;\n","filename":"test\/jdk\/java\/lang\/ref\/Basic.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
