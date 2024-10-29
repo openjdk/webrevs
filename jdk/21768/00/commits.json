@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343211: Compile error: redefinition of 'Assembler::evmovdquw(XMMRegister,KRegister,XMMRegister,bool,int)'"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/testlibrary\/sha\/predicate\/IntrinsicPredicates.java"}],"sha":"518895d26869ba0291417adea0d9c61d5247f0ae"}]
