@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rework test to copy `--app-content` into \"Contents\/Resources\" folder instead of \"Contents\" on OSX."},"files":[{"filename":"test\/jdk\/tools\/jpackage\/share\/AppContentTest.java"}],"sha":"9351654fd3bbd725eb36c53e0906ead5b309f935"}]
