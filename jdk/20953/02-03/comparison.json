@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -189,1 +189,1 @@\n-  ProcSmapsSummary() : _num_mappings(0), _private(0), \n+  ProcSmapsSummary() : _num_mappings(0), _private(0),\n","filename":"src\/hotspot\/os\/bsd\/memMapPrinter_macosx.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
