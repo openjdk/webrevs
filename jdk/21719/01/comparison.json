@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1314,1 +1314,1 @@\n-    private static volatile ServiceKey previousKey =\n+    private transient ServiceKey previousKey =\n","filename":"src\/java.base\/share\/classes\/java\/security\/Provider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
