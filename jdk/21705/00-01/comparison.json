@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -177,1 +177,1 @@\n-        return findJavaFrame(event,  x -> true);\n+        return findJavaFrame(event, x -> true);\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/query\/FieldBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
