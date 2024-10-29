@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve comment in SharedRuntime::generate_native_wrapper"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp"}],"sha":"3e8b4fe603976d989fba7cdf63a5d329f57dc225"}]
