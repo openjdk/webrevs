@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove win32-specific implementation of MacroAssembler::get_thread"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/os_cpu\/windows_x86\/assembler_windows_x86.cpp"}],"sha":"c69e804f399430ec989137bafd44ea3ff213b072"}]
