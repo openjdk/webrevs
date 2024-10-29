@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343128: PassFailJFrame.java test result: Error. Bad action for script: build}\n\nAmend the snippet for jtreg tags so that jtreg doesn't consider\nPassFailJFrame.java as a test to run."},"files":[{"filename":"test\/jdk\/java\/awt\/regtesthelpers\/PassFailJFrame.java"}],"sha":"7ae9eb15fdf55514eff9f745f6457755fae612ea"}]
