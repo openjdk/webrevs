@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-            \"S.java:5:25: compiler.err.report.access: S.A, private, S\",\n+            \"S.java:4:25: compiler.err.report.access: S.A, private, S\",\n","filename":"test\/langtools\/tools\/javac\/sealed\/PrivateMembersInPermitClause.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
