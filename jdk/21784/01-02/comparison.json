@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3493,1 +3493,1 @@\n-          ciKlass* klass = t->exact_klass();\n+          ciKlass* klass = t->is_klassptr()->exact_klass();\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
