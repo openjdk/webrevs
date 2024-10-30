@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add klass_name check for is_object_wait0"},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"}],"sha":"9fd4c036e7953f5507302c950385b456664788bf"},{"commit":{"message":"Fix comment in continuation.hpp"},"files":[{"filename":"src\/hotspot\/share\/runtime\/continuation.hpp"}],"sha":"1b695e57797287378c24c4990035d45596910bd2"}]
