@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -615,1 +615,1 @@\n-            JLI_ReportErrorMessage(LAUNCHER_ERROR4);\n+            JLI_ReportErrorMessage(LAUNCHER_ERROR5);\n","filename":"src\/java.base\/unix\/native\/libjli\/java_md.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
