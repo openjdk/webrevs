@@ -1,0 +1,1 @@
+[{"commit":{"message":"Throw ZipException instead of IAE when ZipCoder::checkedHash fails with exception"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipFile.java"}],"sha":"11a9dde6825cfa0f095ae6a61c6b3c65fa02fe52"}]
