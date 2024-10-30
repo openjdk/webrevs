@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,3 +44,0 @@\n-\n-static const size_t min_valid_free_size_bytes = 16;\n-\n","filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrAsyncStackTrace.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
