@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,1 +178,1 @@\n-  \/\/   in the register mask regardless of how much slack is created by rounding\n+  \/\/   in the register mask regardless of how much slack is created by rounding.\n","filename":"src\/hotspot\/share\/adlc\/formsopt.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
