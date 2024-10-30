@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2550,0 +2550,2 @@\n+#else\n+  #error unknown architecture\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
