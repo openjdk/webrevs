@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,1 +219,0 @@\n-  verify(\"pre-oops-do\");\n","filename":"src\/hotspot\/share\/runtime\/lockStack.inline.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
