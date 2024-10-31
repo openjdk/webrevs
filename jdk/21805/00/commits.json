@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343380: C2: assert(iff->in(1)->is_OpaqueNotNull()) failed: must be OpaqueNotNull"},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestCanReduceCheckUsersDifferentIfs.java"}],"sha":"42415a41ccd0fc067c9a0d4de8679b5dcadcc3ba"}]
