@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -607,1 +607,1 @@\n-  $1_MICRO_VM_OPTIONS := -jvmArgs $(call ShellQuote,$$($1_JMH_JVM_ARGS))\n+  $1_MICRO_VM_OPTIONS := -jvmArgsPrepend $(call ShellQuote,$$($1_JMH_JVM_ARGS))\n","filename":"make\/RunTests.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
