@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -591,1 +591,1 @@\n-      jlong difference = abs(java_subtract((jlong)_offset, (jlong)q._offset));\n+      jlong difference = llabs(java_subtract((jlong)_offset, (jlong)q._offset));\n","filename":"hotspot\/src\/share\/vm\/opto\/superword.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
