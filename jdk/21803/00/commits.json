@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8343190: GHA: Try building JTReg several times\"\nThis reverts commit 4ce19ca110b6e1eeed7483a1ec7c75fbc1d1b773."},"files":[{"filename":".github\/actions\/build-jtreg\/action.yml"}],"sha":"6232697729a20005ea3a99a4cd66028310ac72e0"}]
