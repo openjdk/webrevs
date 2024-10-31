@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1101,1 +1101,1 @@\n-  address pc = os::fetch_frame_from_context(context).pc();\n+  address pc = fetch_frame_from_context(context).pc();\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
