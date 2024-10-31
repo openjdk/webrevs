@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -813,1 +813,1 @@\n-     * Print the print stack of the current thread, skipping the printStackTrace frame.\n+     * Print the stack trace of the current thread, skipping the printStackTrace frame.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ThreadLocal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
