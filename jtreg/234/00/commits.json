@@ -1,0 +1,1 @@
+[{"commit":{"message":"7903765: wget failed in build.sh in jtreg\n\nReviewed-by: jjg"},"files":[{"filename":"make\/build-support\/asmtools\/build.sh"},{"filename":"make\/build-support\/build-common.sh"},{"filename":"make\/build-support\/jcov\/build.sh"},{"filename":"make\/build-support\/jtharness\/build.sh"}],"sha":"a267df1eb4e09e9c89c9ab6a33d6a41c32d43712"}]
