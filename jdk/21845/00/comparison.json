@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -497,4 +497,1 @@\n-\n-        @SuppressWarnings(\"unchecked\")\n-        Set<Currency> result = (Set<Currency>) available.clone();\n-        return result;\n+        return new HashSet<>(available);\n","filename":"src\/java.base\/share\/classes\/java\/util\/Currency.java","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
