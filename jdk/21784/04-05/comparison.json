@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3789,1 +3789,1 @@\n-    assert(klass->is_encodable(), \"klass cannot be compressed\");\n+    assert(klass->is_in_encoding_range(), \"klass cannot be compressed\");\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
