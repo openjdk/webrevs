@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343436: Regression in StackMapGenerator after JDK-8339205"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapGenerator.java"},{"filename":"test\/jdk\/jdk\/classfile\/StackMapsTest.java"}],"sha":"93e711379464e1e399c9457b3a745af16d5262e0"}]
