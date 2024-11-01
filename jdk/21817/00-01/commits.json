@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update to set CC_IS_USER_SUPPLIED and CXX_IS_USER_SUPPLIED. Only do UTIL_REQUIRE_PROGS(LLD, lld)\nif both CC_IS_USER_SUPPLIED and CXX_IS_USER_SUPPLIED are false."},"files":[{"filename":"make\/autoconf\/flags-ldflags.m4"},{"filename":"make\/autoconf\/toolchain.m4"}],"sha":"e35542e6a369d5189d0e35f29876d5e95b2cbbb3"}]
