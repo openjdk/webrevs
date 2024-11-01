@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343419: Assertion failure in long vector unsigned min\/max with -XX:+UseKNLSetting"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"374cae449c7ce32e21abe95120d6537446d9a435"}]
