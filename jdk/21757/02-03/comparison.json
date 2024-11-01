@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,1 @@\n-            if (numberOfLargePages(LP_1G) > 0) {\n+            if (numberOfLargePages(LP_1G) >= 1) {\n","filename":"test\/hotspot\/jtreg\/compiler\/codecache\/CheckLargePages.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
