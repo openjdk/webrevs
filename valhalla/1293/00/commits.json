@@ -1,0 +1,1 @@
+[{"commit":{"message":"[lworld] Adjust testing after merging jdk-24+18\n\nJDK-8334060 causes IR mismatches"},"files":[{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestArrays.java"}],"sha":"af8086af8b95adb1c0b2a954507f8f16f155eaf7"}]
