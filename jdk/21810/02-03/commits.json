@@ -1,0 +1,1 @@
+[{"commit":{"message":"wait for the close operation to complete on acquire failures"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/MemorySessionImpl.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/SharedSession.java"}],"sha":"290477181ba0d0412f7052bbf3f8c0968ecb1a09"}]
