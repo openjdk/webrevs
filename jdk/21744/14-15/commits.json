@@ -1,0 +1,1 @@
+[{"commit":{"message":"No need to check for LP64 inside a #ifdef _WINDOWS anymore"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"fe8ba082382062fc8cdcce44274ef76d137c2a34"}]
