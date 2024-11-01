@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -633,1 +633,1 @@\n-            } catch (ReflectiveOperationException e) {\n+            } catch (NoClassDefFoundError | ReflectiveOperationException e) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/iio\/ImageStorage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
