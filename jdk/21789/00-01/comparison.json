@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -418,0 +418,2 @@\n+    JLI_TraceLauncher(\"Attempt to get JDK installation root from launcher executable path\\n\");\n+\n","filename":"src\/java.base\/macosx\/native\/libjli\/java_md_macosx.m","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
