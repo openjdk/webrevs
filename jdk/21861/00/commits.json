@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add DEF_STATIC_JNI_OnLoad to libjimage and libsaproc native libraries.Q"},"files":[{"filename":"src\/java.base\/share\/native\/libjimage\/jimage.cpp"},{"filename":"src\/jdk.hotspot.agent\/share\/native\/libsaproc\/sadis.c"}],"sha":"0744bd82777752bd4ec5b804b7773cbb19930e0c"}]
