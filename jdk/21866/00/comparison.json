@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1893,1 +1893,1 @@\n-      Klass* k = cast_to_oop(cur_addr)->klass_without_asserts();\n+      Klass* k = cast_to_oop(cur_addr)->klass();\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
