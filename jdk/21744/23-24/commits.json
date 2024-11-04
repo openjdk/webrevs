@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix build_agent_function_name to not handle \"@\"-stdcall style names"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"88d89e75ecaededb16c3b948f69b5257bd488b47"}]
