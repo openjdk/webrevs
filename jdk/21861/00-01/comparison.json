@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,3 @@\n-extern \"C\" DEF_STATIC_JNI_OnLoad\n+extern \"C\" {\n+DEF_STATIC_JNI_OnLoad\n+}\n","filename":"src\/java.base\/share\/native\/libjimage\/jimage.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
