@@ -1,0 +1,1 @@
+[{"commit":{"message":"JVM_EnqueueOperation do not need __stdcall name lookup anymore"},"files":[{"filename":"src\/jdk.attach\/windows\/native\/libattach\/VirtualMachineImpl.c"}],"sha":"48d722bf6e36ced3e5e11b59e1e672f008c8e8a6"}]
