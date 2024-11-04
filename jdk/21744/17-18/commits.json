@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make JNICALL an empty define on all platforms"},"files":[{"filename":"src\/java.base\/share\/native\/include\/jni.h"},{"filename":"src\/java.base\/unix\/native\/include\/jni_md.h"},{"filename":"src\/java.base\/windows\/native\/include\/jni_md.h"}],"sha":"d89bc5618e480e91a8f659ae3d4f53f1a8b9275c"}]
