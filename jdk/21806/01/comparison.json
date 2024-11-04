@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,1 +219,3 @@\n-  verify(\"pre-oops-do\");\n+  \/\/ We dont perform pre oops_do verify here because this function\n+  \/\/ is used by the GC to fix the oops.\n+\n","filename":"src\/hotspot\/share\/runtime\/lockStack.inline.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
