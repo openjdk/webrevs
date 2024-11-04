@@ -1,0 +1,1 @@
+[{"commit":{"message":"[JNI\/JVM\/AGENT]_[ONLOAD\/ONUNLOAD\/ONATTACH]_SYMBOLS are now identical on Windows and Unix, so unify them"},"files":[{"filename":"src\/hotspot\/os\/posix\/include\/jvm_md.h"},{"filename":"src\/hotspot\/os\/windows\/include\/jvm_md.h"},{"filename":"src\/hotspot\/share\/include\/jvm.h"}],"sha":"6f690d02093cb4095ba7adafb677cd4a7b403df2"}]
