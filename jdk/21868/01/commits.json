@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also requires NMT to actually include thread"},"files":[{"filename":"src\/hotspot\/share\/nmt\/nmtCommon.hpp"}],"sha":"b45dc667d2a3aa4672f5b360cf1f0947ec1ed57a"},{"commit":{"message":"Forward declare class Thread"},"files":[{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.hpp"}],"sha":"d019b556e63d5a844a28a5826707b98ad1294f67"}]
