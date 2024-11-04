@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343502: RISC-V: SIGBUS in updateBytesCRC32 after JDK-8339738"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"133de898f586a3adf4bfd48af8a855035d61691c"}]
