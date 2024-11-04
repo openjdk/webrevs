@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,1 +219,1 @@\n-  \/\/ We dont perform pre oops_do verify here because this function\n+  \/\/ We don't perform pre oops_do verify here because this function\n","filename":"src\/hotspot\/share\/runtime\/lockStack.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
