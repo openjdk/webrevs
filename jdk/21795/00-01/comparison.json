@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,3 @@\n+SEED = 1327\n+\n+random.seed(SEED)\n@@ -403,0 +406,3 @@\n+    def astr(self):\n+        return f'{{load}}' + super().astr()\n+\n","filename":"test\/hotspot\/gtest\/x86\/x86-asmtest.py","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
