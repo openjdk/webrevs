@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -183,2 +183,2 @@\n-    for (uint j = 0; j < n->outcnt(); j++) {\n-      worklist.push(n->raw_out(j));\n+    for (DUIterator_Fast jmax, j = n->fast_outs(jmax); j < jmax; j++) {\n+      worklist.push(n->fast_out(j));\n","filename":"src\/hotspot\/share\/opto\/matcher.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
