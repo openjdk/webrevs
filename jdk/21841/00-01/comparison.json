@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -780,1 +780,1 @@\n-# disables all cipher suites that match that pattern.\n+# disables all cipher suites that start with \"TLS_RSA_\"\n","filename":"src\/java.base\/share\/conf\/security\/java.security","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
