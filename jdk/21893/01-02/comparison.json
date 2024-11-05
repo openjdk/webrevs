@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-  \/\/ graph and it's roots (e.g. Handles).\n+  \/\/ graph and its roots (e.g. Handles).\n@@ -61,0 +61,1 @@\n+\/\/ Loading the java_mirror does not keep its holder alive. See Klass::keep_alive().\n","filename":"src\/hotspot\/share\/oops\/klass.inline.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
