@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,0 +141,1 @@\n+        frame.setLocationRelativeTo(null);\n","filename":"test\/jdk\/javax\/swing\/JMenuItem\/8158566\/CloseOnMouseClickPropertyTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
