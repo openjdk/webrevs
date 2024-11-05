@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,0 +84,3 @@\n+        if (isLinkableRuntime) {\n+            builder.setLinkableRuntime();\n+        }\n","filename":"test\/jdk\/tools\/jlink\/runtimeImage\/SystemModulesTest2.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
