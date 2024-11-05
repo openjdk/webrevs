@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1226,1 +1226,2 @@\n-  \/\/ RISCV64 OpenJDK uses four different types of calls:\n+  \/\/ RISCV64 OpenJDK uses three different types of calls:\n+  \/\/\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
