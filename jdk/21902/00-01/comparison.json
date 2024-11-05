@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -226,1 +226,0 @@\n-    case Bytecodes::_invokespecial:\n@@ -229,0 +228,1 @@\n+    case Bytecodes::_invokespecial:\n@@ -232,0 +232,3 @@\n+    default: {\n+      return false;\n+    }\n","filename":"src\/hotspot\/share\/jfr\/support\/jfrDeprecationManager.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
