@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -135,2 +135,0 @@\n-    \/\/ Used by trusted callers.  Assumes all necessary bounds checks have\n-    \/\/ been done by the caller.\n@@ -438,1 +436,0 @@\n-    \/\/ End of trusted methods.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/DecimalDigits.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
