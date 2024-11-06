@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -406,1 +406,1 @@\n-    static bool force_unlock() {\n+    static void force_unlock() {\n","filename":"src\/hotspot\/share\/nmt\/virtualMemoryTracker.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
