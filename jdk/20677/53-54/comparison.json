@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,0 @@\n- * @requires !vm.gc.ZGenerational\n@@ -64,1 +63,0 @@\n- * @requires !vm.gc.ZGenerational\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/TestDefaultArchiveLoading.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
