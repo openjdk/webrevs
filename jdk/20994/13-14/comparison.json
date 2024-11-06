@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -357,1 +357,0 @@\n-\n@@ -384,0 +383,2 @@\n+    tree.reserve_mapping(0, 100, gc);\n+    tree.reserve_mapping(100, 100, compiler);\n@@ -413,0 +414,1 @@\n+    expect_equivalent_form(expected, tree);\n","filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
