@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-      ss.print(\"Ours:   \");\n+      ss.print(\"OpenJDK:   \");\n@@ -58,1 +58,1 @@\n-      ss.print(\"Theirs: \");\n+      ss.print(\"GNU Assembler: \");\n","filename":"test\/hotspot\/gtest\/x86\/test_assemblerx86.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
