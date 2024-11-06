@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -279,0 +279,1 @@\n+  st->print_cr(\"- early_serialized_data_offset:   \" SIZE_FORMAT_X, _early_serialized_data_offset);\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
