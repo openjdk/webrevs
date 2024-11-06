@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -226,1 +226,1 @@\n-        for (Figure figure :  model.getSelectedFigures()) {\n+        for (Figure figure : model.getSelectedFigures()) {\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/DiagramScene.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
