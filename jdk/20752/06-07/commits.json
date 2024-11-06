@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't crash protect storing walked stack in JFR"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrAsyncStackTrace.cpp"},{"filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrAsyncStackTrace.hpp"}],"sha":"65423ad8bf40d14e43bc3caa2b68f895ddac304f"}]
