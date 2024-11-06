@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-    static String nativeEvent = EventNames.NativeMethodSample;\n+    final static String NATIVE_EVENT = EventNames.NativeMethodSample;\n","filename":"test\/jdk\/jdk\/jfr\/event\/profiling\/TestNative.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
