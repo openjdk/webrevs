@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -301,0 +301,2 @@\n+    \/\/ With auto& our arrays do not deteriorate to pointers but are kept as testrange[N]\n+    \/\/ so this actually works!\n","filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
