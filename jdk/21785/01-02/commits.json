@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use immutable map instead of HashMap.\nIt fits even better: has the same null handling as Hashtable"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSS.java"}],"sha":"a0860021bd3340168f9b35e68aee7c761a935d31"}]
