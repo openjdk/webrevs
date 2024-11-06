@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -389,1 +389,0 @@\n-      assert(_owner == nullptr, \"lock is not recursive\");\n","filename":"src\/hotspot\/share\/nmt\/virtualMemoryTracker.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
