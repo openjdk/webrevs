@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support bytecode generation for invocation of varArg method"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/bytecode\/BytecodeGenerator.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestVarArg.java"}],"sha":"8aa9c038ddf1177f510be6cf02e23e89f65330db"}]
