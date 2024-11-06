@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -425,1 +425,1 @@\n-          range(5, 43)                                                      \\\n+          range(5, max_jint)                                                \\\n","filename":"src\/hotspot\/share\/opto\/c2_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
