@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,0 +37,3 @@\n+PlatformMutex* VirtualMemoryTracker::Locker::_lock = nullptr;\n+Thread* VirtualMemoryTracker::Locker::_owner = nullptr;\n+\n","filename":"src\/hotspot\/share\/nmt\/virtualMemoryTracker.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
