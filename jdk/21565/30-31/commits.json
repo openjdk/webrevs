@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use ThreadIdentifier::initial() in ObjectMonitor::owner_from()"},"files":[{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.inline.hpp"}],"sha":"c0c7e6cf29b4d63e1ff904cbf20ad3e3f6917392"}]
