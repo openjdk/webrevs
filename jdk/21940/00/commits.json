@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343396: Use OperatingSystem, Architecture, and OSVersion in jpackage tests"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/TKit.java"},{"filename":"test\/jdk\/tools\/jpackage\/macosx\/HostArchPkgTest.java"}],"sha":"58c44190635922a9a35b2b0ec92426060f130679"}]
