@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+\n@@ -41,1 +42,1 @@\n-import sun.misc.Unsafe;\n+import jdk.internal.misc.Unsafe;\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/LoopOverRandom.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
