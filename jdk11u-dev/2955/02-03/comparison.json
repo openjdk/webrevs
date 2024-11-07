@@ -1,0 +1,1 @@
+{"files":[{"filename":"test\/jdk\/sun\/security\/pkcs11\/fips\/key4.db","binary":true,"status":"modified"},{"patch":"@@ -8,1 +8,2 @@\n-NSS=trustOrder=100  \n+NSS=trustOrder=100    \n+\n","filename":"test\/jdk\/sun\/security\/pkcs11\/fips\/pkcs11.txt","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
