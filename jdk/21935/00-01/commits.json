@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move flag configuration to VM_Version::initialize(). Add EntryAlignment guarantee like on other platforms."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/c2_init_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.cpp"}],"sha":"db0d279e8179e1c61caf61648ddd9167f21cd260"}]
