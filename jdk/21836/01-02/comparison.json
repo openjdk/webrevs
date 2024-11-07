@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3245,1 +3245,1 @@\n-  Node *con = makecon(lp_proj->is_IfTrue() ? TypeInt::ONE : TypeInt::ZERO);\n+  Node* con = makecon(lp_proj->is_IfTrue() ? TypeInt::ONE : TypeInt::ZERO);\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
