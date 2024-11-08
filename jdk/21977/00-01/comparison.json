@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,1 +97,1 @@\n-  const TypePtr* type() const { return static_cast<const TypePtr*>(_type); }\n+  const TypePtr* type() const { return _type->is_ptr(); }\n","filename":"src\/hotspot\/share\/gc\/shared\/c2\/barrierSetC2.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
