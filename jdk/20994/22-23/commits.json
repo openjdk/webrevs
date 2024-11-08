@@ -1,0 +1,1 @@
+[{"commit":{"message":"Last test didn't actually make any sense\n\nSince the VMATree will remove the released range when it recognises\nthat it is a no-op"},"files":[{"filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp"}],"sha":"2553d6e99f0db15f5b71f9529cd43f5a26d01117"}]
