@@ -1,0 +1,1 @@
+[{"commit":{"message":"llimit max file descriptors to 0x100000, same as on Linux"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"607a4649058f434d6f65557b5c65490b4236d7c2"}]
