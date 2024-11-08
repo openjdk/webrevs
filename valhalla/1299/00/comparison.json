@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n- * @run main\/othervm --enable-preview  SerializedObjectCombo --everything --no-pre-filter\n+ * @run main\/othervm --enable-preview  SerializedObjectCombo\n","filename":"test\/jdk\/java\/io\/Serializable\/valueObjects\/SerializedObjectCombo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
