@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343783\n\nHi all,\n\n  please review this simple change to improve the asserts in the CHT to get more information if\/when there is a failure like in JDK-8337216.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/utilities\/concurrentHashTable.inline.hpp"}],"sha":"ffe70bb79b207c5516ac30c0f08ae3b1ad9f7e64"}]
