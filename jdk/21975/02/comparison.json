@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,2 @@\n-    @IR(counts = {IRNode.LOAD_VECTOR_I, \"> 1\"})\n+    @IR(counts = {IRNode.LOAD_VECTOR_I, \"> 1\"},\n+        applyIfPlatformOr = {\"x64\", \"true\", \"aarch64\", \"true\"})\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestCastX2NotProcessedIGVN.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
