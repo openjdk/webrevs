@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -183,1 +183,0 @@\n- \/\/ const DWORD neutralLangId = (0x04b0 | MAKELANGID(LANG_NEUTRAL, SUBLANG_NEUTRAL) << 16);\n","filename":"src\/jdk.jpackage\/windows\/native\/libjpackage\/VersionInfo.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
