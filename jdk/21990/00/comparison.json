@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n-                        System.getProperty(\"test.providername\", \"SunRsaSign\"));\n+                        System.getProperty(\"test.provider.name\", \"SunRsaSign\"));\n","filename":"test\/jdk\/com\/sun\/crypto\/provider\/Cipher\/RSA\/TestOAEPPadding.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
