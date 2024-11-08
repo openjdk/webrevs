@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+ * @requires os.arch != \"ppc64le\" & os.arch != \"ppc64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestCastX2NotProcessedIGVN.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
