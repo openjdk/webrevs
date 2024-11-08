@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-    private static Path COPIED_JAVA = COPY_JDK_DIR.resolve(\"bin\", \"java\");\n+    private static Path COPIED_JAVA = COPY_JDK_DIR.resolve(\"bin\").resolve(\"java\");\n","filename":"test\/jdk\/java\/security\/Security\/ConfigFileTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"change the line code from COPY_JDK_DIR.resolve(\"bin\", \"java\") to COPY_JDK_DIR.resolve(\"bin\").resolve(\"java\") to avoid jdk21 javac genrate compile error"},"files":[{"filename":"test\/jdk\/java\/security\/Security\/ConfigFileTest.java"}],"sha":"29167217551e0bc5a0c355f9c0c4dd6e33795b5d"}]
