@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1698,0 +1698,1 @@\n+                            \/\/ if the class is not final and not sealed then it has to be freely extensible\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Types.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
