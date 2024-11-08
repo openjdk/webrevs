@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-const char* g_assert_poison_report_page = nullptr;\n+const char* g_assert_poison_page_for_reporting = nullptr;\n","filename":"src\/hotspot\/share\/utilities\/debug.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
