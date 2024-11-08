@@ -1,0 +1,1 @@
+[{"commit":{"message":"Put back @SuppressWarnings annotations to be fixed by JDK-8343286."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/atomic\/AtomicReference.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/atomic\/AtomicReferenceArray.java"}],"sha":"9137373f592b99a3549d4440690481901ec3371c"}]
