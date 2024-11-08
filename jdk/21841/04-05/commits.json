@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ignore all regex characters but asterisk. Update test patterns."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/util\/AbstractAlgorithmConstraints.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/CipherSuite\/TLSCipherSuiteWildCardMatchingDisablePartsOfCipherSuite.java"}],"sha":"a4b7e60efb325329c7bafdb3c0c9f091405ca845"}]
