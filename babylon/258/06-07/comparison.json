@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1945,0 +1945,1 @@\n+                \/\/ @@@ revisit this when the component type is not explicitly given (see VarOp.resultType as an example)\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/code\/op\/CoreOp.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
