@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,5 @@\n-        UTIL_REQUIRE_PROGS(LLD, lld)\n+        if test \"x$TOOLCHAIN_PATH\" != x; then\n+          UTIL_REQUIRE_PROGS(LLD, lld, $TOOLCHAIN_PATH)\n+        else\n+          UTIL_REQUIRE_PROGS(LLD, lld)\n+        fi\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
