@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,2 +112,0 @@\n-  assert(is_path_empty(), \"invariant\");\n-\n","filename":"src\/hotspot\/share\/jfr\/recorder\/repository\/jfrEmergencyDump.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
