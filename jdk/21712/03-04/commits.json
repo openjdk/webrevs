@@ -1,0 +1,1 @@
+[{"commit":{"message":"Undo copyright year change in unchanged file"},"files":[{"filename":"src\/hotspot\/share\/logging\/logFileStreamOutput.hpp"}],"sha":"3e57f47eb1a282562aad00110cb9a1b1bd14cbf0"},{"commit":{"message":"Use nullptr instead of NULL"},"files":[{"filename":"src\/hotspot\/share\/logging\/logFileStreamOutput.cpp"}],"sha":"e7e60ff4d30f771a8d0525ba4817191c0b00fa79"}]
