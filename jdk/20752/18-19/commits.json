@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix ActiveSetting event for CPUTimeSamples"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/settings\/CPUThrottleSetting.java"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/util\/TimespanRate.java"}],"sha":"26615497aa07e6ba1f10ae4317b9172a137793d5"}]
