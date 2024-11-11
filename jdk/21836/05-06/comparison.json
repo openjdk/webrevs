@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,2 +210,1 @@\n-  Node* true_con = phase->igvn().intcon(1);\n-  phase->set_ctrl(true_con, phase->C->root());\n+  Node* true_con = phase->intcon(1);\n","filename":"src\/hotspot\/share\/opto\/predicates.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
