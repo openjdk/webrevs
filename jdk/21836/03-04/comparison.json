@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -996,1 +996,1 @@\n-    assert( !has_node(n) || has_ctrl(n), \"\" );\n+    assert(!has_node(n) || has_ctrl(n), \"\");\n","filename":"src\/hotspot\/share\/opto\/loopnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
