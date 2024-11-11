@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't walk continuations in signal handler"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrAsyncStackTrace.cpp"},{"filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrStackTrace.cpp"},{"filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrStackTrace.hpp"}],"sha":"32d8e642fb5121821598f5fe77d8ce929d8bf510"}]
