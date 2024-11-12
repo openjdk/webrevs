@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1153,1 +1153,1 @@\n-    @Fork(value = 1, jvmArgsPrepend = {\n+    @Fork(value = 1, jvmArgs = {\n","filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/MergeStoreBench.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
