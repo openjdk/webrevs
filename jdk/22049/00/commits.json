@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343416: CDS dump fails when unregistered class can also be loaded from system modules"},"files":[{"filename":"src\/hotspot\/share\/cds\/unregisteredClasses.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/customLoader\/ClassFromSystemModule.java"}],"sha":"a1ba9e28e3e4b2b359b24feae4f4406c5ceaf61a"}]
