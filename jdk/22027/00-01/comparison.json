@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-                (long) ARRAY_BYTE_BASE_OFFSET + ARRAY_BYTE_INDEX_SCALE * index * 2L);\n+                              ARRAY_BYTE_BASE_OFFSET + ARRAY_BYTE_INDEX_SCALE * index * 2L);\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/StringUTF16.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
