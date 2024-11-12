@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-      \/\/ host processes \/ containers w\/private cgroup namespace\n+      \/\/ host processes and containers with cgroupns=private\n","filename":"src\/hotspot\/os\/linux\/cgroupV1Subsystem_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
