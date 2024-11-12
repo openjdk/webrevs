@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,1 @@\n-            \"com.sun.security.ocsp.readtimeout\", DEFAULT_READ_TIMEOUT);\n+            \"com.sun.security.ocsp.readtimeout\", CONNECT_TIMEOUT);\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/OCSP.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
