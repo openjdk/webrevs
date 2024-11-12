@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343944: C2: MinLNode::add_ring() computes _widen wrongly leading to an endless compilation"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"src\/hotspot\/test\/hotspot\/jtreg\/compiler\/ccp\/TestWrongMinLWiden.java"}],"sha":"a1676a33849bdaa18eeca652473c7a6fe2977912"}]
