@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-  _compiler_stubs_code_size     = 25000 ZGC_ONLY(+5000),\n+  _compiler_stubs_code_size     = 45000,\n","filename":"src\/hotspot\/cpu\/riscv\/stubRoutines_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
