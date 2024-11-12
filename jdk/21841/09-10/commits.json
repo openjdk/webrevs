@@ -1,0 +1,1 @@
+[{"commit":{"message":"Put the fail() within the try\/catch-block, so we don't need to explictly return in the catch-block"},"files":[{"filename":"test\/jdk\/sun\/security\/ssl\/CipherSuite\/TLSCipherSuiteWildCardMatchingIllegalArgument.java"}],"sha":"4e7f8c43f37ce2dd4fcbf67583d1ac50f36eb8a8"}]
