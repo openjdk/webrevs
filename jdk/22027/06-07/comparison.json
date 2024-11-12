@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -833,1 +833,1 @@\n-        long offset  = (long) Unsafe.ARRAY_BYTE_BASE_OFFSET + index;\n+        long offset = (long) Unsafe.ARRAY_BYTE_BASE_OFFSET + index;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringLatin1.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
