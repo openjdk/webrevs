@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -163,1 +163,1 @@\n- * Returns str or \"<NULL>\" if str is null; useful for printing strings.\n+ * Returns str or \"<null>\" if str is null; useful for printing strings.\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/native\/nsk_tools.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
