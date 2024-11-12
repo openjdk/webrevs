@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Unnecessary Hashtable usage in RSAPSSSignature.DIGEST_LENGTHS\n\nUse Immutable Map instead old synchronized Hashtable"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/rsa\/RSAPSSSignature.java"}],"sha":"3643d8cbeeb49bbab8e6719a18b75f33d5e63495"}]
