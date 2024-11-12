@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restrict functionality to jdk.tls.disabledAlgorithms. Decrease initial pattern capacity."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/util\/DisabledAlgorithmConstraints.java"}],"sha":"fc4cdca8e2cbba46ade8d8199a05bb5c4e8a0b2f"}]
