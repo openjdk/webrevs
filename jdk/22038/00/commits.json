@@ -1,0 +1,1 @@
+[{"commit":{"message":"Take into account BoxLock nodes when determining if a block is empty"},"files":[{"filename":"src\/hotspot\/share\/opto\/block.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/locks\/TestSynchronizeWithEmptyBlock.java"}],"sha":"c75aa40bf344badd5398f289e39c73a53821ebe5"}]
