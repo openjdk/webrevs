@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,0 +237,2 @@\n+  \/\/ Find the next range to adjust and set range, remsize and from\n+  \/\/ appropriately. If it returns false, there is no valid next range.\n","filename":"src\/hotspot\/share\/nmt\/vmatree.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
