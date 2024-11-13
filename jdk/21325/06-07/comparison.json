@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -425,1 +425,0 @@\n-    len = static_cast<int>(wrapped_str.length);\n","filename":"src\/hotspot\/share\/classfile\/stringTable.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
