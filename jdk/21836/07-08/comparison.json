@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2485,1 +2485,1 @@\n-          Node *zero = integercon(0, exp_bt);\n+          Node* zero = integercon(0, exp_bt);\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
