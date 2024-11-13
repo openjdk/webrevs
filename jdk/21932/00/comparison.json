@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5298,1 +5298,1 @@\n-    const uint64_t range_mask = (1ULL << log2i(range)) - 1;\n+    const uint64_t range_mask = right_n_bits(ceil_log2(range));\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
