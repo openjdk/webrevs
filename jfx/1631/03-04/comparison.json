@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -596,1 +596,1 @@\n-    \/\/ TODO: JDK-8344111: Consider removing this obsolete method\n+    \/\/ TODO: JDK-8344111: Consider removing this obsolete field\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/WindowStage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
