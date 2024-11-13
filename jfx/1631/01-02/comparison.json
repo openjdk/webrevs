@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,2 @@\n+ *\n+ * C is a singleton. Its instance is obtained by calling C.getC().\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/monocle\/C.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
