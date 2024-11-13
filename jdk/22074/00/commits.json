@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343700: ceil_log2 should not loop endlessly"},"files":[{"filename":"src\/hotspot\/share\/utilities\/powerOfTwo.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_powerOfTwo.cpp"}],"sha":"229441a6781fb5f6f260cae63f37a3300ca53886"}]
