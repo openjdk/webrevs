@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,0 +83,2 @@\n+            \/\/ The TLAB max size is not limited explicitly\n+            \/\/ So the test limit max size of young generation to allocate outside TLAB\n","filename":"test\/jdk\/jdk\/jfr\/threading\/TestDeepVirtualStackTrace.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
