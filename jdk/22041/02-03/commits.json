@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove overlooked SecurityManager use in ObjectInputFilter and ObjectStreamClass"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ObjectInputFilter.java"},{"filename":"src\/java.base\/share\/classes\/java\/io\/ObjectStreamField.java"}],"sha":"3e56ef0934e364afb2ffb1a86b2b448c7518e5cf"}]
