@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove osName and osArch fields from Config.\nRemove getValue method from P11KeyAgreement."},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/Config.java"},{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/P11KeyAgreement.java"}],"sha":"0a1cc52390e173b66ee922f60d026a221730bede"}]
