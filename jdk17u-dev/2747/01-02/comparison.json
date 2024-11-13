@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,0 @@\n-    private static final int DEFAULT_READ_TIMEOUT = 15000;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/OCSP.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
