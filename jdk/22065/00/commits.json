@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343633: The ClassLoader::print_counters() prints to stdout when logging is enabled."},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"},{"filename":"src\/hotspot\/share\/runtime\/java.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/ClassResolutionTest.java"}],"sha":"40b7777b4b4222c817ce245bf040c8cb50796274"}]
