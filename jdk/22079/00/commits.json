@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316804: Gracefully handle the case where --release is not specified last"},"files":[{"filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/GNUStyleOptions.java"},{"filename":"test\/jdk\/tools\/jar\/ReleaseBeforeFiles.java"}],"sha":"311c725e5ea3b09a8460474433cfafc99efb97b9"}]
