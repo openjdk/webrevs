@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -284,0 +284,1 @@\n+                \/\/ cancelImpl will eventually call drainInputQueue();\n@@ -285,1 +286,0 @@\n-                drainInputQueue();\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Stream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
