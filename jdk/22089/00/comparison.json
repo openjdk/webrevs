@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-\t$(info $(_) TEST_DEPS=\"dependency1 ...\" # Specify additional dependencies for running tests, e.g docs-jdk\n+\t$(info $(_) TEST_DEPS=\"dependency1 ...\" # Specify additional dependencies for running tests, e.g docs-jdk)\n","filename":"make\/Global.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
