@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cleanup SM-dependent code in the ZipFs area"},"files":[{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"},{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystemProvider.java"},{"filename":"test\/jdk\/jdk\/nio\/zipfs\/TestPosix.java"}],"sha":"d8936a5c09307aee4198552a97710ca770f8c84d"}]
