@@ -1,0 +1,1 @@
+[{"commit":{"message":"More obsolete code.  Fix trace_class_resolution (doesn't throw exception - shouldn't take TRAPS)."},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"},{"filename":"src\/hotspot\/share\/runtime\/vframe.cpp"}],"sha":"ca34fc5b4da9fdeeaaf34c1dc4e78b5f04001c7b"}]
