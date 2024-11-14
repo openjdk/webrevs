@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-  if(FLAG_IS_DEFAULT(AddRuntimeUpcallsNOP)) return true;\n+  if(AddRuntimeUpcallsNOP == nullptr || FLAG_IS_DEFAULT(AddRuntimeUpcallsNOP)) return true;\n","filename":"src\/hotspot\/share\/runtime\/runtimeUpcallNop.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
