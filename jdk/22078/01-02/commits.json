@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix aarch64 opto output"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"}],"sha":"7d32a8357a2a1b03c78c4cd7046c93e4633a5772"},{"commit":{"message":"Clarify semantics of LoadNKlassNode and effect on C2's type system"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.hpp"}],"sha":"b6c818481bb1f9347153e85d62142c9baef58ba2"}]
