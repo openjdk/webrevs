@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2100,0 +2100,1 @@\n+  _output->print_cr(\"      !: show nodes on IGV (sent over network stream)\");\n","filename":"src\/hotspot\/share\/opto\/node.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
