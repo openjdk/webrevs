@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fold lines for System::getProperty when reading enableMultiRelease and inhibitZip64"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarFile.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipOutputStream.java"}],"sha":"6a72b060501981842822680cfa700d1d287f8c04"}]
