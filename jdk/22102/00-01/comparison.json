@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- *            (os.arch==\"aarch64\" & vm.cpu.features ~= \".*svebitperm.*\")\n+ *            (os.arch==\"aarch64\" & vm.cpu.features ~= \".*svebitperm.*\"))\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestBitShuffleOpers.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
