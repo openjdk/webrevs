@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -280,1 +280,1 @@\n-        Pattern inner = Pattern.compile(\"[> ]`(-[^ :]+?)(:|`)\");\n+        Pattern inner = Pattern.compile(\"[>\\\\s]`(-[^ :]+?)(:|`)\");\n","filename":"test\/langtools\/jdk\/javadoc\/tool\/CheckManPageOptions.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
