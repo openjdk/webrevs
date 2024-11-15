@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n-import sun.nio.cs.CharsetMapping;\n+import sun.nio.cs.*;\n","filename":"src\/jdk.charsets\/share\/classes\/sun\/nio\/cs\/ext\/SJIS_0213.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
