@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344327: SM cleanup in jdk.unsupported ReflectionFactory\nRemoved the permission check to call getReflectionFactory()."},"files":[{"filename":"src\/jdk.unsupported\/share\/classes\/sun\/reflect\/ReflectionFactory.java"}],"sha":"0319c48fe3ca40481f2fd4bb1748e8b166b70ae9"}]
