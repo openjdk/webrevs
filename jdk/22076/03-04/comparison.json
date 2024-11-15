@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5306,1 +5306,1 @@\n-  _debug_network_printer->print(name, (Node*) Compile::current()->root(), visible_nodes);\n+  _debug_network_printer->print(name, (Node*)C->root(), visible_nodes);\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
