@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,1 @@\n-  assert(value > 0 && \"Invalid value\");\n+  assert(value > 0, \"Invalid value\");\n","filename":"src\/hotspot\/share\/utilities\/powerOfTwo.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
