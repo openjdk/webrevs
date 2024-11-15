@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not need -ea -esa in tests, our testing infra adds them already"},"files":[{"filename":"test\/jdk\/jdk\/internal\/ref\/Cleaner\/CleanableListTest.java"}],"sha":"a7584bcc8cedc3b75505217adb63292f2db36590"}]
