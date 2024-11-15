@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,0 +161,4 @@\n+    if (FLAG_IS_DEFAULT(CodeEntryAlignment) &&\n+        (_model == CPU_MODEL_AMPERE_1A || _model == CPU_MODEL_AMPERE_1B)) {\n+      FLAG_SET_DEFAULT(CodeEntryAlignment, 32);\n+    }\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
