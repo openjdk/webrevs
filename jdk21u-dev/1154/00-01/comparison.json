@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -133,1 +133,1 @@\n-  return fr(sp, epc);\n+  return frame(sp, epc);\n","filename":"src\/hotspot\/os_cpu\/aix_ppc\/os_aix_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
