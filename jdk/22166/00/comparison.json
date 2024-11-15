@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -164,1 +164,1 @@\n-class Win32AttachOperationRequest {\n+class Win32AttachOperationRequest: public CHeapObj<mtServiceability> {\n","filename":"src\/hotspot\/os\/windows\/attachListener_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
