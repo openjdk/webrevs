@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Reorder 'Compact' vs 'Compressed'\"\n\nThis reverts commit 94275040e36982a36f9463e98189c0184fd5bbc8."},"files":[{"filename":"src\/hotspot\/share\/oops\/objLayout.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.inline.hpp"}],"sha":"ee7be903595fd5204ceed90075e22d343059afbb"}]
