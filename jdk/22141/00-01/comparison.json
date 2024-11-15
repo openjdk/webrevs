@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,0 @@\n-    @SuppressWarnings(\"removal\")\n@@ -148,1 +147,0 @@\n-    @SuppressWarnings(\"removal\")\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/ClassFileDumper.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
