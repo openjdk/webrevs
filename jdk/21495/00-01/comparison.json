@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -741,1 +741,1 @@\n-     *  to make the reference unique.\n+     *  to make the reference unique. The types in the AST nodes will be erased.\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/tree\/TreeMaker.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
