@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -455,1 +455,1 @@\n-    size_t regions_to_xfer = MIN2(excess_regions, unaffiliated_old_regions);\n+    regions_to_xfer = MIN2(excess_regions, unaffiliated_old_regions);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
