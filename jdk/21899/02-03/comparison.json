@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4490,1 +4490,0 @@\n-    print_inlining_reset();\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
