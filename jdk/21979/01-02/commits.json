@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8341793: Fix ExceptionOccurred in jdk.accessibility\nRemoved trailing white spaces"},"files":[{"filename":"src\/jdk.accessibility\/windows\/native\/libjavaaccessbridge\/AccessBridgeJavaEntryPoints.cpp"}],"sha":"81b2efa48636a3bfa9142db44310925eb465d92b"}]
