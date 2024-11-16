@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8342044: Increase timeout of gc\/shenandoah\/oom\/TestClassLoaderLeak.java\"\n\nThis reverts commit 2c0c65353b2f67bdcd954b4d2c2ae3e9b24d1c22."},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/oom\/TestClassLoaderLeak.java"}],"sha":"d83dfbd470504cf216c8fa6684d4d294245a0ab5"}]
