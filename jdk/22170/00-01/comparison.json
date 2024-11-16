@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,2 +89,1 @@\n-            var sl = getServiceLoader(loader);\n-            itr = sl.iterator();\n+            itr = getServiceLoader(loader).iterator();\n","filename":"src\/java.scripting\/share\/classes\/javax\/script\/ScriptEngineManager.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
