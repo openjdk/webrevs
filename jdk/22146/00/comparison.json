@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+ * @requires vm.hasSA\n","filename":"test\/jdk\/tools\/sincechecker\/modules\/jdk.hotspot.agent\/JdkHotspotAgentCheckSince.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
