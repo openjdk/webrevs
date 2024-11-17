@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure InnocuousForkJoinWorkerThread usable with or without SecurityManager"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinWorkerThread.java"}],"sha":"0f5aa3dc95c3c89d2ec2222d7be28eb44c524674"}]
