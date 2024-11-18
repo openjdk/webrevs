@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,4 +132,0 @@\n-#ifndef INCLUDE_LINK_TIME_OPTIMIZATION\n-#define INCLUDE_LINK_TIME_OPTIMIZATION 0\n-#endif\n-\n","filename":"src\/hotspot\/share\/utilities\/macros.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
