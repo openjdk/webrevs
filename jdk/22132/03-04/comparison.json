@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -732,1 +732,1 @@\n-                    sb.append(addr.toString());\n+                    sb.append(addr);\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ServerSocketChannelImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
