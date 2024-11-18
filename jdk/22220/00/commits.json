@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344445: MethodCounters don't need a vptr"},"files":[{"filename":"src\/hotspot\/share\/oops\/metadata.hpp"},{"filename":"src\/hotspot\/share\/oops\/methodCounters.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodCounters.hpp"}],"sha":"fafb86ff47dd06d715e76107d8df2e489b3963df"}]
