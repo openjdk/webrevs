@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -191,1 +191,1 @@\n-        \/\/ Wait 5 seconds for server ready\n+        \/\/ Wait 60 seconds for server ready\n","filename":"test\/jdk\/java\/security\/cert\/CertPathValidator\/OCSP\/OCSPTimeout.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
