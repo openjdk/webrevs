@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,0 @@\n- * @run main\/othervm -XX:+UseZGC -XX:NativeMemoryTracking=summary -Xms16m -Xmx128m -XX:-UseLargePages -Xlog:gc jdk.jfr.event.runtime.TestNativeMemoryUsageEvents true\n","filename":"test\/jdk\/jdk\/jfr\/event\/runtime\/TestNativeMemoryUsageEvents.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
