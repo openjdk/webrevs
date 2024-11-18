@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-                configs.add(List.of(\"-XX:+UseRVV\"));\n+                configs.add(List.of());\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/chacha\/TestChaCha20.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
