@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -900,1 +900,1 @@\n-          assert(HeapShared::is_lambda_proxy_klass(ik), \"sanity\");\n+          CDS_JAVA_HEAP_ONLY(assert(HeapShared::is_lambda_proxy_klass(ik), \"sanity\");)\n","filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
