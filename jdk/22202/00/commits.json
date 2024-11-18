@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344393: RISC-V: Remove option UseRVVForBigIntegerShiftIntrinsics"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"95043a3bdf6fab34c856050d9752aeb014e5e743"}]
