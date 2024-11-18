@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-\/\/ when VM can't operate and doesn't respond to jcm\n+\/\/ when VM can't operate and doesn't respond to jcmd\n","filename":"src\/hotspot\/share\/runtime\/vmOperations.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
