@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-        boolean success;\n+        boolean success = false;\n@@ -96,1 +96,0 @@\n-            success = false;\n","filename":"src\/java.desktop\/share\/classes\/sun\/awt\/image\/ImagingLib.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
