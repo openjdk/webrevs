@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2922,1 +2922,1 @@\n-  bool save_vectors = (poll_type == POLL_AT_VECTOR_LOOP);\n+  bool save_vectors = (id == SharedStubId::polling_page_vectors_safepoint_handler_id);\n","filename":"src\/hotspot\/cpu\/s390\/sharedRuntime_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
