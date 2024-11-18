@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -280,1 +280,1 @@\n-    } else if (vm_reg->is_VectorRegister()){\n+    } else if (vm_reg->is_VectorRegister()) {\n@@ -284,1 +284,0 @@\n-        Register spill_addr = Z_R0;\n","filename":"src\/hotspot\/cpu\/s390\/gc\/shared\/barrierSetAssembler_s390.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
