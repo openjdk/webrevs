@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,0 +300,3 @@\n+    \/* Compute\/set the name of the executable *\/\n+    SetExecname(*pargv);\n+\n","filename":"src\/java.base\/unix\/native\/libjli\/java_md.c","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
