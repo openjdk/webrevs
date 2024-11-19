@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8341935: javac states that -proc:full is the default but the default as of 23 is -proc:none"},"files":[{"filename":"src\/jdk.compiler\/share\/man\/javac.md"}],"sha":"af54db1e407c770e36e67a059eed51a8689f1b05"}]
