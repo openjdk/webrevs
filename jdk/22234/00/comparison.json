@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,0 @@\n-import java.security.AccessControlContext;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/JavaLangAccess.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
