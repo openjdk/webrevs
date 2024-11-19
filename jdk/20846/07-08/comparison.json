@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,2 @@\n-import com.sun.java.swing.plaf.windows;\n+import com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel;\n+import com.sun.java.swing.plaf.windows.WindowsInternalFrameTitlePane;\n","filename":"test\/jdk\/javax\/swing\/JInternalFrame\/6725409\/bug6725409.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
