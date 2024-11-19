@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,1 +132,1 @@\n-#ifdef INCLUDE_JFR\n+#if INCLUDE_JFR && defined(ASSERT)\n@@ -194,1 +194,1 @@\n-#if defined(INCLUDE_JFR) && defined(ASSERT)\n+#if INCLUDE_JFR != 0 && defined(ASSERT)\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
