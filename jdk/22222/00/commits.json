@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8341775: In the case where there is a *single* META-INF directory but potentially *multiple* manifest files of different cases, print a warning before selecting the first one and ignoring the rest."},"files":[{"filename":"src\/jdk.jartool\/share\/classes\/jdk\/security\/jarsigner\/JarSigner.java"}],"sha":"06e90503f3e75b1b432ec0a196716f01ebb7344a"}]
