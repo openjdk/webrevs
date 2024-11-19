@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-    @CompilerControl(CompilerControl.Mode.DONT_INLINE)\n+    @CompilerControl(CompilerControl.Mode.INLINE)\n","filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/VectorStoreToLoadForwarding.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
