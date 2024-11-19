@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert sharedRuntime.cpp"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"12e82f68085300151d5ba4a09adf6e21ef4badf7"},{"commit":{"message":"Revert sharedRuntime_x86.cpp"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86.cpp"}],"sha":"74905f02f21e22fc42b275b433a3c37f4ff3b377"}]
