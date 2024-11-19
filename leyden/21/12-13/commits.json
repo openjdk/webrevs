@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support for builds without CDS"},"files":[{"filename":"src\/hotspot\/share\/cds\/cds_globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/init.cpp"},{"filename":"src\/hotspot\/share\/services\/diagnosticCommand.hpp"}],"sha":"b47655e4276d551fb4b87e4037a1297d784541dd"}]
