@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -938,1 +938,1 @@\n-  LIBAWT_LWAWT_CFLAGS := $(X_CFLAGS) $(X_LIBS)  -Wno-deprecated-non-prototype\n+  LIBAWT_LWAWT_CFLAGS := $(X_CFLAGS) $(X_LIBS) $(CFLAGS_XCODE14_DEPR_NON_PROTOTYPE)\n","filename":"make\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
