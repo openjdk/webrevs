@@ -1,0 +1,1 @@
+[{"commit":{"message":"8337826: Improve logging in OCSPTimeout and SimpleOCSPResponder to help diagnose JDK-8309754\n\nReviewed-by: mullan"},"files":[{"filename":"test\/jdk\/java\/security\/cert\/CertPathValidator\/OCSP\/OCSPTimeout.java"},{"filename":"test\/jdk\/java\/security\/testlibrary\/SimpleOCSPServer.java"}],"sha":"dec1e18b21000d623c6884012b209afd0e1cc7c6"}]
