@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,3 +40,0 @@\n-\n-AWT_ICONPATH := $(MODULE_SRC)\/share\/classes\/sun\/awt\/resources\n-\n","filename":"make\/modules\/java.desktop\/gensrc\/GensrcIcons.gmk","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
