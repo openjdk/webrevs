@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -387,1 +387,1 @@\n-        \/\/ concat the resources from the modules and the class path\n+        \/\/ concat the URLs of the resource in the modules and the class path\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/BuiltinClassLoader.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
