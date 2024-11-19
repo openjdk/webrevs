@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -880,1 +880,1 @@\n-             advanceTransform.rotate(iangle * Math.PI \/ 1800.0);\n+             advanceTransform.rotate(rotation * Math.PI \/ 1800.0);\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WPathGraphics.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
