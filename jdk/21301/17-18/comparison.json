@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2239,1 +2239,1 @@\n-                                || workingInt.subtract(sqrt.multiply(sqrt)).signum != 0\n+                                || !workingInt.equals(sqrt.multiply(sqrt))\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
