@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344414: ZGC: Another division by zero in rule_major_allocation_rate (ubsan)"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zDirector.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zStat.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zStat.hpp"}],"sha":"3bc3ff4b76bb12b3753ceefdca2909626b62b715"}]
