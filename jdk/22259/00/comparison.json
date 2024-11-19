@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -356,1 +356,1 @@\n-  void operator delete(void* p) { ShouldNotCallThis(); }\n+  void operator delete(void* p) = delete;\n","filename":"src\/hotspot\/share\/memory\/allocation.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
