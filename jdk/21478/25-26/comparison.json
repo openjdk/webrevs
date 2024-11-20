@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -208,0 +208,1 @@\n+            case \"ML-KEM\", \"ML-KEM-768\", \"ML-KEM-512\", \"ML-KEM-1024\" -> -1;\n","filename":"test\/jdk\/sun\/security\/provider\/all\/Deterministic.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
