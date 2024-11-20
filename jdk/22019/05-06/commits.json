@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore logging format, show change in committed heap, rather than usage"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahUncommitThread.cpp"}],"sha":"2cb711408eecd380dba6b44367df0d5a494d461b"}]
