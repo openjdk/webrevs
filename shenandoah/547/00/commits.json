@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'shenandoah\/master' into drop-with-card-barrier"},"files":[],"sha":"c63e659384e287251dcc0240332336233ca2daaa"},{"commit":{"message":"Use card barrier when dropping reference"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp"}],"sha":"fb6a55a86280e800e27dba79fe8ccaf8b0e2e596"}]
