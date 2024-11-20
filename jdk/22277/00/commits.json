@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344560: Add system property for patched runtime"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"test\/jdk\/java\/lang\/System\/patchedModule\/ModulePatcherTest.java"},{"filename":"test\/jdk\/java\/lang\/System\/patchedModule\/patch\/java\/lang\/TestInteger.java"}],"sha":"1d2395f39ee95a80937c63713e1f874ecc4ae76e"}]
