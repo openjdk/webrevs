@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -446,0 +446,1 @@\n+    sub(t1, t1, frame::metadata_words * wordSize); \/\/ Exclude 2 frame metadata words\n@@ -448,1 +449,0 @@\n-    sub(t1, t1, frame::metadata_words * wordSize); \/\/ Exclude 2 frame metadata words\n","filename":"src\/hotspot\/cpu\/riscv\/interp_masm_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
