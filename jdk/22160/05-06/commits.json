@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use safe-`close()` before throwing `UHE` in `connect()`"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java"}],"sha":"a21c5e068555dc99e72d63ab29d3fbe75a543080"}]
