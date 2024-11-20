@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -307,1 +307,1 @@\n-    @SuppressWarnings({\"removal\", \"restricted\"})\n+    @SuppressWarnings(\"restricted\")\n","filename":"src\/jdk.sctp\/unix\/classes\/sun\/nio\/ch\/sctp\/SctpNet.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
