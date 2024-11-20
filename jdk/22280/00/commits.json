@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check for ACC_STATIC before writing static field value"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.c"}],"sha":"336bcdf4614666e0f0a662551c54d124ff6f9bcf"}]
