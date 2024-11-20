@@ -1,0 +1,1 @@
+[{"commit":{"message":"Catch all `bind()` and `connect()` exceptions in ctor"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java"},{"filename":"test\/jdk\/java\/net\/Socket\/CloseOnFailureTest.java"}],"sha":"ce568022f9a0fc9c0e9727911e3856048e1a054c"}]
