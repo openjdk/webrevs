@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,1 @@\n+import java.lang.Override;\n@@ -42,1 +43,0 @@\n-\n@@ -107,0 +107,1 @@\n+                serverException.printStackTrace();\n","filename":"test\/jdk\/sun\/security\/ssl\/SSLCipher\/SSLSocketNoServerHelloClientShutdown.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
