@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -487,1 +487,1 @@\n-        return String.format(format, printCommandLine(cmdline), cmdline.size() + 1);\n+        return String.format(format, printCommandLine(cmdline), cmdline.size());\n","filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/Executor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
