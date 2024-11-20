@@ -1,0 +1,1 @@
+[{"commit":{"message":"Verifier should not touch claim token (lest it unwittingly obscure a defect)"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.cpp"}],"sha":"c07bcb57784aedb5a31a44afd2309a1b0f59cb6f"}]
