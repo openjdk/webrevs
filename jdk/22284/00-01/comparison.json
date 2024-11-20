@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,3 +70,0 @@\n-        } catch(SecurityException lue) {\n-            log.println(\"SecurityException\");\n-            return STATUS_PASSED;\n","filename":"test\/jdk\/javax\/sound\/sampled\/Lines\/GetLine.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
