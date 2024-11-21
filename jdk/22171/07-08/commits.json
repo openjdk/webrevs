@@ -1,0 +1,1 @@
+[{"commit":{"message":"lock changed and flagless requires removed"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestJhsdbJstackPrintVMLocks.java"}],"sha":"4ed1d57e938071c3df70464c64f23ebc26fcf7b5"}]
