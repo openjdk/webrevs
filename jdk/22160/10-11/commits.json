@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle `SocketTimeoutException` in `NioSocketImpl::connect()`"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/NioSocketImpl.java"}],"sha":"9f00f61d3b7fa42a5e23a04f80bb4bb1a2076ef2"}]
