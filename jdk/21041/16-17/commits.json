@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix checking of padding layouts"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/AbstractLinker.java"},{"filename":"test\/jdk\/java\/foreign\/TestLinker.java"}],"sha":"0102e568f14ba4033ec75347ae84894f03aab8ad"}]
