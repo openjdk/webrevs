@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,3 @@\n+#include \"memory\/allocation.hpp\"\n+#include \"utilities\/ostream.hpp\"\n+\n","filename":"src\/hotspot\/share\/opto\/printinlining.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
