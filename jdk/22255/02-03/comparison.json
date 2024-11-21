@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -872,0 +872,2 @@\n+  ObjLayout::initialize();\n+\n@@ -876,2 +878,0 @@\n-  ObjLayout::initialize();\n-\n","filename":"src\/hotspot\/share\/memory\/universe.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
