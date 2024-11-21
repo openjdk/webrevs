@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -839,1 +839,1 @@\n-        If omitted, all events are printed. (STRING, no default value)\n+        If omitted or zero, all events are printed. (INT, 0)\n","filename":"src\/jdk.jcmd\/share\/man\/jcmd.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
