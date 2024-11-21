@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+import jdk.internal.util.StaticProperty;\n@@ -40,1 +41,1 @@\n-        System.getProperty(\"sun.jnu.encoding\"));\n+        StaticProperty.jnuEncoding());\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/fs\/Util.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
