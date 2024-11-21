@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -841,1 +841,1 @@\n-        int[][][] a = new int[mlDsa_k][mlDsa_l][ML_DSA_N];\n+        int[][][] a = new int[mlDsa_k][mlDsa_l][];\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/ML_DSA.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
