@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-    private final int syncDelay = DEFAULT_SYNC_DELAY;\n+    private final int syncDelay = DEFAULT_SPEED;\n","filename":"test\/jdk\/lib\/client\/ExtendedRobot.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
