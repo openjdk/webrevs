@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+#ifdef _M_ARM64\n@@ -41,1 +42,1 @@\n-double SharedRuntime::fmod_winx64(double x, double y)\n+double SharedRuntime::fmod_win64(double x, double y)\n@@ -160,0 +161,2 @@\n+\n+#endif\n","filename":"src\/hotspot\/os\/windows\/sharedRuntimeRem.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
