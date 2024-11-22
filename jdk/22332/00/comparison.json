@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -470,1 +470,1 @@\n-java\/awt\/Robot\/InfiniteLoopException.java 8342638 windows-all\n+java\/awt\/Robot\/InfiniteLoopException.java 8342638 windows-all,linux-all\n","filename":"test\/jdk\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
