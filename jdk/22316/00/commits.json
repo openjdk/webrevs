@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344841: ClassPrinter prints confusing value for null"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/ClassPrinterImpl.java"},{"filename":"test\/jdk\/jdk\/classfile\/ClassPrinterTest.java"}],"sha":"6db7e46e8c125c53ebfa1e4f6ba08759cd58e1c6"}]
