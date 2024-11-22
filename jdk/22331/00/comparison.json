@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4338,0 +4338,3 @@\n+    if (_log != nullptr) {\n+      _log->done(\"phase\");\n+    }\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
