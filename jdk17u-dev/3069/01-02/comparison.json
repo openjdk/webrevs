@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,0 +194,1 @@\n+        kpg.initialize(SecurityUtils.getTestKeySize(kpgDSA));\n","filename":"test\/jdk\/jdk\/security\/jarsigner\/Spec.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
