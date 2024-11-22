@@ -1,0 +1,1 @@
+[{"commit":{"message":"revert to c for -1 check"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/arm\/c1_LIRGenerator_arm.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/c1_LIRGenerator_ppc.cpp"}],"sha":"cad8a9bc889a4502e8c4d3f51656c33a33e67985"}]
