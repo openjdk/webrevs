@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-\/\/implements EventCriteria<KeyEvent> \n+\/\/implements EventCriteria<KeyEvent>\n","filename":"modules\/jfx.incubator.input\/src\/main\/java\/jfx\/incubator\/scene\/control\/input\/KeyBinding.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
