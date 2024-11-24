@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-    mvn clean install --log-file \"${installLog}\"\n+    mvn ${JVM_ARGUMENTS} clean install --log-file \"${installLog}\"\n","filename":"build.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
