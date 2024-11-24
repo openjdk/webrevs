@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixe 32-bit builds; removed unused function"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotArtifactFinder.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotArtifactFinder.hpp"},{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"29946dda04cd4601103cb032cfc2b3f84d5fd7f3"}]
