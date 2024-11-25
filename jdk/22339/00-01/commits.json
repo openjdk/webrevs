@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344882: Do not create Cleaner for temporary buffers"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template"},{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/Util.java"}],"sha":"b68ee5f0fca6d11c9c630c0d2cfd8a69d5891018"}]
