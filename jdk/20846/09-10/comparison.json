@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-        frame = new JFrame();\n+        frame = new JFrame(\"bug6725409\");\n","filename":"test\/jdk\/javax\/swing\/JInternalFrame\/6725409\/bug6725409.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
