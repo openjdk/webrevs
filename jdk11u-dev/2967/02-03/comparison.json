@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-          --enable-xcode14\n+          --disable-warnings-as-errors\n","filename":".github\/workflows\/build-macos.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
