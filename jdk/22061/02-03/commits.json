@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix bug in unsigned_mod_ideal"},"files":[{"filename":"src\/hotspot\/share\/opto\/divnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/UModINodeIdealizationTests.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/UModLNodeIdealizationTests.java"}],"sha":"6d518bd1d75a1b083aee929c08110e5d589e3029"}]
