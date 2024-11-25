@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,3 +42,0 @@\n-#if[byte]\n-import jdk.internal.vm.annotation.Stable;\n-#end[byte]\n","filename":"src\/java.base\/share\/classes\/java\/nio\/Direct-X-Buffer.java.template","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
