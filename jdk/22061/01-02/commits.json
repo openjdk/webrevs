@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve tests, remove edge case"},"files":[{"filename":"src\/hotspot\/share\/opto\/divnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/UDivINodeIdealizationTests.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/UDivLNodeIdealizationTests.java"}],"sha":"750c241c1fe3fb147270a337a54a7c5a1f971cb7"}]
