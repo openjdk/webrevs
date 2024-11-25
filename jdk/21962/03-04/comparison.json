@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,2 +24,3 @@\n-import java.awt.event.*;\n-import java.awt.*;\n+import java.awt.event.ActionListener;\n+import java.awt.event.ActionEvent;\n+import java.awt.AWTEventMulticaster;\n","filename":"test\/jdk\/java\/awt\/event\/StressTest\/LargeAWTEventMulticasterTest.java","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
