@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -521,0 +521,4 @@\n+#if INCLUDE_JFR\n+  _last_freeze_fail_result(freeze_ok),\n+#endif\n+\n@@ -2364,1 +2368,1 @@\n-#endif\n\\ No newline at end of file\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/javaThread.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
