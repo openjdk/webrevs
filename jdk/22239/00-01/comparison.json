@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1349,0 +1349,1 @@\n+test-docs: test-docs_all\n@@ -1352,1 +1353,1 @@\n-    test-jdk-jtreg-native\n+    test-jdk-jtreg-native test-docs\n","filename":"make\/Main.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
