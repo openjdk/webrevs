@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,0 +136,3 @@\n+\n+  \/\/ The minimum alignment requirement of the constant table, must be a power of 2. The constant\n+  \/\/ section of the nmethod must satisfy this value.\n","filename":"src\/hotspot\/share\/opto\/constantTable.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
