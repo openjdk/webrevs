@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove timeout as JTREG has a default test timeout"},"files":[{"filename":"test\/jdk\/sun\/security\/ssl\/SSLCipher\/SSLSocketNoServerHelloClientShutdown.java"}],"sha":"dba6605f60f20ade09a15e5bfd358f04c8c76dba"}]
