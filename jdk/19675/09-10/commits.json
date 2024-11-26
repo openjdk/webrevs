@@ -1,0 +1,1 @@
+[{"commit":{"message":"update end() to remove mention of other methods throwing IllegalStateException"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/Deflater.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/Inflater.java"}],"sha":"359670b8a8bf241cab2bde80e0b70ae43461a399"}]
