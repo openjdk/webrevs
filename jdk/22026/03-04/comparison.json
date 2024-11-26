@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,0 @@\n-import java.awt.Panel;\n@@ -27,0 +26,1 @@\n+import java.awt.Panel;\n@@ -60,1 +60,0 @@\n-                .rows((int) INSTRUCTIONS.lines().count() + 2)\n","filename":"test\/jdk\/java\/awt\/TextArea\/TextAreaCursorTest\/HoveringAndDraggingTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
