@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add fall-back on OOME, cancel on JVM exceptions"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/locks\/StampedLock.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/locks\/StampedLock\/OOMEInStampedLock.java"}],"sha":"1d3f703df4a6712089f2354afc2a3957535f70bc"}]
