@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -671,1 +671,1 @@\n-      AC_MSG_WARN([The x86 port is deprecated and may be removed in a future release.])\n+      AC_MSG_WARN([The 32-bit x86 port is deprecated and may be removed in a future release.])\n","filename":"make\/autoconf\/platform.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
