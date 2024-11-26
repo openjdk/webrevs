@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344882: Make allocate+free be only in Util"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/Buffer.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/JavaNioAccess.java"},{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/Util.java"}],"sha":"c27de5a36d4dbf9d57b26a3b910a0409654e8858"}]
