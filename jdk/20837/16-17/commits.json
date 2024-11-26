@@ -1,0 +1,1 @@
+[{"commit":{"message":"Just exclude the a11y libraries from static builds"},"files":[{"filename":"make\/StaticLibs.gmk"},{"filename":"make\/modules\/jdk.accessibility\/Lib.gmk"}],"sha":"658be7d63cdeef1756dc2a51d107bbf368558f5f"}]
