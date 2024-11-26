@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345058: javac issues different error messages for the modifiers of the requires directive"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/modules\/RequiresTransitiveTest.java"}],"sha":"7389695d34148e81afbb50a204277f712e072e4b"}]
