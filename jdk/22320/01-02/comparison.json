@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,1 +178,1 @@\n-        if (allowZeroClassCount && classCount == 0L) {\n+        if (allowZeroClassCount && totalClassCount == 0L) {\n","filename":"test\/hotspot\/jtreg\/testlibrary\/ctw\/src\/sun\/hotspot\/tools\/ctw\/CtwRunner.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
