@@ -1,0 +1,1 @@
+[{"commit":{"message":"Some java\/foreign tests wrongly assume aligned memory"},"files":[{"filename":"test\/jdk\/java\/foreign\/TestByteBuffer.java"},{"filename":"test\/jdk\/java\/foreign\/TestDereferencePath.java"}],"sha":"d1ea3b699154c441f16a69f913f6e5c3cf3a322b"}]
