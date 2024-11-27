@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-    if ((len = (cname != NULL ? (strlen(cname) + 1) : 0) + strlen(sym) + 1) >\n+    if ((len = strlen(sym) + (cname != NULL ? (strlen(cname) + 1) : 0) + 1) >\n","filename":"src\/java.base\/share\/native\/libjava\/NativeLibraries.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
