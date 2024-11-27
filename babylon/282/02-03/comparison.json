@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,0 @@\n- *\n@@ -114,1 +113,1 @@\n- *     } successor_table[successors_length]\n+ *     } successors_table[successors_length]\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/internal\/CodeModelAttribute.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
