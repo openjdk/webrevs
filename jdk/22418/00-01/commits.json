@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removal of unused fields from AccessControlContext - no longer needed now that VM cleanup is done."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/security\/AccessControlContext.java"}],"sha":"8abeb41b740534e832135a9e29f53460e4c509f2"}]
