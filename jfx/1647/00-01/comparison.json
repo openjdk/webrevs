@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1488,1 +1488,1 @@\n-logger.quiet(\"jdk build \" + javaVersionInfo.build().orElse(0))\n+logger.quiet(\"jdk build: \" + javaVersionInfo.build().orElse(0))\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
