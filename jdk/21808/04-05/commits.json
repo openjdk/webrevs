@@ -1,0 +1,1 @@
+[{"commit":{"message":"adjust path suffix in cgroup (v1) version specific code, when root != cgroup"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupUtil_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/cgroupV1Subsystem_linux.cpp"}],"sha":"f27175a858db530682518a10454d34407bc5ea5c"}]
