@@ -1,0 +1,1 @@
+[{"commit":{"message":"abs(MIN_INT) is not positive"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/ModINodeIdealizationTests.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/ModLNodeIdealizationTests.java"}],"sha":"b0d72683527f91a8d45c58bcd4ae0664a304ac5e"}]
