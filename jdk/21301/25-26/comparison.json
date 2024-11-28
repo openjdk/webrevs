@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4634,1 +4634,1 @@\n-    private int digitLengthLower(BigInteger b) {\n+    private static int digitLengthLower(BigInteger b) {\n@@ -4637,0 +4637,1 @@\n+\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
