@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move to shared code and apply @shipilev suggestions"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.cpp"}],"sha":"bcee0a5715674e2cdde822feed3ee0e436e29381"}]
