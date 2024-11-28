@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345175: Further cleanup in java.logging and jdk.internal.logger after JEP 486 integration"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/logger\/LoggerFinderLoader.java"},{"filename":"src\/java.logging\/share\/classes\/java\/util\/logging\/LogManager.java"}],"sha":"0e32721d9c407798d822fd332fdedef780124bd1"}]
