@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix fallback linker issues"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/fallback\/FallbackLinker.java"},{"filename":"test\/jdk\/java\/foreign\/TestLinker.java"}],"sha":"96b093a19b3027d0c73809333d18eedef64dadb4"}]
