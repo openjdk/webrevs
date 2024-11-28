@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make sure interpreter entries are not called on Power8 or older."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/templateInterpreterGenerator_ppc.cpp"}],"sha":"9a8a2734cf7acf38d8a79292d45d03499f59ad4a"}]
