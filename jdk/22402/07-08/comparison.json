@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-            p.y += yOffset(); \/\/ TODO use fw\n+            p.y += yOffset();\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/widgets\/SlotWidget.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
