@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -346,1 +346,1 @@\n-                .run()\n+                .run(Task.Expect.FAIL)\n","filename":"test\/langtools\/tools\/javac\/modules\/RequiresTransitiveTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
