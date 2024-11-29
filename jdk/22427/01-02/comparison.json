@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,0 +86,2 @@\n+            } else {\n+                pattern = new Pattern[] { Pattern.compile(\"Registers:\"), null };\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/ShowRegistersOnAssertTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
