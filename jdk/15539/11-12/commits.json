@@ -1,0 +1,1 @@
+[{"commit":{"message":"Undo SunNativeProvider provider changes. They will be implemented in JDK-8345221."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/action\/PutAllAction.java"},{"filename":"src\/java.security.jgss\/share\/classes\/sun\/security\/jgss\/wrapper\/SunNativeProvider.java"}],"sha":"29e9cba970fdbbd2192c8d2de1e93a03b1b0d1e1"}]
