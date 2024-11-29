@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fold LintSuppression methods back into existing Lint class."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Lint.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/LintSuppression.java"}],"sha":"7cb7aa0cd01c7e49ae7772e2845818918317691f"}]
