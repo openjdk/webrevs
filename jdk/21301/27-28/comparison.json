@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4635,1 +4635,1 @@\n-        return (int) (((b.bitLength() + 1L) * 646456993L) >>> 31);\n+        return (int) (((b.abs().bitLength() + 1L) * 646456993L) >>> 31);\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
