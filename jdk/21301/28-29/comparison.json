@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4632,1 +4632,1 @@\n-     * @return an integer {@code r} such that {@code 10^(r-1) <= b < 10^(r+1)}.\n+     * @return an integer {@code r} such that {@code 10^(r-1) <= abs(b) < 10^(r+1)}.\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
