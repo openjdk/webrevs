@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2177,0 +2177,2 @@\n+  clone_barrier_init();\n+  write_ref_field_pre_init();\n","filename":"src\/hotspot\/share\/opto\/runtime.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
