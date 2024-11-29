@@ -1,0 +1,1 @@
+[{"commit":{"message":"Wrap more SSE 1\/2 asserts in NOT_LP64"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"b27b9ef61557fd9196eaed4b41c0a8c3272a87d1"}]
