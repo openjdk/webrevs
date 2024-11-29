@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345236: RISC-V: Remove revb_h_h_u and revb_h_w_u macro assembler routines"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/templateTable_riscv.cpp"}],"sha":"7790933c66f21310e9f9b0ba35b96734f606d6cb"}]
