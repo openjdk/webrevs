@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-                properties.add(CONTENT_LENGTH, String.valueOf(length));\n+                properties.add(CONTENT_LENGTH, Long.toString(length));\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/file\/FileURLConnection.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
