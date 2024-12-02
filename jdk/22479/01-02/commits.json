@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle zero too"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"5777379ae3108aa3ebd78055cf708a31fa7457b0"},{"commit":{"message":"Check get_current_sve_vector_length more comprehensively"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"05ada0d65d3a89740bce1be2de85b18a36e2ddeb"}]
