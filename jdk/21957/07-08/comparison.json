@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-  do_arch_blob(compiler, 19000 LP64_ONLY(+48000) WINDOWS_ONLY(+2000))   \\\n+  do_arch_blob(compiler, 20000 LP64_ONLY(+48000) WINDOWS_ONLY(+2000))   \\\n","filename":"src\/hotspot\/cpu\/x86\/stubDeclarations_x86.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
