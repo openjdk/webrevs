@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1217,1 +1217,1 @@\n-            resolveByResolver = (xmlInputSource != null) ? true : false;\n+            resolveByResolver = xmlInputSource != null;\n","filename":"src\/java.xml\/share\/classes\/com\/sun\/org\/apache\/xerces\/internal\/impl\/XMLEntityManager.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
