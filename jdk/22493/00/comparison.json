@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -251,1 +251,1 @@\n-                    clb.withFlags(ACC_ABSTRACT | ACC_SUPER)\n+                    clb.withFlags(ACC_FINAL | ACC_SUPER)\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/InvokerBytecodeGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
