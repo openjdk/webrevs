@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -335,1 +335,1 @@\n-                    .collect(Collectors.summingLong(e -> e));\n+                        .collect(Collectors.summingLong(e -> e));\n","filename":"src\/java.base\/linux\/classes\/jdk\/internal\/platform\/cgroupv2\/CgroupV2Subsystem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
