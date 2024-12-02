@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -616,1 +616,1 @@\n-    ALLOW_C_FUNCTION(::free((void*) _init_error_msg));\n+    ALLOW_C_FUNCTION(::free, ::free((void*) _init_error_msg));\n","filename":"src\/hotspot\/share\/jvmci\/jvmciEnv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
