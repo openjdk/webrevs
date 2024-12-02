@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,0 @@\n-    requires jdk.jfr;\n","filename":"test\/jdk\/tools\/jlink\/plugins\/SystemModuleDescriptors\/src\/net.foo\/module-info.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
