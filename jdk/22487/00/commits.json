@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343932: Error when parsing qualified generic type test pattern in switch"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8343932.java"}],"sha":"bdfafc29b816a4aef9ddc10290f50b5b83a156d7"}]
