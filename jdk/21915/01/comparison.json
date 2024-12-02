@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-$JAVA ${TESTVMOPTS} -classpath \\\n+$JAVA ${TESTVMOPTS} ${TESTJAVAOPTS} -classpath \\\n","filename":"test\/jdk\/javax\/script\/ProviderTest.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
