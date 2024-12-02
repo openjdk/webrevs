@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -452,1 +452,1 @@\n-    } else if (vl < FloatRegister::sve_vl_min || ((vl % FloatRegister::sve_vl_min) != 0) || !is_power_of_2(vl)) {\n+    } else if (!is_power_of_2(vl) || (vl % FloatRegister::sve_vl_min) != 0) {\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
