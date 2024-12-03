@@ -1,0 +1,1 @@
+[{"commit":{"message":"move logic to add2reg_32 & use java_negate()"},"files":[{"filename":"src\/hotspot\/cpu\/s390\/c1_LIRAssembler_s390.cpp"},{"filename":"src\/hotspot\/cpu\/s390\/macroAssembler_s390.cpp"},{"filename":"src\/hotspot\/cpu\/s390\/macroAssembler_s390.hpp"}],"sha":"608cec707602622828d0ae58c616a4431663ef0d"}]
