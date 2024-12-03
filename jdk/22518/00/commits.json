@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332686: InetAddress.ofLiteral can throw StringIndexOutOfBoundsException"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/Inet6Address.java"},{"filename":"test\/jdk\/java\/net\/InetAddress\/OfLiteralTest.java"}],"sha":"4d02a617380992afa43f39d78bc99b7baf4b2d8b"}]
