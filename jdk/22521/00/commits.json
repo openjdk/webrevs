@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340359: Remove javax.naming.Context.APPLET"},"files":[{"filename":"src\/java.naming\/share\/classes\/javax\/naming\/Context.java"},{"filename":"test\/jdk\/javax\/naming\/InitialContext\/AppletIsNotUsed.java"},{"filename":"test\/jdk\/javax\/naming\/InitialContext\/NoApplet.java"}],"sha":"f716038de176cfde9fe1f9293fc5eb2bd6d38f7e"}]
