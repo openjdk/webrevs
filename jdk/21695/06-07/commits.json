@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only calculate klass-decode-mode in one place."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp"},{"filename":"src\/hotspot\/share\/oops\/compressedKlass.hpp"}],"sha":"16cdc5b07de82f3a075c31c9a53631868296ff21"}]
