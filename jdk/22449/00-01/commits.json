@@ -1,0 +1,1 @@
+[{"commit":{"message":"implement suggested changes from @chhagedorn's review"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestIntCountedLoopLongLimit.java"}],"sha":"79d8c146b9574aa2d488345de015b5844c244a1c"}]
