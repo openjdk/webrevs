@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -283,1 +283,1 @@\n-content isn't expanded and is passed as-is to the java launcher. In order to\n+content isn't expanded and is passed as-is to the starting VM. In order to\n","filename":"src\/java.base\/share\/man\/java.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
