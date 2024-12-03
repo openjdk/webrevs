@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-        robot.glide(button1Origin.x, button1Center.x, button1Origin.y, button1Center.y);\n+        robot.glide(button1Origin.x, button1Origin.y, button1Center.x, button1Center.y);\n","filename":"test\/jdk\/javax\/swing\/reliability\/TaskUndJFrameProperties.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
