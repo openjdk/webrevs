@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-        frame = new Frame(\"IndependenceSwingTest\");\n+        frame = new Frame(\"IndependenceAWTTest\");\n","filename":"test\/jdk\/java\/awt\/datatransfer\/Independence\/IndependenceAWTTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
