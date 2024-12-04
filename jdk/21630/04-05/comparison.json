@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,1 @@\n-      jlong trip_count = (limit_con - init_con + stride_m)\/stride_con;\n+      jlong trip_count = (limit_con - init_con + stride_m) \/ stride_con;\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
