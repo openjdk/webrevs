@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n- *       {@linkplain getPolicy getPolicy} method has been changed to always\n+ *       {@linkplain #getPolicy getPolicy} method has been changed to always\n","filename":"src\/java.base\/share\/classes\/java\/security\/Policy.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
