@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5302,3 +5302,1 @@\n-  if (_klass_decode_mode != KlassDecodeNone) {\n-    return _klass_decode_mode;\n-  }\n+  \/\/ KlassDecodeMode could change with final calculation, so recalculate.\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
