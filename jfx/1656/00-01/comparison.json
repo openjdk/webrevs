@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -459,1 +459,1 @@\n-     * Contains UI preferences of the current platform.\n+     * Contains preferences of the current platform.\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/application\/Platform.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
