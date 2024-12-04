@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345474: instanceof does not reify the deduced type when patterns are not used in the compilation unit"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/main\/JavaCompiler.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8345474.java"}],"sha":"e46f9bc8221869122280d27b503bdec46cbeecc3"}]
