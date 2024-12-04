@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,2 @@\n+ * Using SSLEngine allows the client to force the generation of the plaintext\n+ * alert messages.\n","filename":"test\/jdk\/sun\/security\/ssl\/SSLCipher\/SSLSocketNoServerHelloClientShutdown.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
