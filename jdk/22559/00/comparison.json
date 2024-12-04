@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -578,1 +578,1 @@\n-      found_files=$($ECHO $(ls $1\/$file 2> \/dev\/null))\n+      found_files=$($ECHO $($LS -d $1\/$file 2> \/dev\/null))\n","filename":"make\/autoconf\/util.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
