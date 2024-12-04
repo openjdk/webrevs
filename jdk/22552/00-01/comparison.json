@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1528,1 +1528,2 @@\n-                .map(p -> p.get()).toList();\n+                .map(p -> p.get())\n+                .toList();\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/Files.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
