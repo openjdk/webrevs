@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345340: (JEP 483) JDK24b26 (not seen on b25) several JCK tests which use native JVMTI lib trigger VM crash"},"files":[{"filename":"src\/hotspot\/share\/cds\/filemap.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/jvmti\/CFLH\/MultiReleaseJars.java"}],"sha":"5996c7837d6b77ff8923f080b2294053c476a0c1"}]
