@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -664,0 +664,6 @@\n+`wix-conv.xsl`\n+\n+:   WiX source code converter. Used for converting WiX sources from WiX v3 to v4 schema when WiX v4 or newer is used\n+\n+    Default resource is *wix3-to-wix4-conv.xsl*\n+\n","filename":"src\/jdk.jpackage\/share\/man\/jpackage.md","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
