@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-  ifneq ($($(MODULE)_JDK_LIBS), )\n+  ifneq ($($(MODULE)_INCLUDED_LIBS), )\n","filename":"make\/ModuleWrapper.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
