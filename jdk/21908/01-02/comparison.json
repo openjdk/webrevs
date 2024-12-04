@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-            throw new IllegalArgumentException(e.getMessage());\n+            throw new IllegalArgumentException(\"key creation error\", e);\n","filename":"src\/java.security.jgss\/share\/classes\/javax\/security\/auth\/kerberos\/KeyImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
