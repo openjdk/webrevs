@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -473,1 +473,1 @@\n-  JVM_HEAP_LIMIT_64=\"1600\"\n+  JVM_HEAP_LIMIT_64=\"2048\"\n","filename":"make\/autoconf\/boot-jdk.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
