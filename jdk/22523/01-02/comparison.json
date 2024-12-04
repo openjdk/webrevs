@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -172,1 +172,1 @@\n-        if (RANDOM.nextInt(8) != 0) {  \/\/ 87.5% chance for a point\n+        if (RANDOM.nextInt(8) != 0) {  \/\/ 87.5% chance of point presence\n","filename":"test\/jdk\/jdk\/internal\/math\/FloatingDecimal\/TestRandomFloatingDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
