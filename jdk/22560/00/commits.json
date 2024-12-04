@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345390: [ubsan] systemDictionaryShared.cpp:964: member call on null pointer"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/LambdaInvokeVirtual.java"}],"sha":"ea7484343cdf618ae75d12c0c00bb3ea15b75db4"}]
