@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -492,0 +492,5 @@\n+    if test \"x$TOOLCHAIN_TYPE\" = xgcc; then\n+      DEBUG_CFLAGS_JDK=\"DEBUG_CFLAGS_JDK -ftrivial-auto-var-init=pattern\"\n+      DEBUG_CFLAGS_JVM=\"-ftrivial-auto-var-init=pattern\"\n+    fi\n+\n","filename":"make\/autoconf\/flags-cflags.m4","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
