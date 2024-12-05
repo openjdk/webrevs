@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -564,1 +564,0 @@\n-            JDI_ASSERT_MSG(JNI_FALSE, \"invokeNonvirtual with Object returned type\");\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/invoker.c","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
