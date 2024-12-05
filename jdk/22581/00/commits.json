@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345614: core-libs: Include container in \"java.lang.annotation.AnnotationFormatError: Duplicate annotation for class\" error\n\nSigned-off-by: Scott Marlow <smarlow@redhat.com>"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/reflect\/annotation\/AnnotationParser.java"}],"sha":"32bbd46168ae380ff5fae70dd79d51e9533747b6"}]
