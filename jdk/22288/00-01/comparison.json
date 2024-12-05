@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1079,1 +1079,1 @@\n-                    if (numComponents >= tempComponents.length) {\n+                    if (numComponents > tempComponents.length) {\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/font\/TextLine.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
