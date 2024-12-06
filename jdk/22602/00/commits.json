@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345659: Fix broken alignment after ReservedSpace splitting in GC code"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.cpp"}],"sha":"e4eba9a89e4b48fa0c1ca3d8dd329c3f3992cd8b"}]
