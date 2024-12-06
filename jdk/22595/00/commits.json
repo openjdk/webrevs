@@ -1,0 +1,1 @@
+[{"commit":{"message":"8339019: Obsolete the UseLinuxPosixThreadCPUClocks flag"},"files":[{"filename":"src\/hotspot\/os\/linux\/globals_linux.hpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"28f2a50f24f97814a60c07bf7507d09eb983f3f2"}]
