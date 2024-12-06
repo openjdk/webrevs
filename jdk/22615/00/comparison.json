@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-JAVA_FLAGS_BIG := -Xms64M -Xmx1600M\n+JAVA_FLAGS_BIG := -Xms64M -Xmx2048M\n","filename":"make\/RunTestsPrebuiltSpec.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
