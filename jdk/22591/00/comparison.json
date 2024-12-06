@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,0 +75,1 @@\n+        sslIS.read();\n","filename":"test\/jdk\/javax\/net\/ssl\/SSLSocket\/Tls13PacketSize.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
