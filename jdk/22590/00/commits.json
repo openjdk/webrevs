@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8287122: Use gcc12 -ftrivial-auto-var-init=pattern in debug builds\"\n\nThis reverts commit 41c8971cbcc1d281ffae907c952637ebff945ebb."},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"}],"sha":"feb20a470f4de5f89228ccdb84bbc41f48dd5982"}]
