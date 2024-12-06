@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -727,1 +727,6 @@\n-  return strcmp(result, \"\") != 0 ? result : nullptr;\n+  if (strcmp(result, \"\") != 0) {\n+    return result;\n+  } else {\n+    os::free((void*)result);\n+    return nullptr;\n+  }\n","filename":"src\/hotspot\/share\/classfile\/modules.cpp","additions":6,"deletions":1,"binary":false,"changes":7,"status":"modified"}]}
