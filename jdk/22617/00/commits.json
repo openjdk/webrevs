@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344922: Redefinition verifies the new klass when verification is disabled"},"files":[{"filename":"src\/hotspot\/share\/classfile\/verifier.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/RedefineClasses\/RedefineVerifyError.java"}],"sha":"1b03bcc3e642994af1b23df195ed6a1ae7ae308a"}]
