@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,0 @@\n-#include \"nmt\/memTracker.hpp\"\n@@ -723,1 +722,0 @@\n-  MemTracker::record_virtual_memory_tag((address)(uintptr_t)addr, mtTest);\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
