@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1394,1 +1394,1 @@\n-  void* ret = ::GetProcAddress((HMODULE)lib, name);\n+  void* ret = CAST_FROM_FN_PTR(void*, ::GetProcAddress((HMODULE)lib, name));\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
