@@ -1,0 +1,1 @@
+[{"commit":{"message":"avoid strdup in the empty string case"},"files":[{"filename":"src\/hotspot\/share\/classfile\/modules.cpp"}],"sha":"e0aa51e0ec4ab61d8179078a68f6e36c9c28ac1f"}]
