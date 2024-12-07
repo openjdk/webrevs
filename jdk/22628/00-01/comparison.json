@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -222,0 +222,1 @@\n+        System.out.println(\"test.jdk: \"+System.getProperty(\"test.jdk\", \".\"));\n","filename":"test\/jdk\/tools\/jimage\/CustomFileSystemProviderTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
