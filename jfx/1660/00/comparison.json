@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -185,0 +185,1 @@\n+    XSetLocaleModifiers(\"\");\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/GlassApplication.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
