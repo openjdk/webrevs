@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345757: [ASAN] clang17 report dprintf macro redefined"},"files":[{"filename":"src\/java.smartcardio\/share\/native\/libj2pcsc\/pcsc.c"},{"filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/j2secmod.h"}],"sha":"c6c8c66f9933a0fe9d5bd566b0b48be4d19a8595"}]
