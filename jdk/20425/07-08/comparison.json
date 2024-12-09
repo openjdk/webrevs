@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,1 +137,0 @@\n-        size_t r_size = curr.distance_from(begin_node);\n","filename":"src\/hotspot\/share\/nmt\/regionsTree.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
