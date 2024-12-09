@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1696,1 +1696,1 @@\n-\/\/ expand out this because it is often the case that an index vector is reused in many rearrange\n+\/\/ expand this out because it is often the case that an index vector is reused in many rearrange\n","filename":"src\/hotspot\/share\/opto\/vectornode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
