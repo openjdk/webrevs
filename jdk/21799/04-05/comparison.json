@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -163,0 +163,1 @@\n+#ifdef WINDOWS\n@@ -185,0 +186,1 @@\n+#endif\n","filename":"test\/jdk\/java\/io\/File\/libGetXSpace.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
