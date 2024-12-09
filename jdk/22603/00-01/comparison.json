@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2222,1 +2222,1 @@\n-    return \/*dumptime*\/ narrow_oop_base() + r->mapping_offset();\n+    return \/*dumptime*\/ (address)((uintptr_t)narrow_oop_base() + r->mapping_offset());\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
