@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix crash due to uninitilized pointer"},"files":[{"filename":"src\/hotspot\/os\/bsd\/memMapPrinter_macosx.cpp"}],"sha":"c2dc01cfcb633579a7a35bc1412307313106a0ff"}]
