@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-\/\/ together with NewSize, are used to derive them.\n+\/\/ together with NewSize, is used to derive them.\n","filename":"src\/hotspot\/share\/gc\/shared\/genArguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
