@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1210,1 +1210,0 @@\n-            configure_args: \"--with-jcov=\" + input.get(\"jcov\", \"home_path\"),\n","filename":"make\/conf\/jib-profiles.js","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
