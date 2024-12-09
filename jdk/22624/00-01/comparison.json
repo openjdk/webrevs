@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,0 @@\n-  STANDARD_LIBS += -lstdc++\n@@ -117,1 +116,1 @@\n-    LIBS := $(STATIC_LIBS) $(EXTERNAL_LIBS) $(STANDARD_LIBS), \\\n+    LIBS := $(STATIC_LIBS) $(EXTERNAL_LIBS), \\\n","filename":"make\/StaticLibs.gmk","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
