@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix missing multiple-include guards\nAdded explicit includes instead of forward decls (trying to track down unrelated Windows build failure)\nFixed indent of assertion"},"files":[{"filename":"src\/hotspot\/share\/utilities\/nativeStackPrinter.hpp"}],"sha":"cfdb7da0a6047858d714e5bb42b73a1b6d8c6e82"}]
