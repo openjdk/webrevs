@@ -1,0 +1,1 @@
+[{"commit":{"message":"both tests declared automatic, labeled as jdk_foreign_stress and that group added to tier3"},"files":[{"filename":"test\/jdk\/TEST.groups"},{"filename":"test\/jdk\/java\/foreign\/TestMatrix.java"},{"filename":"test\/jdk\/java\/foreign\/TestUpcallStress.java"}],"sha":"1df813ce7c51e3a3e32bb53ddd2b922e0f94f282"}]
