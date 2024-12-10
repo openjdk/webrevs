@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 06c44dd568d91e1bd68f60fd3e57abcbe97e5dca"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/StringSupport.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/InternalStrLen.java"}],"sha":"6af4197ee79ad46b537a05fa5d45789af2eb0852"}]
