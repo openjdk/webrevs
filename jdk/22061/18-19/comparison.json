@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,0 +77,1 @@\n+        \/\/ Make sure classes are loaded when compiling with -Xcomp\n","filename":"test\/hotspot\/jtreg\/compiler\/splitif\/TestSplitDivisionThroughPhi.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
