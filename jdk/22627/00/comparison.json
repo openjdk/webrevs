@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -441,1 +441,1 @@\n-    \/\/ Remove the specified item.\n+    \/\/ Add the specified item.\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/CMenuBar.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
