@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345647: Fix recent NULL usage backsliding in Shenandoah"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/gc\/shenandoah\/shenandoahBarrierSetAssembler_ppc.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahBarrierSetC2.cpp"}],"sha":"df560b69ebebd82e914d05774d34c078af36c111"}]
