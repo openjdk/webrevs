@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -653,1 +653,1 @@\n-                  false \/* print_source_info *\/, -1 \/* max stack *\/);\n+                             false \/* print_source_info *\/, -1 \/* max stack *\/);\n","filename":"src\/hotspot\/share\/utilities\/debug.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
