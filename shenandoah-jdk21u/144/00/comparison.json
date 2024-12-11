@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,1 @@\n+import sun.jvm.hotspot.gc.shenandoah.ShenandoahGenerationalHeap;\n@@ -93,0 +94,1 @@\n+    addHeapTypeIfInDB(db, ShenandoahGenerationalHeap.class);\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/memory\/Universe.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
