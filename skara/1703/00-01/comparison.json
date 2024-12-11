@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-files=.*\\.java$|.*\\.gradle$|.*\\.sh$|.*\\.bat$|.*\\.py$|.*\\.css$|.*\\.html$|.*\\.dockerfile$|.*\\.gitconfig$|Makefile\n+files=.*\\.java|.*\\.gradle|.*\\.sh|.*\\.bat|.*\\.py|.*\\.css|.*\\.html|.*\\.dockerfile|.*\\.gitconfig|Makefile\n","filename":".jcheck\/conf","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
