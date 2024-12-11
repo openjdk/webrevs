@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,2 +39,2 @@\n-  for (uintptr_t* end = addr + count; addr < end; ++addr) {\n-    *addr = value;\n+  for (size_t i = 0; i < count; ++i) {\n+    addr[i] = value;\n","filename":"src\/hotspot\/share\/gc\/z\/zUtils.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
