@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346008: Fix recent NULL usage backsliding in Shenandoah"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalEvacuationTask.cpp"}],"sha":"430a4b610218684b49d643d5b9d8ec8d7581f1ca"}]
