@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3302,1 +3302,1 @@\n-JVM_ENTRY_NO_ENV(jboolean, JVM_IsStaticallyLinked(void))\n+JVM_LEAF(jboolean, JVM_IsStaticallyLinked(void))\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
