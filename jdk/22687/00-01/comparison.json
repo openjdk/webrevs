@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -432,1 +432,1 @@\n-    if (!mode_flag_cmd_line JVMCI_ONLY(&& !UseJVMCICompiler && !UseGraalJIT)) {\n+    if (!mode_flag_cmd_line JVMCI_ONLY(&& !UseJVMCICompiler && !UseGraalJIT && !EnableJVMCIProduct && !EnableJVMCI)) {\n","filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
