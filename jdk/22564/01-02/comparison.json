@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -408,2 +408,1 @@\n-\n-     * @see  #keyPress(int)\n+     * @see     #keyPress(int)\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Robot.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
