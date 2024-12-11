@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -348,1 +348,1 @@\n-  const node_idx_t _idx;\n+  node_idx_t _idx;\n","filename":"src\/hotspot\/share\/opto\/node.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
