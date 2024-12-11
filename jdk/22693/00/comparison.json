@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,3 @@\n-    total_time += os::thread_cpu_time(thread);\n+    if (!thread->has_terminated()) {\n+      total_time += os::thread_cpu_time(thread);\n+    }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMmuTracker.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
