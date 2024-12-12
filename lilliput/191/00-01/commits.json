@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix preservedMarks gtest"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/fullGCForwarding.cpp"},{"filename":"test\/hotspot\/gtest\/gc\/shared\/test_preservedMarks.cpp"}],"sha":"42ca1c80df1845e6ff86e7955a0949428191e358"}]
