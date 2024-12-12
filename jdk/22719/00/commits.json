@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove `UHE` guard from `Socket::connect`"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java"},{"filename":"test\/jdk\/java\/net\/Socket\/ConnectFailTest.java"}],"sha":"c8fcc3497d3f751e7a4fbdcf9fe3a08c465e2cae"}]
