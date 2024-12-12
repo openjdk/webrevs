@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,1 +140,3 @@\n-        realpath((char *)dlinfo.dli_fname, buf);\n+        if (realpath((char *)dlinfo.dli_fname, buf) == NULL) {\n+            perror((char *)dlinfo.dli_fname);\n+        }\n","filename":"src\/java.desktop\/unix\/native\/libawt\/awt\/awt_LoadLibrary.c","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
