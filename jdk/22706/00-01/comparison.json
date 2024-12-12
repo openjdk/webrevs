@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1151,2 +1151,0 @@\n-#else\n-  st->print_cr(\"JVMTI support not included in this JVM.\");\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
