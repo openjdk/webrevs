@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-        SecretKey salt = null;\n+        SecretKey salt = EMPTY_KEY;\n","filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/P11KDF.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
