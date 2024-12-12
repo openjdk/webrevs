@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1313,0 +1313,3 @@\n+ifeq ($(call isTargetOs, aix), true)\n+all-images: product-images test-image all-docs-images\n+else\n@@ -1314,0 +1317,1 @@\n+endif\n","filename":"make\/Main.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
