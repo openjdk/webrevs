@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -292,1 +292,1 @@\n-\t  $(CHMOD) u+w '$(call DecodeSpace, $@)'; \\\n+\t  $(CHMOD) -h u+w '$(call DecodeSpace, $@)'; \\\n","filename":"make\/common\/MakeBase.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
