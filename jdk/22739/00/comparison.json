@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n- * The target name is the name of the permission (see below). The\n+ * The target name is the name of the permission. The\n","filename":"src\/java.sql\/share\/classes\/java\/sql\/SQLPermission.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
