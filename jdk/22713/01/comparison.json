@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1313,1 +1313,4 @@\n-all-images: product-images static-jdk-image test-image all-docs-images\n+all-images: product-images test-image all-docs-images\n+ifeq ($(call isTargetOs, linux macosx windows), true)\n+  all-images: static-jdk-image\n+endif\n","filename":"make\/Main.gmk","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
