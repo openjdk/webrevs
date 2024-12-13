@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5176,1 +5176,0 @@\n-  \/\/ The create_mirror() call will also call compute_modifiers()\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
