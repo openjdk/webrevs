@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -201,1 +201,1 @@\n-  TESTSIZE min = std::numeric_limits<TESTSIZE>::max();\n+  TESTSIZE min = std::numeric_limits<TESTSIZE>::min();\n","filename":"test\/hotspot\/gtest\/riscv\/test_assembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
