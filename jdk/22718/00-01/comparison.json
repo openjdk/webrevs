@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -345,3 +345,1 @@\n-                        synchronized (lock) {\n-                            lock.notify();\n-                        }\n+                        lock.notify();\n","filename":"test\/jdk\/java\/lang\/Thread\/virtual\/MonitorPinnedEvents.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
