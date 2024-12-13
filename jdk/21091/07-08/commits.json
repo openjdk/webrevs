@@ -1,0 +1,1 @@
+[{"commit":{"message":"implement and use new Thread::stack_base_or_null() method"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memMapPrinter.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"4e4f0fe334281fca52a692f74553f11df05c5419"}]
