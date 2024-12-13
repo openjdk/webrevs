@@ -1,0 +1,1 @@
+[{"commit":{"message":"8205051: Added an extra method disable_numa to handle individual cases, minor comment change"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"}],"sha":"163385138ec1401c1d4ca61dba1320fb5d362197"}]
