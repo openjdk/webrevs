@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -783,1 +783,1 @@\n-                \"boot_jdk\", \"devkit\", \"graphviz\", \"pandoc\", buildJdkDep,\n+                \"autoconf\", \"boot_jdk\", \"devkit\", \"graphviz\", \"pandoc\", buildJdkDep,\n","filename":"make\/conf\/jib-profiles.js","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
