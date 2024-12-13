@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -236,0 +236,3 @@\n+            if (opInfo.getName().equals(\"jdkCheckpoint\")) {\n+                continue;\n+            }\n","filename":"test\/jdk\/com\/sun\/management\/DiagnosticCommandMBean\/DcmdMBeanPermissionsTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
