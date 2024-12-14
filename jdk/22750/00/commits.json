@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346231: RISC-V: Fix incorrect assertion in SharedRuntime::generate_handler_blob"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp"}],"sha":"b8c8910bf122e6e309e04532586355c0c6ee5193"}]
