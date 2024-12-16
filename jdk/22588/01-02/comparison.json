@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,1 +219,1 @@\n-javac.opt.lineDocComments=''\/\/\/''で行を開始すると、ドキュメンテーション・コメントのサポートが 無効化されます\n+javac.opt.lineDocComments=''\/\/\/''で行を開始すると、ドキュメンテーション・コメントのサポートが無効化されます\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/javac_ja.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
