@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4491,1 +4491,1 @@\n-    disable_numa(\"NUMA support is disabled as libnuma failed to initialize\");\n+    disable_numa(\"Failed to initialize libnuma\");\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
