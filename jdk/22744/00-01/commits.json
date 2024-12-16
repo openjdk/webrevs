@@ -1,0 +1,1 @@
+[{"commit":{"message":"added extra check to post_method_exit_inner before clear_frame_pop to avoid assert"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"b04f078fb70f539af5a6e362d79a8984b556a5fe"}]
