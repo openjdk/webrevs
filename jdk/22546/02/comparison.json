@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1021,0 +1021,2 @@\n+    if (s == NULL)\n+        return;\n","filename":"src\/java.base\/share\/native\/libjli\/java.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
