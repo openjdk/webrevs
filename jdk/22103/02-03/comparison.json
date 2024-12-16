@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -170,1 +170,1 @@\n-                        fp.classMajorVersion(), \/\/ 69, but class file version\n+                        String.valueOf(fp.classMajorVersion()), \/\/ 69, but class file version\n","filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/Validator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
