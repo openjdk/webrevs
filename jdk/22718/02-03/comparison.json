@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -603,1 +603,0 @@\n-      assert(result != freeze_ok, \"sanity check\");\n@@ -1864,1 +1863,0 @@\n-    assert(result != freeze_ok, \"sanity check\");\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
