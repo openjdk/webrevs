@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,1 +160,1 @@\n-        static final String macprivate_or_shared = \"(pvt|tsh-shared)\";\n+        static final String macprivate_or_shared = \"(pvt|tsh)\";\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/vm\/SystemMapTestBase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
