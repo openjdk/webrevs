@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346460: NotifyFramePop should return JVMTI_ERROR_DUPLICATE"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmti.xml"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/MethodExitTest\/libMethodExitTest.cpp"}],"sha":"57aa3bdbed2c85931c986cbce0cdb1a0b2c2e8e6"}]
