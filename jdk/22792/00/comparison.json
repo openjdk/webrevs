@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -800,1 +800,1 @@\n-         * <li>{@code n}, where {@code 0 < m < N}, the arguments {@code m..N} are passed\n+         * <li>{@code m}, where {@code 0 < m < N}, the arguments {@code m..N-1} are passed\n","filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/Linker.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
