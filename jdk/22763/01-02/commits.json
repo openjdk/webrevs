@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable inlining again for better stability w.r.t. spilling"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/WriteBarrier.java"}],"sha":"2081732404fe6b5233984f1111aff4829f61641a"}]
