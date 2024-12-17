@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346394: Bundled freetype library needs to have JNI_OnLoad for static builds"},"files":[{"filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk"},{"filename":"src\/java.desktop\/share\/native\/libfreetype\/src\/java_freetype.c"}],"sha":"bf0ad054c871b0c59a6e20176532eda8e56190e2"}]
