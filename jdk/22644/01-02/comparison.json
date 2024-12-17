@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-           System.out.println(\"ALL-MODULE-PATH test skipped for linkable run-time image\");\n+           TKit.trace(\"ALL-MODULE-PATH test skipped for linkable run-time image\");\n","filename":"test\/jdk\/tools\/jpackage\/share\/BasicTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
