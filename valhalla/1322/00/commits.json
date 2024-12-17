@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add j.l.Record as valid super type for implicitly constructible values"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/AnnotationsTests.java"}],"sha":"8fe1877d673899c9b499be165ebbedd8ee3e8aa1"}]
