@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert PID detection to Forked JVM again. getPid(Process) does not work on Windows and JDK 8..."},"files":[],"sha":"d88e3204125401b42e7a2540733a530cec0b5c35"},{"commit":{"message":"Fix"},"files":[{"filename":"jmh-core\/src\/main\/java\/org\/openjdk\/jmh\/util\/Utils.java"}],"sha":"294bb2e9d4baeef370424b819e3c0374c55229e8"}]
