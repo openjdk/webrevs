@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341779: [REDO BACKPORT] type annotations are not visible to javac plugins across compilation boundaries"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"},{"filename":"test\/langtools\/tools\/javac\/processing\/model\/type\/BasicAnnoTests.java"}],"sha":"dfcac6b648d486c38d54970aa8079070c1f4eb38"}]
