@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346306: Unattached thread can cause crash during VM exit if it calls wait_if_vm_exited"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"},{"filename":"src\/hotspot\/share\/runtime\/vmOperations.cpp"}],"sha":"d9da77a8cf2ffe18cfa418cc90b70681792e84c7"}]
