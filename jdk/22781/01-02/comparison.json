@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,2 @@\n-        if(currLoc == new Point(20000,200)) {\n+        System.out.println(\"Current mouse location: \" + currLoc);\n+        if(currLoc.equals(new Point(20000,200))) {\n","filename":"test\/jdk\/java\/awt\/Robot\/MouseMoveOffScreen.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
