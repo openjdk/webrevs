@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,2 @@\n+import java.awt.event.MouseAdapter;\n+import java.awt.event.MouseEvent;\n@@ -37,2 +39,0 @@\n-import java.awt.event.MouseAdapter;\n-import java.awt.event.MouseEvent;\n","filename":"test\/jdk\/javax\/swing\/JScrollBar\/4865918\/bug4865918.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
