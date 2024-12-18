@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add jdk.crac to JRE"},"files":[{"filename":"make\/conf\/module-loader-map.conf"}],"sha":"7a2d7636dc0e4ed7a115d3b14e89bd9bdb592cd3"},{"commit":{"message":"Suppress doclint warnings on CRaC references in java.base docs"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/System.java"}],"sha":"f9243f33490c4b866cc48a7f52a34518ceedae61"}]
