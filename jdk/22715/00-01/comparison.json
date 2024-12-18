@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-            throw new VerifyException(\"Object array class mismatch.\");\n+            throw new VerifyException(\"Object class mismatch.\");\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/verify\/Verify.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
