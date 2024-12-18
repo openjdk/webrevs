@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: removed unneeded check for JvmtiExport::can_post_frame_pop()"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp"}],"sha":"850cafbdf788f5dfca9f137398c4abaae916adff"}]

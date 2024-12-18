@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -580,1 +580,1 @@\n-  if (JvmtiExport::can_post_on_exceptions() || JvmtiExport::can_post_frame_pop()) {\n+  if (JvmtiExport::can_post_on_exceptions()) {\n","filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
