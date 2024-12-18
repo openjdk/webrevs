@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346569: Shenandoah: Worker initializes ShenandoahThreadLocalData twice results in memory leak"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahWorkGroup.cpp"}],"sha":"48c20174c38a294de8a52f271efd8183aa484b7e"}]
