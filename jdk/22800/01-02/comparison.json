@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5405,1 +5405,0 @@\n-    assert_different_registers(Rd, tmp1);\n@@ -5407,2 +5406,1 @@\n-    andi(tmp1, Rd, step - 1);\n-    sub(Rd, Rd, tmp1);\n+    andi(Rd, Rd, -step);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
