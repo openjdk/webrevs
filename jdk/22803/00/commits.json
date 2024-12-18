@@ -1,0 +1,1 @@
+[{"commit":{"message":"8323740: java.lang.ExceptionInInitializerError when trying to load XML classes in wrong order"},"files":[{"filename":"src\/java.xml\/share\/classes\/jdk\/xml\/internal\/JdkXmlUtils.java"},{"filename":"test\/jdk\/javax\/xml\/jaxp\/common\/8323740\/InitializerTest.java"}],"sha":"0893b8d26292396fe7aaef92aba639f67a27da54"}]
