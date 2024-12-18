@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 9e8aa855fe3483b1a59233bcbd693cd0fed7de8e"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java"},{"filename":"test\/jdk\/java\/net\/Socket\/ConnectFailTest.java"},{"filename":"test\/jdk\/java\/net\/Socket\/ConnectSocksProxyTest.java"}],"sha":"80257d46896a113e30c671a6cd1bef06c17e1313"}]
