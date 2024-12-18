@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1166,1 +1166,1 @@\n-    char *t = nullptr;\n+    volatile char *t = nullptr; \/\/ Use volatile to prevent compiler from optimising away the store\n","filename":"src\/hotspot\/share\/runtime\/frame.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
