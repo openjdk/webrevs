@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2419,1 +2419,1 @@\n-    if (rs.is_reserved()) {\n+    if (is_mapped() && rs.is_reserved()) {\n@@ -2424,1 +2424,0 @@\n-      assert(rs.is_reserved(), \"must be\");\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
