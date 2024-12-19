@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-#include \"runtime\/os.hpp\"\n+#include \"runtime\/os.inline.hpp\"\n","filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
