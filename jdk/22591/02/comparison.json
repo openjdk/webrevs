@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,0 +75,4 @@\n+        int drained = 1;\n+        while (drained < appData.length) {\n+            drained += sslIS.read(appData, drained, appData.length - drained);\n+        }\n","filename":"test\/jdk\/javax\/net\/ssl\/SSLSocket\/Tls13PacketSize.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
