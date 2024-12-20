@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use uintptr_t instead intptr_t"},"files":[{"filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp"}],"sha":"86f00f87f03a7e9d207e6d031977e034f7b7acab"},{"commit":{"message":"cast offset to intptr_t to avoid overflow"},"files":[{"filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp"}],"sha":"4e54333ca1207059317fd0a0632062b18c14b28b"}]
