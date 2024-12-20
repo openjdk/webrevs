@@ -1,0 +1,1 @@
+[{"commit":{"message":"case _base to inrptr_t and add the offset, to avoid null check"},"files":[{"filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp"}],"sha":"6abd26e105b15627bc59f7fcc8e0d28665849b8d"}]
