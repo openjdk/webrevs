@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -184,2 +184,1 @@\n-                        {1}\n-                                        \n+                        {1}\\n\n","filename":"test\/docs\/jdk\/javadoc\/doccheck\/doccheckutils\/checkers\/ExtLinkChecker.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
