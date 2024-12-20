@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove os::print_memory_mappings. Add comments explaining NMT locking"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/nmt\/memTracker.hpp"}],"sha":"9e016b8c6c29f67db7dc86ec5ea060ca56a80dca"}]
