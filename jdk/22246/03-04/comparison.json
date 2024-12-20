@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-\/\/ AccessFlags is an abstraction over Java access flags.\n+\/\/ AccessFlags is an abstraction over Java ACC flags.\n","filename":"src\/hotspot\/share\/utilities\/accessFlags.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
