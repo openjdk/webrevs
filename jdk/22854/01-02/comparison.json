@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -432,1 +432,3 @@\n-                return (existing != null) ? existing : result;\n+                if (existing != null) {\n+                    result = existing;\n+                }\n","filename":"src\/java.base\/share\/classes\/java\/time\/ZoneOffset.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
