@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-  const address encoding_end = _base + nth_bit(narrow_klass_pointer_bits() + _shift);\n+  const address encoding_end = (address)((intptr_t)_base + nth_bit(narrow_klass_pointer_bits() + _shift));\n","filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
