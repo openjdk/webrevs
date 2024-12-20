@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -420,1 +420,1 @@\n-  assert(!MemTracker::is_bootstrapping_done() || NmtVirtualMemory_lock->owned_by_self() , \"Should have acquired NmtVirtualMemory_lock\");\n+  MemTracker::assert_locked();\n","filename":"src\/hotspot\/share\/nmt\/virtualMemoryTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
