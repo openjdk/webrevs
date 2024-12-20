@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -316,1 +316,1 @@\n-        \/\/ Get rid of \\hotspot_variant>, if binary is libjvm.so,\n+        \/\/ Get rid of \\hotspot_variant>, if binary is jvm.dll,\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
