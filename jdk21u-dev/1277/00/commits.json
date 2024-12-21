@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346713: [testsuite] NeverActAsServerClassMachine breaks TestPLABAdaptToMinTLABSize.java TestPinnedHumongousFragmentation.java TestPinnedObjectContents.java\n\nReviewed-by: stefank, tschatzl"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/TestPLABAdaptToMinTLABSize.java"}],"sha":"804127b4a3b1e6edb898792218224a13598b00c6"}]
