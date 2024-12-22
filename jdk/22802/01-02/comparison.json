@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1305,3 +1305,0 @@\n-    This does not apply to any `OutOfMemoryError` thrown by Java, or native,\n-    code in the JDK libraries.\n-\n","filename":"src\/java.base\/share\/man\/java.md","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
