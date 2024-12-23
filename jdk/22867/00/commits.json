@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update --release 24 symbol information for JDK 24 build 29\nThe macOS\/AArch64 build 29 was taken from https:\/\/jdk.java.net\/24\/"},"files":[{"filename":"src\/jdk.compiler\/share\/data\/symbols\/java.base-O.sym.txt"},{"filename":"src\/jdk.compiler\/share\/data\/symbols\/java.se-O.sym.txt"}],"sha":"8d68fbcf60c858e1401ec89edbb415aef0853bf5"}]
