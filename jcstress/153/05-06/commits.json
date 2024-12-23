@@ -1,0 +1,1 @@
+[{"commit":{"message":"Implemented naive json formatting\n\nTo cut away the header one can use: | sed '0,\/^All.*[0-9]\\+$\/d'"},"files":[],"sha":"60bbb3e8747d3c22e1b7ef7924cf9d70ce4f98f7"}]
