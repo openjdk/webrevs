@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into backport-8312488"},"files":[],"sha":"b7e3eeea7b4c5681cda9d84e652046558a2dc497"},{"commit":{"message":"Backport 78a8a99d990dcc0b77c096bb2ca2c1bb86462e3f"},"files":[{"filename":"src\/jdk.jpackage\/share\/native\/common\/app.cpp"}],"sha":"1bc13d64296dc6d4e20947c36e5a4e663f610f0a"}]
