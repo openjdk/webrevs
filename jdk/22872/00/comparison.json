@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,0 +106,1 @@\n+runtime\/classFileParserBug\/TestEmptyBootstrapMethodsAttr.java JDK-8346442 generic-all\n@@ -107,0 +108,1 @@\n+runtime\/logging\/LoaderConstraintsTest.java JDK-8346442 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList-Virtual.txt","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
