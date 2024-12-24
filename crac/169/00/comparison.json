@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -431,0 +431,5 @@\n+#ifdef __APPLE__\n+    \/\/ BSD clock would be initialized in os::init() but we need to do that earlier\n+    \/\/ as crac::restore() calls os::javaTimeNanos().\n+    os::Bsd::clock_init();\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
