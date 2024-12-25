@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    -maxdepth 1 -name '*.java')\n+    -maxdepth 1 -name '*.java'))\n","filename":"test\/hotspot\/jtreg\/testlibrary\/ctw\/Makefile","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
