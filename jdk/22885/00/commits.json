@@ -1,0 +1,1 @@
+[{"commit":{"message":"updates data type from uint8_t to uintptr_t to make ubsan happy"},"files":[{"filename":"src\/hotspot\/share\/nmt\/mallocTracker.cpp"}],"sha":"1210029fbf2b67b4e3610d72776d151fc7aafd73"}]
