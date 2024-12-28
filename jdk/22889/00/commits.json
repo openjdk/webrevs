@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346869: [AIX] Add regression test for handling 4 Byte aligned doubles in structures"},"files":[{"filename":"test\/jdk\/java\/foreign\/Test4BAlignedDouble.java"},{"filename":"test\/jdk\/java\/foreign\/libTest4BAlignedDouble.c"}],"sha":"ca9f96c979cead16ba8aefec8d312ffff811af68"}]
