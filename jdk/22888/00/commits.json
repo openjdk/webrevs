@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346868: RISC-V: compiler\/sharedstubs tests fail after JDK-8332689"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/codeBuffer_riscv.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/sharedstubs\/SharedTrampolineTest.java"}],"sha":"482b84a3d43c05e661c94d4e84ca207067bfb3ab"}]
