@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8287: Fix the JMX protocol extenders\"\n\nThis reverts commit 92fe6812699c842bd30451872b1cb0948d204333."},"files":[{"filename":"application\/org.openjdk.jmc.rjmx.ext\/META-INF\/MANIFEST.MF"}],"sha":"d35a872de559b42ef0f9c6b99cb161eac7504a45"}]
