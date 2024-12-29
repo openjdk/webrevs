@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 0105203575182e24a56a38a12da7c1af58ea0a78"},"files":[{"filename":"src\/hotspot\/share\/opto\/block.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/locks\/TestSynchronizeWithEmptyBlock.java"}],"sha":"f3a1011ed5929acc50bf3f1ec9ce90184542b71f"}]
