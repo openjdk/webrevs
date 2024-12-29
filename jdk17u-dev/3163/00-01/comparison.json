@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n- * {@code -Jvm-options}, or {@code $sysProp}.\n+ * {@code -Jvm-options}, {@code $sysProp} or {@code -J$sysProp}.\n","filename":"test\/lib\/jdk\/test\/lib\/SecurityTools.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
