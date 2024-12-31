@@ -1,0 +1,1 @@
+[{"commit":{"message":"use guarantee(!CrashGCForDumpingJavaThread, \"\") to generate jvm crash"},"files":[{"filename":"src\/hotspot\/share\/runtime\/frame.cpp"}],"sha":"1251520516b527ce8f2aec77fe092882ec85b4ce"}]
