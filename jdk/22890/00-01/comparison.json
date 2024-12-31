@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,3 @@\n+\/\/ _snprintf does NOT null terminate if the output would exceed the buffer size.\n+FORBID_C_FUNCTION(int _snprintf(char*, size_t, const char*, ...), \"use os::snprintf\");\n+\n","filename":"src\/hotspot\/os\/windows\/forbiddenFunctions_windows.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
