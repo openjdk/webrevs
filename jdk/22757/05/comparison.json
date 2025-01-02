@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1165,4 +1165,1 @@\n-  if (CrashGCForDumpingJavaThread) {\n-    char *t = nullptr;\n-    *t = 'c';\n-  }\n+  guarantee(!CrashGCForDumpingJavaThread, \"\");\n","filename":"src\/hotspot\/share\/runtime\/frame.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
