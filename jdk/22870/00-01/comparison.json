@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,3 @@\n- * @test\n+ * @test id=zgc\n+ * @bug 8346717\n+ * @requires vm.gc.Z\n@@ -43,1 +45,1 @@\n- * @test\n+ * @test id=normal\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/vm\/SystemMapTest.java","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
