@@ -1,0 +1,1 @@
+[{"commit":{"message":"8160327: fixing typo so `thumbnailPos` can be zero\n\nThe `thumbnailLength` cannot be zero, but the position can be."},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/jpeg\/ExifMarkerSegment.java"}],"sha":"20d44cfb880043304194e667be6304001ee28ac8"}]

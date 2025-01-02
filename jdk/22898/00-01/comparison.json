@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -234,1 +234,1 @@\n-        return thumbnailPos > 0 && thumbnailLength > 0 ? 1 : 0;\n+        return thumbnailPos >= 0 && thumbnailLength > 0 ? 1 : 0;\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/jpeg\/ExifMarkerSegment.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
