@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make vmIntrinsics::find_id() take u2 not jshort."},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp"},{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.hpp"},{"filename":"src\/hotspot\/share\/oops\/method.cpp"}],"sha":"df95d447a9c087c3b943969671ba60b61bfe43ea"}]
