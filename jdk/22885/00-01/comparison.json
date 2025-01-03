@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -249,1 +249,1 @@\n-      if (!os::is_readable_range((uint8_t*)here, (uint8_t*)(here + sizeof(MallocHeader)))) {\n+      if (!os::is_readable_range((void*)here, (void*)(here + sizeof(MallocHeader)))) {\n","filename":"src\/hotspot\/share\/nmt\/mallocTracker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
