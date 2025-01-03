@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- *\n+ * @requires os.arch != \"riscv64\" | vm.cpu.features ~= \".*rvv.*\"\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestVectorizationNegativeScale.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
