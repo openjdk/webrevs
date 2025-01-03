@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -436,1 +436,1 @@\n-    (size_t) highest_start : align_up(attach_range \/ num_attempts_to_try, attach_point_alignment);\n+    1 : align_up(attach_range \/ num_attempts_to_try, attach_point_alignment);\n","filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
