@@ -1,0 +1,1 @@
+[{"commit":{"message":"8282862: AwtWindow::SetIconData leaks old icon handles if an exception is detected"},"files":[{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Window.cpp"}],"sha":"726fbd9a64e0c74ed159610f5d587df27763dc69"}]
