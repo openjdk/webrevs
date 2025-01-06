@@ -1,0 +1,1 @@
+[{"commit":{"message":"corrects end capping, removes here==0 bailout code, replaces 0x100000 with M"},"files":[{"filename":"src\/hotspot\/share\/nmt\/mallocTracker.cpp"}],"sha":"88d5baa959d7fd68fd8427c5243a9e9ba05607e2"}]
