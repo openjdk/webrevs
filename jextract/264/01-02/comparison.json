@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,0 +69,3 @@\n+    - name: 'Validate Gradle wrapper'\n+      uses: gradle\/actions\/wrapper-validation@v3\n+\n","filename":".github\/workflows\/test.yml","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
