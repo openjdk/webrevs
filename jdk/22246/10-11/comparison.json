@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,5 +78,0 @@\n-\n-  \/\/ get flags written to .class files\n-  public int getStandardFlags() {\n-    return (int)flags;\n-  }\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/AccessFlags.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
