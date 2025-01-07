@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346998: Test nsk\/jvmti\/ResourceExhausted\/resexhausted003 fails with java.lang.OutOfMemoryError when CDS is off"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/ResourceExhausted\/resexhausted003\/TestDescription.java"}],"sha":"4421d622ce90c8f1b8e1214f0235a139edeed8de"}]
