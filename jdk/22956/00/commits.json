@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346310: Duplicate !HAS_PENDING_EXCEPTION check in DynamicArchive::dump_at_exit"},"files":[{"filename":"src\/hotspot\/share\/cds\/dynamicArchive.cpp"}],"sha":"e4d72bff96b72a8d0c78d8e5b575264030d240d5"}]
