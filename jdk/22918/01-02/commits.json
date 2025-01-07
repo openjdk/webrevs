@@ -1,0 +1,1 @@
+[{"commit":{"message":"You're right, it's UINT64_FORMAT and moved the comment."},"files":[{"filename":"src\/hotspot\/share\/runtime\/os.cpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_globalDefinitions.cpp"}],"sha":"6ac66379b6058cf1160f784605385d4765899cf0"}]
