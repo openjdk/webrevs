@@ -1,0 +1,1 @@
+[{"commit":{"message":"rewrite function HeapReserver::Instance::try_reserve_range for avoid calculation addresses outside of the range"},"files":[{"filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp"}],"sha":"97a2cab98b644d19b48e8affb0e6c09bbe867e80"}]
