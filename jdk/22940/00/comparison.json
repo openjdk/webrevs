@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -386,1 +386,1 @@\n-      increment_total_full_collections();\n+      _total_full_collections++;\n@@ -390,2 +390,0 @@\n-  void increment_total_full_collections() { _total_full_collections++; }\n-\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.hpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
