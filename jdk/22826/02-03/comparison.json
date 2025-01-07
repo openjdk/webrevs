@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -497,1 +497,1 @@\n-        return \"MemorySegment{ \" +\n+        return \"MemorySegment{ kind: \" +\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
