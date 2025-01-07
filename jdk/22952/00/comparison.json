@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,1 @@\n+\t--add-exports java.base\/jdk.internal.module=ALL-UNNAMED \\\n","filename":"test\/hotspot\/jtreg\/testlibrary\/ctw\/Makefile","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
