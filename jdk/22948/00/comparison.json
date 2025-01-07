@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4540,1 +4540,1 @@\n-    log_warning(os)(\"NUMA support disabled: %s\", reason);\n+    log_info(os)(\"NUMA support disabled: %s\", reason);\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

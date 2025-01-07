@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346834: Tests failing with -XX:+UseNUMA due to \"NUMA support disabled\" warning"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"508312fb4c1d13540f99c29cdbd2f03b431d92f2"}]
