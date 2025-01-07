@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 874d68a96ce67caaf944dd25fbfb44eab965dfd3"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestReplicateAtConv.java"}],"sha":"54fd87c1eee822f45e640085a058417bd006054f"}]
