@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,0 +78,1 @@\n+      assert(req() == 3, \"\");\n","filename":"src\/hotspot\/share\/opto\/vectornode.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
