@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use size_t insread of uint64_t, use pointer_delta instead of pointer subtraction"},"files":[{"filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp"}],"sha":"5052dcf1215f515309689f494a7327fe20bbbbbd"}]
