@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use sizeof(char) instead of sizeof(char*) pass to pointer_delta"},"files":[{"filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp"}],"sha":"d2bfa7d00a7ef822f53d8e4aeeb11486bf987323"}]

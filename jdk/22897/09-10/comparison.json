@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -432,1 +432,1 @@\n-  const size_t attach_range = pointer_delta(highest_start, lowest_start, sizeof(char*));\n+  const size_t attach_range = pointer_delta(highest_start, lowest_start, sizeof(char));\n","filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
