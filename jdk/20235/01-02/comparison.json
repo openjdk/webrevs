@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -309,1 +309,1 @@\n-  if (FLAG_IS_DEFAULT(UseGHASHIntrinsics)) {\n+  if (FLAG_IS_DEFAULT(UseGHASHIntrinsics) && VM_Version::has_vsx()) {\n","filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
