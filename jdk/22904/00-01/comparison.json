@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n- * <li>{@code ChaCha20}<\/li>\n+ * <li>{@code ChaCha20-Poly1305}<\/li>\n","filename":"src\/java.base\/share\/classes\/java\/security\/AlgorithmParameters.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
