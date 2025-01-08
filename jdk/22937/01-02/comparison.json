@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+ * @requires (os.family != \"mac\")\n","filename":"test\/jdk\/javax\/swing\/JScrollBar\/4865918\/bug4865918.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
