@@ -1,0 +1,1 @@
+[{"commit":{"message":"small fix to is_single_threaded and whitespace"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"},{"filename":"src\/hotspot\/share\/runtime\/threads.hpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_virtualMemoryTracker.cpp"}],"sha":"6e7bf1867322a28b0f31d5b43a1e69a9dedb4039"}]
