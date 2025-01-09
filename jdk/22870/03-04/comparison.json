@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n- * @run testng\/othervm -XX:+UsePerfData -XX:-UseZGC SystemMapTest\n+ * @run testng\/othervm -XX:+UsePerfData SystemMapTest\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/vm\/SystemMapTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
