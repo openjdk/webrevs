@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2224,1 +2224,1 @@\n-  CallNode *call = make_slow_call(lock, OptoRuntime::complete_monitor_enter_Type(),\n+  CallNode* call = make_slow_call(lock, OptoRuntime::complete_monitor_enter_Type(),\n","filename":"src\/hotspot\/share\/opto\/macro.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
