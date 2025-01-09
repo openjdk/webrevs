@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -185,1 +185,1 @@\n- * array element above) can be constant-folded,\n+ * array element) can be constant-folded,\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/vm\/annotation\/Stable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
