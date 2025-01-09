@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1511,0 +1511,1 @@\n+  _in_reserved_space = false;\n@@ -1896,0 +1897,1 @@\n+  r->set_in_reserved_space(false);\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
