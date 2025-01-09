@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346722: (fs) Files.probeContentType throws ClassCastException with custom file system provider"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/DefaultFileTypeDetector.java"},{"filename":"test\/jdk\/java\/nio\/file\/spi\/testapp\/testapp\/Main.java"}],"sha":"f026d83b4c9adf7338f7858b16553904c9257517"}]
