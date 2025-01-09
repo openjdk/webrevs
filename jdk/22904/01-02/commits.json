@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix typo in Cipher ChaCha20 requirement, and remove \"curve\" word from Signature requirements."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/security\/Signature.java"},{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/Cipher.java"}],"sha":"b5089617a662d5e3753e662eee3f6513c154e462"}]
