@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -721,1 +721,1 @@\n-  if (!in(0) || phase->type(in(0)) == Type::TOP) {\n+  if (in(0) == nullptr || phase->type(in(0)) == Type::TOP) {\n","filename":"src\/hotspot\/share\/opto\/callnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
