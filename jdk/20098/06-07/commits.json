@@ -1,0 +1,1 @@
+[{"commit":{"message":"Test can only run with 256 bit registers or bigger\n\n* Remove platform dependant check\nand use platform independent configuration instead."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/MinMaxRed_Long.java"}],"sha":"c04919873fa545b6c4a95e489063af6853893519"}]
