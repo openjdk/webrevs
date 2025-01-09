@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2020,1 +2020,1 @@\n-  const TypeOopPtr *tinst = tp->isa_oopptr();\n+  const TypeOopPtr* tinst = tp->isa_oopptr();\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
