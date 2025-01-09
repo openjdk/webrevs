@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed jdk23_home in github test.yml.\n\nchanged Python sample so that it does not fail with unsupported type\n_Float16"},"files":[{"filename":".github\/workflows\/test.yml"},{"filename":"samples\/python3\/compilesource.sh"}],"sha":"d44a111c03f53f21551766646972ed15b0dd2b76"}]
