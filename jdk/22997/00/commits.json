@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346727: JvmtiVTMSTransitionDisabler deadlock"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"}],"sha":"2aa84d4885bb3cd3fe45fc03cdf466f208c52412"}]
