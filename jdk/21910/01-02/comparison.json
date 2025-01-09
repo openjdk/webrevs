@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -761,2 +761,0 @@\n-    if (JLI_HasSuffix(arg, \".java\") == JNI_TRUE)\n-        return JNI_TRUE;\n@@ -765,0 +763,2 @@\n+    if (JLI_HasSuffix(arg, \".java\") == JNI_TRUE)\n+        return JNI_TRUE;\n","filename":"src\/java.base\/share\/native\/libjli\/java.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

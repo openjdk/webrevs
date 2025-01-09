@@ -1,0 +1,1 @@
+[{"commit":{"message":"Flip initial checks to restore original behaviour\n\nAvoid regression encoded in `test\/jdk\/tools\/launcher\/SourceMode.testClassNamedJava()` assertions"},"files":[{"filename":"src\/java.base\/share\/native\/libjli\/java.c"}],"sha":"f0bd01d393a5d88e8b33723b7b4ca16379b97636"}]
