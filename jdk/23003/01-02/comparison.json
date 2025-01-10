@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,0 @@\n-#include \"vm_version_riscv.hpp\"\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
