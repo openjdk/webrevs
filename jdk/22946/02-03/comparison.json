@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -135,1 +135,1 @@\n-        int flags =  org.objectweb.asm.ClassReader.SKIP_DEBUG;\n+        int flags = org.objectweb.asm.ClassReader.SKIP_DEBUG;\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/runtime\/defmeth\/shared\/Util.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
