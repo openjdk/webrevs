@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3094,1 +3094,1 @@\n-  \/\/ At this time it's not likley to be enable for user mode.\n+  \/\/ At this time it's not likely to be enabled for user mode.\n","filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
