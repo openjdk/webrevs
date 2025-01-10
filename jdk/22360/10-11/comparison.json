@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-\/\/ Nodes are address stable and will not change during its lifetime unless modified by the user.\n+\/\/ Nodes are address stable and will not change during its lifetime.\n","filename":"src\/hotspot\/share\/utilities\/rbTree.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
