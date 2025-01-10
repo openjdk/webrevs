@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1384,1 +1384,1 @@\n-        form_address(rscratch1, recv_klass, vtable_offset_in_bytes, LogBytesPerWord));\n+        form_address(rscratch1, recv_klass, vtable_offset_in_bytes, 0));\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
