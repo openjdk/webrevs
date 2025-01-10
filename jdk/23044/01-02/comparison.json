@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1169,1 +1169,1 @@\n-                (header[index+3] & 0xff);\n+                              (header[index+3] & 0xff);\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/color\/ICC_Profile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
