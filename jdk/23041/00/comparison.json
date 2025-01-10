@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -252,2 +252,1 @@\n-     * Adds a recorder listener and captures the {@code AccessControlContext} to\n-     * use when invoking the listener.\n+     * Adds a recorder listener.\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/FlightRecorder.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
