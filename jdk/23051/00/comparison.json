@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,2 +121,0 @@\n-    \/\/ MCS-CLH list linkage and Native Mutex\/Monitor\n-    ParkEvent * volatile ListNext ;\n@@ -142,1 +140,0 @@\n-       ListNext       = nullptr ;\n","filename":"src\/hotspot\/share\/runtime\/park.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
