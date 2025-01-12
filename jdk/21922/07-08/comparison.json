@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2876,1 +2876,1 @@\n-    ror(dst, src, shift);\n+    rorr(dst, src, shift);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
