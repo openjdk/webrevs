@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make sure it runs with cpus with either avx512 or asimd"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/MinMaxRed_Long.java"}],"sha":"abbaf875f5558270511fb379251ef0edfb49f9a7"}]
