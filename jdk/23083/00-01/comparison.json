@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -406,1 +406,1 @@\n-            byte[] rawKey = new DerValue(val.data.getBitString()).getOctetString();\n+            byte[] rawKey = val.data.getBitString();\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/KeyUtil.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
