@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2799,1 +2799,1 @@\n-  enum ValueOrder { Unknown, Forward, Backward };\n+  enum ValueOrder : uint8_t { Unknown, Forward, Backward };\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
