@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-                        \"CheckDataVersion was not set up properly: \" + ioe);\n+                        \"currency.data was not retrieved properly\", ioe);\n","filename":"test\/jdk\/java\/util\/Currency\/CheckDataVersion.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
