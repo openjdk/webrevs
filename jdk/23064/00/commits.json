@@ -1,0 +1,1 @@
+[{"commit":{"message":"8336920: ArithmeticException in javax.sound.sampled.AudioInputStream\n\nInitial implementation. If pitch drifts too low assume minimum allowed pitch to continue sampling."},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/media\/sound\/SoftLinearResampler2.java"}],"sha":"8a56dbe1a38f94b581e773e0773f70ea79b5918e"}]
