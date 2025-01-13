@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-  static_assert(sizeof(intptr_t) == sizeof(CardValue*), \"simplifying assumption\");\n+  static_assert(sizeof(uintptr_t) == sizeof(CardValue*), \"simplifying assumption\");\n","filename":"src\/hotspot\/share\/gc\/parallel\/psCardTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
