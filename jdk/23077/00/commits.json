@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 062f2dcfe5b62cc3dd3c292eeebd7a7ac78f849a"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/addnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestSerialAdditions.java"}],"sha":"3e0ff4c3d0f6ff9c25981a4d67dfb4ddaab20e36"}]
