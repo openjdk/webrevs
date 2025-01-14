@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4466,1 +4466,2 @@\n-        __ subi(consts, consts, vset_sew == Assembler::e32 ? 240 : 608);\n+        int total_adds = vset_sew == Assembler::e32 ? 240 : 608;\n+        __ subi(consts, consts, total_adds);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
