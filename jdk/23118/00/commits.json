@@ -1,0 +1,1 @@
+[{"commit":{"message":"8347506: Compatible OCSP readtimeout property with OCSP timeout"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/OCSP.java"},{"filename":"test\/jdk\/sun\/security\/provider\/certpath\/OCSP\/OCSPReadTimeoutDefault.java"}],"sha":"092240b818014ed9f204b2d807c96087dd05bbb8"}]
