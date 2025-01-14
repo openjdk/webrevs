@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,1 @@\n+# LIBS   Additional libraries to pass as LIBS argument to SetupJdkExecutable\n@@ -158,0 +159,1 @@\n+      LIBS := $$($1_LIBS), \\\n","filename":"make\/common\/modules\/LauncherCommon.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
