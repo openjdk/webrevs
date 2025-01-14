@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1267,1 +1267,1 @@\n-  \/\/ The handshake won't touch non-java threads, so do those separately.\n+  \/\/ The handshake won't touch worker threads (or control thread, or VM thread), so do those separately.\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
