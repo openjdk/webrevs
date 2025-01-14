@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,1 +169,1 @@\n-  JfrMsg_lock->notify();\n+  JfrMsg_lock->notify_all();\n","filename":"src\/hotspot\/share\/jfr\/recorder\/service\/jfrPostBox.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
