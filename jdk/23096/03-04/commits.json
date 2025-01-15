@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove concurrency measures (methods are accessed serially due to the Reactive Streams spec)"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/LimitingSubscriber.java"}],"sha":"144ce26a2c0889b9b8b31d2a9ae67c3778f7715b"}]
