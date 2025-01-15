@@ -1,0 +1,1 @@
+[{"commit":{"message":"Extension covering masked vector operations"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorCommutativeOperSharingTest.java"}],"sha":"edb1ced5a091e84e55b0049c1c1b92dd786331cf"}]
