@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344976: Remove the jmx.invoke.getters compatibility property"},"files":[{"filename":"src\/java.management\/share\/classes\/com\/sun\/jmx\/mbeanserver\/PerInterface.java"},{"filename":"test\/jdk\/javax\/management\/Introspector\/InvokeGettersTest.java"}],"sha":"99ff70d2dc8fa3631c2228c3b860398a1a67b413"}]
