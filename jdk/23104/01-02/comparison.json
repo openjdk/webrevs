@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,1 @@\n- * @run driver compiler.macronodes.TestTopInMacroElimination\n+ * @run main\/othervm -XX:-ProfileExceptionHandlers compiler.macronodes.TestTopInMacroElimination\n","filename":"test\/hotspot\/jtreg\/compiler\/macronodes\/TestTopInMacroElimination.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
