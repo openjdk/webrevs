@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixing TestFindInstMemRecursion test fail with XX:+StressReflectiveCode option:\n_relocation_size can exceed 64Kb, in this case _metadata_offset do not fit into int16.\nFix: use _oops_size int16 field to calculate metadata offset"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"40fa9603deed104034fc31c65ed43553bf725dc2"}]
