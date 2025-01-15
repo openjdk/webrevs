@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n- * JDK-specific nonstandard attribute produced bythe reference implementation\n+ * JDK-specific nonstandard attribute produced by the reference implementation\n","filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/attribute\/SourceIDAttribute.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
