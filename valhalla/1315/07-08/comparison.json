@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-  FlatArrayKlass() {} \/\/ Why?\n+  FlatArrayKlass() {} \/\/ used by CppVtableCloner<T>::initialize()\n","filename":"src\/hotspot\/share\/oops\/flatArrayKlass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
