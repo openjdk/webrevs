@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -645,1 +645,0 @@\n-  ResourceMark rm;\n@@ -648,0 +647,1 @@\n+    ResourceMark rm;\n@@ -670,1 +670,0 @@\n-  ResourceMark rm;\n@@ -673,0 +672,1 @@\n+    ResourceMark rm;\n","filename":"src\/hotspot\/share\/classfile\/modules.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
