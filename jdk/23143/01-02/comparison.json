@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,0 @@\n-                in.close();\n@@ -98,0 +97,1 @@\n+                in.close();\n@@ -170,1 +170,0 @@\n-                in.close();\n@@ -172,0 +171,1 @@\n+                in.close();\n","filename":"test\/lib\/jdk\/test\/lib\/hprof\/parser\/Reader.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
