@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -757,1 +757,1 @@\n-         * If the number of body bytes received exceeds the the given\n+         * If the number of body bytes received exceeds the given\n","filename":"src\/java.net.http\/share\/classes\/java\/net\/http\/HttpResponse.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
