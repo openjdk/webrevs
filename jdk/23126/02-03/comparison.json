@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1683,0 +1683,2 @@\n+  current->set_current_waiting_monitor(this);\n+\n@@ -1695,2 +1697,0 @@\n-  current->set_current_waiting_monitor(this);\n-\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
