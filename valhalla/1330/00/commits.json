@@ -1,0 +1,1 @@
+[{"commit":{"message":"Guard remove_null_marker() against empty values"},"files":[{"filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp"}],"sha":"c7ce1405c7c7738560ac57f1b5386b250ff22374"}]
