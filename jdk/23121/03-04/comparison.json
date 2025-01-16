@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -638,0 +638,1 @@\n+\/\/ Caller needs ResourceMark\n@@ -662,0 +663,1 @@\n+\/\/ Caller needs ResourceMark\n@@ -678,0 +680,1 @@\n+\/\/ Caller needs ResourceMark\n","filename":"src\/hotspot\/share\/classfile\/modules.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
