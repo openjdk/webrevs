@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345045: Remove the jmx.remote.x.buffer.size JMX notification property"},"files":[{"filename":"src\/java.management\/share\/classes\/com\/sun\/jmx\/remote\/util\/EnvHelp.java"},{"filename":"test\/jdk\/javax\/management\/remote\/mandatory\/notif\/NotifBufferSizePropertyNameTest.java"}],"sha":"6cee045a56f0cedb7540c68b84b6e2288661336a"}]
