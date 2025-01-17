@@ -1,0 +1,1 @@
+[{"commit":{"message":"Read ObjectAlignmentInBytes regardless of UseCompressedOops value.\nThis fixes alignment detection on Generational ZGC"},"files":[{"filename":"jol-core\/src\/main\/java\/org\/openjdk\/jol\/vm\/VMOptions.java"}],"sha":"748a01635adc3d9700d2658a10845d5edcf4fb95"}]
