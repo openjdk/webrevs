@@ -1,0 +1,1 @@
+[{"commit":{"message":"Exclude RISCV for Reverse nodes"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMergeStores.java"}],"sha":"623e2d6adea475a686d9bba8848f0a210659111b"},{"commit":{"message":"Fix ppc64le"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMergeStores.java"}],"sha":"d8607b1792dd92102e83e6f8702d5dd9805f2ba7"}]
