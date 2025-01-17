@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,2 +42,0 @@\n-    private static final int WINDOWS_11_MINIMUM_BUILD = 22000;\n-\n","filename":"test\/jdk\/java\/io\/File\/createTempFile\/SpecialTempFile.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
