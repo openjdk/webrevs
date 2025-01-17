@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -467,1 +467,1 @@\n-            available = new HashSet<>(256);\n+            available = HashSet.newHashSet(256);\n","filename":"src\/java.base\/share\/classes\/java\/util\/Currency.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
