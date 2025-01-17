@@ -1,0 +1,1 @@
+[{"commit":{"message":"8347740: Remove Windows version check and ignore IOException thrown by File.createTempFile"},"files":[{"filename":"test\/jdk\/java\/io\/File\/createTempFile\/SpecialTempFile.java"}],"sha":"51336af49c291b9971f7c62d50c4e8585c3d6437"}]
