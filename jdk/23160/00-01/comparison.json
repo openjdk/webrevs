@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-    assert(elements <= (size_t)INT_MAX, \"number of elements %zudoesn't fit into an int.\", elements);\n+    assert(elements <= (size_t)INT_MAX, \"number of elements %zu doesn't fit into an int.\", elements);\n","filename":"src\/hotspot\/share\/oops\/array.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
