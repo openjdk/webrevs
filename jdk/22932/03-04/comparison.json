@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2111,1 +2111,2 @@\n-                             jintArray smallIconRaster, jint smw, jint smh) {\n+                             jintArray smallIconRaster, jint smw, jint smh)\n+{\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Window.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
