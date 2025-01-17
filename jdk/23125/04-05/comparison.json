@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -387,0 +387,1 @@\n+  void      notify_contended_enter(JavaThread *current);\n@@ -393,1 +394,0 @@\n-  void      notify_contended_enter(JavaThread *current);\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
