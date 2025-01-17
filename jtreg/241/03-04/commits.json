@@ -1,0 +1,1 @@
+[{"commit":{"message":"exclude '?' from directory pattern, so as not to confuse query strings from group specs"},"files":[{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/config\/TestManager.java"}],"sha":"914f030359723ec8535e697ec94cf4b5120f8ed2"}]
