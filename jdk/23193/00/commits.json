@@ -1,0 +1,1 @@
+[{"commit":{"message":"8348040: Bad use of ifdef with INCLUDE_xxx GC macros"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LIR.hpp"},{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.cpp"},{"filename":"src\/hotspot\/share\/runtime\/mutexLocker.hpp"}],"sha":"1ad7ca8771ef2102d39d2a036abb57a7d3a76c2f"}]
