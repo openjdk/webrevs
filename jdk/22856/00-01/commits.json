@@ -1,0 +1,1 @@
+[{"commit":{"message":"Assert that MulNode::Ideal already masks constant shift amounts for us.\nAvoid accidental zero mask breaking test."},"files":[{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestShiftAndMask.java"}],"sha":"541e44c627b860ebd016496900fe2a34c692bee1"}]
