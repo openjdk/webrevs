@@ -1,0 +1,1 @@
+[{"commit":{"message":"treat not-found protection zone buffer as fatal error"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"},{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.hpp"},{"filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp"}],"sha":"aa063d943493b165d47f62c1eca8121bd968d96a"}]
