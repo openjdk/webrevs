@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,0 @@\n-import java.util.List;\n@@ -56,1 +55,0 @@\n-import java.util.stream.Collectors;\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/agent\/JUnitRunner.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
