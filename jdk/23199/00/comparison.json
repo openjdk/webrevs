@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n- * If NMT is active (state >= minimal), we need to track allocations. A simple and cheap way to\n+ * If NMT is active (state >= summary), we need to track allocations. A simple and cheap way to\n","filename":"src\/hotspot\/share\/nmt\/mallocHeader.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
