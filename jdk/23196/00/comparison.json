@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,0 +114,3 @@\n+  void gc_prologue(bool full);\n+  void gc_epilogue(bool full);\n+\n@@ -229,4 +232,0 @@\n- protected:\n-  virtual void gc_prologue(bool full);\n-  virtual void gc_epilogue(bool full);\n-\n","filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.hpp","additions":3,"deletions":4,"binary":false,"changes":7,"status":"modified"}]}
