@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove stray -Xlog:gc\ntest single call overhead"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/CallOverheadByValue.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/foreign\/libCallOverheadByValue.c"}],"sha":"f68a930bb715e6b6dcb07bf6f1cbf7a39586389e"}]
