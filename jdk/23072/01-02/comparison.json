@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1007,2 +1007,0 @@\n-            } else if (e instanceof RuntimeException) {\n-                throw (RuntimeException) e;\n","filename":"src\/java.management.rmi\/share\/classes\/javax\/management\/remote\/rmi\/RMIConnectionImpl.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
