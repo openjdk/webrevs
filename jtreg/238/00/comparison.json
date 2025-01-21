@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-# CURL_OPTS (e.g. \"-v\")\n+# CURL_OPTIONS (e.g. \"-v\")\n","filename":"make\/build.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
