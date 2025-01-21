@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -503,1 +503,1 @@\n-            testConnect(ports[0]);\n+            testNoConnect(ports[0]);\n","filename":"jdk\/test\/sun\/management\/jmxremote\/startstop\/JMXStartStopTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
