@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -21,1 +21,2 @@\n-JDK-nnnnnnn (not public) | TITLE | SUBCOMPONENT\n+JDK-8335714 (not public) | Enhance playing MP3s | media\n+JDK-8335715 (not public) | Improve Direct Show support | media\n","filename":"doc-files\/release-notes-23.0.2.md","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
