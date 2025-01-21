@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -941,1 +941,1 @@\n-  void fp_base(FloatRegister Rd, FloatRegister Rs1, int Rs2, int8_t rm) {\n+  void fp_base(FloatRegister Rd, FloatRegister Rs1, int8_t Rs2, int8_t rm) {\n","filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
