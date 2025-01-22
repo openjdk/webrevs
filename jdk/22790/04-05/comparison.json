@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-HMODULE GetAwtModuleHandle() {\n+static HMODULE GetAwtModuleHandle() {\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Toolkit.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
