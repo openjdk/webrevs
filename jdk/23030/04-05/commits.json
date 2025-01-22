@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support reverse bytes order for short and recover const functions"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMergeStores.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java"}],"sha":"4875377abfe9e2178428948374777637a99325dc"}]
