@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -393,2 +393,0 @@\n-    @ForceInline\n-    @SuppressWarnings(\"restricted\")\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/SharedUtils.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
