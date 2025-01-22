@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+  * All issues of type [Bug]{.jbs-value} must have the [Affects Version\/s]{.jbs-field} set. It's not a bug if it doesn't affect some version.\n","filename":"src\/guide\/jbs-jdk-bug-system.md","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
