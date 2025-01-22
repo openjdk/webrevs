@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1870,1 +1870,1 @@\n-          range(DEBUG_ONLY(96) PRODUCT_ONLY(100*K), 50*M)                   \\\n+          range(DEBUG_ONLY(96) NOT_DEBUG(100*K), 50*M)                      \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
