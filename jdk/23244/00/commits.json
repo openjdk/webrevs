@@ -1,0 +1,1 @@
+[{"commit":{"message":"8348324: The failure handler cannot be build by JDK 24 due to restricted warning"},"files":[{"filename":"test\/failure_handler\/src\/share\/classes\/jdk\/test\/failurehandler\/jtreg\/GatherProcessInfoTimeoutHandler.java"}],"sha":"a22fc47064e4d8a03198fa82c81e1b7ecf836fda"}]
