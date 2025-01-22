@@ -1,0 +1,1 @@
+[{"commit":{"message":"8348241: ZGC: Unnecessarily reinitialize ZFragmentationLimit's default value"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zArguments.cpp"}],"sha":"7f9e8ae2b20c47b871307ff4d812b54a87d2d4a9"}]
