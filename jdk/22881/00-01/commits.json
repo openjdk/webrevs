@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove early return from check_klass_subtype_slow_path."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/c1_Runtime1_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"}],"sha":"37789b381be41ca3add115ac03f3e186d884fd5c"}]
