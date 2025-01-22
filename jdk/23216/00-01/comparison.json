@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n- * These APIs are now both obsolete and express an \"anti-pattern\" of component\n+ * These APIs are now both obsolete and express an <em>anti-pattern<\/em> of component\n","filename":"src\/java.desktop\/share\/classes\/java\/beans\/beancontext\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
