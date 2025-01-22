@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -575,1 +575,1 @@\n-            \/\/ This nethod is called when cancel is true, so\n+            \/\/ This method is called when cancel is true, so\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/RequestPublishers.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
