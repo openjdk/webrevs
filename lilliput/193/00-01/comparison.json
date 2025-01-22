@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-  return obj->base_size_given_klass(obj->mark(), this) * BytesPerWord;\n+  return checked_cast<int>(obj->base_size_given_klass(obj->mark(), this) * BytesPerWord);\n","filename":"src\/hotspot\/share\/oops\/instanceMirrorKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'JDK-8320761' into JDK-8347710"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceMirrorKlass.cpp"}],"sha":"cc978ad3e4ac56d7317b76b9f0da910ed9d18f73"},{"commit":{"message":"Cast size_t to int"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceMirrorKlass.cpp"}],"sha":"42b53dae25f1e21ab062074cc6bc2c528786d872"}]
