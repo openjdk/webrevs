@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1176,1 +1176,1 @@\n-  \/\/ Clobber: rscratch2\n+  \/\/ Clobber: rscratch1, rscratch2\n@@ -1178,0 +1178,2 @@\n+\n+  \/\/ Clobber: rscratch1\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
