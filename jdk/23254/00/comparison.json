@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n-package java.lang.classfile.components.snippets;\n+package jdk.internal.classfile.components.snippet;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/components\/snippet-files\/PackageSnippets.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
