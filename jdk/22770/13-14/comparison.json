@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-    assert(_instance->_producer_lock_holder != Thread::current_or_null(), \"Must be\");\n+    assert(_instance->_producer_lock_holder == Thread::current_or_null(), \"Must be\");\n","filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
