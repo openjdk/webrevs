@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run testng TestBufferStack\n+ * @run testng\/othervm --enable-native-access=ALL-UNNAMED TestBufferStack\n","filename":"test\/jdk\/java\/foreign\/TestBufferStack.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
