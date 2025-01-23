@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-        if (!res) { \/\/ try once more\n+        if (!res && !doSleep) {\n","filename":"test\/jdk\/sun\/tools\/jhsdb\/JShellHeapDumpTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
