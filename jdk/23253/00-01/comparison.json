@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,0 +115,3 @@\n+hotspot_compiler_arraycopy = \\\n+  compiler\/arraycopy\/stress\n+\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
