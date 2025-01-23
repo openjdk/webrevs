@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,3 +115,1 @@\n-        synchronized (actualSelectionOrder) {\n-            actualSelectionOrder.delete(0, actualSelectionOrder.length());\n-        }\n+        actualSelectionOrder.setLength(0);\n","filename":"test\/jdk\/java\/awt\/List\/ItemEventTest\/ItemEventTest.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
