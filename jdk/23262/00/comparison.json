@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -296,1 +296,1 @@\n-  product(double, InitialRAMPercentage, 1.5625,                             \\\n+  product(double, InitialRAMPercentage, 0.2,                                \\\n","filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
