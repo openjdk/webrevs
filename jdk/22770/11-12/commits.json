@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support recursive logging on the producer thread"},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp"}],"sha":"7a39361de56a179a7591136c4bd4089a2c532306"}]
