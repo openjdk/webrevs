@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adding a missed check to skip over commoning of predicated vector operations"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorCommutativeOperSharingTest.java"}],"sha":"0d3b538bd4efd0089c7b8b660e2702c6548870a0"}]
