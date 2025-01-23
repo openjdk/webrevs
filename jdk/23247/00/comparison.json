@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n- * Declare library specific JNI_Onload entry if static build\n+ * Declare library specific JNI_Onload entry\n@@ -77,1 +77,0 @@\n-#ifdef STATIC_BUILD\n@@ -79,1 +78,0 @@\n-#endif\n","filename":"src\/java.base\/share\/native\/libzip\/zip_util.c","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}

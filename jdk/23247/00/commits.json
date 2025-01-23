@@ -1,0 +1,1 @@
+[{"commit":{"message":"8348348: Remove unnecessary #ifdef STATIC_BUILD around DEF_STATIC_JNI_OnLoad from zip_util.c"},"files":[{"filename":"src\/java.base\/share\/native\/libzip\/zip_util.c"}],"sha":"6fc4e4061141c993d39d25f51f1cd471a6d717a5"}]
