@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -360,0 +360,2 @@\n+        # Make sure we add fixpath if needed\n+        UTIL_FIXUP_EXECUTABLE($1)\n","filename":"make\/autoconf\/util_paths.m4","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
