@@ -1,0 +1,1 @@
+[{"commit":{"message":"invert logic in const check, formatting, add test for boolean values"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/TestXorBool.java"}],"sha":"3886c58d4f6a565fed322da1838040070488bb39"}]
