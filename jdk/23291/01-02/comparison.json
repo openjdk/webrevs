@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -382,3 +382,3 @@\n-  *major = -1;\n-  *minor = -1;\n-  *patch = -1;\n+  *major = 0;\n+  *minor = 0;\n+  *patch = 0;\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
