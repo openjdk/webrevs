@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-  ASSERT_THAT(st.base(), testing::HasSubstr(pattern));\n+  ASSERT_THAT(st.base(), !testing::HasSubstr(pattern));\n","filename":"test\/hotspot\/gtest\/oops\/test_markWord.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
