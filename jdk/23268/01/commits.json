@@ -1,0 +1,1 @@
+[{"commit":{"message":"adjust gcc PCH exclusion on ppc64le"},"files":[{"filename":"make\/hotspot\/lib\/JvmOverrideFiles.gmk"}],"sha":"a750c2a2cd25ab6e82da44df0ae064750a70fcf7"},{"commit":{"message":"JDK-8348207"},"files":[{"filename":"make\/hotspot\/lib\/JvmOverrideFiles.gmk"}],"sha":"cd1589f6ca7167b13abfe6b6473c046847dfdfad"}]
