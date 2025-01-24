@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -229,1 +229,2 @@\n-        int finX, finY;\n+        int finX = x;\n+        int finY = y;\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Robot.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
