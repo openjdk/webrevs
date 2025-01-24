@@ -1,0 +1,1 @@
+[{"commit":{"message":"New Unsafe get\/put method with LayoutKind argument"},"files":[{"filename":"src\/hotspot\/share\/prims\/unsafe.cpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/UnsafeTest.java"}],"sha":"506443bedbecb488d6c82b2ee0acd042905a77bb"}]
