@@ -1,0 +1,1 @@
+[{"commit":{"message":"8348562: ZGC: segmentation fault due to missing node type check in barrier elision analysis"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/c2\/zBarrierSetC2.cpp"}],"sha":"881de2c767032d9195833272ff654f9fd2d62308"}]
