@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -429,1 +429,1 @@\n-        UNSAFE.putByte(buf, ARRAY_BYTE_BASE_OFFSET + (long) charPos, (byte) c);\n+        UNSAFE.putByte(buf, ARRAY_BYTE_BASE_OFFSET + charPos, (byte) c);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/DecimalDigits.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
