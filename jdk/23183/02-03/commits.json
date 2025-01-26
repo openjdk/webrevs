@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use jtreg.SkippedException to throw an exception if the test cannot be run in the current environment, and add the private modifier to the helpful methods."},"files":[{"filename":"test\/jdk\/java\/awt\/Multiscreen\/MultiScreenInsetsTest\/MultiScreenInsetsTest.java"}],"sha":"09c1979c761024b52bd2690e6189f48af3f47047"}]
