@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix RAM Cmp reduction."},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestReduceAllocationAndPointerComparisons.java"}],"sha":"9b0bd41f104abbd91b882bd811dbe0efe7e56912"}]
