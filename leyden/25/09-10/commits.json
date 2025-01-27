@@ -1,0 +1,1 @@
+[{"commit":{"message":"Mark entry point as RuntimeAddress for relocation\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"}],"sha":"56c98bb304b6edd4d0688ddbb01ef1bdbde68336"}]
