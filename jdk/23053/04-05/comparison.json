@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2547,1 +2547,1 @@\n-    if ((base_offset1 % 8) == 0) {\n+    if (AvoidUnalignedAccesses && (base_offset1 % 8) == 0) {\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
