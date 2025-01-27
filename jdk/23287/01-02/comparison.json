@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4041,1 +4041,1 @@\n-:   Specify the location of the AOTCache. The standard extension for *cachefile* is `.aot`.\n+:   Specifies the location of the AOTCache. The standard extension for *cachefile* is `.aot`.\n","filename":"src\/java.base\/share\/man\/java.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
