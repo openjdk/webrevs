@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -396,1 +396,1 @@\n-    ThreadBlockInVM((JavaThread* )thread);\n+    ThreadBlockInVM tbivm(JavaThread::cast(thread));\n","filename":"src\/hotspot\/os\/posix\/attachListener_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
