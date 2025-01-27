@@ -1,0 +1,1 @@
+[{"commit":{"message":"8337548: Parallel class loading can pass pass is_superclass true for interfaces"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.hpp"}],"sha":"865b60810e21bbac09e4aa399355a126d728b11a"}]
