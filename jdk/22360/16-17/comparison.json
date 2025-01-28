@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,2 +75,2 @@\n-    void set_black() { _parent = _parent | 0x1; }\n-    void set_red() { _parent = _parent & ~0x1; }\n+    void set_black() { _parent |= 0x1; }\n+    void set_red() { _parent &= ~0x1; }\n","filename":"src\/hotspot\/share\/utilities\/rbTree.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
