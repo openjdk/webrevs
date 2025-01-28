@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix DeoptimizeObjectsALotThread support for release builds"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/Threads.java"}],"sha":"10e03d38ffc7a9fe749aa9128e5606b8ee0cc40d"}]
