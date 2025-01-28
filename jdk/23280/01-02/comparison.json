@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n- * {@extlink security_guide_jdk_providers JDK Providers} document for information\n+ * {@extLink security_guide_jdk_providers JDK Providers} document for information\n","filename":"src\/java.base\/share\/classes\/java\/security\/KeyPairGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
