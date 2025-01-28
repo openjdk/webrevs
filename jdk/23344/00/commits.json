@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8348892: Properly fix compilation error for zip_util.c on Windows"},"files":[{"filename":"src\/java.base\/share\/native\/libzip\/zip_util.c"}],"sha":"bef6ddbeb1957cb4294a641bced287cc5373895c"}]
