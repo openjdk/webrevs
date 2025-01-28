@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -720,1 +720,1 @@\n-  static const TypeInt* make(jint lo);\n+  static const TypeInt* make(jint con);\n@@ -797,1 +797,1 @@\n-  static const TypeLong* make(jlong lo);\n+  static const TypeLong* make(jlong con);\n","filename":"src\/hotspot\/share\/opto\/type.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
