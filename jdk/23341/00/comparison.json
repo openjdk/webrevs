@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -422,0 +422,5 @@\n+  if (!FLAG_IS_DEFAULT(AOTMode)) {\n+    \/\/ Using any form of the new AOTMode switch enables enhanced optimizations.\n+    FLAG_SET_ERGO_IF_DEFAULT(AOTClassLinking, true);\n+  }\n+\n","filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
