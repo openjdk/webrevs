@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @summary Test that Cintinuation.pin() and unpin() intrinsics work with EA.\n+ * @summary Test that Continuation.pin() and unpin() intrinsics work with EA.\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestContinuationPinningAndEA.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
