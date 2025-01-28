@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-        values.put(\"jtreg.ttf\", testThreadFactory);\n+        values.put(\"test.thread.factory\", testThreadFactory);\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/config\/RegressionContext.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
