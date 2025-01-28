@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4306,0 +4306,2 @@\n+    \/\/ Check for top because in rare cases, the type system can determine that\n+    \/\/ the object can't be an array but the layout helper check is not folded.\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
