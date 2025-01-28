@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,0 +77,1 @@\n+#ifndef WIN32\n@@ -78,0 +79,1 @@\n+#endif\n","filename":"src\/java.base\/share\/native\/libzip\/zip_util.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
