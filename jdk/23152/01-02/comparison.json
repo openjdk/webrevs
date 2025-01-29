@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,1 +263,1 @@\n-    if (r == rthread || (i <= 29 && i != rscratch1->encoding() && i != rscratch2->encoding())) {\n+    if (r == rthread || (i < 28 && i != rscratch1->encoding() && i != rscratch2->encoding())) {\n","filename":"src\/hotspot\/cpu\/aarch64\/c1_Runtime1_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
