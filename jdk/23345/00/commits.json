@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add `-compilejdk:$$(JDK_FOR_COMPILE)` to jtreg run command. By default JDK_FOR_COMPILE is set to $(JDK_IMAGE_DIR), which is the same as JDK_UNDER_TEST."},"files":[{"filename":"make\/RunTests.gmk"}],"sha":"891b055c64a879c5e71ed9168c4c7ae19d225aac"}]
