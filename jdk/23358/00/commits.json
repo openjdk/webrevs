@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change gc mode to 'stopped' when the control thread has been stopped"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.hpp"}],"sha":"ef6576878206c13b24475664b6acf648538a57cb"}]
