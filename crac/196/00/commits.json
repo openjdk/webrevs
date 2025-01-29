@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle boot-id not ending with newline\n\n* Also report errors through log_error(crac), not perror()"},"files":[{"filename":"src\/hotspot\/os\/linux\/crac_linux.cpp"}],"sha":"def793244ed0b715553fe5c11d00f8acc25ca2cd"}]
