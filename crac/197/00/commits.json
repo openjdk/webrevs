@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use \/tmp for restore parameters storage"},"files":[{"filename":"src\/hotspot\/os\/posix\/crac_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/crac_windows.cpp"},{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"},{"filename":"src\/hotspot\/share\/runtime\/crac_structs.hpp"}],"sha":"9a29229d8409409693c8623bb5eeeb66d1e42877"}]
