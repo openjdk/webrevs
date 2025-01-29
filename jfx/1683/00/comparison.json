@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,1 +117,1 @@\n-        TestLogShim.waitForLog(\"Key typed: %0$c\", new Object[] { c });\n+        TestLogShim.waitForLog(\"Key typed: %1$c\", new Object[] { c });\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/com\/sun\/glass\/ui\/monocle\/USKeyboardTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
