@@ -1,0 +1,1 @@
+[{"commit":{"message":"8348895: [testbug] Skip failing 3D lighting tests on macOS 14 or later on aarch64"},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/robot\/test3d\/PointLightIlluminationTest.java"}],"sha":"599d7745adc5c26a2dfbd9dfa12305f88ed57587"}]
