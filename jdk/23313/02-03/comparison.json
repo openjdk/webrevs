@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -628,1 +628,1 @@\n-  # Copy the linker wrapper script for AIX' clang and make it executable\n+  # Copy the linker wrapper script for clang on AIX and make it executable\n","filename":"make\/autoconf\/basic.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
