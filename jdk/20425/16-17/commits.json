@@ -1,0 +1,1 @@
+[{"commit":{"message":"merge with the new lock mechanism for NMT"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/nmt\/threadStackTracker.cpp"},{"filename":"src\/hotspot\/share\/nmt\/virtualMemoryTracker.cpp"},{"filename":"src\/hotspot\/share\/nmt\/vmtCommon.cpp"}],"sha":"692987e083a5de14f297fe0374cc47b1b20e3232"}]
