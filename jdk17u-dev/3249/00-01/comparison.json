@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4,1 +4,1 @@\n- * @summary Verify that javac rejects Java 17 program with --release 7\n+ * @summary Verify that javac rejects Java 17 program with --release 11\n","filename":"test\/langtools\/tools\/javac\/options\/release\/ReleaseOption.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
