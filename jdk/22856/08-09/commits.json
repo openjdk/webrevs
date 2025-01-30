@@ -1,0 +1,1 @@
+[{"commit":{"message":"expect vectorization of i|7 instead of i&7\ni&7 variant expect \"= 0\"."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestPopulateIndex.java"}],"sha":"419292b6fd3b33162b8a629c1af326b4430825fd"}]
