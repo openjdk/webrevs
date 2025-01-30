@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -204,1 +204,1 @@\n-  static_assert(MAX_inst_gcstub_size <= MAX_inst_size);\n+  static_assert(MAX_inst_gcstub_size <= MAX_inst_size, \"sanity\");\n","filename":"src\/hotspot\/share\/opto\/output.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
