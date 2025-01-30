@@ -1,0 +1,1 @@
+[{"commit":{"message":"undo assertion and mask shift amount ourselves.\nwe cannot rely on `maskShiftAmount` having run in all cases"},"files":[{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"}],"sha":"a8c3a6b8b5aff4615b8593d1ecbe7d9aa45b34d1"}]
