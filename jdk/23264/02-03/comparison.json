@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-        robot.mouseMove(0,0);\n+        robot.mouseMove(0, 0);\n","filename":"test\/jdk\/java\/awt\/Robot\/ScreenCaptureRobotTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
