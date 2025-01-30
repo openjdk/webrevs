@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -304,1 +304,2 @@\n-\t    SPEC=$(SPEC) FINDTESTS_STAND_ALONE=true\n+\t    SPEC=$(SPEC) FINDTESTS_STAND_ALONE=true \\\n+\t    GENERATE_FIND_TESTS_FILE=true\n","filename":"make\/RunTestsPrebuilt.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
