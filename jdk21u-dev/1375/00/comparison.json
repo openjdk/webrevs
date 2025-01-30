@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,0 +81,3 @@\n+# The JDK used to compile jtreg test code. By default it is the same as\n+# JDK_UNDER_TEST.\n+JDK_FOR_COMPILE := $(JDK_IMAGE_DIR)\n@@ -902,0 +905,1 @@\n+          -compilejdk:$$(JDK_FOR_COMPILE) \\\n","filename":"make\/RunTests.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
