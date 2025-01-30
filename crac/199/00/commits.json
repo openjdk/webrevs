@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable rseq on restore"},"files":[{"filename":"src\/java.base\/share\/native\/launcher\/main.c"}],"sha":"6796b1718fc673580f5b9744662e5c48daf4935d"},{"commit":{"message":"Disable rseq in libc on checkpoint"},"files":[{"filename":"src\/java.base\/share\/native\/launcher\/main.c"}],"sha":"5c8a7d99b52da6492d54315c5ab9605d29098482"}]
