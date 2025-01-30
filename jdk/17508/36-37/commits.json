@@ -1,0 +1,1 @@
+[{"commit":{"message":"clean up intn_t"},"files":[{"filename":"src\/hotspot\/share\/opto\/rangeinference.cpp"},{"filename":"src\/hotspot\/share\/utilities\/count_leading_zeros.hpp"},{"filename":"src\/hotspot\/share\/utilities\/intn_t.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_intn_t.cpp"}],"sha":"a84991771c32aafc498c57b746ea02382aff7f2e"}]
