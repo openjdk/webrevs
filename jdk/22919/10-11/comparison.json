@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,2 +181,1 @@\n-        return ((d & 0xF) << 3) + ((d & 0xF) << 1)  \/\/ (d & 0xF) * 10\n-                + (d >> 8);\n+        return (d & 0xF) * 10 + (d >> 8);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/DecimalDigits.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
