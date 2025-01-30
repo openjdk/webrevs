@@ -1,0 +1,1 @@
+[{"commit":{"message":"use correct name for riscv lookup routine"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"7a56c8048c20af0e4b4f1019026322588fc2c8ff"},{"commit":{"message":"use correct name for ppc lookup routine"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp"}],"sha":"d5ebe635dcdca821db37a5ac7a1ccc7a679dc583"}]
