@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-  MemTracker::record_virtual_memory_tag((address)card_table.base(), mtGC);\n+  MemTracker::record_virtual_memory_tag((address)card_table.base(), card_table.size(), mtGC);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahCardTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
