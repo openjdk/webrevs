@@ -1,0 +1,1 @@
+[{"commit":{"message":"Exclude test cases that assume (verifiable) old classes are always archived; but they are now not archived when -XX:+AOTClassLinking is enabled"},"files":[{"filename":"test\/hotspot\/jtreg\/TEST.groups"}],"sha":"cf474b70c2a7ee990a9bbc48be9d0807c3094805"}]
