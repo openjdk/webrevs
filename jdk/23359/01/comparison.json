@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,0 +116,1 @@\n+    out->cr();\n@@ -117,1 +118,0 @@\n-  out->cr();\n","filename":"src\/hotspot\/share\/utilities\/nativeCallStack.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
