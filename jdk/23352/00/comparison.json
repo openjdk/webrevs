@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,0 +132,1 @@\n+    @ForceInline\n@@ -140,0 +141,1 @@\n+    @ForceInline\n@@ -146,0 +148,1 @@\n+    @ForceInline\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
