@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3379,0 +3379,1 @@\n+             (st->adr_type()->isa_aryptr() && st->adr_type()->is_aryptr()->is_flat()) || \/\/ TODO 8343835\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
