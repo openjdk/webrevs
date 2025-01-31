@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349092: File.getFreeSpace violates specification if quotas are in effect (win)"},"files":[{"filename":"src\/java.base\/windows\/classes\/java\/io\/WinNTFileSystem.java"},{"filename":"test\/jdk\/java\/io\/File\/GetXSpace.java"}],"sha":"51425644047a72af4c2b2efe4767a2238c3bce2a"}]
