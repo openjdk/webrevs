@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1048,1 +1048,0 @@\n-  const TypePtr* const adr_type = nullptr;\n","filename":"src\/hotspot\/share\/gc\/shared\/c2\/barrierSetC2.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
