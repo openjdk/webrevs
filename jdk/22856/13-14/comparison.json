@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,0 +121,1 @@\n+    \/\/ See JDK-8349128.\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestPopulateIndex.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
