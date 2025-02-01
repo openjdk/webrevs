@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2561,1 +2561,1 @@\n-                                                       basic_elem_type == T_ARRAY);\n+                                                         basic_elem_type == T_ARRAY);\n","filename":"hotspot\/src\/share\/vm\/opto\/type.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
