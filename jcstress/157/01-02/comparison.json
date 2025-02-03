@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,0 +134,3 @@\n+        if (System.getProperty(\"jcstress.failfast.countsoft\") != null) {\n+            totalFailed += softErrors;\n+        }\n","filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/infra\/grading\/FailFastKiller.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
