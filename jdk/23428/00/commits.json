@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set gc state for all attached threads (not just java threads)."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.cpp"}],"sha":"f402628e14322eababd650d2a2a9116922508a72"}]

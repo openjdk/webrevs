@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,0 +116,3 @@\n+\n+  ShenandoahThreadLocalData::set_gc_state(thread, _heap->gc_state());\n+\n@@ -117,1 +120,0 @@\n-    ShenandoahThreadLocalData::set_gc_state(thread, _heap->gc_state());\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
