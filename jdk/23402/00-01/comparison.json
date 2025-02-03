@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,0 @@\n-                .rows((int) INSTRUCTIONS.lines().count() + 2)\n@@ -84,1 +83,1 @@\n-        frame.setSize(200,200);\n+        frame.setSize(200, 200);\n","filename":"test\/jdk\/java\/awt\/PopupMenu\/PopupMenuVisuals.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
