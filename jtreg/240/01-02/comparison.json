@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -14,1 +14,1 @@\n-      - uses: gradle\/wrapper-validation-action@v1\n+      - uses: gradle\/actions\/wrapper-validation@v4\n","filename":".github\/workflows\/gradle-wrapper-validation.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
