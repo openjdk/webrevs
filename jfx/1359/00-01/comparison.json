@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,0 +47,2 @@\n+    private final String featureName;\n+\n@@ -77,2 +79,0 @@\n-\n-    private final String featureName;\n","filename":"modules\/javafx.base\/src\/main\/java\/com\/sun\/javafx\/PreviewFeature.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
