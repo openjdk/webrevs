@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -275,1 +275,1 @@\n-     * @param  oldLength current length\n+     * @param  oldLength the raw length of the current value array, without being processed using coder.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
