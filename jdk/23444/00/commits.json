@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349374: [JVMCI] concurrent use of HotSpotSpeculationLog can crash"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotSpeculationLog.java"}],"sha":"aefc1dfd282e1e7c0eaf4eec90fc6cab03e34bde"}]
