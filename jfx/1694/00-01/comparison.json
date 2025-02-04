@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -323,1 +323,1 @@\n-                if(isBound()){\n+                if (isBound()) {\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/TextInputControl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
