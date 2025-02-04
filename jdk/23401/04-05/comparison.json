@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,1 +180,1 @@\n-        assert Files.mismatch(src, dest) < 0;\n+        assertFileContentsEqual(src, dest);\n","filename":"test\/jdk\/java\/net\/httpclient\/http2\/FixedThreadPoolTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
