@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 6b581d22e13599b16b38aff1ca5a795c6a910d30"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestContinuationPinningAndEA.java"}],"sha":"824212c701ead4870cfcf69bfbf6e43c2ece0391"}]
