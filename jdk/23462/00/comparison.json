@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -287,1 +287,1 @@\n-      char* const max = min + range_size;\n+      char* const max = (char*)(p2u(min) + range_size);\n","filename":"test\/hotspot\/gtest\/runtime\/test_os_reserve_between.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
