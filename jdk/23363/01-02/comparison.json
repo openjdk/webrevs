@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-        \/\/ Instanciate one each: classes are loaded.\n+        \/\/ Instantiate one each: classes are loaded.\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestSplitIfNewIrreducibleLoop.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
