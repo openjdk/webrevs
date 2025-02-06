@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -225,1 +225,1 @@\n-      OPTIMIZATION := LOW, \\\n+      OPTIMIZATION := SIZE, \\\n","filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
