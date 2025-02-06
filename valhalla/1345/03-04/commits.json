@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix flag name typo"},"files":[{"filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/field_layout\/TestLayoutFlags.java"}],"sha":"74b55a3991666879567354866f79a7e9a4adcf48"}]
