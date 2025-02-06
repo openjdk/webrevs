@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix some tests that now vectorize"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestCompatibleUseDefTypeSize.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/runner\/ArrayShiftOpTest.java"}],"sha":"cf75b269cdb6a5914dbbbdea64c097ae0fc4b9eb"}]
