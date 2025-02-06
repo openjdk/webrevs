@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -669,0 +669,3 @@\n+  if (records_fi.fd == -1) {\n+    return;\n+  }\n@@ -753,2 +756,0 @@\n-\n-  os::exit(0);\n","filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
