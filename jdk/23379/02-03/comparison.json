@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -666,1 +666,1 @@\n-     *     \/\/ Preserve network byte order by using ISO_8859_1 encoding\n+     *     \/\/ Preserve octet byte order by using ISO_8859_1 encoding\n","filename":"src\/java.base\/share\/classes\/javax\/net\/ssl\/SSLParameters.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
