@@ -1,0 +1,1 @@
+[{"commit":{"message":"8316397: StackTrace\/Suspended\/GetStackTraceSuspendedStressTest.java failed with: SingleStep event is NOT expected"},"files":[{"filename":"src\/hotspot\/share\/runtime\/handshake.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"}],"sha":"f8860b4b48e5d148ee600fe74e6a3b4dedf8ee13"}]
