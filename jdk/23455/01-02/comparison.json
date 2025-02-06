@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -299,1 +299,1 @@\n-    \/\/ Wraps Method.invike() into ThrowingRunnable.run()\n+    \/\/ Wraps Method.invoke() into ThrowingRunnable.run()\n","filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/TestBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
