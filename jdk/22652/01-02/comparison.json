@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2459,1 +2459,1 @@\n-        \/\/ (Folds up the 1st indirection in aClassConstant.getModifiers().)\n+        \/\/ Fold up the load of the hidden field\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
