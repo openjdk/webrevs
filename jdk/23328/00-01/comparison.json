@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -438,1 +438,1 @@\n-  ambiguous links: {0}, {1} to {2}\n+  snippet link tags: {0} and {1} overlap in {2}\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/resources\/doclets.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
