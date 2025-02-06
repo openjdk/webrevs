@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove invalid assert, alloc waiters wait until allocation failure is clear"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahController.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"}],"sha":"a7a6eea1e01d804987bcafe9a63d7725aa17d2ac"}]
