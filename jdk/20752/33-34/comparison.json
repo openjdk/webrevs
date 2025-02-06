@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-#ifdef ASSERT\n@@ -52,1 +51,0 @@\n-#endif \/\/ ASSERT\n","filename":"src\/hotspot\/share\/jfr\/support\/jfrIntrinsics.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
