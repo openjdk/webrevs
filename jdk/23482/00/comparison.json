@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,0 @@\n-BUILD_JDK_JTREG_LIBRARIES_JDK_LIBS_libTracePinnedThreads := java.base:libjvm\n","filename":"make\/test\/JtregNativeJdk.gmk","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
