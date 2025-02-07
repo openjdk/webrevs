@@ -1,0 +1,1 @@
+[{"commit":{"message":"use env variables instead of runtime flags"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp"},{"filename":"src\/hotspot\/share\/nmt\/memLogRecorder.hpp"},{"filename":"src\/hotspot\/share\/nmt\/memTracker.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"53646dbe0bdf790f7e15088a493c4ae0e524d9f3"}]
