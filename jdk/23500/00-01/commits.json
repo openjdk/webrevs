@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move JNI_GetCreatedJavaVMs lookup into JNI_OnLoad, to address AlanBateman's suggestion."},"files":[{"filename":"test\/jdk\/java\/lang\/Thread\/jni\/AttachCurrentThread\/libExplicitAttach.c"}],"sha":"4ee170d28764d361dff5d8e654d8a40d9e77fd17"}]
