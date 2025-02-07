@@ -1,0 +1,1 @@
+[{"commit":{"message":"8348962: [lworld] compiler\/arraycopy\/TestObjectArrayClone.java fails with SIGSEGV in PhaseMacroExpand::expand_arraycopy_node"},"files":[{"filename":"src\/hotspot\/share\/opto\/macroArrayCopy.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/arraycopy\/TestObjectArrayClone.java"}],"sha":"f76d220faf5753bc4721ea469d88e066507bc88e"}]
