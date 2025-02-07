@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349624: Validation for slot missing in CodeBuilder local variable instructions"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/DirectCodeBuilder.java"},{"filename":"test\/jdk\/jdk\/classfile\/InstructionValidationTest.java"}],"sha":"a33a0aa31192f84252e97c25740253f1b3473d27"}]
