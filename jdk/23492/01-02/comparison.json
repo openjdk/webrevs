@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @run main\/othervm PemEncoding\n+ * @run main PemEncoding\n","filename":"test\/jdk\/sun\/security\/util\/Pem\/PemEncoding.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
