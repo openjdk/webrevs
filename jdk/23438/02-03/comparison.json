@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1517,1 +1517,1 @@\n-Node *RShiftLNode::Ideal(PhaseGVN *phase, bool can_reshape) {\n+Node* RShiftLNode::Ideal(PhaseGVN *phase, bool can_reshape) {\n","filename":"src\/hotspot\/share\/opto\/mulnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
