@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not pollute Hotspot thread code"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp"},{"filename":"src\/hotspot\/share\/nmt\/memLogRecorder.hpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"},{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"}],"sha":"fe36a9ca6ce2b748ae0174362c65ef9ca1f3e5a4"}]
