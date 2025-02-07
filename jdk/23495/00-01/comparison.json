@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2529,1 +2529,1 @@\n-      \/\/ Load another 4 bytes from strL to make sure main loop is 8-byte aligned\n+      \/\/ Load 4 bytes from strL to make sure main loop is 8-byte aligned\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
