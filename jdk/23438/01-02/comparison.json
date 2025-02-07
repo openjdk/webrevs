@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1533,1 +1533,1 @@\n-const TypeInteger *TypeInteger::make(jlong lo, BasicType bt) {\n+const TypeInteger* TypeInteger::make(jlong lo, BasicType bt) {\n","filename":"src\/hotspot\/share\/opto\/type.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
