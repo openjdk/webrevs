@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1578,1 +1578,1 @@\n-            optionArgs = options.trim().split(\"\\\\s+\");\n+            optionArgs = options.trim().split(\" \");\n","filename":"src\/java.desktop\/share\/classes\/sun\/print\/PSPrinterJob.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
