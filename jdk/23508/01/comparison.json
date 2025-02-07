@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2020,1 +2020,1 @@\n-  if ((uintptr_t)hi_end < bytes) {\n+  if ((uintptr_t)hi_end <= bytes) {\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
