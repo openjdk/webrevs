@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349512: Duplicate PermittedSubclasses entries with doclint enabled"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Symbol.java"},{"filename":"test\/langtools\/tools\/javac\/sealed\/SealedDiffConfigurationsTest.java"}],"sha":"d8a803f9fccc52b940bce371d0911e758971b3ff"}]
