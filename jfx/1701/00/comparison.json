@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,1 +2,1 @@\n- * Copyright (c) 2013, 2024, Oracle and\/or its affiliates. All rights reserved.\n+ * Copyright (c) 2013, 2025, Oracle and\/or its affiliates. All rights reserved.\n@@ -4276,0 +4276,2 @@\n+        maxHeapSize = \"1000m\"\n+\n","filename":"build.gradle","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
