@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -870,0 +870,1 @@\n+  BUILD_HOTSPOT_JTREG_LIBRARIES_LIBS_libatExit += -ldl\n","filename":"make\/test\/JtregNativeHotspot.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

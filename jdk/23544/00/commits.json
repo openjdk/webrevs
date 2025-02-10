@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix lib name."},"files":[{"filename":"make\/test\/JtregNativeHotspot.gmk"}],"sha":"f6edabcd37abfc1ede76f95c66ce8184d703e8fb"},{"commit":{"message":"Add `BUILD_HOTSPOT_JTREG_LIBRARIES_JDK_LIBS_libatExit := -ldl` for linux target."},"files":[{"filename":"make\/test\/JtregNativeHotspot.gmk"}],"sha":"432786ded36a31fcd362f7c53c529017890a5a91"}]
