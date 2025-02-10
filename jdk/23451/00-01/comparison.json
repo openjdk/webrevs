@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-        for (int i = 0; i < 100; i++) {\n+        for (int i = 0; i < 1000; i++) {\n","filename":"test\/jdk\/javax\/swing\/JComboBox\/JComboBoxScrollFocusTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
