@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -591,1 +591,1 @@\n-      InlineTypeNode* vt = peek()->as_InlineType();\n+      InlineTypeNode* vt = receiver_node->as_InlineType();\n","filename":"src\/hotspot\/share\/opto\/doCall.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
