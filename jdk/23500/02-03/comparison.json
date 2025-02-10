@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,2 +41,0 @@\n-    JavaVMInitArgs vm_args;\n-    jsize count;\n","filename":"test\/jdk\/java\/lang\/Thread\/jni\/AttachCurrentThread\/libExplicitAttach.c","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
