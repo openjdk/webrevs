@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix incorrect \"early reference\" error."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Resolve.java"},{"filename":"test\/langtools\/tools\/javac\/SuperInit\/SuperInitGood.java"}],"sha":"a632fe6da01ac3f5d35dae54e1c106902c486938"}]
