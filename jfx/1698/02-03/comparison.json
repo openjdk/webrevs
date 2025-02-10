@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -415,1 +415,3 @@\n-            System.gc();\n+            if (nextBoolean(0.1)) {\n+                System.gc();\n+            }\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/NodeInitializationStressTest.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
