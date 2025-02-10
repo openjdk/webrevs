@@ -1,0 +1,1 @@
+[{"commit":{"message":"- Stash `JavaVM *` argument from `JNI_OnLoad`. Remove `JNI_GetCreatedJavaVMs`. Thanks AlanBateman for noticing that."},"files":[{"filename":"test\/jdk\/java\/lang\/Thread\/jni\/AttachCurrentThread\/libExplicitAttach.c"}],"sha":"1da4da96bdd49b3a8f7e3948f7c61c0c45ab0c55"}]
