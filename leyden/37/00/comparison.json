@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1023,1 +1023,1 @@\n-    MutexLocker locker(THREAD, MethodCompileQueue_lock);\n+    MutexLocker locker(THREAD, task()->compile_queue()->lock());\n","filename":"src\/hotspot\/share\/ci\/ciEnv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
