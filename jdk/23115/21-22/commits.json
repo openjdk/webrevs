@@ -1,0 +1,1 @@
+[{"commit":{"message":"cleanup\/fix build"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp"}],"sha":"8dc369fdcbfacbefd53b98156852ddcfd02eae21"},{"commit":{"message":"define MAXTHREADNAMESIZE on Linux"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp"}],"sha":"57bae7a72311338494aaa60709bdfe15f1fefe67"}]
