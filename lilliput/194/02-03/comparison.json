@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,1 +142,1 @@\n-\t\t\/\/ TODO: Does not currently work with +UseCompactObjectHeaders.\n+                \/\/ TODO: Does not currently work with +UseCompactObjectHeaders.\n","filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedClassSpaceSize.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
