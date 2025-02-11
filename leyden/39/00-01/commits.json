@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore code that maps cached code region to CodeCache\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/code\/SCCache.cpp"},{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/codeCache.hpp"}],"sha":"029cefc0409a1609da8db373fe7000c60d019d13"}]
