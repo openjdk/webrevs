@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -138,0 +138,1 @@\n+  NOT_PRODUCT(log_debug(deathtest)(\"Induce a recursive log for testing\");)\n","filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
