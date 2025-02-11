@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-    OPTIMIZATION := LOW, \\\n+    OPTIMIZATION := SIZE, \\\n","filename":"make\/modules\/jdk.jdwp.agent\/Lib.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
