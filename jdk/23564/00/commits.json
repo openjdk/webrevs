@@ -1,0 +1,1 @@
+[{"commit":{"message":"8294155: Exception thrown before awaitAndCheck hangs PassFailJFrame\n\nCatch exceptions in Builder.build() and dispose of all the windows\nif an exception occurs."},"files":[{"filename":"test\/jdk\/java\/awt\/regtesthelpers\/PassFailJFrame.java"}],"sha":"dd27e8f7260c0a72d951bf4c1506b8f694add039"}]
