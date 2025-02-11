@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use -Xlog:all=debug for entering the deathtest message"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/AsyncDeathTestDebug.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/AsyncDeathTestNonProduct.java"}],"sha":"7d2cf5ec9494c37ac63037531192c9a3b570cf47"}]
