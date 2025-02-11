@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -980,0 +980,1 @@\n+    \/\/ x and y represent the position of the top-left corner of the window relative to the desktop area\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
