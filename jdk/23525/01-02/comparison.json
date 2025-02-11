@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-  EXCLUDE_DIRS := jdk\/test\/lib\/containers\n+    BUILD_TEST_LIB_JAR_EXCLUDES := jdk\/test\/lib\/containers\n@@ -67,1 +67,1 @@\n-    EXCLUDES := $(EXCLUDE_DIRS), \\\n+    EXCLUDES := $(BUILD_TEST_LIB_JAR_EXCLUDES), \\\n","filename":"make\/test\/BuildTestLib.gmk","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
