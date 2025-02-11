@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -21,0 +21,4 @@\n+#elif defined(AIX)\n+#include <sys\/machine.h>\n+#define __BIG_ENDIAN      BIG_ENDIAN\n+#define __BYTE_ORDER      BIG_ENDIAN\n","filename":"src\/java.desktop\/unix\/native\/libpipewire\/include\/spa\/utils\/endian.h","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
