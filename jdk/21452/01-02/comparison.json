@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2222,1 +2222,1 @@\n-          ast->print(\"(\" SIZE_FORMAT_W(4) \"K)\", blob_size\/K);\n+          ast->print(\"(%4zuK)\", blob_size\/K);\n","filename":"src\/hotspot\/share\/code\/codeHeapState.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
