@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -14,0 +14,5 @@\n+#ifdef AIX\n+#include <sys\/machine.h>\n+#define __BIG_ENDIAN      BIG_ENDIAN\n+#define __BYTE_ORDER      BIG_ENDIAN\n+#else\n@@ -15,0 +20,1 @@\n+#endif\n","filename":"src\/java.desktop\/unix\/native\/libpipewire\/include\/spa\/param\/audio\/raw.h","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
