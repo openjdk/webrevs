@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,0 +151,1 @@\n+        \/\/ with the limited set of modules, we expect that jdk.crypto.cryptoki be added through --bind-services\n","filename":"test\/jdk\/tools\/jpackage\/share\/JLinkOptionsTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
