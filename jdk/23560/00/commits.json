@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349812: Unexpected exception opening empty path name with WRITE, CREATE_NEW"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixChannelFactory.java"},{"filename":"test\/jdk\/java\/nio\/file\/Files\/SBC.java"}],"sha":"0a1a7ead4c59498c5298c5dcf86875dcbd33c0c2"}]
