@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -14,5 +14,1 @@\n-#if !defined(AIX)\n-#include <spa\/utils\/endian.h>\n-#endif\n-\n-#if defined(AIX)\n+#ifdef AIX\n@@ -22,0 +18,2 @@\n+#else\n+#include <spa\/utils\/endian.h>\n","filename":"src\/java.desktop\/unix\/native\/libpipewire\/include\/spa\/param\/audio\/raw.h","additions":3,"deletions":5,"binary":false,"changes":8,"status":"modified"}]}
