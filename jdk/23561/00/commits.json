@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349820: Temporarily increase MemLimit for tests until JDK-8349772 and JDK-8337821 are fixed"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/jit\/t\/t105\/t105.java"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/mlvm\/meth\/stress\/compiler\/i2c_c2i\/Test.java"}],"sha":"f290a5aa97d71c4681423f5c6c1018c16d1b9baf"}]
