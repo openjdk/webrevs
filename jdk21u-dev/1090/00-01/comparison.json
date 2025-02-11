@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2413,0 +2413,5 @@\n+  if (! _use_secondary_supers_table && UseSecondarySupersTable) {\n+    log_warning(cds)(\"The shared archive was created without UseSecondarySupersTable.\");\n+    return false;\n+  }\n+\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
