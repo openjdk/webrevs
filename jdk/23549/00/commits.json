@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349763: Expose more ForkJoinPool parameters for virtual thread scheduler to reduce startup jitter and improve stability"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/VirtualThread.java"}],"sha":"c66787f9fe01d98db8495ce678952fdba204e552"}]
