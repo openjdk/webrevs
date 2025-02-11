@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -377,1 +377,1 @@\n-  if (p->mark().is_expanded() && !mark().is_expanded()) {\n+  if (UseCompactObjectHeaders && p->mark().is_expanded() && !mark().is_expanded()) {\n","filename":"src\/hotspot\/share\/oops\/oop.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
