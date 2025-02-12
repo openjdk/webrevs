@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid generation of unnecessary PS commands during printing"},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/print\/PSPrinterJob.java"},{"filename":"test\/jdk\/javax\/print\/PostScriptLeanTest.java"}],"sha":"78d02b0726228db368de565bafb39cda0c67ea0a"}]
