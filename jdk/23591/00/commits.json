@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349926: [BACKOUT] Support static JDK in libfontmanager\/freetypeScaler.c"},"files":[{"filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk"},{"filename":"src\/java.desktop\/share\/native\/libfontmanager\/freetypeScaler.c"}],"sha":"b3d39d8f8982ffdbd6bb1bde0bd40f88445b896e"}]
