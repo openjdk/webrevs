@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -941,1 +941,0 @@\n-    assert(out_jvms->sp() >= (uint)inputs, \"not enough operands for reexecution\");\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
