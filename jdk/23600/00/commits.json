@@ -1,0 +1,1 @@
+[{"commit":{"message":"Redo JDK-8349859 fix. Instead of calling FT_Property_Set directly, call the function using the address returned by lookup."},"files":[{"filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk"},{"filename":"src\/java.desktop\/share\/native\/libfontmanager\/freetypeScaler.c"}],"sha":"e9ca0cc5ffc820a2cb2a46c5609d5274481463d8"}]
