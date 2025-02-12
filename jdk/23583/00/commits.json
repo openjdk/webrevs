@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix P11TlsKeyMaterialGenerator crash"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/P11TlsKeyMaterialGenerator.java"},{"filename":"test\/jdk\/sun\/security\/pkcs11\/tls\/TestKeyMaterialMisuse.java"}],"sha":"d99967a0b7c0014403d3c4085a40e135bc1e5600"}]
