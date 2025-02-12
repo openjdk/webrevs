@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check if FT_Property_Set can be found from the executable if running on static JDK, before trying to load libfreetype.so."},"files":[{"filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk"},{"filename":"src\/java.desktop\/share\/native\/libfontmanager\/freetypeScaler.c"}],"sha":"e7907b783dc9893dc4fc7ec66eae19af98974c2a"}]
