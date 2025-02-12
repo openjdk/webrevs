@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -837,0 +837,1 @@\n+            serviceSet.set(null);\n@@ -841,1 +842,0 @@\n-            serviceSet.set(null);\n","filename":"src\/java.base\/share\/classes\/java\/security\/Provider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
