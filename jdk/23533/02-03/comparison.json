@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -170,0 +170,1 @@\n+#ifdef COMPILER2\n@@ -172,0 +173,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/code\/codeBlob.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
