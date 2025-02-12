@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove libjava shared library dependency from jtreg test libNewDirectByteBuffer, libDirectIO and libInheritedChannel."},"files":[{"filename":"make\/test\/JtregNativeJdk.gmk"}],"sha":"0a48af70b352a38d4dacfe414f5be8c10a918044"}]
