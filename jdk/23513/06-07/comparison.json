@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,0 +51,1 @@\n+    Thread* saved_holder = _holder;\n@@ -53,1 +54,1 @@\n-    _holder = Thread::current_or_null();\n+    _holder = saved_holder;\n","filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
