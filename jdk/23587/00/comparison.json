@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -344,1 +344,0 @@\n-      G1HeapRegionRemSet* rem_set = max_rs_mem_sz_region()->rem_set();\n@@ -392,1 +391,0 @@\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSetSummary.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
