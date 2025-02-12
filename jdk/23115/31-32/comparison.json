@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -739,1 +739,1 @@\n-    _write_and_check(info_fd, &level, sizeof(mode));\n+    _write_and_check(info_fd, &mode, sizeof(mode));\n","filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
