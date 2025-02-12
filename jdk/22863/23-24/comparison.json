@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1083,0 +1083,1 @@\n+      assert(req() == 3, \"Must be a binary operation\");\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
