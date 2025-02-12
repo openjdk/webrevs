@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    private static CountDownLatch started = new CountDownLatch(1);\n+    private static final CountDownLatch started = new CountDownLatch(1);\n","filename":"test\/jdk\/java\/lang\/Thread\/virtual\/ThreadPollOnYield.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
