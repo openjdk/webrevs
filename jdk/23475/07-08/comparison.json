@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-         \"Error: losing card mark on initialzing store to old gen\");\n+         \"Allocating new object outside of young generation: \" INTPTR_FORMAT, p2i(new_obj));\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
