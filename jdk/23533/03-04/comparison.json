@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,0 +173,3 @@\n+#else\n+  bool is_uncommon_trap_stub() const          { return false; }\n+  bool is_exception_stub() const              { return false; }\n","filename":"src\/hotspot\/share\/code\/codeBlob.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
