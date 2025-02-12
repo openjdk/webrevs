@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -796,3 +796,1 @@\n-\n-  movptr(t1, entry_point, offset, t2);\n-\n+  movptr(t1, entry_point, offset, t0);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
