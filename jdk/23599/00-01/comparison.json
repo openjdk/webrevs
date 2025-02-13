@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1605,1 +1605,1 @@\n-     * A {@code String} object is returned that contains the character\n+     * The {@code String} object that is returned contains the character\n","filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
