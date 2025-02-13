@@ -1,0 +1,1 @@
+[{"commit":{"message":"converted JVMCIRuntime::_shared_library_javavm_id to jlong"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.hpp"}],"sha":"b7a38951a54ff4c1186a3682f717805822575ea8"}]
