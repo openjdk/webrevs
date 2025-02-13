@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349953: Avoid editing AOTConfiguration file in \"make test JTREG_AOT_JDK=true\""},"files":[{"filename":"make\/RunTests.gmk"},{"filename":"make\/test\/SetupAot.java"},{"filename":"src\/hotspot\/share\/cds\/classListParser.cpp"}],"sha":"0a645b69d35889668314c5a9be6ae1049214e08e"}]
