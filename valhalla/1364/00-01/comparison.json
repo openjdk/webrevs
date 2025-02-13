@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,0 @@\n-            System.out.println(receiverType + \" offset \" + offsetNoHeader + \" \" + itemType);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/value\/LayoutIteration.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
