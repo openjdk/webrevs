@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1166,1 +1166,1 @@\n-     *         by calling ICC_Profile.getInstance(int cspace)\n+     *         by calling {@code ICC_Profile.getInstance(int cspace)}\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/color\/ICC_Profile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
