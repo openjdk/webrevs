@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -522,1 +522,1 @@\n-  \/\/ User-settable flag counts \"attempts\" in 10ms units.\n+  \/\/ User-settable flag counts \"attempts\" in 10ms units, to a maximum of 10s.\n","filename":"src\/hotspot\/share\/runtime\/vmOperations.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
