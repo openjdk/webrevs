@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,1 +190,1 @@\n-    strncpy((char*)_threads_names[_threads_names_counter-1].name, name, MAXTHREADNAMESIZE-1);\n+    strncpy((char*)_threads_names[_threads_names_counter-1].name, name, MAXTHREADNAMESIZE);\n","filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
