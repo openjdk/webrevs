@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,0 +114,1 @@\n+    os::exit(0);\n","filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
