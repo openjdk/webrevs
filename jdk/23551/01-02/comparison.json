@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -953,1 +953,2 @@\n-        __ j(fail);\n+        __ mv(result, 0);\n+        __ ret();\n","filename":"src\/hotspot\/cpu\/riscv\/c1_Runtime1_riscv.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
