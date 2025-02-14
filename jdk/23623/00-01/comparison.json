@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,0 @@\n-        \/\/t.setOutputProperty(OutputKeys.ENCODING, StandardCharsets.UTF_8.name());\n","filename":"test\/jaxp\/javax\/xml\/jaxp\/unittest\/transform\/JDK8207760.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
