@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,1 +180,1 @@\n-        jdk.jfr.internal,\n+        jdk.jfr,\n@@ -424,1 +424,1 @@\n-        jdk.jfr.internal,\n+        jdk.jfr,\n","filename":"src\/java.base\/share\/classes\/module-info.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
