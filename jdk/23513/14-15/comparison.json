@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-    assert(_holder == nullptr || _holder == Thread::current_or_null(), \"must be\");\n+    assert(_holder == Thread::current_or_null(), \"must be\");\n","filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
