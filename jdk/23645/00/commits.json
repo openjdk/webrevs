@@ -1,0 +1,1 @@
+[{"commit":{"message":"Refactor StackMapTable constructor and StackMapReader"},"files":[{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.cpp"},{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.hpp"},{"filename":"src\/hotspot\/share\/classfile\/verifier.cpp"}],"sha":"ef8c978657aa7f07be256c97e97978bb59397b36"}]
