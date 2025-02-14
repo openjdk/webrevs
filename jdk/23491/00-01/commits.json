@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reworking FileHandler so rotation occurs synchronously after the last log entry is written."},"files":[{"filename":"src\/java.logging\/share\/classes\/java\/util\/logging\/FileHandler.java"},{"filename":"test\/jdk\/java\/util\/logging\/LoggingDeadlock5.java"}],"sha":"11ba770153dc256ca54e04c08517c055c780aa4f"}]
