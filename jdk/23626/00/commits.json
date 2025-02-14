@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349909: jdk.internal.jimage.decompressor.ZipDecompressor does not close the Inflater in exceptional cases"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/jimage\/decompressor\/ZipDecompressor.java"}],"sha":"7b2523aa9c5d31c54b3963e4d3a341434981a0a2"}]
