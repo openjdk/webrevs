@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -315,1 +315,0 @@\n-  JFR_ONLY(Jfr::before_checkpoint();)\n@@ -456,0 +455,2 @@\n+  JFR_ONLY(Jfr::before_checkpoint();)\n+\n@@ -475,1 +476,0 @@\n-  \/\/ after_restore should run outside VM thread\n","filename":"src\/hotspot\/share\/runtime\/crac.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
