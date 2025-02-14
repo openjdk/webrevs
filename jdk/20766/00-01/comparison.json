@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,1 +2,1 @@\n-# Copyright (c) 2024, Oracle and\/or its affiliates. All rights reserved.\n+# Copyright (c) 2024, 2025, Oracle and\/or its affiliates. All rights reserved.\n@@ -41,1 +41,1 @@\n-requiredVersion=7.4+1\n+requiredVersion=7.5.1+1\n","filename":"test\/docs\/TEST.ROOT","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
