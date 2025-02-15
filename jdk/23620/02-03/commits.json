@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved the AOT setup function into SetupAOT.gmk so it can be included by other internal makefiles"},"files":[{"filename":"make\/PreInitSupport.gmk"},{"filename":"make\/RunTests.gmk"},{"filename":"make\/test\/SetupAOT.gmk"}],"sha":"81944a2ea3c8996fd227af52eb53debae6dfe6fc"}]
