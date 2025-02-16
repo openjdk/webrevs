@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,1 @@\n-    catch (...) {\n+    catch (const std::bad_alloc&) {\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Taskbar.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
