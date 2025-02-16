@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350148: Native stack overflow when writing Java heap objects into AOT cache"},"files":[{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.hpp"}],"sha":"4bdb21b05bec644a3f4bf3ebb74cfc6577b95ec8"}]
