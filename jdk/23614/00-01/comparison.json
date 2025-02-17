@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,2 +102,0 @@\n-      case Op_SelectFromTwoVector:\n-        return true;\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
