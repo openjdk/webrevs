@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,2 +105,0 @@\n-  _name = (ciSymbol*)ciEnv::current(THREAD)->get_symbol(name);\n-\n","filename":"src\/hotspot\/share\/ci\/ciField.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
