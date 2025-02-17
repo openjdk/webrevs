@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4458,1 +4458,1 @@\n-                  as_VectorRegister($tmp$$reg), Assembler::v0_t);\n+                   as_VectorRegister($tmp$$reg), Assembler::v0_t);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
