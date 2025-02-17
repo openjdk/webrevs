@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -561,1 +561,3 @@\n-    offset = copystrings(buf, offset, &c->envv[0]);\n+    if (c->envv != NULL) {\n+        offset = copystrings(buf, offset, &c->envv[0]);\n+    }\n","filename":"src\/java.base\/unix\/native\/libjava\/ProcessImpl_md.c","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
