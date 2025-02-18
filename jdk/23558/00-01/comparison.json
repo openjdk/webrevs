@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1713,1 +1713,1 @@\n-                if (liveRangeWidget.isVisible()) {\n+                if (liveRangeWidget != null && liveRangeWidget.isVisible()) {\n","filename":"src\/utils\/IdealGraphVisualizer\/View\/src\/main\/java\/com\/sun\/hotspot\/igv\/view\/DiagramScene.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
