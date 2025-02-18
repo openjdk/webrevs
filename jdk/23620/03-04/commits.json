@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move the contents of SetupAOT.gmk back to RunTests.gmk, as it is not necessary to have the definitions in a stand-alone file"},"files":[{"filename":"make\/RunTests.gmk"},{"filename":"make\/test\/SetupAOT.gmk"}],"sha":"f78354c1806583c43ba8541ed7b403704e5c19a8"}]
