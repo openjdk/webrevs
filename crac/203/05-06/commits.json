@@ -1,0 +1,1 @@
+[{"commit":{"message":"JfrUpcalls::request_start_after_restore should not propagate exception"},"files":[{"filename":"src\/hotspot\/share\/jfr\/jni\/jfrUpcalls.cpp"}],"sha":"ab2c18db5c8dce9f3ad4a91eb5cbcb429ae6d670"}]
