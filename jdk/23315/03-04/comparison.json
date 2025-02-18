@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,2 @@\n+ * @modules java.base\/sun.security.x509\n+ *          java.base\/sun.security.util\n","filename":"test\/jdk\/sun\/security\/x509\/X509CertImpl\/CertExtensions.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
