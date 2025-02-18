@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add end position for variables coming from variableDeclaratorId()."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/parser\/DeclarationEndPositions.java"}],"sha":"e235228708326379cc5072161fc2dcf617ea46e2"}]
