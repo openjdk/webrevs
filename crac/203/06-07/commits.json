@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't use TRAPS in request_start_after_restore"},"files":[{"filename":"src\/hotspot\/share\/jfr\/jfr.cpp"},{"filename":"src\/hotspot\/share\/jfr\/jni\/jfrUpcalls.cpp"},{"filename":"src\/hotspot\/share\/jfr\/jni\/jfrUpcalls.hpp"}],"sha":"eff26a35b64d6bfe3627cf9a4f69f7b8722c4de9"}]
