@@ -1,0 +1,1 @@
+[{"commit":{"message":"use LD_FORMAT to hide formatting, allow NMT level mismatch only for time"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp"},{"filename":"src\/hotspot\/share\/nmt\/memLogRecorder.hpp"}],"sha":"f5901f7566b3b12a305c800c85fee5a831a3d056"}]
