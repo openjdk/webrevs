@@ -1,0 +1,1 @@
+[{"commit":{"message":"use explicit argument types for overloaded java_shift_left()"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"}],"sha":"92411fbef20de2fb001cdab71b5d677803d105b4"},{"commit":{"message":"use java_shift_left()"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"}],"sha":"189aa1e502d8404db5ab3f6a496945bdf8aec4ff"}]
