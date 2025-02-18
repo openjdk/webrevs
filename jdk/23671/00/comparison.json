@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -308,0 +308,2 @@\n+                \/\/ Do not pay extra stack trace generation cost for normally thrown exceptions\n+                \"-XX:-StackTraceInThrowable\",\n","filename":"test\/hotspot\/jtreg\/testlibrary\/ctw\/src\/sun\/hotspot\/tools\/ctw\/CtwRunner.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
