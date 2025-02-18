@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1032,1 +1032,1 @@\n-  return round_up_power_of_2(U(hi_0 | hi_1) + 1) - 1 ;\n+  return round_up_power_of_2(U(hi_0 | hi_1) + 1) - 1;\n","filename":"src\/hotspot\/share\/opto\/addnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
