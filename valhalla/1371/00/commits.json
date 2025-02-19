@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349923: Refactor StackMapTable constructor and StackMapReader\n\nReviewed-by: coleenp, dholmes"},"files":[{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.cpp"},{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.hpp"},{"filename":"src\/hotspot\/share\/classfile\/verifier.cpp"}],"sha":"e9f1c72ace98fbeb5906fc4cdbffcefc0ea6086d"}]
