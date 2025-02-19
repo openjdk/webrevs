@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -690,1 +690,0 @@\n-    __ vspltisb(vZero, 0);\n","filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
