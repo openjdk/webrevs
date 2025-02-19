@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350344: Cross-build failure: _vptr conflicts with internal virtual table field"},"files":[{"filename":"src\/hotspot\/share\/code\/codeBlob.cpp"},{"filename":"src\/hotspot\/share\/code\/codeBlob.hpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.hpp"}],"sha":"a91abcba7a0aa6de7fc3b72fb01991f33aea9963"}]
