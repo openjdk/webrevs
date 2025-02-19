@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2846,0 +2846,1 @@\n+    assert(CodeCache::contains(dest), \"simplified call is only for special C1 stubs\");\n","filename":"src\/hotspot\/cpu\/ppc\/c1_LIRAssembler_ppc.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
