@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,2 @@\n+#include \"compiler\/compilerDefinitions.hpp\"\n+\n@@ -60,1 +62,0 @@\n-enum CompLevel : signed char;\n","filename":"src\/hotspot\/share\/code\/SCCache.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
