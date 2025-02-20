@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+ * @requires vm.compMode != \"Xcomp\"\n","filename":"test\/hotspot\/jtreg\/gc\/TestDisableExplicitGC.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
