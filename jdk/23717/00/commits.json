@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350444: Check for verifer error in StackMapReader::check_offset()"},"files":[{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.cpp"},{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.hpp"}],"sha":"532c6ecc9b81ea02f30f644de588e075b7dc3be7"}]
