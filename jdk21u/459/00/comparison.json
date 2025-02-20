@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,2 +67,0 @@\n-  else ifeq ($(TOOLCHAIN_TYPE), xlc)\n-    TEST_CFLAGS += -qvisibility=hidden\n","filename":"make\/common\/TestFilesCompilation.gmk","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
