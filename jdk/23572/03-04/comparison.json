@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1295,1 +1295,1 @@\n-    \/\/ The componentType field's null value is the sole indication that the class \n+    \/\/ The componentType field's null value is the sole indication that the class\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
