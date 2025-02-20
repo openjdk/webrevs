@@ -1,0 +1,1 @@
+[{"commit":{"message":"avoid Thread::current in high traffic chunk alloc path"},"files":[{"filename":"src\/hotspot\/share\/memory\/arena.cpp"}],"sha":"dd7a06ad521ca77f28cf32236a2091f4924db08c"}]
