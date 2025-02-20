@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix infinite loop in cyclic inheritance scenario."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Check.java"},{"filename":"test\/langtools\/tools\/javac\/ClassCycle\/ClassCycle4.java"},{"filename":"test\/langtools\/tools\/javac\/ClassCycle\/ClassCycle4.out"}],"sha":"1ec2d1f2ae6123d2c74afe7373c75cbc226df4c3"}]
