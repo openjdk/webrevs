@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -429,1 +429,1 @@\n-  const LoopSelector loop_selector(lpt, opaque, PROB_FAIR, COUNT_UNKNOWN);\n+  const LoopSelector loop_selector(lpt, opaque, PROB_LIKELY_MAG(3), COUNT_UNKNOWN);\n","filename":"src\/hotspot\/share\/opto\/loopUnswitch.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
