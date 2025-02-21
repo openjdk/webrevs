@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350480: RISC-V: Relax assertion about registers in C2_MacroAssembler::minmax_fp"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"acb79d33d9d9c10ee238ecb06e3eaf532755e5a9"}]
