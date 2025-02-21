@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,2 @@\n- * prefix and an empty name sequence.\n+ * prefix and an empty name sequence.  Accessing a file with the empty abstract\n+ * pathname is equivalent to accessing the current user directory.\n","filename":"src\/java.base\/share\/classes\/java\/io\/File.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
