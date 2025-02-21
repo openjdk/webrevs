@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,0 +235,3 @@\n+    if (frame->verifier()->has_error()) {\n+      return nullptr;\n+    }\n","filename":"src\/hotspot\/share\/classfile\/stackMapTable.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
