@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove null check before calling initCause"},"files":[{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/DHPrivateKey.java"},{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/DHPublicKey.java"}],"sha":"a335e4f7b7e6e6232b587261b3e5b30ee11ef26c"}]
