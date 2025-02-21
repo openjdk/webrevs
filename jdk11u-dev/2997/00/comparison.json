@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -211,1 +211,1 @@\n-                    if ((i + j > data.length || data[i + j] != searchPattern[j])) {\n+                    if ((i + j >= data.length || data[i + j] != searchPattern[j])) {\n","filename":"test\/jdk\/build\/AbsPathsInImage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
