@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -510,1 +510,1 @@\n-#if COMPILER2_OR_JVMCI\n+#if defined(COMPILER1) || COMPILER2_OR_JVMCI\n@@ -514,1 +514,1 @@\n-#endif \/\/ COMPILER2_OR_JVMCI\n+#endif \/\/ defined(COMPILER1) || COMPILER1_OR_COMPILER2\n","filename":"src\/hotspot\/cpu\/aarch64\/frame_aarch64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
