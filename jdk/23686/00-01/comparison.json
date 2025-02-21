@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n-import jdk.internal.misc.Unsafe;\n+import sun.misc.Unsafe;\n@@ -35,1 +35,0 @@\n-@Fork(value = 1, jvmArgs = {\"--add-opens\", \"java.base\/jdk.internal.misc=ALL-UNNAMED\"})\n","filename":"test\/micro\/org\/openjdk\/bench\/sun\/misc\/UnsafeOps.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
