@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,1 +147,1 @@\n-     @SuppressWarnings({\"rawtypes\", \"unchecked\"})\n+    @SuppressWarnings({\"rawtypes\", \"unchecked\"})\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodTypeForm.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
