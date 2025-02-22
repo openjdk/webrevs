@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -795,1 +795,1 @@\n-        return Modifier.isInterface(getModifiers());\n+        return Modifier.isInterface(modifiers);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
