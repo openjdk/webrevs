@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350483: AArch64: turn on signum intrinsics by default on Ampere CPUs\n\nSigned-off-by: Patrick Zhang <patrick@os.amperecomputing.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"41a8917f38d1236cebfcbe9896cf1627cf29d29a"}]

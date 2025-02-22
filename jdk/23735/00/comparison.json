@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -164,0 +164,3 @@\n+    if (FLAG_IS_DEFAULT(UseSignumIntrinsic)) {\n+      FLAG_SET_DEFAULT(UseSignumIntrinsic, true);\n+    }\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
