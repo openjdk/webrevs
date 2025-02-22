@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,3 +34,0 @@\n-#if INCLUDE_CDS\n-#include \"classfile\/systemDictionaryShared.hpp\"\n-#endif\n@@ -65,0 +62,3 @@\n+#if INCLUDE_CDS\n+#include \"classfile\/systemDictionaryShared.hpp\"\n+#endif\n","filename":"src\/hotspot\/share\/classfile\/verifier.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
