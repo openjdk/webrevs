@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n- * Example operation using a ficticious {@code KEM} algorithm {@code ABC}:\n+ * Example operation using a fictitious {@code KEM} algorithm {@code ABC}:\n","filename":"src\/java.base\/share\/classes\/javax\/crypto\/KEM.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
