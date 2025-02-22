@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use ExtractIconEx() WinAPI to extract icons from executables, as it doesn't rely on GetLastError() to deliver error information to the caller. GetLastError() is not reliable in managed code."},"files":[{"filename":"test\/jdk\/tools\/jpackage\/resources\/read-executable-icon.ps1"}],"sha":"31ebde0c17ddc67929a40a2fc87b14059b544600"}]
