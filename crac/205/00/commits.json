@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix CRaC log level"},"files":[{"filename":"src\/hotspot\/share\/logging\/logConfiguration.cpp"},{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"},{"filename":"test\/jdk\/jdk\/crac\/CracLogTest.java"}],"sha":"0d5095e6faa78f45fd8a6a1541b0d5664a022f33"}]
