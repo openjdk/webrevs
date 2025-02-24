@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -977,1 +977,1 @@\n-     * @deprecated This constructor exists for historical reasons.  If\n+     * @deprecated This method exists for historical reasons.  If\n","filename":"src\/java.management\/share\/classes\/javax\/management\/modelmbean\/DescriptorSupport.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
