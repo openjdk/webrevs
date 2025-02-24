@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use HandshakeContext's localSupportedCertSignAlgs when checking against SSLSession's localSupportedSignAlgs"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/PostHandshakeContext.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/PreSharedKeyExtension.java"}],"sha":"d0ef5526e175af8dbc14e5a8314abbf2661d4949"}]
