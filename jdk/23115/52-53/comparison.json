@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,2 +45,0 @@\n-#if defined(LINUX) || defined(__APPLE__)\n-\n@@ -65,0 +63,2 @@\n+#if defined(LINUX) || defined(__APPLE__)\n+\n","filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
