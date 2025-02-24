@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,2 +28,1 @@\n- * @modules jdk.internal.le\/jdk.internal.org.jline\n- *          jdk.internal.le\/jdk.internal.org.jline.terminal\n+ * @modules jdk.internal.le\/jdk.internal.org.jline.terminal\n","filename":"test\/jdk\/jdk\/internal\/jline\/AbstractWindowsTerminalTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
