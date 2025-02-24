@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349888: AOTMode=create crashes with EpsilonGC"},"files":[{"filename":"src\/hotspot\/share\/cds\/classListParser.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotClassLinking\/LambdaInExcludedClass.java"}],"sha":"19f627f92dadc87ce363c8fb8282133a41859201"}]
