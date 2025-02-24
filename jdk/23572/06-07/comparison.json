@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -242,0 +242,1 @@\n+        \/\/ The following assignments are done directly by the VM without calling this constructor.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
