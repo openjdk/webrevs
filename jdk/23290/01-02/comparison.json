@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -146,1 +146,1 @@\n-  LOG(\"%zu\" \": %zu.\", request_size, real_size);\n+  LOG(\"%zu: %zu.\", request_size, real_size);\n","filename":"test\/hotspot\/gtest\/metaspace\/test_blocktree.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
