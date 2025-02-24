@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,0 @@\n- * @run driver jdk.test.lib.crac.CracTest warning\n@@ -41,1 +40,0 @@\n- * @run driver jdk.test.lib.crac.CracTest debug\n","filename":"test\/jdk\/jdk\/crac\/CracLogTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
