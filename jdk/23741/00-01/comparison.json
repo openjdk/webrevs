@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,0 +65,1 @@\n+                \"-Xmx128m\",\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotClassLinking\/LambdaInExcludedClass.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
