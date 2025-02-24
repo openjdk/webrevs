@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4892,0 +4892,1 @@\n+#ifdef COMPILER2\n@@ -4898,0 +4899,1 @@\n+#endif \/\/ COMPILER2\n","filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
