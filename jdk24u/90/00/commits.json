@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport de0250368edbf4e9bebf326778f8f8773b69b84c"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/compressedKlass_riscv.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CompressedOops\/CompressedCPUSpecificClassSpaceReservation.java"}],"sha":"bdb5b6f09010dd76e37ef515767538734e6df60e"}]
