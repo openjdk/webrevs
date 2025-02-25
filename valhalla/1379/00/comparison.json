@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -393,1 +393,1 @@\n-  oopDesc::set_klass_gap(mem, 0);\n+  mem_clear(mem);\n","filename":"src\/hotspot\/share\/gc\/shared\/memAllocator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
