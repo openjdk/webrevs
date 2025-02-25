@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2471,1 +2471,1 @@\n-    if (split_must_terminate && merge_width > Compile::AliasIdxRaw) {\n+    if (merge_width > Compile::AliasIdxRaw) {\n@@ -2501,1 +2501,1 @@\n-      } else {\n+      } else if (split_must_terminate) {\n","filename":"src\/hotspot\/share\/opto\/cfgnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
