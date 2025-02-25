@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-  LOG(\"Deviation: n=\" SSIZE_FORMAT \", s=\" SSIZE_FORMAT \", ovrh=\" SSIZE_FORMAT,   \\\n+  LOG(\"Deviation: n=%zd, s=%zd, ovrh=%zd\",   \\\n","filename":"test\/hotspot\/gtest\/nmt\/test_nmt_totals.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
