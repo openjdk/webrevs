@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -205,1 +205,1 @@\n-  ProducerLocker locker;\n+  ProducerLocker plocker;\n","filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
