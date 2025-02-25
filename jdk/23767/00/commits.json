@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350546: Several java\/net\/InetAddress tests fails UnknownHostException"},"files":[{"filename":"test\/jdk\/java\/net\/InetAddress\/IsReachableViaLoopbackTest.java"},{"filename":"test\/jdk\/java\/net\/InetAddress\/getOriginalHostName.java"}],"sha":"eba9b651c786d25280bd6fba3677baa561faf5c7"}]
