@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,1 +306,1 @@\n-  bool has_extra_module_paths;\n+  bool has_extra_module_paths = false;\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
