@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,2 @@\n+import jdk.incubator.code.op.OpFactory;\n+import jdk.incubator.code.type.CoreTypeFactory;\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/Op.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
