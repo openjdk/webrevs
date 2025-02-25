@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -182,1 +182,5 @@\n-  return ::new (p) MallocSiteHashtableEntry(key, mem_tag);\n+  if (p == nullptr) {\n+    return nullptr;\n+  } else {\n+    return ::new (p) MallocSiteHashtableEntry(key, mem_tag);\n+  }\n","filename":"src\/hotspot\/share\/nmt\/mallocSiteTable.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
