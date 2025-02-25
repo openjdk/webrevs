@@ -1,0 +1,1 @@
+[{"commit":{"message":"separate intrusivenode and normal node classes"},"files":[{"filename":"src\/hotspot\/share\/utilities\/rbTree.hpp"},{"filename":"src\/hotspot\/share\/utilities\/rbTree.inline.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_rbtree.cpp"}],"sha":"0ea10c190500ec64dd70ac907fc90049aa89edc5"}]
