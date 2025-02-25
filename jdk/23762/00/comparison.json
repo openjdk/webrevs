@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -369,0 +369,1 @@\n+#ifdef DEBUG\n@@ -389,0 +390,1 @@\n+#endif\n@@ -953,0 +955,1 @@\n+#ifdef DEBUG\n@@ -955,0 +958,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
