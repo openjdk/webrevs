@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-@Fork(jvmArgsPrepend = {\"--add-modules=jdk.incubator.vector\"})\n+@Fork(jvmArgs = {\"--add-modules=jdk.incubator.vector\"})\n","filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/VectorCommutativeOperSharingBenchmark.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
