@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1216,2 +1216,1 @@\n-    if (n > 0) {\n-      ::wcstombs(buf, w_buf, buflen);\n+    if (n > 0 && ::wcstombs(buf, w_buf, buflen) != (size_t)-1) {\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
