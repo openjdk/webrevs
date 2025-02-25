@@ -1,0 +1,1 @@
+[{"commit":{"message":"* kbarrett review: do not change the type of loop variable\n* ayang review: use actual last value instead of prediction for newly allocated survivor rate groups"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1SurvRateGroup.cpp"}],"sha":"a09bc25e4a76cf657ee78b39d3ea2a54e198e255"}]
