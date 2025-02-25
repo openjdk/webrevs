@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1077,0 +1077,1 @@\n+      \/\/ Combine [0, lo_1] ^ [0, hi_1] -> [0, max]\n","filename":"src\/hotspot\/share\/opto\/addnode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
