@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -273,1 +273,1 @@\n-  cs->_timestamp = timestamp;\n+  cs->_timestamp = check_time ? timestamp : 0;\n","filename":"src\/hotspot\/share\/cds\/aotClassLocation.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
