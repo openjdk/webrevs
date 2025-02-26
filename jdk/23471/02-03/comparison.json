@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -241,0 +241,3 @@\n+      # It currently doesn't produce any bundles, but probably will do in\n+      # the future.\n+      bundle-suffix: \"-static\"\n","filename":".github\/workflows\/main.yml","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
