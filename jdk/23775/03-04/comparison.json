@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -755,1 +755,1 @@\n-  \/\/ Compute modifier flags from the original data. This is also allows\n+  \/\/ Compute modifier flags from the original data. This also allows\n","filename":"src\/hotspot\/share\/oops\/klass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
