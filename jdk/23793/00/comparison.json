@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -628,0 +628,1 @@\n+  tty->print_cr(\"                   pns($sp, $fp, $pc)  on Linux\/RISC-V\");\n","filename":"src\/hotspot\/share\/utilities\/debug.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
