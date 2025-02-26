@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -509,1 +509,1 @@\n-nav.toc a:focus-visible {\n+nav.toc a:focus {\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/resources\/stylesheet.css","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
