@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change DEBUG to ASSERT"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp"}],"sha":"e38b45ed0d121abb5c9dbeef465429b93e0af24a"},{"commit":{"message":"8350616: Skip ValidateHazardPtrsClosure in non-debug builds"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp"}],"sha":"2411daa6b74e367dd207c87152abe2ac6856486f"}]
