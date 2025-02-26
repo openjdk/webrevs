@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename build-linux-x64-static-jdk back to build-linux-x64-static and move close to build-linux-x64-static-libs, for addressing shipilev's suggestions."},"files":[{"filename":".github\/workflows\/main.yml"}],"sha":"6d637c9718ba5b996b44e84992c80831478cf385"}]
