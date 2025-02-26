@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1288,0 +1288,1 @@\n+  _gc_state_changed = false;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

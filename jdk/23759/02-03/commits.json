@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set _gc_state_changed to false at the end of concurrent_prepare_for_update_refs"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"54ae1c0e20d6eabc47206fe79ae2f45ea4aaef13"}]
