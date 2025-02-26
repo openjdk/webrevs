@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove propagate_gc_state_to_all_threads call from op_init_update_refs"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPhaseTimings.hpp"}],"sha":"2e7b2cea73a44ad091202cea64103e0139734404"}]
