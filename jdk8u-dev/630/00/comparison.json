@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -643,0 +643,3 @@\n+        links.remove(\"EST\");\n+        links.remove(\"HST\");\n+        links.remove(\"MST\");\n","filename":"jdk\/make\/src\/classes\/build\/tools\/tzdb\/TzdbZoneRulesCompiler.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
