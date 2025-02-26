@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove duplicate logic for detecting pointers in young gen"},"files":[{"filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.inline.hpp"}],"sha":"a71923f0703c9da96b0068b53af51034457852e8"}]
