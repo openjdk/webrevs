@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-    static void analyze_output(bool stalling_mode, String... args) throws Exception {\n+    static void analyze_output(boolean stalling_mode, String... args) throws Exception {\n","filename":"test\/hotspot\/jtreg\/runtime\/logging\/StressAsyncUL.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
