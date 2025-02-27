@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge pull request #1 from magicus\/fix-skipped-tests\n\nFix so skipped tests are not considered failures"},"files":[],"sha":"0912b019a5a8dd5e745ef59ebb03b21c73c80f99"},{"commit":{"message":"Fix so skipped tests are not considered failures"},"files":[{"filename":"make\/RunTests.gmk"}],"sha":"6784dea42c60b720027b291dfd8263ad175b4ab0"}]
