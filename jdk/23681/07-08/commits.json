@@ -1,0 +1,1 @@
+[{"commit":{"message":"- Check signature schemes that are enabled specifically for the handshake when HANDSHAKE_SCOPE is specified\n- Update copyright\n- Update HTTPS tests that are broken because we also fix JDK-8350807 on the server side as a side-effect"},"files":[],"sha":"21c6057ecb4e9e1d35e60ae1a387a8310e2c836c"}]
