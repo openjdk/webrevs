@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't check for shutdown in control thread loop condition\n\nIt may cause the thread to exit before it is requested to stop"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"}],"sha":"150cb79879913c1ad3e21a7024edbcf241d207ab"}]

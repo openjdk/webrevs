@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-  while (!should_terminate() && !policy->is_at_shutdown()) {\n+  while (!should_terminate()) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
