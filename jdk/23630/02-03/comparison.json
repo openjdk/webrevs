@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3484,0 +3484,2 @@\n+      assert(rs == nullptr || rs->is_runtime_stub(), \"sanity check\");\n+\n","filename":"src\/hotspot\/share\/opto\/output.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
