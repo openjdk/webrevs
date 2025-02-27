@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-        _accum_surv_rate_pred[i] = 0.0;\n+        _accum_surv_rate_pred[i] = InitialSurvivorRate;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1SurvRateGroup.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
