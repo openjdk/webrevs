@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -865,1 +865,1 @@\n-     * permissions to (non-temporary) directories created by the\n+     * permissions to directories created by the\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/Files.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
