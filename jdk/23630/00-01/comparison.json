@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -233,1 +233,1 @@\n-                                                 false);\n+                                                 false \/* alloc_fail_is_fatal *\/ );\n","filename":"src\/hotspot\/share\/c1\/c1_Runtime1.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
