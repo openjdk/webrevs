@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8347406: return immediately if stub generation fails"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c1\/shenandoahBarrierSetC1.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/c1\/zBarrierSetC1.cpp"}],"sha":"26a6747d844ba58307e25787802f956b3a2638da"}]
