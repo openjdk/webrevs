@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- *                          -XX:+PrintInlineLayout\n+ *                          -XX:+UnlockDiagnosticVMOptions -XX:+PrintInlineLayout\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/valhalla\/GetObjectHashCode\/ValueGetObjectHashCodeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
