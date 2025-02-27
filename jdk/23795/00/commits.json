@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350758\n\nHi all,\n\n  please review this fix to recent JDK-8349906 to use the current\nsurvivor rate in the accumulated survivor rate for initializing newly\nallocated entries as well.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1SurvRateGroup.cpp"}],"sha":"5ab28451a9dd238cbb121d9d61289dd5e13b3bcc"}]
