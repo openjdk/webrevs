@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,1 +131,1 @@\n-     * @implNote To avoid the risk of deadlock, implementations of this method\n+     * @apiNote To avoid the risk of deadlock, implementations of this method\n","filename":"src\/java.logging\/share\/classes\/java\/util\/logging\/Handler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
