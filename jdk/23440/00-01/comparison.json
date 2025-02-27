@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-* @library .\/deadlock.jar\n+* @library .\/Deadlock.jar\n","filename":"test\/jdk\/java\/security\/Security\/ClassLoaderDeadlock\/ClassLoaderDeadlock.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
