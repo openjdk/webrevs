@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -896,1 +896,1 @@\n-        SSLContext ctx = SSLContext.getInstance(\"TLS\");\n+        SSLContext ctx = SSLContext.getInstance(\"TLSv1.2\");\n","filename":"test\/jdk\/sun\/net\/www\/protocol\/https\/HttpsURLConnection\/Identities.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
