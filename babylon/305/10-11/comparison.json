@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -382,1 +382,1 @@\n-        Value array = builder.op(newArray(elementType,\n+        Value array = builder.op(newArray(JavaType.array(elementType),\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/writer\/OpBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
