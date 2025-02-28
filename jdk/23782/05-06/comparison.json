@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1321,1 +1321,1 @@\n-  declare_preprocessor_constant(\"COMPILER2\", COMPILER2)                   \\\n+  declare_preprocessor_constant(\"COMPILER2\", COMPILER2_PRESENT(1) NOT_COMPILER2(0)) \\\n","filename":"src\/hotspot\/share\/runtime\/vmStructs.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
