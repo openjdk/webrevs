@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-    \/\/ - Class workflow: -Xshare:on and -Xshare:dump cannot take effect at the same time.\n+    \/\/ - Classic workflow: -Xshare:on and -Xshare:dump cannot take effect at the same time.\n","filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
