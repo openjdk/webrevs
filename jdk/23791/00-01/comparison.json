@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2010,1 +2010,2 @@\n-  address entry_point = __ pc();\n+  uint64_t entry_off = __ offset();\n+\n@@ -2018,1 +2019,1 @@\n-  return entry_point;\n+  return __ addr_at(entry_off);\n","filename":"src\/hotspot\/cpu\/s390\/templateInterpreterGenerator_s390.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
