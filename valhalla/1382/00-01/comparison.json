@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-    \/\/ We therfore seed the mark word with the narrow Klass ID.\n+    \/\/ We therefore seed the mark word with the narrow Klass ID.\n","filename":"src\/hotspot\/share\/oops\/klass.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
