@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349516: StAXStream2SAX.handleCharacters() fails on empty CDATA"},"files":[{"filename":"src\/java.xml\/share\/classes\/com\/sun\/org\/apache\/xalan\/internal\/xsltc\/trax\/StAXStream2SAX.java"},{"filename":"test\/jaxp\/javax\/xml\/jaxp\/unittest\/validation\/ValidationTest.java"}],"sha":"70fc2ca599f6ea15522ecc75790e9df86e89d28a"}]
