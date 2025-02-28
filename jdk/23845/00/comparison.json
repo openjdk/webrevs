@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,1 @@\n-            return (method == null) ? method : CACHE.create(signature);\n+            return (method != null) ? method : CACHE.create(signature);\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/beans\/finder\/MethodFinder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
