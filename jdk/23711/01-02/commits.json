@@ -1,0 +1,1 @@
+[{"commit":{"message":"changed max size of MinHeapDeltaBytes"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/OptionsValidation\/TestOptionsWithRanges.java"}],"sha":"86d91252fe5bb392083e118ec72e947285d23544"}]
