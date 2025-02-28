@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -213,1 +213,1 @@\n-            } else if (currArg.endsWith(\".jasm\") || currArg.endsWith(\"jcod\")) {\n+            } else if (currArg.endsWith(\".jasm\") || currArg.endsWith(\".jcod\")) {\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/CompileAction.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
