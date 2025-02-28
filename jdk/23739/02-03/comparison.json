@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -273,1 +273,1 @@\n-    assert(is_in_progress() && _state < State::SnapshotHeap, \"Must be before %s but is %s\", state_name(State::SnapshotHeap), state_name(_state));\n+    assert_state(State::Idle);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentRefine.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
