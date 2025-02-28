@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-@State(Scope.Benchmark)\n+@State(Scope.Thread)\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/ThreadOnSpinWaitSharedCounter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
