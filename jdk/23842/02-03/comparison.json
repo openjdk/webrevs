@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7290,0 +7290,1 @@\n+  effect(KILL cr);\n@@ -7305,0 +7306,1 @@\n+  effect(KILL cr);\n@@ -7320,0 +7322,1 @@\n+  effect(KILL cr);\n@@ -7335,0 +7338,1 @@\n+  effect(KILL cr);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
