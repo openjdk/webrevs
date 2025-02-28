@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,1 @@\n+  \/\/ This operation may be interrupted if the GC calls `forbid_uncommit`.\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahUncommitThread.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
