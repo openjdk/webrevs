@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only invoke stopCheck() at backward branches."},"files":[{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/execution\/LocalExecutionControl.java"}],"sha":"f0a3c816335ed903be63712c086270fc310622c3"}]
