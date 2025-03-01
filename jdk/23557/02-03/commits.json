@@ -1,0 +1,1 @@
+[{"commit":{"message":"use new Bytecode_invoke::has_memeber_arg"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/bytecode.hpp"},{"filename":"src\/hotspot\/share\/interpreter\/bytecode.inline.hpp"},{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"},{"filename":"src\/hotspot\/share\/runtime\/vframeArray.cpp"}],"sha":"375f6cfe53c65b1b96c3199817eee5f4e4dd86e1"}]
