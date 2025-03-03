@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,1 +210,1 @@\n-  const char* name = OptoRuntime::stub_name(OptoStubId::uncommon_trap_id);\n+  const char* name = OptoRuntime::stub_name(OptoStubId::exception_id);\n","filename":"src\/hotspot\/cpu\/arm\/runtime_arm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
