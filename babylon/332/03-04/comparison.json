@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,1 +114,1 @@\n-                    () -> cnn(imageTensor));\n+                    () -> cnn(imageTensor), arena);\n","filename":"cr-examples\/onnx\/src\/test\/java\/oracle\/code\/onnx\/mnist\/MNISTDemo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
