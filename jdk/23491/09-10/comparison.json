@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -748,0 +748,2 @@\n+        \/\/ no need to synchronize here, this method is called from within a\n+        \/\/ synchronized block.\n","filename":"src\/java.logging\/share\/classes\/java\/util\/logging\/FileHandler.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
