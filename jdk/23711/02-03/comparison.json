@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,1 +193,1 @@\n-  size_t aligned_bytes  = align_up_or_min(bytes, alignment);\n+  size_t aligned_bytes  = align_up(MIN2(bytes, virtual_space()->uncommitted_size()), alignment);\n","filename":"src\/hotspot\/share\/gc\/parallel\/psOldGen.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
