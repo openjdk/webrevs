@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -978,1 +978,1 @@\n-     * reading from XML is required, it should be implemented externally.\n+     * writing to XML is required, it should be implemented externally.\n","filename":"src\/java.management\/share\/classes\/javax\/management\/modelmbean\/DescriptorSupport.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
