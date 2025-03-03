@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351045: ClassValue::remove cannot ensure computation observes up-to-date state"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/ClassValue.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/ClassValueTest.java"}],"sha":"eabc8b63cc159fd5603f8082eb949fecf20367cd"}]
