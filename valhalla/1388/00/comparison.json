@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,0 +66,1 @@\n+static_assert(!std::is_polymorphic<BufferedInlineTypeBlob>::value,   \"no virtual methods are allowed in code blobs\");\n@@ -91,0 +92,1 @@\n+      &BufferedInlineTypeBlob::_vpntr,\n","filename":"src\/hotspot\/share\/code\/codeBlob.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
