@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,3 +24,3 @@\n-import java.io.*;\n-import java.net.*;\n-import java.util.*;\n+import java.io.IOException;\n+import java.net.InetAddress;\n+import java.net.NetworkInterface;\n","filename":"test\/jdk\/java\/net\/InetAddress\/IsReachableViaLoopbackTest.java","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
