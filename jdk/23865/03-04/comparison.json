@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -794,1 +794,1 @@\n-  if (bol->Opcode() != Op_Bool) {\n+  if (!bol->is_Bool()) {\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
