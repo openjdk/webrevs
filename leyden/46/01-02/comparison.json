@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,0 +168,4 @@\n+`--static-libs` *path*\n+:   Specifies location of native static libraries to copy into the resulting\n+    JMOD file.\n+\n","filename":"src\/jdk.jlink\/share\/man\/jmod.md","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
