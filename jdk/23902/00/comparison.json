@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -227,1 +227,0 @@\n-      genCollectedHeap.cpp \\\n@@ -231,1 +230,0 @@\n-      hashtable.cpp \\\n@@ -249,1 +247,0 @@\n-      markSweep.cpp \\\n","filename":"make\/hotspot\/lib\/JvmFeatures.gmk","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
