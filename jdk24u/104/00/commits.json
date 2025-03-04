@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350818: Improve OperatingSystemMXBean cpu load tests to not accept -1.0 by default\n\nReviewed-by: kevinw"},"files":[{"filename":"test\/jdk\/com\/sun\/management\/OperatingSystemMXBean\/GetProcessCpuLoad.java"},{"filename":"test\/jdk\/com\/sun\/management\/OperatingSystemMXBean\/GetSystemCpuLoad.java"}],"sha":"72a3308ebc62d4773ee24b1281c0955020745725"}]
