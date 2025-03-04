@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,2 @@\n+ * @comment The test must be launched with sudo or the block devices listed in\n+ * the BLK_FNAMES array must be readable by the user running the test.\n","filename":"test\/jdk\/java\/nio\/channels\/FileChannel\/BlockDeviceSize.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
