@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350663: AArch64: Enable UseSignumIntrinsic by default\n\nSigned-off-by: Patrick Zhang <patrick@os.amperecomputing.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"2e012df341ca96dbf416fbeef887d6dfd2a9e052"}]
