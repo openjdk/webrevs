@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,0 +73,1 @@\n+\/\/ Checks whether it is possible to align size to alignment without overflowing.\n@@ -84,0 +85,1 @@\n+\/\/ Precondition: can_align_up(size, alignment) == true\n","filename":"src\/hotspot\/share\/utilities\/align.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
