@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use \"InetAddress.getLoopbackAddress()\"  instead of InetAddress.getByName(\"localhost\") in IsReachableViaLoopbackTest.java ; Use getByAddress() instead of getByName() in IsReachableViaLoopbackTest.java"},"files":[{"filename":"test\/jdk\/java\/net\/InetAddress\/IsReachableViaLoopbackTest.java"}],"sha":"aad4f2b033c772bbd1e11a504ba1df9d7a4adfd0"}]
