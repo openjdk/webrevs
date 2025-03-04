@@ -1,0 +1,1 @@
+[{"commit":{"message":"8326333: jshell <TAB> completion on arrays does not work for clone()"},"files":[{"filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/SourceCodeAnalysisImpl.java"},{"filename":"test\/langtools\/jdk\/jshell\/CompletionSuggestionTest.java"}],"sha":"bd1cf12d9042d67562144c00505d05a4c7178c67"}]
