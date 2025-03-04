@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350820: OperatingSystemMXBean CpuLoad() methods return -1.0 on Windows\n\nReviewed-by: kevinw, jwaters"},"files":[{"filename":"src\/jdk.management\/windows\/native\/libmanagement_ext\/OperatingSystemImpl.c"}],"sha":"5f550f959b88b42fa1ac04720aa6cd1cf549f60d"}]
