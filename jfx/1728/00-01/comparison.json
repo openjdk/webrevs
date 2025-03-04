@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -425,1 +425,1 @@\n-     * This property can be accessed only from the FX application thread.\n+     * This property can be accessed only from the JavaFX Application Thread.\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/application\/Platform.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
