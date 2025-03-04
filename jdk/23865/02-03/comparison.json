@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2743,1 +2743,0 @@\n-      before_predicates->in(0)->is_If() &&\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
