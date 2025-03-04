@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -993,1 +993,1 @@\n-     \"Threads: \" INT32_FORMAT \" runnable, \" INT32_FORMAT \" total\",\n+     \"Threads: %d runnable, %d total\",\n","filename":"src\/hotspot\/share\/runtime\/safepoint.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
