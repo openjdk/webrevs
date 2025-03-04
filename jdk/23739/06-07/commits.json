@@ -1,0 +1,1 @@
+[{"commit":{"message":"* do not change card table base for gc threads during swapping\n  * not necessary because they do not use it\n  * (recent assert that verifies that non-java threads do not have a card table found this)"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentRefine.cpp"}],"sha":"9e2ee543c6aac7f8894ba1cdbe8853ae7ed7583d"}]
