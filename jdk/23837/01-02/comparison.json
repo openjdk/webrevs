@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,2 @@\n+ * @summary Verifies if Alt+mnemonic char works when\n+ *          menu & menuitem have same mnemonic char\n","filename":"test\/jdk\/javax\/swing\/JMenu\/4213634\/bug4213634.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
