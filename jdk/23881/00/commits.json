@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ignore -server and -client options for static JDK."},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"fc2850130de529f36b04aa288f7d06daf3919257"}]
