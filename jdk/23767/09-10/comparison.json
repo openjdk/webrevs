@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,0 +46,2 @@\n+        ia = InetAddress.getByAddress(HOST, new byte[] { 1, 2, 3, 4});\n+        testInetAddress(ia, HOST);\n","filename":"test\/jdk\/java\/net\/InetAddress\/getOriginalHostName.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
