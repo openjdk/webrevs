@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,0 @@\n-ifdef JDK9HOME\n@@ -52,2 +51,0 @@\n-endif\n-\n","filename":"test\/modlibs\/ModLibsTest.gmk","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
