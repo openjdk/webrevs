@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1166,1 +1166,1 @@\n-     *         of the pre-defined color spaces, i.e. those which can be obtained\n+     *         of the pre-defined color spaces, that is those which can be obtained\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/color\/ICC_Profile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
