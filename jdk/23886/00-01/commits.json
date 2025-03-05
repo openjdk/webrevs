@@ -1,0 +1,1 @@
+[{"commit":{"message":"Always use active_generation()->complete_marking_context() during reference processing"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp"}],"sha":"465deaec7c7f667ceeec190a35012932eb196d56"}]
