@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n- * @run driver compiler.loopopts.superword.TestEquivalentInvariants\n+ * @run driver\/timeout=1200 compiler.loopopts.superword.TestEquivalentInvariants\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestEquivalentInvariants.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
