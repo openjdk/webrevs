@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -297,2 +297,2 @@\n-    \/\/ It has a cost of 4 (Cmp, Bool, If, IfProj).\n-    nodes += 4;\n+    \/\/ It has a cost of 6 (AddP, LoadB, Cmp, Bool, If, IfProj).\n+    nodes += 6;\n","filename":"src\/hotspot\/share\/gc\/g1\/c2\/g1BarrierSetC2.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
