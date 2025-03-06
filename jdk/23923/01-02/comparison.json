@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,2 +129,1 @@\n-        }\n-        else {\n+        } else {\n","filename":"src\/jdk.jpackage\/share\/native\/applauncher\/StringProcessing.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
