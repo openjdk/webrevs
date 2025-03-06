@@ -1,0 +1,1 @@
+[{"commit":{"message":"Load OpFactory and TypeElementFactory before invocation of opMethod only if the opMethod has there params."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/InnerClassLambdaMetafactory.java"}],"sha":"0e49cceb3eea20b541e1fe43adcdbea9564aec23"}]
