@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,2 +44,2 @@\n-  if (bs->is_a(BarrierSet::CardTableBarrierSet) &&\n-    !bs->is_a(BarrierSet::ShenandoahBarrierSet)) {\n+\n+  if (bs->is_a(BarrierSet::CardTableBarrierSet)) {\n","filename":"src\/hotspot\/os_cpu\/linux_arm\/javaThread_linux_arm.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

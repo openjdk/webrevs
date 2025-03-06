@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix build: no shenandoah on arm32."},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_arm\/javaThread_linux_arm.cpp"}],"sha":"0a540c79584f28fe90d128977f5121467f59626b"}]
