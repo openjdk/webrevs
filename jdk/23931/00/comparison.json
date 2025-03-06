@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -752,0 +752,1 @@\n+                System.out.println(\"Non-whitelisted JTreg VM or Javaoptions flag: \" + flag);\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/TestFramework.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
