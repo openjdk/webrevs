@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8e8582949669d5f3dcb68886ccb6a719393d1a9e\n\n* some simplification to let GHA runy\n\n8349213: G1: Clearing bitmaps during collection set merging not claimed by region\n* fix compilation\nReviewed-by: iwalulya, ayang"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp"}],"sha":"e3710b8f01cbee240536bfab825e60be068712a5"}]
