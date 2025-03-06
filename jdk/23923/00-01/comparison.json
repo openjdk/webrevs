@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,1 +112,1 @@\n-        for(;;) {\n+        for (;;) {\n","filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/util\/TokenReplace.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
