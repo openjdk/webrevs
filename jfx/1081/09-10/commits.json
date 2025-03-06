@@ -1,1 +1,1 @@
-[{"commit":{"message":"Fix generic warnings"},"files":[{"filename":"modules\/javafx.base\/src\/main\/java\/com\/sun\/javafx\/binding\/ListenerManager.java"}],"sha":"b5db37e57077441987a726f30d207d2ff298969e"}]
+[{"commit":{"message":"Fix non-convergence logic one more time..."},"files":[{"filename":"modules\/javafx.base\/src\/main\/java\/com\/sun\/javafx\/binding\/ListenerList.java"},{"filename":"modules\/javafx.base\/src\/test\/java\/test\/com\/sun\/javafx\/binding\/ListenerListTestBase.java"}],"sha":"5863932fe31c599ab8a65d485fd365334a5c1bdb"}]
