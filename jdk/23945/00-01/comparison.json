@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -432,1 +432,1 @@\n-         * The {@linkplain  Charset charset} used to decode the response body bytes is\n+         * The {@linkplain Charset charset} used to decode the response body bytes is\n","filename":"src\/java.net.http\/share\/classes\/java\/net\/http\/HttpResponse.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
