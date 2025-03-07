@@ -1,0 +1,1 @@
+[{"commit":{"message":"7903964: Fix NPE in JTRegConfiguration.getJDKString\n- remove `final` from local variables"},"files":[{"filename":"plugins\/idea\/src\/main\/java\/com\/oracle\/plugin\/jtreg\/configuration\/JTRegConfiguration.java"}],"sha":"c0ade71360d8a59eb5e7be74895b5ddb94c4b605"}]
