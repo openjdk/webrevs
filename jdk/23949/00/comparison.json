@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,1 @@\n-    OS_LDFLAGS=\"-mmacosx-version-min=$MACOSX_VERSION_MIN\"\n+    OS_LDFLAGS=\"-mmacosx-version-min=$MACOSX_VERSION_MIN -Wl,-reproducible\"\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
