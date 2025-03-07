@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,2 @@\n+package sun.security.ssl;\n+\n@@ -30,2 +32,0 @@\n-package sun.security.ssl;\n-\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLScope.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
