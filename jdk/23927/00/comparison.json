@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-  ReturnNode( uint edges, Node *cntrl, Node *i_o, Node *memory, Node *retadr, Node *frameptr );\n+  ReturnNode(uint edges, Node* cntrl, Node* i_o, Node* memory, Node* frameptr, Node* retadr);\n","filename":"src\/hotspot\/share\/opto\/callnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
