@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-framework.option.value.invalid=cannot find framework for -framework option: {0}\n+framework.option.value.invalid=Cannot find framework {0}\n","filename":"src\/main\/resources\/org\/openjdk\/jextract\/impl\/resources\/Messages.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
