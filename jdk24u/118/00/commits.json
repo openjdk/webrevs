@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 3657e92ead1e678942fcb272e77c3867eb5aa13e"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestNumberOfContinuousZeros.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestVectorZeroCount.java"}],"sha":"a96641857a8a4671b5ff759fd43fc70c47b99f9e"}]
