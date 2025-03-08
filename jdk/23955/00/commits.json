@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351456: Build failure with --disable-jvm-feature-shenandoahgc after 8343468"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"bc474ea7b4f6fb6031652584f705c2c79647c6d7"}]
