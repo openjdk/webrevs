@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3900,1 +3900,1 @@\n-  if (UseNeon) {\n+    { \/\/ Neon code start\n@@ -4032,1 +4032,1 @@\n-  }\n+    } \/\/ Neon code end\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
