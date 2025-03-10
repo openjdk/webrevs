@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename WaitSet, WaitSetLock and SpinDuration to follow hotspot coding style."},"files":[{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp"},{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.hpp"}],"sha":"cd95e5b0119d6885fbdd93d4c3324a07bae06905"}]
