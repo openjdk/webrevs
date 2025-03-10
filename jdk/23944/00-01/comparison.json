@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1905,0 +1905,3 @@\n+\/\/\n+\/\/ Note: we allow stores to merge in this dedicated IGVN round, and any later IGVN round,\n+\/\/       since we never unset _merge_stores_phase.\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
