@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,0 +77,2 @@\n+            } else {\n+                return false;\n","filename":"plugins\/idea\/src\/main\/java\/com\/oracle\/plugin\/jtreg\/configuration\/producers\/JTRegClassConfigurationProducer.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
