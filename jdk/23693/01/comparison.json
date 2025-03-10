@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -0,0 +1,12 @@\n+root = true\n+\n+[*]\n+trim_trailing_whitespace = true\n+\n+[*.{cpp,hpp,c,h,cc,hh}]\n+indent_style = space\n+indent_size = 2\n+\n+[*.java]\n+indent_style = space\n+indent_size = 4\n","filename":".editorconfig","additions":12,"deletions":0,"binary":false,"changes":12,"status":"added"}]}
