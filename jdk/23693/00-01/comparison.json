@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5,2 +5,0 @@\n-# Open curly brace is on the same line.\n-indent_brace_style = K&R\n@@ -8,4 +6,1 @@\n-[Makefile]\n-indent_style = tab\n-\n-[*.{cpp,hpp,c,h}]\n+[*.{cpp,hpp,c,h,cc,hh}]\n","filename":".editorconfig","additions":1,"deletions":6,"binary":false,"changes":7,"status":"modified"}]}
