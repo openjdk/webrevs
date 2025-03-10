@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address magicus' feedback, set `ONLY_EXPORTED := true` for LIBJSIG."},"files":[{"filename":"make\/modules\/java.base\/Lib.gmk"}],"sha":"9419b7f123e57ad38d01565e24a26407fb231287"},{"commit":{"message":"Revert make\/StaticLibs.gmk."},"files":[{"filename":"make\/StaticLibs.gmk"}],"sha":"f86af7e64d640d3d4357a60354057bbc19b69d11"}]
