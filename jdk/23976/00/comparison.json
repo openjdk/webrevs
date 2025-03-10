@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1240,1 +1240,1 @@\n-            module: \"graphviz-\" + input.target_platform,\n+            module: \"graphviz-\" + input.build_platform,\n","filename":"make\/conf\/jib-profiles.js","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
