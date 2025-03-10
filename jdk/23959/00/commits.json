@@ -1,0 +1,1 @@
+[{"commit":{"message":"8330469 : Removed or replaced (PrintOpto && VerifyLoopOptimizations) with TraceLoopOpts"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"src\/hotspot\/share\/opto\/split_if.cpp"}],"sha":"91ecc5190ce31da94bded4de210136f337286e69"}]
