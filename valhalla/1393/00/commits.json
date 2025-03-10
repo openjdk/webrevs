@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix layouts generation and offsets verification"},"files":[{"filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp"},{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/WrappersOffsetTest.java"}],"sha":"6341b6a046a0d83dde194aa03f85cf9b1f37dec2"}]
