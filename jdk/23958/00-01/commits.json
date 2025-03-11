@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only allow report-on-exit with -XX:StartFlightRecording"},"files":[{"filename":"src\/hotspot\/share\/jfr\/dcmd\/jfrDcmds.hpp"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/dcmd\/AbstractDCmd.java"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/dcmd\/DCmdStart.java"}],"sha":"2f0d5a0b48b56f2efafe24c101fe37dc8e82b078"}]
