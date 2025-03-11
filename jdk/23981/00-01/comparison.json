@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-  bool is_owning_thread(JavaThread* current) const PRODUCT_RETURN;\n+  bool is_owning_thread(JavaThread* current) const PRODUCT_RETURN_({ return false; })\n","filename":"src\/hotspot\/share\/runtime\/lockStack.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
