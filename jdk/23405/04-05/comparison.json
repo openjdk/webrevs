@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,0 +130,2 @@\n+    JavaThread* thread = JavaThread::current();\n+    ThreadBlockInVM tbivm(thread);\n","filename":"src\/hotspot\/share\/services\/attachListener.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
