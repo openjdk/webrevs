@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed cast, compiled out is_owning_thread."},"files":[{"filename":"src\/hotspot\/share\/runtime\/lockStack.cpp"},{"filename":"src\/hotspot\/share\/runtime\/lockStack.hpp"}],"sha":"18ddb3b185b7e5beca801e500c4268a24a16bf7f"}]
