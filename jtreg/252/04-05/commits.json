@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert: prevent configuration creation when multiple files or directories are selected"},"files":[{"filename":"plugins\/idea\/src\/main\/java\/com\/oracle\/plugin\/jtreg\/configuration\/producers\/JTRegConfigurationProducer.java"}],"sha":"4025db9f1967f79ce4f8a19d8e5c5856acb8f83d"}]
