@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351673: Clean up a case of if (LockingMode == LM_LIGHTWEIGHT) in a legacy-only locking mode function"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"c10cd14a03c69358813ed9eb701806fe01969697"}]
