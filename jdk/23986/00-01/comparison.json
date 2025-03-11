@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n- * and can be used by concurrently by multiple threads. All other {@code ZipCoder} instances\n+ * and can be used concurrently by multiple threads. All other {@code ZipCoder} instances\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipCoder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
