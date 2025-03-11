@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,3 @@\n-};\/\/ We use BufferNode::AllocatorConfig to set the allocation options for the\n+};\n+\n+\/\/ We use BufferNode::AllocatorConfig to set the allocation options for the\n","filename":"src\/hotspot\/share\/gc\/shared\/bufferNode.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
