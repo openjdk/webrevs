@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -842,7 +842,0 @@\n-  if (UseNUMA) {\n-    int lgrp_id = os::numa_get_group_id();\n-    if (lgrp_id != -1) {\n-      thread->set_lgrp_id(lgrp_id);\n-    }\n-  }\n-\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":0,"deletions":7,"binary":false,"changes":7,"status":"modified"}]}
