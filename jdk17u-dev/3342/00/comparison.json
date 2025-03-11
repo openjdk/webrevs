@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -370,0 +370,1 @@\n+#ifdef ASSERT\n@@ -390,0 +391,1 @@\n+#endif\n@@ -931,0 +933,1 @@\n+#ifdef ASSERT\n@@ -933,0 +936,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
