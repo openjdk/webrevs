@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6547,0 +6547,2 @@\n+    StubRoutines::_method_entry_barrier = generate_method_entry_barrier();\n+\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
