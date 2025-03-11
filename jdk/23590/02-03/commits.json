@@ -1,0 +1,1 @@
+[{"commit":{"message":"Multiple logins test now extends PKCS11Test\n\n* Multiple logins test now extends PKCS11Test\n* cleanup\n* skip exceptions are now throws"},"files":[{"filename":"test\/jdk\/sun\/security\/pkcs11\/Provider\/MultipleLogins.java"}],"sha":"3dbd48681f2ded01dffa413b0a328845ad7bd778"}]
