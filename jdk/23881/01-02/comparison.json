@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,2 +28,1 @@\n- * @bug 8005933\n- * @summary -Xshare:auto is the default when -Xshare is not specified\n+ * @summary -Xshare:auto is the default\n","filename":"test\/hotspot\/jtreg\/runtime\/CDSCompressedKPtrs\/XShareAuto.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
