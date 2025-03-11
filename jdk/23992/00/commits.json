@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303770: Remove Baltimore root certificate expiring in May 2025"},"files":[{"filename":"src\/java.base\/share\/data\/cacerts\/baltimorecybertrustca"},{"filename":"test\/jdk\/sun\/security\/lib\/cacerts\/VerifyCACerts.java"}],"sha":"53fcc995ffd03b870db82c429e773cd4dbe2672d"}]
