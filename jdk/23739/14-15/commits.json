@@ -1,0 +1,1 @@
+[{"commit":{"message":"* optimized RISCV gen_write_ref_array_post_barrier() implementation contributed by @RealFYang"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/g1\/g1BarrierSetAssembler_riscv.cpp"}],"sha":"758fac018cf5c9345f15bc0f3a9011735124a071"}]
