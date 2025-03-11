@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,2 +125,0 @@\n-         * Deferral is only used for standard profiles. Enabling the appropriate\n-         * access privileges is handled at a lower level.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/color\/ICC_Profile.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
