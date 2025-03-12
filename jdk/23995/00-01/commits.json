@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set ICONV_* flags for aix and macosx only"},"files":[{"filename":"make\/autoconf\/libraries.m4"},{"filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk"},{"filename":"make\/modules\/java.instrument\/Lib.gmk"},{"filename":"make\/modules\/jdk.jdwp.agent\/Lib.gmk"}],"sha":"d4c4cca504f20ec56e46336f68f5f859aa23ec3e"}]
