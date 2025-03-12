@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3860,1 +3860,1 @@\n-  LIR_Opr to_opr =get_virtual_register(to_interval);\n+  LIR_Opr to_opr = get_virtual_register(to_interval);\n","filename":"hotspot\/src\/share\/vm\/c1\/c1_LinearScan.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
