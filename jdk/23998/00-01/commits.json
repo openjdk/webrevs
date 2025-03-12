@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Do not enforce size constraints on generations\"\n\nThis reverts commit 11ff0677449fa6749df8830f4a03f1c7861ba314."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationSizer.cpp"}],"sha":"a42efe5ae149de40434fbb140fbd6d48c078238e"}]
