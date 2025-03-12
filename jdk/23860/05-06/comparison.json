@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,8 @@\n+ *\/\n+\n+\/*\n+ * @test\n+ * @summary Test verifying the intrinsic implementation.\n+ * @bug 8342442 8345057\n+ * @library \/test\/lib\n+ * @modules java.base\/sun.security.provider\n","filename":"test\/jdk\/sun\/security\/provider\/acvp\/Launcher.java","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
