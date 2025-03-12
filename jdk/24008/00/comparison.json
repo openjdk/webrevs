@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2617,0 +2617,3 @@\n+  assert(elem_size == 1 || elem_size == 2, \"must be char or byte\");\n+  assert_different_registers(a1, a2, result, cnt1, t0, t1);\n+\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
