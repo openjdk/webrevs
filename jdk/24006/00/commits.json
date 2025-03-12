@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351839: RISC-V: Fix base offset calculation introduced in JDK-8347489"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"75b6bc8c680cab8ed610e6ecd432f08fcd6215c1"}]
