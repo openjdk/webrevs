@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -533,1 +533,1 @@\n-  ASSERT_NOT_nullptr(p);\n+  ASSERT_NOT_NULL(p);\n","filename":"test\/hotspot\/gtest\/runtime\/test_os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
