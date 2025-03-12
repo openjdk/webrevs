@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop peak count completely"},"files":[{"filename":"src\/hotspot\/share\/jfr\/metadata\/metadata.xml"},{"filename":"src\/hotspot\/share\/jfr\/periodic\/jfrPeriodic.cpp"},{"filename":"test\/jdk\/jdk\/jfr\/event\/runtime\/TestJavaMonitorStatisticsEvent.java"}],"sha":"0caf4b3ad04419e5a9a346554089c223e3b86c0d"}]
