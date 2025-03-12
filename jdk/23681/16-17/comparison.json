@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-    CERTIFICATE_SIGNATURE(\"CertificateSignature\"),;\n+    CERTIFICATE_SIGNATURE(\"CertificateSignature\");\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLScope.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
