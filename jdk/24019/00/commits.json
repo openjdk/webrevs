@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351871: Disable JIT compiler when dumping AOT cache with -XX:+AOTClassLinking"},"files":[{"filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp"}],"sha":"8e4c1fda1cb578f48b36ff3420441dd9c398a47c"}]
