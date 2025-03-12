@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add tests to make sure literals of type byte\/short are created the way Java language permit."},"files":[{"filename":"test\/langtools\/tools\/javac\/reflect\/PatternsTest.java"},{"filename":"test\/langtools\/tools\/javac\/reflect\/UnaryopTest.java"}],"sha":"c6614d18fc83ef55bacda0e91e69d8bfa4528e5d"}]
