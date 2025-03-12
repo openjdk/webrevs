@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9903,1 +9903,0 @@\n-    BarrierSetNMethod* bs_nm = BarrierSet::barrier_set()->barrier_set_nmethod();\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
