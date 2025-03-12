@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't record exiting threads"},"files":[{"filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp"},{"filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrAsyncStackTrace.hpp"}],"sha":"18ec381190297d04b78a6c3752999b1cd399a17e"}]
