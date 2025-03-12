@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-\n@@ -37,2 +36,2 @@\n-    ? os::Linux::numa_max_node() + 1\n-    : 1;\n+      ? os::Linux::numa_max_node() + 1\n+      : 1;\n","filename":"src\/hotspot\/os\/linux\/gc\/z\/zNUMA_linux.cpp","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
