@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable TestBreakSignalThreadDump.java#with_jsig and XCheckJSig.java on static JDK."},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/Thread\/TestBreakSignalThreadDump.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/XCheckJniJsig\/XCheckJSig.java"}],"sha":"7d2fb4741d0aa5c6c75e9ea3030bbb8a915a5af9"}]
