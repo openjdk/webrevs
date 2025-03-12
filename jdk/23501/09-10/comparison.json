@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1551,3 +1551,0 @@\n-  if (reg > 15) {\n-    return (offset < 0x80) ? 6 : 9; \/\/ REX2\n-  } else {\n@@ -1555,1 +1552,0 @@\n-  }\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
