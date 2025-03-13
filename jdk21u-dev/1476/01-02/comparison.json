@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-  EXPECT_FALSE(ts.has_output(NULL));\n+  EXPECT_FALSE(ts.has_output(nullptr));\n","filename":"test\/hotspot\/gtest\/logging\/test_logTagSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
