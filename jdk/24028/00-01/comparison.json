@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,0 +104,1 @@\n+      second_idx = NativeCallStackStorage::invalid;\n","filename":"src\/hotspot\/share\/nmt\/vmatree.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
