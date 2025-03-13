@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -276,1 +276,1 @@\n-    device_id = device_ids[0];\n+    device_id = device_ids[openclConfig.device];\n","filename":"hat\/backends\/ffi\/opencl\/cpp\/opencl_backend.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
