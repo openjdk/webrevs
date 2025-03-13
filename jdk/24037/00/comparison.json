@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -341,1 +341,1 @@\n-    if (_buffer != nullptr) {\n+    if (_limit >= 2) {\n","filename":"src\/hotspot\/share\/jfr\/instrumentation\/jfrEventClassTransformer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
