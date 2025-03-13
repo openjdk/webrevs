@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-    public void accessibilityActiveNotOnFxThread() {\n+    public void testAccessorsNotOnFxThread() {\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/application\/PlatformTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
