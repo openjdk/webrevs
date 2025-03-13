@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2377,1 +2377,1 @@\n-    if (PrintCompilation) {\n+    if (PrintCompilation || task->directive()->PrintCompilationOption) {\n","filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
