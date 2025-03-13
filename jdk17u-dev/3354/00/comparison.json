@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1728,1 +1728,1 @@\n-                     compareAndSetCtl(c, ((UC_MASK & (c - TC_UNIT)) |\n+                     compareAndSetCtl(c, ((c & RC_MASK) | ((c - TC_UNIT) & TC_MASK) |\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
