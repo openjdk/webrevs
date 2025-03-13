@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1763,1 +1763,1 @@\n-                                     (UC_MASK & (c - TC_UNIT))))) {\n+                                     (c & RC_MASK) | ((c - TC_UNIT) & TC_MASK)))) {\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
