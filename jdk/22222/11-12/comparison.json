@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- *  after signing when -verbose is passed\n+ *  after signing whether or not -verbose is passed\n","filename":"test\/jdk\/sun\/security\/tools\/jarsigner\/MultiManifest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
