@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8317976: Enable optimized SIMD sort for AMD Zen 4 & Zen 5"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/matcher_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"8de2e2c28914838be485a0f68de9ac08c27c6e6b"}]
