@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3,0 +3,1 @@\n+ * Copyright (c) 2014, Oracle and\/or its affiliates. All rights reserved.\n@@ -76,1 +77,0 @@\n-  ShenandoahThreadLocalData::create(worker);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahWorkGroup.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
