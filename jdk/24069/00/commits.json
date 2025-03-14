@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix ABA issue that could have regulator thread request unexpected old cycles"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"}],"sha":"ed3894ca5e6fd80722c5ce43ac46459c7e0c4843"}]
