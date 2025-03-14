@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1173,1 +1173,1 @@\n-    template_assertion_predicate.kill(_phase);\n+    template_assertion_predicate.kill(_phase->igvn());\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
