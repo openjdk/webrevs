@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352011: RISC-V: Two IR tests fail after JDK-8351662"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestAutoVecCountingDownLoop.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestVectorizeTypeConversion.java"}],"sha":"5b0e604a660d0484e1dc72fe41949d2c5a36677e"}]
