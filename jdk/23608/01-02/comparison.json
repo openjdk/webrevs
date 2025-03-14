@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -635,1 +635,1 @@\n-        applyIfCPUFeatureOr = {\"avx\", \"true\", \"asimd\", \"true\"})\n+        applyIfCPUFeatureOr = {\"avx2\", \"true\", \"asimd\", \"true\"})\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorSaturatedOperationsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
