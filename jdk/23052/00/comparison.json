@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -247,1 +247,1 @@\n-     * method. File systems created the {@link #newFileSystem(Path,Map)\n+     * method. File systems created by invoking the {@link #newFileSystem(Path,Map)\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/spi\/FileSystemProvider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
