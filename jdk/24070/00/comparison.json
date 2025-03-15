@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,0 +42,1 @@\n+ * @requires vm.opt.DeoptimizeALot != true\n","filename":"test\/jdk\/jdk\/jfr\/event\/profiling\/TestFullStackTrace.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
