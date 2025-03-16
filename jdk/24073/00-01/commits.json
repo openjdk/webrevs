@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set PrintCompilation to true when receive CompileCommandEnum::PrintCompilation"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"},{"filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp"}],"sha":"55bf15fb92b9a69e3d03576ddef111c96f3ab40f"}]
