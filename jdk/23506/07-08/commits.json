@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix ((x<<y) << z) + (x<<y) patterns"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"}],"sha":"d5c6013d38732324eae2ea4818e93a986ea7c034"}]
