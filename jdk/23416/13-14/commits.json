@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow non-debug verify_self + comparator readability"},"files":[{"filename":"src\/hotspot\/share\/utilities\/rbTree.hpp"},{"filename":"src\/hotspot\/share\/utilities\/rbTree.inline.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_rbtree.cpp"}],"sha":"ac277b42c27b14c7a2220f340d131aacd10abbd8"}]
