@@ -1,0 +1,1 @@
+[{"commit":{"message":"create a separate method to check for cpu's supporting avx512 version of simd sort"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/matcher_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"}],"sha":"420119111231c4224bbaac0a37c8cc8f3e13bc8f"}]
