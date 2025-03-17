@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8351938: C2: Print compilation bailouts with PrintCompilation compile command\"\n\nThis reverts commit 65c5282f4b83343062571736b7d34ddb147ea39c."},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"}],"sha":"f8ec6aad212436c9a9368de589aca259fce5273e"}]
