@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow young cycles that interrupt old cycles to be cancelled"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahSharedVariables.hpp"}],"sha":"9b0faf0c8a33e2ec71fb616ea6bb838cef5bbbb1"}]
