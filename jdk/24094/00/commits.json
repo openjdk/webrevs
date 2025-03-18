@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved to common"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"5ccda800e5949ad7fad4d62e2820c9536f117d30"},{"commit":{"message":"Disable UseZvfh when no RVV"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"ebe49552b0693127c682477e5329c0233bff8c18"}]
