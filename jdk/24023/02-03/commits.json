@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert extract value and add more tests"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/mulnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMergeLoads.java"}],"sha":"b621db1cf0c17885516254a2af4b5df43e06c098"}]
