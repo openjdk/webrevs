@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,0 +95,1 @@\n+      ThreadBlockInVM tbivm(JavaThread::current());\n","filename":"src\/hotspot\/os\/windows\/attachListener_windows.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
