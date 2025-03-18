@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-        return supported;\n+        return enabled;\n","filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/PackageType.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
