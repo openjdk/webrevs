@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,0 +137,1 @@\n+      SCCache::invalidate(task->scc_entry()); \/\/ mark sca_entry as not entrant\n","filename":"src\/hotspot\/share\/opto\/c2compiler.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
