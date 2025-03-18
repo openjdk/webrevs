@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n-                    if (connection.isOpen()\n+                    if (!connection.isOpen()\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2ClientImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
