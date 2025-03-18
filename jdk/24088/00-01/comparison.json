@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -356,1 +356,1 @@\n-  \/\/ current thread will be blocked in VMThread::execute, resulting into\n+  \/\/ current thread will be blocked in VMThread::execute, resulting in\n","filename":"src\/hotspot\/share\/runtime\/handshake.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
