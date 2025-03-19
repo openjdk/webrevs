@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1550,1 +1550,5 @@\n-  return (offset < 0x80) ? 5 : 8; \/\/ REX\n+  if (ra_->get_encode(this) > 15) {\n+    return (offset < 0x80) ? 6 : 9; \/\/ REX2\n+  } else {\n+    return (offset < 0x80) ? 5 : 8; \/\/ REX\n+  }\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
