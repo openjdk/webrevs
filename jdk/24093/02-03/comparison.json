@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n-  ConPNode(const TypePtr* t) : ConNode(t) {}\n+  ConPNode(const TypePtr *t) : ConNode(t) {}\n","filename":"src\/hotspot\/share\/opto\/connode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
