@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @run driver compiler.ccp.TestAndConZeroCCP\n+ * @run main compiler.ccp.TestAndConZeroCCP\n","filename":"test\/hotspot\/jtreg\/compiler\/ccp\/TestAndConZeroCCP.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
