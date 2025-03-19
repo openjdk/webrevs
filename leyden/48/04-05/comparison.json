@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2078,0 +2078,1 @@\n+#if INCLUDE_CDS\n@@ -2086,0 +2087,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
