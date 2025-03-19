@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352407: PixelInterleavedSampleModel with unused components throws RasterFormatException: Incorrect pixel stride"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/ComponentSampleModel.java"},{"filename":"test\/jdk\/java\/awt\/image\/RasterCreationTest.java"}],"sha":"3a6e66388a6c39a381325e6c0f995afd310ca6d5"}]
