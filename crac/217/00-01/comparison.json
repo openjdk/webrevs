@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,0 +93,2 @@\n+\n+        final var end = \"(mmap \" + (directMap ? \"1\" : \"0\") + \")\";\n@@ -95,1 +97,0 @@\n-            final var end = \"(mmap \" + (directMap ? \"1\" : \"0\") + \")\";\n","filename":"test\/jdk\/jdk\/crac\/engineOptions\/CracCriuOptsTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
