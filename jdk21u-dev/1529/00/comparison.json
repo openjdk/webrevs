@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-    private static final String NSS_BUNDLE_VERSION = \"3.101\";\n+    private static final String NSS_BUNDLE_VERSION = \"3.107\";\n","filename":"test\/jdk\/sun\/security\/pkcs11\/PKCS11Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
