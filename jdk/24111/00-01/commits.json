@@ -1,0 +1,1 @@
+[{"commit":{"message":"The previous approach was wrong for non-pixel interleaving.\n\nJust align the buffer size to the pixel stride instead, should be better."},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/ComponentSampleModel.java"}],"sha":"af41b338b664d0a61dd68750b981489ad254be73"}]
