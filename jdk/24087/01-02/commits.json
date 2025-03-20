@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make MacSign.setUp() work with LibreSSL. Can specify path to openssl command with \"jpackage.test.openssl\" system property. Add MacSign.isDeployed()."},"files":[{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/MacSign.java"}],"sha":"abf8783ab85c01b74182557eab6f11a801c6754e"}]
