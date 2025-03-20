@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,1 +2,1 @@\n-# Copyright (c) 2011, 2024, Oracle and\/or its affiliates. All rights reserved.\n+# Copyright (c) 2011, 2025, Oracle and\/or its affiliates. All rights reserved.\n@@ -536,0 +536,1 @@\n+    $RM -rf a.out\n","filename":"make\/autoconf\/toolchain.m4","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
