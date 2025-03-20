@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -372,1 +372,1 @@\n-      \/\/ that we own, we quickly notify it here and now, avoiding the slow-path.\n+      \/\/ that we own, we quickly notify them here and now, avoiding the slow-path.\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
