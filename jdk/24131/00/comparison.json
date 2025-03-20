@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,2 +70,0 @@\n-  # FIXME: Keep old behavior and reset LCMS_CFLAGS. This is likely a bug.\n-  LCMS_CFLAGS :=\n","filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
