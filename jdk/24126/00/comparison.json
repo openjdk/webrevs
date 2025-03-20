@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,2 +95,2 @@\n-        Files.delete(socket);\n-        Files.delete(Path.of(tempDir));\n+        Files.deleteIfExists(socket);\n+        Files.deleteIfExists(Path.of(tempDir));\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/net\/UnixSocketChannelReadWrite.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
