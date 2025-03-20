@@ -1,0 +1,1 @@
+[{"commit":{"message":"Tighten the signature of VarHandles::checkAtomicFlatArray"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/VarHandles.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/X-VarHandle.java.template"}],"sha":"0e2eff2e47d8e4e40fd52074e635094cbf0ab661"}]
