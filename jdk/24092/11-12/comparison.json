@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1372,1 +1372,1 @@\n-  ShenandoahScanRemembered* scanner = ShenandoahGenerationalHeap::heap()->old_generation()->card_scan();\n+  ShenandoahScanRemembered* scanner = old_generation->card_scan();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
