@@ -1,0 +1,1 @@
+[{"commit":{"message":"8152293: Incomplete fraction reduction in getValueAsString() for TIFFTag.TIFF_RATIONAL, TIFFTag.TIFF_SRATIONAL"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/imageio\/plugins\/tiff\/TIFFField.java"},{"filename":"test\/jdk\/javax\/imageio\/plugins\/tiff\/TIFFRationalTest.java"}],"sha":"3e8c37f68aefc2d835ec6f1054e917e9249f73ce"}]
