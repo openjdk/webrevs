@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,2 +142,2 @@\n-    <path d=\"M  45, 146 L 135, 146\n-             M 135, 152 L 135, 140\"\/>\n+    <path d=\"M  45, 146 L 135, 146\"\n+          marker-end=\"url(#circle)\"\/>\n","filename":"src\/images\/affects_versions.svg","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
