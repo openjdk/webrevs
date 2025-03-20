@@ -1,0 +1,1 @@
+[{"commit":{"message":"short-circuit verify_section_allocation for partially initialized buffer"},"files":[{"filename":"src\/hotspot\/share\/asm\/codeBuffer.cpp"},{"filename":"src\/hotspot\/share\/asm\/codeBuffer.hpp"}],"sha":"bbab41b74873f9fe583bfe0b95c91a5fee691e87"}]
