@@ -1,0 +1,1 @@
+[{"commit":{"message":"8347937: Canvas pattern test fails and crashes on WebKit 620.1"},"files":[{"filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/platform\/graphics\/ImageFrame.cpp"},{"filename":"modules\/javafx.web\/src\/test\/java\/test\/javafx\/scene\/web\/CanvasTest.java"}],"sha":"a074d2578922927a5f1275dd3206f26d331684b7"}]
