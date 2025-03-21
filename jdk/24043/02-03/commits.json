@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the throwing behavior due to shallow reentrancy"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/ClassValue.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/ClassValueTest.java"}],"sha":"0532ed3ba5d1a71bd18eb1ee6458dcffeac4d1b0"}]
