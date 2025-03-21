@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1658,0 +1658,1 @@\n+    @ForceInline\n@@ -1699,0 +1700,1 @@\n+    @ForceInline\n@@ -2847,0 +2849,1 @@\n+    @ForceInline\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
