@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed unnecesasary NPE check in getTimeBudget\n\nThe NPE workaround was causing NPE to be only delayed for later"},"files":[{"filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/JCStress.java"}],"sha":"8e42d2a4b6f44ba8c1715f877f4f53dc2b962818"}]
