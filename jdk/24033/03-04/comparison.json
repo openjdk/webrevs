@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -164,1 +164,1 @@\n-         * Masks one {@code long} at a time.\n+         * Masks one {@code long} (mask + mask) at a time.\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/websocket\/Frame.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
