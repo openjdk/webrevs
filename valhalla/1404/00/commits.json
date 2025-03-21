@@ -1,0 +1,1 @@
+[{"commit":{"message":"New Unsafe API for special array creation"},"files":[{"filename":"src\/hotspot\/share\/prims\/unsafe.cpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/FlatArraysTest.java"}],"sha":"6b05b3e1e600a387726e8919ee445531314c3b01"}]
