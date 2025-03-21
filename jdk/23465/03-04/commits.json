@@ -1,0 +1,1 @@
+[{"commit":{"message":"-XX:+TraceLoopOpts fix"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/arraycopy\/TestSunkLoadAntiDependency.java"}],"sha":"6d48b9f28f7a771d4833541b92172e2506ec7ec4"}]
