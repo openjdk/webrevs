@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-\t    ($(CPP) $(DTRACE_CPP_FLAGS) $< > $(DTRACE_SUPPORT_DIR)\/$(@F).d))\n+\t    ($(CPP) $(DTRACE_CPP_FLAGS) $(SYSROOT_CFLAGS) $< > $(DTRACE_SUPPORT_DIR)\/$(@F).d))\n","filename":"make\/hotspot\/gensrc\/GensrcDtrace.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
