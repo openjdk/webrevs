@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed infinite recursion compiler warning"},"files":[{"filename":"src\/hotspot\/share\/cds\/lambdaProxyClassDictionary.cpp"},{"filename":"src\/hotspot\/share\/cds\/lambdaProxyClassDictionary.hpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"}],"sha":"87b34cee050c344b8e5a7d56d9b66993dfb85403"}]
