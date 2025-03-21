@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,0 +139,2 @@\n+            System.out.println(\"Expected Color : \" + expected);\n+            System.out.println(\"Actual Color : \" + actual);\n","filename":"test\/jdk\/javax\/swing\/JTabbedPane\/TestJTabbedPaneBackgroundColor.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
