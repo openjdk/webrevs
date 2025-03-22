@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,0 +39,1 @@\n+ * @requires vm.opt.UseCodeCacheFlushing == null | vm.opt.UseCodeCacheFlushing == true\n@@ -48,1 +49,0 @@\n- *     -XX:+UseCodeCacheFlushing\n","filename":"test\/jdk\/jdk\/jfr\/event\/compiler\/TestCodeCacheFull.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

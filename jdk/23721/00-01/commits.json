@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use \"* @requires vm.opt.UseCodeCacheFlushing == null | vm.opt.UseCodeCacheFlushing == true\" instead of enable UseCodeCacheFlushing in options"},"files":[{"filename":"test\/jdk\/jdk\/jfr\/event\/compiler\/TestCodeCacheFull.java"}],"sha":"cf9a4353c95d2fea60bd52e854a0e1a20542d7aa"}]
