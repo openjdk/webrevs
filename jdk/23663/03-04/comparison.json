@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7800,1 +7800,1 @@\n-  assert(callee()->signature()->size() == 3, \"kyber12To16 has 3 parameters\");\n+  assert(callee()->signature()->size() == 4, \"kyber12To16 has 4 parameters\");\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
