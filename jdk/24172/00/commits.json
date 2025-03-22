@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352092: -XX:AOTMode=record crashes with InstanceKlass in allocated state"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"3bb77d593510dea89ea29c7108abea5ebe06b596"}]
