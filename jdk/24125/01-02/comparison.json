@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -537,1 +537,1 @@\n-    $RM -rf a.out\n+    $RM -f a.out\n","filename":"make\/autoconf\/toolchain.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
