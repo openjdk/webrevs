@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -524,1 +524,1 @@\n-        return throwSkippedException(reason);\n+        return throwSkippedException(ex);\n","filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/TKit.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
