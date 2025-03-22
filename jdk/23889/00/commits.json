@@ -1,0 +1,1 @@
+[{"commit":{"message":"Lightly restructure x86_64 tanh instrinsic implementation to resolve performance regressions found for special inputs"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_tanh.cpp"}],"sha":"7addfd36a430e3bb16baa0c06123a0ae27bde4aa"}]
