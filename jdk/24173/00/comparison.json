@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,1 @@\n+ *       -XX:+UnlockDiagnosticVMOptions\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/VerifyGraphEdgesWithDeadCodeCheckFromSafepoints.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
