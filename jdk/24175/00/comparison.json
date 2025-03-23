@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2532,2 +2532,0 @@\n- check_no_dead_use();\n-\n@@ -2547,0 +2545,2 @@\n+ check_no_dead_use();\n+\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
