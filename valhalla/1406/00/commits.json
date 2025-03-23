@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove larval InlineTypeNode in Unsafe instrinsics"},"files":[{"filename":"src\/hotspot\/share\/opto\/doCall.cpp"},{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"192bcdfd834a26e8ee7834aa3f31bd9caf2a2a7d"}]
