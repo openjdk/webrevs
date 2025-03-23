@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8352649: [17u] guarantee(is_result_safe || is_in_asgct()) failed inside AsyncGetCallTrace"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.hpp"}],"sha":"acaabf6d77553bd195866b243a2380a06ff5f386"}]
