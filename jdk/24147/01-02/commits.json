@@ -1,0 +1,1 @@
+[{"commit":{"message":"* improved test case, covering wrong reclamation of \"empty\" pinned regions for\n  * full gc\n  * young gc (in young gen), initial evacuation\n  * remark pause"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/g1\/pinnedobjs\/TestPinnedEvacEmpty.java"}],"sha":"10ca8700cfd70b6ac7a712990564784af46a9dc3"}]
