@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352673: RISC-V: Vector can't be turned on with -XX:+UseRVV"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp"}],"sha":"c8b1739c42833aa4763d4543acf48c8f09bd9a09"}]

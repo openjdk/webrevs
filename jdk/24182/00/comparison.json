@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,1 +171,1 @@\n-    if (os::Linux::kernel_version_compare(major, minor, patch, 6, 8, 5) == -1) {\n+    if (!UseRVV && (os::Linux::kernel_version_compare(major, minor, patch, 6, 8, 5) == -1)) {\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
