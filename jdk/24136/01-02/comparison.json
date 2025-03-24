@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -519,1 +519,1 @@\n-          z = std::numeric_limits<double>::quiet_NaN();\n+          z = std::numeric_limits<double>::infinity();\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntimeTrans.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
