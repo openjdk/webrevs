@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352426: RelocIterator should correctly handle nullptr address of relocation data"},"files":[{"filename":"src\/hotspot\/share\/code\/relocInfo.cpp"}],"sha":"7c1bd82855cadf86b995346ba02b9ef3957df3b3"}]
