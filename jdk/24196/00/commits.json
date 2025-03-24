@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352141: UBSAN: fix the left shift of negative value in relocInfo.cpp, internal_word_Relocation::pack_data_to()"},"files":[{"filename":"src\/hotspot\/share\/code\/relocInfo.cpp"}],"sha":"834f4d1f8a02ca52f148743bb00500b1dce9ab60"}]

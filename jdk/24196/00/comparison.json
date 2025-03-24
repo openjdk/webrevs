@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -511,1 +511,1 @@\n-    p = pack_1_int_to(p, (offset << section_width) | sindex);\n+    p = pack_1_int_to(p, (java_shift_left(offset, section_width)) | sindex);\n","filename":"src\/hotspot\/share\/code\/relocInfo.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
