@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1114,1 +1114,1 @@\n-      assert(cg->method()->is_method_handle_intrinsic() == false, \"required\");\n+      assert(!cg->method()->is_method_handle_intrinsic(), \"required\");\n","filename":"src\/hotspot\/share\/opto\/callnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
