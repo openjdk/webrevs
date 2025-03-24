@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,0 @@\n-import java.util.stream.Stream;\n","filename":"test\/langtools\/tools\/javac\/processing\/filer\/TestNoOverwriteJarFiles.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
