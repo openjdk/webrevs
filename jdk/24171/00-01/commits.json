@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allocate memory for vm_info string using NEW_C_HEAP_ARRAY."},"files":[{"filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.cpp"}],"sha":"4c17c5ed0e879b2eb867a170c1b45e9f290c5d9c"}]
