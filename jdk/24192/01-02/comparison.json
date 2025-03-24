@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,1 @@\n- * @run main\/othervm jdk.jfr.jvm.TestJvmCommitIntrinsicAndEA\n+ * @run main\/othervm -Xbatch jdk.jfr.jvm.TestJvmCommitIntrinsicAndEA\n","filename":"test\/jdk\/jdk\/jfr\/jvm\/TestJvmCommitIntrinsicAndEA.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
