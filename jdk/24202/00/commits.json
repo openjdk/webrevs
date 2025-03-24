@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix bug related to line breaks in json"},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/toolkit\/util\/IndexItem.java"},{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testIndexLineBreaks\/TestIndexLineBreaks.java"}],"sha":"a3ae59fe6331f32faa6e302e821b7925f58d7067"}]
