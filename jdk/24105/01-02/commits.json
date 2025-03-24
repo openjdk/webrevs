@@ -1,0 +1,1 @@
+[{"commit":{"message":"Widen type of shared enum value to unlock platform support of atomic xchg"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahSharedVariables.hpp"}],"sha":"ca45ff020f8929efd67e2fca674176c7d707687a"}]
