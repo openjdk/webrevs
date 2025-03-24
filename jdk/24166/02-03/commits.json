@@ -1,0 +1,1 @@
+[{"commit":{"message":"No need to calculate gc_id using gc_count"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"}],"sha":"4c8c813615564415efbb64c4b04b59c640d369f6"}]
