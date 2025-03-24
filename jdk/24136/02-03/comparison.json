@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,3 +84,0 @@\n-#define CAN_USE_NAN_DEFINE 1\n-\n-\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions_gcc.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
