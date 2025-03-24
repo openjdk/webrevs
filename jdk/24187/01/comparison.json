@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-    fatal(\"unhandled bytecode\");\n+    fatal(\"unhandled bytecode : Current Method = %s, BCI = %d, OPCODE = %s (0x%X)\", _method->name()->as_utf8(), cur_bci(), Bytecodes::name(bc), bc);\n","filename":"src\/hotspot\/share\/ci\/ciStreams.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
