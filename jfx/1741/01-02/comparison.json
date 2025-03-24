@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -764,1 +764,1 @@\n-    return nestedRunLoopRunCount <= 250;\n+    return nestedRunLoopRunCount <= 244;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassApplication.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
