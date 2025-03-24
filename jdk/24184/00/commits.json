@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352140: UBSAN: fix the left shift of negative value in klass.hpp, array_layout_helper()"},"files":[{"filename":"src\/hotspot\/share\/oops\/klass.hpp"}],"sha":"3fa63e4b7e145cb7263a4935392c51c949877d99"}]

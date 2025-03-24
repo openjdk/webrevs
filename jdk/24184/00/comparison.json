@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -527,1 +527,1 @@\n-    return (tag        << _lh_array_tag_shift)\n+    return ((juint)tag << _lh_array_tag_shift)\n","filename":"src\/hotspot\/share\/oops\/klass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
