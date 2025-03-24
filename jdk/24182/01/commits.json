@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix the issue in vm_version_riscv.cpp"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"5c01052c34dc2d515fa9d6925a851724299bfc4e"},{"commit":{"message":"8352673: RISC-V: Vector can't be turned on with -XX:+UseRVV"},"files":[],"sha":"c8b1739c42833aa4763d4543acf48c8f09bd9a09"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -197,1 +197,1 @@\n-    if (!ext_V.enabled()) {\n+    if (!ext_V.enabled() && FLAG_IS_DEFAULT(UseRVV)) {\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
