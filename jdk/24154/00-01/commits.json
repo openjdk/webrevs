@@ -1,0 +1,1 @@
+[{"commit":{"message":"Switch from `Optional<String>` to `String` for `HttpResponseImpl::connectionLabel`\n\nCo-authored-by: Daniel Fuchs <67001856+dfuch@users.noreply.github.com>"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpResponseImpl.java"}],"sha":"028999a7142b32b6c26db431b24578ae4d899e62"}]
