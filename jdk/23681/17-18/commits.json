@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix java.security syntax. Remove whitespace."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/util\/DisabledAlgorithmConstraints.java"},{"filename":"src\/java.base\/share\/conf\/security\/java.security"}],"sha":"edce779d3bc11aa23a367864ae52694cd3ae431a"}]
