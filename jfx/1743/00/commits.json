@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replaced reflection with direct calls to enableNativeAccess."},"files":[{"filename":"tests\/system\/src\/testapp7\/java\/mymod\/myapp7\/DataUrlWithModuleLayerLauncher.java"},{"filename":"tests\/system\/src\/testapp7\/java\/mymod\/myapp7\/LocalStorageAccessWithModuleLayerLauncher.java"}],"sha":"cb085b8d861aacb1faea6f89c7caef690ca5ba6a"}]
