@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -518,1 +518,1 @@\n-        if (z == 0.0) {\n+        if (ix == 0) {\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntimeTrans.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
