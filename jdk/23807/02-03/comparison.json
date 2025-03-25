@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -993,1 +993,0 @@\n-    AC_SUBST(SIGNING_HOOK)\n@@ -998,0 +997,1 @@\n+  AC_SUBST(SIGNING_HOOK)\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
