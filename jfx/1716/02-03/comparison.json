@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,0 @@\n-import javafx.beans.binding.Bindings;\n@@ -736,1 +735,0 @@\n-        promptNode.textProperty().bind(getSkinnable().promptTextProperty());\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/TextFieldSkin.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
