@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -625,2 +625,4 @@\n-      LD=\"$LD -fuse-ld=lld\"\n-      LDCXX=\"$LDCXX -fuse-ld=lld\"\n+      if test \"x$OPENJDK_BUILD_OS\" != \"xmacosx\"; then\n+        LD=\"$LD -fuse-ld=lld\"\n+        LDCXX=\"$LDCXX -fuse-ld=lld\"\n+      fi\n","filename":"make\/autoconf\/toolchain.m4","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
