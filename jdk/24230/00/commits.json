@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unnecessary Windows version check in FileFontStrike"},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/font\/FileFontStrike.java"},{"filename":"src\/java.desktop\/windows\/native\/libfontmanager\/lcdglyph.c"}],"sha":"79e1b2ea0564b31414cb312d1bcb73c4a463f60f"}]
