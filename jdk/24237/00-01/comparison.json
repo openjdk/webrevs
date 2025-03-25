@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -455,1 +455,1 @@\n-    \/** Produce {@code bitCount(a)} Integral only.\n+    \/** Produce {@code bitCount(a)}. Integral only.\n","filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/VectorOperators.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
