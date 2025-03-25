@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address @dholmes-ora's comment: Use `strlen` to get the length for \", static\" and \", sharing\"."},"files":[{"filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.cpp"}],"sha":"bfaa6e4867c661c1847b63688c78830ce563d217"}]
