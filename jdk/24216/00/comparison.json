@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+#include \"os_linux_ppc.inline.hpp\"\n","filename":"src\/hotspot\/os_cpu\/linux_ppc\/javaThread_linux_ppc.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
