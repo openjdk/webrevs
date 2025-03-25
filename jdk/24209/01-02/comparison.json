@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -846,1 +846,1 @@\n-        out.write(\"};\");\n+        out.write(\"}; \");\n","filename":"make\/src\/classes\/build\/tools\/jfr\/GenerateJfrFiles.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
