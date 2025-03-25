@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4,1 +4,1 @@\n-NoWarn.java:17:35: compiler.warn.diamond.redundant.args\n+NoWarn.java:17:32: compiler.warn.diamond.redundant.args\n","filename":"test\/langtools\/tools\/javac\/lint\/NoWarn2.out","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
