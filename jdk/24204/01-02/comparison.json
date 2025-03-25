@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1162,0 +1162,3 @@\n+     *\n+     * @param src the path of the image\n+     * @param alt alternate text for the image\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/html\/HtmlTree.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
