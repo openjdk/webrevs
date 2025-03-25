@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -479,1 +479,0 @@\n-SIGNING_HOOK_ENABLED := @SIGNING_HOOK_ENABLED@\n","filename":"make\/autoconf\/spec.gmk.template","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
