@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1753,1 +1753,1 @@\n-JvmtiEnvBase::suspend_thread(oop thread_oop, JavaThread* java_thread, bool single_suspend);\n+JvmtiEnvBase::suspend_thread(oop thread_oop, JavaThread* java_thread, bool single_suspend) {\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
