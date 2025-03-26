@@ -1,0 +1,1 @@
+[{"commit":{"message":"Call the hook as part of the native linking recipe."},"files":[{"filename":"make\/common\/NativeCompilation.gmk"},{"filename":"make\/common\/native\/Link.gmk"},{"filename":"make\/common\/native\/LinkMicrosoft.gmk"}],"sha":"6606a7e95baed31ea2fff2551fa2f4702c43a7e8"}]
