@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 55fd1ed228ea3c42aaf92579e5dcb818fe14351d"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestFloat16VectorConvChain.java"}],"sha":"ad2cec4a1bedcbfce94d273eea41634efb646d48"}]
