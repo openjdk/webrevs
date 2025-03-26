@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix verifier's gc_state resettter"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.hpp"}],"sha":"64403639a293ac7ac07cf55707bd419fe3b6aade"}]
