@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-#include \"runtime\/objectMonitor.hpp\"\n+#include \"runtime\/objectMonitor.inline.hpp\"\n","filename":"src\/hotspot\/share\/runtime\/basicLock.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
