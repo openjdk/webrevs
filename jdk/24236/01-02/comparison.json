@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -661,1 +661,1 @@\n-     * WARNING: Make sure this API does not trigger any class loading.\n+     * WARNING: Make sure this method does not trigger any class loading.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ThreadGroup.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
