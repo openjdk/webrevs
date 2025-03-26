@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unnecessary Windows version check in Win32ShellFolderManager2"},"files":[{"filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/shell\/Win32ShellFolderManager2.java"},{"filename":"test\/jdk\/java\/awt\/FileDialog\/FileSystemViewFiles.java"}],"sha":"e802646ed7ff738216f6b260463b68e9adc76666"}]
