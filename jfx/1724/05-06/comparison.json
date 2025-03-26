@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -207,0 +207,1 @@\n+    addPair(GLASS_TEXT_PLAIN_LOCALE, CF_UNICODETEXT);\n@@ -209,0 +210,2 @@\n+    addPair(MS_LOCALE, CF_LOCALE);\n+    addPair(MS_OEMTEXT, CF_UNICODETEXT);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/GlassClipboard.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
