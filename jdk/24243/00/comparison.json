@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -590,1 +590,1 @@\n-    if (failing()) { stop(); return; }  \/\/ exception allocation might fail\n+    \/\/ If we have a preconstructed exception object, use it.\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
