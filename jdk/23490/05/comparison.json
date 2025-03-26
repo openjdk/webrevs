@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -425,0 +425,4 @@\n+    if (thread->is_suspended()) {\n+      \/\/ suspend here if there is a suspend request\n+      ThreadBlockInVM tbivm(thread, true \/* allow suspend *\/);\n+    }\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
