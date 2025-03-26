@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-  const idx_t res_bit = _beg_bits.find_last_set_bit_aligned_left(beg_bit, end_bit);\n+  const idx_t res_bit = _beg_bits.find_last_set_bit(beg_bit, end_bit);\n","filename":"src\/hotspot\/share\/gc\/parallel\/parMarkBitMap.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

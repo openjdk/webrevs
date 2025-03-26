@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't require addresses to be aligned in ParMarkBitMap::find_obj_beg_reverse()"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/parMarkBitMap.inline.hpp"}],"sha":"738c3093aaf18a9aa0cd0c480aaf417eeefd656d"}]
