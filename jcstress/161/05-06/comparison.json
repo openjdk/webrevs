@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,0 @@\n-        TimeBudget timeBudget = new TimeBudget(config.configs.size(), opts.timeBudget());\n","filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/JCStress.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
