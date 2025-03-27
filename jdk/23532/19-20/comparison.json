@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -928,1 +928,1 @@\n-internalConsistenciesDetected\n+internalInconsistenciesDetected\n","filename":"src\/jdk.jartool\/share\/man\/jarsigner.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
