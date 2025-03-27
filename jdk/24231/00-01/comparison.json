@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -541,1 +541,1 @@\n-#       ([TLSServer] | [TLSClient] | [SignedJAR])\n+#       TLSServer | TLSClient | SignedJAR\n","filename":"src\/java.base\/share\/conf\/security\/java.security","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
