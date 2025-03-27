@@ -1,0 +1,1 @@
+[{"commit":{"message":"calculate from_pct like we did before, clamp to_pct"},"files":[{"filename":"src\/hotspot\/share\/opto\/block.cpp"}],"sha":"bf358c08682606a10438204fc7ba15eea8e3f344"},{"commit":{"message":"JDK-8346888"},"files":[{"filename":"src\/hotspot\/share\/opto\/block.cpp"}],"sha":"f8f63019bb5cdf4539b1dccbadb992b77fc83a2f"}]
