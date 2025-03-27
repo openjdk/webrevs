@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3927,1 +3927,1 @@\n-     * to submit for execution. The returned value is innacurate while\n+     * to submit for execution. The returned value is inaccurate while\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
