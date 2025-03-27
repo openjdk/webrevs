@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,0 @@\n-class   RoundFP;\n@@ -558,1 +557,0 @@\n-  virtual RoundFP*          as_RoundFP()         { return nullptr; }\n","filename":"src\/hotspot\/share\/c1\/c1_Instruction.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
