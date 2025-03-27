@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -625,1 +625,1 @@\n-      if test \"x$OPENJDK_BUILD_OS\" != \"xmacosx\"; then\n+      if test \"x$OPENJDK_TARGET_OS\" = xlinux; then\n","filename":"make\/autoconf\/toolchain.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
