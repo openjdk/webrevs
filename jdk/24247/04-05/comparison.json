@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,1 @@\n+import java.io.File;\n@@ -84,0 +85,3 @@\n+        if (File.separatorChar != '\/') {\n+            nonInlineHpp = nonInlineHpp.replace(File.separatorChar, '\/');\n+        }\n","filename":"test\/hotspot\/jtreg\/sources\/SortIncludes.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
