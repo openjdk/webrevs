@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-  CompLevel_any               = -1,        \/\/ Used for querying the state\n+  CompLevel_any               = -2,        \/\/ Used for querying the state\n","filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
