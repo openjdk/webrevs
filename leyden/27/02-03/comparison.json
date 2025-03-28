@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1296,0 +1296,3 @@\n+  \/\/ Flush the code block\n+  ICache::invalidate_range(code_begin(), code_size());\n+\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
