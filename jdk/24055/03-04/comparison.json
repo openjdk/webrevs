@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,2 +42,0 @@\n- *   4. no extra symlink exists on Solaris i.e.\n- *      lib\/$arch\/libjvm.so -> client\/libjvm.so\n","filename":"test\/jdk\/tools\/launcher\/ExecutionEnvironment.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
