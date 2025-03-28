@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replaced the call to GetProcessorInfo.exe via resolve path with the use of the test launch option \"\/native\"."},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/os\/windows\/TestAvailableProcessors.java"}],"sha":"13a0160baeb9395c81b339f638f05bc9becfeeb0"}]
