@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1672,0 +1672,3 @@\n+      \/\/ Mark remaining code as such which performs Unsafe accesses.\n+      UnsafeMemoryAccessMark umam(this, true, false);\n+\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
