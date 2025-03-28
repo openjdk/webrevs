@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename write_nmethod_extra_relocations to write_nmethod_loadtime_relocations\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/code\/SCCache.cpp"},{"filename":"src\/hotspot\/share\/code\/SCCache.hpp"}],"sha":"14a44f83c890570fb51cd663d16204bb899a7851"}]
