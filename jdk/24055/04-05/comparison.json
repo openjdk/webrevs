@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,0 +42,2 @@\n+ *   4. no extra symlink exists i.e.\n+ *      lib\/$arch\/libjvm.so -> client\/libjvm.so\n","filename":"test\/jdk\/tools\/launcher\/ExecutionEnvironment.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
