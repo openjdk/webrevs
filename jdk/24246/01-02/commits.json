@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove UseLoopPredicate"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/assertion\/TestAssertionPredicates.java"}],"sha":"7502a6d465826e4d541b0c565dac55924661152a"}]
