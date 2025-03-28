@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unnecessary Windows version check in WTaskbarPeer"},"files":[{"filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WTaskbarPeer.java"},{"filename":"test\/jdk\/java\/awt\/Dialog\/TaskbarFeatureTest.java"}],"sha":"ab72f571dd778dc8065b77c0e5f5c599345bc8b7"}]
