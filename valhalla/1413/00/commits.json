@@ -1,0 +1,1 @@
+[{"commit":{"message":"8353186: [lworld] Disable failing tests after JDK-8351569"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/gcbarriers\/TestZGCBarrierElision.java"},{"filename":"test\/jdk\/valhalla\/valuetypes\/FlatVarHandleTest.java"},{"filename":"test\/jdk\/valhalla\/valuetypes\/NullRestrictedArraysTest.java"}],"sha":"7b59a45ec385ccb7c9d8621442b8934ee5db1bbf"}]
