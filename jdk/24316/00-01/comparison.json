@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-    static void write_leak_profiler(GrowableArray<traceid>* leakp_set, Thread* t);\n+  static void write_leak_profiler(GrowableArray<traceid>* leakp_set, Thread* t);\n","filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrStackTraceRepository.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
