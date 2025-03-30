@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -189,0 +189,1 @@\n+    DISABLED_WARNINGS_gcc_java.c := return-type, \\\n","filename":"make\/modules\/java.base\/lib\/CoreLibraries.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
