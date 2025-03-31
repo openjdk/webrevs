@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,2 +142,0 @@\n-        \/\/ *only* send QUIT if the target is ready to catch and handle the signal to avoid default \"death\" if not\n-\n","filename":"src\/jdk.attach\/macosx\/native\/libattach\/VirtualMachineImpl.c","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
