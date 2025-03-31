@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed empty constructor, as the default constructor is already public"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"45a52fee61963750ff696e5269c1de152eaf7406"}]
