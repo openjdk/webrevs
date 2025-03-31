@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revertd the STATIC_LIB_CFLAGS fix as it is coverted by JDK-8353272\n\nSigned-off-by: Patrick Zhang <patrick@os.amperecomputing.com>"},"files":[{"filename":"make\/common\/native\/Flags.gmk"}],"sha":"46c439211cf55388086dcb8fbbaeca52d571ea8d"}]
