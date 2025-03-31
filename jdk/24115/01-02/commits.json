@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the comments wrt not appending EXTRA_CFLAGS to JVM_CFLAGS\n\nSigned-off-by: Patrick Zhang <patrick@os.amperecomputing.com>"},"files":[{"filename":"make\/hotspot\/lib\/JvmFlags.gmk"}],"sha":"5440ddc5e249a511480592961787366611f5e763"}]
