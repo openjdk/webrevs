@@ -1,0 +1,1 @@
+[{"commit":{"message":"8353274: [PPC64] Bug related to -XX:+UseCompactObjectHeaders -XX:-UseSIGTRAP in JDK-8305895"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.hpp"}],"sha":"99ba34bb11d6f46353c24cc3ae16354a93ccaaa5"}]
