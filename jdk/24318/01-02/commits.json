@@ -1,0 +1,1 @@
+[{"commit":{"message":"add \"#if defined(__GNUC__)\" to fix windows build warning"},"files":[{"filename":"src\/java.base\/share\/native\/libjli\/java.c"}],"sha":"8d929c8d41cdbbfef4faeb52650aa4533745aeaa"}]

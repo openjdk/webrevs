@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -669,0 +669,1 @@\n+#if defined(__GNUC__)\n@@ -671,0 +672,1 @@\n+#endif\n@@ -672,0 +674,1 @@\n+#if defined(__GNUC__)\n@@ -673,0 +676,1 @@\n+#endif\n","filename":"src\/java.base\/share\/native\/libjli\/java.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
