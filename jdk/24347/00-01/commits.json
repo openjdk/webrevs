@@ -1,0 +1,1 @@
+[{"commit":{"message":"No need to use \"@requires vm.gc == null\""},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotClassLinking\/AOTCacheWithZGC.java"}],"sha":"0cdf72ca80c881ac97cce74c3a1ab0560a88f767"}]
