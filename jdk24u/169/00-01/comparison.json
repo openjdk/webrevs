@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+import jdk.jfr.FlightRecorder;\n@@ -47,0 +48,1 @@\n+        FlightRecorder.addPeriodicEvent(PeriodicEvent.class, () -> {});\n","filename":"test\/jdk\/jdk\/jfr\/api\/metadata\/annotations\/TestPeriod.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
