@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,0 +24,1 @@\n+#include \"logging\/log.hpp\"\n@@ -25,0 +26,2 @@\n+#include \"nmt\/nmtCommon.hpp\"\n+#include \"runtime\/javaThread.hpp\"\n@@ -26,0 +29,1 @@\n+#include \"utilities\/debug.hpp\"\n","filename":"src\/hotspot\/share\/nmt\/nMemoryLimitPrinter.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
