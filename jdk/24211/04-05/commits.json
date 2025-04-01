@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address comments and try fixing test failure on macos-aarch64"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1IHOPControl.cpp"},{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestSoftMaxHeapSize.java"}],"sha":"0bc55654dfdfbfc462e54fa96c38f46f729e5989"}]
