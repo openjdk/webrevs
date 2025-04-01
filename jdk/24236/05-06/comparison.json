@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -662,1 +662,1 @@\n-     * because a ClassPrepareEvent can deadlock the debugger and debug agent.\n+     * because a ClassPrepare event can deadlock the debugger and debug agent.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ThreadGroup.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
