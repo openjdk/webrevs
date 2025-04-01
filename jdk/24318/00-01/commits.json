@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use #pragma GCC diagnostic ignored \"-Wreturn-type\" instead of use diasable_warning in makefile"},"files":[{"filename":"make\/modules\/java.base\/lib\/CoreLibraries.gmk"},{"filename":"src\/java.base\/share\/native\/libjli\/java.c"}],"sha":"83beb9752b066c35c2175f66936f47fc90ef1e64"}]
