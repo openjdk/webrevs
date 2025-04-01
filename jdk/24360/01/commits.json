@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349890: option -Djava.security.debug=x509,ava breaks special chars"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/x509\/AVA.java"},{"filename":"test\/jdk\/sun\/security\/x509\/X500Name\/PrintX500NameInDebugModeWithAvaOption.java"}],"sha":"1096d02bb45a2eb1d0e9f92a0b5b54a3ba045190"}]
