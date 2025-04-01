@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -669,0 +669,2 @@\n+#pragma GCC diagnostic push\n+#pragma GCC diagnostic ignored \"-Wreturn-type\"\n@@ -670,0 +672,1 @@\n+#pragma GCC diagnostic pop\n","filename":"src\/java.base\/share\/native\/libjli\/java.c","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
