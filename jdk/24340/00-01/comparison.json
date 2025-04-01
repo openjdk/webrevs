@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -138,1 +138,0 @@\n-                        \/\/System.out.println(ite.getCause());\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/methodHandles\/JDKMethodHandlesTestRunner.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
