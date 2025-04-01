@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,1 @@\n-    $1_EXTRA_CXXFLAGS += -DSTATIC_BUILD=1\n+    $1_EXTRA_CXXFLAGS += $$(STATIC_LIB_CFLAGS)\n","filename":"make\/common\/native\/Flags.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

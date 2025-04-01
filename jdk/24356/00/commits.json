@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8353272: One instance of STATIC_LIB_CFLAGS was missed in JDK-8345683\"\n\nThis reverts commit cef5610b5d4f7c5c2ceda46995ef3a0d961294e5."},"files":[{"filename":"make\/common\/native\/Flags.gmk"}],"sha":"f7b5c51d7f346f0b526c61d7d704a8ca9eff2c8f"}]
