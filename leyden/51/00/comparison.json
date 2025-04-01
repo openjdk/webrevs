@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1093,0 +1093,1 @@\n+        nm->set_preloaded(true);\n","filename":"src\/hotspot\/share\/ci\/ciEnv.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
