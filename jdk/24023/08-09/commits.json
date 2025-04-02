@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move code to addnode.cpp and add more tests"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMergeLoads.java"}],"sha":"ee511bf18b4557cc0f66d40164e7d783a32e2c6a"}]
