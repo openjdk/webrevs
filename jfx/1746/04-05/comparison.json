@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,6 @@\n+ * <p>\n+ * Example:\n+ * <pre>\n+ * \/\/ write a base-64 encoded screenshot to stderr\n+ * ScreenshotCapture.writeScreenshot(System.err);\n+ * <\/pre>\n","filename":"tests\/system\/src\/test\/java\/test\/util\/ScreenshotCapture.java","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
