@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350774: Generated test-<testname> targets broken after JDK-8348998"},"files":[{"filename":"make\/GenerateFindTests.gmk"},{"filename":"make\/Init.gmk"},{"filename":"make\/PreInitSupport.gmk"},{"filename":"make\/RunTestsPrebuilt.gmk"}],"sha":"5d7293b3ab3b8f5e4d709f8d3c1356c6f27d3305"}]
