@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add info that Map#values and Map#entrySet are stable"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/StableValue.java"},{"filename":"test\/jdk\/java\/lang\/StableValue\/StableMapTest.java"}],"sha":"5dbcd4d0e172fa8e298259d76e90c29e6e6f0e86"}]
