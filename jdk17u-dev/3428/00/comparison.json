@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -489,0 +489,3 @@\n+java\/awt\/dnd\/DragSourceMotionListenerTest.java 8225131 windows-all\n+java\/awt\/dnd\/RejectDragTest.java 7124259 macosx-all\n+java\/awt\/dnd\/DnDHTMLToOutlookTest\/DnDHTMLToOutlookTest.java 8027424 generic-all\n","filename":"test\/jdk\/ProblemList.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
