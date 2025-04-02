@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -232,1 +232,1 @@\n-                .mapToObj(_ -> new AtomicLong())\n+                .mapToObj(AtomicLong::new)\n","filename":"src\/jdk.naming.dns\/share\/classes\/com\/sun\/jndi\/dns\/DnsClient.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
