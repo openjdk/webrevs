@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix test failure on macos-aarch64 by using power-of-two sizes."},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestSoftMaxHeapSize.java"}],"sha":"4435e89ffcb9decbcddc320af5da9734ec63849a"}]
