@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -296,1 +296,1 @@\n-        String redirectTo = null;\n+        String redirectTo;\n","filename":"test\/langtools\/jdk\/javadoc\/doclet\/testLinkOption\/TestRedirectLinks.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
