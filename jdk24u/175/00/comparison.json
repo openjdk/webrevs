@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,0 +53,3 @@\n+#if !defined(SEGV_BNDERR)\n+#define SEGV_BNDERR 3\n+#endif\n@@ -973,0 +976,3 @@\n+#if defined(LINUX)\n+    { SIGSEGV, SEGV_BNDERR,  \"SEGV_BNDERR\",  \"Failed address bound checks.\" },\n+#endif\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
