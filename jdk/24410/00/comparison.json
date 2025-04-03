@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1322,0 +1322,5 @@\n+  \/\/ Mod by zero?  Throw exception at runtime!\n+  if (type_divisor->is_con() && type_divisor->get_con() == 0) {\n+    return TypeClass::POS;\n+  }\n+\n","filename":"src\/hotspot\/share\/opto\/divnode.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
