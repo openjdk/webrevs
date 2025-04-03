@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use comma as a separator when printing controlled options"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"}],"sha":"9cf8295327f3071bcfd699493e5ff2f2de52736d"},{"commit":{"message":"Simplify vm_controlled_options"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac_engine.cpp"}],"sha":"83df86e2595b7321c9ccf5a6e0e867c6c0f5b53a"}]
