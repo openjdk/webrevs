@@ -1,0 +1,1 @@
+[{"commit":{"message":"Thread safety: AOTClassFilter::is_aot_tooling_class() can potentially be called by multiple threads concurrently"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotClassFilter.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotClassFilter.hpp"}],"sha":"08a3ddf6cde2179ce49cd782fa67555688e28be9"}]
