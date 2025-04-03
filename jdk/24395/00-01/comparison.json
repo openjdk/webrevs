@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,2 @@\n+                Arguments.of(\"1#foo\", \"foo\", Double.NaN, -1),\n+                Arguments.of(\"1#baz\", \"foo bar baz\", Double.NaN, 20),\n","filename":"test\/jdk\/java\/text\/Format\/ChoiceFormat\/ParseTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
