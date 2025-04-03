@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1614,1 +1614,2 @@\n-          int to_pct = (int) ((100 * freq) \/ target->_freq);\n+          float f_to_pct = (100 * freq) \/ target->_freq;\n+          int to_pct = (f_to_pct < 100.0) ? (int)f_to_pct : 100;\n","filename":"src\/hotspot\/share\/opto\/block.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
