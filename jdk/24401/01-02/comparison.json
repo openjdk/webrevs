@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,2 @@\n- * @requires vm.cds & vm.compMode != \"Xcomp\"\n+ * @requires vm.cds\n+ * @requires vm.flagless\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/AOTFlags.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
