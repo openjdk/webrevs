@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use Atomic::load for flag"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"}],"sha":"c60ade41c4c07079b0a1331eb8ba9293a14585ee"}]

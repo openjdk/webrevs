@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2065,1 +2065,1 @@\n-  return clamp(align_up(SoftMaxHeapSize, HeapAlignment), MinHeapSize,\n+  return clamp(align_up(Atomic::load(&SoftMaxHeapSize), HeapAlignment), MinHeapSize,\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
