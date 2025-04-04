@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -470,2 +470,0 @@\n-\/\/        Unsafe UNSAFE = Unsafe.getUnsafe();\n-\n","filename":"src\/java.base\/share\/classes\/java\/util\/UUID.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
