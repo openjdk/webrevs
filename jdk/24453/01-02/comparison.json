@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,2 +61,2 @@\n-        fr.getContentPane().add(button);\n-        fr.pack();\n+        fr.add(button);\n+        fr.setSize(250, 100);\n","filename":"test\/jdk\/javax\/swing\/ToolTipManager\/bug4250178.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
