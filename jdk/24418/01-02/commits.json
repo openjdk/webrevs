@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use a fake host name since no actual FTP request will be attempted"},"files":[{"filename":"test\/jdk\/sun\/net\/www\/protocol\/file\/NonLocalFtpFallback.java"}],"sha":"049bb5fb7fbcbf7fdfdb12b2a8502ab845dde008"}]
