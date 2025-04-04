@@ -1,0 +1,1 @@
+[{"commit":{"message":"8353212: [lworld] TestFlatArrayAliasesCardMark.java crashes when run with -XX:+UseAtomicValueFlattening"},"files":[{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestArrayNullMarkers.java"}],"sha":"63b38099494b329de11400b02cc4bdca69ae1889"}]
