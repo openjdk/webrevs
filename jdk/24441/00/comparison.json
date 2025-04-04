@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,2 +52,5 @@\n-#if !defined(SEGV_BNDERR)\n-#define SEGV_BNDERR 3\n+#define SEGV_BNDERR_value 3\n+#if defined(SEGV_BNDERR)\n+STATIC_ASSERT(SEGV_BNDERR == SEGV_BNDERR_value)\n+#else\n+#define SEGV_BNDERR SEGV_BNDERR_value\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":5,"deletions":2,"binary":false,"changes":7,"status":"modified"}]}
