@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,2 @@\n-\/* @test\n+\/*\n+ * @test\n","filename":"test\/jdk\/javax\/swing\/ToolTipManager\/bug4250178.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
