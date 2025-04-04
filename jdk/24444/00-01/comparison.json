@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,1 @@\n+    @SuppressWarnings(\"removal\")\n@@ -52,1 +53,0 @@\n-\n","filename":"src\/java.base\/windows\/classes\/sun\/net\/www\/protocol\/file\/UNCFileURLConnection.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
