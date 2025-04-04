@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3859,0 +3859,1 @@\n+        storeEnd(result, S.prevToken().endPos);\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
