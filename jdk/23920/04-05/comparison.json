@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-        if (!(b1 && b2))\n+        if (!(b1 && b2)) {\n@@ -67,0 +67,2 @@\n+            throw new Error(\"Test failed\");\n+        }\n","filename":"test\/jdk\/javax\/imageio\/plugins\/jpeg\/WriteJPEGThumbnailTest.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
