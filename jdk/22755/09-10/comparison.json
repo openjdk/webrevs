@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1757,0 +1757,3 @@\n+      if (size_in_bits < 512 && !VM_Version::supports_avx512vl()) {\n+        return false;\n+      }\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
