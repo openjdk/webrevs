@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,1 +300,1 @@\n-    $ECHO -n \"$variant: \\'$JVM_FEATURES_FOR_VARIANT\\' \"\n+    $ECHO -n \"$variant: '$JVM_FEATURES_FOR_VARIANT' \"\n","filename":"make\/autoconf\/help.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
