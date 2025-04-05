@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve shutdown sequence in HttpServerImpl::stop"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ServerImpl.java"},{"filename":"test\/jdk\/com\/sun\/net\/httpserver\/ServerStopTermination.java"}],"sha":"f06c8df5969a9df36f411468356663209d98b238"}]
