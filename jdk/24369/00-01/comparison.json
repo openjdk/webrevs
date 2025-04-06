@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-        for(KeyPair kp : keys) {\n+        for (KeyPair kp : keys) {\n","filename":"test\/micro\/org\/openjdk\/bench\/javax\/crypto\/full\/KEMBench.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
