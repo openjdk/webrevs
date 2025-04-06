@@ -1,0 +1,1 @@
+[{"commit":{"message":"Addresses deactivation races introduced by JDK-8319447"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/ForkJoinPool20Test.java"}],"sha":"0aeabd93011f9a3cfb80e550321836e34f82f55d"}]
