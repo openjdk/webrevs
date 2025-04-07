@@ -1,0 +1,1 @@
+[{"commit":{"message":"account for 835769 errata on Cortex A53 in VectorizedHashCode intrinsic"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"}],"sha":"69bd1e2fdb6b29f16767cf839cd60f1fb20f7fb4"}]
