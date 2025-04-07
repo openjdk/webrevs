@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+import org.junit.jupiter.api.Test;\n@@ -36,2 +37,0 @@\n-import org.junit.jupiter.api.Test;\n-\n","filename":"modules\/javafx.base\/src\/test\/java\/test\/javafx\/beans\/value\/ObservableValueSubscriptionsTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
