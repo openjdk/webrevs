@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n- * @summary Verify that no errors are reported for files the have been\n+ * @summary Verify that no errors are reported for files that have been\n","filename":"test\/jdk\/tools\/jlink\/runtimeImage\/UpgradeableFileCacertsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
