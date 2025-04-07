@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -153,1 +153,1 @@\n-     * want to use it to overwrite file.encoding\n+     * want to use it to overwrite native.encoding\n","filename":"src\/java.base\/share\/native\/libjava\/System.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
