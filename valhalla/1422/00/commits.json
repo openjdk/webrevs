@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix value return by JNI MonitorEnter"},"files":[{"filename":"src\/hotspot\/share\/prims\/jni.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/InlineWithJni.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/libInlineWithJni.c"}],"sha":"2f47df00e2499c59cf7da522416a92629448f757"}]
