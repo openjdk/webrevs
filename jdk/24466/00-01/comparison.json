@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,1 +121,1 @@\n-            } catch(Exception exc) {\n+            } catch (Exception exc) {\n","filename":"test\/jdk\/javax\/swing\/JInternalFrame\/bug4321312.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
