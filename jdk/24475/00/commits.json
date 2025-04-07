@@ -1,0 +1,1 @@
+[{"commit":{"message":"8353787: Increased number of SHA-384-Digest java.util.jar.Attributes instances leading to higher memory footprint"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/jar\/Attributes.java"}],"sha":"a458688470da58bf340a96b0fac31eaf608c5c42"}]
