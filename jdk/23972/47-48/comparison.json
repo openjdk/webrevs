@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -245,1 +245,1 @@\n- *         return POWER_OF_TWO.gety(a);\n+ *         return POWER_OF_TWO.get(a);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StableValue.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
