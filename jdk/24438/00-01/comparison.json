@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,2 +120,3 @@\n-        System.out.print(obj);\n-        System.out.flush();\n+        var out = System.out;\n+        out.print(obj);\n+        out.flush();\n","filename":"src\/java.base\/share\/classes\/java\/lang\/IO.java","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
