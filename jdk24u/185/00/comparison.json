@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -248,1 +248,4 @@\n-      $(call FindFiles, $(SYMBOLS_IMAGE_DIR))\n+      $(filter-out \\\n+          %.stripped.pdb, \\\n+          $(call FindFiles, $(SYMBOLS_IMAGE_DIR)) \\\n+      )\n","filename":"make\/Bundles.gmk","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
