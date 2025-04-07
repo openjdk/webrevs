@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid racy update in Klass::expand_for_hash()"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahForwarding.inline.hpp"},{"filename":"src\/hotspot\/share\/oops\/klass.cpp"},{"filename":"src\/hotspot\/share\/oops\/klass.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.inline.hpp"}],"sha":"95728b46ce8be9610988ab61ebe35235bb1f23ff"}]
