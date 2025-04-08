@@ -1,0 +1,1 @@
+[{"commit":{"message":"add a comment to explain why we avoid dynamic memory allocation for the vm_info_string"},"files":[{"filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.cpp"}],"sha":"461b0f8472bf4fef66e95e551300f0076ac33c2f"}]
