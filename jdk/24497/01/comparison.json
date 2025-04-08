@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,1 @@\n+ * @requires !jdk.static\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/jvmti\/LoadAgentDcmdTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
