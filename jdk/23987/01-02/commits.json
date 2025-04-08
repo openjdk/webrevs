@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use vector pair instructions on Power10."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/assembler_ppc.hpp"},{"filename":"src\/hotspot\/cpu\/ppc\/assembler_ppc.inline.hpp"},{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc.cpp"}],"sha":"05594c0588f368f05576eeff14b36c18152f843f"}]
