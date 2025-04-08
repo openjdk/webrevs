@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350661: PKCS11 HKDF throws ProviderException when requesting a 31-byte AES key"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/P11HKDF.java"},{"filename":"test\/jdk\/sun\/security\/pkcs11\/KDF\/TestHKDF.java"}],"sha":"848dd1e1c0bede1863dccbf03db4d569ffe9d292"}]
