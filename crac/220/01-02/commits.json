@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make list of VM-controlled options static"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"},{"filename":"src\/hotspot\/share\/runtime\/crac_engine.cpp"},{"filename":"src\/hotspot\/share\/runtime\/crac_engine.hpp"},{"filename":"test\/jdk\/jdk\/crac\/CracEngineOptionsTest.java"}],"sha":"a362288684be3c17913c36686c40e478f70f576a"}]
