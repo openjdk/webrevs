@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -166,0 +166,2 @@\n+                \/\/ Use an anonymous class instead of a lambda to enable early\n+                \/\/ use in the init sequence.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
