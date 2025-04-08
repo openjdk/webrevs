@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1860,1 +1860,1 @@\n-  if (has_loops()) {\n+  if (has_loops() || _loop_opts_cnt > 0) {\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
