@@ -1,0 +1,1 @@
+[{"commit":{"message":"add tests"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestBasicFunctionality.java"}],"sha":"61ee5eb4e648b0647f1f25046b28bd79906daaae"},{"commit":{"message":"fold strict final field loads"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"}],"sha":"41f782cc4ac293f0bd086a0eae602229c491c31d"}]
