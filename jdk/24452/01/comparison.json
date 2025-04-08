@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -999,1 +999,2 @@\n-      $$(JTREG_JAVA) $$($1_JTREG_LAUNCHER_OPTIONS) \\\n+      cd $$($1_TEST_SUPPORT_DIR) && $$(JTREG_JAVA) \\\n+          $$($1_JTREG_LAUNCHER_OPTIONS) \\\n","filename":"make\/RunTests.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
