@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -154,0 +154,1 @@\n+        # Disable SSE for 32-bit Windows on JAVA platform\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/cmake\/WebKitCompilerFlags.cmake","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
