@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -997,2 +997,2 @@\n-                f.prev = null;\n-                f.next = null;\n+                f.prev = f;\n+                f.next = f;\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/LinkedBlockingDeque.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

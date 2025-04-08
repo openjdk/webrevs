@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added self-link to nodes during clear(), to make weakly-consistent iteration consistent with other linked data structures."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/LinkedBlockingDeque.java"}],"sha":"1a59759af583ce9e686094bdc9282de408459dcb"}]
