@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -308,1 +308,1 @@\n-  int length = LP64_ONLY(m.array_length()) NOT_LP64(ary.length());\n+  int length = LP64_ONLY(m.array_length()) NOT_LP64(ary->length());\n","filename":"src\/hotspot\/share\/oops\/arrayKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
