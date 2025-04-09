@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add new tanh micro-benchmark that covers different ranges of input values"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_tanh.cpp"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/Math.java"}],"sha":"4a9ad41acefcaeb2962c9f2c06a35fbc215c9347"}]
