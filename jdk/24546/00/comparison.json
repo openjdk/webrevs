@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,0 +55,3 @@\n+                if (length < 0) {\n+                    throw new OutOfMemoryError(\"Total length of constants is out of range\");\n+                }\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringConcatHelper.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
