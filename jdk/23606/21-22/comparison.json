@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,4 @@\n+    \/**\n+     * {@link #prepareTestProfile(String, boolean, int)}\n+     * stores the profile to test in testProfile.\n+     *\/\n","filename":"test\/jdk\/java\/awt\/color\/ICC_Profile\/BuiltInProfileCheck\/BuiltInProfileCheck.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
