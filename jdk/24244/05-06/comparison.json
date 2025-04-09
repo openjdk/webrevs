@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1534,1 +1534,1 @@\n-  assert(_image_release_file_content == nullptr, \"release file content must not be already set\")\n+  assert(_image_release_file_content == nullptr, \"release file content must not be already set\");\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
