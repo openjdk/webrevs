@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -432,0 +432,1 @@\n+  assert(n->is_CastLL(), \"must be a CastLL\");\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
