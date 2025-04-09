@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -392,0 +392,2 @@\n+         * Additionally, the JDK built-in implementation currently only supports HTTP\n+         * {@code Basic} authentication.\n","filename":"src\/java.net.http\/share\/classes\/java\/net\/http\/HttpClient.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
