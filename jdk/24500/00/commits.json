@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed JavaDoc mistake - Iterator.remove() runs in constant time in the doubly-linked LBD"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/LinkedBlockingDeque.java"}],"sha":"917c851a68e7cc52c153c0de5030cd65dc8397c9"}]
