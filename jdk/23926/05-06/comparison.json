@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -159,1 +159,1 @@\n-                      k->is_hidden() ? \"Hidden\" : \"AOT tooling\");\n+                      k->is_hidden() ? \"Unreferenced hidden\" : \"AOT tooling\");\n","filename":"src\/hotspot\/share\/cds\/aotArtifactFinder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
