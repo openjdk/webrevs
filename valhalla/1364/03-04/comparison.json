@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,0 @@\n-import jdk.internal.vm.annotation.ImplicitlyConstructible;\n@@ -49,1 +48,0 @@\n-    @ImplicitlyConstructible\n@@ -57,0 +55,1 @@\n+            super();\n","filename":"test\/jdk\/valhalla\/valuetypes\/LayoutIterationTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
