@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: 1) added an assert for ClassLoad events same as for ClassPrepare; 2) added one minor comment"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"342e8a78d4b7016e28e766481791aaa60407d20d"}]
