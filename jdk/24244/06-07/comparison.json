@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1576,0 +1576,2 @@\n+  } else {\n+    st->print_cr(\"<release file has not been read>\");\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
