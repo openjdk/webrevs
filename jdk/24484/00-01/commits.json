@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also purge vestigial calls to VMVersion::supports_sse{2}"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"}],"sha":"7f5051378edd83495ab236632370ecec76f8f860"}]
