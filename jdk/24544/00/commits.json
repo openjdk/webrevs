@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8334046: Set different values for CompLevel_any and CompLevel_all\""},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/whitebox\/CompilerWhiteBoxTest.java"},{"filename":"test\/lib\/jdk\/test\/whitebox\/WhiteBox.java"}],"sha":"d17be75707d4d275f58d174709690f55e2eeb7bb"}]
