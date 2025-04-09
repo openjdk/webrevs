@@ -1,0 +1,1 @@
+[{"commit":{"message":"8354145: G1GC: keep the CompressedOops same as before when not setting HeapRegionSize explicitly"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1Arguments.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1HeapRegion.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1HeapRegion.hpp"}],"sha":"6b13908565c051f25603ebc700aaf784cc31415f"}]
