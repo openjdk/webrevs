@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -457,0 +457,2 @@\n+#if INCLUDE_JVMTI\n+\n@@ -474,0 +476,1 @@\n+#endif \/\/ INCLUDE_JVMTI\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
