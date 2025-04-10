@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-        list.add(\"[--xml|--json][--exact]\");\n+        list.add(\"[--xml|--json|--exact]\");\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/tool\/Print.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
