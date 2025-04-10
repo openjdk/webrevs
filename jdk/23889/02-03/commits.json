@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add new tanh micro-benchmark that covers different ranges of input values"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Math.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/MathBench.java"}],"sha":"4fd92c0ed52daf357c76ca165eaedfc0cf8d7c8c"}]
