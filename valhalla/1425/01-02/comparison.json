@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,0 +63,1 @@\n+ * <li>Working as expected.\n@@ -92,3 +93,0 @@\n- * <p>\n- * By default, usage of all methods in this class exhibits undefined behavior,\n- * unless otherwise explicitly specified.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
