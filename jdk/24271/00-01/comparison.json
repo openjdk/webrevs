@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -347,1 +347,1 @@\n-        if (curCode != 4095) {\n+            if (curCode != 4095) {\n","filename":"src\/java.desktop\/share\/native\/libawt\/awt\/image\/gif\/gifdecoder.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
