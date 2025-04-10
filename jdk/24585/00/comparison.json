@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -228,1 +228,1 @@\n-    character. Alternatively, it can be enclosed between \"${\" and \"}\"\n+    character. Alternatively, it can be enclosed between \"\\${\" and \"}\"\n","filename":"src\/jdk.jpackage\/share\/man\/jpackage.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
