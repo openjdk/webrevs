@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -184,1 +184,1 @@\n-            deferred.sort(order);\n+            deferred.sort(order);   \/\/ ok to sort in place: reportDeferredDiagnostics() is going to discard it\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/util\/Log.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
