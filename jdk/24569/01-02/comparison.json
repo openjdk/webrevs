@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,0 +47,2 @@\n+    \n+    \/\/ Map of permitted pseudo headers in requests and responses\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/common\/ValidatingHeadersConsumer.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
