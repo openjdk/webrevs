@@ -1,0 +1,1 @@
+[{"commit":{"message":"returns invalid SummaryDiff, instead of assert."},"files":[{"filename":"src\/hotspot\/share\/nmt\/vmatree.cpp"},{"filename":"src\/hotspot\/share\/nmt\/vmatree.hpp"},{"filename":"test\/hotspot\/gtest\/nmt\/test_vmatree.cpp"}],"sha":"7538792c4c91ffd24f40662426cc966cd340a6ea"}]
