@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -528,1 +528,1 @@\n-      return Multiplication{true, rhs.variable, java_add(lhs.multiplier, (jlong) 1)};\n+      return Multiplication{true, rhs.variable, java_add(rhs.multiplier, (jlong) 1)};\n","filename":"src\/hotspot\/share\/opto\/addnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
