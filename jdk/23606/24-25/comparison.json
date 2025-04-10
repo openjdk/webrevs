@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,1 +113,1 @@\n-     * This check is used in {@link #setData(int, byte[])} to prevent modifying\n+     * This flag is used in {@link #setData(int, byte[])} to prevent modifying\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/color\/ICC_Profile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
