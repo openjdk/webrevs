@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -724,1 +724,1 @@\n-      $1_CFLAGS_CPU_JVM=\"-minsert-sched-nops=regroup_exact -mno-multiple -mno-string\"\n+      $1_CFLAGS_CPU_JVM=\"-mno-multiple -mno-string\"\n","filename":"make\/autoconf\/flags-cflags.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
