@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-    \/\/ TODO: uncomment once Float16 support lands in aarch64\n+    \/\/ TODO: uncomment once Float16 support lands in aarch64 with JDK-8345125\n","filename":"test\/hotspot\/jtreg\/compiler\/floatingpoint\/TestSubNodeFloatDoubleNegation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
