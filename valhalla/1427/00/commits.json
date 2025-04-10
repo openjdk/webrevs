@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update JNI methods to support new layouts"},"files":[{"filename":"src\/hotspot\/share\/prims\/jni.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/InlineWithJni.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/libInlineWithJni.c"}],"sha":"cb1281fc1dda1519eefe7ef247d616ec09098efa"}]
