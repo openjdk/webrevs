@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352728: InternalError loading java.security due to Windows parent folder permissions"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/security\/Security.java"},{"filename":"test\/jdk\/java\/security\/Security\/ConfigFileTestDirPermissions.java"}],"sha":"308479dd767e162e0d8e16018cf19563ff9b6203"}]
