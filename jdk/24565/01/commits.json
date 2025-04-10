@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into jdk-8353730-fp16"},"files":[],"sha":"5eaedf2b4b1bd4276c930a41b3038a099972f710"},{"commit":{"message":"Fix float16 double negation test"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/floatingpoint\/TestSubNodeFloatDoubleNegation.java"}],"sha":"38de7c7a75588a8db9666ac22ccc250fa19fafcc"}]
