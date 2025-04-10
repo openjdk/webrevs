@@ -1,0 +1,1 @@
+[{"commit":{"message":"update comments"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"}],"sha":"c0172410db485683ecb55f50070af078afbd820d"},{"commit":{"message":"use java_add to avoid cpp overflow UB"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"}],"sha":"562c320c04cc6f106725a716780477c15bc8afff"}]
