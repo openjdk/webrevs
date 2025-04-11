@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -327,1 +327,1 @@\n-  size_t total_live_data;\n+  size_t total_live_data = 0;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahOldHeuristics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
