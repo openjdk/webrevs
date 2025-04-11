@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -340,2 +340,1 @@\n-        reg_save_index += 2;\n-        align_up(reg_save_index, 2);\n+        reg_save_index += (2 + (reg_save_index & 1)); \/\/ 2 slots + alignment if needed\n","filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetAssembler_ppc.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
