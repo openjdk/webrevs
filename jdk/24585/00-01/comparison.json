@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,1 +239,1 @@\n-    Prefix the dollar sign character with the backslash character (\\)\n+    Prefix the dollar sign character with the backslash character (\\\\)\n","filename":"src\/jdk.jpackage\/share\/man\/jpackage.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
