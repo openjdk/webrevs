@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8354234: Remove friends for ObjectMonitor\"\n\nThis reverts commit 36069f6efac4fd02393d28f190ab2ab92b113fd3."},"files":[{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.hpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"91a9e39162a7090d110f1ec32609030f8b9fa0b1"}]
