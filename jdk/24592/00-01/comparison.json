@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -617,1 +617,1 @@\n-    @Deprecated(since=\"25\")\n+    @Deprecated(since = \"25\")\n","filename":"src\/java.base\/share\/classes\/java\/net\/HttpURLConnection.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
