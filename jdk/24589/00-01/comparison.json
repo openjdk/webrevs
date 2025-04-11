@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1011,1 +1011,1 @@\n-  \/\/ Each partition must have at least size total vmems available when priming.\n+  \/\/ The partition must have size available in virtual memory when priming.\n","filename":"src\/hotspot\/share\/gc\/z\/zPageAllocator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
