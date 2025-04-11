@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -416,0 +416,1 @@\n+          # Skip \"chmod\" task for GHA builds. See JDK-8354337 for details.\n","filename":".github\/workflows\/submit.yml","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
