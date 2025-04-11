@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8024521\n+ * @bug 8024521 8315721\n@@ -30,0 +30,2 @@\n+ * @comment Don't allow -Xcomp, it disturbs the timing\n+ * @requires (vm.compMode != \"Xcomp\")\n","filename":"test\/jdk\/java\/lang\/ProcessBuilder\/CloseRace.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
