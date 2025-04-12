@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into 8352001-exclude-injected-classes-from-builtin-loaders"},"files":[],"sha":"23327c27b70d64d29e26192f94b04f6d266b042d"},{"commit":{"message":"8352001: AOT cache should not contain classes injected into built-in class loaders"},"files":[],"sha":"b5c177ee03ef38986021988db34eb775d588a415"}]
