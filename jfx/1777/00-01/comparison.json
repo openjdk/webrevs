@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,0 @@\n-                stage.stageListener.changedIconified(false);\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/GlassWindowEventHandler.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
