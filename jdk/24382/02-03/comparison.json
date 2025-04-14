@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2024,1 +2024,1 @@\n-const Type* reverse_bytes(int opcode, const Type* con) {\n+static const Type* reverse_bytes(int opcode, const Type* con) {\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
