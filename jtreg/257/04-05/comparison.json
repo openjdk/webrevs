@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,2 +37,2 @@\n-\t\t\t> $(@:%.ok=%\/jt.log); \\\n-\t\tls $(BUILDTESTDIR)\n+\t\t\t> $(@:%.ok=%\/jt.log) 2>&1 || \\\n+\t\ttrue \"non-zero exit code from JavaTest intentionally ignored\"\n","filename":"test\/smartActionArgs\/SmartActionArgs.gmk","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
