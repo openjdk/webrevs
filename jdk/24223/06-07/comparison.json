@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,3 +24,0 @@\n-import java.nio.file.Files;\n-import java.nio.file.Path;\n-\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/customLoader\/ClassFromClasspath.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
