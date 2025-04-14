@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify as suggested in review comments\nConvert static methods to instance methods and invoke on the existing FilePermission."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/FilePermission.java"},{"filename":"test\/jdk\/java\/io\/FilePermission\/FilePermissionCollectionMerge.java"}],"sha":"56680c47c5994212bbdcb564481ae601b1564ac8"}]
