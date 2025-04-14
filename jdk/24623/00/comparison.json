@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -406,1 +406,1 @@\n-      Node* neg_c0 = phase->longcon(-c0);\n+      Node* neg_c0 = phase->longcon(java_negate(c0));\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
