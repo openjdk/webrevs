@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @summary Verify that the flag TestG1CompressedOops is updated properly\n+ * @summary Verify that the flag UseCompressedOops is updated properly\n","filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestG1CompressedOops.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
