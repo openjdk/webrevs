@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Include JDK-8340024\"\n\nThis reverts commit 7c68ee965177f001b66b82bb811226b39f5056c0."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"}],"sha":"4069cb8bb4f11d1442608252de1d55d4622f9fd6"}]
