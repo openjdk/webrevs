@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5621,1 +5621,1 @@\n-  vblendvps(dst, dst, xtmp, permv, vec_enc, false, permv);\n+  vblendvps(dst, dst, xtmp, permv, vec_enc, true, permv);\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
