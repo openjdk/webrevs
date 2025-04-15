@@ -1,0 +1,1 @@
+[{"commit":{"message":"8354576: InetAddress.getLocalHost() on macos may return address of an interface which is not UP - leading to \"Network is down\" error"},"files":[{"filename":"src\/java.base\/unix\/native\/libnet\/Inet6AddressImpl.c"}],"sha":"1906a77bede053a7f06b572347df328635ac044d"}]
