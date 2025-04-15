@@ -1,0 +1,1 @@
+[{"commit":{"message":"8322706: AnnotationTypeMismatchException in javac with annotation processing"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Annotate.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/TestAnnotationValuesResolved.java"}],"sha":"5fea505c1c546615e52383e1f59b28d403ebf9db"}]
