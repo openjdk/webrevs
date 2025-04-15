@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run junit ClassFileInMetaInfo\n+ * @run junit\/othervm ClassFileInMetaInfo\n@@ -120,1 +120,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/jdk\/tools\/jlink\/ClassFileInMetaInfo.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
