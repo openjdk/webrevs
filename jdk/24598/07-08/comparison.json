@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,2 +80,0 @@\n-            } catch (NoSuchFieldException e) {\n-                throw new RuntimeException(e);\n","filename":"test\/jdk\/java\/text\/Format\/DecimalFormat\/CloneTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
