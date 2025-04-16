@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Optimize zbb rol\/ror iRegI to iRegIorL2I\n\noptimize rol\/ror iRegI\nmodify some comments"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_b.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"7fbdf445485f57e33bf6ec0c008769b66928d2fb"}]
