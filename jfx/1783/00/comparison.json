@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3085,3 +3085,1 @@\n-        \/\/enabled = IS_FULL_TEST && IS_SWT_TEST\n-        enabled = false \/\/ FIXME: JIGSAW -- support this with modules\n-        logger.info(\"JIGSAW Testing disabled for swt\")\n+        enabled = IS_SWT_TEST\n","filename":"build.gradle","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
