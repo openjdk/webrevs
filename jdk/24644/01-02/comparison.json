@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -576,1 +576,1 @@\n-    assert(VM_Version::supports_avxifma(), \"Require AVXIFMA support\");\n+    assert(VM_Version::supports_avxifma(), \"Require AVX_IFMA support\");\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_poly_mont.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
