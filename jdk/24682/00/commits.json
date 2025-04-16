@@ -1,0 +1,1 @@
+[{"commit":{"message":"Exponentially delay native thread creation retries"},"files":[{"filename":"src\/hotspot\/os\/aix\/os_aix.cpp"},{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"d3051d54532808d47b48a5275a64bffe4e9923ce"}]
