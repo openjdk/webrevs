@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3085,1 +3085,1 @@\n-        enabled = IS_SWT_TEST\n+        enabled = IS_FULL_TEST && IS_SWT_TEST\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
