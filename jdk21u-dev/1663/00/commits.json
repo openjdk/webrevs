@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338236: Compile error in cgroup code on Linux when using clang\n\nReviewed-by: mdoerr, sgehwolf"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupV1Subsystem_linux.hpp"},{"filename":"src\/hotspot\/os\/linux\/cgroupV2Subsystem_linux.hpp"}],"sha":"c952f4de1ff20c4c9d627e9cdc55f2c575d29a1c"}]
