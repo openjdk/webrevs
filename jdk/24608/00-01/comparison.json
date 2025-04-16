@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,0 +132,1 @@\n+\/\/ This issue has been fixed, with the fix probably appearing in clang 21.\n","filename":"src\/hotspot\/share\/utilities\/compilerWarnings_gcc.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
