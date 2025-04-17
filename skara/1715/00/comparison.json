@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-    runs-on: \"ubuntu-20.04\"\n+    runs-on: \"ubuntu-22.04\"\n","filename":".github\/workflows\/ci.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
