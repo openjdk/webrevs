@@ -1,0 +1,1 @@
+[{"commit":{"message":"Undo the special workaround for JSSE in PKCS11 HKDF impl."},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/P11HKDF.java"},{"filename":"test\/jdk\/sun\/security\/pkcs11\/KDF\/TestHKDF.java"}],"sha":"38b2da73de25ae78d1d538a2a25c8a9b6ae356da"}]
