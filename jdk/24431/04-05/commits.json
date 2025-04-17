@@ -1,0 +1,1 @@
+[{"commit":{"message":"RRM refactorted to use a unified evex_ndd_and_int8 function"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"}],"sha":"3b5d9856d5c8ebd87987b67e1e1859c8136848c7"}]
