@@ -1,0 +1,1 @@
+[{"commit":{"message":"Applied changes requested by Chen and Jaikiran: Unit tests for default implementation of CharSequence.getChars() and for CharBuffer.getChars()"},"files":[{"filename":"test\/jdk\/java\/lang\/CharSequence\/GetChars.java"},{"filename":"test\/jdk\/java\/nio\/CharBuffer\/GetChars.java"}],"sha":"884e7dc14c25b47ff6e5056fb663cfccf17f243e"}]
