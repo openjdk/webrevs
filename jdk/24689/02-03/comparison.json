@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,2 @@\n-  _tracker.initialize(tracking_level == NMT_TrackingLevel::NMT_detail);\n+  bool is_detailed_mode = tracking_level == NMT_TrackingLevel::NMT_detail;\n+  _tracker.initialize(is_detailed_mode);\n","filename":"src\/hotspot\/share\/nmt\/memoryFileTracker.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
