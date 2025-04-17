@@ -1,0 +1,1 @@
+[{"commit":{"message":"8354453: Don't strcpy in os::strdup, use memcpy instead"},"files":[{"filename":"src\/hotspot\/share\/runtime\/os.cpp"}],"sha":"5e3e71deb9cc216a093cc0e1518915188025f991"}]
