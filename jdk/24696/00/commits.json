@@ -1,0 +1,1 @@
+[{"commit":{"message":"8332368: ubsan aarch64: immediate_aarch64.cpp:298:31: runtime error: shift exponent 32 is too large for 32-bit type 'int'"},"files":[{"filename":"src\/hotspot\/share\/adlc\/output_h.cpp"}],"sha":"bcc0d12f686b9777f8b4a2b4a5787e60a4d92190"}]
