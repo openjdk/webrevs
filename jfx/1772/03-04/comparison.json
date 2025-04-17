@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-        Boolean equalValue = false;\n+        boolean equalValue = false;\n@@ -136,1 +136,1 @@\n-        }    \n+        }\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/MouseLocationOnScreenTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
