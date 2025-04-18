@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8230016: re-visit test sun\/security\/pkcs11\/Serialize\/SerializeProvider.java\n\ntest is fixed, provider is now added to the Security before the test"},"files":[{"filename":"test\/jdk\/sun\/security\/pkcs11\/Serialize\/SerializeProvider.java"}],"sha":"f0308bb152587cc91394bea009e8849fe18dc91c"}]
