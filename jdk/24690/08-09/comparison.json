@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1965,1 +1965,1 @@\n-            r = new MutableBigInteger(new BigDecimal(rDouble).toBigInteger().mag);\n+            r.copyValue(new BigDecimal(rDouble).toBigInteger().mag);\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
