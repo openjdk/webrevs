@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -138,7 +138,0 @@\n-struct AOTCodeSection {\n-public:\n-  address _origin_address;\n-  uint    _size;\n-  uint    _offset;\n-};\n-\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp","additions":0,"deletions":7,"binary":false,"changes":7,"status":"modified"}]}
