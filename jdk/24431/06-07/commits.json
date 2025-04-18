@@ -1,0 +1,1 @@
+[{"commit":{"message":"refactor imul instructions to fold demotion logic inside"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.hpp"}],"sha":"1fa0fbe4576f42af56232097d5c8469a8db70c9f"}]
