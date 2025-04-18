@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,0 @@\n-            t.printStackTrace();\n@@ -134,1 +133,0 @@\n-            t.printStackTrace();\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/JVMUpcalls.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
