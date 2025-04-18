@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-        Frame f = new Frame();\n+        Frame f = new Frame(\"File Dialog Owner\");\n","filename":"test\/jdk\/java\/awt\/event\/MouseWheelEvent\/HWWheelScroll.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
