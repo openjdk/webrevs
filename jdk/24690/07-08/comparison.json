@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1968,1 +1968,1 @@\n-            r.leftShift((int) (shift \/ n));\n+            r.safeLeftShift((int) (shift \/ n));\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
