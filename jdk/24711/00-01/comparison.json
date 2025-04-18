@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+ * @summary Test AOT cache support for array classes in custom class loaders.\n@@ -70,0 +71,2 @@\n+\n+        \/\/ TODO: more test cases JDK-8354557\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/AOTCacheSupportForCustomLoaders.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
