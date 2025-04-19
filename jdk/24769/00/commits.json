@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355065: ConcurrentModificationException in RichDiagnosticFormatter"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/util\/RichDiagnosticFormatter.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/typeAnnotations\/RichFormatterWithTypeAnnotationsTest.java"}],"sha":"f9eaa00c47c02eca862cd3266b94286adce5bc73"}]
