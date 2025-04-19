@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,1 +130,1 @@\n-      \/\/ obj is null, not need to handle, but CheckUnhandledOops not aware about null\n+      \/\/ obj is null, no need to handle, but CheckUnhandledOops is not aware about null\n","filename":"src\/hotspot\/share\/gc\/shared\/memAllocator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
