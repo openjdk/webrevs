@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -172,1 +172,1 @@\n-        long valBits = Double.doubleToLongBits(val);\n+        long valBits = Double.doubleToRawLongBits(val);\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
