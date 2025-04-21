@@ -1,0 +1,1 @@
+[{"commit":{"message":"Detect recursion in RichDiagnosticFormatter#format\n\nThe class is not designed to be re-entered, and will produce incorrect\nresults if that happens."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/util\/RichDiagnosticFormatter.java"}],"sha":"1a1ff0bfd640240a78039008ed2b29e0ddce0699"}]
