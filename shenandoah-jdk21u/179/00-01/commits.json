@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'shenandoah-jdk21u-master' into backport-shenandoah-jdk21u-8350898"},"files":[],"sha":"a8d6e1331409ec324d777088c29843e219be5df4"},{"commit":{"message":"8350898: Shenandoah: Eliminate final roots safepoint\n\nReviewed-by: rkennke, kdnilsen, cslucas"},"files":[],"sha":"fd062d269ba07721a67fff72463362d2c61ee244"}]
