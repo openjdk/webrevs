@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,2 +54,2 @@\n-    private static JEditorPane editor;\n-    private static JLabel dragSource;\n+    private static volatile JEditorPane editor;\n+    private static volatile JLabel dragSource;\n","filename":"test\/jdk\/javax\/swing\/DataTransfer\/bug4655513.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
