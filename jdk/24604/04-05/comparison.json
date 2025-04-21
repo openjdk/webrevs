@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-                Arguments.of(\"directory\", flatDir, \"one\/One.class\"),\n+                Arguments.of(\"directory\", flatDir, \"One.class\"),\n","filename":"test\/langtools\/tools\/jdeps\/MalformedClassesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
