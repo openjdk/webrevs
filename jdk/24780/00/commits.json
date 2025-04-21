@@ -1,0 +1,1 @@
+[{"commit":{"message":"8354484: SIGSEGV when supertype of an AOT-cached class is excluded"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotArtifactFinder.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotArtifactFinder.hpp"}],"sha":"7d48d14186820a10a683cd38bab8007353a783c6"}]
