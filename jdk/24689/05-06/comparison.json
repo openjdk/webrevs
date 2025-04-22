@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-    new (const_cast<NCVP>(_t)) T(args...);\n+    new (const_cast<NCVP>(ptr())) T(args...);\n","filename":"src\/hotspot\/share\/utilities\/stableValue.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
