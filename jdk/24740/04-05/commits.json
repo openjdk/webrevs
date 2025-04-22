@@ -1,0 +1,1 @@
+[{"commit":{"message":"Generate far jumps for AOT code on AArch64"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp"}],"sha":"32b997d727b54f45efabfe86f8045da72830bca9"}]
