@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,0 +83,1 @@\n+        jleft.setPreferredSize(new Dimension(100, 100));\n@@ -85,0 +86,2 @@\n+        jleft.setPreferredSize(new Dimension(100, 100));\n+\n","filename":"test\/jdk\/javax\/swing\/JSplitPane\/bug4820080.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
