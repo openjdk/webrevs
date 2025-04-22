@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4613,1 +4613,1 @@\n-          assert(in_hash, \"node should be in igvn hash table\");\n+          assert(in_hash || n->hash() == Node::NO_HASH, \"node should be in igvn hash table\");\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
