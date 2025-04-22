@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,3 +71,1 @@\n-            null;\n-        if (systemRoot == null || ! systemRoot.isDirectory())\n-            return; \/\/ Not Windows as we know it\n+            \"\";\n","filename":"test\/hotspot\/jtreg\/runtime\/os\/windows\/TestAvailableProcessors.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
