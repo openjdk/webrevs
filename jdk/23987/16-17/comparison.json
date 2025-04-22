@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,1 +256,3 @@\n-  RegisterSaver_LiveVSReg( VSR61 )\n+  RegisterSaver_LiveVSReg( VSR61 ),\n+  RegisterSaver_LiveVSReg( VSR62 ),\n+  RegisterSaver_LiveVSReg( VSR63 )\n","filename":"src\/hotspot\/cpu\/ppc\/sharedRuntime_ppc.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
