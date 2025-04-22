@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -135,1 +135,1 @@\n-        NativeLibraries libs = jdk.internal.loader.NativeLibraries.newInstance(null);\n+        NativeLibraries libs = NativeLibraries.newInstance(null);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/SystemLookup.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
