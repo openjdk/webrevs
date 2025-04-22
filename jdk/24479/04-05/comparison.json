@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2826,1 +2826,1 @@\n-     * up to and including {@link CompilePhase#AFTER_LOOP_OPTS}\n+     * up to and including {@link CompilePhase#AFTER_LOOP_OPTS}.\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
