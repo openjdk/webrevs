@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -277,1 +277,0 @@\n-                rtl.setVisible(false);\n@@ -280,0 +279,3 @@\n+            } finally {\n+                rtl.setVisible(false);\n+                rtl.dispose();\n","filename":"test\/jdk\/javax\/swing\/JScrollPane\/AcceleratedWheelScrolling\/RTLScrollers.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
