@@ -1,0 +1,1 @@
+[{"commit":{"message":"Apply review comments\n\nCo-authored-by: Christian Hagedorn <christian.hagedorn@oracle.com>"},"files":[{"filename":"src\/hotspot\/share\/opto\/predicates.cpp"},{"filename":"src\/hotspot\/share\/opto\/predicates.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestUnswitchPredicateCloning.java"}],"sha":"d50f5ac9a27a4881ff0bea8011c32a80404edf4e"}]
