@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,0 +92,2 @@\n+      case Op_StoreVectorScatter:\n+      case Op_StoreVectorScatterMasked:\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
