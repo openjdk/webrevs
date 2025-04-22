@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'lworld' into fixatomicstore"},"files":[{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"}],"sha":"890ca95177e6d8ef0dc0f1e783483f88b3b77441"},{"commit":{"message":"Atomic flat store needs a preceding barrier"},"files":[{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"}],"sha":"f823ae7ef1f5e29ac13280c417535c103e398798"}]
