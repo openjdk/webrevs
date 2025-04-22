@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,1 +137,1 @@\n-        phase = CompilePhase.BEFORE_LOOP_PREDICATION_IC)\n+        phase = CompilePhase.PHASEIDEALLOOP2)\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestUnswitchPredicateCloning.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
