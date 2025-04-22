@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1178,1 +1178,1 @@\n-    fatal(\"Incorrect id %d for SCA table\", id);\n+    fatal(\"Incorrect id %d for AOT Code Cache addresses table\", id);\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
