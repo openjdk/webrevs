@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -822,1 +822,1 @@\n-    \/*if (C->live_nodes() + NodeLimitFudgeFactor > C->max_node_limit()) {\n+    if (C->live_nodes() + NodeLimitFudgeFactor > C->max_node_limit()) {\n@@ -830,1 +830,1 @@\n-    }*\/\n+    }\n","filename":"src\/hotspot\/share\/opto\/macro.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
