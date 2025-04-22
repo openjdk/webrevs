@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+import java.awt.Robot;\n@@ -35,1 +36,0 @@\n-import java.awt.Robot;\n","filename":"test\/jdk\/javax\/swing\/JScrollBar\/4865918\/bug4865918.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
