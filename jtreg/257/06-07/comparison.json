@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1191,1 +1191,1 @@\n-        if (fileNameLength <= 5 && !fileName.endsWith(\".java\")) {\n+        if (fileNameLength <= 5 || !fileName.endsWith(\".java\")) {\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/RegressionScript.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
