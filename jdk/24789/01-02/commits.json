@@ -1,0 +1,1 @@
+[{"commit":{"message":"Updated tier1_runtime_appcds to include HelloAOTCache.java (and removed unnecessary tests)"},"files":[{"filename":"test\/hotspot\/jtreg\/TEST.groups"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/HelloAOTCache.java"}],"sha":"22b9e306c189123d5769b48b121855d737243708"}]
