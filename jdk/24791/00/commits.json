@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use powershell instead of wmic"},"files":[{"filename":"make\/RunTestsPrebuilt.gmk"},{"filename":"make\/autoconf\/build-performance.m4"},{"filename":"test\/failure_handler\/src\/share\/conf\/windows.properties"},{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/WindowsHelper.java"}],"sha":"36e466d2d1e31b2119a220c436f9ffbcd0ed1084"}]
