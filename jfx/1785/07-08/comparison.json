@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -322,1 +322,1 @@\n-#define LIBXML_MODULE_EXTENSION \".so\n+#define LIBXML_MODULE_EXTENSION \".so\"\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/ThirdParty\/libxml\/linux\/include\/libxml\/xmlversion.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
