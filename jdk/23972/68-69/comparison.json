@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1629,1 +1629,1 @@\n-                        return (StableValueImpl<V>[]) new StableValueImpl[len];\n+                        return (StableValueImpl<V>[]) new StableValueImpl<?>[len];\n","filename":"src\/java.base\/share\/classes\/java\/util\/ImmutableCollections.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
