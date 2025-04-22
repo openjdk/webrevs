@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -617,3 +617,1 @@\n-    char lgrp_message[128];\n-    snprintf(lgrp_message, ARRAY_SIZE(lgrp_message), \"lgrp %u \", ls->lgrp_id());\n-\n+    FormatBuffer<128> lgrp_message(\"lgrp %u \", ls->lgrp_id());\n","filename":"src\/hotspot\/share\/gc\/parallel\/mutableNUMASpace.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
