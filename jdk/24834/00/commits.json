@@ -1,0 +1,1 @@
+[{"commit":{"message":"Notify gc waiter and alloc failure waiters when a gc completes successfully"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"}],"sha":"689d7665d5caa2f6f136f460240dc006e69ff049"}]
