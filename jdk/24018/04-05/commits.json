@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow UMH::_method access from VMStructs"},"files":[{"filename":"src\/hotspot\/share\/runtime\/unloadableMethodHandle.hpp"},{"filename":"src\/hotspot\/share\/runtime\/vmStructs.cpp"}],"sha":"91d38ff14e97698b3fc8c79007626831925736a6"}]
