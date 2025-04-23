@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-        Util.sleep(500);\n+        Util.sleep(1000);\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/stage\/SizingTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
