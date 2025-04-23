@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+import java.lang.invoke.VarHandle;\n@@ -180,0 +181,2 @@\n+            \/\/ Needed to ensure safe publication of setMap()\n+            VarHandle.releaseFence();\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ConcurrentSkipListSet.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
