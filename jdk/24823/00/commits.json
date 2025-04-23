@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8277424: javax\/net\/ssl\/TLSCommon\/TLSTest.java fails with connection refused\n\n* Increased stability wiht specifically binding the client to the loopback address\n* Added additional debug logging"},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/TLSCommon\/TLSTest.java"}],"sha":"a00505caa9e52fc64b6a4e09ff969f1e1daab937"}]
