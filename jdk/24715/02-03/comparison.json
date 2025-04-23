@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,1 +300,1 @@\n-\/\/ for timer info max values which include all bits, was CONST64(0x7fffffffffffffff);\n+\/\/ for timer info max values which include all bits, 0xffffffffffffffff\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
