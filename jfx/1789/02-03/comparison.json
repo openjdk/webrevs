@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,5 @@\n-    gtk_window_fullscreen(window);\n+\n+    \/\/ might have been destroyed\n+    if (GTK_IS_WINDOW(window)) {\n+        gtk_window_fullscreen(window);\n+    }\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
