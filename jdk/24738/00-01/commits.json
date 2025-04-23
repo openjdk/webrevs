@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update sun.stdout\/err.encoding comments; tweak Windows file handle variable name."},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/SystemProps.java"},{"filename":"src\/java.base\/windows\/native\/libjava\/java_props_md.c"}],"sha":"5357e50485c40c7401f83e02ec45675cc98a3798"}]
