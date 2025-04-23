@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -329,1 +329,1 @@\n-    if (k->is_instance_klass() && InstanceKlass::cast(k)->is_loaded() == false) {\n+    if (k->is_instance_klass() && !InstanceKlass::cast(k)->is_loaded()) {\n","filename":"src\/hotspot\/share\/oops\/methodData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
