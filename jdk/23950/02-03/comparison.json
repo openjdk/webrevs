@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-        __ clinit_barrier(method_holder, r15_thread, &L_ok);\n+        __ clinit_barrier(method_holder, &L_ok);\n","filename":"src\/hotspot\/cpu\/x86\/methodHandles_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
