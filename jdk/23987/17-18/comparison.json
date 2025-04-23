@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2019,0 +2019,2 @@\n+          \/\/ Other alignment can be used by Vector API (VectorPayload in rearrangeOp,\n+          \/\/ observed with VectorRearrangeTest.java on Power9).\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
