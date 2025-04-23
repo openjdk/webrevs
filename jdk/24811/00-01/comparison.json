@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -249,0 +249,2 @@\n+        \/\/ setupBreakpointForCommunication() defaults to SUSPEND_EVENT_THREAD. We need\n+        \/\/ to change this to SUSPEND_ALL.\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/EventRequest\/disable\/disable001.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
