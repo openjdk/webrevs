@@ -1,0 +1,1 @@
+[{"commit":{"message":"8354724: Fix readAllChars gaffe in Reader returned by Readed.of and account for it in test"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/Reader.java"},{"filename":"test\/jdk\/java\/io\/BufferedReader\/ReadAll.java"}],"sha":"dc84bd1b2d447ee14c111dff24e1152bfa6e1bd7"}]
