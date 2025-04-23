@@ -1,0 +1,1 @@
+[{"commit":{"message":"8297727: Forcing LF interpretation lead to StackOverflowError in reflection code"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/DirectMethodHandle.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/LFInterpret\/ReflectionInInterpretTest.java"}],"sha":"76f0e1b4207a16cdacbcc1ac3b09a490b921cf10"}]
