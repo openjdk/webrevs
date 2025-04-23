@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -564,1 +564,1 @@\n-  private static Method waitForReferenceProcessingMethod = null;\n+  private static volatile Method waitForReferenceProcessingMethod = null;\n","filename":"test\/lib\/jdk\/test\/whitebox\/WhiteBox.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
