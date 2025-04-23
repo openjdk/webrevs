@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -686,1 +686,1 @@\n-        printStackTrace(s);\n+        printStackTrace((Object) s);\n@@ -776,1 +776,1 @@\n-        printStackTrace(s);\n+        printStackTrace((Object) s);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Throwable.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
