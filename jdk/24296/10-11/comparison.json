@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,4 @@\n+  JFR_ONLY(static ByteSize last_sender_Java_fp_offset() {\n+    return byte_offset_of(JavaThread, _anchor) + JavaFrameAnchor::last_sender_Java_fp_offset();\n+  })\n+\n","filename":"src\/hotspot\/os_cpu\/windows_aarch64\/javaThread_windows_aarch64.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
