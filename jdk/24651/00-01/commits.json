@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'origin\/master' into JDK-8354453"},"files":[],"sha":"80f2a7eaa5ff1093a2fd45fd76376f1efac8726e"},{"commit":{"message":"8354453: Don't strcpy in os::strdup, use memcpy instead"},"files":[],"sha":"5e3e71deb9cc216a093cc0e1518915188025f991"}]
