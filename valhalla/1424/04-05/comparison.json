@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -276,1 +276,1 @@\n-  #ifdef ASSERT\n+#ifdef ASSERT\n@@ -280,1 +280,1 @@\n-  #endif\n+#endif\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
