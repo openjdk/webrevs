@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -312,0 +312,4 @@\n+            if (grow <= 0) {\n+                throw new IndexOutOfBoundsException();\n+            }\n+\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavadocTokenizer.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
