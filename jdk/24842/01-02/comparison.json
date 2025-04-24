@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-        URL url = new URI(\"file:\" + path.replace('\\\\', '\/')).toURL();\n+        URL url = new URI(\"file:\/\/\" + hostName + \"\/C$\/Windows\").toURL();\n","filename":"test\/jdk\/java\/net\/URLConnection\/UNCTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
