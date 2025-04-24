@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355366: Fix the wrong usage of PassFailJFrame.forcePass() in some manual tests"},"files":[{"filename":"test\/jdk\/java\/awt\/Desktop\/BrowseTest.java"},{"filename":"test\/jdk\/java\/awt\/Desktop\/EditAndPrintTest\/EditAndPrintTest.java"},{"filename":"test\/jdk\/java\/awt\/Desktop\/OpenTest.java"}],"sha":"959b4f7f53ea50f266da76c3747b9259b23c6c8e"}]
