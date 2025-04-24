@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @summary Run with -Xcomp to test -XX:+StressGCM -XX:VerifyConstraintCasts=1 in debug builds.\n+ * @summary Empty main program to run with flag VerifyConstraintCasts.\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestVerifyConstraintCasts.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
