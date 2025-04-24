@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -888,1 +888,1 @@\n-            public StableReverseOrderListView(List<E> base) {\n+            private StableReverseOrderListView(List<E> base) {\n","filename":"src\/java.base\/share\/classes\/java\/util\/ImmutableCollections.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
