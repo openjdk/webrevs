@@ -1,0 +1,1 @@
+[{"commit":{"message":"engineGetBlockSize and engineGetOutputSize returns 0 when not initialized"},"files":[{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/HPKE.java"},{"filename":"test\/jdk\/com\/sun\/crypto\/provider\/Cipher\/HPKE\/Compliance.java"}],"sha":"a4f59e388f951d84f8eb28048e3af04a53291806"}]
