@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355524: Only every second line in upgradable files is being read"},"files":[{"filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/LinkableRuntimeImage.java"},{"filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/runtimelink\/upgrade_files_java.base.conf"}],"sha":"80357e6894b50ca410313fc29caa8482aef507af"}]
