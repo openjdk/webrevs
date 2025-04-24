@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip explicit KeyPair initialization and let the provider default set it"},"files":[{"filename":"test\/jdk\/sun\/net\/www\/protocol\/https\/HttpsClient\/ServerIdentityTest.java"}],"sha":"e5e83514e3af4db23dde0143f109a111a090b7fd"}]
