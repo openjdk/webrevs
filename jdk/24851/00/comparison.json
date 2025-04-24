@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-  static size_t BUF_LENGTH = 32 + sizeof(u_longlong_t);\n+  const size_t BUF_LENGTH = 32 + sizeof(u_longlong_t);\n","filename":"src\/hotspot\/os\/aix\/os_perf_aix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
