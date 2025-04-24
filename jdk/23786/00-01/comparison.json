@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-Mutex* NMT_LogRecorder::_lock = nullptr;\n+Mutex* NMT_LogRecorder::_lock = new MutexLocker();\n","filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
