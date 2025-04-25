@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -23,1 +23,1 @@\n-package compiler.c2.irTests;\n+package compiler.c2.gvn;\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/ReverseBytesConstantsTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/ReverseBytesConstantsTests.java","status":"renamed"}]}
