@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,5 @@\n-import java.io.*;\n+import java.io.File;\n+import java.io.FileOutputStream;\n+import java.io.IOException;\n+import java.io.OutputStream;\n+\n","filename":"test\/jdk\/java\/io\/pathNames\/win32\/SJIS.java","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
