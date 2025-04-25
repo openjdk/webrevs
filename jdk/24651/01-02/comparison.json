@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -599,2 +599,1 @@\n-  memcpy(dup_str, str, size);\n-  *(dup_str + size) = '\\0';\n+  memcpy(dup_str, str, size + 1);\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
