@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -377,1 +377,1 @@\n-#ifdef COMPILER2\n+#ifdef COMPILER1\n","filename":"src\/hotspot\/share\/compiler\/compilationMemoryStatistic.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
