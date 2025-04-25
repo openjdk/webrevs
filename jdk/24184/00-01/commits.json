@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'origin\/master' into _8352140_lshift_klass_hpp"},"files":[],"sha":"5b17d7321ea6a64ae987bf4bdde2d26c2b40e6e8"},{"commit":{"message":"8352140: UBSAN: fix the left shift of negative value in klass.hpp, array_layout_helper()"},"files":[],"sha":"3fa63e4b7e145cb7263a4935392c51c949877d99"}]
