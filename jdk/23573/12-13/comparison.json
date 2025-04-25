@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1521,0 +1521,2 @@\n+\n+  post_init();\n@@ -1566,2 +1568,0 @@\n-  nm_copy->post_init();\n-\n@@ -1579,4 +1579,0 @@\n-  if (is_not_entrant()) {\n-    return false;\n-  }\n-\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":2,"deletions":6,"binary":false,"changes":8,"status":"modified"}]}
