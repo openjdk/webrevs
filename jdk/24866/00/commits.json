@@ -1,0 +1,1 @@
+[{"commit":{"message":"8315719: Adapt AOTClassLinking test case for dynamic CDS archive"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/resolvedConstants\/ResolvedConstants.java"},{"filename":"test\/lib\/jdk\/test\/lib\/cds\/SimpleCDSAppTester.java"}],"sha":"cc58c4c36c18ba403d732192cd68a5f2bff8ad02"}]
