@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,2 @@\n+ * @comment For testing of non-local file URLs with the legacy FTP\n+ *          fallback feature enabled, see NonLocalFtpFallback.\n","filename":"test\/jdk\/java\/net\/URL\/OpenStream.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
