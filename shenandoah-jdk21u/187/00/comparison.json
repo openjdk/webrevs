@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -305,0 +305,1 @@\n+          range(1, 999)                                                     \\\n@@ -311,0 +312,1 @@\n+          range(1, 999)                                                     \\\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoah_globals.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
