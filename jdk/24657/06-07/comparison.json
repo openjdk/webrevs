@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-    public void verifyNonLocalFtpFallback() throws MalformedURLException {\n+    public void verifyNonLocalFileURLRejected() throws MalformedURLException {\n","filename":"test\/jdk\/sun\/net\/www\/protocol\/file\/NonLocalFtpFallbackDisabled.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
