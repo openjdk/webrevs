@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1129,1 +1129,1 @@\n-  int res = jio_snprintf(\n+  size_t res = jio_snprintf(\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
