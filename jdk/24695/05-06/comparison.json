@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,0 @@\n-            addExtraExportsAndOpens(bootLayer);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/ModuleBootstrap.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
