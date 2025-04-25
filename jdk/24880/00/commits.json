@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351333: [ubsan] CDSMapLogger::log_region applying non-zero offset to null pointer"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"}],"sha":"bd764cdf5d4a51a9d3286a2b0e5cc0f6a0d4198a"}]
