@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1951,1 +1951,1 @@\n-  assert(EnableVectorSupport && UseVectorStubs, \"sanity\");\n+  assert(EnableVectorSupport, \"sanity\");\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
