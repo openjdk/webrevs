@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,1 +160,1 @@\n-            .shouldMatch(\"Unable to derive module descriptor for: .*\/tmp.jar\");\n+            .shouldMatch(\"Unable to derive module descriptor for: .*tmp.jar\");\n","filename":"test\/setup_aot\/TestSetupAOT.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
