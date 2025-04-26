@@ -1,0 +1,1 @@
+[{"commit":{"message":"Create separate tanh micro-benchmark module to avoid noise in MathBench"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/MathBench.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/TanhPerf.java"}],"sha":"006eef6ac677aab91bbf015c5f1cdf2266f796d5"}]
