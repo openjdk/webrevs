@@ -1,0 +1,1 @@
+[{"commit":{"message":"Optimized BigInteger.pow(int) to support unsigned long bases"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java"}],"sha":"b94ca7e0acbecea25deb8c29a9f6edae0d971933"}]
