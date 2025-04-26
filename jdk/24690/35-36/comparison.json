@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2765,1 +2765,1 @@\n-                        xToExp = new BigInteger(1, new int[] { (int) (xToExpAdj >>> 32), (int) xToExpAdj });\n+                        xToExp = new BigInteger(xToExpAdj, 1);\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
