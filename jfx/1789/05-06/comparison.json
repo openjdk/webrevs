@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,4 +150,0 @@\n-        if (PlatformUtil.isLinux()) {\n-            Assumptions.assumeTrue(Boolean.getBoolean(\"unstable.test\")); \/\/ JDK-8321624\n-        }\n-\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/stage\/DualWindowTest.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
