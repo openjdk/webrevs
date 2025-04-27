@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1957,1 +1957,1 @@\n-                    r1 = ((n - 1) * rLong + x \/ rToN1) \/ n;\n+                    r1 = ((n - 1) * rLong + Long.divideUnsigned(x, rToN1)) \/ n;\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
