@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,4 +120,0 @@\n-  public:\n-    volatile int TState ;\n-    volatile int Notified ;             \/\/ for native monitor construct\n-\n@@ -140,2 +136,0 @@\n-       TState         = 0 ;\n-       Notified       = 0 ;\n","filename":"src\/hotspot\/share\/runtime\/park.hpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
