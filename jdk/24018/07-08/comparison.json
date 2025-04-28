@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,2 +46,1 @@\n-  InstanceKlass* ik = method->method_holder();\n-  oop klass_holder = ik->klass_holder();\n+  oop klass_holder = method->method_holder()->klass_holder();\n","filename":"src\/hotspot\/share\/runtime\/unloadableMethodHandle.inline.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
