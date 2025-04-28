@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix incorrect promise removal when unnecessary and add regression test"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/ClassValue.java"},{"filename":"test\/jdk\/java\/lang\/invoke\/ClassValueTest.java"}],"sha":"69583b67b50184817218bf437e008f00b5551a37"}]
