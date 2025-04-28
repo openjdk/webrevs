@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -305,1 +305,1 @@\n-  if (!((test_byte == lea_instruction_code) || (test_byte == mov64_instruction_code))) {\n+  if ((test_byte != lea_instruction_code) && (test_byte != mov64_instruction_code)) {\n","filename":"src\/hotspot\/cpu\/x86\/nativeInst_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
