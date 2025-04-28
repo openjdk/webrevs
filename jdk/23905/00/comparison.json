@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -397,1 +397,1 @@\n-     *          supplying function is {@code null}\n+     *         supplying function or produces a {@code null} result\n","filename":"src\/java.base\/share\/classes\/java\/util\/Optional.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
