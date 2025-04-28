@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,1 +142,1 @@\n-      _next_bci += len;\n+        _next_bci += len;\n","filename":"src\/hotspot\/share\/interpreter\/bytecodeStream.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
