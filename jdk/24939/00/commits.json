@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355779: When no \"signature_algorithms_cert\" extension is present we do not apply certificate scope constraints to algorithms in \"signature_algorithms\" extension"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SignatureAlgorithmsExtension.java"}],"sha":"7d3b3eeed34f107c8f2546ad8c814dafa611a528"}]
