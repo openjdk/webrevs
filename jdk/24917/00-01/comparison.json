@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -153,1 +153,0 @@\n-  StreamIndentor si(st, 2);\n@@ -155,0 +154,1 @@\n+    StreamIndentor si(st, 2);\n","filename":"src\/hotspot\/share\/memory\/metaspace\/metaspaceStatistics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
