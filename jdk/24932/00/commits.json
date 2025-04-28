@@ -1,0 +1,1 @@
+[{"commit":{"message":"Refactor ThisEscapeAnalyzer to correct bug in suppression logic."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ThisEscapeAnalyzer.java"},{"filename":"test\/langtools\/tools\/javac\/warnings\/ThisEscape.java"}],"sha":"5ef9606fc837e30d4463943e871349c2bf59b8a8"}]
