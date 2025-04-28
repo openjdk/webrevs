@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -254,2 +254,0 @@\n-            String timeoutFactorText = System.getProperty(\"test.timeout.factor\", \"1.0\");\n-            double timeoutFactor = Double.parseDouble(timeoutFactorText);\n","filename":"test\/jdk\/sun\/jvmstat\/monitor\/MonitoredVm\/MonitorVmStartTerminate.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
