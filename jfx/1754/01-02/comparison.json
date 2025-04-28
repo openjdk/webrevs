@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -251,1 +251,1 @@\n-        header.getTableHeaderRow().columnDragLock = !popupTriggeredOnMousePressed;\n+        header.getTableHeaderRow().columnDragLock = true;\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/TableColumnHeader.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
