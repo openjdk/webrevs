@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -644,1 +644,1 @@\n-  format %{ \"vsub_vx_masked $dst_src, $dst_src, $src2, $v0\" %}\n+  format %{ \"vsubL_vx_masked $dst_src, $dst_src, $src2, $v0\" %}\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
