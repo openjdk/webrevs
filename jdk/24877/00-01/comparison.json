@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-            out.add(\"public static class \" + NESTED_CLASS_NAME  + c + \" {}\");\n+            out.add(\"public static class \" + NESTED_CLASS_NAME + c + \" {}\");\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/LotsOfSyntheticClasses.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
