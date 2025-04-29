@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,1 @@\n- *         This test now verifies that a representative sample of locales (e.g., DE, FR, IT)\n+ *         This test now verifies that a representative sample of locales (e.g., fr, it)\n","filename":"test\/jdk\/sun\/util\/resources\/TimeZone\/Bug4848242.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
