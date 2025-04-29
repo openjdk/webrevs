@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix format"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"66e24b67d2bb0cbe1054cee3ae7bbb5057b4cdf3"},{"commit":{"message":"RISC-V: compiler\/vectorapi\/AllBitsSetVectorMatchRuleTest.java fails after JDK-8355657"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"b9ee6002af211f4b63777e0ac3b2751e2601f09c"}]
