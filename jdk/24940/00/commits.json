@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only set degeneration point for allocation failures during old marking"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"}],"sha":"7071fdf363957ae03a3d7b6a8b6c3a089a79ad49"}]
