@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-  virtual bool maybe_flat_in_array() const        { return false; }\n+  virtual bool maybe_flat_in_array() const  { return false; }\n","filename":"src\/hotspot\/share\/ci\/ciMetadata.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
