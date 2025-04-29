@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -737,1 +737,1 @@\n-        for (Attribute key : Attribute.allAttributes) {\n+        for (CSS.Attribute key : CSS.Attribute.allAttributes) {\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/html\/CSS.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
