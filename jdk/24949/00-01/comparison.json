@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -534,1 +534,1 @@\n-    J2dTraceLn(J2D_TRACE_INFO, \"D3DSurfaceData_getNativeResourceNative\")\n+    J2dTraceLn(J2D_TRACE_INFO, \"D3DSurfaceData_getNativeResourceNative\");\n","filename":"src\/java.desktop\/windows\/native\/libawt\/java2d\/d3d\/D3DSurfaceData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
