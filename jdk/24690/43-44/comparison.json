@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2603,2 +2603,2 @@\n-        if (signum == 0)\n-            return ZERO;\n+        if (signum == 0 || exponent == 1)\n+            return this;\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
