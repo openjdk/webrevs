@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -525,1 +525,1 @@\n-    UBSAN_CFLAGS=\"$UBSAN_CFLAGS -Wno-stringop-truncation -Wno-format-overflow -Wno-stringop-overflow\"\n+    UBSAN_CFLAGS=\"$UBSAN_CFLAGS -Wno-format-overflow -Wno-stringop-overflow -Wno-stringop-truncation\"\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
