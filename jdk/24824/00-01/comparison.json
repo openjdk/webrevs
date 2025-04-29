@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -919,0 +919,1 @@\n+        \/\/ Clamp in case of overflowing int range.\n","filename":"src\/hotspot\/share\/ci\/ciMethod.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
