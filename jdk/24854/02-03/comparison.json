@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,0 @@\n-        int blockSize = 8;\n@@ -108,0 +107,1 @@\n+        int blockSize = 8;\n","filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/RC2ParameterSpec.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
