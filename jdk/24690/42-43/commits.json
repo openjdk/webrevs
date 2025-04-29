@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't exclude a priori valid results\n\nDon't exclude a priori values that may be inside the supported range, leave the bound checks to the subroutines."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java"}],"sha":"6033d2568a6275380369303ec5961c71d027f84a"}]
