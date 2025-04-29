@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -340,2 +340,0 @@\n-static const char* add_C_string2(const char* str) NOT_CDS_RETURN_(str);\n-\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
