@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,1 +97,1 @@\n-  if (arg_idx != 1) {\n+  if (arg_idx != 1 || callee->intrinsic_id() == vmIntrinsicID::_none) {\n","filename":"src\/hotspot\/share\/opto\/doCall.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
