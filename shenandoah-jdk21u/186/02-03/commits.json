@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert references to method that hasn't been backported"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shenandoah\/shenandoahBarrierSetAssembler_riscv.cpp"}],"sha":"56565017215ef9adabaaeafa5abe8b1fa03ae840"}]
