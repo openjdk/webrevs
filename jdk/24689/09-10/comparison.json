@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,2 +47,0 @@\n-    static_assert(std::is_trivially_destructible<T>::value,\n-    \"T in a Deferred<T> should not have a non-trivial destructor, as it will never be called..\");\n","filename":"src\/hotspot\/share\/utilities\/deferred.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
