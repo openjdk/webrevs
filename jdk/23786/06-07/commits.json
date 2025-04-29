@@ -1,0 +1,1 @@
+[{"commit":{"message":"simplify ifdefs"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp"}],"sha":"193bf0897a69faff42ce29b44e78ebbb617de460"},{"commit":{"message":"expose NMTRecorder_Locker on Windows"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memLogRecorder.cpp"}],"sha":"01d5fc41789a5ef1eb1638335d5b26060245910a"}]
