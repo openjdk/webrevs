@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -310,1 +310,1 @@\n-     * @since 21\n+     * @since 25\n@@ -412,1 +412,1 @@\n-         * @since 23\n+         * @since 25\n@@ -496,1 +496,1 @@\n-     * @since 23\n+     * @since 25\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ScopedValue.java","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
