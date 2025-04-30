@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3113,1 +3113,3 @@\n-  vmclr_m(vd);\n+  if (vm == Assembler::v0_t) {\n+    vmclr_m(vd);\n+  }\n@@ -3136,1 +3138,3 @@\n-  vmclr_m(vd);\n+  if (vm == Assembler::v0_t) {\n+    vmclr_m(vd);\n+  }\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":6,"deletions":2,"binary":false,"changes":8,"status":"modified"}]}
