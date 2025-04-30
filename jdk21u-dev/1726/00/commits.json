@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport e67550cfec4dbd1c8c2c9869dda34fa09a5c274b"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestCountPositives.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestHasNegatives.java"}],"sha":"5fead04c3b4943b5456ac05325da8ebd64d9edc0"}]
