@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-\t\t\/\/ reverse the input params of last example. should be same result\n+                \/\/ reverse the input params of last example. should be same result\n","filename":"test\/jdk\/sun\/security\/ssl\/SSLLogger\/DebugPropertyValuesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
