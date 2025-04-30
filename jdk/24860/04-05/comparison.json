@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,2 +27,0 @@\n- * @comment Linux does not yet allow opening this many files\n- * @requires (os.family != \"linux\")\n","filename":"test\/jdk\/java\/io\/FileOutputStream\/ManyFiles.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
