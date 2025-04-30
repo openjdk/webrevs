@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -179,1 +179,1 @@\n-        String testStr = \"ア\"; \/\/ U+30A2 (A2 >= 80) (JDK-8354910)\n+        String testStr = \"\\u30A2\"; \/\/ Japanese katakana (A2 >= 80) (JDK-8354910)\n","filename":"test\/langtools\/jdk\/jshell\/ConsoleTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
