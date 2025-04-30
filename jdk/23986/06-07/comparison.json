@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-     * The test here verifies that when multiple ZipFile instances are\n+     * The test verifies that when multiple ZipFile instances are\n","filename":"test\/jdk\/java\/util\/zip\/ZipFile\/ZipFileCharsetTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
