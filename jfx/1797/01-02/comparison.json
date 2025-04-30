@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,1 +95,1 @@\n-        Thread.sleep(400);\n+        Thread.sleep(800);\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/stage\/RestoreStagePositionTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
