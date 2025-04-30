@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,1 +180,1 @@\n-                ? layout.byteSize() + layout.byteAlignment() - 1\n+                ? Utils.alignUp(layout.byteSize(), layout.byteAlignment())\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/BufferStack.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
