@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1032,1 +1032,1 @@\n-  const int max_live_nodes_increase_per_iteration = NodeLimitFudgeFactor * 2;\n+  const int max_live_nodes_increase_per_iteration = NodeLimitFudgeFactor * 3;\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
