@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,5 +139,1 @@\n-      if (INT_MAX - len <= _next_bci) { \/\/ Check for integer overflow\n-        code = Bytecodes::_illegal;\n-      } else {\n-        _next_bci += len;\n-      }\n+      _next_bci += len;\n","filename":"src\/hotspot\/share\/interpreter\/bytecodeStream.hpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
