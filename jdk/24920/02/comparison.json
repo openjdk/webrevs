@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,3 +140,0 @@\n-      if (_next_bci <= _bci) { \/\/ Check for integer overflow\n-        code = Bytecodes::_illegal;\n-      }\n","filename":"src\/hotspot\/share\/interpreter\/bytecodeStream.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
