@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355896: lossy narrowing cast of JVMCINMethodData::size"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.hpp"}],"sha":"f5d87603936d3b40fe6f2a92155cdbae4d476b44"}]
