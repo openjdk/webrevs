@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1003,0 +1003,4 @@\n+\/\/ Redefine Thread as BaseThread to avoid duplicate symbol issues for\n+\/\/ JDK static builds. See runtime\/thread.hpp for Thread class.\n+#define Thread HotspotBaseThread\n+\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
