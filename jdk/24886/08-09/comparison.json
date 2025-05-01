@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -317,1 +317,1 @@\n-    if (k != nullptr && k->is_loader_present_and_alive() && is_klass_loaded(k)) {\n+    if (k != nullptr && k->class_loader_data() != nullptr && is_klass_loaded(k)) {\n","filename":"src\/hotspot\/share\/ci\/ciMethodData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
