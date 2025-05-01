@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed createAutoconfBundle.sh CD to build\/ before the folder is created. Added logs. URL change as https is the only option"},"files":[{"filename":"make\/devkit\/createAutoconfBundle.sh"}],"sha":"42dafcd6cbf9842115b7ead4e85f5f7702f0c322"}]
