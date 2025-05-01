@@ -1,0 +1,1 @@
+[{"commit":{"message":"8344671: Few JFR streaming tests fail with application not alive error on MacOS 15"},"files":[{"filename":"src\/jdk.attach\/macosx\/classes\/sun\/tools\/attach\/VirtualMachineImpl.java"},{"filename":"src\/jdk.attach\/macosx\/native\/libattach\/VirtualMachineImpl.c"}],"sha":"bf3e6f2fa7fdddb94b54116bf37c402e0ac737bf"}]
