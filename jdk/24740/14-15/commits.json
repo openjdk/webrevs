@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert log_warning change. Replace _adapter_caching check with flag check."},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"325efec070bb7b17ac11a70d8a166a6b73a3607b"}]
