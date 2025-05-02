@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355674: C2: Partial Peeling should not introduce Phi nodes above OpaqueInitializedAssertionPredicate nodes"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/predicates\/assertion\/TestPhiAboveOpaqueInitializedAssertionPredicate.java"}],"sha":"7fcb82458f39de345e01586dc5caa371667a239c"}]
