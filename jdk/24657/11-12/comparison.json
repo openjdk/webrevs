@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-    private static boolean FTP_FALLBACK_ENABLED =\n+    private static final boolean FTP_FALLBACK_ENABLED =\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/file\/FileURLConnection.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
