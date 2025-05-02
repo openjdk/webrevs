@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -371,1 +371,1 @@\n-            if (v.isLive())  return true;\n+            if (v.isLive()) return true;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ClassValue.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
