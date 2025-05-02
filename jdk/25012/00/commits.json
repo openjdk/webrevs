@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355353: File Leak in os::read_image_release_file of os.cpp:1552"},"files":[{"filename":"src\/hotspot\/share\/runtime\/os.cpp"}],"sha":"eda560368ca6eab0dd6e2d2fb1ef94d27d602d9b"}]
