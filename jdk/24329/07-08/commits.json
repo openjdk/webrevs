@@ -1,0 +1,1 @@
+[{"commit":{"message":"Refactoring code to create a seperate VM_Features class"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.cpp"},{"filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.hpp"}],"sha":"a9258174b847e070b33d9216bb4cc7e95298e8b1"}]
