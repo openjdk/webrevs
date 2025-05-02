@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -539,1 +539,1 @@\n-    LXVX_OPCODE    = (31u << OPCODE_SHIFT |   12u << 1 | 4u << 7),\n+    LXVX_OPCODE    = (31u << OPCODE_SHIFT | 4u << 7 | 12u << 1),\n","filename":"src\/hotspot\/cpu\/ppc\/assembler_ppc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
