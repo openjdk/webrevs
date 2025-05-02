@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,0 @@\n-    static final int    BIG_DECIMAL_EXPONENT = 324; \/\/ i.e. abs(MIN_DECIMAL_EXPONENT)\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/math\/FloatingDecimal.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
