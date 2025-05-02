@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,2 @@\n+ * @comment This test should only be run on Linux.\n+ *          The behavior under test is known NOT to work on Linux 3.10.0* kernels.\n","filename":"test\/jdk\/java\/net\/MulticastSocket\/PromiscuousIPv6.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
