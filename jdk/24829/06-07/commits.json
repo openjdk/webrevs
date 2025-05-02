@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cleanup and only create CleanupAction once per thread"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/BufferStack.java"},{"filename":"test\/jdk\/java\/foreign\/TestBufferStack.java"}],"sha":"c819553c3effa31298582d97dc39a4d89412aa0b"}]
