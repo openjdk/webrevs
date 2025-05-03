@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2012,1 +2012,1 @@\n-                  false\/*!mon->is_entered(thread())*\/) {\n+                  (_thread != nullptr && !mon->is_entered(_thread))) {\n","filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
