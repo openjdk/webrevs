@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -413,1 +413,1 @@\n-     * This is a reflective preview API to allows tools running in Java runtime\n+     * This is a reflective preview API to allow tools running in Java runtime\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/ClassFileFormatVersion.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
