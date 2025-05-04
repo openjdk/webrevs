@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -504,1 +504,1 @@\n-     *     <td>{@code FT f;}<\/td><td>{@code (T) this.f;}<\/td>\n+     *     <td>{@code FT f;}<\/td><td>{@code (FT) this.f;}<\/td>\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandles.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
