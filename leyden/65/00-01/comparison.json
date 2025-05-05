@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2139,1 +2139,1 @@\n-    if (AOTCodeCache::is_dumping_code()) {\n+    if (AOTCodeCache::is_on_for_read()) {\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
