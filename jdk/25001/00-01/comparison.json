@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,0 +240,1 @@\n+    cardtable_start_address = nullptr;\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVMInit.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
