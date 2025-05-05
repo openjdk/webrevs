@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,2 +34,2 @@\n- *      -XX:MetaspaceSize=10m\n- *      -XX:MaxMetaspaceSize=10m\n+ *      -XX:MetaspaceSize=20m\n+ *      -XX:MaxMetaspaceSize=20m\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/metaspace\/shrink_grow\/ShrinkGrowTest\/ShrinkGrowTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
