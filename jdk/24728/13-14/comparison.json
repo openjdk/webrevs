@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,2 @@\n-        file.delete();\n+        if (file != null)\n+            file.delete();\n","filename":"test\/jdk\/java\/io\/BufferedReader\/ReadAll.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
