@@ -1,0 +1,1 @@
+[{"commit":{"message":"8356152: String.concat can throw StringIndexOutOfBoundsException"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/StringConcatHelper.java"},{"filename":"test\/jdk\/java\/lang\/String\/concat\/HugeConcatTest.java"}],"sha":"a70ccd209dc14f187bd921738ca0fdbe6a19d6ed"}]
