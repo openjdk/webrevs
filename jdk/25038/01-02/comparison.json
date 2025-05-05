@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+ * @requires os.maxMemory > 6G\n","filename":"test\/jdk\/java\/lang\/String\/concat\/HugeConcatTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
