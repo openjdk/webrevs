@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -183,0 +183,1 @@\n+#if INCLUDE_ZGC\n@@ -195,0 +196,1 @@\n+#endif\n","filename":"src\/hotspot\/cpu\/aarch64\/jvmciCodeInstaller_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
