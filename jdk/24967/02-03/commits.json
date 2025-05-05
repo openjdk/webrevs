@@ -1,0 +1,1 @@
+[{"commit":{"message":"Applied suggestion to use StringUTF16.compress in append() for copying char[].\nAdded similar improvement to putCharsAt."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java"}],"sha":"ff3d841fb16dc4fcfc654b2836d0ab289b63cc3a"}]
