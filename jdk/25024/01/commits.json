@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8356119"},"files":[],"sha":"020b062fe8fa544eb5ac37163e82d0aa1db50dfe"},{"commit":{"message":"8356119: Correct field type for bytecode cast"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/MethodHandles.java"}],"sha":"14148dd124dbdd2c896d451a95e3a057984091ac"}]
