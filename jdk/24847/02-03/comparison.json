@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+  private static final int JUMP_TABLE_SIZE = 16;\n@@ -115,1 +116,1 @@\n-    if (numJavaFields > 16) {\n+    if (numJavaFields > JUMP_TABLE_SIZE) {\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/Field.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
