@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reversed view of SynchronizedRandomAccessList should also be RandomAccess.\nAdd tests to ensure RandomAccess is preserved when reversing."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Collections.java"},{"filename":"test\/jdk\/java\/util\/SequencedCollection\/Basic.java"}],"sha":"1750bb20d91cb880ee8fcede0d3eb32004833251"}]
