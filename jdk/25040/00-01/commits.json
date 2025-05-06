@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix raw long updater under 32-bit mode"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/lang\/stable\/StableFieldUpdater.java"}],"sha":"52e96c521ed345617ec580570eb41dbf475398cd"}]
