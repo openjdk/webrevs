@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -185,1 +185,1 @@\n- * @bug 8288981\n+ * @bug 8288981 8356084\n","filename":"test\/hotspot\/jtreg\/compiler\/predicates\/assertion\/TestAssertionPredicates.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
