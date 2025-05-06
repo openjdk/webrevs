@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-public final class Validator {\n+final class Validator {\n","filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/Validator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
