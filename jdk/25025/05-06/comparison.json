@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-                    \"Unknown name: \" + name +\", must be one of: \"\n+                    \"Unknown name: \" + name + \", must be one of: \"\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/CapturableState.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
