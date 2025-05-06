@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,1 +157,1 @@\n-\\    -Xms<size>        set initial Java heap size\\n\\\n+\\    -Xms<size>        set minimum and initial Java heap size\\n\\\n","filename":"src\/java.base\/share\/classes\/sun\/launcher\/resources\/launcher.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
