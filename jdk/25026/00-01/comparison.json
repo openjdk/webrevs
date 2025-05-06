@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-        sb.append(\"8\");\n+        sb.append(8 + x);\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotClassLinking\/NonFinalStaticWithInitVal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
