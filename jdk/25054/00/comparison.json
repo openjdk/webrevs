@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -316,1 +316,1 @@\n-                                             mtClassShared);\n+                                             mtNone);\n","filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
