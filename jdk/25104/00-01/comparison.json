@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,1 +111,1 @@\n-      bool skip_assignability_check;\n+      bool skip_assignability_check = false;\n","filename":"src\/hotspot\/share\/classfile\/verificationType.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
