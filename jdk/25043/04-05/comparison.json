@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -214,1 +214,1 @@\n-        perm[target.type().parameterCount()] = 0;\n+        perm[perm.length - 1] = 0;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/CaptureStateUtil.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
