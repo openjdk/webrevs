@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,1 +314,1 @@\n-     * ownership of the byte array to the callee<\/b>, since the later will not\n+     * ownership of the byte array to the callee<\/b>, since the latter will not\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/JavaLangAccess.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
