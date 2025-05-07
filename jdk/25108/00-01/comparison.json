@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- *     any secret keys\n+ *     secret keys with unrecognized algorithms\n","filename":"test\/jdk\/sun\/security\/pkcs11\/Mac\/InitMacWithAnyKey.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
