@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-                name = file.getCanonicalPath();\n+                name = file.getAbsolutePath();\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/NativeLibraries.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
