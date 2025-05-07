@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1378,1 +1378,1 @@\n-\t$(call ExecuteWithLog, $(JCOV_SUPPORT_DIR)\/run-jcov-repgen,\n+\t$(call ExecuteWithLog, $(JCOV_SUPPORT_DIR)\/run-jcov-repgen, \\\n","filename":"make\/RunTests.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
