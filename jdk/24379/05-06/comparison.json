@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-\/\/ JavaFX to forward native events to AWT even if AWT runs in \n+\/\/ JavaFX to forward native events to AWT even if AWT runs in\n@@ -140,1 +140,1 @@\n-    \n+\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/ApplicationDelegate.m","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
