@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -414,1 +414,1 @@\n-    \/\/ removed as part of JDK-XXXXXXX.\n+    \/\/ removed as part of JDK-8356317.\n","filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
