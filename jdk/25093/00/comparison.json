@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,0 +300,1 @@\n+      fclose(controllers);\n","filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
