@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,0 +65,3 @@\n+     * <p>\n+     * Certain IPv4 addresses, such as the loopback address, do not support\n+     * broadcasting and will also result in {@code null} being returned.\n","filename":"src\/java.base\/share\/classes\/java\/net\/InterfaceAddress.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
