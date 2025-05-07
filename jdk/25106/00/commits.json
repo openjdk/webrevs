@@ -1,0 +1,1 @@
+[{"commit":{"message":"8354278: Revert use of non-POSIX echo -n introduced in JDK-8301197"},"files":[{"filename":"make\/Docs.gmk"},{"filename":"make\/MainSupport.gmk"},{"filename":"make\/autoconf\/help.m4"},{"filename":"make\/common\/FindTests.gmk"},{"filename":"make\/common\/Modules.gmk"}],"sha":"a52799a8e09b36482b9aaf143d1eed6a54d525af"}]
