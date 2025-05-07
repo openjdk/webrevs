@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -133,1 +133,1 @@\n-                    \"javax.net.ssl.trustStoreProvider\", \"\");\n+                    \"javax.net.ssl.trustStoreProvider\", \"unspecified\");\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/TrustStoreManager.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
