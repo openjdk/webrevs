@@ -1,0 +1,1 @@
+[{"commit":{"message":"8356328: Some C2 IR nodes miss size_of() function"},"files":[{"filename":"src\/hotspot\/share\/opto\/intrinsicnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/memnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/opaquenode.hpp"}],"sha":"c7054cb7f7d49ae096e10d3059c82e8ffe3951a3"}]
