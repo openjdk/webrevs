@@ -1,0 +1,1 @@
+[{"commit":{"message":"8354323: Safeguard SwitchBootstraps.typeSwitch when used outside the compiler"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/SwitchBootstraps.java"},{"filename":"test\/jdk\/java\/lang\/runtime\/SwitchBootstrapsTest.java"}],"sha":"835fb6abe4f740060a2ab0773a6204b520aa656d"}]
