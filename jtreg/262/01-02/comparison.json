@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n-            su action -c 'git config --global --add safe.directory \/home\/runner\/work\/jtreg\/jtreg'\n+            su action -c 'git config --global --add safe.directory $(pwd)'\n","filename":".github\/workflows\/test.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
