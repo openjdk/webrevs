@@ -1,0 +1,1 @@
+[{"commit":{"message":"Updated to use the upcoming KDF (still in preview) + bits of JDK-8353578 for compilation)"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/CipherSuite.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSessionImpl.java"}],"sha":"c6baa83b0b27a041dcd0518cd0bd6e2f8e056454"}]
