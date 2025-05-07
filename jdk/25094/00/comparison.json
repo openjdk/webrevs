@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-  do_arch_blob(compiler, 65000 ZGC_ONLY(+5000))                         \\\n+  do_arch_blob(compiler, 70000)                                         \\\n","filename":"src\/hotspot\/cpu\/aarch64\/stubDeclarations_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
