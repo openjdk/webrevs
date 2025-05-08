@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,0 @@\n-        out.shouldContain(\"[error][aot] Loading AOT cache failed: nosuchfile.aot\");\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/AOTLoggingTag.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
