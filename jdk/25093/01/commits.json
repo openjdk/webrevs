@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed copyright header"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp"}],"sha":"c38ac30027dd5ce9ada789efd45d55e087fe5a49"},{"commit":{"message":"still close file descriptor if we fail to read"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp"}],"sha":"a5180f6d385da2b7b5afd6ff73eed2cecb887e7b"}]
