@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6551,0 +6551,1 @@\n+  predicate(!UseAPX);\n@@ -6559,0 +6560,1 @@\n+  predicate(UseAPX);\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
