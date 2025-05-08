@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-     * automatically infering a .DLL extension.\n+     * automatically inferring a .DLL extension.\n","filename":"src\/java.base\/windows\/classes\/jdk\/internal\/loader\/ClassLoaderHelper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
