@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1170,0 +1170,1 @@\n+  \/\/ This field is checked by the interpreter which expects it to be an integer.\n","filename":"src\/hotspot\/share\/runtime\/javaThread.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
