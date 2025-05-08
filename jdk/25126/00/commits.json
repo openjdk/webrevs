@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix a bug in JPackageCommand.assertFileInAppImage() uncovered by running signing tests after JDK-8356219 fix. JDK-8356219 added a legit assert to JPackageCommand.assertFileInAppImage() and it failed."},"files":[{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/JPackageCommand.java"}],"sha":"806a461a137de7a5293c9e697e344698d995db18"}]
