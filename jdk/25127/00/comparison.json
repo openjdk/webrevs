@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,1 @@\n-    DISABLED_WARNINGS_gcc := format-nonliteral stringop-truncation type-limits \\\n+    DISABLED_WARNINGS_gcc := format-nonliteral stringop-truncation \\\n","filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
