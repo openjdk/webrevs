@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,0 @@\n-import java.lang.invoke.MethodType;\n@@ -41,1 +40,0 @@\n-import jdk.test.lib.helpers.ClassFileInstaller;\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotClassLinking\/GeneratedInternedString.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
