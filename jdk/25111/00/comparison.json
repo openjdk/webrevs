@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n- * @run driver\/timeout=500 LotsOfSyntheticClasses\n+ * @run driver\/timeout=800 LotsOfSyntheticClasses\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/LotsOfSyntheticClasses.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
