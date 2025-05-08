@@ -1,0 +1,1 @@
+[{"commit":{"message":"Verify jpackage doesn't modify external directories passed to jpackage"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/JPackageCommand.java"},{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/TKit.java"}],"sha":"a2fc7601cf2599628c4439b33ea3fd3d7ca0a4a0"}]
