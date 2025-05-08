@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-        for (int count = min + 2; count < max; count++) {\n+        for (int count = min + 1; count < max; count++) {\n","filename":"test\/jdk\/java\/lang\/String\/CompactString\/MaxSizeUTF16String.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
