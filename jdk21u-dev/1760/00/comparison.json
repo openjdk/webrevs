@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -312,1 +312,1 @@\n-    DISABLED_WARNINGS_gcc := format-nonliteral type-limits stringop-truncation, \\\n+    DISABLED_WARNINGS_gcc := format-nonliteral stringop-truncation, \\\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
