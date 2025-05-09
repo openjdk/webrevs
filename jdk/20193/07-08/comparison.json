@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,0 +102,1 @@\n+          $(TOPDIR)\/src\/$1\/share\/classes\/com\/sun\/tools\/javac\/launcher\/MemoryClassLoader.java \\\n","filename":"make\/CompileInterimLangtools.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
