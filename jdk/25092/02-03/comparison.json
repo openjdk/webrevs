@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-    resolutin_failed_shift    = 0,\n+    resolution_failed_shift    = 0,\n@@ -120,1 +120,1 @@\n-    _flags = _old_flags | new_flags;\n+    _flags = old_flags | new_flags;\n","filename":"src\/hotspot\/share\/oops\/resolvedIndyEntry.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
