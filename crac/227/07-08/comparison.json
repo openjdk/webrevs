@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-\t\/\/ This backend does not use CPUFeatures. That is OK.\n+        \/\/ This backend does not use CPUFeatures. That is OK.\n","filename":"src\/hotspot\/share\/runtime\/crac.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
