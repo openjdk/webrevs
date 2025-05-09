@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,0 +65,3 @@\n+     * <p>\n+     * Certain network interfaces, such as the loopback interface, do not support\n+     * broadcasting and will also return {@code null}.\n","filename":"src\/java.base\/share\/classes\/java\/net\/InterfaceAddress.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
