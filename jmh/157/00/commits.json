@@ -1,0 +1,1 @@
+[{"commit":{"message":"7903998: Move checkstyle\/findbugs xml to under src\/test\/resources"},"files":[{"filename":"jmh-core\/pom.xml"},{"filename":"jmh-core\/src\/test\/resources\/checkstyle.xml"},{"filename":"jmh-core\/src\/test\/resources\/findbugs.xml"}],"sha":"bbf5b3175c0574886208289bfb95deca7bd0a656"}]
