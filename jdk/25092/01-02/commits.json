@@ -1,0 +1,1 @@
+[{"commit":{"message":"We missed the case of has_appendix = false"},"files":[{"filename":"src\/hotspot\/share\/oops\/resolvedIndyEntry.hpp"}],"sha":"4da8d47b6c71c00ab9feb2da31c3955a9f17f08b"},{"commit":{"message":"And make the code uniform for both flags"},"files":[{"filename":"src\/hotspot\/share\/oops\/resolvedIndyEntry.hpp"}],"sha":"543fee39ea78b107f3d65ff3071f4f82d6ca0691"}]
