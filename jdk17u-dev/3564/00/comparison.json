@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -302,1 +302,1 @@\n-    DISABLED_WARNINGS_gcc := format-nonliteral type-limits \\\n+    DISABLED_WARNINGS_gcc := format-nonliteral \\\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
