@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change dev StressCompiledExceptionHandlers into diagnostic DeoptimizeOnAllocationException"},"files":[{"filename":"src\/hotspot\/share\/opto\/runtime.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"361a77279ffc2fbd2aa6c67cf049c1a4a67929c7"}]
