@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -786,1 +786,1 @@\n-  \/\/ blocks dominated by early matters. The reason for bookkeeping not only\n+  \/\/ blocks dominated by early matter. The reason for bookkeeping not only\n","filename":"src\/hotspot\/share\/opto\/gcm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
