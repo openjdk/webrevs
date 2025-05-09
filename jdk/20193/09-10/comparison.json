@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -289,2 +289,0 @@\n-        } catch (MalformedURLException e) {\n-            throw new RuntimeException(e);\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/launcher\/MemoryClassLoader.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
