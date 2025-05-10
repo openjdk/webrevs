@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,0 +101,3 @@\n+            if (!Files.exists(file)) { \/\/ Don't use Files.notExists(file)\n+                return null;\n+            }\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/Resources.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
