@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -503,1 +503,1 @@\n-defineProperty(\"SWT_TEST\", IS_MAC ? \"false\" : \"true\")\n+defineProperty(\"SWT_TEST\", (IS_MAC || IS_LINUX) ? \"false\" : \"true\")\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
