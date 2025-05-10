@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -503,0 +503,1 @@\n+\/\/ JDK-8356687 and JDK-8356688 track the disablement of the SWT tests on both platforms.\n","filename":"build.gradle","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
