@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -234,1 +234,1 @@\n-      make-target: 'product-bundles test-bundles static-jdk-bundles'\n+      make-target: 'static-jdk-bundles'\n@@ -367,0 +367,1 @@\n+      - build-linux-x64\n","filename":".github\/workflows\/main.yml","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}

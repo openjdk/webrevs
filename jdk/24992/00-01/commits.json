@@ -1,0 +1,1 @@
+[{"commit":{"message":"Experiment based on magicus comment:\n- Add build-linux-x64 to 'needs' in test-linux-x64-static.\n- Remove product-bundles test-bundles from build-linux-x64-static."},"files":[{"filename":".github\/workflows\/main.yml"}],"sha":"498acd39185de1ab6ee4b186b2e1bf65805ae6ac"}]
