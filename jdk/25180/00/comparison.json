@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1514,1 +1514,1 @@\n-    align(32);\n+    align(CodeEntryAlignment);\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86_sha.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
