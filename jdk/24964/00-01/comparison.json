@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -698,1 +698,1 @@\n-    character literal contains more than one UTF-16 code point\n+    character literal contains more than one UTF-16 code unit\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
