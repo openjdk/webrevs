@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed parentheses and use-after-free (tested with gcc 14 & gcc 4.8.5)"},"files":[{"filename":"make\/lib\/Awt2dLibraries.gmk"}],"sha":"25b84f6a902acd31c534e30fe49998f064ee4338"}]
