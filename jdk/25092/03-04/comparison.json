@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,2 +72,2 @@\n-    resolution_failed_shift    = 0,\n-    has_appendix_shift        = 1,\n+    resolution_failed_shift = 0,\n+    has_appendix_shift      = 1,\n","filename":"src\/hotspot\/share\/oops\/resolvedIndyEntry.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
