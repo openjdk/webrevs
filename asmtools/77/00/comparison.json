@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7,1 +7,0 @@\n-      - at7\n@@ -11,1 +10,0 @@\n-      - at7\n@@ -21,1 +19,1 @@\n-        java-version: [ 17, 21 ]\n+        java-version: [ 21, 24 ]\n","filename":".github\/workflows\/maven.yaml","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
