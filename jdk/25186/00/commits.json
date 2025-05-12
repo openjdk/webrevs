@@ -1,0 +1,1 @@
+[{"commit":{"message":"8356695: java\/lang\/StringBuilder\/HugeCapacity.java failing with OOME\nRaise the memory limit from 6G to 8G"},"files":[{"filename":"test\/jdk\/java\/lang\/StringBuilder\/HugeCapacity.java"}],"sha":"db7787379048fbd7342768a150d15a9afa5cb7eb"}]
