@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5187,1 +5187,1 @@\n-bool Compile::should_print_ideal_phase(CompilerPhaseType cpt) {\n+bool Compile::should_print_ideal_phase(CompilerPhaseType cpt) const {\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
