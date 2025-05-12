@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -335,1 +335,2 @@\n-     * {@code String}, if the input is ASCII.<\/b>\n+     * {@code String}, if the input is ASCII. Hence, the returned byte array\n+     * must not be modified.<\/b>\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/access\/JavaLangAccess.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
