@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make ClassLoaderData::_deallocate_list an ordinary object"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoaderData.hpp"}],"sha":"8167cd3ca250881f571dbab6d745942ecec91207"}]
