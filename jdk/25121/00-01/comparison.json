@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,3 +89,1 @@\n-    if (FLAG_IS_DEFAULT(EagerJVMCI) && !EagerJVMCI) {\n-      FLAG_SET_DEFAULT(EagerJVMCI, true);\n-    }\n+    FLAG_SET_ERGO_IF_DEFAULT(EagerJVMCI, true);\n","filename":"src\/hotspot\/share\/jvmci\/jvmci_globals.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
