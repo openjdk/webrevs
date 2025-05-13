@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow one-step training even when -XX:AOTMode=auto is specified"},"files":[{"filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp"},{"filename":"src\/java.base\/share\/man\/java.md"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotFlags\/AOTFlags.java"}],"sha":"f33d5994ac62980134e38a326c57d6a7bd9e2ed5"}]
