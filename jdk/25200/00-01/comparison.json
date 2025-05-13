@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -262,1 +262,1 @@\n-        boolean osIsWindows = System.getProperty(\"os.name\").toLowerCase().contains(\"windows\");\n+        boolean osIsWindows = Platform.isWindows();\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/driver\/TestVMProcess.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
