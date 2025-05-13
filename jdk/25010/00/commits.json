@@ -1,0 +1,1 @@
+[{"commit":{"message":"8356095: AArch64: Obsolete -XX:+NearCPool option"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/globals_aarch64.hpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"f0e6c693860f5d3dbb2158100810a5dccb91ea84"}]
