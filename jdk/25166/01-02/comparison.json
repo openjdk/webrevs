@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1770,1 +1770,1 @@\n-        if (Integer.bitCount(y) == 1) {\n+        if (Integer.lowestOneBit(y) == y) {\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
