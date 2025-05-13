@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,0 +150,1 @@\n+        testPrimitiveType(true, boolean.class,0, 1, String.class, boolean.class);\n","filename":"test\/jdk\/java\/lang\/runtime\/SwitchBootstrapsTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
