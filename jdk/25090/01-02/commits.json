@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify unconditional exactness in both Types and SwitchBootstraps"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/SwitchBootstraps.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Types.java"}],"sha":"a7c4e398f2a163083853a2a6e58a97d6a06d592f"}]
