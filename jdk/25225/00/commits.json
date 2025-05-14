@@ -1,0 +1,1 @@
+[{"commit":{"message":"8356971: [JVMCI] Export VM_Version::supports_avx512_simd_sort to JVMCI compiler."},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.hpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVMInit.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/vmStructs_jvmci.cpp"}],"sha":"27cceb7007b2968e3b5f3204adc6ab8f00d7188b"}]
