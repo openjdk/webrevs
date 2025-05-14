@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -253,1 +253,1 @@\n-        BreakpointRequest bpRequest = settingBreakpoint(null,\n+        BreakpointRequest bpRequest = settingBreakpoint(mainThread,\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/EventRequestManager\/accessWatchpointRequests\/accwtchpreq002.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
