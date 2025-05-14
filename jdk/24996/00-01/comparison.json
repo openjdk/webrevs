@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -675,1 +675,1 @@\n-    \/\/ workaround AIX bug where IP_ADD_MEMBERSHIP fails intermittently sometimes even more than one time...\n+    \/\/ workaround AIX bug where IP_ADD_MEMBERSHIP fails intermittently\n","filename":"src\/java.base\/unix\/native\/libnio\/ch\/Net.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
