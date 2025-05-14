@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 84458ec18ce33295636f7b26b8e3ff25ecb349f2\n\nReviewed-by: michaelm, xpeng"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/URI.java"},{"filename":"test\/jdk\/java\/net\/URI\/Test.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/net\/URIAuthorityParsingBenchmark.java"}],"sha":"83b26894b44184a873c08ea72d5c50654d1fd4ea"}]
