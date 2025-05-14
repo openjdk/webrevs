@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Use type long for bitLength instead of int\"\n\nThis reverts commit c8e1b8159206d9fb5532df7ccdf98abcab888f2c."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java"}],"sha":"aeef24cb16d7e2f053ae1b2c2a91d1286eae93c9"}]
