@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351484: Race condition in max stats in MonitorList::add\n\nReviewed-by: pchilanomate, zgu"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"},{"filename":"src\/hotspot\/share\/runtime\/synchronizer.hpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_synchronizer.cpp"}],"sha":"9407d9c3084b77180b481518a1d4762c244b2022"}]
