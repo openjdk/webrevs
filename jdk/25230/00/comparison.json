@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,1 +131,2 @@\n-            if (tr.contains(\"-J\")) {\n+            if (tr.contains(\" -J-\")) {\n+                System.err.println(tr);\n","filename":"test\/jdk\/tools\/launcher\/ToolsOpts.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
