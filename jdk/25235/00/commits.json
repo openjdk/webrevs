@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle ignorable whitespace correctly with Type1 fonts"},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/font\/Type1GlyphMapper.java"},{"filename":"test\/jdk\/java\/awt\/Graphics2D\/DrawString\/IgnoredWhitespaceTest.java"}],"sha":"2c118da55c7a0cba6876d5d4767b4d0c40143d4e"}]
