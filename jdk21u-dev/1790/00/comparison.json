@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,0 +158,1 @@\n+                invokeAndCheck(m, cU - cL, latin1.replace(cL, cU), latin1);\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestStringIntrinsics.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
