@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1067,1 +1067,1 @@\n-  log_info(cds)(\"Archived %d interned strings\", index);\n+  log_info(aot)(\"Archived %d interned strings\", index);\n","filename":"src\/hotspot\/share\/classfile\/stringTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
