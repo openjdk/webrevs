@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3633,1 +3633,1 @@\n-    int[] javaIncrement(int[] val) {\n+    static int[] javaIncrement(int[] val) {\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
