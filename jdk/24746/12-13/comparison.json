@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4257,1 +4257,1 @@\n-    a value-based class has been used where an identity type is expected\n+    use of a value-based class with an operation that expects reliable identity\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
