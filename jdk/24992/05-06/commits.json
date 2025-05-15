@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove 'if: ${{ inputs.static-suffix != '-static' }}' check from run-test step."},"files":[{"filename":".github\/workflows\/test.yml"}],"sha":"252d42c8f6c46b32f01bfb55f3a171e45166ffc6"}]
