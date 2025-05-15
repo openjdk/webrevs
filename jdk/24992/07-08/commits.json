@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address magicus comment:\n- Replaced '${{ inputs.static-suffix }}' != '' to '${{ inputs.static-suffix }}' == '-static', to be more consistent."},"files":[{"filename":".github\/actions\/get-bundles\/action.yml"}],"sha":"b9c329ee34ff22c352b16f1b65b7775f20b7538c"}]
