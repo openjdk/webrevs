@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -163,0 +163,3 @@\n+vmTestbase\/gc\/gctests\/FinalizeTest04\/FinalizeTest04.java 8284234 generic-all\n+vmTestbase\/gc\/gctests\/PhantomReference\/phantom001\/phantom001.java 8284234 generic-all\n+\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
