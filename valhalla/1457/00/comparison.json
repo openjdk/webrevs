@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -517,3 +517,1 @@\n-    \/\/ TODO 8332886 Re-enable this\n-    \/\/ @IR(counts = {ALLOC, \"= 2\"},\n-    \/\/     failOn = TRAP)\n+    @IR(counts = {ALLOC, \"= 4\"}, failOn = TRAP)\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestBasicFunctionality.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
