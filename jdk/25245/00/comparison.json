@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -537,1 +537,1 @@\n-                            (statusLine.substring(codePos+1, phrasePos));\n+                            (statusLine, codePos+1, phrasePos, 10);\n","filename":"src\/java.base\/share\/classes\/java\/net\/HttpURLConnection.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
