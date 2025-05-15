@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2676,1 +2676,1 @@\n-    \/\/ load if possible, to avoid splitting that load.\n+    \/\/ store if possible, to avoid splitting that store.\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
