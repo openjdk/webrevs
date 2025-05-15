@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add 'extra-options' step to setup additional options. Remove run-test-static and the related notify failure steps."},"files":[{"filename":".github\/workflows\/test.yml"}],"sha":"a58e38189034ddf79f8421636865cd207ac8c48b"}]
