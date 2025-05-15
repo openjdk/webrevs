@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -317,1 +317,0 @@\n-    _heap_log = new HeapGCLog();\n@@ -319,0 +318,1 @@\n+    _heap_log = new HeapGCLog();\n@@ -320,1 +320,0 @@\n-    _heap_log = nullptr;\n@@ -322,0 +321,1 @@\n+    _heap_log = nullptr;\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
