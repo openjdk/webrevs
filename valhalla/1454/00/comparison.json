@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+ *                          -XX:+UnlockDiagnosticVMOptions\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/valhalla\/SetTag\/ValueTagMapTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
