@@ -1,0 +1,1 @@
+[{"commit":{"message":"Blackhole ArrayDeque to ensure it's not ignored by the compiler."},"files":[{"filename":"test\/jdk\/java\/util\/ArrayDeque\/ClearBenchmarkTestJMH.java"}],"sha":"9f0c5fe1f90fc7e88a22f084a8443ef0160ee840"}]
