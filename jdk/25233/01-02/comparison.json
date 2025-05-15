@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4618,3 +4618,1 @@\n-  if (::FindClose(f) == 0) {\n-    errno = ::GetLastError();\n-  }\n+  ::FindClose(f);\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
