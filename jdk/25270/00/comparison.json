@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-  virtual bool is_experimental() { return true; }\n+  virtual bool is_experimental() { return false; }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/mode\/shenandoahGenerationalMode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
