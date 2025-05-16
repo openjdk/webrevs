@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3619,1 +3619,1 @@\n-                    && nBits > Integer.numberOfTrailingZeros(magLen - 1 - nzInts)) {\n+                    && nBits > Integer.numberOfTrailingZeros(mag[magLen - 1 - nzInts])) {\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
