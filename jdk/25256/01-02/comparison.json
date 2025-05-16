@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -283,1 +283,1 @@\n-    Error: abstract class {0} can not instantiated\\n\\\n+    Error: abstract class {0} can not be instantiated\\n\\\n","filename":"src\/java.base\/share\/classes\/sun\/launcher\/resources\/launcher.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
