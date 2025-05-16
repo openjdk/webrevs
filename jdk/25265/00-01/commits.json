@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only call getGnomeShellMajorVersion when the desktop is Gnome."},"files":[{"filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/screencast\/XdgDesktopPortal.java"}],"sha":"5d08133ed00c6f22b71ffe6349591e11ea2813ed"}]
