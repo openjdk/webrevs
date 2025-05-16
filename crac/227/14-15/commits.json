@@ -1,0 +1,1 @@
+[{"commit":{"message":"Wrap cpufeatures_store() by VM_Version::ignore_cpu_features()"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"}],"sha":"76d3dd421ebf9abce173fd6cd6d2fef8e828f9f8"}]
