@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -183,1 +183,1 @@\n-            throw new RuntimeException(f + \" usable space \" + fs + \" > free space \" + ts);\n+            throw new RuntimeException(f + \" usable space \" + us + \" > free space \" + fs);\n","filename":"test\/jdk\/java\/io\/File\/GetXSpace.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
