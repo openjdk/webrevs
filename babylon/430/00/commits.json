@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add rocm\/hip cmake rules -  hip backend work in progress"},"files":[{"filename":"hat\/backends\/ffi\/CMakeLists.txt"},{"filename":"hat\/backends\/ffi\/cuda\/include\/cuda_backend.h"},{"filename":"hat\/backends\/ffi\/hip\/CMakeLists.txt"},{"filename":"hat\/backends\/ffi\/hip\/include\/hip_backend.h"}],"sha":"dbe1b683cf20cfb356fc39ba356a0fc228207bf3"}]
