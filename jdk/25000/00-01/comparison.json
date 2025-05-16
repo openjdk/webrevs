@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -824,1 +824,1 @@\n-  if (FLAG_IS_DEFAULT(MinHeapFreeRatio) && MinHeapFreeRatio == 0) {\n+  if (FLAG_IS_DEFAULT(MinHeapFreeRatio)) {\n","filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
