@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3985,1 +3985,1 @@\n-        return isArray() ? componentType : null;\n+        return componentType;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
