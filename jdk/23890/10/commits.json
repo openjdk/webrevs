@@ -1,0 +1,1 @@
+[{"commit":{"message":"change the name of dest from 'to' to 'dest'"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"61648e2e87e745d8e29d95d6e578e798fef5cae1"},{"commit":{"message":"RISC-V: Intrinsify Unsafe::setMemory"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"0b03bb2ac0c8b004b641ef29c14df45bc0b060d8"}]
