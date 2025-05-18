@@ -1,0 +1,1 @@
+[{"commit":{"message":"make variables volatile since used in more than one thread."},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/ExceptionEvent\/_itself_\/exevent008.java"}],"sha":"ef35ffa99a7c33441f1666445a1b0cbb4012a7fb"}]
