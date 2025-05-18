@@ -1,0 +1,1 @@
+[{"commit":{"message":"load the JVMCI module if +EnableJVMCI is set in the jimage"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmci_globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"196425f993abd064edb9ac268d7c2e752290cfaf"}]
