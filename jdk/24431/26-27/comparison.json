@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -12857,1 +12857,1 @@\n-                                         int size, int b1, bool no_flags, bool is_map1) {\n+                                         int size, int opcode_byte, bool no_flags, bool is_map1) {\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

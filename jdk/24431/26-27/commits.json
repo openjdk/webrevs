@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update src\/hotspot\/cpu\/x86\/assembler_x86.cpp\r\n\r\nChange int b1 to int opcode_byte\n\nCo-authored-by: Jatin Bhateja <jatin.bhateja@intel.com>"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"}],"sha":"c3e8f9ec571d4e387c7368c1416523c536ea006a"}]
