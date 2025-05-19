@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-    \/\/ Call this after _rnd is initialized to initialize _bytes_until_sample.\n+    \/\/ Call this after _rnd is initialized to initialize _sample_threshold.\n","filename":"src\/hotspot\/share\/runtime\/threadHeapSampler.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
