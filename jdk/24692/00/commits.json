@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Avoid redundant WeakHashMap.get in Toolkit.removeAWTEventListener"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/Toolkit.java"}],"sha":"e0559bc00383698d57b4249f4867b888af66a8ee"}]
