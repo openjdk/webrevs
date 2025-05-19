@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1240,0 +1240,3 @@\n+  \/\/ caller->constants->copy_bootstrap_arguments_at performs a runtime\n+  \/\/ range check, but let's assert earlier as well.\n+  assert(start < end && start >= 0, \"invariant\");\n","filename":"src\/hotspot\/share\/prims\/methodHandles.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
