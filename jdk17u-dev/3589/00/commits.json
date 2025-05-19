@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport e0774bed2d2fcd850f5ca6884dd7aeb45f0bdaef"},"files":[{"filename":"src\/hotspot\/share\/opto\/parse2.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/parsing\/MissingSafepointOnSwitch.jasm"},{"filename":"test\/hotspot\/jtreg\/compiler\/parsing\/TestMissingSafepointOnSwitch.java"}],"sha":"c07477571e29e21597088ed7ae22085d4a7250dc"}]
