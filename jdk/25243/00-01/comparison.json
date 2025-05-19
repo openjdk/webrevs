@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @requires vm.compiler2.enabled\n+ * @requires vm.flavor == \"server\" & (vm.opt.TieredStopAtLevel == null | vm.opt.TieredStopAtLevel == 4)\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestVectorZeroCount.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
