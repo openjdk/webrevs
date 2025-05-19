@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed numberOfTrailingZeros() as a duplicate of the cached getLowestSetBit()"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java"}],"sha":"b74fefa590654547f4006a0e02f63c25ddf5302c"}]
