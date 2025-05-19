@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-        testWith(\"-XX:ShenandoahGCMode=generational\", Mode.EXPERIMENTAL);\n+        testWith(\"-XX:ShenandoahGCMode=generational\", Mode.PRODUCT);\n","filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/options\/TestModeUnlock.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
