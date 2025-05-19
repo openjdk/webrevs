@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,2 +56,0 @@\n-import static com.sun.tools.javac.code.Kinds.kindName;\n-\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/InferenceContext.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
