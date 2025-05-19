@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1942,1 +1942,0 @@\n-        long shift = 0L;\n@@ -1969,0 +1968,1 @@\n+            long shift;\n@@ -1984,0 +1984,1 @@\n+                shift = 0L;\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
