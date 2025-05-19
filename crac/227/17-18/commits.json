@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not call prepare_user_data_api() if no user data is needed"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"}],"sha":"b7c976c4a86268ee2455176003d603be6e988955"}]
