@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1903,1 +1903,1 @@\n-    assert(trip_count > 0 && (julong)trip_count < (julong)max_juint\/2, \"sanity\");\n+    assert(trip_count > 0 && (julong)trip_count <= (julong)1 << (sizeof(juint)*BitsPerByte-1), \"sanity\");\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
