@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1049,1 +1049,1 @@\n-    \/\/ Wrap it around and continue until bailout really happens to avoid hitting assertions.\n+      \/\/ Wrap it around and continue until bailout really happens to avoid hitting assertions.\n","filename":"hotspot\/src\/share\/vm\/c1\/c1_LIRGenerator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
