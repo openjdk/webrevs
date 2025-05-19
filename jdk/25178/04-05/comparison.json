@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -485,0 +485,2 @@\n+        \/\/ create zip file using zipfs with default option\n+        createTestZipFile(ZIP_FILE, ENV_DEFAULT).close();\n","filename":"test\/jdk\/jdk\/nio\/zipfs\/TestPosix.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
