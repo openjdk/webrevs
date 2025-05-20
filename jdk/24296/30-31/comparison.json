@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -177,1 +177,1 @@\n-  return record_inner(jt, frame, skip, in_continuation, stack_filter_id);\n+  return record_inner(jt, frame, in_continuation, skip, stack_filter_id);\n","filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrStackTrace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
