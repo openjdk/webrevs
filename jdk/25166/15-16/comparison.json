@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4362,1 +4362,1 @@\n-        return ((long) getInt(1) << Integer.SIZE) + (getInt(0) & LONG_MASK);\n+        return ((long) getInt(1) << Integer.SIZE) | (getInt(0) & LONG_MASK);\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
