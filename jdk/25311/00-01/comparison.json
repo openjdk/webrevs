@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,0 @@\n- * @requires (os.arch == \"x86_64\") | (os.arch == \"amd64\") | (os.arch == \"aarch64\")\n","filename":"test\/jdk\/java\/nio\/Buffer\/LimitDirectMemoryNegativeTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
