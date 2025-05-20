@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350869: Clean up of the test, error handling in get_path_to_target"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/LoadClass\/TestSymlinkLoad.java"}],"sha":"f541fd6b41a30dd784665563ef05088e2ff65920"}]
