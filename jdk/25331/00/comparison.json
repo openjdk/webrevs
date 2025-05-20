@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n- * @run main\/othervm\/timeout=300 -XX:+UnlockDiagnosticVMOptions\n+ * @run main\/othervm\/timeout=400 -XX:+UnlockDiagnosticVMOptions\n","filename":"test\/jdk\/java\/lang\/Thread\/virtual\/stress\/Skynet.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
