@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Removed redundant code for choosing division's algorithm logic\"\n\nThis reverts commit 7a0b0211c658014f8c3736f6032e7d3ef35fb820."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java"}],"sha":"8c4587bfaecfa3329832ddaf7a769dc3339806ef"}]
