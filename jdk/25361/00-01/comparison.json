@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,1 @@\n+        \/\/ The jvm.cfg is parsed by the java launcher in java.c.\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/NonJVMVariantLocation.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
