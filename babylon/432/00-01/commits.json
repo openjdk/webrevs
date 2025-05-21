@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify parser code to use `Lexer::is`"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/parser\/impl\/DescParser.java"},{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/type\/impl\/JavaTypeUtils.java"}],"sha":"cf48f74c892ba243f58f39b7d2d7dcbeac93256d"}]
