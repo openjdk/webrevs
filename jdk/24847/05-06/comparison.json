@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,1 +237,1 @@\n-      int _next_index = java_fields > UINT8_MAX + 1 ?\n+      _next_index = java_fields > UINT8_MAX + 1 ?\n","filename":"src\/hotspot\/share\/oops\/fieldInfo.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
