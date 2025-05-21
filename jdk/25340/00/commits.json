@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357299: Graphics copyArea doesn't copy any pixels when there is overflow"},"files":[{"filename":"src\/java.desktop\/share\/native\/libawt\/java2d\/loops\/Blit.c"},{"filename":"test\/jdk\/java\/awt\/Graphics\/BrokenBoundsClip.java"}],"sha":"2731bea52a7e499fc6ddd405710202f608880127"}]
