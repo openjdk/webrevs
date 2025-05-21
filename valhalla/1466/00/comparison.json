@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @run junit\/othervm -Dvalue.bsm.salt=1 ObjectMethods\n+ * @run junit\/othervm -Dvalue.bsm.salt=1 -XX:-UseAtomicValueFlattening ObjectMethods\n","filename":"test\/jdk\/valhalla\/valuetypes\/ObjectMethods.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
