@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1471,0 +1471,1 @@\n+            exit(EXIT_BAD_ARGS);\n","filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/tool\/Tool.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
