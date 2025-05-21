@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,1 +298,1 @@\n-\\  --linux-package-deps <package-dep>[, <package-dep>...]\\n\\\n+\\  --linux-package-deps <package-dep-string>\\n\\\n","filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/resources\/HelpResources.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
