@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357361: Exception when compiling switch expression with inferred type."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransTypes.java"},{"filename":"test\/langtools\/tools\/javac\/switchexpr\/ExpressionSwitchBugsInGen.java"}],"sha":"62c70c3d2438bc02736334018e4560942b833920"}]
