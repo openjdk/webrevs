@@ -1,0 +1,1 @@
+[{"commit":{"message":"8353504: CDS archives are not found when JVM is in non-variant location"},"files":[{"filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/NonJVMVariantLocation.java"},{"filename":"test\/lib\/jdk\/test\/lib\/cds\/CDSTestUtils.java"}],"sha":"7ab3b809e14142ae17957e585d78c7d0de10276f"}]
