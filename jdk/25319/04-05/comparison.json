@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-class MenuItemTestHelper {\n+final class MenuItemTestHelper {\n","filename":"test\/jdk\/javax\/swing\/JMenuItem\/MenuItemTest\/MenuItemTestHelper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
