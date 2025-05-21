@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,1 @@\n- *      \/\/ don't need to clear the applet on repaints.\n+ *      \/\/ don't need to clear the component background on repaints.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/MediaTracker.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
