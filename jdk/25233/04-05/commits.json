@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350869: Fixed comments. Added skip exception to the test when symlinks are not supported."},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/LoadClass\/TestSymlinkLoad.java"}],"sha":"a6ff5001ea00b6b721cb6e65d6ce696dae5d45e4"}]
