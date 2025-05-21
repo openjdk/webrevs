@@ -1,0 +1,1 @@
+[{"commit":{"message":"encrypt() should return an empty byte array on failure"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SessionTicketExtension.java"}],"sha":"b27edb95a1eb6ffdc7a27b5385097b34a016d82d"}]
