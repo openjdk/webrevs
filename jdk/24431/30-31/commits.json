@@ -1,0 +1,1 @@
+[{"commit":{"message":"rename evex_opcode_prefix_and_encode with imm8 to emit_eevex_or_demote"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.hpp"}],"sha":"95190a1e2dcf741da1dd380125d439e79c159a49"}]
