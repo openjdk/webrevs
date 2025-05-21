@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,1 +142,1 @@\n-runtime\/valhalla\/inlinetypes\/verifier\/StrictInstanceFieldsTest.java generic-all\n+runtime\/valhalla\/inlinetypes\/verifier\/StrictInstanceFieldsTest.java CODETOOLS-7903081 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
