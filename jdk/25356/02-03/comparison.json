@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-      \/\/ Is HotSpotNmethod default, i.e., compilation scheduled by CompileBroker?\n+      \/\/ HotSpotNmethod.isDefault (e.g., compilation scheduled by CompileBroker)\n","filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
