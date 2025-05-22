@@ -1,0 +1,1 @@
+[{"commit":{"message":"leave_jfr_critical_section in the correct location"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/interp_masm_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/interp_masm_x86.cpp"}],"sha":"5b4a7550f04df7de292315de68a9f5e59669fcd5"}]
