@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,2 +53,0 @@\n-        if (flags == null) {\n-        }\n","filename":"test\/hotspot\/jtreg\/compiler\/macronodes\/TestEarlyEliminationOfAllocationWithoutUse.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
