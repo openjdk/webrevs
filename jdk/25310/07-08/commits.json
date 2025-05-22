@@ -1,0 +1,1 @@
+[{"commit":{"message":"Assume \"createPossession\" can return more certificates than in the session ticket"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSessionImpl.java"}],"sha":"e724e6dae18668490ded974385d12acdf1b737d1"}]

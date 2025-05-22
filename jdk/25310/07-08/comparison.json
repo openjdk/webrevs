@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -422,1 +422,1 @@\n-                    && x509Pos.popCerts.length == len) {\n+                    && x509Pos.popCerts.length >= len) {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSessionImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
