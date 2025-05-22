@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix array field calculations"},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"},{"filename":"src\/hotspot\/share\/opto\/type.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestBasicFunctionality.java"}],"sha":"10290802aac54bf083d43b47c5b0144d5d4ad1fc"}]
