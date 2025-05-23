@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,1 @@\n+class GCHeapLog;\n@@ -50,0 +51,2 @@\n+class GCMemoryManager;\n+class GCMetaspaceLog;\n@@ -52,2 +55,0 @@\n-class GCMemoryManager;\n-class GCHeapLog;\n@@ -55,1 +56,0 @@\n-class GCMetaspaceLog;\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.hpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
