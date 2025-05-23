@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,1 @@\n-  return Atomic::load(&_method_tracer_state);\n+  return Atomic::load_acquire(&_method_tracer_state);\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/traceid\/jfrTraceIdEpoch.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
