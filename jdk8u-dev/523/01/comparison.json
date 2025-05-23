@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,3 @@\n+    \/\/ Microsoft Basic Render Driver (as maybe used in VMs such as VirtualBox)\n+    { 0x1414, 0x008c, NO_VERSION, OS_ALL },\n+\n","filename":"jdk\/src\/windows\/native\/sun\/java2d\/d3d\/D3DBadHardware.h","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
