@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -970,0 +970,1 @@\n+     * @throws  NullPointerException if {@code proxy} is {@code null}\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/Proxy.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
