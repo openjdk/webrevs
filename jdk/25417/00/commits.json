@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357654: [BACKOUT] JDK-8343580: Type error with inner classes of generic classes in functions generic by outer"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Type.java"},{"filename":"test\/langtools\/tools\/javac\/T8343580.java"}],"sha":"87518a8d18d727abfff416a15e79a8789f11cec5"}]
