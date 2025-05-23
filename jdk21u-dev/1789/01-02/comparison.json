@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -338,1 +338,1 @@\n-      __ cmpwi(C, r_arg_result_type, T_OBJECT);\n+      __ cmpwi(CCR0, r_arg_result_type, T_OBJECT);\n","filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
