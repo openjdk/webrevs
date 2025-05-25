@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -568,2 +568,1 @@\n-        this.value = str.value;\n-        this.coder = str.coder;\n+        this(str);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
