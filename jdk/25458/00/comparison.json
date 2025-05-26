@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-  _saved_interp_only_mode = 0;\n+  _saved_interp_only_mode = false;\n@@ -803,1 +803,1 @@\n-    _saved_interp_only_mode = 0;\n+    _saved_interp_only_mode = false;\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
