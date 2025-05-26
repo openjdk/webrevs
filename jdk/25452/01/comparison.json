@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,1 @@\n+        this.state = ST_NEW;\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/StructuredTaskScopeImpl.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
