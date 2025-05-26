@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -493,1 +493,0 @@\n-    os::free((void*)lcp);\n@@ -495,0 +494,1 @@\n+    os::free((void*)lcp);\n","filename":"src\/hotspot\/share\/cds\/aotClassLocation.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
