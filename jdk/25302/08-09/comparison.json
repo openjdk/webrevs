@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -428,1 +428,1 @@\n-label = \"CPU Time Samples lost because of internal throttling\"\n+label = \"CPU Time Samples lost\"\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/query\/view.ini","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
