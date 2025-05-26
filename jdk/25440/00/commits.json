@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix vector truncation with subword types"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestSubwordTruncation.java"}],"sha":"8d1a81744d2139941d03cc1bc558f5015304c665"}]
