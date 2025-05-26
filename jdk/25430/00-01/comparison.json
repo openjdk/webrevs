@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1350,1 +1350,1 @@\n-        result.append(\"    static final char[][][] charMap;\\n\");\n+        result.append(\"    @Stable static final char[][][] charMap;\\n\");\n","filename":"make\/jdk\/src\/classes\/build\/tools\/generatecharacter\/GenerateCharacter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
