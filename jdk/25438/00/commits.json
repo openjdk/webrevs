@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357695: RISC-V: Move vector intrinsic condition checks into match_rule_supported_vector"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"dba658b54e2111d5d5d15c40e7392074c2631da3"}]
