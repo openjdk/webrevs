@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -174,1 +174,0 @@\n-  assert(jt->thread_state() == _thread_in_Java, \"invariant\");\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrSampleRequest.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
