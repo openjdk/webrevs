@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,0 +114,1 @@\n+            \/\/the stdin\/out\/err.encoding properties are always defined, and can be copied:\n","filename":"src\/jdk.jshell\/share\/classes\/jdk\/jshell\/execution\/JdiDefaultExecutionControl.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
