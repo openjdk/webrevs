@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -361,1 +361,2 @@\n-  assert(ex_jvms->sp() == phi_map->_jvms->sp(), \"matching stack sizes\");\n+  \/\/ TODO 8325632 Re-enable\n+  \/\/ assert(ex_jvms->sp() == phi_map->_jvms->sp(), \"matching stack sizes\");\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
