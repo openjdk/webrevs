@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n-    --code-font-size: 13.9px;\n+    --code-font-size: 14px;\n@@ -609,0 +609,1 @@\n+    white-space: pre-wrap;\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/resources\/stylesheet.css","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
