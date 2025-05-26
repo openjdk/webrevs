@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-        JFrame frame = new JFrame((htmlEnabled) ? \"HTML enabled\" : \"HTML disabled\");\n+        JFrame frame = new JFrame((!htmlEnabled) ? \"HTML enabled\" : \"HTML disabled\");\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/HTMLFileName.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
