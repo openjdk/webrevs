@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-  nonstatic_field(G1HeapRegionTable, _biased_base,      size_t)               \\\n+  nonstatic_field(G1HeapRegionTable, _biased_base,      uintptr_t)            \\\n","filename":"src\/hotspot\/share\/gc\/g1\/vmStructs_g1.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

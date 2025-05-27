@@ -1,0 +1,1 @@
+[{"commit":{"message":"* change size_t to uintptr_t in vmstructs"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/vmStructs_g1.hpp"}],"sha":"a87b3ed83facf248ed17e3079721a562a21dac6d"}]
