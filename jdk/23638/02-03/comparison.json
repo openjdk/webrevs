@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -426,1 +426,1 @@\n-<a id=\"option-linux-package-deps\">`--linux-package-deps *package-dep-string*`<\/a>\n+<a id=\"option-linux-package-deps\">`--linux-package-deps` *package-dep-string*<\/a>\n","filename":"src\/jdk.jpackage\/share\/man\/jpackage.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
