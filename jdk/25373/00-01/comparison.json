@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -819,1 +819,1 @@\n-    \/\/ Note that the bitmap is guatanteed to be deterministic, regardless of the\n+    \/\/ Note that the bitmap is guaranteed to be deterministic, regardless of the\n","filename":"src\/hotspot\/share\/oops\/klass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
