@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @bug 8324837\n+ * @bug 8357781\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/StackOverflowInSetNextCall.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
