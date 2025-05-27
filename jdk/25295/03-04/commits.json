@@ -1,0 +1,1 @@
+[{"commit":{"message":"+message in assert"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"}],"sha":"fa4dd336fcd4f2010f0f70e753451c3e0cf99191"},{"commit":{"message":"Move asserts around"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"}],"sha":"1b748dfd87b3032809b486962c363ce965560e85"}]
