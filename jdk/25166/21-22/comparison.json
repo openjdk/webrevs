@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4732,1 +4732,1 @@\n-        for (i = a.length - 1; i >= keep && a[i] == 0; i--) \/\/ Skip trailing zeros\n+        for (i = a.length - 1; a[i] == 0; i--) \/\/ Skip trailing zeros\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
