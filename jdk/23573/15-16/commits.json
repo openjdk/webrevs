@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only exclude JVMCI methods that contain a mirror"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"edefbf6210948374213d7898e75a66e3c3885a31"}]
