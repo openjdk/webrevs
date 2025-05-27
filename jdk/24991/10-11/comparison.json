@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-     * Play back is managed in a background thread, which is ususally a daemon thread.\n+     * Play back is managed in a background thread, which is usually a daemon thread.\n","filename":"src\/java.desktop\/share\/classes\/javax\/sound\/SoundClip.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
