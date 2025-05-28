@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -187,5 +187,0 @@\n-  if (!should_continue()) {\n-    \/\/ We are stopping\n-    return;\n-  }\n-\n@@ -209,6 +204,0 @@\n-  if (!should_continue()) {\n-    \/\/ We are stopping\n-    return false;\n-  }\n-\n-  \/\/ Lock\n","filename":"src\/hotspot\/share\/gc\/z\/zUncommitter.cpp","additions":0,"deletions":11,"binary":false,"changes":11,"status":"modified"}]}
