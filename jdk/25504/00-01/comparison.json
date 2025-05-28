@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1038,1 +1038,1 @@\n-  __ load_klass(Rscratch, Rarray);\n+  __ load_klass_check_null_throw(Rscratch, Rarray, Rscratch);\n","filename":"src\/hotspot\/cpu\/ppc\/templateTable_ppc_64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
