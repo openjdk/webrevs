@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351997: AArch64: Interpreter volatile reference stores with G1 are not sequentially consistent"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp"}],"sha":"44f7e09247356fbde6d0782f25d28922abbe8e26"}]
