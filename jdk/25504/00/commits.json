@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357793: [PPC64] VM crashes with -XX:-UseSIGTRAP -XX:-ImplicitNullChecks"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/methodHandles_ppc.cpp"}],"sha":"fe0a8a166051d648564977498858421d6204a6a4"}]
