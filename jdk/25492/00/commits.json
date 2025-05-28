@@ -1,0 +1,1 @@
+[{"commit":{"message":"Introduce new phase \"live range stretching\""},"files":[{"filename":"src\/hotspot\/share\/opto\/chaitin.cpp"},{"filename":"src\/hotspot\/share\/opto\/phasetype.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/CompilePhase.java"}],"sha":"df3c396f5a26658f6efbaf4f7a153f7214be5e57"}]
