@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,0 @@\n-    private static volatile CountDownLatch latch;\n@@ -58,0 +57,2 @@\n+    private static final CountDownLatch latch = new CountDownLatch(REPEAT_COUNT);\n+\n","filename":"test\/jdk\/java\/awt\/FileDialog\/DoubleActionESC.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
