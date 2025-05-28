@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix zero-length allocation"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/SegmentFactories.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegments.java"}],"sha":"0046128a75b7bb3f81eab3ef6b14b2efb73fe50e"}]
