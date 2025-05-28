@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -768,1 +768,1 @@\n-  \/\/ Save ConstMethod* in x15\n+  \/\/ Save ConstMethod* in x15_const_method for later use to avoid loading multiple times\n","filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
