@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357981: [PPC64] Remove old instructions from VM_Version::determine_features()"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.hpp"}],"sha":"9d86e495df7d290c6c39429c171729fea7f280a2"}]
