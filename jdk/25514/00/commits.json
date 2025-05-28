@@ -1,0 +1,1 @@
+[{"commit":{"message":"8358013: [PPC64] VSX has poor performance on Power8"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/globals_ppc.hpp"},{"filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.cpp"}],"sha":"0e1e116c32f6c5867bbc6a55769dc163d8e8bd8a"}]
