@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -870,1 +870,0 @@\n-  const Register r5 = noreg;\n@@ -905,1 +904,0 @@\n-  const Register r11 = noreg;\n","filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
