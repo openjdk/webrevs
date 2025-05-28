@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,1 +239,1 @@\n-         * Each entry must appeare at least once in the CEN or LOC.\n+         * Each entry must appear at least once in the CEN or LOC.\n","filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/Validator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
