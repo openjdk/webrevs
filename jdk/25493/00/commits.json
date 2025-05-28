@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351635: C2 ROR\/ROL: assert failed: Long constant expected"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorRotateScalarCount.java"}],"sha":"c68b74687c0b6745f779aa303fa2cfaf765042bf"}]
