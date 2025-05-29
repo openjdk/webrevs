@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1162,1 +1162,1 @@\n-    \/\/ park blocker or an object the tread waiting on\/trying to lock\n+    \/\/ park blocker or an object the thread waiting on\/trying to lock\n","filename":"src\/hotspot\/share\/services\/threadService.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
