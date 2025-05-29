@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improved logging and TryCatchChildBad"},"files":[{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/verifier\/TryCatchChildBad.jasm"}],"sha":"f7651d518e1f281e960936e6460b566170430522"}]
