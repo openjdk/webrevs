@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use -Xlog:exceptions+stacktrace instead; fixed typo in comments"},"files":[{"filename":"src\/hotspot\/share\/utilities\/exceptions.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/ExceptionsTest.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/ExceptionsTest_options_file"}],"sha":"39839d513be64e35e6edeb4d4a2be68b6f170b52"}]
