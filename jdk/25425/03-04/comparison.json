@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1145,1 +1145,1 @@\n-    \/\/ synchronization object (when type == LOCKED) ot its klass (type == ELIMINATED)\n+    \/\/ synchronization object (when type == LOCKED) or its klass (type == ELIMINATED)\n","filename":"src\/hotspot\/share\/services\/threadService.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
