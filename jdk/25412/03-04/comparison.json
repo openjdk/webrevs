@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -770,1 +770,0 @@\n-  const Register x15 = noreg;\n@@ -807,1 +806,0 @@\n-  const Register x28 = noreg;\n","filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
