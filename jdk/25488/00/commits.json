@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove phantom_ref arg from JVMCINMethodData::get_nmethod_mirror"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp"},{"filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.hpp"}],"sha":"0dcb1c785037140eae1e4f62729a50ce1e19554d"}]
