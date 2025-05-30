@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2874,0 +2874,1 @@\n+  attributes.set_address_attributes(\/* tuple_type *\/ EVEX_FVM, \/* input_size_in_bits *\/ EVEX_NObit);\n","filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
