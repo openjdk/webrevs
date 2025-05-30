@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+import java.nio.charset.StandardCharsets;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSessionImpl.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
