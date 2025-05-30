@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -466,0 +466,2 @@\n+    jni->ReleaseByteArrayElements(arr, jni_arr, 0);\n+\n","filename":"test\/lib\/jdk\/test\/lib\/jvmti\/jvmti_common.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
