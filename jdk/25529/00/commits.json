@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8358077:sun.tools.attach.VirtualMachineImpl::checkCatchesAndSendQuitTo on Linux leaks file handles after JDK-8327114"},"files":[{"filename":"src\/jdk.attach\/linux\/classes\/sun\/tools\/attach\/VirtualMachineImpl.java"}],"sha":"c30a4b3120c326fca626f02a2a92a18c98037c55"}]
