@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -285,1 +285,0 @@\n-  printf(\"jfr_set_method_sampling_period(%ld, %ld)\\n\", type, periodMillis);\n","filename":"src\/hotspot\/share\/jfr\/jni\/jfrJniMethod.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
