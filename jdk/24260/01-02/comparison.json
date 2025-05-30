@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -342,1 +342,1 @@\n-    assert(Rd != Rn);\n+    assert(Rd != Rn, \"Use tmp register\");\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
