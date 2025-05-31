@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352187: Don't start management agent during AOT cache creation"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/HelloAOTCache.java"}],"sha":"abeb7b6f4561e7b892ec312aa8609bc00d7def5a"}]
