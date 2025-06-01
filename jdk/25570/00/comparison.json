@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1999,0 +1999,3 @@\n+#if INCLUDE_JVMCI\n+  _failed_speculations = nullptr;\n+#endif\n","filename":"src\/hotspot\/share\/oops\/methodData.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

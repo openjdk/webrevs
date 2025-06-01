@@ -1,0 +1,1 @@
+[{"commit":{"message":"Null out MethodData::_failed_speculations before snapshot"},"files":[{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"}],"sha":"d0c587caf23ad1d7ded29bc0a6e6d02967287179"}]
