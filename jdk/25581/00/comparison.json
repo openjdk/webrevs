@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -259,1 +259,2 @@\n-        return getEncodedInternal().clone();\n+        byte[] b = getEncodedInternal();\n+        return (b != null) ? b.clone() : null;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/pkcs\/PKCS8Key.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
