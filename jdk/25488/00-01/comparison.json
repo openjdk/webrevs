@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -801,3 +801,0 @@\n-  if (_nmethod_mirror_index == -1) {\n-    return;\n-  }\n@@ -805,0 +802,3 @@\n+  if (nmethod_mirror == nullptr) {\n+   return;\n+  }\n","filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
