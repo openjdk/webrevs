@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename uncommit_watermark to min_size_watermark"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zMappedCache.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zMappedCache.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zUncommitter.cpp"}],"sha":"0b3f473979c68943c6fe13b92bba5a4be43fb8f7"}]
