@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,1 +306,0 @@\n-      archived_asm_remarks.clear();\n@@ -308,1 +307,0 @@\n-      archived_dbg_strings.clear();\n","filename":"src\/hotspot\/share\/code\/codeBlob.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
