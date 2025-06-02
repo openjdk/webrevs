@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix bug in Convert.utfNumChars()."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/util\/Convert.java"},{"filename":"test\/langtools\/tools\/javac\/nametable\/TestUtfNumChars.java"}],"sha":"18f9c0c9976f5d1091ef869d66e41c3a00c5275e"}]
