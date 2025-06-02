@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,0 +88,1 @@\n+      locker.notify_all(); \/\/ notify that queue is empty\n","filename":"src\/hotspot\/share\/compiler\/compilationPolicy.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
