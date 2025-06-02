@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable some IR rules for Power8."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestAutoVectorization2DArray.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/MinMaxRed_Int.java"}],"sha":"2014cb214fe879b4b7bdbfc2ad6351dfb6cf99db"}]
