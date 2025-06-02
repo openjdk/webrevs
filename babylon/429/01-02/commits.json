@@ -1,0 +1,1 @@
+[{"commit":{"message":"refactored Tensor.ElementType::size to ::bitSize\n"},"files":[{"filename":"cr-examples\/onnx\/src\/main\/java\/oracle\/code\/onnx\/OnnxRuntime.java"},{"filename":"cr-examples\/onnx\/src\/main\/java\/oracle\/code\/onnx\/Tensor.java"}],"sha":"380648f53947bd0ff87bd9f7bc42aeff940473e4"}]
