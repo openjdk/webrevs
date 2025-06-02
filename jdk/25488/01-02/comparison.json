@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -803,1 +803,1 @@\n-   return;\n+    return;\n","filename":"src\/hotspot\/share\/jvmci\/jvmciRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
