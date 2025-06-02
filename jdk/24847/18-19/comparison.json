@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-  unsigned int low = 0, high = search_table_length \/ _element_bytes;\n+  unsigned int low = 0, high = checked_cast<unsigned int>(search_table_length \/ _element_bytes);\n","filename":"src\/hotspot\/share\/utilities\/packedTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
