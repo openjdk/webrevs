@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -293,1 +293,1 @@\n-    @IR (counts = { IRNode.COMPRESS_BITS, \" 1 \" })\n+    @IR (counts = { IRNode.COMPRESS_BITS, \" >0 \" }, applyIfCPUFeature = {\"bmi2\" , \"true\"})\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/TestBitCompressValueTransform.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
