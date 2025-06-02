@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357954: G1: No SATB barriers applied for runtime IN_NATIVE atomics"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1BarrierSet.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1BarrierSet.inline.hpp"}],"sha":"fbbe1dd296038c91d7a322e0a2b8699bba1475a5"}]
