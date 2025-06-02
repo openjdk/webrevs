@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,3 @@\n-            EventQueue.invokeAndWait(frame::dispose);\n+            if (frame != null) {\n+                frame.dispose();\n+            }\n","filename":"test\/jdk\/java\/awt\/Graphics2D\/CopyAreaOOB.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
