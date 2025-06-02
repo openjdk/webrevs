@@ -1,0 +1,1 @@
+[{"commit":{"message":"Updated copyright"},"files":[{"filename":"src\/hotspot\/share\/oops\/fieldInfo.hpp"}],"sha":"c40a1222a1b2912aca06671f49206a4b85fa8d45"},{"commit":{"message":"8357576: FieldInfo::_index is not initialized by the constructor"},"files":[{"filename":"src\/hotspot\/share\/oops\/fieldInfo.hpp"}],"sha":"e059e29a5e8f9f787684b0d104472fe723dd68f4"}]
