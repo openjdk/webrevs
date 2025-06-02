@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1040,2 +1040,0 @@\n-  TrainingData::init_dumptime_table(CHECK); \/\/ captures TrainingDataSetLocker\n-\n@@ -2204,1 +2202,0 @@\n-    TrainingData::print_archived_training_data_on(tty);\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
