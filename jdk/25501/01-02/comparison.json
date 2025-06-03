@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -10620,1 +10620,1 @@\n-  predicate(!UseAPX &&  n->in(2)->bottom_type()->is_int()->get_con() != -1);\n+  predicate(!UseAPX && n->in(2)->bottom_type()->is_int()->get_con() != -1);\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
