@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -234,1 +234,1 @@\n-  if (thread->is_Compiler_thread()) {\n+  if (thread->is_hidden_from_external_view() || thread->is_JfrRecorder_thread()) {\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
