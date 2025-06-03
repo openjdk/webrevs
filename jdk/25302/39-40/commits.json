@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make process_cpu_time_request private and move up"},"files":[{"filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrThreadSampling.cpp"},{"filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrThreadSampling.hpp"}],"sha":"7561d51202771eaa27f2854ddbe41fc6b95ac427"}]
