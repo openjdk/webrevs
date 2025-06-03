@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -438,2 +438,2 @@\n-  Atomic::release_store(&_holder_mirror, hmj);\n-  Atomic::release_store(&_holder, const_cast<InstanceKlass*>(klass));\n+  _holder_mirror = hmj;\n+  _holder = klass;\n","filename":"src\/hotspot\/share\/oops\/trainingData.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
