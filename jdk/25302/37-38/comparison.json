@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,4 +63,1 @@\n-  if (is_excluded(jt)) {\n-    return nullptr;\n-  }\n-  if (jt->is_exiting()) {\n+  if (is_excluded(jt) || jt->is_exiting()) {\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
