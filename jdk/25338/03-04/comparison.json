@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1971,1 +1971,1 @@\n-      xtty->begin_elem(\"make_not_entrant thread='%zu' change_reason='%s'\",\n+      xtty->begin_elem(\"make_not_entrant thread='%zu' reason='%s'\",\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
