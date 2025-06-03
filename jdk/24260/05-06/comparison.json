@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -327,1 +327,1 @@\n-    extrw(Rd, Rn, Rn, ((32 - imm) & 31));\n+    extrw(Rd, Rn, Rn, (32 - imm));\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
