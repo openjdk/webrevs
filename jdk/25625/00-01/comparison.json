@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n- *   _generation - mainly used with virtual threads\n+ *   _generation - mainly used with virtual threads, but also for the generational string pool in Java.\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/traceid\/jfrTraceIdEpoch.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
