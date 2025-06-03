@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1209,1 +1209,1 @@\n-    if (key == NoSymbol) {\n+    if (key == NoSymbol || (*env)->ExceptionCheck(env)) {\n","filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/screencast_pipewire.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
