@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-  product(intx, CryptoPmullForCRC32LowLimit, 256,                       \\\n+  product(intx, CryptoPmullForCRC32LowLimit, 256, DIAGNOSTIC,           \\\n","filename":"src\/hotspot\/cpu\/aarch64\/globals_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
