@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -350,0 +350,1 @@\n+  delete controlled_opts;\n","filename":"src\/hotspot\/share\/runtime\/crac.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
