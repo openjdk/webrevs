@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,1 +178,1 @@\n-    private class ThreadLock {\n+    private static class ThreadLock {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/vm\/ThreadSnapshot.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
