@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4001,1 +4001,1 @@\n-#ifndef WINDOWS\n+#ifndef _WINDOWS\n@@ -4013,1 +4013,1 @@\n-#if defined(WINDOWS) && defined(_LP64)\n+#if defined(_WINDOWS) && defined(_LP64)\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
