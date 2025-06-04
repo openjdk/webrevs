@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -11327,0 +11327,1 @@\n+  \/\/ Strict predicate check to make selection of xorL_rReg_im1 cost agnostic if immL32 src is -1.\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
