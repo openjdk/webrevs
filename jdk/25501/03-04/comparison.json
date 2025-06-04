@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -10654,0 +10654,1 @@\n+  ins_cost(150);\n@@ -11360,0 +11361,1 @@\n+  ins_cost(150);\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
