@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -195,1 +195,1 @@\n- *       property as {@code true} with the {@code accessMode} as {@code readOnly}\n+ *       property as {@code true} with the {@code accessMode} as {@code \"readOnly\"}\n","filename":"src\/jdk.zipfs\/share\/classes\/module-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
