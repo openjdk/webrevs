@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -282,1 +282,1 @@\n-    Atomic::store(_warned_about_timer_creation_failure, false);\n+    Atomic::store(&_warned_about_timer_creation_failure, false);\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
