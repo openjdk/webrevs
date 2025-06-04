@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+  @requires (os.family == \"windows\")\n","filename":"test\/jdk\/java\/awt\/Clipboard\/ConcurrentClipboardAccessTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
