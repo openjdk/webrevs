@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -334,0 +334,1 @@\n+  MutexLocker tlock(Threads_lock);\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
