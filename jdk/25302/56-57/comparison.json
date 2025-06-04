@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,1 +300,1 @@\n-    if (Atomic::fetch_then_and(&_signal_handler_installed, false)) {\n+    if (Atomic::load_acquire(&_signal_handler_installed)) {\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
