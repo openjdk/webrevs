@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -587,1 +587,1 @@\n-  sev.sigev_value.sival_ptr = &timerid;\n+  sev.sigev_value.sival_ptr = nullptr;\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
