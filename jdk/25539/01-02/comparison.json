@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -189,0 +189,3 @@\n+            if (args != null && args.length != 0) {\n+                throw new RuntimeException(\"Unexpected args\");\n+            }\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestCountedLoopCastIV.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
