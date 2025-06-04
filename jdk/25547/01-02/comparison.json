@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @run main TestEmptyModePadding \n+ * @run main TestEmptyModePadding\n","filename":"test\/jdk\/javax\/crypto\/Cipher\/TestEmptyModePadding.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
