@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-        System.out.println(\"Testing \"+ field.getUI());\n+        System.out.println(\"Testing \" + field.getUI());\n","filename":"test\/jdk\/javax\/swing\/plaf\/basic\/BasicPasswordFieldUI\/PasswordSelectionWordTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
