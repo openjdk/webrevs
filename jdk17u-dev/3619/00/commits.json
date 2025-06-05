@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport fef4c29e5a296c0c689abb25183c243326607614"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc.hpp"},{"filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc_64.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/methodHandles_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/templateTable_ppc_64.cpp"}],"sha":"b3cabf04dfc66ed11c9877b3202e494a74efdd65"}]
