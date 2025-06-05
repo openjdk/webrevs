@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,2 @@\n+# The `-utf8` option is used even for US English, as some names\n+# may contain non-ASCII characters, such as “Türkiye”.\n","filename":"make\/modules\/java.base\/Gensrc.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
