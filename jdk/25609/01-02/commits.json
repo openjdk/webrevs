@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use uint for the option and assert it >= 256"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/globals_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"}],"sha":"9b2bae68e4b4a4d1d6fb9cd5c9f59a15a9d04b12"}]
