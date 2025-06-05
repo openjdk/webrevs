@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,1 +354,1 @@\n-            getnameinfo(res->ai_addr, res->ai_addrlen, hostname, sizeof(hostname),\n+            getnameinfo(res->ai_addr, res->ai_addrlen, hostname, NI_MAXHOST,\n","filename":"jdk\/src\/solaris\/native\/java\/net\/Inet4AddressImpl.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
