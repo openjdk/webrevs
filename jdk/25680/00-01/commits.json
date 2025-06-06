@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move UseLibmIntrinsic flag to x86 portion of code base to avoid build breaks"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/templateInterpreterGenerator_x86_64.cpp"},{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp"}],"sha":"c11f54e1f273ca41d5da70251853f5cd6403c800"}]
