@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -23,1 +23,1 @@\n-                .orElse(Byte.SIZE);\n+                .orElse(8);\n","filename":"jol-core\/src\/test\/java\/org\/openjdk\/jol\/vm\/HotspotUnsafeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
