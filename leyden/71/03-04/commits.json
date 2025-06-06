@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix bug in accessing nmethod from Method\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/oops\/method.hpp"}],"sha":"e9cafdee933acaebf1ec05f9fa52d4488e82ccaf"}]
