@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,0 +72,3 @@\n+        if (systemRoot == null) {\n+            throw new RuntimeException(\"SystemRoot or WINDIR environment variable is not set.\");\n+        }\n","filename":"test\/hotspot\/jtreg\/runtime\/os\/windows\/TestAvailableProcessors.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
