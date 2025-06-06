@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix assertion failures for libm math intrinsics that don't have shared runtime implementations"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp"}],"sha":"21cda33d64f3ec3c50e9a8629633f8aad82d5f87"}]
