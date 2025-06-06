@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -773,1 +773,1 @@\n-    AOTStubCaching = false;\n+    return false;\n@@ -779,1 +779,1 @@\n-    AOTStubCaching = false;\n+    return false;\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

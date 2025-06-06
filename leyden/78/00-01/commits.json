@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ignore AOT code cache when compressed oop or klass bases are different"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"30f9934f820dd8f202acab18cb284db458b0cea3"}]
