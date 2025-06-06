@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -484,4 +484,0 @@\n-\n-void *operator new( size_t size, int, const char *, int ) throw() {\n-  return ::operator new( size );\n-}\n","filename":"src\/hotspot\/share\/adlc\/main.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
