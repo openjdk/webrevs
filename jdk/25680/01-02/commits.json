@@ -1,0 +1,1 @@
+[{"commit":{"message":"Re-structure logic to avoid reliance on UseLibmIntrinsic flag as others could be used later on"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/templateInterpreterGenerator_x86_64.cpp"},{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp"}],"sha":"8dadb41cd9e7248450c398412397a97b40f0292b"}]
