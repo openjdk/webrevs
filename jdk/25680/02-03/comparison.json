@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -319,1 +319,1 @@\n-    if (!InlineMathNatives) return true;\n+    if (!InlineMathNatives || !InlineIntrinsics) return true;\n","filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
