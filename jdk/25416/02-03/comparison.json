@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -435,1 +435,1 @@\n-            debug.log(() -> \"write error: \" + error);\n+            if (debug.on()) debug.log(() -> \"write error: \" + error);\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/SocketTube.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
