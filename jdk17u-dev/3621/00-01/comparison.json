@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-#include \"asm\/macroAssembler.hpp\"\n+#include \"asm\/macroAssembler.inline.hpp\"\n","filename":"test\/hotspot\/gtest\/code\/test_codestrings.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
