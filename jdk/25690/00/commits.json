@@ -1,0 +1,1 @@
+[{"commit":{"message":"7116990: (spec) Socket.connect(addr,timeout) not clear if IOException because of TCP timeout"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java"}],"sha":"909d7d27c78396d9051f00912ab6a20cda88c956"}]
