@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace uabs with g_uabs"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.cpp"}],"sha":"5ddbde6cebf34993e28243ad90dbc68cf0270ef5"},{"commit":{"message":"8354941: Build failure with glibc 2.42 due to uabs() name collision\n\nReviewed-by: kbarrett, thartmann"},"files":[],"sha":"c00d1cc41cd7d83fd54b584bcc20e2fea337e361"}]
