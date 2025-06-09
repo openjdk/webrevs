@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unneeded \"length\" field, using segment,byteSize() instead\nFix description of resize method.\nMinor whitespace changes"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/marlin\/OffHeapArray.java"}],"sha":"b22ed6d202f7bb3765fa402a748d455f6316f7c9"}]
