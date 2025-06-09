@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -320,0 +320,3 @@\n+#ifdef AMD64\n+    if (!UseLibmIntrinsic) return true;\n+#endif\n","filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

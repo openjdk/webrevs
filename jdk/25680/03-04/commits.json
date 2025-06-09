@@ -1,0 +1,1 @@
+[{"commit":{"message":"Include check for UseLibmIntrinsic flag but restrict to x86 platforms"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp"}],"sha":"aff9ca096de04af51b1357582816102269737de3"}]
