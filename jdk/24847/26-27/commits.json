@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert removing FieldInfoReader::next_uint()"},"files":[{"filename":"src\/hotspot\/share\/oops\/fieldInfo.hpp"},{"filename":"src\/hotspot\/share\/oops\/fieldInfo.inline.hpp"}],"sha":"5d6463766010e5d905feecd5d8130ec1d6cd0fa5"}]
