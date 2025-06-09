@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,0 +24,6 @@\n+#include <cstring>\n+\n+\/\/ MSVC++ does not have an appropriate builtin, use library version\n+#ifdef _MSC_VER\n+# define __builtin_memcpy memcpy\n+#endif\n","filename":"src\/hotspot\/share\/utilities\/packedTable.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
