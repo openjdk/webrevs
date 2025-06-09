@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved invariant checking into linkFirst() and linkLast() methods and added unit test for weakly consistent iteration"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/LinkedBlockingDeque.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/LinkedBlockingDequeTest.java"}],"sha":"e2a0967a45dbe35864894b436671de0bba1fd31d"}]
