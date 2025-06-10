@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1416,1 +1416,1 @@\n-              if (con == NULL) {\n+              if (con == nullptr) {\n","filename":"src\/hotspot\/share\/opto\/loopConditionalPropagation.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
