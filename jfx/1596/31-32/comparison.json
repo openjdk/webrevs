@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,1 @@\n+import javafx.geometry.VPos;\n@@ -320,0 +321,1 @@\n+            text.setTextOrigin(VPos.TOP);\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/Text_TextLayout_Test.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
