@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -983,1 +983,1 @@\n-    public void type(char c) {\n+    public synchronized void type(char c) {\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Robot.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
