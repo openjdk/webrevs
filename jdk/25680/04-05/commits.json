@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add guard preprocessors to ensure HotSpot Zero JVM builds don't fail"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp"}],"sha":"fa21605fe7d5acb401c2e7b36431dc9a28fa6d99"}]

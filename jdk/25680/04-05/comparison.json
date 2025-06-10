@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -320,1 +320,1 @@\n-#ifdef AMD64\n+#if defined(AMD64) && (defined(COMPILER1) || defined(COMPILER2))\n","filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
