@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n- * such as <code>JFrame<\/code>, <code>JDialog<\/code> --\n+ * such as <code>JFrame<\/code> and <code>JDialog<\/code> --\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JComponent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
