@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -956,1 +956,1 @@\n-                if (pending  != null) {\n+                if (pending != null) {\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/SocketTube.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
