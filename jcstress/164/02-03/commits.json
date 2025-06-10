@@ -1,0 +1,1 @@
+[{"commit":{"message":"Respond to feedback\n\nPartially revert 2385cbd311cc5ca4f25e82da8162adb5a4577e0e, to return\nthe annotation processor configuration."},"files":[{"filename":"jcstress-core\/src\/main\/resources\/META-INF\/services\/javax.annotation.processing.Processor"}],"sha":"c7eec5b8454d61a468c230d01e71bba57a932778"}]
