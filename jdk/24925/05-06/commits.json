@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reduced volatile reads\n\nCo-authored-by: Viktor Klang <viktor.klang@oracle.com>"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/LinkedBlockingDeque.java"}],"sha":"5faf1f11f7a882eeb548d94d1c9a708e65bb3e11"}]

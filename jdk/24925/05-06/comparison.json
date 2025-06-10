@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,1 +235,2 @@\n-        if (count >= capacity)\n+        int c;\n+        if ((c = count) >= capacity)\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/LinkedBlockingDeque.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
