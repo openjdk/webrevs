@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1080,1 +1080,1 @@\n-  char* fname;\n+  const char* fname;\n@@ -1088,1 +1088,1 @@\n-  fname = (char*)dlinfo.dli_fname;\n+  fname = dlinfo.dli_fname;\n","filename":"src\/hotspot\/os\/posix\/os_posix.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
