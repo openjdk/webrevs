@@ -1,0 +1,1 @@
+[{"commit":{"message":"Initialize alpha maps in constructor to ensure they are created on the right thread (QuantumRenderer)"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/marlin\/MaskMarlinAlphaConsumer.java"}],"sha":"2dd7a35d2eec16b04de1f4cb7aeba31be5d98a55"}]
