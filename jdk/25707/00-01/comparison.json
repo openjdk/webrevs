@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n- * @bug 8139228\n+ * @bug 8139228 8358532\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/HTMLFileName.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
