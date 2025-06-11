@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Only enable CRC32 intrinsic when AvoidUnalignedAccess == false"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"04c7757405e326b8f8b21397d1966e5e80b6ebf7"}]
