@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -498,1 +498,1 @@\n-                       \" bytes, heap = %zu bytes\", word_size, reserved.word_size());\n+                       \" bytes, heap = %zu bytes\", word_size * HeapWordSize, reserved.byte_size());\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
