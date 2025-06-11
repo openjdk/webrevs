@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351645: C2: ExpandBitsNode::Ideal hits assert because of TOP input"},"files":[{"filename":"src\/hotspot\/share\/opto\/intrinsicnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/TestCompressExpandTopInput.java"}],"sha":"821be711f6f101e06389dee50e1bac2175c41302"}]
