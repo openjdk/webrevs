@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,0 +52,1 @@\n+ * @comment ASAN changes the memory map dump slightly, but the test has rather strict requirements\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/vm\/SystemMapTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
