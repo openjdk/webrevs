@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: No need for acquire fence in safepoint poll during JNI calls"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp"}],"sha":"5ca62af4fb79293181ea96f9efbd435944459962"}]
