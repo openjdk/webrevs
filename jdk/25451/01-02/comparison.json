@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,0 @@\n-    private static final String SOURCE_VERSION = System.getProperty(\"java.specification.version\");\n","filename":"test\/langtools\/tools\/javac\/T8357653.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
