@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -243,1 +243,1 @@\n-    return avail_mem;\n+    return static_cast<size_t>(avail_mem);\n@@ -258,1 +258,1 @@\n-    avail_mem = free_memory();\n+    avail_mem = static_cast<julong>(free_memory());\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
