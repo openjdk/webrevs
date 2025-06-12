@@ -1,0 +1,1 @@
+[{"commit":{"message":"8359327: Incorrect AVX3Threshold results into code buffer overflows on APX targets"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubDeclarations_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"3ef8584bb6712cd557bcd924c71237da3a521753"}]
