@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,0 +42,3 @@\n+  template <typename Type, int Count>\n+  friend class ValueObjBlock;\n+\n@@ -73,1 +76,0 @@\n-public:\n","filename":"src\/hotspot\/share\/gc\/z\/zObjectAllocator.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
