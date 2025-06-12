@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,1 +193,1 @@\n-        ((c->is_loaded() && c->has_class_initializer()) || !c->is_loaded())) {\n+        (!c->is_loaded() || c->has_class_initializer()) {\n","filename":"src\/hotspot\/share\/c1\/c1_ValueMap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
