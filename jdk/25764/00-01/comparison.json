@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,0 @@\n-    \/\/ negative values are permanent\n@@ -47,1 +46,0 @@\n-  bool is_armed_permanently(nmethod* nm) { return guard_value(nm) < 0; }\n","filename":"src\/hotspot\/share\/gc\/shared\/barrierSetNMethod.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
