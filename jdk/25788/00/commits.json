@@ -1,0 +1,1 @@
+[{"commit":{"message":"8191963: Path.equals() and File.equals() return true for two different files on Windows"},"files":[{"filename":"src\/java.base\/windows\/classes\/java\/io\/WinNTFileSystem.java"},{"filename":"test\/jdk\/java\/io\/File\/CompareTo.java"}],"sha":"cc4cef6521363b9756aed37410bf8d59d9a40d27"}]
