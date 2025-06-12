@@ -1,0 +1,1 @@
+[{"commit":{"message":"8359270: C2: alignment check should consider base offset when emitting arraycopy runtime call"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"}],"sha":"6221843247a1e7cc5afdc3ee6e8c47d8efe7fe85"}]
