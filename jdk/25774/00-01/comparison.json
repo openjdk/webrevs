@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+ * @run main compiler.loopopts.LoopReductionHasControlOrBadInput\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/LoopReductionHasControlOrBadInput.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
