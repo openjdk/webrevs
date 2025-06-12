@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1957,0 +1957,5 @@\n+        \/\/ See comment above in childBoundsChanged(Node)\n+        if (!childSet.contains(node)) {\n+            return;\n+        }\n+\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/Parent.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
