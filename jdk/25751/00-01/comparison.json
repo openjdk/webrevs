@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-  assert(i >= Max(), \"must be an overflow\");\n+  assert(i >= Max(), \"Should have been checked before, use maybe_grow?\");\n","filename":"src\/hotspot\/share\/opto\/block.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
