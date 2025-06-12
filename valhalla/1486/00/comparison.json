@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -350,2 +350,1 @@\n-            \/\/ TODO 8332814 This triggers the \"nothing between inner and outer loop\" assert\n-            \/\/ t.test16();\n+            t.test16();\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestGenerated.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
