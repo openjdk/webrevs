@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-        \/\/ Graceful exit with error code (usually 1)\n+        \/\/ Graceful exit with error code 1\n","filename":"test\/hotspot\/jtreg\/compiler\/codecache\/CodeCacheSegmentSizeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
