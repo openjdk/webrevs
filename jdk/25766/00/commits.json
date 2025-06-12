@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355556: JVM crash because archived method handle intrinsics are not restored"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"}],"sha":"56f97d084bab71a6ab84816cda51a715a46f81c5"}]

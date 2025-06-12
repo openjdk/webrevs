@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -774,1 +774,0 @@\n-    AOTLinkedClassBulkLoader::finish_loading_javabase_classes(CHECK_JNI_ERR);\n@@ -776,0 +775,1 @@\n+    AOTLinkedClassBulkLoader::finish_loading_javabase_classes(CHECK_JNI_ERR);\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
