@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -656,1 +656,0 @@\n-    @DisabledOnOs(OS.WINDOWS)\n@@ -704,1 +703,0 @@\n-    @Disabled\n","filename":"test\/jdk\/java\/nio\/channels\/etc\/MemorySegments.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
