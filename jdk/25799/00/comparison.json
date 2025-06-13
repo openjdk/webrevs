@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,1 @@\n-  product(bool, AOTCompileEagerly, false, DIAGNOSTIC,                       \\\n+  product(bool, AOTCompileEagerly, false, EXPERIMENTAL,                     \\\n","filename":"src\/hotspot\/share\/cds\/cds_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
