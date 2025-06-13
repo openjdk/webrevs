@@ -1,0 +1,1 @@
+[{"commit":{"message":"8359402: TesCloseDescriptors.java should throw SkippedException when there is no lsof\/sctp"},"files":[{"filename":"test\/jdk\/com\/sun\/nio\/sctp\/SctpChannel\/CloseDescriptors.java"}],"sha":"d1f9fe560dc199ed41e2c17fc0924bf4859c782a"}]
