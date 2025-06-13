@@ -1,0 +1,1 @@
+[{"commit":{"message":"Optimize the case when all inputs into a Phi cluster is the same node"},"files":[{"filename":"src\/hotspot\/share\/opto\/cfgnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/cfgnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorld.java"}],"sha":"422301bee259bea4d787bcfc805746d49dcaa2c3"}]
