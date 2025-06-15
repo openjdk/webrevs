@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -472,1 +472,1 @@\n-        \/\/ for the most common architectures. hex8 reverses the order internally.\n+        \/\/ for the most common architectures.\n","filename":"src\/java.base\/share\/classes\/java\/util\/UUID.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
