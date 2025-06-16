@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-        \"java\/lang\/StringUTF16\"\n+        \"java\/lang\/StringUTF16\",\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/tracing\/ExcludeList.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
