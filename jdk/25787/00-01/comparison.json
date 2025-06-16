@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4691,1 +4691,1 @@\n-  int max_size = dst->encoding() <= 15 ? 23 : 27;\n+  int max_size = 23 + (UseAPX ? 4 : 0);\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
