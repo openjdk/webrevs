@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -364,2 +364,1 @@\n-        i += 2;\/\/skip constant pool count\n-\n+        \/\/ get constant pool count\n@@ -368,0 +367,2 @@\n+        i += 2;\/\/skip constant pool count\n+\n","filename":"src\/classes\/com\/sun\/tdk\/jcov\/instrument\/asm\/ClassMorph.java","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
