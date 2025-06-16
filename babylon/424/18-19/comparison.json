@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4491,0 +4491,4 @@\n+        if (fblock.ops().size() < 2) {\n+            throw new IllegalArgumentException();\n+        }\n+\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/op\/CoreOp.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
