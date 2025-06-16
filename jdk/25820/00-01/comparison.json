@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,0 +158,1 @@\n+            System.out.println(\"received a total of \" + numReceived + \" bytes of response for \" + url);\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/Test12.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
