@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -199,1 +199,1 @@\n-  __ emit_int32(0xDEADBEAF);\n+  __ emit_int32(0xBEAFDEAD); \/\/ high \"sticky\" bit should not be set\n","filename":"src\/hotspot\/cpu\/arm\/gc\/shared\/barrierSetAssembler_arm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
