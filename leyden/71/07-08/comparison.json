@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,1 +190,1 @@\n-    _ignore_decompile = true;\n+    _ignore_decompile = ignore_decompile;\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
