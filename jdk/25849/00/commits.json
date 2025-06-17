@@ -1,0 +1,1 @@
+[{"commit":{"message":"8358801: javac produces class that does not pass verifier."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/T8358801.java"}],"sha":"fb10cc095afb71cde7b6b80d97817f5f0dbdf02b"}]
