@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -369,1 +369,1 @@\n-    _gen_counters->update_all(_virtual_space->committed_size());\n+    _gen_counters->update_capacity(_virtual_space->committed_size());\n","filename":"src\/hotspot\/share\/gc\/parallel\/psOldGen.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
