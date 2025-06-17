@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+#include \"memory\/resourceArea.inline.hpp\"\n@@ -54,0 +55,1 @@\n+  ResourceMark rm;\n","filename":"src\/hotspot\/share\/gc\/shared\/locationPrinter.inline.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
