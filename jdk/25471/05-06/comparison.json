@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-                scenarios[i] = new Scenario(i, \"-XX:+OptoPeephole\");\n+                scenarios[i] = new Scenario(i, \"-XX:+IgnoreUnrecognizedVMOptions\", \"-XX:+OptoPeephole\");\n","filename":"test\/hotspot\/jtreg\/compiler\/codegen\/TestRedundantLea.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
