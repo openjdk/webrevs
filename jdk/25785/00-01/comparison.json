@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * This channel is based on TCP\/IP socketss.\n+ * This channel is based on TCP\/IP sockets.\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/jpda\/IOPipe.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
