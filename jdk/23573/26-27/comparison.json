@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1481,1 +1481,1 @@\n-  _jvmci_data_size              = nm->_jvmci_data_size;\n+  _metadata_size                = nm->_metadata_size;\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
