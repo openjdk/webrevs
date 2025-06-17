@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -387,0 +387,3 @@\n+\/\/ We must check that the new offset can still fit in the instruction\n+\/\/ for architectures that have small branch ranges\n+#if defined(AARCH64) || defined(RISV)\n@@ -395,0 +398,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/code\/relocInfo.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}

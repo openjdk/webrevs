@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only check branch distance for aarch64 and riscv"},"files":[],"sha":"03bfce8779a0f9c9a2c276fc6cf084698e6725d7"},{"commit":{"message":"Move far branch fix to fix_relocation_after_move"},"files":[{"filename":"src\/hotspot\/share\/code\/relocInfo.cpp"}],"sha":"60005e51fefd2d7daf397f06e2d58a68f93e856c"}]
