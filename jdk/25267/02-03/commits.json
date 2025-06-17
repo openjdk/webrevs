@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use load_acquire only in the places that need it."},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.inline.hpp"}],"sha":"41d496076c3fd9c1208282d5dafbd9d378f69794"}]
