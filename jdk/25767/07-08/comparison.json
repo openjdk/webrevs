@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @summary Verifies ImageIcon.setImage handles null parameter\n+ * @summary Verifies ImageIcon setImage and constructor handles null parameter\n","filename":"test\/jdk\/javax\/swing\/ImageIcon\/ImageIconNullImageTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
