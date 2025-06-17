@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -625,1 +625,1 @@\n-     * in the operating system. The typical operating system timeout ranges within tens of\n+     * in the operating system. The typical operating system timeout is in the range of tens of\n","filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
