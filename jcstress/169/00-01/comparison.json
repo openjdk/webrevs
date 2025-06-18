@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-      run: java -jar tests-custom\/target\/jcstress.jar -t UnfencedDekker -tb 1m\n+      run: java -jar tests-custom\/target\/jcstress.jar -t RelaxedDekkerTest -tb 1m\n","filename":".github\/workflows\/pre-integration.yml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
