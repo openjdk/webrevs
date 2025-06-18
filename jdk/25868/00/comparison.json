@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n-        frame.setLocation(500,500);\n+        frame.setLocationRelativeTo(null);\n","filename":"test\/jdk\/java\/awt\/MenuItem\/SetLabelTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
