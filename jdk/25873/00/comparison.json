@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -220,1 +220,1 @@\n-    return (uint)NMethodSizeLimit;  \/\/ default 64K\n+    return (uint)NMethodSizeLimit;  \/\/ default 64K*wordSize\n","filename":"src\/hotspot\/share\/c1\/c1_Compilation.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
