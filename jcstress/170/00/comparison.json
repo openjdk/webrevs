@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -221,1 +221,1 @@\n-            this.forksStressMultiplier = 3;\n+            this.forksStressMultiplier = 1;\n","filename":"jcstress-core\/src\/main\/java\/org\/openjdk\/jcstress\/Options.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
