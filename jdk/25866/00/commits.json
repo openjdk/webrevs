@@ -1,0 +1,1 @@
+[{"commit":{"message":"CDS and AOT can cause buffer truncation warning even when logging is disabled"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"33774677b3f0a688915f0fe95b30341acba42b21"}]
