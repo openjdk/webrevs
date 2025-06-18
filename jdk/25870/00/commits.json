@@ -1,0 +1,1 @@
+[{"commit":{"message":"8359920: Use names for frame types in stackmaps"},"files":[{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.cpp"},{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.hpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp"}],"sha":"37b5c7eef2e1c9bfa2b5b3dc5d432eb8e6c659c0"}]
