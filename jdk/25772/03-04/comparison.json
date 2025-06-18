@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -186,1 +186,1 @@\n-    `linux-x64`, `windows-x64`, and `macos-aarch64`.\n+    `linux-amd64`, `windows-amd64`, and `macos-aarch64`.\n","filename":"src\/jdk.jlink\/share\/man\/jmod.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
