@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -358,1 +358,1 @@\n-    MachNode* decode_spill;\n+    MachNode* decode_spill = decode->in(1)->as_Mach();\n","filename":"src\/hotspot\/cpu\/x86\/peephole_x86_64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
