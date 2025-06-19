@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,0 +80,5 @@\n+      \/\/ Skip the transformation if input is unexpected.\n+      if (cmp == nullptr) {\n+        return nullptr;\n+      }\n+\n","filename":"src\/hotspot\/share\/opto\/convertnode.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
