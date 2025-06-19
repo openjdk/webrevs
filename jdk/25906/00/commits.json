@@ -1,0 +1,1 @@
+[{"commit":{"message":"8358655: AArch64: Simplify Interpreter::profile_taken_branch"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/interp_masm_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/interp_masm_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp"}],"sha":"ae31d0fb148b971b6b407ed325f72ce03c2a50b7"}]
