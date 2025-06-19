@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -565,2 +565,2 @@\n-  if (t1->isa_half_float_constant() &&\n-      t2->isa_half_float_constant())  {\n+  if (t1->isa_half_float_constant() != nullptr &&\n+      t2->isa_half_float_constant() != nullptr)  {\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
