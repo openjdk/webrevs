@@ -1,0 +1,1 @@
+[{"commit":{"message":"override requires_barriers for generational mode"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.hpp"}],"sha":"c5964a7199398de0b7d30303fd7d37307bffe33d"}]
