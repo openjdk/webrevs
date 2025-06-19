@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-            VarHandle.acquireFence();\n+            VarHandle.releaseFence();\n","filename":"jcstress-samples\/src\/main\/java\/org\/openjdk\/jcstress\/samples\/jmm\/advanced\/AdvancedJMM_15_VolatilesAreNotFences.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
