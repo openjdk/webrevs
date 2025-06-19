@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -285,1 +285,1 @@\n-        conF->bottom_type()->isa_float_constant() &&\n+        conF->bottom_type()->isa_float_constant() != nullptr &&\n","filename":"src\/hotspot\/share\/opto\/convertnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
