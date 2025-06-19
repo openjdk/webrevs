@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -414,1 +414,1 @@\n-      u2 bootstrap_argument = cpool()->bsm_attribute_entry(n)->argument_index(arg);\n+      u2 bootstrap_argument = bsme->argument_index(arg);\n","filename":"src\/hotspot\/share\/prims\/jvmtiClassFileReconstituter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
