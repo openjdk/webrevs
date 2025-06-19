@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -427,1 +427,2 @@\n-     * The value of this attribute is determined by the following steps:\n+     * The value of this attribute is determined by the following steps, in line\n+     * with RFC 6265:\n","filename":"src\/java.base\/share\/classes\/java\/net\/HttpCookie.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
