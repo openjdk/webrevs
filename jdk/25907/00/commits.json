@@ -1,0 +1,1 @@
+[{"commit":{"message":"8346753: Test javax\/swing\/JMenuItem\/RightLeftOrientation\/RightLeftOrientation.java fails on Windows Server 2025 x64 because the icons of RBMenuItem and CBMenuItem are not visible in Nimbus LookAndFeel"},"files":[{"filename":"test\/jdk\/javax\/swing\/JMenuItem\/RightLeftOrientation.java"}],"sha":"8d0f988780c931dc7afccf1ba0175fa435682866"}]
