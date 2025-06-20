@@ -1,0 +1,1 @@
+[{"commit":{"message":"In TsanSymbolize, use ThreadInVMfromUnknown to transition to VM state."},"files":[{"filename":"src\/hotspot\/share\/tsan\/tsan.cpp"}],"sha":"fc8cd3b99338539b33ab794b3d67c6a812c25fe5"}]
