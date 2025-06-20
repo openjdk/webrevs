@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-      \/\/ Shift all elements in [pos, current) up by one then move current_elem to pos\n+      \/\/ Move current_elem to pos since all elements in [pos, current) have been shifted up by 1\n","filename":"src\/hotspot\/share\/utilities\/sort.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
