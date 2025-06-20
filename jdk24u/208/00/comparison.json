@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1701,1 +1701,1 @@\n-        zext_w(tmp2, tmp2);\n+        zext(tmp2, tmp2, 32);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
