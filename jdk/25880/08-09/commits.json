@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix ARFU type; add JDK-7176957"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ExecutorService.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/atomic\/AtomicReferenceFieldUpdater.java"}],"sha":"26d96b88e3ce8fe1143ecfc3f5a781e4dd4a6985"}]
