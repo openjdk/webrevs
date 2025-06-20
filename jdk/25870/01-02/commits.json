@@ -1,0 +1,1 @@
+[{"commit":{"message":"Apply David's suggested more complete and accurate frame type names.  Being careful with >=s."},"files":[{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.cpp"},{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.hpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp"}],"sha":"107382e4a2421b21f9bff49a98d0ee4fa0c6ac87"}]
