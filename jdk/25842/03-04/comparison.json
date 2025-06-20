@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-        Note: On Mac OS & on Windows, the first dialog is a native\n+        Note: On macOS & on Windows, the first dialog is a native\n","filename":"test\/jdk\/java\/awt\/print\/Dialog\/DialogType.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
