@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3328,1 +3328,1 @@\n-      u1 len = frame_type - StackMapReader::APPEND_FRAME_START;\n+      u1 len = frame_type - StackMapReader::SAME_FRAME_EXTENDED;\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
