@@ -1,0 +1,1 @@
+[{"commit":{"message":"support NMethodPatchingType for ZGC on AArch64"},"files":[{"filename":"test\/hotspot\/jtreg\/ProblemList-zgc.txt"},{"filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/jdk.vm.ci.code.test\/src\/jdk\/vm\/ci\/code\/test\/TestHotSpotVMConfig.java"}],"sha":"1f827e42af672891e25b863553c299cdc0b914f7"}]
