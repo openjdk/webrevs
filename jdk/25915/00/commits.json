@@ -1,0 +1,1 @@
+[{"commit":{"message":"8295851: Do not use ttyLock in BytecodeTracer::trace"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/bytecodeTracer.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/interpreter\/TraceBytecodes.java"}],"sha":"29b71ba5c0706883d482a8a55d37082ee4e6ea74"}]
