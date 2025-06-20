@@ -1,0 +1,1 @@
+[{"commit":{"message":"@coleenp comments; Also, use ProcessTools.executeProcess() to log the output in files"},"files":[{"filename":"src\/hotspot\/share\/utilities\/exceptions.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/ExceptionsTest.java"}],"sha":"cd41e2abe3ea8bd8ffd72247e8b0434d09b5539c"}]
