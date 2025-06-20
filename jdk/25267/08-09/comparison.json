@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n-  GrowableArray<uint64_t> ints;\n+  GrowableArray<uint64_t> ints(10);\n@@ -44,1 +44,1 @@\n-    ints.at_put(i, (uint64_t)mid);\n+    ints.push((uint64_t)mid);\n","filename":"test\/hotspot\/gtest\/oops\/test_jmethodIDTable.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
