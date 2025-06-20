@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3321,1 +3321,1 @@\n-    \/\/   verification_type_info locals[frame_type - 251];\n+    \/\/   verification_type_info locals[frame_type - SAME_EXTENDED];\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
