@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1335,1 +1335,0 @@\n-        notify_fullscreen(true);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
