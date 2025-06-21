@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1668,1 +1668,0 @@\n-    __ push_reg(x11);\n@@ -1673,1 +1672,0 @@\n-    __ pop_reg(x11);\n","filename":"src\/hotspot\/cpu\/riscv\/templateTable_riscv.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
