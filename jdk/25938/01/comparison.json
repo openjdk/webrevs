@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,2 @@\n-  _dead(false)\n+  _dead(false),\n+  _sampling_critical_section(false)\n","filename":"src\/hotspot\/share\/jfr\/support\/jfrThreadLocal.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}

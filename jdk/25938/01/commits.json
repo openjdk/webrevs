@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8360201-jfr-init-threadlocal"},"files":[],"sha":"2c845b09bcc386d8a26314077e2f3492abca5154"},{"commit":{"message":"Fix"},"files":[{"filename":"src\/hotspot\/share\/jfr\/support\/jfrThreadLocal.cpp"}],"sha":"e2419224304f6712cae6d4d004361e0949a71e3f"}]
