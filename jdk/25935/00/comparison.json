@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -269,1 +269,1 @@\n-                 signame, _id, _pc,\n+                 signame, _id, p2i(_pc),\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
