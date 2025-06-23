@@ -1,0 +1,1 @@
+[{"commit":{"message":"8348228: Major performance regression in GetMethodDeclaringClass and other JVMTI Method functions"},"files":[{"filename":"hotspot\/src\/share\/vm\/oops\/method.cpp"},{"filename":"hotspot\/src\/share\/vm\/prims\/jniCheck.cpp"}],"sha":"7f8a2c72c42d489cdc491064d1833f083eebe237"}]
