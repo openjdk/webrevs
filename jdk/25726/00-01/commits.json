@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix message and revert lines for Xlog"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/compiler\/abstractDisassembler.cpp"},{"filename":"src\/hotspot\/share\/compiler\/disassembler.cpp"}],"sha":"6ff4f9b5a3f6302ae4605ee985755fbccd3e24fb"}]
