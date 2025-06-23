@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make the type of count leading\/trailing zero nodes more precise"},"files":[{"filename":"src\/hotspot\/share\/opto\/countbitsnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestCountBitsRange.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java"}],"sha":"0faa2099b060d5bcfd6ca71ff7146f6092fcbe07"}]
