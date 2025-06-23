@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,0 +48,1 @@\n+            \/\/ range defined in globals.hpp is [0, (1 << (BitsPerInt - LogBytesPerLong - 1)) - 1]\n","filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestFastAllocateSizeLimit.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
