@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4,1 +4,1 @@\n-version=shenandoah8u392\n+version=shenandoah8u402\n","filename":".jcheck\/conf","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"},{"patch":"@@ -84,0 +84,1 @@\n+ , _loop(NULL)\n","filename":"hotspot\/src\/share\/vm\/c1\/c1_LIRGenerator.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
