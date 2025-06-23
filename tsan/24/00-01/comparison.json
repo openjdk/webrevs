@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-  \/\/ make it a JVM_ENTRY to handle native -> vm state transition. See b\/424368475.\n+  \/\/ make it a JVM_ENTRY to handle native -> vm state transition.\n","filename":"src\/hotspot\/share\/tsan\/tsan.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
