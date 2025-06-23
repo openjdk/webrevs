@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix implicit zero and nullptr checks"},"files":[{"filename":"src\/hotspot\/share\/opto\/gcm.cpp"},{"filename":"src\/hotspot\/share\/opto\/regmask.cpp"},{"filename":"src\/hotspot\/share\/opto\/regmask.hpp"}],"sha":"de5c82db23838572bf9fa84fb695aa60a21dea6d"}]
