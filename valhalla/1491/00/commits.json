@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename InlineTypeNode::IsInit to NullMarker, hopefully with helpful comment"},"files":[{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"},{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.hpp"}],"sha":"86c55aa6c346a91a0a0e3d34ded7f04568c1624e"}]
