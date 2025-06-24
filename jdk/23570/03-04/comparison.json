@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -191,1 +191,1 @@\n-void verify_int_in_range(uint idx, const TypeInt* t, Register val, Register tmp);\n+  void verify_int_in_range(uint idx, const TypeInt* t, Register val, Register tmp);\n","filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
