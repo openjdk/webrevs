@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-    CHECK_NULL_RETURN(fid, -1);\n+    CHECK_NULL_RETURN(fid, ENH_INIT_ERROR);\n","filename":"src\/java.base\/share\/native\/libnet\/net_util.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
