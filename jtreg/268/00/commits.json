@@ -1,0 +1,1 @@
+[{"commit":{"message":"7904045: Remove the macOS version check from jtreg"},"files":[{"filename":"make\/CheckJavaOSVersion.java"},{"filename":"make\/Makefile"},{"filename":"make\/build.sh"},{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/tool\/Tool.java"}],"sha":"5c3e8b0c6a44e6b1c07e96a690ff7ffa1bd8c0c4"}]
