@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,1 +158,1 @@\n-JVMFlag::Error CodeCacheSegmentSizeConstraintFunc(uintx value, bool verbose) {\n+JVMFlag::Error CodeCacheSegmentSizeConstraintFunc(size_t value, bool verbose) {\n","filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagConstraintsCompiler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
