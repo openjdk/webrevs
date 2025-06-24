@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move `TestCountBitsRange` to `compiler.c2.gvn`"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/TestCountBitsRange.java"}],"sha":"c965311b164a0234cb1b585e63949e124ccda3b0"},{"commit":{"message":"Fix null checks"},"files":[{"filename":"src\/hotspot\/share\/opto\/countbitsnode.cpp"}],"sha":"1ce8ebbb0331b276c9be1942f85e9d7cc0bf7c4d"}]
