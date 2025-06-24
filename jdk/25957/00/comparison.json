@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,1 @@\n-                assert false : msg;\n+                \/\/ assert false : msg;\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/consumer\/ConstantMap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
