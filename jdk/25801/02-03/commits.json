@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore check of non-zero exit value; make spinWaitInstCount always provided in test cmd options"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/onSpinWait\/TestOnSpinWaitAArch64.java"}],"sha":"ab8c7e6fe8443175d70a589e778306898f767add"}]
