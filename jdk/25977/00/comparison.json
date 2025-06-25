@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -415,1 +415,1 @@\n-    size_t chunk_byte_size = 0, old_chunk_byte_size = 0;\n+    size_t chunk_byte_size = 0;\n","filename":"src\/hotspot\/share\/gc\/parallel\/mutableNUMASpace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
