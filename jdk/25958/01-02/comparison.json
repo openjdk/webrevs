@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2969,1 +2969,1 @@\n-  THROW(vmSymbols::java_lang_UnsupportedOperationException());\n+  THROW_NULL(vmSymbols::java_lang_UnsupportedOperationException());\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
