@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -273,1 +273,1 @@\n-# Set up the ANT (and possibly ANT_JAR) environment variable(s)\n+# Set up the ANT (and possibly ANT_JAR, and ANT_HOME) environment variable(s)\n@@ -295,0 +295,1 @@\n+        ANT_HOME=\"${ANT}\/..\/..\"\n","filename":"make\/build-support\/build-common.sh","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
