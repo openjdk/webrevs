@@ -1,0 +1,1 @@
+[{"commit":{"message":"8360540: nmethod entry barriers of new nmethods should be disarmed"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.cpp"}],"sha":"6461a288b7b4aa58e6e0de4d45c01b6cecc2bf4d"}]
