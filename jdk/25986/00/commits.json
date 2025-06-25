@@ -1,0 +1,1 @@
+[{"commit":{"message":"8354490: Pattern.CANON_EQ causes a pattern to not match a string with a UNICODE variation"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/regex\/Pattern.java"},{"filename":"test\/jdk\/java\/util\/regex\/RegExTest.java"}],"sha":"3659cc5b2530444700c128f9720ddc2033fce7c6"}]
