@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -204,2 +204,0 @@\n-    \/\/ The alignment_hint argument must be less than or equal to the small page\n-    \/\/ size if not using large pages or else this function does nothing.\n","filename":"src\/hotspot\/share\/gc\/parallel\/mutableNUMASpace.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
