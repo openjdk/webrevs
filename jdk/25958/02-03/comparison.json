@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+ * @requires vm.jvmti\n@@ -171,1 +172,2 @@\n-}\n\\ No newline at end of file\n+}\n+\n","filename":"test\/jdk\/com\/sun\/management\/HotSpotDiagnosticMXBean\/DumpThreadsWithEliminatedLock.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
