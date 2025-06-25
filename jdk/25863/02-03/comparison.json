@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -483,0 +483,1 @@\n+                    pos = term + 1;\n@@ -486,0 +487,1 @@\n+                    pos = n;\n@@ -488,2 +490,0 @@\n-\n-                pos = term + 1;\n","filename":"src\/java.base\/share\/classes\/java\/io\/Reader.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
