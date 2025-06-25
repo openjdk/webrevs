@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -840,1 +840,1 @@\n-            if (([layer isKindOfClass:[CAOpenGLLayer class]] == YES) &&\n+            if (([layer.sublayers[0] isKindOfClass:[CAOpenGLLayer class]] == YES) &&\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassWindow.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
