@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,3 +128,0 @@\n-    if (log_is_enabled(Info, exceptions, stacktrace)) {\n-      log_exception_stacktrace(h_exception);\n-    }\n","filename":"src\/hotspot\/share\/utilities\/exceptions.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
