@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -612,2 +612,1 @@\n-        }\n-        else { \/\/ !COMPACT_STRINGS\n+        } else { \/\/ !COMPACT_STRINGS\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
