@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,2 +56,2 @@\n-  GenerationCounters _generation_young_counters;\n-  GenerationCounters _generation_old_counters;\n+  GenerationCounters  _generation_young_counters;\n+  GenerationCounters  _generation_old_counters;\n","filename":"src\/hotspot\/share\/gc\/z\/zServiceability.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
