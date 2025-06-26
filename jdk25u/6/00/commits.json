@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 6b4393917ae689818d67fcaf9cc61ca16ea6d426"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/stringopts\/TestArrayCopySelect.java"}],"sha":"7c1fa96938b7d846abcd1d9e15a4afa6abaf526b"}]
