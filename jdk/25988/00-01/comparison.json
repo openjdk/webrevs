@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,1 @@\n-public class ReverseBytesConstantsHelper version 65:0 {\n+public class ReverseBytesConstantsHelper {\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/ReverseBytesConstantsHelper.jasm","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
