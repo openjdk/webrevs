@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -636,4 +636,0 @@\n-    if (from_len == 0) {\n-      \/\/ empty\n-      continue;\n-    }\n","filename":"src\/hotspot\/share\/gc\/shared\/referenceProcessor.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
