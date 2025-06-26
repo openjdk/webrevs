@@ -1,0 +1,1 @@
+[{"commit":{"message":"8360539: DTLS handshakes fails due to improper cookie validation logic"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/HelloCookieManager.java"}],"sha":"1394422498c6a525d0ad7538bfabdf39d52b7a3a"}]
