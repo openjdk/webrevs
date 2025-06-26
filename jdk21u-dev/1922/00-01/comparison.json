@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -485,3 +485,0 @@\n-    @Test(posn=3, annoType=TA.class, expect=\"777\")\n-    public BasicAnnoTests() {}\n-\n","filename":"test\/langtools\/tools\/javac\/processing\/model\/type\/BasicAnnoTests.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
