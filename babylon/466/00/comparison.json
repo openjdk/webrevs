@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,1 +240,1 @@\n-        public VarBox(Object value) {\n+        VarBox(Object value) {\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/interpreter\/Interpreter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
