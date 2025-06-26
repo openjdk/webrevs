@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -601,0 +601,4 @@\n+#if defined(__GNUC__)\n+#pragma GCC diagnostic push\n+#pragma GCC diagnostic ignored \"-Wreturn-type\"\n+#endif\n@@ -602,0 +606,3 @@\n+#if defined(__GNUC__)\n+#pragma GCC diagnostic pop\n+#endif\n","filename":"src\/java.base\/share\/native\/libjli\/java.c","additions":7,"deletions":0,"binary":false,"changes":7,"status":"modified"}]}
