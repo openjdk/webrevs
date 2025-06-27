@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure ABS_MASK is a 128-bit memory sized location and only use equal enum for UCOMISD checks"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_cbrt.cpp"}],"sha":"615169d8aa679c665ac4c5ad30ea011505e503b7"}]
