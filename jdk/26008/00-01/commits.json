@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reverted to calling before_exit() directly"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"e0e5e3085b233b4eff2fba9019c0655c280f16ad"}]
