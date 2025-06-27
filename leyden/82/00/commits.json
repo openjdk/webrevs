@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not enable -XX:AOTMode=on by default, so that we can run \"make test JTREG=AOT_JDK=onestep TEST=...\""},"files":[{"filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp"}],"sha":"73b82f010ea7ab95fb3674925fe190a352c15743"}]

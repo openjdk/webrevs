@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -855,5 +855,0 @@\n-\n-    if (UseSharedSpaces && FLAG_IS_DEFAULT(AOTMode)) {\n-      log_info(aot)(\"Enabled -XX:AOTMode=on by default for troubleshooting Leyden prototype\");\n-      RequireSharedSpaces = true;\n-    }\n","filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
