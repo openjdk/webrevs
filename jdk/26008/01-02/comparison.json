@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -843,2 +843,1 @@\n-      before_exit(THREAD);\n-      vm_exit(0);\n+      vm_direct_exit(0);\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}

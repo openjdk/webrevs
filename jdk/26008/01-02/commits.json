@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use vm_direct_exit instead, as at this point we have not finished Threads::create_vm() yet, so we may not have done all the initialization to be able to call before_exit()"},"files":[{"filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp"}],"sha":"f8222e38e41a26469089351343df45039ddb288f"}]
