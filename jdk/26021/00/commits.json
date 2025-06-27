@@ -1,0 +1,1 @@
+[{"commit":{"message":"8360887: [AIX] getFileAttributeView returns unusable FileAttributeView if UserDefinedFileAttributeView unavailable"},"files":[{"filename":"src\/java.base\/aix\/classes\/sun\/nio\/fs\/AixFileSystemProvider.java"},{"filename":"test\/jdk\/java\/nio\/file\/attribute\/UserDefinedFileAttributeView\/Basic.java"}],"sha":"d57612efc7e279255a4eec5433b1922d3068f44d"}]
