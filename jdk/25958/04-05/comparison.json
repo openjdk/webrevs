@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,2 @@\n- * @requires !vm.debug & (vm.compMode != \"Xcomp\")\n+ * @requires vm.compMode != \"Xcomp\"\n+ * @requires !vm.debug | (os.family == \"linux\")\n","filename":"test\/jdk\/com\/sun\/management\/HotSpotDiagnosticMXBean\/DumpThreadsWithEliminatedLock.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
