@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename replaceAllStrings to replaceClassName and add back the byte buffer version of the function."},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/RedefineClasses\/ClassVersionAfterRedefine.java"},{"filename":"test\/lib\/RedefineClassHelper.java"}],"sha":"17b3b77b50ea827e233215ed19bea7a60ad49207"}]
