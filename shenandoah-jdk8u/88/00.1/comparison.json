@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -236,0 +236,1 @@\n+ friend class SWPointer;\n","filename":"hotspot\/src\/share\/vm\/opto\/superword.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
