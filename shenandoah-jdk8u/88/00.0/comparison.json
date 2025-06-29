@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,4 @@\n+#ifdef AIX\n+#include \"cstdlib\"\n+#endif\n+\n","filename":"hotspot\/src\/share\/vm\/opto\/superword.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
