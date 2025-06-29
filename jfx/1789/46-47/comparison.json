@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,1 +131,0 @@\n-    extern char const * const GDK_WINDOW_DATA_EDGE;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_general.h","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
