@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,1 +121,1 @@\n-        out.shouldHaveExitValue(1); \/\/ RequireSharedSpaces is on in premain\n+        out.shouldHaveExitValue(0);\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotProfile\/AOTProfileFlags.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
