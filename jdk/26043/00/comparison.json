@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,0 +126,6 @@\n+        finally {\n+            if (frame != null) {\n+                frame.dispose();\n+                frame = null;\n+            }\n+        }\n","filename":"test\/jdk\/java\/awt\/Mouse\/MouseModifiersUnitTest\/ExtraButtonDrag.java","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
