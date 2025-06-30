@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,1 @@\n-  \/\/ Clear GC CPU usage tracking data used by resize_amount().\n+  \/\/ Clear GC CPU usage tracking data used by young_collection_resize_amount().\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HeapSizingPolicy.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
