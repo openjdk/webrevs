@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -297,1 +297,1 @@\n-    Threads::possibly_parallel_threads_do(true \/* is_par *\/, &closure);\n+    Threads::possibly_parallel_threads_do(_active_workers > 1 \/* is_par *\/, &closure);\n","filename":"src\/hotspot\/share\/gc\/parallel\/psScavenge.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
