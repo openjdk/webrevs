@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add case for bytes and prevent vector ops from truncating"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"}],"sha":"3701c5347b0dfbd52e4bbf37a84a1bccbcb7322c"}]
