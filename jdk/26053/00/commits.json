@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361101: AOTCodeAddressTable::_stubs_addr not initialized\/freed properly\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"}],"sha":"3676da5251fc5411c6fc1bcde75d3c4d05201b59"}]
