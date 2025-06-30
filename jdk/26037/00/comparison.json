@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1045,1 +1045,1 @@\n-    logical_p += unitsize;\n+    logical_p = (const_address) ((uintptr_t)logical_p + unitsize);\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
