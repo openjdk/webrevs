@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4529,1 +4529,1 @@\n-  format %{ \"maxF $dst, $a, $b\" %}\n+  format %{ \"minF $dst, $a, $b\" %}\n@@ -4565,1 +4565,1 @@\n-  format %{ \"maxD $dst, $a, $b\" %}\n+  format %{ \"minD $dst, $a, $b\" %}\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
