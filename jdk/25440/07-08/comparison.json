@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2576,1 +2576,1 @@\n-  if (type->isa_vect() || type->isa_vectmask() || in->isa_Reduction()) {\n+  if (type->isa_vect() != nullptr || type->isa_vectmask() != nullptr || in->is_Reduction()) {\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
