@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,3 @@\n+#if INCLUDE_ALL_GCS\n+#include \"gc_implementation\/shenandoah\/c2\/shenandoahSupport.hpp\"\n+#endif\n","filename":"hotspot\/src\/share\/vm\/opto\/addnode.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
