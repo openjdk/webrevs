@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -482,1 +482,1 @@\n-                    if (len >= cb.length) {\n+                    if (len >= cb.length\/2) {\n","filename":"src\/java.base\/share\/classes\/java\/io\/Reader.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
