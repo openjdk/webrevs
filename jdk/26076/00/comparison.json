@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -273,1 +273,1 @@\n-                System.out.println(\"    Overall average:  \"+overallscore);\n+                System.out.printf(\"    Overall average:  %10.4f%n\", overallscore);\n","filename":"src\/demo\/share\/java2d\/J2DBench\/src\/j2dbench\/report\/J2DAnalyzer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
