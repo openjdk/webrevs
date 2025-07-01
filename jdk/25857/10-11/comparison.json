@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,0 @@\n-        \/\/ Poor man's renaming of class \"TestClassOld\" to \"TestClassXXX\"\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/RedefineClasses\/ClassVersionAfterRedefine.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
