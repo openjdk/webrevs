@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-    public static class UnthrottledEvent extends Event  {\n+    public static class UnthrottledEvent extends Event {\n","filename":"test\/jdk\/jdk\/jfr\/api\/metadata\/annotations\/TestThrottle.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
