@@ -1,0 +1,1 @@
+[{"commit":{"message":"reverted change in before_exit() as it is no longer needed"},"files":[{"filename":"src\/hotspot\/share\/runtime\/java.cpp"}],"sha":"b8f7452ea13cc55d0a9ee75d4e2b2272054ebb9a"}]
