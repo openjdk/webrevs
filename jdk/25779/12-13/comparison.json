@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -644,1 +644,1 @@\n-    out.print(\"GC CPU usage: %.2f%%\", usage);\n+    out.print(\"GC CPU usage: %.2f%% (Process: %.4fs GC: %.4fs)\", usage, process_cpu_time, gc_cpu_time + string_dedup_cpu_time);\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
