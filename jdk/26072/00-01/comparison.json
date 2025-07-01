@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @requires vm.debug==true\n+ * @requires vm.debug\n","filename":"test\/hotspot\/jtreg\/compiler\/onSpinWait\/TestOnSpinWaitAArch64.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
