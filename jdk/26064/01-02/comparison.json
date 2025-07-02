@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1821,0 +1821,1 @@\n+  \/\/ The hash of a node should not change, this would indicate different inputs\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
