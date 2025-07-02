@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357579: Compilation error: first argument in call to 'memset' is a pointer to non-trivially copyable type"},"files":[{"filename":"src\/hotspot\/share\/oops\/resolvedFieldEntry.cpp"},{"filename":"src\/hotspot\/share\/oops\/resolvedMethodEntry.cpp"}],"sha":"fe514b444d7e988e02d21822492cd24a8f850b6f"}]
