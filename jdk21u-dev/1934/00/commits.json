@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341644: Compile error in cgroup coding when using toolchain clang\n\nReviewed-by: stefank, mdoerr"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupV2Subsystem_linux.hpp"}],"sha":"e886f48fec4d00928bc2ab3129a78e90bb1e9c2b"}]
