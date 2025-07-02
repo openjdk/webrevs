@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1838,1 +1838,1 @@\n-      ss.print_cr(\"Ideal optimization did not make progress but hash node changed.\");\n+      ss.print_cr(\"Ideal optimization did not make progress but node hash changed.\");\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
