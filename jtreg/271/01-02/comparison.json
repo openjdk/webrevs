@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,2 +26,1 @@\n-# Will be 8.0 again...\n-JTREG_VERSION=7.6\n+JTREG_VERSION=8\n","filename":"make\/build-support\/version-numbers","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
