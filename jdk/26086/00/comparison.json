@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -474,0 +474,1 @@\n+  Universe::heap()->print_tracing_info();\n@@ -516,1 +517,0 @@\n-  Universe::heap()->print_tracing_info();\n","filename":"src\/hotspot\/share\/runtime\/java.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
