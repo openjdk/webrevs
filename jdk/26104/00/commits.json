@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361299: (bf) CharBuffer.getChars(int,int,char[],int) violates pre-existing specification"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/X-Buffer.java.template"},{"filename":"test\/jdk\/java\/nio\/Buffer\/GetChars.java"}],"sha":"5bbc34d48c032ccccba8c6836623e5f8041e2202"}]
