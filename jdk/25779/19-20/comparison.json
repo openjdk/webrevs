@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -223,1 +223,1 @@\n-    return -1;\n+    string_dedup_cpu_time = 0;\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
