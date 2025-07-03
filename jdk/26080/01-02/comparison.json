@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -527,6 +527,0 @@\n-                \/\/ skip empty names\n-                if (name.isEmpty()) {\n-                    ignore[i] = true;\n-                    continue;\n-                }\n-\n","filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsPath.java","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
