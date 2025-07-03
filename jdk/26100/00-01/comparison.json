@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-          if [ $retry -gt 20 ];then\n+          if [ $retry -gt 3 ];then\n@@ -63,0 +63,1 @@\n+          sleep 30\n","filename":".github\/actions\/build-jtreg\/action.yml","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
