@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1017,1 +1017,1 @@\n-    jdk.compiler-gendata: jdk.compiler-launchers\n+    jdk.compiler-gendata: jdk.compiler-launchers java.base-launchers\n","filename":"make\/Main.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
