@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-    inputs.file(tasks.named('jar', Jar).flatMap { it.archiveFile})\n+    inputs.file(tasks.named('jar', Jar).flatMap { it.archiveFile })\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
