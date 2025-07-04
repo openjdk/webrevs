@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -847,0 +847,1 @@\n+#ifdef ASSERT\n@@ -871,0 +872,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
