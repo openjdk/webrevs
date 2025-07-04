@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-        u_char val = (u_char) SafeFetch32((int*)c, 0xFF);\n+        u_char val = (u_char) (SafeFetch32((int*)c, 0xFF) BIG_ENDIAN_ONLY(>> 24));\n","filename":"src\/hotspot\/share\/memory\/guardedMemory.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
