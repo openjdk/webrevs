@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -10805,1 +10805,1 @@\n-instruct cmpU3_reg_reg(iRegIdst dst, iRegLsrc src1, iRegLsrc src2, flagsRegCR0 cr0) %{\n+instruct cmpU3_reg_reg(iRegIdst dst, iRegIsrc src1, iRegIsrc src2, flagsRegCR0 cr0) %{\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
