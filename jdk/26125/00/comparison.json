@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -979,0 +979,3 @@\n+  if (!OptimizePtrCompare) {\n+    return;\n+  }\n","filename":"src\/hotspot\/share\/opto\/escape.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
