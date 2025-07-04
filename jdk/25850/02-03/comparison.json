@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1032,1 +1032,1 @@\n-     * Gets the allocation for the root view.\n+     * Gets the allocation (i.e. the allocated size) for the root view.\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicTextUI.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
