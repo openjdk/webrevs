@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1454,3 +1454,2 @@\n-  Node* top = Compile::current()->top();\n-  ins_req(nextmon, top);\n-  ins_req(nextmon, top);\n+  ins_req(nextmon,   lock->box_node());\n+  ins_req(nextmon+1, lock->obj_node());\n","filename":"src\/hotspot\/share\/opto\/callnode.cpp","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
