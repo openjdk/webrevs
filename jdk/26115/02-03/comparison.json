@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2277,1 +2277,1 @@\n-    case OP_NegVI:\n+    case Op_NegVI:\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
