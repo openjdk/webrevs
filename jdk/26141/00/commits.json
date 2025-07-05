@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove jdk.internal.ref.Cleaner"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/ref\/Reference.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/ref\/Cleaner.java"},{"filename":"test\/jdk\/jdk\/internal\/ref\/Cleaner\/ExitOnThrow.java"}],"sha":"b2c75c577939f381d7d55364c159c7cd447439ad"}]
