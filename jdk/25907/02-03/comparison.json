@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,1 +127,1 @@\n-        frame.pack();\n+        frame.setSize(250, 70);\n","filename":"test\/jdk\/javax\/swing\/JMenuItem\/RightLeftOrientation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
