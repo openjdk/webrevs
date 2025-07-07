@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8361166: increase warmup instead of trating -TieredCompilation differently"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/gcbarriers\/TestG1BarrierGeneration.java"}],"sha":"a4617bde0ca45d517726c228424e08f14ce0c8f7"}]
