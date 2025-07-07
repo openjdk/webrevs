@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,1 +127,0 @@\n-        view.notifyMouse(MouseEvent.DOWN, getGlassEventButton(buttons), (int)mouseX-wx, (int)mouseY-wy, (int)mouseX, (int)mouseY, modifiers, true, true);\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/headless\/HeadlessRobot.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
