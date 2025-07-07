@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -179,1 +179,1 @@\n-        final int foundInstCount = countInstructions(iter, expectedInstInOutput); \n+        final int foundInstCount = countInstructions(iter, expectedInstInOutput);\n","filename":"test\/hotspot\/jtreg\/compiler\/onSpinWait\/TestOnSpinWaitAArch64.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
