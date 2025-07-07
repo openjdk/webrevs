@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -233,1 +233,1 @@\n-            throw new RuntimeException(\"TEST FAILED\", t);\n+            throw new RuntimeException(\"TEST FAILED\", e);\n@@ -236,1 +236,0 @@\n-        return PASSED;\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/jdb\/JdbTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
