@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -349,1 +349,1 @@\n-      dependant_lea->set_req(AddPNode::Base, decode_address);\n+      dependant_lea->set_req(AddPNode::Base, lea_derived_oop->in(AddPNode::Address));\n","filename":"src\/hotspot\/cpu\/x86\/peephole_x86_64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
