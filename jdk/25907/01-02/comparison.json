@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,1 +113,0 @@\n-                .title(\"RightLeftOrientation Instructions\")\n@@ -119,1 +118,0 @@\n-       System.out.println(\"Test passed for LookAndFeel \" + lafClassName);\n","filename":"test\/jdk\/javax\/swing\/JMenuItem\/RightLeftOrientation.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
