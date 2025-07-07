@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1494,0 +1494,2 @@\n+    }else{\n+      FLAG_SET_DEFAULT(UseSSE42Intrinsics, false);\n@@ -1646,0 +1648,2 @@\n+    }else{\n+      FLAG_SET_DEFAULT(UseSSE42Intrinsics, false);\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}

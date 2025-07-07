@@ -1,0 +1,1 @@
+[{"commit":{"message":"8358592: Assert in Assembler::ptest due to missing SSE42 support\n\nSetting \"-XX:UseSSE=1\" in command line prevents the code from entering the block which causes UseSSE42Intrinsics to not be correctly set."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"90bad7d65a762f76621733e8d8af672e57611505"}]
