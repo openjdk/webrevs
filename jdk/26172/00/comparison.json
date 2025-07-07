@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -719,0 +719,1 @@\n+        callbackEnd();\n@@ -734,0 +735,1 @@\n+        callbackEnd();\n","filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/screencast_portal.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
