@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,0 +124,2 @@\n+    \/\/ the instrinsic handle 128 bytes in an iteration of the loop, so aligning\n+    \/\/ to 128 helps consistency.\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
