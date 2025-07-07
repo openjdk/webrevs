@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -296,1 +296,1 @@\n-        Color color = Color.rgb(r, g, b, a);\n+        Color color = Color.rgb(r, g, b, a\/255.);\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/headless\/HeadlessWindow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
