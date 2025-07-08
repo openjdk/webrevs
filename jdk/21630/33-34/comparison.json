@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -868,1 +868,1 @@\n-          \"loop runs for small enough number of iterations. Long loop is\"   \\\n+          \"loop runs for small enough number of iterations. Long loop is \"  \\\n","filename":"src\/hotspot\/share\/opto\/c2_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
