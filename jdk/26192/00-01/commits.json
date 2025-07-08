@@ -1,0 +1,1 @@
+[{"commit":{"message":"restore HotSpotNmethod constructor"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciJavaClasses.hpp"},{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotNmethod.java"}],"sha":"b17efc69ab82166e7145600f2f0daf7aa1e307af"}]
