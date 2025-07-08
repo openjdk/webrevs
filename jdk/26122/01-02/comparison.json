@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1342,1 +1342,1 @@\n-      if (!(target == nullptr) && !target->is_public()) {\n+      if (target != nullptr && !target->is_public()) {\n","filename":"src\/hotspot\/share\/oops\/klassVtable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
