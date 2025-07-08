@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,1 +178,2 @@\n-            \"@Deprecated\"\n+            \"@Deprecated\",\n+            \"E.A\",\n","filename":"test\/langtools\/tools\/javac\/recovery\/AnnotationRecovery.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
