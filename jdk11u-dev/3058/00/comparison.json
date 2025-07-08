@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -296,1 +296,1 @@\n-  void classes_do(void f(Klass*));\n+  void classes_do(void f(Klass* const));\n","filename":"src\/hotspot\/share\/classfile\/classLoaderData.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
