@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -218,1 +218,0 @@\n-     * If the image is {@code null}, no icon will be rendered.\n@@ -227,3 +226,0 @@\n-        if (image == null) {\n-            return;\n-        }\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/ImageIcon.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
