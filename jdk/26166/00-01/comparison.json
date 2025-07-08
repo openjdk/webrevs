@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -305,1 +305,1 @@\n-        if(color.equals(refColor)){\n+        if (color.equals(refColor)){\n","filename":"test\/jdk\/java\/awt\/Mixing\/AWT_Mixing\/MixingPanelsResizing.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
