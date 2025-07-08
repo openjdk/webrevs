@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2241,1 +2241,1 @@\n-      !VectorNode::is_all_ones_vector(in2)) {\n+        !VectorNode::is_all_ones_vector(in2)) {\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
