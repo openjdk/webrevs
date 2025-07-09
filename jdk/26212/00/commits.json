@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361647: Report the error reason on failed semaphore calls on macOS"},"files":[{"filename":"src\/hotspot\/os\/bsd\/semaphore_bsd.cpp"}],"sha":"b46bd6dfefc051fa2d4ca0096f4cd0cb5ad3132d"}]
