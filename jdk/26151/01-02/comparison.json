@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+ * @requires os.arch == \"x86_64\"\n@@ -46,1 +47,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/Test8358592.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
