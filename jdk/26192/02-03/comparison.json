@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -309,1 +309,1 @@\n-            super(method, name, false, 0, true);\n+            super(method, name, false, true, 0);\n","filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/common\/patches\/jdk.internal.vm.ci\/jdk\/vm\/ci\/hotspot\/CompilerToVMHelper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
