@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1145,1 +1145,1 @@\n-        result = translate(tree.bounds, null).head;\n+        result = translate(tree.bounds.head, null);\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransTypes.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
