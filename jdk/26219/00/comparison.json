@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -735,1 +735,1 @@\n-    \/\/ Find and set the first alive subklass\n+    \/\/ Find and set the first subklass.\n@@ -742,1 +742,1 @@\n-    \/\/ Find and set the first alive sibling\n+    \/\/ Find and set the first sibling.\n","filename":"src\/hotspot\/share\/oops\/klass.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

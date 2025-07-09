@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361698\n\nHi all,\n\n  please review this fix to some comments in the Klass::clean_weak_klass_links() after the changes in JDK-8213209.\n\nTesting: local compilation\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/oops\/klass.cpp"}],"sha":"505f0e81be75694d47bf90c795ffbee11c6662e9"}]
