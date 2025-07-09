@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -342,0 +342,1 @@\n+        vmOptFinalFlag(map, \"UseLargePages\");\n","filename":"test\/jtreg-ext\/requires\/VMProps.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
