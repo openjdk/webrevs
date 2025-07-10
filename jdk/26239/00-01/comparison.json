@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1997,1 +1997,0 @@\n-    \/\/ To support vector type conversions between short and wider types.\n@@ -1999,0 +1998,1 @@\n+    \/\/ To support vector type conversions between short and wider types.\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
