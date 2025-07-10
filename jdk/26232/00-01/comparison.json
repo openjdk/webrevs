@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4091,1 +4091,1 @@\n-          assert(false, \"unexpected added method at the end\");\n+          assert(false, \"unexpected added method\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
