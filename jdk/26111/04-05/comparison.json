@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3077,1 +3077,1 @@\n-           A <eventlink id=\"FramePop\"><\/eventlink> event cannot be generated for the frame\n+           A <eventlink id=\"FramePop\"><\/eventlink> event cannot be generated for this frame\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
