@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8357445: Force GitHub to recognize G1 HotSpot files as text (temporary comment)"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1HeapSizingPolicy.cpp"}],"sha":"9e623d1b86282bec9fd3e8ff211410378b099fed"}]
