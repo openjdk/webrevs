@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -331,1 +331,1 @@\n-        if (callbacks == NULL  || jConnectionHolder == NULL) {\n+        if (callbacks == NULL || jConnectionHolder == NULL) {\n","filename":"modules\/javafx.media\/src\/main\/native\/jfxmedia\/platform\/osx\/OSXMediaPlayer.mm","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
