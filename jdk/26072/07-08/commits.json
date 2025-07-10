@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix detection of block comment end; Use specilized lambda function to count instructions"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/onSpinWait\/TestOnSpinWaitAArch64.java"}],"sha":"92a20a208f2eb11d090660534c68aa06eded8350"}]
