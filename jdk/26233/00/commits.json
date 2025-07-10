@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use OopStorage directly instead on JNI handles"},"files":[{"filename":"src\/hotspot\/share\/oops\/trainingData.cpp"},{"filename":"src\/hotspot\/share\/oops\/trainingData.hpp"}],"sha":"e262230bba1a8d3090fc69fd56cd28e6ea3a3039"}]
