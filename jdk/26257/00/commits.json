@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361909: ConstantPoolBuilder::loadableConstantEntry and constantValueEntry should throw NPE"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/constantpool\/ConstantPoolBuilder.java"},{"filename":"test\/jdk\/jdk\/classfile\/ConstantDescSymbolsTest.java"}],"sha":"91f2c6f3fe016344ccac37e6057e53d853fc866a"}]
