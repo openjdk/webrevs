@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361908: Mix and match of dead and valid exception handler leads to malformed class file"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/DirectCodeBuilder.java"},{"filename":"test\/jdk\/jdk\/classfile\/FilterDeadLabelsTest.java"}],"sha":"ff258d6bfcb877c8e3cc978b310cb3f729dfecc0"}]
