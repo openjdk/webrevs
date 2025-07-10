@@ -1,0 +1,1 @@
+[{"commit":{"message":"STW collections cannot unload classes before reclaiming garbage"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahDegeneratedGC.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFullGC.cpp"}],"sha":"ae8079386eb34cf1351534ede7d7df8f81b50174"}]
