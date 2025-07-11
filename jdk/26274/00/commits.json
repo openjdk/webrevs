@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 26b002805ab235d07998eddd486fe66a69f60671"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/os_cpu\/bsd_x86\/os_bsd_x86.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_x86\/os_linux_x86.cpp"}],"sha":"fb0d081c5ca0add99d457545dfbc10aa88d5618e"}]
