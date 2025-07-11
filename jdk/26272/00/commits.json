@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357818: Shenandoah doesn't use shared API for printing heap before\/after GC"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"}],"sha":"c333dc0425b556cd6cf8babb48177ea8399598dd"}]
