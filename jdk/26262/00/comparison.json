@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1863,1 +1863,1 @@\n-  Mutex* lock = Atomic::load(&_extra_data_lock);\n+  Mutex* lock = Atomic::load_acquire(&_extra_data_lock);\n","filename":"src\/hotspot\/share\/oops\/methodData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
