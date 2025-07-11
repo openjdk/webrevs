@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-   status(RESERVED                    , 1 << 4) \\\n+   status(UNUSED                      , 1 << 4) \\\n","filename":"src\/hotspot\/share\/oops\/methodFlags.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
