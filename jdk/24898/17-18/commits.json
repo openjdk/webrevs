@@ -1,0 +1,1 @@
+[{"commit":{"message":"Optimize the computation of the input's shift\n\nOptimize the computation of the input's shift, in order to avoid having more non-significant bits than necessary in the initial estimate."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java"}],"sha":"6dcd67926a589ba7a11c1633916a3c1a1fc4ce4d"}]
