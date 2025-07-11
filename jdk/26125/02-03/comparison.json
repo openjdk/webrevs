@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,0 @@\n-    private int invocations = 0;\n@@ -47,1 +46,0 @@\n-        invocations++;\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestReducePhiOnCmpWithNoOptPtrCompare.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
