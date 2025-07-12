@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,1 +168,0 @@\n-        val = Math.abs(val);\n@@ -177,1 +176,1 @@\n-        \/\/ At this point, val == significand * 2^exponent\n+        \/\/ At this point, |val| == significand * 2^exponent\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
