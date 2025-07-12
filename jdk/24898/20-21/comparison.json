@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -182,1 +182,1 @@\n-            if (shiftL > 0)\n+            if (shiftL > 0L)\n@@ -185,1 +185,1 @@\n-            shift = -Long.SIZE;\n+            return new MutableBigInteger();\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
