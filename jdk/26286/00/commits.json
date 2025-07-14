@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 77bd417c9990f57525257d9df89b9df4d7991461"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestSubwordTruncation.java"}],"sha":"6b9928aabfdb44797650eb23bc77eee7f59a40e1"}]
