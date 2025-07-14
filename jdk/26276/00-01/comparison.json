@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,2 +97,1 @@\n-  Node* cmp;\n-  cmp = word;\n+  Node* cmp = word;\n","filename":"src\/hotspot\/share\/opto\/macro.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
