@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361705\n\nHi all,\n\n  please review this cleanup of `KlassCleaningTask`, fixing some style issues.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/parallelCleaning.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/parallelCleaning.hpp"}],"sha":"4ca4fa62222e7689c204d10d9189b97e72644c52"}]
