@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,1 @@\n-  int must_commit = os::must_commit_stack_guard_pages();\n+  bool must_commit = os::must_commit_stack_guard_pages();\n","filename":"src\/hotspot\/share\/runtime\/stackOverflow.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
