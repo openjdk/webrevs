@@ -1,0 +1,1 @@
+[{"commit":{"message":"Updated x86 code. Patch contributed by @jatin-bhateja"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestSelectFromTwoVectorOp.java"}],"sha":"8fcab4f1e49f90cb936038972867e812a5aefc2e"}]
