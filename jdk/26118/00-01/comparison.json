@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -269,1 +269,1 @@\n-          \"Maximum allowed edges in interference graphs\")                   \\\n+          \"Maximum allowed edges in the interference graphs\")               \\\n","filename":"src\/hotspot\/share\/opto\/c2_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
