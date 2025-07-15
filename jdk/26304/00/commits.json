@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport f36147b3263662229e9a0ec712b9748711d2d85d"},"files":[{"filename":"src\/hotspot\/share\/oops\/klassVtable.cpp"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/runtime\/defmeth\/ConflictingDefaultsTest.java"}],"sha":"47bbf13aba43c3537409766ed078b2518f4bfcea"}]
