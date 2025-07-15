@@ -1,0 +1,1 @@
+[{"commit":{"message":"improve the lookup logic and test case for +00df"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/regex\/CaseFolding.java.template"},{"filename":"test\/jdk\/java\/util\/regex\/CaseFoldingTest.java"},{"filename":"test\/jdk\/java\/util\/regex\/TestCases.txt"}],"sha":"b85f581fcc727e201c78ef7e14997aab35735802"}]
