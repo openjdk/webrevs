@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,0 +120,2 @@\n+        frame.toFront();\n+        frame.requestFocus();\n","filename":"test\/jdk\/javax\/swing\/JMenuBar\/TestMenuMnemonicLinuxAndMac.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
