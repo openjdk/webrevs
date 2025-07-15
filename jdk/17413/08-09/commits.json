@@ -1,0 +1,1 @@
+[{"commit":{"message":"- removed tail processing with RVV instructions as simple scalar loop provides in general better results"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"0c2fbee98f78e6d8483455707d9c895de1782edc"}]
