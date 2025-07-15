@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-            \/\/ fording form with toUpperCase or toLowerCase, only map with case-folding.\n+            \/\/ folding form with toUpperCase or toLowerCase, only map with case-folding.\n","filename":"test\/jdk\/java\/util\/regex\/CaseFoldingTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
