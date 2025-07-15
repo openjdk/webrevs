@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,0 +136,1 @@\n+            \"-Xlog:cds=off\",\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/cacheObject\/ArchivedModuleWithCustomImageTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
