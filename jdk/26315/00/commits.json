@@ -1,0 +1,1 @@
+[{"commit":{"message":"8362237: IllegalArgumentException in the launcher when exception without stack trace is thrown"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/launcher\/SourceLauncher.java"},{"filename":"test\/langtools\/tools\/javac\/launcher\/SourceLauncherTest.java"}],"sha":"199dc7e007abd6818db23b49a44a3c6887aa8e84"}]
