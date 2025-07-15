@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also handle the corner case when compiler threads might be using the task"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"},{"filename":"src\/hotspot\/share\/compiler\/compileBroker.hpp"}],"sha":"76bfa8d1d32d1c50dff154969a52b99d07843230"}]
