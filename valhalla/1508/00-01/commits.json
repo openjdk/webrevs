@@ -1,0 +1,1 @@
+[{"commit":{"message":"Run macro elimination only when there are macro nodes"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"test\/hotspot\/jtreg\/testlibrary_tests\/ir_framework\/tests\/TestPhaseIRMatching.java"}],"sha":"e4e11913b48de006896a4544582bf71626884cf3"}]
