@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport e5ab210713f76c5307287bd97ce63f9e22d0ab8e"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/ReverseBytesConstantsHelper.jasm"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/ReverseBytesConstantsTests.java"}],"sha":"81cc58810c977e89974e68ed6948abe581e4ba29"}]
