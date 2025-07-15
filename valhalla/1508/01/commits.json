@@ -1,0 +1,1 @@
+[{"commit":{"message":"Run macro elimination only when there are macro nodes"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"e4e11913b48de006896a4544582bf71626884cf3"},{"commit":{"message":"Don't expect ITER_GVN_AFTER_ELIMINATION from NoCompilationOutput.badPhase2"},"files":[],"sha":"022f8a1a61899ae89bc3e24c467680f0414ee4aa"}]
