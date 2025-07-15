@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix truncation assert with ModI nodes"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestSubwordTruncation.java"}],"sha":"741cf3df4b267ddcc2c54418d5d56327a33b2ef2"}]
