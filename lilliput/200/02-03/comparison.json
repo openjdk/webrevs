@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-    assert(expand_for_hash(obj), \"must not further expand for hash\");\n+    assert(expand_for_hash(obj, obj->mark()), \"must expand for hash\");\n","filename":"src\/hotspot\/share\/oops\/instanceMirrorKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
