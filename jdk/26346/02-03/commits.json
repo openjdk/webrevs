@@ -1,0 +1,1 @@
+[{"commit":{"message":"revert from JVMCI_CHECK_NULL back to JVMCIENV in final return statement of method"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"7cf4b26c128d3d28aaebcffade265199e4f159c6"}]
