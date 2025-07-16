@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-        int ret = Helper.StringCodingEncodeAsciiArray0(null, 1, null, 1, 1);\n+        Helper.StringCodingEncodeAsciiArray0(null, 1, null, 1, 1);\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestVerifyIntrinsicChecks.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
