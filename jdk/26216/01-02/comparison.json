@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-  HeapWord* end() const { return _start + _word_size; }\n+  HeapWord* end() const   { return _start + _word_size; }\n","filename":"src\/hotspot\/share\/memory\/memRegion.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
