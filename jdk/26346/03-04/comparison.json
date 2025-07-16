@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1113,0 +1113,1 @@\n+            assertNull(runtime.getMirror(clinit));\n","filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/jdk.vm.ci.runtime.test\/src\/jdk\/vm\/ci\/runtime\/test\/TestResolvedJavaType.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
