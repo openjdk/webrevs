@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -232,1 +232,1 @@\n-  return (NativeMovRegMem*)0;\n+  return (NativeMovRegMem*)nullptr;\n","filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
