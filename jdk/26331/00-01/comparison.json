@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,4 +129,1 @@\n-        public synchronized void dispose() {\n-            if (cfDictionaryPtr == 0) {\n-                return;\n-            }\n+        public void dispose() {\n","filename":"src\/java.desktop\/macosx\/classes\/apple\/laf\/JRSUIControl.java","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
