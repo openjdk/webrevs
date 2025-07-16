@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,3 +157,0 @@\n-  \/\/ Check JNI, \"planned capacity\" for current frame (or push\/ensure)\n-  size_t          _planned_capacity;\n-\n","filename":"src\/hotspot\/share\/runtime\/jniHandles.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
