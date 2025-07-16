@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed bug in HotSpotJVMCIRuntime.getMirror for <clinit> and injected fields"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/jvmci\/jdk.vm.ci.runtime.test\/src\/jdk\/vm\/ci\/runtime\/test\/TestResolvedJavaField.java"}],"sha":"cca137a3ce97aa1ae9f9e9145c441c63e95f16c8"}]
