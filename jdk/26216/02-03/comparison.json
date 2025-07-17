@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,2 @@\n+  ptr = align_up(ptr, os::vm_page_size());\n+\n","filename":"test\/hotspot\/gtest\/gc\/g1\/test_freeRegionList.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
