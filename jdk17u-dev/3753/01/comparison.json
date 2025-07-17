@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -262,0 +262,4 @@\n+#if defined(PPC) || defined(S390)\n+\/\/ Neither ppc nor s390 compiler use code strings\n+TEST_VM(codestrings, DISABLED_validate)\n+#else\n@@ -263,0 +267,1 @@\n+#endif\n","filename":"test\/hotspot\/gtest\/code\/test_codestrings.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
