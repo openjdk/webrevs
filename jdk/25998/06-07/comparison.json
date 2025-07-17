@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -964,1 +964,1 @@\n-    bailout = (RegionNode*) _gvn.transform(bailout);\n+    bailout = _gvn.transform(bailout)->as_Region();\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
