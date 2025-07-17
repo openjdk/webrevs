@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,3 @@\n-\/\/ (error bound for polynomial expansion is below 0.51 ulp)\n+\/\/\n+\/\/ Error bound:\n+\/\/  0.51 ulp\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_sinh.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
