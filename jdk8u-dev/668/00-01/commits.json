@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove guarantee and add debug only warning, then return early when \"previous LineBuffer overflow, request ignored\""},"files":[{"filename":"hotspot\/src\/share\/vm\/gc_implementation\/g1\/g1GCPhaseTimes.cpp"}],"sha":"a132e0c0ca4f40e2ea073dfbf8b08d3e83ba8747"}]
