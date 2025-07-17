@@ -1,0 +1,1 @@
+[{"commit":{"message":"replaced use of JVMCIENV with JVMCI_CHECK_NULL in getDeclaredFieldsInfo"},"files":[{"filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp"}],"sha":"d62c74d9c6b6418942c1ed57d833934fec1079e1"}]

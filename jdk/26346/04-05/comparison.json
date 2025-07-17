@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2280,1 +2280,1 @@\n-  JVMCIObjectArray array = JVMCIENV->new_FieldInfo_array(fields->length(), JVMCIENV);\n+  JVMCIObjectArray array = JVMCIENV->new_FieldInfo_array(fields->length(), JVMCI_CHECK_NULL);\n","filename":"src\/hotspot\/share\/jvmci\/jvmciCompilerToVM.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
