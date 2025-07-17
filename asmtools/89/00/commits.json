@@ -1,0 +1,1 @@
+[{"commit":{"message":"CODETOOLS-7904065: Classfile version < 45 synthetic methods should not set ACC_SYNTHETIC"},"files":[{"filename":"build\/productinfo.properties"},{"filename":"src\/org\/openjdk\/asmtools\/common\/structure\/CFVersion.java"},{"filename":"src\/org\/openjdk\/asmtools\/jasm\/Parser.java"}],"sha":"4386f2902569375d00a6debaa45ef6ca9020fc04"}]
