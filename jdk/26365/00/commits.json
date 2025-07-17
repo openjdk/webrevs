@@ -1,0 +1,1 @@
+[{"commit":{"message":"8306324: StopThread results in thread being marked as interrupted, leading to unexpected InterruptedException"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/StopThreadTest\/StopThreadTest.java"}],"sha":"cd2354607eccb658df56958e2adf982f84e3124e"}]
