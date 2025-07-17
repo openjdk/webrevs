@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n- * instead. If the {@code store}, {@code save} or {@code list} method is called\n+ * instead. If the {@code store}, {@code save}, or {@code list} method is called\n","filename":"src\/java.base\/share\/classes\/java\/util\/Properties.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
