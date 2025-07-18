@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-    if (_cur > BUFFER_LEN) {\n+    if (_cur >= BUFFER_LEN) {\n","filename":"hotspot\/src\/share\/vm\/gc_implementation\/g1\/g1GCPhaseTimes.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
