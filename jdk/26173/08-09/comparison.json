@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,1 +314,1 @@\n-            publicName = \"Runtime-Info.plist\";\n+            publicName = \"Info.plist\";\n","filename":"src\/jdk.jpackage\/macosx\/classes\/jdk\/jpackage\/internal\/MacPackagingPipeline.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
