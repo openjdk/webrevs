@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove some dangling references and unused variables identified in the\ncode review."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPhaseTimings.hpp"}],"sha":"589bde3599619c13ea8c0fe1ab5f3920d2ab0142"}]
