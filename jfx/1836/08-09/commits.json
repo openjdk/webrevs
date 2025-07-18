@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not use System.getProperty() for getting configuration options for now.\nEspecially, don't use properties prefixed for GTK."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/headless\/HeadlessApplication.java"}],"sha":"b3d69a174832f17ca8f8282a031fcfd0bf10a77d"}]
