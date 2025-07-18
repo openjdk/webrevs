@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,3 +47,2 @@\n-  int val = 1;\n-  HeapWord* ptr = reinterpret_cast<HeapWord*>(&val);\n-  ptr = align_up(ptr, os::vm_page_size());\n+  HeapWord val{};\n+  HeapWord* ptr = align_up(&val, os::vm_page_size());\n","filename":"test\/hotspot\/gtest\/gc\/g1\/test_freeRegionList.cpp","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
