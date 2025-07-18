@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2556,1 +2556,1 @@\n-      if (u->Opcode() == Op_RShiftI || u->Opcode() == Op_RShiftL ) {\n+      if (u->Opcode() == Op_RShiftI || u->Opcode() == Op_RShiftL) {\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
