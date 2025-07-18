@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,0 +86,1 @@\n+        frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);\n@@ -106,0 +107,1 @@\n+                robot.waitForIdle();\n","filename":"test\/jdk\/javax\/swing\/JSpinner\/4515999\/JSpinnerMouseAndKeyPressTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
