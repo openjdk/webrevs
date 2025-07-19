@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -545,0 +545,1 @@\n+ -runtime\/cds\/appcds\/javaldr\/ExceptionDuringDumpAtObjectsInitPhase.java \\\n@@ -562,0 +563,1 @@\n+ -runtime\/cds\/appcds\/LambdaWithJavaAgent.java \\\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
