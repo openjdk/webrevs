@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -662,1 +662,1 @@\n-          \/\/ m is method that we need to re-examine, unless we have a valid concrete\n+          \/\/ m is a method that we need to re-examine, unless we have a valid concrete\n","filename":"src\/hotspot\/share\/classfile\/defaultMethods.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
