@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1667,0 +1667,1 @@\n+    \/* TODO: 8322547: Unsafe::putInt checks the larval bit which leads to a VM crash\n@@ -1685,0 +1686,1 @@\n+    *\/\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestIntrinsics.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
