@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2011,1 +2011,1 @@\n-                r = valueOf(Math.ceil(approx));\n+                r = valueOf(approx);\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
