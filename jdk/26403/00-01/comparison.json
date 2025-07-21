@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -289,2 +289,1 @@\n-          free(buf);\n-          return false;\n+          goto err;\n","filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/ps_core.c","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
