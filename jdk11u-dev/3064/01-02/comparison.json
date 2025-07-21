@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,1 @@\n-        assertNotNull(ref1.get(), \n+        assertNotNull(ref1.get(),\n","filename":"test\/jdk\/java\/io\/ObjectStreamClass\/ObjectStreamClassCaching.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
