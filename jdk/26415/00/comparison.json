@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,3 @@\n-    return JNU_NewStringPlatform(env, str);\n+    jstring res = JNU_NewStringPlatform(env, str);\n+    free(str);\n+    return res;\n","filename":"test\/jdk\/java\/lang\/String\/nativeEncoding\/libstringPlatformChars.c","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
