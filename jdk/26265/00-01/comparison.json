@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,1 @@\n-                   if ( hostAddr instanceof Inet6Address){\n+                   if (hostAddr instanceof Inet6Address){\n","filename":"test\/jdk\/java\/net\/NetworkInterface\/IPv4Only.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
