@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2596,0 +2596,2 @@\n+  case Op_IsFiniteF:\n+  case Op_IsFiniteD:\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
