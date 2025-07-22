@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,0 +67,1 @@\n+        (*env)->ReleasePrimitiveArrayCritical(env, bytes, (void*)jbytes, 0);\n","filename":"test\/jdk\/java\/lang\/String\/nativeEncoding\/libstringPlatformChars.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
