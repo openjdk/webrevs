@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,0 +54,1 @@\n+        Disposer.addRecord(this, new PrintJobDisposerRecord(printJobDelegate));\n","filename":"src\/java.desktop\/share\/classes\/sun\/print\/PrintJob2D.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
