@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,2 @@\n-  char* addr = os::reserve_memory(sz, mtTest);\n+  const size_t lpsz = os::large_page_size();\n+  char* addr = os::reserve_memory_aligned(sz, lpsz, mtTest);\n","filename":"test\/hotspot\/gtest\/gc\/g1\/test_freeRegionList.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
