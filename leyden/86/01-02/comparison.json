@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -182,0 +182,3 @@\n+  if (!CDSConfig::is_dumping_heap()) {\n+    return;\n+  }\n","filename":"src\/hotspot\/share\/cds\/heapShared.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
