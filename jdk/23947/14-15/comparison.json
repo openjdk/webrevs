@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -358,1 +358,1 @@\n-      if (src_type->hi_as_long() >= 0) {\n+      if (src_type->lo_as_long() >= 0) {\n","filename":"src\/hotspot\/share\/opto\/intrinsicnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
