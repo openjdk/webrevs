@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure an initial overestimate of the root\n\nEnsure an initial overestimate of the root, using Math.exp() and Math.log(), whose error is guaranteed to be less than 1 ulp."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java"}],"sha":"b0542837382aa113c5beada71ebf4007c3561ec2"}]
