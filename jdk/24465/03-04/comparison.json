@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -257,1 +257,1 @@\n-                    \/\/ resolution on currentFile under the rationale that\n+                    \/\/ resolution on currentPath under the rationale that\n","filename":"src\/java.base\/share\/classes\/java\/security\/Security.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
