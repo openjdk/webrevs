@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,7 @@\n+ *\/\n+\n+\/*\n+ * @test\n+ * @summary Test that IsIdentityClass and modifiers return true for arrays not in preview.\n+ * @library \/test\/lib\n+ * @run main\/othervm IsIdentityClassTest\n","filename":"test\/jdk\/valhalla\/valuetypes\/IsIdentityClassTest.java","additions":7,"deletions":0,"binary":false,"changes":7,"status":"modified"}]}
