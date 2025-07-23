@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1285,1 +1285,1 @@\n-  static int get_initial_copy_flags() const      { return LIR_OpArrayCopy::unaligned |\n+  static int get_initial_copy_flags()            { return LIR_OpArrayCopy::unaligned |\n","filename":"src\/hotspot\/share\/c1\/c1_LIR.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
