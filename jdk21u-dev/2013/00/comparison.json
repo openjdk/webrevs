@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-            Pattern.compile(\"family 6 model 85 stepping (\\\\d) \");\n+            Pattern.compile(\"family 6 model 85 stepping (\\\\d+) \");\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/driver\/irmatching\/parser\/VMInfo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
