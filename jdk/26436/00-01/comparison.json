@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -382,1 +382,1 @@\n-  static bool is_on_for_use() { return is_on() && _cache->for_use(); }\n+  static bool is_on_for_use()  CDS_ONLY({ return is_on() && _cache->for_use(); }) NOT_CDS_RETURN_(false);\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
