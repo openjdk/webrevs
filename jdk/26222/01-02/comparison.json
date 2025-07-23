@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,0 @@\n-  void print_tracing_info() const override;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
