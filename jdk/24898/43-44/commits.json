@@ -1,0 +1,1 @@
+[{"commit":{"message":"Round up to do less iterations\n\nWith the 1st iteration outside the loop, it is more convenient rounding up to ceiling."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java"}],"sha":"29ec5146c666b42a0a481641a05f4dbd01654203"}]
