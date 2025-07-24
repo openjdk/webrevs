@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -191,0 +191,1 @@\n+#ifdef ASSERT\n@@ -196,0 +197,1 @@\n+#endif\n@@ -239,1 +241,0 @@\n-    assert(reexecute, \"must be\");\n","filename":"src\/hotspot\/share\/runtime\/vframeArray.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
