@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-  bool unextended_sp_safe = (unextended_sp < thread->stack_base());\n+  bool unextended_sp_safe = (unextended_sp < thread->stack_base() && unextended_sp >= thread->stack_end());\n","filename":"hotspot\/src\/cpu\/aarch64\/vm\/frame_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
