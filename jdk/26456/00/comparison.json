@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -953,0 +953,1 @@\n+  assert(is_aligned(heap_size, alignment), \"precondition\");\n@@ -954,1 +955,1 @@\n-  size_t total_reserved = align_up(heap_size, alignment);\n+  size_t total_reserved = heap_size;\n","filename":"src\/hotspot\/share\/memory\/universe.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
