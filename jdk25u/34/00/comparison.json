@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -735,1 +735,1 @@\n-        throwInternalIOException(env, errno, \"Bad file descriptor\", c->mode);\n+        throwInternalIOException(env, errno, \"Bad file descriptor\", mode);\n","filename":"src\/java.base\/unix\/native\/libjava\/ProcessImpl_md.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
