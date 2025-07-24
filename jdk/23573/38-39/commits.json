@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use CompiledICLocker instead of CompiledIC_lock"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/whitebox\/StressNMethodRelocation.java"}],"sha":"d4e3dd31864f9d7cf4dcaae21c1318f80bd37d2e"}]
