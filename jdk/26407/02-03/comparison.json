@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-                throw new RuntimeException(\"poup is visible after component is removed\");\n+                throw new RuntimeException(\"popup is visible after component is removed\");\n","filename":"test\/jdk\/javax\/swing\/JPopupMenu\/TestPopupInvoker.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
