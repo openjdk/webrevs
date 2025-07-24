@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,2 @@\n+    \/\/ A lot of libjsig related tests fail because of the link order check; so better avoid it\n+    \"verify_asan_link_order=0,\"\n","filename":"make\/data\/asan\/asan_default_options.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
