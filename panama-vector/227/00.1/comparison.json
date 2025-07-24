@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,1 +2,1 @@\n-project=jdk\n+project=panama\n@@ -26,2 +26,1 @@\n-reviewers=1\n-ignore=duke\n+committers=1\n","filename":".jcheck\/conf","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
