@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -242,0 +242,1 @@\n+                free(temp);\n@@ -255,0 +256,1 @@\n+                free(temp);\n","filename":"src\/java.base\/unix\/native\/libjava\/java_props_md.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
