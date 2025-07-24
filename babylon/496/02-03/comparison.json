@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-        kernelContext.dimensions(2);   \/\/ FIXME\n+        kernelContext.dimensions(3);\n","filename":"hat\/core\/src\/main\/java\/hat\/buffer\/KernelContext.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
