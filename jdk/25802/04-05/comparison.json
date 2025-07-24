@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n- * using the {@link #setProperty} method.\n+ * using the {@link #setProperty setProperty} method.\n","filename":"src\/java.xml.crypto\/share\/classes\/javax\/xml\/crypto\/dsig\/dom\/DOMSignContext.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
