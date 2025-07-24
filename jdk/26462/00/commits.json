@@ -1,0 +1,1 @@
+[{"commit":{"message":"8359235: C1 compilation fails with \"assert(is_single_stack() && !is_virtual()) failed: type check\""},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_LIRAssembler_x86.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_LIR.hpp"}],"sha":"f4de477b0ce3b106d4cb186ed159289515863306"}]
