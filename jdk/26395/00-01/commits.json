@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address @eastig review comment:\n- Reverted change for moving the assert. Added code_size, buffer size and free to the assert output."},"files":[{"filename":"src\/hotspot\/share\/runtime\/stubRoutines.cpp"}],"sha":"476c56d16d8605a4fb0bc90d99e8f1f75125def1"}]
