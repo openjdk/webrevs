@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1988,0 +1988,1 @@\n+    assert(!in1->in(1)->bottom_type()->isa_vectmask(), \"sanity\");\n@@ -1989,1 +1990,0 @@\n-    assert(!in1->bottom_type()->isa_vectmask(), \"sanity\");\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
