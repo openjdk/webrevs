@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use setVisible(false) instead of dispose, update test"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JPopupMenu.java"},{"filename":"test\/jdk\/javax\/swing\/JPopupMenu\/TestPopupInvoker.java"}],"sha":"c5da4598265ef2013658147440802eb441a29258"}]
