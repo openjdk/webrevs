@@ -1,0 +1,1 @@
+[{"commit":{"message":"whitespace fix"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"44aaef0e27fe5d758edd48b5df5812c1238b655e"},{"commit":{"message":"fix -XX:CPUFeatures parsing and its error message"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"6b9eabfa5934878180452ab2f55c5f4f87317825"}]
