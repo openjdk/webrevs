@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-  int overflow() { return _overflow; }\n+  bool overflow() { return _overflow; }\n","filename":"src\/hotspot\/share\/utilities\/formatBuffer.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
