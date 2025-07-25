@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1989,0 +1989,1 @@\n+    assert(!in1->bottom_type()->isa_vectmask(), \"sanity\");\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
