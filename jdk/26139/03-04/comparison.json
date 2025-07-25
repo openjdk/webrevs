@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,1 @@\n+    private static final String FLAG_DEBUG_NAME = \"BinarySwitchThreshold\";\n@@ -47,0 +48,1 @@\n+        VmFlagTest.runTest(FLAG_DEBUG_NAME, VmFlagTest.WHITE_BOX::getIntxVMFlag);\n","filename":"test\/lib-test\/jdk\/test\/whitebox\/vm_flags\/IntxTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
