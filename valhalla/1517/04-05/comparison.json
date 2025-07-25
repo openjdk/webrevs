@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6234,3 +6234,0 @@\n-          if (UseNewCode) {\n-            assert(!name->equals(\"java\/lang\/Integer\") || klass != nullptr, \"Integer should be loaded\");\n-          }\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
