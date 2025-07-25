@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-jcstress-tests-all-20241217-2035.jar when start jcstress tests in jtreg.\n+jcstress-tests-all-20241217-2035.jar when starting jcstress tests in jtreg.\n","filename":"test\/hotspot\/jtreg\/applications\/jcstress\/README","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
