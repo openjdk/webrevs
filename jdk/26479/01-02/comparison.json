@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1296,1 +1296,1 @@\n-                    U.getReferenceVolatile(a, slotOffset(m & (s - 1))) == null)\n+                    U.getReferenceAcquire(a, slotOffset(m & (s - 1))) == null)\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
