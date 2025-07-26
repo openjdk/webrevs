@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,0 @@\n- * @build jtreg.SkippedException\n@@ -43,1 +42,0 @@\n- * @build jtreg.SkippedException\n@@ -55,1 +53,0 @@\n- * @build jtreg.SkippedException\n","filename":"test\/hotspot\/jtreg\/runtime\/os\/TestHugePageDecisionsAtVMStartup.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
