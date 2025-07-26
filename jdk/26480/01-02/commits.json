@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make explicitAvailableHugePageNumber as a member of HugePageConfiguration"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestHugePageDecisionsAtVMStartup.java"},{"filename":"test\/lib\/jdk\/test\/lib\/os\/linux\/HugePageConfiguration.java"}],"sha":"4e0c9a7a22811d860bf847fba4024585277b822e"}]
