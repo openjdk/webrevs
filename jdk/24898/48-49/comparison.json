@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2061,1 +2061,1 @@\n-                s.leftShift(rootSh);\n+                s.safeLeftShift(rootSh);\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
