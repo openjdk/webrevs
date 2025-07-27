@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @requires vm.debug\n+ * @requires vm.debug == true & vm.compiler1.enabled\n@@ -62,1 +62,1 @@\n-                Thread.sleep(100);\n+                Thread.sleep(1000);\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestStack2RegSlotMismatch.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
