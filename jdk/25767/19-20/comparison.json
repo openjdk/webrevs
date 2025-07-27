@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -381,1 +381,0 @@\n-     * Passing a {@code null} Image will result in {@code NullPointerException}.\n@@ -383,0 +382,1 @@\n+     * @throws {@code NullPointerException} if (@code null) Image is passed.\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/ImageIcon.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
