@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8363063: AArch64: [VectorAPI] sve vector math operations are not supported after JDK-8353217\"\n\nThis reverts commit 011de4c894ed827ee8e15a7cfe400788175e5b2c."},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"}],"sha":"7b6c1ee76439d208c4f8a798d987022e735c18f0"}]

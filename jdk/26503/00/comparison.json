@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -943,1 +943,1 @@\n-  if test \"x$OPENJDK_TARGET_CPU\" = \"xaarch64\" && test \"x$OPENJDK_TARGET_OS\" = \"xlinux\"; then\n+  if test \"x$OPENJDK_TARGET_CPU\" = \"xaarch64\" && test \"x$OPENJDK_TARGET_CPU\" = \"xlinux\"; then\n","filename":"make\/autoconf\/flags-cflags.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
