@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix truncation assert for CmpLTMask and rounding"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestSubwordTruncation.java"}],"sha":"cec931f349f10889f5621b58044daaa378b50564"}]
