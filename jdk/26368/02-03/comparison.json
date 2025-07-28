@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2566,0 +2566,2 @@\n+  \/\/ Note: there may be other 3-nodes conversion chains that would require to be added here, but these\n+  \/\/ are the only ones that are known to trigger missed optimizations otherwise\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
