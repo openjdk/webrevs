@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,2 +131,0 @@\n-  const Array<Method*>* old_methods = scratch_klass->methods();\n-  assert(old_methods != nullptr, \"invariant\");\n","filename":"src\/hotspot\/share\/jfr\/support\/methodtracer\/jfrTraceTagging.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
