@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 9dc62825b5e7300542d22df0b87b79116f3562d3"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/BindingSpecializer.java"},{"filename":"test\/jdk\/java\/foreign\/TestUpcallStructScope.java"},{"filename":"test\/jdk\/java\/foreign\/libTestUpcallStructScope.c"}],"sha":"54b1e4d76bb513d275596c54526c1f8522a1528c"}]
