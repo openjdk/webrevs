@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,0 @@\n-    return stub_addr;\n","filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
