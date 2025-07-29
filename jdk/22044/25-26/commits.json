@@ -1,0 +1,1 @@
+[{"commit":{"message":"revert robot set\/get for step delay\/length and readd glide(int,int,int,int,int,int), remove restriction on dist < stepLength and corresponding IAE from spec"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/Robot.java"}],"sha":"c0b1a2607b6adb75b5a102380c9992c946633355"}]
