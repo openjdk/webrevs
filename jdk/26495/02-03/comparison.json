@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,0 +115,2 @@\n+    assert(dest == trampoline_stub_Relocation::get_trampoline_for(call_addr,\n+                                                          code->as_nmethod()), \"Sanity\");\n","filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
