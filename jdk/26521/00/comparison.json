@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6130,1 +6130,1 @@\n-        variable whose type is <code>long<\/code>.\n+        variable whose type is <code>double<\/code>.\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
