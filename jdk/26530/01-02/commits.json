@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename os::has_allocatable_memory_limit() to os::allocatable_memory_limit()"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.hpp"}],"sha":"c4f27529d319bc67e6f46dca3015c66bf16ae074"}]
