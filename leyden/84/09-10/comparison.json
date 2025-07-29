@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-  set_feature(CPU_ASIMD;\n+  set_feature(CPU_ASIMD);\n","filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/vm_version_bsd_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
