@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n-  \/\/ this is irrelevant, since these upper address space parts are not user-addressable on\n+  \/\/ this is irrelevant because these upper address space parts are not user-addressable on\n","filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
