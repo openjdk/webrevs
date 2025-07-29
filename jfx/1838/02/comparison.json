@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -362,2 +362,0 @@\n-        if (getSkinnable().isEmpty()) return;\n-\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/TreeCellSkin.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
