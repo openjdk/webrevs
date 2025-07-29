@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,0 +75,1 @@\n+    \/\/ TODO: Need to revisit this when porting the AOT features.\n@@ -114,0 +115,1 @@\n+    \/\/ TODO: Need to revisit this when porting the AOT features.\n","filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
