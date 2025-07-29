@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,2 @@\n-     * detail message.\n+     * detail message. The cause is not initialized, and may subsequently be\n+     * initialized by a call to {@link #initCause(Throwable)}.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/UnsupportedOperationException.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
