@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,0 @@\n-#include \"runtime\/crac.hpp\"\n@@ -67,0 +66,3 @@\n+#if !defined(__APPLE__) && !defined(AIX)\n+#include \"runtime\/crac.hpp\"\n+#endif\n","filename":"src\/hotspot\/os\/posix\/os_posix.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
