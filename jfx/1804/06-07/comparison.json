@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,2 +94,0 @@\n-        assertTrue(launchLatch.await(TIMEOUT, TimeUnit.MILLISECONDS), \"Timeout waiting for test stage to be shown\");\n-\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/stage\/StageFocusTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
