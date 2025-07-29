@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2073,1 +2073,1 @@\n-                 * using the correct shifted radicand, in order to avoid computing and\n+                 * using a congruent shifted radicand, in order to avoid computing and\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
