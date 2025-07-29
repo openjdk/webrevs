@@ -1,0 +1,1 @@
+[{"commit":{"message":"8364135: JPEGImageReader.getImageTypes() should throw exception for non-zero image index"},"files":[{"filename":"src\/java.desktop\/share\/classes\/com\/sun\/imageio\/plugins\/jpeg\/JPEGImageReader.java"},{"filename":"test\/jdk\/javax\/imageio\/plugins\/jpeg\/JpegNegativeImageIndexTest.java"}],"sha":"cfc24f34643d05f2ed1ed3a954fb4064d025444b"}]
