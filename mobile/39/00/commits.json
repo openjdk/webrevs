@@ -1,0 +1,1 @@
+[{"commit":{"message":"Minimize ios-specific logic to calculate the location for java_home.\nThe java_home property should be based on the jvm_path, and not on the\nuser_home\n\nFix JDK-8359163"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"cad2ebb4e47ba23853937d0693f148289c6c34d1"}]
