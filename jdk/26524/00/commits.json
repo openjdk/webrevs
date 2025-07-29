@@ -1,0 +1,1 @@
+[{"commit":{"message":"8364235: Fix for JDK-8361447 breaks the alignment requirements for GuardedMemory"},"files":[{"filename":"src\/hotspot\/share\/memory\/guardedMemory.hpp"}],"sha":"a7502d8ca8c1e77c49c427d02bdaa70a4bb9548b"}]
