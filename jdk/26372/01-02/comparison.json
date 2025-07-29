@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n- * exception handler if such a handler exists (JVMS {@jvms 2.4}). Delivered as\n+ * exception handler if such a handler exists (JVMS {@jvms 2.10}). Delivered as\n","filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/instruction\/ExceptionCatch.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
