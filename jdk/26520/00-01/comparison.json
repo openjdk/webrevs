@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1383,1 +1383,1 @@\n-  st->print_cr(\"                 JRE version: %s%s%s (%s) (%sbuild %s)\", runtime_name,\n+  st->print_cr(\"                 JDK version: %s%s%s (%s) (%sbuild %s)\", runtime_name,\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
