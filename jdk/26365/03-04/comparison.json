@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2120,0 +2120,3 @@\n+    if (has_async_exception_condition()) {\n+      return false;\n+    }\n","filename":"src\/hotspot\/share\/runtime\/javaThread.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
