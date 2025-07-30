@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -714,1 +714,1 @@\n-  double young_to_old_ratio = calculate_young_to_old_worker_ratio(stats);\n+  const double young_to_old_ratio = calculate_young_to_old_worker_ratio(stats);\n","filename":"src\/hotspot\/share\/gc\/z\/zDirector.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
