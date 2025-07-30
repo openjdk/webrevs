@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -559,1 +559,1 @@\n-  return old_vs_young_efficiency_ratio;\n+  return MIN2(old_vs_young_efficiency_ratio, (double)ZOldGCThreads);\n","filename":"src\/hotspot\/share\/gc\/z\/zDirector.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
