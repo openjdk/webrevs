@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1072,0 +1072,1 @@\n+    FLAG_SET_ERGO(IntelJccErratumMitigation, _has_intel_jcc_erratum);\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
