@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+#include \"utilities\/formatBuffer.hpp\"\n@@ -658,1 +659,1 @@\n-  int features_offset = ss.size();\n+  int features_offset = (int)ss.size();\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
