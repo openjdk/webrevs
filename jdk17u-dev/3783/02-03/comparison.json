@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n- * @run junit H2GoAwayTest\n+ * @run junit\/othervm H2GoAwayTest\n","filename":"test\/jdk\/java\/net\/httpclient\/http2\/H2GoAwayTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
