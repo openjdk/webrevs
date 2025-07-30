@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,3 +78,0 @@\n-\n-#include <errno.h>\n-#include <sys\/stat.h>\n@@ -86,0 +83,3 @@\n+#include <errno.h>\n+#include <sys\/stat.h>\n+\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
