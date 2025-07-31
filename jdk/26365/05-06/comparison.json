@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2901,1 +2901,1 @@\n-        if (!has_async_exception_condition()) {\n+        if (!thread->has_async_exception_condition()) {\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
