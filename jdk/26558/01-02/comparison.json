@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,0 @@\n-  void set_next(const JfrThreadGroup* tg) const { _next = tg; }\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrThreadGroupManager.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
