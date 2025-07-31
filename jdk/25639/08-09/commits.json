@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable assertion until JDK 25 is bootstrap JRE."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/platform\/JDKPlatformProvider.java"}],"sha":"5d73c3271f2698024d4bd5b65d7a676dde8edac0"}]
