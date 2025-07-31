@@ -1,0 +1,1 @@
+[{"commit":{"message":"extend is_serialized scheme to JavaThreads"},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrType.cpp"},{"filename":"src\/hotspot\/share\/jfr\/support\/jfrThreadLocal.cpp"},{"filename":"src\/hotspot\/share\/jfr\/support\/jfrThreadLocal.hpp"}],"sha":"e973f67bf15a2f5739df405ac240c6b50990d2fd"}]
