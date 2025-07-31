@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -688,1 +688,1 @@\n-  bool can_load_archived_objects() const override { return !ShenandoahCardBarrier; }\n+  bool can_load_archived_objects() const override { return true; }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
