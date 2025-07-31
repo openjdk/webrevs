@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343218: Disable allocating interface and abstract classes in non-class metaspace"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/klass.inline.hpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"79399d5d313391a5d60f74bd764d62e6154c9364"}]
