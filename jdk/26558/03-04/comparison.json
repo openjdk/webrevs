@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,0 @@\n-    t->jfr_thread_local()->set_written();\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrType.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
