@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n-\/\/ Get constants like JVM_T_CHAR and JVM_SIGNATURE_INT, before pulling in <jvm.h>.\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
