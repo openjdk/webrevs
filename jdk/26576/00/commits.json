@@ -1,0 +1,1 @@
+[{"commit":{"message":"8364434: Inconsistent BufferedContext state after GC\n\nDistinguish between `null` and GC'ed weak refs in BufferedContext"},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/java2d\/pipe\/BufferedContext.java"}],"sha":"849c74cea4fc0078ae7e0fb0c736bfaf0594eed6"}]
