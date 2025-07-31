@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make sure xmm1 is initialized before potential use in L_2TAG_PACKET_3_0_2"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_sinh.cpp"}],"sha":"3ab7ab3e752991e2eb7f43af68380f1e66be9bec"}]
