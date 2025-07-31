@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1086,0 +1086,3 @@\n+        if(isVisible() == vis) {\n+            return;\n+        }\n","filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XWindowPeer.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
