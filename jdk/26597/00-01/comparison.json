@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1297,1 +1297,1 @@\n-        for (int i=dp; i<val.length; ++i) {\n+        for (int i = dp; i < val.length; i++) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
