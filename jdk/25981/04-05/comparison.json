@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,3 +55,0 @@\n- *          jdk.jlink\/jdk.tools.jlink.internal\n- *          jdk.jlink\/jdk.tools.jlink.plugin\n- *          jdk.jlink\/jdk.tools.jmod\n@@ -59,1 +56,0 @@\n- *          jdk.compiler\n","filename":"test\/jdk\/tools\/jlink\/JLink20000Packages.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
