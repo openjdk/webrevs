@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-    void fastObjectFieldOffset() {\n+    void knownObjectFieldOffset() {\n@@ -68,0 +68,1 @@\n+        \/\/ Two conventional failure cases, not necessarily complete\n","filename":"test\/jdk\/jdk\/internal\/misc\/Unsafe\/AddressComputationContractTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
