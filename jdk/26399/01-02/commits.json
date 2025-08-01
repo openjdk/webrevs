@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix PPC64"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetAssembler_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetNMethod_ppc.cpp"}],"sha":"a06b34468f5cb063892f92b66d058a8f444f05a1"}]
