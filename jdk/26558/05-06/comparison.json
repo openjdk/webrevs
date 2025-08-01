@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -212,1 +212,1 @@\n-  return tg->id();\n+  return tg != nullptr ? tg->id() : 0;\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrThreadGroupManager.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
