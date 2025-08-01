@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,1 +240,1 @@\n-  virtual uint size_of() const override { return sizeof(LoadFlatNode); }\n+  virtual uint size_of() const override { return sizeof(StoreFlatNode); }\n","filename":"src\/hotspot\/share\/opto\/inlinetypenode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
