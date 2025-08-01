@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -312,1 +312,1 @@\n-  if (!is_vthread) {\n+  if (thread_group_id > 1) {\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrType.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
