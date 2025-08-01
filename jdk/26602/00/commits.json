@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361730: The CodeBuilder.trying(BlockCodeBuilder,CatchBuilder) method generates corrupted bytecode in certain cases"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/CodeBuilder.java"}],"sha":"9cb3bc95ac48042ef62a50b57632a2dff18ab706"}]
