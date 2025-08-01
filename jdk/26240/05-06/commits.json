@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused static _uncommit_delay member and accessor"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1HeapSizingPolicy.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1HeapSizingPolicy.hpp"}],"sha":"e574db86c1e538ecf06a13d53611cf539622e575"}]
