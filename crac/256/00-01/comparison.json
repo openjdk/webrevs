@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1089,1 +1089,1 @@\n-:   A desired minimal PID value for checkpointed process. Used by the launcher,\n+:   A desired minimal PID value for checkpointed process. Applied by the launcher,\n","filename":"src\/java.base\/share\/man\/java.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
