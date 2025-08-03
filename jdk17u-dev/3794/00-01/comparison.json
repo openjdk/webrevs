@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n- * @run junit UserInfoTest\n+ * @run junit\/othervm UserInfoTest\n","filename":"test\/jdk\/java\/net\/httpclient\/http2\/UserInfoTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
