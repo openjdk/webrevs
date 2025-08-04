@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,0 +51,3 @@\n+#ifdef COMPILER2\n+#include \"opto\/runtime.hpp\"\n+#endif\n@@ -60,3 +63,0 @@\n-#ifdef COMPILER2\n-#include \"opto\/runtime.hpp\"\n-#endif\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
