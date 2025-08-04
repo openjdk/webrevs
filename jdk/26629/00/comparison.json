@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -292,1 +292,1 @@\n-  StubGenStubId stub_id = StubGenStubId::dsinh_id;\n+  StubId stub_id = StubId::stubgen_dsinh_id;\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_sinh.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
