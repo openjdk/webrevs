@@ -1,0 +1,1 @@
+[{"commit":{"message":"Optimize numberOfLeadingZeros"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestNumberOfContinuousZeros.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/LeadingZeros.java"}],"sha":"7e2072200f783511213e8436b69336a084fe47e9"}]
