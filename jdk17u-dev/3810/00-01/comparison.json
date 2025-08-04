@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,1 +298,1 @@\n-            ServerHandshakeContext shc = (ServerHandshakeContext) context;\n+            ServerHandshakeContext shc = (ServerHandshakeContext)context;\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/CertificateRequest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
