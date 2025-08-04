@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1683,2 +1683,0 @@\n-\/\/ If this is a growable mapping, remove the guard pages entirely by\n-\/\/ munmap()ping them.  If not, just call uncommit_memory().\n","filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
