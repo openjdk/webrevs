@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -611,1 +611,0 @@\n-  assert(component_cpu_time < process_cpu_time && component_cpu_time != 0, \"Invalid CPU time\");\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
