@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prefer returning 0 over +\/-inf,nan"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp"}],"sha":"216ba811d3029377c803543e5ff3443d05423f36"}]

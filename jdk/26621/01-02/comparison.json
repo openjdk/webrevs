@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -611,1 +611,1 @@\n-  return 100 * component_cpu_time \/ process_cpu_time;\n+  return process_cpu_time == 0 ? 0 : 100 * component_cpu_time \/ process_cpu_time;\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
