@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -708,1 +708,1 @@\n-  \/\/ Usually, all class unloading works occurs at the end of phase 1, but Serial\n+  \/\/ Usually, all class unloading work occurs at the end of phase 1, but Serial\n","filename":"src\/hotspot\/share\/gc\/serial\/serialFullGC.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
