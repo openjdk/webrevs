@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle failed compiler blob allocate gracefully"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2compiler.cpp"},{"filename":"src\/hotspot\/share\/runtime\/stubRoutines.cpp"}],"sha":"5889ce2b59aa680bd870cc68608365bbb29c7360"}]
