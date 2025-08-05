@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,1 +180,2 @@\n-      -DPNG_ARM_NEON_OPT=0 -DPNG_ARM_NEON_IMPLEMENTATION=0\n+      -DPNG_ARM_NEON_OPT=0 -DPNG_ARM_NEON_IMPLEMENTATION=0 \\\n+      -DPNG_LOONGARCH_LSX_OPT=0\n","filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
