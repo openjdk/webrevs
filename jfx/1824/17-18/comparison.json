@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -162,0 +162,1 @@\n+        \/\/ JDK-8364672\n@@ -167,0 +168,1 @@\n+        \/\/ JDK-8364672\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/mtl\/MTLSwapChain.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
