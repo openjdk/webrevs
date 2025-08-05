@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3666,0 +3666,3 @@\n+        } else {\n+          assert(false, \"unencodable klass in ConP -> EncodeP\");\n+          C->record_failure(\"unencodable klass in ConP -> EncodeP\");\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
