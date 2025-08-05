@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-                    type = HEADLESS;\n+                   type = HEADLESS;\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/Platform.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
