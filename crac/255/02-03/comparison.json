@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n- * @requires (os.arch == \"amd64\" | os.arch == \"x86_64\")\n+ * @requires (os.family == \"linux\") & (os.arch == \"amd64\" | os.arch == \"x86_64\")\n","filename":"test\/jdk\/jdk\/crac\/ignoreRestore\/NoCPUFeaturesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
