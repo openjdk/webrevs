@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1697,4 +1697,2 @@\n-        if (IS_MAC) {\n-            doFirst {\n-                mkdir \"$project.buildDir\/gensrc\/mtl-headers\"\n-            }\n+        doFirst {\n+            mkdir \"$project.buildDir\/gensrc\/mtl-headers\"\n","filename":"build.gradle","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}
