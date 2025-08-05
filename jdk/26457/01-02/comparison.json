@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1636,1 +1636,1 @@\n-      retValue = true;\n+      retValue = Matcher::match_rule_supported_auto_vectorization(Op_VectorReinterpret, size, velt_basic_type(p0));\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
