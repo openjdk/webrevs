@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -170,1 +170,1 @@\n-   \/\/ Stops when gen returns null or when buffer is out of space.\n+   \/\/ Stops when gen returns null.\n@@ -181,1 +181,0 @@\n-     return;\n","filename":"src\/hotspot\/share\/utilities\/ostream.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
