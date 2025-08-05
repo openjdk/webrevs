@@ -1,0 +1,1 @@
+[{"commit":{"message":"replaced vmul_vv + vadd_vv by vmadd_vv"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"da6644b882131e6f62482d40ca1f41cbe96fb9c5"}]

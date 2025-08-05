@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2064,1 +2064,0 @@\n-  vmul_vv(v_sum, v_sum, v_powmax);\n@@ -2067,1 +2066,1 @@\n-  vadd_vv(v_sum, v_sum, v_src);\n+  vmadd_vv(v_sum, v_powmax, v_src);\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
