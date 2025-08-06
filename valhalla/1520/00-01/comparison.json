@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -900,1 +900,0 @@\n-       \/\/f->do_symbol(&_migrated_class_names[i]);\n","filename":"src\/hotspot\/share\/classfile\/vmSymbols.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
