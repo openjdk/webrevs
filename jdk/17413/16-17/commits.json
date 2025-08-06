@@ -1,0 +1,1 @@
+[{"commit":{"message":"make powmax calculations scalar; re-use v_tmp for sum reduction operation."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"7c5f24aab1494c2b048857a8070bdede7cf11449"}]
