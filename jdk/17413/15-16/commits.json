@@ -1,0 +1,1 @@
+[{"commit":{"message":"make 'result' calculations scalar; clear vector registers only when necessary."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"bbcd1ec42524abb177cb598d2b1854ba123c744d"}]
