@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1887,1 +1887,1 @@\n-\/\/ The caller (java.lang.VirtulThread) handles retuned nulls via retry.\n+\/\/ The caller (java.lang.VirtualThread) handles returned nulls via retry.\n","filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
