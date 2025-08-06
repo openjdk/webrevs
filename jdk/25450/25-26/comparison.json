@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -298,1 +298,1 @@\n-    if (memory_limit_in_bytes > 0 && memory_and_swap_limit_in_bytes > 0) {   \n+    if (memory_limit_in_bytes > 0 && memory_and_swap_limit_in_bytes > 0) {\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
