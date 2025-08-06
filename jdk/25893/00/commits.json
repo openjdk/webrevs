@@ -1,0 +1,1 @@
+[{"commit":{"message":"[PATCH] Make BasicDesktopPaneUI.Actions.MOVE_RESIZE_INCREMENT static\n\nLooks like no reasons for it to be instance field"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicDesktopPaneUI.java"}],"sha":"6d3e11170fa71967fdcd4a07d48e311bcb5a7efe"}]
