@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore Method* for every AOTCodeEntry\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"}],"sha":"f1dacaccfc76e0823381d7f31d1ebfa160d4fa6b"}]
