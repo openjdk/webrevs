@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,0 +75,1 @@\n+    public static final int IO_REPARSE_TAG_AF_UNIX              = 0x80000023;\n@@ -77,1 +78,0 @@\n-    public static final int IO_REPARSE_TAG_AF_UNIX              = 0x80000023;\n","filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsConstants.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
