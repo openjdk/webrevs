@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,1 +239,1 @@\n-    private static Thread cleaningThread = null;\n+    private static Thread cleaningThread;\n","filename":"src\/java.base\/share\/classes\/java\/nio\/BufferCleaner.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
