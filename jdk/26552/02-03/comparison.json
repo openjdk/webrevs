@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -409,1 +409,1 @@\n-\/\/ Specification\" states that an object locked by JNI's_MonitorEnter should not be\n+\/\/ Specification\" states that an object locked by JNI's MonitorEnter should not be\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
