@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address review comments from Artur and added a regression test for\ninvalid property values."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/util\/CryptoAlgorithmConstraints.java"},{"filename":"test\/jdk\/java\/security\/Security\/SecurityPropFile\/InvalidCryptoDisabledAlgos.java"}],"sha":"23b5464fd8b5dfebe74ea6f1d6f8d93379f6df99"}]
