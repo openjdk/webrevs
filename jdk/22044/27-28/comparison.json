@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -885,1 +885,1 @@\n-    public void glide(int fromX, int fromY, int toX, int toY) {\n+    public void glide(int srcX, int srcY, int dstX, int dstY) {\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Robot.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
