@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,0 +48,1 @@\n+import org.junit.jupiter.api.Disabled;\n@@ -107,0 +108,1 @@\n+    @Disabled(\"JDK-8364825\")\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/MenuDoubleShortcutTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
