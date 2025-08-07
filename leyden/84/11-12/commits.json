@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix compile failures\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.hpp"}],"sha":"658acf26ae8d77064831625c88a5833117bca6e6"}]
