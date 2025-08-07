@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2984,1 +2984,1 @@\n-#define G1PPRL_GID_LIVENESS_FORMAT    \"  %#.3g\"\n+#define G1PPRL_GID_LIVENESS_FORMAT    \"  %9.2f\"\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
