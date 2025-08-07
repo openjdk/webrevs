@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,3 @@\n+\/\/ These header files are included in at least 130 C++ files, as of\n+\/\/ measurements made in August 2025.\n+\n","filename":"src\/hotspot\/share\/precompiled\/precompiled.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
