@@ -1,0 +1,1 @@
+[{"commit":{"message":"* one more renaming: prepare_groups_for_scan() -> prepare_for_scan()"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSet.hpp"}],"sha":"b0f3180c7229d84e94c64fe785e19fff88dbfbbd"}]
