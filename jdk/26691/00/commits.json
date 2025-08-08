@@ -1,0 +1,1 @@
+[{"commit":{"message":"8365115\n\nHi all,\n\n  please review this change to remove some code duplication in group remset statistics gathering.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1RemSetSummary.cpp"}],"sha":"96ca10b66026995e2805723520a06ed23ab5542e"}]
