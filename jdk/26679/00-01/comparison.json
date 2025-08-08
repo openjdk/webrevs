@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -484,1 +484,1 @@\n-    public void cacheRefreshTest() throws Throwable {\n+    public void testCacheRefresh() throws Throwable {\n","filename":"test\/jdk\/java\/lang\/invoke\/ClassValueTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
