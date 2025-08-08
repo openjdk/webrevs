@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1784,2 +1784,0 @@\n-    Label done;\n-\n@@ -1798,2 +1796,0 @@\n-\n-    __ bind(done);\n","filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
