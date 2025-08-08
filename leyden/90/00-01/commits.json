@@ -1,0 +1,1 @@
+[{"commit":{"message":"Store offset of AOTCodeEntry array\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"}],"sha":"8d01aebfd25bf847658a9f39be1c05f40a0afad3"}]
