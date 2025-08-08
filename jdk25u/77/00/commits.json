@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 18c2e40de75f974858aeb453892e4c7c8d5aa90e"},"files":[{"filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11GraphicsDevice.java"},{"filename":"src\/java.desktop\/unix\/native\/common\/awt\/awt_GraphicsEnv.h"},{"filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/awt_GraphicsEnv.c"}],"sha":"e64c104cdc0fb67d19d55cffc1806632dae8546b"}]
