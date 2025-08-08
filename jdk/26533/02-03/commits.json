@@ -1,0 +1,1 @@
+[{"commit":{"message":"revert changes to RuntimeException.java\nWrap lines at 80 chars"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/RuntimeException.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/UnsupportedOperationException.java"}],"sha":"c11e9dbb58c3c848b5e4c623a7e8e519765808c2"}]
