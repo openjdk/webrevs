@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @run main\/othervm\/timeout=1200 LocaleFamilyNames\n+ * @run main\/othervm\/timeout=360 LocaleFamilyNames\n","filename":"test\/jdk\/java\/awt\/font\/FontNames\/LocaleFamilyNames.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
