@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-        if(i_addr < stack_top && i_addr >= cmr.base()) {\n+        if (i_addr < stack_top && i_addr >= cmr.base()) {\n","filename":"test\/hotspot\/gtest\/runtime\/test_committed_virtualmemory.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
