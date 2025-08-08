@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,1 +156,2 @@\n-            char[] data = new char[count + 100];\n+            char[] data = new char[count > Integer.MAX_VALUE \/ 2 ?\n+                    Integer.MAX_VALUE : count * 2];\n","filename":"src\/java.base\/share\/classes\/java\/text\/DigitList.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
