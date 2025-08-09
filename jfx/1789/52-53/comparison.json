@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,1 @@\n+import static org.junit.jupiter.api.Assumptions.assumeTrue;\n@@ -158,1 +159,1 @@\n-        assertTrue(PlatformUtil.isWindows());\n+        assumeTrue(PlatformUtil.isWindows());\n","filename":"tests\/system\/src\/test\/java\/test\/javafx\/stage\/SizingTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
