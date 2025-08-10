@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -703,1 +703,0 @@\n-        view_size.reset({-1, -1});\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
