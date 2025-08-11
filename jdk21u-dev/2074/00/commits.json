@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport ecc77a5b4a84c84ffa1580174872af6df3a4f6ca"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/longcountedloops\/TestSafePointWithEAState.java"}],"sha":"d767150d18157b554a1891deb3f8f0a34e7cdae5"}]
