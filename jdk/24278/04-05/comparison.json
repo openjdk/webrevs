@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -246,1 +246,1 @@\n-            \"p.xyz\", \"InnerTest\",\n+            \"compiler.loopopts.superword.templated\", \"AliasingFuzzer\",\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestAliasingFuzzer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
