@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,1 +256,1 @@\n-        \/\/ System reader is a singleton and should not be closed by callers.\n+        \/\/ This reader is a singleton, so do not attempt to close it here.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/SystemModuleFinders.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
