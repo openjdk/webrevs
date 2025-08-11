@@ -1,0 +1,1 @@
+[{"commit":{"message":"backport 2c1eb339d6c9b6cc6fa4a8780b0e0b8d4d9a5f01"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSessionImpl.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSessionImpl\/ResumeClientTLS12withSNI.java"}],"sha":"c79e4c3782f99e5737e7b596f8549a3e815ef643"}]
