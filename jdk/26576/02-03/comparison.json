@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+ * @requires (os.family == \"mac\")\n","filename":"test\/jdk\/java\/awt\/ColorClass\/WeakColorTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
