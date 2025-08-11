@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -516,0 +516,4 @@\n+  if JVM_FEATURES_IS_ACTIVE(jfr) && ! JVM_FEATURES_IS_ACTIVE(services); then\n+    AC_MSG_ERROR([Specified JVM feature 'jfr' requires feature 'services' for variant '$variant'])\n+  fi\n+\n","filename":"make\/autoconf\/jvm-features.m4","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
