@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -175,7 +175,0 @@\n-    @Override\n-    @SuppressWarnings(\"removal\")\n-    protected void finalize() throws Throwable {\n-        dispose();\n-        super.finalize();\n-    }\n-\n","filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11InputMethodBase.java","additions":0,"deletions":7,"binary":false,"changes":7,"status":"modified"}]}
