@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -340,0 +340,1 @@\n+  assert(i == _migrated_class_names_length, \"should be\");\n","filename":"src\/hotspot\/share\/classfile\/vmSymbols.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
