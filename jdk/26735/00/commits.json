@@ -1,0 +1,1 @@
+[{"commit":{"message":"8365168: Use 64-bit aligned addresses for CK_ULONG access in PKCS11 native key code"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/p11_convert.c"},{"filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/p11_keymgmt.c"}],"sha":"2859ea03fbdd3296fb4571ee6fcb301613444515"}]
