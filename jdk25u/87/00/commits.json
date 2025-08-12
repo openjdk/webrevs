@@ -1,0 +1,1 @@
+[{"commit":{"message":"8359207: Remove runtime\/signal\/TestSigusr2.java since it is always skipped"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/signal\/SigTestDriver.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/signal\/TestSigusr2.java"}],"sha":"e6d312e16f7dd73c4bdbb50de93ba5d9bcfafdb4"}]
