@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed unneeded check for zero length; changed lmul from m8 to m2."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"671546a001859bfb6967dec6fb8ae5f3cc1a97ec"}]
