@@ -1,0 +1,1 @@
+[{"commit":{"message":"Modify cpu feature name iteration code to avoid subtle bug like missing\ni++ in get_missing_features_name()\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"29fd346c39a082b09c0348d1f71bb8ae231249c7"}]
