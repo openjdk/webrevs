@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,1 +130,0 @@\n-  ~VM_GC_Operation() {}\n","filename":"src\/hotspot\/share\/gc\/shared\/gcVMOperations.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
