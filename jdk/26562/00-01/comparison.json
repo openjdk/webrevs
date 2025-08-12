@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -537,1 +537,1 @@\n-#ifdef __APPLE__\n+#ifdef MACOS_W_XOR_X\n","filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/os_bsd_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
