@@ -1,0 +1,1 @@
+[{"commit":{"message":"8364434: Inconsistent BufferedContext state after GC\n\nSkip the test if Color was not GC'ed"},"files":[{"filename":"test\/jdk\/java\/awt\/ColorClass\/WeakColorTest.java"}],"sha":"370bdaa6348bb1308b4868d84f4dab2594968a16"}]
