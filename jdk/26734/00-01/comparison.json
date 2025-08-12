@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -492,1 +492,1 @@\n-            if (e.getClass().isAssignableFrom(ec)) {\n+            if (ec.isInstance(e)) {\n","filename":"test\/jdk\/java\/security\/PEM\/PEMDecoderTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
