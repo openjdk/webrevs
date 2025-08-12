@@ -1,0 +1,1 @@
+[{"commit":{"message":"Apply code review suggestions and add JBS to test"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/subnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/TestBoolNodeGVN.java"}],"sha":"27ed1a311ec34e24afae6cc43d2c71e2620eb0ef"}]
