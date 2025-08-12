@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,0 +75,3 @@\n+#ifdef _AIX\n+        printf(\"%X\\n\", act.sa_flags);\n+#else\n@@ -76,0 +79,1 @@\n+#endif\n","filename":"test\/jdk\/java\/lang\/ProcessBuilder\/childSignalDisposition\/exePrintSignalDisposition.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
