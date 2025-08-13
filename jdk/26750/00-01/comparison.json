@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -407,1 +407,1 @@\n-void CompilationPolicy::print_counters_on(outputStream* st,  const char* prefix, Method* m) {\n+void CompilationPolicy::print_counters_on(outputStream* st, const char* prefix, Method* m) {\n","filename":"src\/hotspot\/share\/compiler\/compilationPolicy.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
