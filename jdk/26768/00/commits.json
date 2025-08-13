@@ -1,0 +1,1 @@
+[{"commit":{"message":"only apply EagerJVMCI on a CompileBroker thread"},"files":[{"filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotJVMCIRuntime.java"}],"sha":"9e8585610fe4472fd1febb30aec45e1fcee880bb"}]
