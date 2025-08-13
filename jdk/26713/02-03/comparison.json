@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -385,1 +385,1 @@\n-    ThreadInVMfromNative tiv(current_thread);\n+    ThreadInVMfromNative __tiv(current_thread);\n@@ -1837,1 +1837,1 @@\n-    ThreadInVMfromJava __tiv(thread);\n+    ThreadInVMfromJava tiv(thread);\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
