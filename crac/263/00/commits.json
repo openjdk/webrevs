@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make IgnoreUnrecognizedVMOptions restore-settable"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/jdk\/jdk\/crac\/VMOptionsTest.java"}],"sha":"7e1fce169342a33a52bfe05b91a336d328ec878e"}]
