@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-    guarantee(old_table_size < max_initial_size, \"overflow\");\n+    guarantee(old_table_size <= max_initial_size, \"overflow\");\n","filename":"src\/hotspot\/share\/jfr\/utilities\/jfrSet.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
