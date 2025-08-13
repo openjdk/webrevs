@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -15,0 +15,1 @@\n+\t\t\t\"oracle.oracle-java\",\n@@ -20,0 +21,4 @@\n+\n+\t\t\/\/ Java extension\n+\t\t\"jdk.advanced.disable.nbjavac\": true,\n+\t\t\"jdk.project.jdkhome\": \"{{OUTPUTDIR}}\/jdk\",\n","filename":"make\/ide\/vscode\/hotspot\/template-workspace.jsonc","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
