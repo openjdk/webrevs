@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,1 @@\n+\t\t\"jdk.java.onSave.organizeImports\": false, \/\/ prevents unnecessary changes\n","filename":"make\/ide\/vscode\/hotspot\/template-workspace.jsonc","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
