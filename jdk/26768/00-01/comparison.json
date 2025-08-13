@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,1 +190,1 @@\n-                            if (getCompilerToVM().isCompilerThread()) {\n+                            if (result.getCompilerToVM().isCompilerThread()) {\n","filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/hotspot\/HotSpotJVMCIRuntime.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
