@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -684,1 +684,1 @@\n-     *         from the {@code provider} is found using the algorithm\n+     *         from the specified {@code provider} is found using the algorithm\n","filename":"src\/java.base\/share\/classes\/javax\/crypto\/Cipher.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
