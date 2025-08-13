@@ -1,0 +1,1 @@
+[{"commit":{"message":"8154364: Remove assertion that two non-existent files with equal normalized paths are equal"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixFileSystemProvider.java"},{"filename":"test\/jdk\/java\/nio\/file\/Files\/IsSameFile.java"}],"sha":"1aac01aa8ec1ef5098af610f8bfcb97fac89b778"}]
