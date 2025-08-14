@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-            printf(\"%X %lX\\n\", act.sa_flags, act.sa_mask);\n+            printf(\"%X %X\\n\", act.sa_flags, act.sa_mask);\n","filename":"test\/jdk\/java\/lang\/ProcessBuilder\/childSignalDisposition\/exePrintSignalDisposition.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
