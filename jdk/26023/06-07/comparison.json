@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-      assert(false, \"compile task %d (%s) timed out after %ld ms\",\n+      assert(false, \"compile task %d (%s) timed out after \" INTPTR_FORMAT \" ms\",\n","filename":"src\/hotspot\/os\/linux\/compilerThreadTimeout_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
