@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -189,1 +189,1 @@\n-  if (mapinfo->has_heap_region()) {\n+  if (mapinfo->has_heap_region() && CDSConfig::is_loading_heap()) {\n","filename":"src\/hotspot\/share\/cds\/aotMapLogger.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
