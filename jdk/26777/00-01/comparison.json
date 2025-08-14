@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-# Git workstrees use a '.git' file rather than directory, so test both.\n+# Git worktrees use a '.git' file rather than directory, so test both.\n","filename":"bin\/idea.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
