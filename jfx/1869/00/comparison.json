@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1982,1 +1982,1 @@\n-    -fx-snap-to-pixel: false;\n+    -fx-snap-to-pixel: true;\n","filename":"modules\/javafx.controls\/src\/main\/resources\/com\/sun\/javafx\/scene\/control\/skin\/modena\/modena.css","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
