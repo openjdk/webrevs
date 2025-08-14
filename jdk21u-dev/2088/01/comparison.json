@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,1 @@\n-            ProcessBuilder pb = ProcessTools.createLimitedTestJavaProcessBuilder(vmArgs);\n+            ProcessBuilder pb = ProcessTools.createTestJavaProcessBuilder(vmArgs);\n","filename":"test\/hotspot\/jtreg\/runtime\/Thread\/TestAlwaysPreTouchStacks.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
