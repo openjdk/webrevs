@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-define_pd_global(uint64_t,MaxRAM,                    4ULL*G);\n+define_pd_global(uint64_t,MaxRAM,                    128ULL*G);\n","filename":"hotspot\/src\/cpu\/ppc\/vm\/c2_globals_ppc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
