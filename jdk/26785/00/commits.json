@@ -1,0 +1,1 @@
+[{"commit":{"message":"Re-enable plab promotions for all threads when plabs are retired"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"48091106837d92d34c61052b80dc2397885fb618"}]
