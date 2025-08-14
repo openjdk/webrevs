@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,2 @@\n-if [ -d \"$TOPLEVEL_DIR\/.git\" ] ; then\n+# Git worktrees use a '.git' file rather than directory, so test both.\n+if [ -d \"$TOPLEVEL_DIR\/.git\" -o -f \"$TOPLEVEL_DIR\/.git\" ] ; then\n","filename":"bin\/idea.sh","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
