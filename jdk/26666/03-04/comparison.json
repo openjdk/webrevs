@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -902,1 +902,1 @@\n-      if (rhs_m_type != nullptr && (rhs_m_type->_lo > -1 || rhs_m_type->_hi < -1)) {\n+      if (rhs_m_type != nullptr && !rhs_m_type->contains(-1)) {\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
