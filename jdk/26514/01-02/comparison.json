@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,0 @@\n-#include \"runtime\/globals_extension.hpp\"\n@@ -39,0 +38,1 @@\n+#include \"runtime\/globals_extension.hpp\"\n","filename":"src\/hotspot\/share\/cds\/aotMapLogger.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
