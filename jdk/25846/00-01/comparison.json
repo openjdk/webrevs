@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1400,1 +1400,1 @@\n-    log_error(aot)(\"Opening of static archive %s failed\", static_archive);\n+    log_info(cds)(\"Opening of static archive %s failed\", static_archive);\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
