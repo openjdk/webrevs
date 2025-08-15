@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -197,1 +197,0 @@\n-      return nullptr;\n@@ -199,0 +198,1 @@\n+    return nullptr;\n","filename":"src\/hotspot\/share\/runtime\/stubRoutines.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
