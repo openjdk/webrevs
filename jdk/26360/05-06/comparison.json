@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,1 @@\n-    data.events_excluded = new jint[] {\n+    data.events_excluded = new jint[4] {\n","filename":"test\/lib\/jdk\/test\/lib\/jvmti\/libJvmtiStressAgent.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
