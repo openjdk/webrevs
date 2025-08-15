@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,0 +107,3 @@\n+\n+        \/\/ Sign the JAR using an already disabled signature algorithm SHA1withECDSA.\n+        \/\/ The file can still be signed but verification will treat it as unsigned.\n","filename":"test\/jdk\/sun\/security\/tools\/jarsigner\/RemovedFiles.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
