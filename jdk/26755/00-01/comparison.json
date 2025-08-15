@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -960,1 +960,1 @@\n-            if test \"x$TOOLCHAIN_TYPE\" = xgcc ; then\n+            if test \"x$DEBUG_LEVEL\" != xrelease && test \"x$TOOLCHAIN_TYPE\" = xgcc ; then\n","filename":"make\/autoconf\/flags-cflags.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
