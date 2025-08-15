@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use AOTCodeEntry::method() only in production run\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotCacheAccess.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"f67e52c3e373c9783208cfe366eef0f7b31205d6"}]
