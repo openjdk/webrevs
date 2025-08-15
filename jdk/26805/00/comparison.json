@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -446,1 +446,1 @@\n-TEST(BasicShenandoahSimpleBitMapTest, minimum_test) {\n+TEST_F(ShenandoahSimpleBitMapTest, minimum_test) {\n","filename":"test\/hotspot\/gtest\/gc\/shenandoah\/test_shenandoahSimpleBitMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
