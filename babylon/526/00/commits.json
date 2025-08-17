@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use existing code for creating KernelContext_s from its iface buffer schema"},"files":[{"filename":"hat\/core\/src\/main\/java\/hat\/codebuilders\/C99HATKernelBuilder.java"},{"filename":"hat\/core\/src\/main\/java\/hat\/codebuilders\/HATCodeBuilderWithContext.java"}],"sha":"68a01928eddc55fe300b411fa31517cae234e45f"}]
