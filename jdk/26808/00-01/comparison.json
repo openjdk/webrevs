@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -290,1 +290,2 @@\n-        AVX10_2\n+        AVX10_2,\n+        HYBRID\n","filename":"src\/jdk.internal.vm.ci\/share\/classes\/jdk\/vm\/ci\/amd64\/AMD64.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
