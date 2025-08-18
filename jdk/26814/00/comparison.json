@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,1 +92,0 @@\n-        jframe.setLocationRelativeTo(null);\n@@ -100,0 +99,1 @@\n+        jframe.setLocationRelativeTo(null);\n","filename":"src\/jdk.editpad\/share\/classes\/jdk\/editpad\/EditPad.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
