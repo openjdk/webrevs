@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -864,1 +864,1 @@\n-    if (alloc_capacity(r) >= min_size) {\n+    if (alloc_capacity(r) >= min_size * HeapWordSize) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
