@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,2 +54,2 @@\n-    protected Integer menuBarHeight;\n-    protected boolean hotTrackingOn;\n+    private Integer menuBarHeight;\n+    private boolean hotTrackingOn;\n","filename":"src\/java.desktop\/windows\/classes\/com\/sun\/java\/swing\/plaf\/windows\/WindowsMenuUI.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
