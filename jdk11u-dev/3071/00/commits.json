@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport de454c7faa2a2369d316bbea4407aab4e179c660"},"files":[{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/stringopts\/TestStackedConcatsAppendUncommonTrap.java"}],"sha":"82e0d216cafa1a25653ec322063cfaec1662f1c8"}]
