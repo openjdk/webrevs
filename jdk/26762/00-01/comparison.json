@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -368,1 +368,1 @@\n-                            Set<String> newSet = new HashSet(set);\n+                            Set<String> newSet = new HashSet<>(set);\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/TestFramework.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
