@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3248,1 +3248,1 @@\n-  lease_result_value->init_req(_true_path, null()); \/\/ if the lease was returned, return 0.\n+  lease_result_value->init_req(_true_path, _gvn.longcon(0)); \/\/ if the lease was returned, return 0L.\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
