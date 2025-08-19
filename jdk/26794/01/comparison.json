@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -714,0 +714,1 @@\n+  assert(node->TState == ObjectWaiter::TS_RUN, \"\");\n@@ -729,0 +730,1 @@\n+      node->TState = ObjectWaiter::TS_RUN;\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
