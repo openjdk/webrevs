@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @bug 8298420\n+ * @bug 8298420 8365288\n","filename":"test\/jdk\/java\/security\/PEM\/PEMDecoderTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
