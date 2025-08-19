@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -365,1 +365,1 @@\n-            List<DCTree> transformed  = new ArrayList<>();\n+            List<DCTree> transformed = new ArrayList<>();\n","filename":"src\/jdk.internal.md\/share\/classes\/jdk\/internal\/markdown\/MarkdownTransformer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
