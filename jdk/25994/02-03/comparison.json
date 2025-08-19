@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-    private static final String FLAG_NAME = \"NUMASpaceResizeRate\";\n+    private static final String FLAG_NAME = \"LargePageHeapSizeThreshold\";\n","filename":"test\/lib-test\/jdk\/test\/whitebox\/vm_flags\/SizeTTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
