@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-        } catch(Exception ex) {\n+        } catch (Exception ex) {\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/mlvm\/meth\/stress\/jni\/nativeAndMH\/Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
