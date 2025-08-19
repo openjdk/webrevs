@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,2 @@\n+#include <stdlib.h> \/\/ for environment variables\n+\n","filename":"src\/hotspot\/share\/jfr\/periodic\/jfrOSInterface.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
