@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -208,1 +208,1 @@\n-            tryOrderArr = new String[] { \"es2\", \"mtl\", \"sw\" };\n+            tryOrderArr = new String[] { \"mtl\", \"es2\", \"sw\" };\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/impl\/PrismSettings.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
