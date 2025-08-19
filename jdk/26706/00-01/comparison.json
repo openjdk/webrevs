@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -460,0 +460,1 @@\n+        disableNativeIME(awtFocussedComponentPeer);\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WInputMethod.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
