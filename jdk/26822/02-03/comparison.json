@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -696,1 +696,1 @@\n-    static String newStringUTF8NoRepl(byte[] bytes, int offset, int length) {\n+    private static String newStringUTF8NoRepl(byte[] bytes, int offset, int length) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
