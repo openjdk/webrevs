@@ -1,0 +1,1 @@
+[{"commit":{"message":"8277444: Race condition on Instrumentation.retransformClasses() and class linking"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiClassFileReconstituter.cpp"}],"sha":"4882b2db8c88a57dc79cbd6be3a704933f56b44c"}]
