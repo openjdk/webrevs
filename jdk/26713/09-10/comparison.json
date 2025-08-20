@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-\/\/    return value and was not popped by execption.\n+\/\/    return value and was not popped by exception.\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/events\/MethodExit\/ExceptionOccurred\/libExceptionOccurred.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
