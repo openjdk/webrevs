@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,2 +33,0 @@\n-#define BUILD_32(i16_h, i16_l) ( ((unsigned)i16_h << 16) | i16_l )\n-\n","filename":"src\/hotspot\/share\/oops\/metadata.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
