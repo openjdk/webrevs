@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-    ifeq ($(filter 36 37, $(BASE_OS_VERSION)), )\n+    ifeq ($(filter 38 39 40 41, $(BASE_OS_VERSION)), )\n","filename":"make\/devkit\/Tools.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
