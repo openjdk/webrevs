@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,1 +219,0 @@\n-        private final byte[] buffer = new byte[26];\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/math\/FloatingDecimal.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
