@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,1 @@\n+ * @requires (os.arch != \"riscv64\" | (os.arch == \"riscv64\" & vm.cpu.features ~= \".*rvv.*\"))\n","filename":"test\/hotspot\/jtreg\/testlibrary_tests\/ir_framework\/tests\/TestBadFormat.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
