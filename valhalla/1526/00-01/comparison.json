@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -21,1 +21,0 @@\n-SuperInitFails.java:185:28: compiler.err.cant.ref.before.ctor.called: this\n@@ -34,1 +33,1 @@\n-33 errors\n+32 errors\n","filename":"test\/langtools\/tools\/javac\/SuperInit\/SuperInitFails.out","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
