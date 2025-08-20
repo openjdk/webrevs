@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,0 +64,2 @@\n+        \/\/ On s390x, generated code is ~6x larger in fastdebug and ~1.4x in release builds vs. other archs,\n+        \/\/ hence we require slightly more minimum space.\n","filename":"test\/hotspot\/jtreg\/compiler\/startup\/StartupOutput.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
