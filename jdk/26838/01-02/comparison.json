@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-        short s =  Float.floatToFloat16(f);\n+        short s = Float.floatToFloat16(f);\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/float16\/Binary16ConversionNaN_2.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
