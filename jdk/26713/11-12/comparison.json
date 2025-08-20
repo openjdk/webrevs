@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * if exception occured in the current thread.\n+ * if method is called while there is a pending exception on this thread.\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/events\/MethodExit\/PendingException\/TestMethodExitWithPendingException.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
