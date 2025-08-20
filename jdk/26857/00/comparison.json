@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1167,1 +1167,1 @@\n-            = \"The color used to draw the grid lines.\")\n+            = \"Whether grid lines should be drawn in between the cells.\")\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JTable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
