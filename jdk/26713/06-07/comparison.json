@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-    \/\/ Called from ExcptionExit MethodExit callback via JNI\n+    \/\/ Called from ExceptionExit MethodExit callback via JNI\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/events\/MethodExit\/ExceptionOccurred.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
