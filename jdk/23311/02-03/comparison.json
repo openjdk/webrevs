@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -329,1 +329,1 @@\n-        byte[] chars = getDataChars(20);\n+        byte[] chars = getDataChars(26);\n","filename":"src\/java.base\/share\/classes\/java\/text\/DigitList.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
