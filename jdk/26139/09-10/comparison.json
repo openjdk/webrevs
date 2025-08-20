@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-     public static void main(String[] args) throws Exception {\n+    public static void main(String[] args) throws Exception {\n","filename":"test\/lib-test\/jdk\/test\/whitebox\/vm_flags\/IntxTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
