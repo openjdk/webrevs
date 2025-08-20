@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -325,1 +325,1 @@\n-        int len = fdConverter.getChars(chars);;\n+        int len = fdConverter.getChars(chars);\n","filename":"src\/java.base\/share\/classes\/java\/text\/DigitList.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
