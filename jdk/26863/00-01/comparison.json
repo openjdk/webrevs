@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+#include \"runtime\/synchronizer.hpp\"\n","filename":"src\/hotspot\/share\/prims\/jvmtiClassFileReconstituter.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
