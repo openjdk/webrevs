@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -570,1 +570,1 @@\n-       array-bounds\n+       array-bounds dangling-pointer\n","filename":"make\/lib\/Awt2dLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
