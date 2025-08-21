@@ -1,0 +1,1 @@
+[{"commit":{"message":"Forward IgnoreUnrecognizedVmOptions to restored VM"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"test\/jdk\/jdk\/crac\/VMOptionsTest.java"}],"sha":"75bcb26e7c641becad92c98fbff253f50148f4a9"}]
