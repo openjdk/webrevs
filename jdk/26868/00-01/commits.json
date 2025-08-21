@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reorderd the logic to the way it was before; the system prop and path would rarely be checked otherwise."},"files":[{"filename":"test\/lib\/jdk\/test\/lib\/security\/OpensslArtifactFetcher.java"}],"sha":"cdf2cae0539e7f2dc38fbd085019d0dfe4eeb532"}]
