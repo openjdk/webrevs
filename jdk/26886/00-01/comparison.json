@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1850,0 +1850,2 @@\n+    assert(type == T_VOID || current_frame.interpreter_frame_expression_stack_size() > 0,\n+      \"Stack shouldn't be empty\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
