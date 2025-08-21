@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -495,1 +495,0 @@\n-  guarantee(prev_num_optional_regions == 0, \"must be, why else?\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSet.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
