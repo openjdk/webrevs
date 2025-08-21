@@ -1,0 +1,1 @@
+[{"commit":{"message":"8362239: Reconciled enter_internal vs reenter_internal in the ObjectMonitor code"},"files":[{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp"},{"filename":"src\/hotspot\/share\/runtime\/objectMonitor.hpp"}],"sha":"bcea486ba684481034b6e6e30ed810e3e992b674"}]
