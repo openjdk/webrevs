@@ -1,0 +1,1 @@
+[{"commit":{"message":"Applied javadoc changes to getInstance(String) method and made the impl\nto match the javadoc"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/Cipher.java"},{"filename":"test\/jdk\/com\/sun\/crypto\/provider\/Cipher\/ChaCha20\/unittest\/ChaCha20CipherUnitTest.java"}],"sha":"9b2a09f784ce694f0a687890ee05f94e7578691a"}]
