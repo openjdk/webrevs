@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,3 @@\n+  if (length() == 0) {\n+    return 0.0f;\n+  }\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSetCandidates.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
