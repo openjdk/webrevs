@@ -1,0 +1,1 @@
+[{"commit":{"message":"8338197: ubsan: ad_x86.hpp:6417:11: runtime error: shift exponent 100 is too large for 32-bit type 'unsigned int'"},"files":[{"filename":"src\/hotspot\/share\/adlc\/output_h.cpp"}],"sha":"7e8c282d4f4000f81ae3bb870f11d9f0c28b595d"}]
