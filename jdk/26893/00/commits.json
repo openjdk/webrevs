@@ -1,0 +1,1 @@
+[{"commit":{"message":"8365886: JSplitPane loses track of the left component when the component orientation is changed"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JSplitPane.java"},{"filename":"test\/jdk\/javax\/swing\/JSplitPane\/TestSplitPaneOrientationTest.java"}],"sha":"018d019f4f758ace99d0a0b5b4754b65946df956"}]
