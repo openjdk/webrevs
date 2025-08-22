@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -548,1 +548,1 @@\n-  if (i1->_lo == min_val && i2_hi == min_val) {\n+  if (i1->_lo == min_val && i2_hi == -1) {\n","filename":"src\/hotspot\/share\/opto\/divnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
