@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -600,0 +600,1 @@\n+  RelocIterator(relocInfo& ri);\n@@ -606,1 +607,0 @@\n-  RelocIterator(relocInfo& ri);\n","filename":"src\/hotspot\/share\/code\/relocInfo.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
