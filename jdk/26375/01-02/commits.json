@@ -1,0 +1,1 @@
+[{"commit":{"message":"@DanHeidinga comment -- assembly phase should check if URLStreamHandler might be overridden in the production run"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotOopChecker.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotOopChecker.hpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"}],"sha":"ecc2581d0dce309389bed7ec31a58ff0d225562d"}]
