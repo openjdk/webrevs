@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-#include \"runtime\/javaThread.hpp\"\n+#include \"thread.hpp\"\n","filename":"src\/hotspot\/share\/runtime\/thread.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
