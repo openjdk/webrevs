@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1222,1 +1222,0 @@\n-<<<<<<< HEAD\n@@ -1224,5 +1223,0 @@\n-=======\n-  WorkerThreads* workers = g1h->workers();\n-  size_t const increment_length = g1h->collection_set()->regions_cur_length();\n->>>>>>> master\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
