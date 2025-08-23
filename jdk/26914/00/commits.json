@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove mark_addr and fix callers"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1OopClosures.inline.hpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psPromotionManager.inline.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.hpp"},{"filename":"src\/hotspot\/share\/oops\/oop.inline.hpp"}],"sha":"fc5f763bb39a5733f72d59994491dd933023ec26"}]
