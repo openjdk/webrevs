@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1980,4 +1980,0 @@\n-.color-palette > .color-picker-grid {\n-    -fx-padding: 0.5px;\n-    -fx-snap-to-pixel: true;\n-}\n","filename":"modules\/javafx.controls\/src\/main\/resources\/com\/sun\/javafx\/scene\/control\/skin\/modena\/modena.css","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
