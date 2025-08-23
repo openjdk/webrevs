@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -584,1 +584,0 @@\n-  assert(i1->_lo != min_val && i1->_hi != min_val, \"Special has should have been filtered out\");\n","filename":"src\/hotspot\/share\/opto\/divnode.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
