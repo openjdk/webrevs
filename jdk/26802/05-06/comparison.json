@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+    private static final int JAVA_CLASSNAME_MAX_LEN = 65535;\n","filename":"test\/jdk\/java\/lang\/Class\/forName\/ForNameNames.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
