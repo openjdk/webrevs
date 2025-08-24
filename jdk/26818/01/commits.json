@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into resolved-default-cctor"},"files":[],"sha":"ba555768309aa02539e5054b18296409a8a63cb2"},{"commit":{"message":"use copy ctor"},"files":[{"filename":"src\/hotspot\/share\/oops\/resolvedFieldEntry.hpp"},{"filename":"src\/hotspot\/share\/oops\/resolvedMethodEntry.hpp"}],"sha":"c79f43ee97815d50d6f13867bfe280032d34add8"}]
