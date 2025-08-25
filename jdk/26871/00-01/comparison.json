@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n-        robot.setAutoDelay(100);\n+        robot.waitForIdle();\n@@ -74,0 +74,2 @@\n+                robot.waitForIdle();\n+                robot.delay(100);\n","filename":"test\/jdk\/java\/awt\/Frame\/FrameVisualTest.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
