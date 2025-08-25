@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366118: DontCompileHugeMethods is not respected with -XX:-TieredCompilation"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilationPolicy.cpp"}],"sha":"75067a499826e8fd733966ca99d1a13664f3f5c0"}]
