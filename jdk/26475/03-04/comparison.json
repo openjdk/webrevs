@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -670,1 +670,1 @@\n-    tty->print(\"%s\\n\", str);\n+    tty->print_cr(\"%s\", str);\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
