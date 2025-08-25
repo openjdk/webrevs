@@ -1,0 +1,1 @@
+[{"commit":{"message":"* make liveness_percent() fail on an empty group, check before use"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSetCandidates.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"}],"sha":"3730e498befdf9a123ad1e1c1a7861ce6979ae47"}]
