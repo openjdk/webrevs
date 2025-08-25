@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,2 +144,0 @@\n-        System.err.flush();\n-\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/LWCToolkit.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
