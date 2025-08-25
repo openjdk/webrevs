@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 506625b768c940a3f4fc2efce485d9207ca61cfe\n\n8356324: JVM crash (SIGSEGV at ClassListParser::resolve_indy_impl) during -Xshare:dump starting from 21.0.5\n\nReviewed-by: coleenp, matsaave"},"files":[{"filename":"src\/hotspot\/share\/oops\/cpCache.hpp"}],"sha":"da162af30aca2cbef71c83aa084ccfab0a50c3e6"}]
