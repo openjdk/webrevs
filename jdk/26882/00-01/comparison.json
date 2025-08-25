@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-  #ifdef MUSL_LIBC\n+#ifdef MUSL_LIBC\n@@ -103,1 +103,1 @@\n-  #else\n+#else\n@@ -105,1 +105,1 @@\n-  #endif \/\/ MUSL_LIBC\n+#endif \/\/ MUSL_LIBC\n","filename":"src\/hotspot\/os\/linux\/compilerThreadTimeout_linux.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
