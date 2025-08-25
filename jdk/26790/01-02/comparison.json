@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n-  @bug        6346690 8361606\n+  @bug        6346690 8361606 8321303\n","filename":"test\/jdk\/java\/awt\/KeyboardFocusmanager\/ConsumeNextMnemonicKeyTypedTest\/ConsumeNextMnemonicKeyTypedTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
