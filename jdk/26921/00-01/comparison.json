@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,2 @@\n-  jlong fetched_value = Atomic::xchg(&(instance->_gc_total_cpu_time_diff), 0);\n+  jlong new_value = 0;\n+  jlong fetched_value = Atomic::xchg(&(instance->_gc_total_cpu_time_diff), new_value);\n","filename":"src\/hotspot\/share\/runtime\/cpuTimeCounters.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
