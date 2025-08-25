@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-            robot.mousePress(MouseEvent.BUTTON1_DOWN_MASK);\n+            robot.mousePress(InputEvent.BUTTON1_DOWN_MASK);\n@@ -71,1 +71,0 @@\n-                robot.delay(20);\n","filename":"test\/jdk\/javax\/swing\/DataTransfer\/bug4655513.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
