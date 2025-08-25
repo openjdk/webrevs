@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,3 @@\n+  if (_resolved_indy_entries == nullptr) {\n+    return 0;\n+  }\n","filename":"src\/hotspot\/share\/oops\/cpCache.inline.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
