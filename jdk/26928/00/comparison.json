@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1519,1 +1519,1 @@\n-     * Returns the set of packages in the module.\n+     * Returns the set of all packages in the module.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/module\/ModuleDescriptor.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
