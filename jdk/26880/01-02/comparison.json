@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -823,1 +823,1 @@\n-    if(EvacuateAllOptionalRegions){\n+    if (EvacuateAllOptionalRegions) {\n@@ -825,1 +825,1 @@\n-    }else{\n+    } else {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1YoungCollector.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
