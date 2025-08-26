@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,0 @@\n-        robot.waitForIdle();\n@@ -89,1 +88,0 @@\n-                        frames[index].setVisible(false);\n","filename":"test\/jdk\/java\/awt\/Frame\/FrameVisualTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
