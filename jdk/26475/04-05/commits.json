@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix missing candidates.size() == 0 case when constants are involved"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"2769e251e274815312d55687ca04b0d665c09322"}]
