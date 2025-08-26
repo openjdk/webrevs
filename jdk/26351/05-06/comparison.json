@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1380,1 +1380,1 @@\n-  double elapsed_gc_cpu_time = CPUTimeUsage::GC::gc_threads() \/ NANOSECS_PER_MILLISEC;\n+  double elapsed_gc_cpu_time = (double) CPUTimeUsage::GC::gc_threads() \/ NANOSECS_PER_MILLISEC;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
