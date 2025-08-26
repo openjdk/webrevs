@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,0 +72,1 @@\n+            robot.waitForIdle();\n","filename":"test\/jdk\/javax\/swing\/DataTransfer\/bug4655513.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
