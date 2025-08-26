@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix mismatch with #ifdef COMPILER2 between .hpp and .cpp"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"233c89a0647660ec3d0542577740d055de28a232"}]

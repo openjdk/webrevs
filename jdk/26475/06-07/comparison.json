@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,0 +268,1 @@\n+#ifdef COMPILER2\n@@ -304,0 +305,1 @@\n+#endif \/\/ COMPILER2\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
