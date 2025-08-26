@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,5 +52,0 @@\n-\n-#ifdef TARGET_COMPILER_visCPP\n-#include \"memory\/allocation.inline.hpp\"\n-#include \"runtime\/handles.inline.hpp\"\n-#endif \/\/ TARGET_COMPILER_visCPP\n","filename":"src\/hotspot\/share\/precompiled\/precompiled.hpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
