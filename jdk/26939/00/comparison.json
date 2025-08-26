@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -167,0 +167,1 @@\n+  assert(fabs(short_interval_ms) != fabs(0.0), \"short_interval_ms should not be zero, calculated from %f and %f\", end_time_sec,  most_recent_gc_end_time_sec());\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Analytics.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
