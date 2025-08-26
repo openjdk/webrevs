@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8366159: SkippedException is treated as a pass for pkcs11\/KeyStore, pkcs11\/SecretKeyFactory and pkcs11\/SecureRandom"},"files":[{"filename":"test\/jdk\/sun\/security\/pkcs11\/KeyStore\/CertChainRemoval.java"},{"filename":"test\/jdk\/sun\/security\/pkcs11\/SecureRandom\/Basic.java"}],"sha":"867b81d31be63aad521cde8d53d3053d0b913ae0"}]
