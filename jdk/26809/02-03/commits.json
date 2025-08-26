@@ -1,0 +1,1 @@
+[{"commit":{"message":"explicit casting of 'long long' vs 'long' for windows compatibility."},"files":[{"filename":"test\/hotspot\/gtest\/utilities\/test_globalDefinitions.cpp"}],"sha":"6b02c0e98ac868f54e75249a3e09a7653c249f82"}]
