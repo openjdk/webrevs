@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,0 +37,1 @@\n+ * @requires (os.arch != \"riscv64\" | (os.arch == \"riscv64\" & vm.cpu.features ~= \".*rvv.*\"))\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestVerifyIntrinsicChecks.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
