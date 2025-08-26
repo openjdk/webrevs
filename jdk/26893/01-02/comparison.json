@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -396,1 +396,1 @@\n-            SwingUtilities.updateComponentTreeUI(this);\n+            firePropertyChange(ORIENTATION_PROPERTY, curOrn, orientation);\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JSplitPane.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
