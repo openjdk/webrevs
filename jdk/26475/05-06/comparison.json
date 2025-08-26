@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5354,1 +5354,1 @@\n-      if (in != nullptr) {\n+      if (in != nullptr && !in->is_Root()) {\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

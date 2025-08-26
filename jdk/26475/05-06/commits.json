@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid having root as control candidate to prevent issue when printing a constant"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"047ababf3a55fe9a25edd4c29dd2572ee6984abf"}]
