@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-    ik = (const InstanceKlass*)ik->super();\n+    ik = ik->java_super();\n","filename":"src\/hotspot\/share\/jfr\/leakprofiler\/chains\/edgeUtils.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
