@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @run main\/othervm gc.z.TestCommitFailure\n+ * @run driver gc.z.TestCommitFailure\n","filename":"test\/hotspot\/jtreg\/gc\/z\/TestCommitFailure.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
