@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366254: (fs) UnixException.translateToIOException should translate ELOOP to FileSystemLoopException"},"files":[{"filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixException.java"},{"filename":"test\/jdk\/java\/nio\/file\/Files\/IsSameFile.java"}],"sha":"cf174caeded98ca3906ef80e79008b6a40624db2"}]
