@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1565,3 +1565,0 @@\n-        if (ids == null) {\n-            throw new Exception(\"Must provide -id when -gencrl\");\n-        }\n","filename":"src\/java.base\/share\/classes\/sun\/security\/tools\/keytool\/Main.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
