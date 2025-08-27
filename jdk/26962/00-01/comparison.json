@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -195,2 +195,2 @@\n-    uint64_t userTicks;\n-    uint64_t systemTicks;\n+    uint64_t userTicks = 0;\n+    uint64_t systemTicks = 0;\n","filename":"src\/jdk.management\/linux\/native\/libmanagement_ext\/UnixOperatingSystem.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
