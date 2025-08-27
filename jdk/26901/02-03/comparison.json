@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4819,1 +4819,0 @@\n-    errno = ENOENT;\n@@ -4821,0 +4820,3 @@\n+    if (errcode == ERROR_FILE_NOT_FOUND || errcode == ERROR_PATH_NOT_FOUND) {\n+      errno = ENOENT;\n+    }\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
