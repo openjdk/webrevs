@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,1 @@\n-  const uint local_GCTimeRatio = GCTimeRatio;\n+  const uint local_GCTimeRatio = Atomic::load(&GCTimeRatio);\n","filename":"src\/hotspot\/share\/gc\/parallel\/psAdaptiveSizePolicy.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
