@@ -1,0 +1,1 @@
+[{"commit":{"message":"8364816: Fixed whitespace error."},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"322bed861b1b30ae766ed7c04161993d41fafe80"},{"commit":{"message":"8364816: Added missed assignment to errno."},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"4ca863b395c0d4dbb23c8272140fd49e615b1bf5"}]
