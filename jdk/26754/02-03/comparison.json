@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -243,1 +243,1 @@\n-  : public ResourceHashtable<InstanceKlass*, DumpTimeClassInfo*, 15889> {\n+  : public HashTable<InstanceKlass*, DumpTimeClassInfo*, 15889> {\n","filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
