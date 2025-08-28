@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,0 +111,1 @@\n+                .put(HtmlAttr.TITLE, \"search in modules\")\n","filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/SearchWriter.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
