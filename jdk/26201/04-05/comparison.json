@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -280,1 +280,1 @@\n- * {@code 65535} is lost when built to a {@code u2} (JVMS {@jvms 4}) item, with\n+ * {@code 65535} is lost when built to a {@link ##u2 u2} item, with\n","filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/package-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
