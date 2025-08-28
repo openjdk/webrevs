@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1386,1 +1386,1 @@\n-            if (t.tsym.isEnclosedBy(env.enclClass.sym) &&\n+            if (t.tsym.isEnclosedBy(localEnv.enclClass.sym) &&\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
