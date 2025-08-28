@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2586,0 +2586,1 @@\n+    const Register tmp                 = c_rarg7;\n@@ -2593,1 +2594,0 @@\n-    const Register tmp                 = c_rarg7;\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
