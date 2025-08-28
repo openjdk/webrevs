@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-    BUILD_JDK_JTREG_EXECUTABLES_LIBS_exelauncher := $(LIBDL) $(LIBPTHREAD)\n+    BUILD_JDK_JTREG_EXECUTABLES_LIBS_exelauncher := -ldl\n@@ -141,0 +141,1 @@\n+      LIBS := $(LIBPTHREAD), \\\n","filename":"make\/test\/JtregNativeJdk.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
