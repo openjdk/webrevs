@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,1 @@\n+ * @requires vm.cds.default.archive.available\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/AOTMapTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
