@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-     * @throws IllegalArgumentException if {@code exportFlags} is not i{@link\n+     * @throws IllegalArgumentException if {@code exportFlags} is not {@link\n","filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/attribute\/ModuleExportInfo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
