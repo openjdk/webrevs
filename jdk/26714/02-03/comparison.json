@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -414,1 +414,1 @@\n-     *         {@code dstType} is reference, and the reference cast fails; or\n+     *         {@code dstType} is a reference type, and the reference cast fails; or\n","filename":"src\/java.base\/share\/classes\/java\/lang\/invoke\/ConstantBootstraps.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
