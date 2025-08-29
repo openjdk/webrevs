@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+import java.io.IOException;\n@@ -52,1 +53,1 @@\n-    } catch (java.io.IOException e) {\n+    } catch (IOException e) {\n@@ -55,0 +56,2 @@\n+        } else {\n+            throw e;\n","filename":"test\/jdk\/javax\/print\/PrintServiceLookup\/CountPrintServices.java","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
