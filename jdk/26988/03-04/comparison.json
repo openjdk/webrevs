@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    Process proc = null;\n+    Process proc;\n","filename":"test\/jdk\/javax\/print\/PrintServiceLookup\/CountPrintServices.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
