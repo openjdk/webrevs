@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -489,1 +489,1 @@\n-      DESC: [enable static analyzer],\n+      DESC: [enable the GCC static analyzer],\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
