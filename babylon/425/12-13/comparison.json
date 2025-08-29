@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,0 +52,1 @@\n+import java.util.function.BiFunction;\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/Op.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
