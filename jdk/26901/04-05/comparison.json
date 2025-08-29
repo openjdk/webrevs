@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5034,1 +5034,1 @@\n-    log_debug(os)(\"os::open() failed to _wopen: errno->%ld.\", errno);\n+    log_debug(os)(\"os::open() failed to _wopen: errno->%s.\", strerror(errno));\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
