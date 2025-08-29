@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -289,1 +289,1 @@\n-     * {@code psk} value and {@code psk_id} values.\n+     * {@code psk} and {@code psk_id} values.\n","filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/HPKEParameterSpec.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
