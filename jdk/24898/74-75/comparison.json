@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1984,1 +1984,1 @@\n-                \/\/ The initial estimate will be 2^rBitLen == 2 << (rootLen - 1)\n+                \/\/ The initial estimate will be 2^rootLen == 2 << (rootLen - 1)\n","filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
