@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366477: Refactor AOT-related flag bits in klass.hpp"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlassFlags.hpp"},{"filename":"src\/hotspot\/share\/oops\/klass.cpp"},{"filename":"src\/hotspot\/share\/oops\/klass.hpp"}],"sha":"709d3d2354c00d1fc3829e32752567429536cee5"}]
