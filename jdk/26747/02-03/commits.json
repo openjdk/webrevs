@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8365290 [perf] x86 ArrayFill intrinsic generates SPLIT_STORE for unaligned arrays"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"a428899bb4fefc58b2690533790cfab59d03f505"}]
