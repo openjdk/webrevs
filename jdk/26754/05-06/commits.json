@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added assert that SystemDictionaryShared::should_be_excluded() can only be called within CDS safepoint"},"files":[{"filename":"src\/hotspot\/share\/cds\/dynamicArchive.cpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"}],"sha":"db57b101267f407535ffdc1f3cb685738d898f80"}]
