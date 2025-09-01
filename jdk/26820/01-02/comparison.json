@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,1 @@\n-                                                 String archiveSuffix) throws Exception {\n+                                              String archiveSuffix) throws Exception {\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/TestDefaultArchiveLoading.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
