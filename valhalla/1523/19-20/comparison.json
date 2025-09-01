@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,3 +306,1 @@\n-            return;\n-        }\n-        if ((v.flags() & FINAL) != 0 &&\n+        } else if ((v.flags() & FINAL) != 0 &&\n@@ -319,1 +317,0 @@\n-            return;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
