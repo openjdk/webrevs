@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @run main\/othervm\/timeout=300 GetStackTraceALotWhenBlocking 100000\n+ * @run main\/othervm\/timeout=1200 GetStackTraceALotWhenBlocking 100000\n","filename":"test\/jdk\/java\/lang\/Thread\/virtual\/stress\/GetStackTraceALotWhenBlocking.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
