@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -454,1 +454,1 @@\n-\/\/ Identity ransform for scalar loads and stores.\n+\/\/ Identity transform for scalar loads and stores.\n","filename":"src\/hotspot\/share\/opto\/vtransform.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
