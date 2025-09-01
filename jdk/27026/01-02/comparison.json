@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3823,3 +3823,0 @@\n-    \/\/ Ioi note: remove this in final commit.\n-    assert(!cp->tag_at(super_class_index).is_klass(), \"should not have been resolved\");\n-\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
