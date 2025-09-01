@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-  \/\/ (RM_UP_EXT) separately. Another, perhaps more elegant, option would be to\n+  \/\/ (_RM_UP_EXT) separately. Another, perhaps more elegant, option would be to\n","filename":"src\/hotspot\/share\/opto\/regmask.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
