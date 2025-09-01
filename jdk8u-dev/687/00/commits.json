@@ -1,0 +1,1 @@
+[{"commit":{"message":"8347911: Limit the length of inflated text chunks\n\nBackport-of: 398a580518b4e7961bdddf733e0a89ff25bc437a"},"files":[{"filename":"jdk\/src\/share\/classes\/com\/sun\/imageio\/plugins\/png\/PNGImageReader.java"}],"sha":"ab0f8cd2b3e87b5c1babcbdadd28345ec78bf3ac"}]
