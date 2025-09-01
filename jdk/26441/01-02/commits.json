@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8355354: avoid resetting callee in call node ideal"},"files":[{"filename":"src\/hotspot\/share\/opto\/callnode.cpp"}],"sha":"ce80755373cc37fab9d0757e7c376975e341a875"}]
