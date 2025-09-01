@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,0 @@\n-\/\/ ALLOCATOR must check for oom and exit, as RBTree does not handle the allocation failing.\n","filename":"src\/hotspot\/share\/utilities\/rbTree.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
