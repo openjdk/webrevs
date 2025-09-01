@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366498: Wrong InstanceKlass::cast() in ClassFileParser::parse_super_class"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"}],"sha":"d353bfe5fa49228a3b548ee06d195bbae9e6e448"}]
