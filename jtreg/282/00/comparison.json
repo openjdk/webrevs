@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,2 +44,2 @@\n-DEFAULT_JUNIT_VERSION=1.13.3\n-DEFAULT_JUNIT_JAR_CHECKSUM=75af1fcbac5f10637d96c07555113b097f2eae4f\n+DEFAULT_JUNIT_VERSION=1.13.4\n+DEFAULT_JUNIT_JAR_CHECKSUM=62734191af1bfc78ee17181ca38b94dbb5eb7737\n","filename":"make\/build-support\/version-numbers","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
