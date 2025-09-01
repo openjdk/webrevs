@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,2 @@\n-        try {\n+        try\n+        {\n@@ -109,1 +110,3 @@\n-        } finally {\n+        }\n+        finally\n+        {\n","filename":"jdk\/src\/share\/classes\/com\/sun\/media\/sound\/JARSoundbankReader.java","additions":5,"deletions":2,"binary":false,"changes":7,"status":"modified"}]}
