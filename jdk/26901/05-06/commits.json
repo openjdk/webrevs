@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update src\/hotspot\/os\/windows\/os_windows.cpp\r\n\r\n8364816: Added _set_errno(0) to avoid reading old values.\n\nCo-authored-by: Joel Sikström <joel.sikstrom@oracle.com>"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"2789bb922538c27513dae98ee5ae20a7e3fe0029"}]
