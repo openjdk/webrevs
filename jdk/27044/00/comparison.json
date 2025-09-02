@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @run driver StressAsyncUL\n+ * @run driver\/timeout=480 StressAsyncUL\n","filename":"test\/hotspot\/jtreg\/runtime\/logging\/StressAsyncUL.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
