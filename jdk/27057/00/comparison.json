@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,1 +95,1 @@\n-    public static long subProcessTimeout = (long)(15L * Utils.TIMEOUT_FACTOR);\n+    public static long subProcessTimeout = (long)(60L * Utils.TIMEOUT_FACTOR);\n","filename":"test\/hotspot\/jtreg\/runtime\/8176717\/TestInheritFD.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
