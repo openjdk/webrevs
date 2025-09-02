@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -400,1 +400,0 @@\n-      \/\/assert(k->is_refArray_klass(), \"FAIL\");\n","filename":"src\/hotspot\/share\/ci\/ciObjectFactory.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
