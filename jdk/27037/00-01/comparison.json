@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -367,0 +367,1 @@\n+        assert(cie->klass()->is_instance_klass(), \"elements array contains only instance klasses\");\n","filename":"src\/hotspot\/share\/memory\/heapInspection.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
