@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1911,0 +1911,4 @@\n+      if (!VM_Version::supports_f16c() && !VM_Version::supports_evex()) {\n+        return false;\n+      }\n+      break;\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
