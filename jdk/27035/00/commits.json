@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366038: Replaced fence with release_store in Thread::SpinRelease()."},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"}],"sha":"d72316fc4cedbbe843c69a3eeb1c4ab58d906bec"}]
