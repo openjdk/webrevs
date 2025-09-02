@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n-     * \t              or if OpenSSL is not available on the target platform\n+     *         or if OpenSSL is not available on the target platform\n","filename":"test\/lib\/jdk\/test\/lib\/security\/OpensslArtifactFetcher.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
