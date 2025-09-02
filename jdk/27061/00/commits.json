@@ -1,0 +1,1 @@
+[{"commit":{"message":"offset_of just uses offsetof"},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions_gcc.hpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions_visCPP.hpp"}],"sha":"2ce17804940c138f7f1ed210d3eb38cce3e72ae3"}]
