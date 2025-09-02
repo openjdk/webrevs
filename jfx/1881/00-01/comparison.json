@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -507,0 +507,4 @@\n+    \/**\n+     * Set the common system menus. Intended as a private API.\n+     * @param menuList list of common menus\n+     *\/\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/MenuBarSkin.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
