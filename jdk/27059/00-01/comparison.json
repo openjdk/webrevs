@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -435,2 +435,1 @@\n-  return ((far ? 3 : 1) + (_method_handle_invoke ? 1 : 0)) *\n-    NativeInstruction::instruction_size;\n+  return (far ? 3 : 1) * NativeInstruction::instruction_size;\n","filename":"src\/hotspot\/cpu\/arm\/arm_32.ad","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
