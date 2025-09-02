@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update src\/hotspot\/os\/windows\/os_windows.cpp\r\n\r\n8364816: Changed the way errno is set to zero.\n\nCo-authored-by: David Holmes <62092539+dholmes-ora@users.noreply.github.com>"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"9d69ac3c83adcbc54493ee9b5c10a5a0b897e953"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4823,1 +4823,1 @@\n-      _set_errno(0);\n+      errno = 0;\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
