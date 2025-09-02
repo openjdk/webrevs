@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3464,0 +3464,1 @@\n+  C->record_for_igvn(rf);\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
