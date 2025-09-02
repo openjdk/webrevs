@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-                \/\/ Disable NUMA to avoid OOM with -Xmx16M after JDK-8359683\n+                \/\/ Disable NUMA to avoid potential OOM after JDK-8359683\n","filename":"test\/hotspot\/jtreg\/gc\/z\/TestSmallHeap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
