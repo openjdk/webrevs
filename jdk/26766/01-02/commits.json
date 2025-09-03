@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove non-specific GC test item and include ZGC and Shenandoah\n\nSigned-off-by: jonghoonpark <dev@jonghoonpark.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/stress\/TestReclaimStringsLeaksMemory.java"}],"sha":"1002b1839c33e5f8266a4d42c6b6c6ead2836745"}]
