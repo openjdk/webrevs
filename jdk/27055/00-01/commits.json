@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use addDebuggeeOptions(-Xmx64) to make test run quickly, instead of add timeout value"},"files":[{"filename":"test\/jdk\/com\/sun\/jdi\/JdbStopInNotificationThreadTest.java"},{"filename":"test\/jdk\/com\/sun\/jdi\/lib\/jdb\/Jdb.java"}],"sha":"97fa547c416a4aa19a6e59812b43f7ec23616d78"}]
