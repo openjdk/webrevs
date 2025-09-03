@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -233,3 +233,1 @@\n-#if INCLUDE_JFR\n-      heap->set_cit(nullptr);\n-#endif \/\/ INCLUDE_JFR\n+      JFR_ONLY(heap->set_cit(nullptr));\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
