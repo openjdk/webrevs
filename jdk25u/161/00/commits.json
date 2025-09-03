@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361215: Add AOT test case: verification constraint classes are excluded"},"files":[{"filename":"test\/hotspot\/jtreg\/TEST.groups"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/ExcludedClasses.java"},{"filename":"test\/lib\/jdk\/test\/lib\/cds\/CDSAppTester.java"}],"sha":"f8474645cf4edf817bfb0b2a07e10c61263d06c2"}]
