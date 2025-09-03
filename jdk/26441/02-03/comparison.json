@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2115,0 +2115,1 @@\n+        \/\/ randomly add repeated inline attempt if stress-inlining\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
