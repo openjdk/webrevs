@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,0 +101,1 @@\n+    assert_different_registers(method, t0, t1);\n@@ -103,0 +104,1 @@\n+\n","filename":"src\/hotspot\/cpu\/riscv\/methodHandles_riscv.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
