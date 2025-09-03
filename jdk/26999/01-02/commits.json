@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make PPC backend to also use concurrent code patching."},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetAssembler_ppc.hpp"},{"filename":"src\/hotspot\/cpu\/ppc\/gc\/shenandoah\/shenandoahBarrierSetAssembler_ppc.hpp"}],"sha":"4da31385c025f866953c418f9316f3323d58c304"}]
