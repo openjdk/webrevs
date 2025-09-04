@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -345,1 +345,0 @@\n-  delete_file(test_file);\n@@ -362,0 +361,2 @@\n+\n+  delete_file(test_file);\n@@ -397,0 +398,2 @@\n+\n+  delete_file(test_file);\n","filename":"test\/hotspot\/gtest\/runtime\/test_cgroupSubsystem_linux.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
