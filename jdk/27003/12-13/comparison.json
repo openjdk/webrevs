@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -753,1 +753,1 @@\n-bool RBTree<K, V, COMPARATOR, ALLOCATOR>::copy_into(RBTree& other) {\n+bool RBTree<K, V, COMPARATOR, ALLOCATOR>::copy_into(RBTree& other) const {\n","filename":"src\/hotspot\/share\/utilities\/rbTree.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
