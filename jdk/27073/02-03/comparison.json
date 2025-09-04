@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -976,0 +976,3 @@\n+      # Switching the initialization mode with gcc from 'pattern' to 'zero'\n+      # avoids the use of unsupported `__builtin_clear_padding` for variable\n+      # length aggregates\n","filename":"make\/autoconf\/flags-cflags.m4","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
