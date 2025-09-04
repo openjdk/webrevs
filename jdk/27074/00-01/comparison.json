@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,1 @@\n-  \/\/ Windows uses Structured Exception Handling\n+  \/\/ Windows x86_64 uses Structured Exception Handling\n","filename":"src\/hotspot\/share\/runtime\/safefetch.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

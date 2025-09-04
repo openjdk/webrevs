@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clarify that SEH is only used on Windows x86_64\n\nCo-authored-by: David Holmes <62092539+dholmes-ora@users.noreply.github.com>"},"files":[{"filename":"src\/hotspot\/share\/runtime\/safefetch.hpp"}],"sha":"b35b47fb1bd5217a98c563e27ae33ae42995b840"}]
