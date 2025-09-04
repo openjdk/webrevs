@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366440: [lworld] Two tests broken with JDK-8364483"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/ValuePreloadTest.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/verifier\/CFLH\/TestVerify.java"}],"sha":"9da2989690f413063a7527b783b9b0dde12ee9fc"}]
