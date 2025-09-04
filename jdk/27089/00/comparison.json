@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1063,1 +1063,1 @@\n-  typedef RBTree<int, unsigned, IntCmp, RBTreeCHeapAllocator<mtTest> > TreeType;\n+  typedef RBTreeCHeap<int, unsigned, IntCmp, mtTest> TreeType;\n","filename":"test\/hotspot\/gtest\/utilities\/test_rbtree.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
