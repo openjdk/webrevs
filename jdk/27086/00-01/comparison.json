@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,1 +127,1 @@\n-memory.thp.args=-c\\0cat \/sys\/kernel\/mm\/transparent_hugepage\/{enabled,defrag}\n+memory.thp.args=-c\\0cat \/sys\/kernel\/mm\/transparent_hugepage\/{enabled,defrag,shmem_enabled}\n","filename":"test\/failure_handler\/src\/share\/conf\/linux.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
