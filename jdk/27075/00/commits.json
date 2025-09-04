@@ -1,0 +1,1 @@
+[{"commit":{"message":"8365205: C2: Optimize popcount value computation using knownbits"},"files":[{"filename":"src\/hotspot\/share\/opto\/countbitsnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/countbitsnode.hpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/PopCountValueTransform.java"}],"sha":"c83be331c3b64b8c7ba9e28d7dab0ee3b3e9d7f0"}]
