@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366813: gcc 12 cannot compile SVE on aarch64 with auto-var-init pattern\n\nBackport of https:\/\/github.com\/openjdk\/jdk\/commit\/999761d0f6d37c9cd6ec482620800b694c5fb9ad"},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"}],"sha":"97616cc053e75d345d017ad32f757964b4b8a59f"}]
