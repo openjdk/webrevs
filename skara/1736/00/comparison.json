@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,0 @@\n-                      .maxPages(1)\n@@ -169,1 +168,0 @@\n-                      .maxPages(1)\n","filename":"forge\/src\/main\/java\/org\/openjdk\/skara\/forge\/github\/GitHubRepository.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
