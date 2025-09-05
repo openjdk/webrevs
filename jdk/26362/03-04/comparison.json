@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -391,0 +391,1 @@\n+    ResourceMark rm;\n","filename":"src\/hotspot\/share\/opto\/graphInvariants.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
