@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,3 @@\n+\/\/ It may be unsafe to call these methods during VM exit\n+\/\/ as threads are terminating\n+\n","filename":"src\/hotspot\/share\/services\/cpuTimeUsage.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
