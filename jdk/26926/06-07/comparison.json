@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,2 @@\n+#include \"runtime\/osThread.hpp\"\n+#include \"runtime\/safepointMechanism.inline.hpp\"\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
