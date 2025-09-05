@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,1 +300,0 @@\n-  \/\/ ((objArrayOop)array.resolve())->replace_if_null(index, o);\n","filename":"src\/hotspot\/share\/cds\/cdsProtectionDomain.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
