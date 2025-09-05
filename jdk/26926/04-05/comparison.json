@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2670,1 +2670,1 @@\n-  #ifdef ASSERT\n+  #if defined(ASSERT) && defined(INCLUDE_JFR) && defined(LINUX)\n@@ -2679,1 +2679,1 @@\n-  #ifdef ASSERT\n+  #if defined(ASSERT) && defined(INCLUDE_JFR) && defined(LINUX)\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
