@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,0 @@\n-<<<<<<< HEAD\n@@ -42,5 +41,0 @@\n-=======\n-  \n-  bool should_visit(oop o);\n-  \n->>>>>>> 774f4e2b8592424f74d3fea4c509d1fc95a20c39\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahObjectCountClosure.hpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
