@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use applyIfCPUFeatureAnd to check multiple CPU feature pairs in tests"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorFPtoIntCastTest.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/runner\/ArrayTypeConvertTest.java"}],"sha":"b7d3ae34eb43161fd65a7f0c8de401fceddd9f8d"}]
