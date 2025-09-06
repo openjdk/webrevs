@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check for scalar casting instead of vector casting in tests when disabling vector alignment or compact object headers"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/runner\/ArrayTypeConvertTest.java"}],"sha":"4d8f3ab65796b5c719f0235b35843dcc0a6ceca2"}]
