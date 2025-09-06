@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+import java.io.Serial;\n@@ -51,0 +52,1 @@\n+    @Serial\n","filename":"src\/java.logging\/share\/classes\/java\/util\/logging\/LoggingPermission.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
