@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -187,0 +187,1 @@\n+    \/\/ Ranges represented by these constants are inclusive on both ends\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapGenerator.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
