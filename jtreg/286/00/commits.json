@@ -1,0 +1,1 @@
+[{"commit":{"message":"7904076: Include timestamp in the summary logs for junit and testng tests"},"files":[{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/agent\/JUnitRunner.java"},{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/agent\/TestNGRunner.java"}],"sha":"bb948df3ed53add8b9a123da6f35f40946fceaca"}]
