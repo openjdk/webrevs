@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use a different native method for testNative, since the implementation of forName has changed."},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/ModifiedUtf.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/exceptionMsgs\/NullPointerException\/NullPointerExceptionTest.java"}],"sha":"2ca6354a234f9495a7d7dafdd877ddd86ac1737b"}]
