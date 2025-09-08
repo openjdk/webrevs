@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3424,1 +3424,1 @@\n-    Register t = src == dst ? dst : t0;\n+    Register t = dst == xbase ? t0 : dst;\n@@ -3426,0 +3426,1 @@\n+    \/\/ dst = (src << shift) + xbase\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
