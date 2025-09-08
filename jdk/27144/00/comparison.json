@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,3 +37,0 @@\n-#if INCLUDE_PARALLELGC\n-#include \"gc\/parallel\/objectStartArray.hpp\"\n-#endif\n","filename":"src\/hotspot\/share\/gc\/shared\/cardTable.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
