@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,0 +128,1 @@\n+            skippedException.printStackTrace();\n","filename":"test\/jdk\/sun\/security\/pkcs11\/SecretKeyFactory\/TestGeneral.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
