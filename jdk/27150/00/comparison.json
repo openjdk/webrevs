@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,1 +160,1 @@\n-GENSRC_VARHANDLEGUARDS := $(VARHANDLES_GENSRC_DIR)\/VarHandleGuards.java\n+GENSRC_VARHANDLEGUARDS := $(VARHANDLES_OUTPUT_DIR)\/VarHandleGuards.java\n","filename":"make\/modules\/java.base\/gensrc\/GensrcVarHandles.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
