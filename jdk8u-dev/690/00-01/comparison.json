@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -732,0 +732,1 @@\n+  cmsUInt64Number attributes;\n@@ -743,1 +744,0 @@\n-  cmsUInt64Number attributes;\n","filename":"jdk\/src\/share\/native\/sun\/java2d\/cmm\/lcms\/LCMS.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
