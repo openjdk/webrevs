@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed ColoringOption\nANSI coloring is triggered by jdk.incubator.code.extern.OpWriter.COLOR property\n"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/extern\/OpWriter.java"}],"sha":"d4501a1fae621629b321a60659da3d46c09aca44"}]
