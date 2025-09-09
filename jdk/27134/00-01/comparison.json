@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3843,1 +3843,1 @@\n-  \/\/ The RISC-V processor 64 bytes...\n+  \/\/ The RISC-V processor fetches 64 bytes...\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
