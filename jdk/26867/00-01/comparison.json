@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+#include \"gc\/shenandoah\/shenandoahHeap.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMemoryPool.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
