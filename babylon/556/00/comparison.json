@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -302,1 +302,1 @@\n-        Configuration configuration = Configuration._2D;\n+        Configuration configuration = Configuration._2DTILING;\n","filename":"hat\/examples\/matmul\/src\/main\/java\/matmul\/Main.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
