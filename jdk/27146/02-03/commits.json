@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use default constraints if SIGNATURE_CONSTRAINTS_MODE is NONE. Log warning and return true on InvalidParameterSpecException"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLAlgorithmConstraints.java"}],"sha":"7af212a09577344400bd0c06df103e6af767e18e"}]
