@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8360031: add assert condition and make consume method argument escape"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/ConstructorBarriers.java"}],"sha":"f5406f309e53de926d90ea274d9bad51a43bc271"}]
