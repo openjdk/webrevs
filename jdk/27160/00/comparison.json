@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1146,0 +1146,1 @@\n+    size_t count = 0;\n@@ -1149,0 +1150,1 @@\n+      st->print_cr(\"VMErrorCallback %zu:\", ++count);\n","filename":"src\/hotspot\/share\/utilities\/vmError.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
