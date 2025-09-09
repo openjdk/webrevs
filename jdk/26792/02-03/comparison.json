@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -400,1 +400,1 @@\n-        c2 = c7 - modulus[2] + (c1 >> BITS_PER_LIMB);\n+        c2 = c7 + (c1 >> BITS_PER_LIMB);\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/math\/intpoly\/MontgomeryIntegerPolynomialP256.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
