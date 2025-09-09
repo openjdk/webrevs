@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2204,1 +2204,1 @@\n-        final int preferredScale = (int) Math.min((long) this.scale \/ n, Integer.MAX_VALUE);\n+        final int preferredScale = saturateLong((long) this.scale \/ n);\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
