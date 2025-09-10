@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-import java.io.File;\n+\n@@ -39,0 +39,2 @@\n+import java.nio.file.Path;\n+import java.util.ArrayList;\n","filename":"test\/hotspot\/jtreg\/runtime\/os\/windows\/TestAvailableProcessors.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
