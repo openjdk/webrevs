@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,0 @@\n-        assert(_scanned_cld != nullptr, \"inv\");\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
