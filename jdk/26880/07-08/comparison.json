@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -819,2 +819,2 @@\n-#ifndef PRODUCT\n-  if (G1EvacuateAllOptionalRegions) {\n+#ifdef ASSERT\n+  if (G1ForceOptionalEvacuation) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1YoungCollector.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
