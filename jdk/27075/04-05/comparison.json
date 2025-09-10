@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,0 @@\n-    @Warmup(10000)\n@@ -77,1 +76,0 @@\n-    @Warmup(10000)\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestPopCountValueTransforms.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
