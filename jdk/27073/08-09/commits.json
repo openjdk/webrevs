@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use FLAGS_CPU and FLAGS_OS instead of OPENJDK_TARGET_CPU and OPENJDK_TARGET_OS to make cross-compile works normally"},"files":[{"filename":"make\/autoconf\/flags-cflags.m4"}],"sha":"1171cfa5521aee04789951f6d28d6d79a32c1f2f"}]
