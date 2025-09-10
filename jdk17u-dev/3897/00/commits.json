@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 6f2223faa170a800f76a54a6637c160eadab6232"},"files":[{"filename":"src\/hotspot\/share\/opto\/vector.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestLoopStoreVector.java"}],"sha":"1ae8ac231b1a818677d10415d59da3738f5b0ff0"}]
