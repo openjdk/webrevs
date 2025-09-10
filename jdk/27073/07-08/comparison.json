@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -987,0 +987,1 @@\n+        AC_MSG_CHECKING([Switching the initialization mode with gcc from pattern to zero])\n@@ -989,0 +990,1 @@\n+          PREFIX: $3,\n","filename":"make\/autoconf\/flags-cflags.m4","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
