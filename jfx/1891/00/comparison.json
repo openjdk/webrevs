@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8,0 +8,1 @@\n+--add-exports javafx.graphics\/com.sun.glass.events=ALL-UNNAMED\n","filename":"modules\/javafx.graphics\/src\/test\/addExports","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
