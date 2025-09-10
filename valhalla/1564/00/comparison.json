@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3497,1 +3497,2 @@\n-        Asserts.assertEquals(arr1[0], new MyValueEmpty());\n+        \/\/ TODO 8366668 Re-enable\n+        \/\/ Asserts.assertEquals(arr1[0], new MyValueEmpty());\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorld.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
