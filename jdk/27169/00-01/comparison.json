@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -323,1 +323,1 @@\n-    \/\/ Then, start the AsyncLog Thread; It exclusively takes over all logging I\/O.\n+    \/\/ Then we start the AsyncLog Thread and it exclusively takes over all logging I\/O.\n","filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
