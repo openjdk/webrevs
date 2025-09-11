@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4277,0 +4277,1 @@\n+\/\/ Verify the class modifiers for the current class, or an inner class if inner_name is non-null.\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
