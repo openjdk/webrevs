@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,0 @@\n- * @comment CDS archive heap mapping is not supported with large pages\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/sharedStrings\/InternSharedString.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
