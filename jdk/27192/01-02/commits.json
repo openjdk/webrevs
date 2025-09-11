@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changed num_found and num_values to size_t, do the null-check right after the fopen and return early, eliminated the variable shadowing of info"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"6c6fc40e006046aad728a150cd31bdf643acbc6f"}]
