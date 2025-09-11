@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6136,1 +6136,2 @@\n-    ldp(rscratch1, rfp, Address(sp, sp_inc_offset));\n+    ldr(rscratch1, Address(sp, sp_inc_offset));\n+    ldr(rfp, Address(sp, sp_inc_offset + wordSize));\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
