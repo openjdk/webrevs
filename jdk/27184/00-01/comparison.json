@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -290,1 +290,1 @@\n-  assert(is_aligned(value, ZGranuleSize), \"Must be granule aligned (\" PTR_FORMAT \")\", value);\n+  assert(is_aligned(value, ZGranuleSize), \"Must be granule aligned: \" PTR_FORMAT, value);\n","filename":"src\/hotspot\/share\/gc\/z\/zAddress.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
