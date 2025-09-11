@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,2 +97,0 @@\n-    DefNewGeneration* _g;\n-\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
