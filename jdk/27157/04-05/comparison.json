@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @summary Verify LineBorder edges have the same width\n+ * @summary Verify SwingUtilities3 insets return correct result independent of initial values\n","filename":"test\/jdk\/javax\/swing\/SwingUtilities\/8365379\/bug8365379.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
