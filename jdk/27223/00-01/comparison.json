@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,2 @@\n+  bool in_progress() const;\n+\n@@ -41,2 +43,0 @@\n-  bool in_progress() const;\n-\n","filename":"src\/hotspot\/share\/gc\/z\/zNMethodTableIteration.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
