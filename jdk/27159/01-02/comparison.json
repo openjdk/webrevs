@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -254,1 +254,1 @@\n-\/\/ Ergonomic construction for creating ad-hoc VMErrorCallback which automatically\n+\/\/ Convenient construction for creating ad-hoc VMErrorCallback which automatically\n","filename":"src\/hotspot\/share\/utilities\/vmError.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
