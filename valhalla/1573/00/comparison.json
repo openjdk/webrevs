@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,0 +176,3 @@\n+# Valhalla + AOT\n+runtime\/cds\/appcds\/methodHandles\/MethodHandlesGeneralTest.java#aot              8367408 generic-all\n+\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
