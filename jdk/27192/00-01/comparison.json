@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -380,1 +380,1 @@\n-  if (os::Linux::query_accurate_process_memory_info(&info)) {\n+  if (os::Linux::query_accurate_process_memory_info(&info) && info.rss != -1) {\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
