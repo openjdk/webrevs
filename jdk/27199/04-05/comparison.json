@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-        if (is_in_young_gen(new_obj) && !_has_oops_into_young_gen) {\n+        if (!_has_oops_into_young_gen && is_in_young_gen(new_obj)) {\n","filename":"src\/hotspot\/share\/gc\/serial\/defNewGeneration.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
