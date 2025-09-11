@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-      if (PSScavenge::is_obj_in_young(new_obj) && !_has_oops_into_young_gen) {\n+      if (!_has_oops_into_young_gen && PSScavenge::is_obj_in_young(new_obj)) {\n","filename":"src\/hotspot\/share\/gc\/parallel\/psClosure.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
