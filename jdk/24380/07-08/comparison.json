@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,0 @@\n-    printf(\"prefix is: %d\\n\", progname_prefix_len);\n@@ -66,1 +65,0 @@\n-    printf(\"PROGNAME is: %s\\n\", progname);\n","filename":"src\/java.base\/share\/native\/launcher\/main.c","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
