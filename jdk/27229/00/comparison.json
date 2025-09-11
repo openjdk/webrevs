@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -665,2 +665,0 @@\n-  time_remaining_ms -= total_prediction_ms;\n-\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSet.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8367424: Cleanup unused time_remaining_ms update in G1CollectionSet::select_optional_groups\n\ntrivial change , remove unused code"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSet.cpp"}],"sha":"97f9dfb548c6e371f84ed23010dd80e1fc564bec"}]
