@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366701: [lworld] Method profiles for AOT cache introduced with JEP 515 miss Valhalla specific profiling"},"files":[{"filename":"src\/hotspot\/share\/oops\/methodData.hpp"},{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"}],"sha":"8c1f3deedd52c36587d29c6da7a947f4243678c0"}]
