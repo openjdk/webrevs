@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,5 +44,1 @@\n-    }\n-\n-    \/\/ snapshot current stack usage\n-    {\n-      MemTracker::NmtVirtualMemoryLocker nvml;\n+      \/\/ snapshot current stack usage\n","filename":"test\/hotspot\/gtest\/runtime\/test_committed_virtualmemory.cpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
