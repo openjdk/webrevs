@@ -1,0 +1,1 @@
+[{"commit":{"message":"8365385: [asan] os::pretouch_memory() is not compatible with ASAN"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace\/chunkManager.cpp"},{"filename":"src\/hotspot\/share\/memory\/metaspace\/virtualSpaceNode.cpp"}],"sha":"6a195f049afa9d3748363cbe9ade8ab135dd62b7"}]
