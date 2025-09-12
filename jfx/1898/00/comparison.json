@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9,0 +9,1 @@\n+5) In case of Linux running on Wayland, we need to override X11 as backend for GDK, this can be done by using the command \"export GDK_BACKEND=x11\"\n","filename":"apps\/toys\/HelloFXCanvas\/README.txt","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
