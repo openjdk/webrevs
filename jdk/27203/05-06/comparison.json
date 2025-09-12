@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -330,1 +330,1 @@\n-                    \/\/ This may preform two lookups, one for a directory (in\n+                    \/\/ This may perform two lookups, one for a directory (in\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/jimage\/ImageReader.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
