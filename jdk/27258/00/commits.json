@@ -1,0 +1,1 @@
+[{"commit":{"message":"8285984: G1: Use standard idiom for inlined payload in G1MonotonicArena::Segment"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1MonotonicArena.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1MonotonicArena.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1MonotonicArena.inline.hpp"}],"sha":"766577e6c9ebb2c962a3bade3b52ca2fd13e5318"}]
