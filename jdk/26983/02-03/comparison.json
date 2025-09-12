@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1113,1 +1113,1 @@\n-    \/\/ It is acceptable that new_bottom\/new_top becomes zero.\n+    \/\/ It is acceptable that new_bottom\/new_top may be zero.\n","filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
