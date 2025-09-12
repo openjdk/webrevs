@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-    DESC: [Use SVE when compile libsleef],\n+    DESC: [Use SVE when compiling libsleef],\n","filename":"make\/autoconf\/flags-other.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
