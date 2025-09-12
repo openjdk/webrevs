@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -153,2 +153,0 @@\n-    AC_LANG_PUSH(C)\n-    OLD_CFLAGS=\"$CFLAGS\"\n@@ -159,1 +157,0 @@\n-        PREFIX: $3,\n@@ -165,2 +162,0 @@\n-    CFLAGS=\"$OLD_CFLAGS\"\n-    AC_LANG_POP(C)\n","filename":"make\/autoconf\/flags-other.m4","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
