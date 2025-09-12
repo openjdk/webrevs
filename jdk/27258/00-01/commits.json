@@ -1,0 +1,1 @@
+[{"commit":{"message":"may fail on 32 bit machines, added explicit alignas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1MonotonicArena.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1MonotonicArena.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1MonotonicArena.inline.hpp"}],"sha":"131fa9119ea9795f5ff6b15ef45d4c71b8f53d54"}]
