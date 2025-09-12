@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-        private TypeElement typeElement;\n+        private final TypeElement typeElement;\n@@ -87,0 +87,1 @@\n+            this.typeElement = that.resultType();\n","filename":"cr-examples\/samples\/src\/main\/java\/oracle\/code\/samples\/DialectFMAOp.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
