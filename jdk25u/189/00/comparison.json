@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -423,1 +423,2 @@\n-                    file = createTemporaryFile(\"tmpJar\", \".jar\");\n+                    tmpFile = createTemporaryFile(\"tmpJar\", \".jar\");\n+                    file = tmpFile;\n","filename":"src\/jdk.jartool\/share\/classes\/sun\/tools\/jar\/Main.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
