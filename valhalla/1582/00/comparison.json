@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,2 +128,1 @@\n-        vmOpts.add(\"-Xlog:all=warning:stdout:level,tags\");\n-        vmOpts.add(\"-Xlog:aot=off\");\n+        vmOpts.add(\"-Xlog:all=warning,aot=off:stdout:level,tags\");\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/bmi\/BMITestRunner.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
