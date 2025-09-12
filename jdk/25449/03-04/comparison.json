@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n- * @run junit LdapClientConnTest\n+ * @run junit\/othervm LdapClientConnTest\n","filename":"test\/jdk\/javax\/naming\/ldap\/LdapClientConnTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
