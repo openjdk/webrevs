@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1414,1 +1414,1 @@\n-            if (!sym.isStatic() && sym.kind == VAR && sym.owner.kind == TYP) {\n+            if (sym.kind == VAR && sym.owner.kind == TYP) {\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
