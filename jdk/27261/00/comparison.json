@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,0 +144,3 @@\n+        if (Platform.isRoot()) {\n+            throw new jtreg.SkippedException(\"Write permissions do not apply to root user\");\n+        }\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/jcmd\/JCmdTestFileSafety.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
