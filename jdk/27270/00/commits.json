@@ -1,0 +1,1 @@
+[{"commit":{"message":"8367597: Runtime.exit logging failed: Cannot invoke \"java.lang.Module.getClassLoader()\" because \"m\" is null"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Shutdown.java"}],"sha":"658a59e67cff5275dfeddea92f443a19b30a9ba5"}]
