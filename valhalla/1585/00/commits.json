@@ -1,0 +1,1 @@
+[{"commit":{"message":"8367592: Call to write_flat_field uses a Windows calling convention arg"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/templateTable_x86.cpp"}],"sha":"36fa781aa854b0ea81d102b734c298359908fe1a"}]
