@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5122,1 +5122,1 @@\n-        \/\/ Since m <= b log5(2) <= m + 1, log5(2)+2^(-21) < 1\/2\n+        \/\/ Since m < b log5(2) < m + 1, log5(2)+2^(-21) < 1\/2\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
