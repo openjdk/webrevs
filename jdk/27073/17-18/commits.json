@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove CHECK_AVAILABLE from UTIL_ARG_ENABLE"},"files":[{"filename":"make\/autoconf\/flags-other.m4"}],"sha":"ea399f55e1a027d3e49e42f8df101878c27932e4"},{"commit":{"message":"AC_MSG_RESULT yes\/no instead of $AVAILABLE"},"files":[{"filename":"make\/autoconf\/flags-other.m4"}],"sha":"d5232b81554e3aaf7425d33197f205049065a4a2"}]
