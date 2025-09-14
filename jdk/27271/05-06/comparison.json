@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5121,1 +5121,1 @@\n-        \/\/ | b * LOG_5_OF_2 - b log5(2) | < 2^(-21) (fp viz. real arithmetic).\n+        \/\/ | (b-1) * LOG_5_OF_2 - (b-1) log5(2) | < 2^(-21) (fp viz. real arithmetic).\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
