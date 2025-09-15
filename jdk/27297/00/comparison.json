@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+ * @requires vm.flagless\n","filename":"test\/hotspot\/jtreg\/runtime\/Thread\/TooSmallStackSize.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
