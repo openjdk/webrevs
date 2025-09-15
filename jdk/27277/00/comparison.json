@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -194,0 +194,3 @@\n+  if (is_set(RISCV_HWPROBE_KEY_IMA_EXT_0, RISCV_HWPROBE_EXT_ZICBOZ)) {\n+    VM_Version::ext_Zicboz.enable_feature();\n+  }\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
