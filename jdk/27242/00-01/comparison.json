@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -759,0 +759,5 @@\n+  if (is_dumping_dynamic_archive() && AOTClassLinking) {\n+    log_warning(cds)(\"AOTClassLinking is not supported for dynamic CDS archive\");\n+    FLAG_SET_ERGO(AOTClassLinking, false);\n+  }\n+\n","filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
