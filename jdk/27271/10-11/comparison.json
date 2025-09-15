@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1842,2 +1842,1 @@\n-                if (powsOf2 > powsOf5)\n-                    quot = quot.multiply(fiveTo(powsOf2 - powsOf5));\n+                quot = quot.multiply(fiveTo(powsOf2 - powsOf5));\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
