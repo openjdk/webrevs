@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,0 +171,4 @@\n+    if (_lock == nullptr) {\n+        vm_exit_out_of_memory(0, OOM_MALLOC_ERROR,\n+                              \"Failed to allocate NativeHeapTrimmer_lock\");\n+    }\n","filename":"src\/hotspot\/share\/runtime\/trimNativeHeap.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
