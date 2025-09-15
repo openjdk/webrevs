@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-        int ABRT = Platform.isWindows() ? 1 : 134;\n+        int ABRT = 1;\n@@ -121,0 +121,1 @@\n+             \"-XX:-CreateCoredumpOnCrash\",\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/checked\/TestCharArrayReleasing.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
