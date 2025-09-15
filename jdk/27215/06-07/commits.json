@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename set_infinite to set_infinite_stack"},"files":[{"filename":"src\/hotspot\/share\/opto\/matcher.cpp"},{"filename":"src\/hotspot\/share\/opto\/regmask.hpp"},{"filename":"test\/hotspot\/gtest\/opto\/test_regmask.cpp"}],"sha":"79ebf2c34b4c0b652d772212ea61097c9c87542a"}]
