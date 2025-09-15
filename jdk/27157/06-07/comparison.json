@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,1 @@\n-            applyInsets(rect, insets, ture);\n+            applyInsets(rect, insets, true);\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/java\/swing\/SwingUtilities3.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
