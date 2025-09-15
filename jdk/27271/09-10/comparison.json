@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1048,1 +1048,1 @@\n-                rb = BigInteger.ONE.shiftLeft(exponent).multiply(compactVal);\n+                rb = BigInteger.valueOf(compactVal).shiftLeft(exponent);\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
