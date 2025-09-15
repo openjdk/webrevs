@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -517,1 +517,0 @@\n-  bool is_abstract() const { return _access_flags.is_abstract(); }\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
