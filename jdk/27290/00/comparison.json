@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1386,3 +1386,1 @@\n-    if (nworkers > 1) {\n-      Threads::change_thread_claim_token();\n-    }\n+    Threads::change_thread_claim_token();\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
