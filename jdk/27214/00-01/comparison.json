@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,2 @@\n-                testFailed = (af[i].lw.focusCounter > 1);\n+                testFailed |= (af[i].lw.focusCounter > 1);\n+                System.out.println(\"testFailed \" + testFailed);\n","filename":"test\/jdk\/java\/awt\/Focus\/ActivateFocusTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
