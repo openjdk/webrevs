@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8367789: Use load-acquire instead of load\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/jniFastGetField_aarch64.cpp"}],"sha":"7b6ce7e4ebc2a42842d940cd890a798b1c4eee76"}]
