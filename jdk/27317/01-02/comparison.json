@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,0 +97,1 @@\n+            resume(t2);\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/SelfSuspendDisablerTest\/SelfSuspendDisablerTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
