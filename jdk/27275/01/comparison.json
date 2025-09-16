@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -166,1 +166,1 @@\n-    _lock(new (std::nothrow) PaddedMonitor(Mutex::nosafepoint, \"NativeHeapTrimmer_lock\")),\n+    _lock(new PaddedMonitor(Mutex::nosafepoint, \"NativeHeapTrimmer_lock\")),\n","filename":"src\/hotspot\/share\/runtime\/trimNativeHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
