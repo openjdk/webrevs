@@ -1,0 +1,1 @@
+[{"commit":{"message":"@vnkozlov review -- print warning only if -XX:+AOTClassLinking is set in command-line"},"files":[{"filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp"}],"sha":"f9c7f9a6517c899234cdd7ad1740ca76bcd0d09a"}]
