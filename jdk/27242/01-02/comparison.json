@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -760,0 +760,1 @@\n+    assert(FLAG_IS_CMDLINE(AOTClassLinking), \"should not be set ergonomically\");\n","filename":"src\/hotspot\/share\/cds\/cdsConfig.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
