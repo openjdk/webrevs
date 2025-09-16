@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -463,1 +463,1 @@\n-    private static final long HKEY_CURRENT_USER =0x80000001L;\n+    private static final long HKEY_CURRENT_USER = 0x80000001L;\n","filename":"src\/java.base\/windows\/classes\/java\/io\/WinNTFileSystem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
