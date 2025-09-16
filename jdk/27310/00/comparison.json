@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -451,0 +451,5 @@\n+    if (n->adr_type() != nullptr) {\n+      stringStream adr_type_stream;\n+      n->adr_type()->dump_on(&adr_type_stream);\n+      print_prop(\"adr_type\", adr_type_stream.freeze());\n+    }\n","filename":"src\/hotspot\/share\/opto\/idealGraphPrinter.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
