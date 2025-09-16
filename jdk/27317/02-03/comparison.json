@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @notest id=no-vmcontinuations\n+ * @test id=no-vmcontinuations\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/SelfSuspendDisablerTest\/SelfSuspendDisablerTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
