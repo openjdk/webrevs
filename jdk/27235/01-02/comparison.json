@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,2 @@\n+  ShenandoahTracer() : GCTracer(Shenandoah) {}\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahTrace.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
