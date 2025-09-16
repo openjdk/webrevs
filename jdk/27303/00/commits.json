@@ -1,0 +1,1 @@
+[{"commit":{"message":"8367719: Refactor JNI code that uses class_to_verify_considering_redefinition()"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.hpp"}],"sha":"e9d9546a9357832f842aa21552da5e8380a7c304"}]
