@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update trimNativeHeap.cpp\n\nremove std::nothrow and rely on the default new handling"},"files":[{"filename":"src\/hotspot\/share\/runtime\/trimNativeHeap.cpp"}],"sha":"8e2df85f41fb13075e3da7e06645d6e62a15f3ca"}]
