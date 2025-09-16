@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -227,0 +227,1 @@\n+    JNU_CHECK_EXCEPTION(env);\n","filename":"src\/java.base\/aix\/native\/libjava\/ProcessHandleImpl_aix.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
