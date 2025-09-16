@@ -1,0 +1,1 @@
+[{"commit":{"message":"8367782: VerifyJarEntryName.java: Fix modifyJarEntryName to operate on bytes and re-introduce verifySignatureEntryName"},"files":[{"filename":"test\/jdk\/sun\/security\/tools\/jarsigner\/VerifyJarEntryName.java"}],"sha":"883bbaa352f876aeb7c0a9542194a087b62c2d5b"}]
