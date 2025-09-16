@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-            while(!isSuspended(t1)) {\n+            while(!isSuspended(t1) && !isSuspended(t2)) {\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/SelfSuspendDisablerTest\/SelfSuspendDisablerTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
