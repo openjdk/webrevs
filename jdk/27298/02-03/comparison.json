@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-        if (etype != null && etype.startsWith(\"dec\")) {\n+        if (etype != null && etype.startsWith(\"des-cbc-\")) {\n","filename":"test\/jdk\/sun\/security\/krb5\/auto\/KvnoNA.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
