@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -255,1 +255,0 @@\n-  bool fix_relocations() const { return _fix_relocations; }\n","filename":"src\/hotspot\/share\/memory\/iterator.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
