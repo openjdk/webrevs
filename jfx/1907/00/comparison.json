@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,0 +193,2 @@\n+                \/\/ Webkit recomends minimum timeout value should be 10\n+                if (timeout < 10) timeout = 10;\n","filename":"modules\/javafx.web\/src\/test\/java\/test\/javafx\/scene\/web\/MiscellaneousTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
