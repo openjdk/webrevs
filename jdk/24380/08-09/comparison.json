@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-            \/\/ Backslashes not preceeding a quote is copied without escaping\n+            \/\/ Backslashes not preceeding a quote are copied without escaping\n","filename":"src\/java.base\/windows\/native\/launcher\/relauncher.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
