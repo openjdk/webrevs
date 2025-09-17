@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -230,1 +230,2 @@\n-    assert(other._tree.copy_into(_tree), \"VMATree dies on OOM\");\n+    bool success = other._tree.copy_into(_tree);\n+    assert(success, \"VMATree dies on OOM\");\n","filename":"src\/hotspot\/share\/nmt\/vmatree.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
