@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -0,0 +1,1 @@\n+# Now also change build system\n","filename":"make\/Main.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"},{"patch":"@@ -0,0 +1,2 @@\n+\/\/ I AM CHANGING HOTSPOT\n+\n","filename":"src\/hotspot\/share\/utilities\/pair.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
