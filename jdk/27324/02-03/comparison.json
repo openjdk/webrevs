@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,1 +354,4 @@\n- * Returns the value of the registry key HKEY_CURRENT_USER\\Network\\<drive>,\n+ * Returns the value of the registry key\n+ *\n+ * HKEY_CURRENT_USER\\Network\\<drive>\\RemotePath\n+ *\n","filename":"src\/java.base\/windows\/native\/libjava\/WinNTFileSystem_md.c","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
