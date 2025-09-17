@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -855,1 +855,1 @@\n-        AC_MSG_ERROR([GCC < 5 is known to lead to incorrect compilation on aarch64. See JDK-8360869.])\n+        AC_MSG_ERROR([GCC < 5 may incorrectly compile HotSpot on aarch64. See JDK-8360869.])\n","filename":"common\/autoconf\/toolchain.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
