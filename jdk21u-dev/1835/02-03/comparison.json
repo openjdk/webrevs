@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-            out.shouldNotContain(\"[warning]\");\n+            out.shouldNotContain(\"obstructed by another class with the same name\");\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/customLoader\/RegUnregSuperTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
