@@ -1,0 +1,1 @@
+[{"commit":{"message":"reduce fixed_latency(100) to fixed_latency(30) for calls\/traps on ARM, PPC, RISC-V, X86"},"files":[{"filename":"src\/hotspot\/cpu\/arm\/arm.ad"},{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"src\/hotspot\/cpu\/x86\/x86_64.ad"}],"sha":"16d28c6d2623558bf4a201717eb51789fedc66d6"}]
