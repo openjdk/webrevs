@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert JFR changes from JDK-8338526 also."},"files":[{"filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/traceid\/jfrTraceIdKlassQueue.cpp"}],"sha":"c333b8a1edc21085d4a18c33a4c0c4a70ede5f31"}]
