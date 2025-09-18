@@ -1,0 +1,1 @@
+[{"commit":{"message":"8367989: Remove InstanceKlass::allocate_objArray"},"files":[{"filename":"src\/hotspot\/share\/memory\/oopFactory.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"},{"filename":"src\/hotspot\/share\/oops\/objArrayKlass.hpp"}],"sha":"e1680b1cdd80a8a319f8bdbc8453162aaf019b72"}]
