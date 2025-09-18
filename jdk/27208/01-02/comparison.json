@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -215,1 +215,1 @@\n-  \/\/ in a slice, we will find it first, and the loads and stres afterwards.\n+  \/\/ in a slice, we will find it first, and the loads and stores afterwards.\n","filename":"src\/hotspot\/share\/opto\/vectorization.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
