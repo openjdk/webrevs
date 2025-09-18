@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @run main compiler.igvn.ExpressionFuzzer\n+ * @run main -XX:+IgnoreUnrecognizedVMOptions -XX:CompileTaskTimeout=10000 compiler.igvn.ExpressionFuzzer\n","filename":"test\/hotspot\/jtreg\/compiler\/igvn\/ExpressionFuzzer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
