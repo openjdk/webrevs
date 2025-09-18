@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2320,2 +2320,3 @@\n-    JDI_ASSERT(node != NULL);\n-    node->pendingInterrupt = JNI_TRUE;\n+    if (node != NULL) {\n+        node->pendingInterrupt = JNI_TRUE;\n+    }\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/threadControl.c","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
