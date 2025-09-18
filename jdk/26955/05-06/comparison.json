@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -608,1 +608,1 @@\n-        lowest_start = MAX2(lowest_start, UnscaledOopHeapMax - size);\n+        lowest_start = MAX2<uintptr_t>(lowest_start, UnscaledOopHeapMax - size);\n","filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
