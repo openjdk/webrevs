@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,3 +73,1 @@\n-            EventQueue.invokeAndWait(() -> {\n-                app.dispose();\n-            });\n+            EventQueue.invokeAndWait(() -> app.dispose());\n","filename":"test\/jdk\/java\/awt\/Focus\/InitialFocusTest\/InitialFocusTest1.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
