@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,0 +85,1 @@\n+  assert(_target == JavaThread::current(), \"should be current thread\");\n@@ -88,1 +89,0 @@\n-    assert(_target == JavaThread::current(), \"should be current thread\");\n","filename":"src\/hotspot\/share\/runtime\/suspendResumeManager.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
