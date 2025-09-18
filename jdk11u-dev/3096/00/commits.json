@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 46ae1ee87152742082e6047d0556944d7ae4567d"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiClassFileReconstituter.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"},{"filename":"test\/jdk\/java\/lang\/instrument\/RetransformBigClassTest.java"}],"sha":"e5c5bf15de1e98801ed61f7240e69ae9a8019c6c"}]
