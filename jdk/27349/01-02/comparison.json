@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-    out.shouldHaveExitValue(0);\t\n+    out.shouldHaveExitValue(0);\n@@ -78,1 +78,1 @@\n-    out.shouldHaveExitValue(0);\t\n+    out.shouldHaveExitValue(0);\n","filename":"test\/hotspot\/jtreg\/gc\/g1\/TestHeapResizeAfterGC.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
