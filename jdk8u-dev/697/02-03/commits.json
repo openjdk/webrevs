@@ -1,0 +1,1 @@
+[{"commit":{"message":"generad generated-configure\n\nSkipping about 50 hunks like:\n@@ -50158,7 +50167,7 @@ ac_compiler_gnu=$ac_cv_cxx_compiler_gnu\n \/* end confdefs.h.  *\/\n\n int\n-main (void)\n+main ()\n {\n return 0;\n   ;"},"files":[{"filename":"common\/autoconf\/generated-configure.sh"}],"sha":"e06588df3b0f234c75482469b141dd0d07ec6f36"}]
