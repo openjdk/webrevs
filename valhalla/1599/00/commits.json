@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove preload of null-restricted static fields types"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/PreloadCircularityTest.java"}],"sha":"87ef8d3a8b15934d6a39fab589a687849762a3e6"}]
