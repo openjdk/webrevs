@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,0 +92,4 @@\n+  ~MemBaseline() {\n+    delete _vma_allocations;\n+  }\n+\n","filename":"src\/hotspot\/share\/nmt\/memBaseline.hpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
