@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-    byte_size_in_proper_unit(memory), proper_unit_for_byte_size(memory));\n+                       byte_size_in_proper_unit(memory), proper_unit_for_byte_size(memory));\n","filename":"src\/hotspot\/share\/gc\/shared\/gcInitLogger.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
