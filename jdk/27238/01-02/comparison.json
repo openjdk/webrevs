@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -399,1 +399,1 @@\n-          \"track how many objects and how many bytes were evacuated, and \"  \\\n+          \"tracks how many objects and how many bytes were evacuated, and \" \\\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoah_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
