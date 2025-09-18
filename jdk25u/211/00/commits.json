@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport a03302d41bb9971736d4d56381ca0cad1eb3e34b"},"files":[{"filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp"},{"filename":"src\/hotspot\/share\/memory\/memoryReserver.hpp"},{"filename":"test\/hotspot\/jtreg\/gc\/TestTransparentHugePagesHeap.java"}],"sha":"21cb3e09d8a785c6f4182e97fc3d6c8f6dcefbd8"}]
