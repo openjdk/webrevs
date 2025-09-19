@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1266,1 +1266,1 @@\n-      log_error(aot, init)(\"class %s has @AOTForceInitialize but failed to initialize\",\n+      log_error(aot, init)(\"class %s has @AOTInitialize but failed to initialize\",\n","filename":"src\/hotspot\/share\/cds\/aotMetaspace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
