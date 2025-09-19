@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,1 +239,0 @@\n-            System.out.println(\"B\");\n@@ -242,1 +241,0 @@\n-            System.out.println(\"C\");\n","filename":"hat\/core\/src\/main\/java\/hat\/callgraph\/ComputeCallGraph.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
