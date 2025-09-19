@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,1 +306,1 @@\n-    @IR(counts = {IRNode.MEM_TO_REG_SPILL_COPY, \"=4\"},\n+    @IR(counts = {IRNode.MEM_TO_REG_SPILL_COPY, \"=3\"},\n","filename":"test\/hotspot\/jtreg\/compiler\/codegen\/TestRedundantLea.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
