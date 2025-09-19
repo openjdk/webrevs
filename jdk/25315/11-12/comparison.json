@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -719,1 +719,1 @@\n-    jvms->set_endoff(sfpt_done->req()); \/\/ NB! problematic when reachability fences are present?\n+    jvms->set_endoff(sfpt_done->req());\n","filename":"src\/hotspot\/share\/opto\/macro.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
