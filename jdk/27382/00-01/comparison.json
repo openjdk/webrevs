@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -259,2 +259,0 @@\n-  bool _keepalive_nmethods;\n-\n@@ -263,1 +261,1 @@\n-      NMethodToOopClosure(cl, false \/* fix_relocations *\/) {}\n+      NMethodToOopClosure(cl, !NMethodToOopClosure::FixRelocations) {}\n","filename":"src\/hotspot\/share\/memory\/iterator.hpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
