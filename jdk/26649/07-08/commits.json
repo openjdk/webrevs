@@ -1,0 +1,1 @@
+[{"commit":{"message":"The CSR review prompted the expansion of the description of responsibilities\nof subclasses of Process to invoke `super.close()` if overriding the `close()` method."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Process.java"}],"sha":"bc79550968f3014c99c86c6f41e66ea2dcab0347"}]
