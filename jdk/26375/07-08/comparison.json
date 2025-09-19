@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,2 @@\n+#if INCLUDE_CDS_JAVA_HEAP\n+\n@@ -77,0 +79,2 @@\n+\n+#endif \/\/INCLUDE_CDS_JAVA_HEAP\n","filename":"src\/hotspot\/share\/cds\/aotOopChecker.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
