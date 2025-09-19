@@ -1,0 +1,1 @@
+[{"commit":{"message":"7904080: APIDiff does not detect javadoc (and changes to javadoc) for methods with varargs"},"files":[{"filename":"src\/share\/classes\/jdk\/codetools\/apidiff\/model\/APIReader.java"},{"filename":"test\/junit\/apitest\/APIReaderTest.java"}],"sha":"d4e7beef5bb14ea35781b7e1f819c3c54050e1fa"}]
