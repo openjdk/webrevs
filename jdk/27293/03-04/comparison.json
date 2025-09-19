@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,1 @@\n- * @requires vm.hasJFR & os.family == \"linux\" & vm.debug\n+ * @requires vm.hasJFR & os.family == \"linux\" & vm.debug & vm.flagless\n","filename":"test\/jdk\/jdk\/jfr\/event\/profiling\/TestCPUTimeSampleQueueAutoSizes.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
