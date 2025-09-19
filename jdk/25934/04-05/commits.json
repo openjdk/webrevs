@@ -1,0 +1,1 @@
+[{"commit":{"message":"Retain use of specific field in SSLConsoleLogger formatting"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLLogger.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLLogger\/DebugPropertyValuesTest.java"}],"sha":"bb0df6583d8185229b70d09ad2676c5aaff994cf"}]
