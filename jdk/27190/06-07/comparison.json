@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,0 @@\n-  assert(!thread->has_terminated(), \"Cannot get cpu time for terminated thread: %zu\", thread->osthread()->thread_id_for_printing());\n","filename":"src\/hotspot\/share\/services\/cpuTimeUsage.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
