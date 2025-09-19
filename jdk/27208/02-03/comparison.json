@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -760,1 +760,1 @@\n-\/\/ the uses of the old last memory state the the new last memory state.\n+\/\/ the uses of the old last memory state the new last memory state.\n","filename":"src\/hotspot\/share\/opto\/vtransform.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
