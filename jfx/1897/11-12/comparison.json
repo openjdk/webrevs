@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n-    public static void setUpClass() throws Exception {\n+    public static void setUpClass() {\n","filename":"modules\/javafx.base\/src\/test\/java\/test\/com\/sun\/javafx\/binding\/SelectBindingTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
