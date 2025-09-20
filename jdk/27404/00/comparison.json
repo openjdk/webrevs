@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -460,0 +460,2 @@\n+          # Optionally allow the JVM to continue after ASAN reported an error.\n+          ASAN_CFLAGS=\"$ASAN_CFLAGS -fsanitize-recover=address\"\n","filename":"make\/autoconf\/jdk-options.m4","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
