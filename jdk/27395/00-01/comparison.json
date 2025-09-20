@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -154,1 +154,1 @@\n-  return pos < l ? pos : -1;\n+  return pos < l ? checked_cast<int>(pos) : -1;\n","filename":"src\/hotspot\/share\/utilities\/stringUtils.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
