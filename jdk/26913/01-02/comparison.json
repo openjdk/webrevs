@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2537,1 +2537,1 @@\n-                if (pp.format(context, buf, effectiveOptional) == false) {\n+                if (!pp.format(context, buf, effectiveOptional)) {\n","filename":"src\/java.base\/share\/classes\/java\/time\/format\/DateTimeFormatterBuilder.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
