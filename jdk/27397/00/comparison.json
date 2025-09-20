@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n- * @run driver HeadlessMalfunctionTest\n+ * @run driver\/timeout=240 HeadlessMalfunctionTest\n","filename":"test\/jdk\/java\/awt\/Headless\/HeadlessMalfunctionTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
