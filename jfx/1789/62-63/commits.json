@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8367898: Skip StageFocusTest on Linux\"\n\nThis reverts commit c95cdcdc9cd8b3070e8076ea91234772d6a21331."},"files":[{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/stage\/StageFocusTest.java"}],"sha":"6feb43fdb57ac69be254499a88e11d6bd584ad8d"}]
