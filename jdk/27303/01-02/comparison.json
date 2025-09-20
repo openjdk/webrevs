@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2259,1 +2259,1 @@\n-\/\/ These function return JvmtiThreadState::_scratch_class if the verifier\n+\/\/ These functions return JvmtiThreadState::_scratch_class if the verifier\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
