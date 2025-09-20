@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -376,1 +376,1 @@\n-  static bool has_frame_pops(JavaThread* thread) NOT_JVMTI(return false);\n+  static bool has_frame_pops(JavaThread* thread) NOT_JVMTI_RETURN_(false);\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
