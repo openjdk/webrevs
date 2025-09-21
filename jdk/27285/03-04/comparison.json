@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-  public static void main(String[] args) {\n+  public static void main(String[] args) throws Exception{\n","filename":"test\/jdk\/jdk\/internal\/util\/TestUtfLen.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
