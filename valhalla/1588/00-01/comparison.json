@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-    \/\/ Valhalla: inline types\/arrays can't be locked\/inflating\n+    \/\/ Valhalla: inline types can not possess an object monitor\n","filename":"src\/hotspot\/share\/oops\/markWord.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
