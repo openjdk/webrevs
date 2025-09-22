@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move test that requires non-static method source, from TestLambdaOps to a new test class"},"files":[{"filename":"test\/jdk\/java\/lang\/reflect\/code\/TestLambdaOps.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/TestMethodRefLambda.java"}],"sha":"6c19a0e559f2f3c9abe43a053c73653e801aff7c"}]
