@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,0 +97,1 @@\n+    @Disabled(\"JDK-8368074\")\n@@ -108,0 +109,1 @@\n+    @Disabled(\"JDK-8368074\")\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/MenuDoubleShortcutTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
