@@ -1,0 +1,1 @@
+[{"commit":{"message":"8368331: ClassFile Signature parsing fails for type parameter with no supertype"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/SignaturesImpl.java"},{"filename":"test\/jdk\/jdk\/classfile\/SignaturesTest.java"}],"sha":"0c4c58b68f9b9078b8bc73717c5c43f6b7482884"}]
