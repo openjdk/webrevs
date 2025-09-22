@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove volatile from \"closed\" field; updates are guarded by synchronized."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Process.java"}],"sha":"e2a16fc1247c6fd2f8cce18e4b8b2f9f6c75db92"}]

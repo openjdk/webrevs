@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -172,1 +172,1 @@\n-    private volatile boolean closed;     \/\/ true if close() has been called\n+    private boolean closed;     \/\/ true if close() has been called\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Process.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
