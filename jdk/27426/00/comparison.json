@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-      LIBS_linux := $(LIBDL) $(LIBPTHREAD), \\\n+      LIBS_linux := $(LIBDL), \\\n","filename":"make\/modules\/jdk.sctp\/Lib.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
