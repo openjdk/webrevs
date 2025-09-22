@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -166,1 +166,1 @@\n-          \"Amount of pending cards allowed on the card table per GC \"       \\\n+          \"Number of pending cards allowed on the card table per GC \"       \\\n","filename":"src\/hotspot\/share\/gc\/g1\/g1_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
