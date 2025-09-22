@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update g1PeriodicGCTask.cpp\n\nDisable the functionality when os::loadavg() is not supported."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1PeriodicGCTask.cpp"}],"sha":"4ff7567c1ce6facda02e4d8606ba618e418458a3"}]
