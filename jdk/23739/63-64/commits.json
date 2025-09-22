@@ -1,0 +1,1 @@
+[{"commit":{"message":"* walulyai: remove cost_per_pending_card_ms_default array since we only use one value"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1Analytics.cpp"}],"sha":"311bb3e1d9b14a05715b54e6f69a4234dba80eca"}]
