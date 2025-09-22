@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1448,1 +1448,2 @@\n-     * infinity.\n+     * infinity. See the IEEE 754 standard for full details of its\n+     * total ordering.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Double.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
