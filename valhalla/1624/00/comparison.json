@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,1 +141,1 @@\n-    public static final int BLOCK            = 1<<20;\n+    public static final int BLOCK            = 1<<21;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Flags.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
