@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-    static final int TRIES = 10_000;\n+    static final int TRIES = 1_000;\n","filename":"test\/jdk\/java\/io\/FileDescriptor\/Sync.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
