@@ -1,0 +1,1 @@
+[{"commit":{"message":"simplify truncation function"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/share\/utilities\/stringUtils.cpp"},{"filename":"src\/hotspot\/share\/utilities\/stringUtils.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_stringUtils.cpp"}],"sha":"a7a657fb968b071664311fef3dda9b6ac9c84f47"}]
