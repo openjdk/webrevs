@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -371,1 +371,1 @@\n-                    .get(10, TimeUnit.SECONDS);\n+                    .get(30, TimeUnit.SECONDS);\n","filename":"test\/jdk\/java\/net\/httpclient\/http3\/H3MalformedResponseTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
