@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8155591 to get recent build fixes."},"files":[],"sha":"3f7699676d3919883ab207e8857d906eff09f08a"},{"commit":{"message":"Don't warn about AutoCloseable.close() itself throwing InterruptedException."},"files":[],"sha":"5953041dc443f851fb87fee4e8bed4cd4b097f19"}]
