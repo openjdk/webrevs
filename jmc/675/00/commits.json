@@ -1,0 +1,1 @@
+[{"commit":{"message":"8439: ArithmeticException thrown when plotting event count histogram with maxDuration set to 0"},"files":[{"filename":"application\/org.openjdk.jmc.flightrecorder.ui\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/ui\/views\/histogram\/HDRHistogramView.java"}],"sha":"469f134e4a6f5cf6ee44951a47a53ab880e4dad4"}]
