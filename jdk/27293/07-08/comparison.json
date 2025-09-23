@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -858,1 +858,1 @@\n-static bool JfrCPUTimeThreadSampling::set_out_of_stack_walking_enabled(bool runnable) {\n+bool JfrCPUTimeThreadSampling::set_out_of_stack_walking_enabled(bool runnable) {\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
