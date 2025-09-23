@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -741,1 +741,0 @@\n-    ShouldNotReachHere();\n@@ -751,1 +750,0 @@\n-    ShouldNotReachHere();\n@@ -761,1 +759,0 @@\n-    ShouldNotReachHere();\n@@ -771,1 +768,0 @@\n-    ShouldNotReachHere();\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
