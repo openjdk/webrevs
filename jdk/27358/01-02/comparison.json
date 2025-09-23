@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,0 +157,2 @@\n+## The LIBDL dependency on Linux is needed to dynamically access libdl symbols,\n+## which may be needed as part of resolving some standard symbols\n","filename":"make\/modules\/java.base\/Lib.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
