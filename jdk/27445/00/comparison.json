@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -480,4 +480,0 @@\n-\n-  if (FLAG_IS_DEFAULT(AlignVector)) {\n-    FLAG_SET_DEFAULT(AlignVector, AvoidUnalignedAccesses);\n-  }\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
