@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-    private static final int N_ITER = 250;\n+    private static final int N_ITER = 125;\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/classloading\/ConcurrentClassLoadingTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
