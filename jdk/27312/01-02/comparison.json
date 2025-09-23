@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,2 +181,0 @@\n-  uint groups_increment_length() const;\n-\n@@ -269,0 +267,2 @@\n+  uint groups_increment_length() const;\n+\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSet.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
