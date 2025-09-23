@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,1 @@\n+import jdk.test.lib.Utils;\n@@ -371,1 +372,1 @@\n-                    .get(10, TimeUnit.SECONDS);\n+                    .get(Utils.adjustTimeout(10), TimeUnit.SECONDS);\n","filename":"test\/jdk\/java\/net\/httpclient\/http3\/H3MalformedResponseTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
