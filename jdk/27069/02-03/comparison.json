@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,0 @@\n-    private static final String GET = \"GET\";\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ExchangeImpl.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
