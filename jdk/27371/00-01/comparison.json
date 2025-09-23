@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,0 @@\n-            robot.keyRelease(KeyEvent.VK_ALT);\n@@ -98,0 +97,1 @@\n+            robot.keyRelease(KeyEvent.VK_ALT);\n","filename":"test\/jdk\/javax\/swing\/JTabbedPane\/4624207\/bug4624207.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
