@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't set lgrp_id on Windows since we don't support NUMA there"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"d8dcd72a6c7890277424ef16a5fa854fe7775af8"}]
