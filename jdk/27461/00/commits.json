@@ -1,0 +1,1 @@
+[{"commit":{"message":"Need a lock around _ci_records access. Respect snapshot flag."},"files":[{"filename":"src\/hotspot\/share\/oops\/trainingData.hpp"}],"sha":"6fc9d856c9e6418f7d82267b092c425cdcd1480d"}]
