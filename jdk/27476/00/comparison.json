@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -138,1 +138,1 @@\n-    if ((cword & 1) != 0) {\n+    if ((cword & 0x03) != 0) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMarkBitMap.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
