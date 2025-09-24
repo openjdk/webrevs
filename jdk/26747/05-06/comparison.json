@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6018,1 +6018,0 @@\n-    addptr(count, 1 << shift);\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
