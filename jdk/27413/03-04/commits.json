@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update g1PeriodicGCTask.cpp\n\nThe periodic gc would be started the first time after detecting that loadavg is not supported."},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1PeriodicGCTask.cpp"}],"sha":"9a3f6d42f93bd03d80b8a857314c26eb9f40e253"}]
