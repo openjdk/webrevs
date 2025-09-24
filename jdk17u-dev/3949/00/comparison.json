@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+#include \"runtime\/os.hpp\"\n","filename":"src\/hotspot\/os_cpu\/linux_ppc\/thread_linux_ppc.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
