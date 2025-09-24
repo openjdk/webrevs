@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -249,0 +249,1 @@\n+  #undef DECLARE_RV_EXT_FEATURE\n@@ -269,0 +270,1 @@\n+  #undef DECLARE_RV_NON_EXT_FEATURE\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
