@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -323,0 +323,2 @@\n+        assert Double.isFinite(source);\n+\n@@ -325,2 +327,0 @@\n-        assert !fdConverter.isExceptional();\n-\n","filename":"src\/java.base\/share\/classes\/java\/text\/DigitList.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
