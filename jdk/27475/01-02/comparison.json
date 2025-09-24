@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,2 @@\n-    \/\/ decimalFormat\/defaultDecimalFormat\/digitList\n+    \/\/ \"compactPatterns\", \"symbols\", \"decimalFormat\", \"defaultDecimalFormat\",\n+    \/\/ and \"digitList\"\n","filename":"test\/jdk\/java\/text\/Format\/CompactNumberFormat\/TestClone.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
