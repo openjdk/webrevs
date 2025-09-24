@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-        HttpRequest request = reqBuilder\n+        HttpRequest request = reqBuilder.copy()\n","filename":"test\/jdk\/java\/net\/httpclient\/RedirectTimeoutTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
