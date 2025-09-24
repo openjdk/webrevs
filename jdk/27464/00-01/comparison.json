@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -871,1 +871,1 @@\n-        CompiledIC_at(&iter)->clean_metadata();;\n+        CompiledIC_at(&iter)->clean_metadata();\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
