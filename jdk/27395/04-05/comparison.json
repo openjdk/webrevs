@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -487,0 +487,2 @@\n+  test_set_thread_name(\"012345678901234\",  \"012345678901234\");\n+  test_set_thread_name(\"0123456789012345\", \"0123456..012345\");\n","filename":"test\/hotspot\/gtest\/runtime\/test_os_linux.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
