@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n-#include \"gc\/shared\/strongRootsScope.hpp\"\n@@ -300,1 +299,1 @@\n-  StrongRootsScope scope(nworkers);\n+  ThreadsClaimTokenScope scope;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentMark.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
