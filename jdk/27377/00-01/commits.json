@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use Path.equals() instead of String.equals() to compare path objects"},"files":[{"filename":"src\/jdk.jpackage\/linux\/classes\/jdk\/jpackage\/internal\/LinuxDebPackager.java"}],"sha":"42f3022bc7f9fd1b58925e90dd3848ca568bac91"}]
