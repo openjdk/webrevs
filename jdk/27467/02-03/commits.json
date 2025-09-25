@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Removed relocate for post call nops\"\n\nThis reverts commit 033ecd4ab3d62c1ccc7845d8bc9e62fc6574e05d."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"304b73665f311c07a7a143e58a8139552484e5e2"}]
