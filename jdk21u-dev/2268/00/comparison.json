@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -487,0 +487,1 @@\n+        RETURN_IF_NULL(oglc->xformMatrix);\n","filename":"src\/java.desktop\/share\/native\/common\/java2d\/opengl\/OGLContext.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
