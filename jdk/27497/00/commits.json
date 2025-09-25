@@ -1,0 +1,1 @@
+[{"commit":{"message":"Convert x86 cbrt and tanh static constants from decimal literals to hex literals"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_cbrt.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_tanh.cpp"}],"sha":"0db5d6f5ceedce499489fb55245542419195d2e6"}]
