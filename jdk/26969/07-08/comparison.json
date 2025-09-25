@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -847,1 +847,1 @@\n-    public synchronized void waitForIdle(int delayValue) {\n+    public void waitForIdle(int delayValue) {\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Robot.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
