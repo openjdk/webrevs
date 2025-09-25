@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,0 @@\n-#include \"gc\/shared\/strongRootsScope.hpp\"\n@@ -486,0 +485,2 @@\n+    GCTraceTime(Debug, gc, phases) tm_m(\"Marking From Roots\", gc_timer());\n+\n","filename":"src\/hotspot\/share\/gc\/serial\/serialFullGC.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
