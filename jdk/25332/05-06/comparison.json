@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,0 +132,1 @@\n+            cpu_load = (user_diff + sys_diff) \/ delta_time;\n@@ -134,1 +135,0 @@\n-            cpu_load = (user_diff + sys_diff) \/ delta_time;\n","filename":"src\/jdk.management\/aix\/native\/libmanagement_ext\/UnixOperatingSystem.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
