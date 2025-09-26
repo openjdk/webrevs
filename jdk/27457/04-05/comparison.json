@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -688,1 +688,1 @@\n-     * Returns true if lines of a plain text thread dump containing the given text.\n+     * Returns true if lines of a plain text thread dump contain the given text.\n","filename":"test\/jdk\/com\/sun\/management\/HotSpotDiagnosticMXBean\/DumpThreads.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
