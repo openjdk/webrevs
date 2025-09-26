@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @run main\/othervm -Xcomp RacingSBThreads\n+ * @run main\/othervm\/timeout=240 -Xcomp RacingSBThreads\n","filename":"test\/jdk\/java\/lang\/StringBuilder\/RacingSBThreads.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
