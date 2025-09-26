@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid incorrect results when the preferred scale exceeds int range"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java"}],"sha":"53666c0fed1ec5f924b8a29ec7a942f0b09d2192"}]
