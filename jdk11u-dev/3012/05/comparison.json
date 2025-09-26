@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1617,1 +1617,1 @@\n-                    long nc = (UC_MASK & (c - TC_UNIT)) | (SP_MASK & pred);\n+                    long nc = (RC_MASK & c) | (TC_MASK & (c - TC_UNIT)) | (SP_MASK & pred);\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
