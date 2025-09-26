@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1856,1 +1856,1 @@\n-        BigDecimal res = createAndStripZerosToMatchScale(quot, p10, 0);\n+        BigDecimal res = createAndStripZerosToMatchScale(quot, p10, 0L);\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
