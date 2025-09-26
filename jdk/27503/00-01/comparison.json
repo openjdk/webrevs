@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -507,1 +507,1 @@\n-  \/\/ for Object_klass_is_loaded in objArrayKlassKlass::allocate_objArray_klass_impl.\n+  \/\/ for Object_klass_is_loaded in ObjArrayKlass::allocate_objArray_klass.\n","filename":"src\/hotspot\/share\/memory\/universe.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
