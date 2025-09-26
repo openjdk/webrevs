@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,0 +142,2 @@\n+                    new Pair(\"java.base\/share\/classes\/sun\/security\/util\/Password.java\",\n+                            List.of(MGR_GETSTRING)),\n","filename":"test\/jdk\/sun\/security\/util\/Resources\/Usages.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
