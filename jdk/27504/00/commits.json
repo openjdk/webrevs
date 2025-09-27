@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355631: The events might be generated after VM_DEATH event"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"b71ee9b9ae2e1fac0b69ba11166d959f3ce68239"}]
