@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -199,3 +199,0 @@\n-\n-    \/\/ Set ibus to sync mode\n-    setenv(\"IBUS_ENABLE_SYNC_MODE\", \"1\", 1);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/GlassApplication.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
