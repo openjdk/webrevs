@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove ResourceMark"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"25b6dc8713b12c2f5382bf186cf8504a3ae570e3"},{"commit":{"message":"verify_deps"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"}],"sha":"53ef41d0913e8fc2de31d351c619d74b74fbe520"}]
