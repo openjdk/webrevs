@@ -1,0 +1,1 @@
+[{"commit":{"message":"8364929: Assign unique id to each AdapterBlob stored in AOTCodeCache\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"},{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.hpp"}],"sha":"737b90888a2f06c0086e8418be49ec6f2a550f54"}]
