@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -887,1 +887,1 @@\n-                System.err.println(e);\n+                IPPPrintService.debug_println(\"Printer command error: \" + e);\n","filename":"src\/java.desktop\/unix\/classes\/sun\/print\/PrintServiceLookupProvider.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
