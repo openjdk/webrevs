@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,2 @@\n-\/**\n+\/** A class to compute exhaustiveness of set of switch cases.\n+ *\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ExhaustivenessComputer.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
