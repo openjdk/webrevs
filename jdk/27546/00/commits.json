@@ -1,0 +1,1 @@
+[{"commit":{"message":"Must not expect X86 IR if avx10_2 is not present"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/floatingpoint\/ScalarFPtoIntCastTest.java"}],"sha":"00db7b16389e7609d5c026c67f90b4e687cbff43"}]
