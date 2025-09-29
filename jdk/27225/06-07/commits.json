@@ -1,0 +1,1 @@
+[{"commit":{"message":"Assert argument of find_last_store_in_outer_loop is actually a store and make sure we return a store"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"}],"sha":"417bf39961d73de4d733ac67676ff6579a3f54e9"}]
