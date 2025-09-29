@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,0 +85,2 @@\n+     * @throws RuntimeException if the resolution runs into exceptions when\n+     *         the classDesc is supported, such as due to I\/O failures\n","filename":"src\/java.base\/share\/classes\/java\/lang\/classfile\/ClassHierarchyResolver.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
