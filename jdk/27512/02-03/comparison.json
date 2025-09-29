@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -306,1 +306,1 @@\n-  unaligned_scalar.enable_feature(MISALIGNED_FAST);\n+  unaligned_scalar.enable_feature(MISALIGNED_SCALAR_FAST);\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
