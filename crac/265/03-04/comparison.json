@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,1 +237,1 @@\n-    public void dumpProcess() throws IOException, InterruptedException {\n+    public void dumpProcess() {\n","filename":"test\/lib\/jdk\/test\/lib\/crac\/CracProcess.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
