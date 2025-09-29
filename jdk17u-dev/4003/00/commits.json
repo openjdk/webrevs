@@ -1,0 +1,1 @@
+[{"commit":{"message":"8360288: Shenandoah crash at size_given_klass in op_degenerated\n\nReviewed-by: shade"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp"}],"sha":"e658b4ad109106a2570630eb01bfc174824279b9"}]
