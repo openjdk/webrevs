@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -23,0 +23,1 @@\n+    permission java.lang.RuntimePermission \"accessClassInPackage.jdk.internal.util\";\n","filename":"src\/java.base\/share\/lib\/security\/default.policy","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
