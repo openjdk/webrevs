@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366968: Exhaustive switch expression rejected by for not covering all possible values"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ExhaustivenessComputer.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Exhaustiveness.java"}],"sha":"4cf498742ce8bd0b20af41b5db3f92e66752fc7d"}]
