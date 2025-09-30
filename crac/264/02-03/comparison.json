@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1089,1 +1089,2 @@\n-    -   `%f`: CPU features hex string\n+    -   `%f`: CPU features hex string. Empty string if the architecture does not\n+              use optional CPU features.\n","filename":"src\/java.base\/share\/man\/java.md","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
