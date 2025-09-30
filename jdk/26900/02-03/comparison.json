@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,2 @@\n+import java.util.List;\n+import jdk.jfr.Recording;\n","filename":"test\/jdk\/jdk\/jfr\/event\/allocation\/TestObjectAllocationSampleEventInitialWeight.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
