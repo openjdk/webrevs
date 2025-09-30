@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-    static final int MinHeapSize = 100 * M;\n+    static final int MinHeapSize = 128 * M;\n","filename":"test\/hotspot\/jtreg\/gc\/g1\/TestSoftMaxHeapSize.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
