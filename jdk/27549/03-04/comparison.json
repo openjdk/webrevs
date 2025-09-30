@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -811,1 +811,1 @@\n-            return Duration.between(this, Instant.MAX).compareTo(duration) >= 0\n+            return Duration.between(this, Instant.MAX).compareTo(duration) > 0\n","filename":"src\/java.base\/share\/classes\/java\/time\/Instant.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
