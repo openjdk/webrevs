@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3014,0 +3014,1 @@\n+  assert(_id_counter == 0, \"Did not expect new AdapterHandlerEntry to be created at this stage\");\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
