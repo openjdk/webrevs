@@ -1,0 +1,1 @@
+[{"commit":{"message":"8368953\n\nHi all,\n\n  please review this trivial change to document the reason for the dirty\/clean card value selection.\n\nTesting: local compilation\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/cardTable.hpp"}],"sha":"d103feb7f1d845eb70370ccc0fa5cd8d57c13eef"}]
