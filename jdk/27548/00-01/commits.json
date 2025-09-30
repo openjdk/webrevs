@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the loop which do not use the loop variable i or do not use random number"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/TestBitCompressValueTransform.java"}],"sha":"3fabfeca28e476d58a5d9e3256ecfd59a3e8d243"}]
