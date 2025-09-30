@@ -1,0 +1,1 @@
+[{"commit":{"message":"Correct glyph bounds for glyphs with no outline"},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/font\/StandardGlyphVector.java"},{"filename":"test\/jdk\/java\/awt\/font\/GlyphVector\/GlyphMetricsTest.java"}],"sha":"516a27a0b8a07e50ef73df786e0a5635fca2e359"}]
