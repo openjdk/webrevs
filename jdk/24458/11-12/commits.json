@@ -1,0 +1,1 @@
+[{"commit":{"message":"8354383: C2: enable sinking of Type nodes out of loop\n\nReviewed-by: chagedorn, thartmann\n(cherry picked from commit a2f99fd88bd03337e1ba73b413ffe4e39f3584cf)"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"}],"sha":"2cf1da18fe9fcfe22d3a63a9bf6132307bcd91fe"}]
