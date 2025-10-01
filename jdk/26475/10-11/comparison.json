@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5444,1 +5444,1 @@\n-  Node *call = new CallLeafNode(type, call_addr, \"debug_print\", TypeRawPtr::BOTTOM);\n+  Node* call = new CallLeafNode(type, call_addr, \"debug_print\", TypeRawPtr::BOTTOM);\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
