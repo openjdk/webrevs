@@ -1,0 +1,1 @@
+[{"commit":{"message":"[hat] rollback CUDA specific scheduler"},"files":[{"filename":"hat\/backends\/ffi\/cuda\/src\/main\/native\/cpp\/cuda_backend_queue.cpp"},{"filename":"hat\/backends\/ffi\/shared\/src\/main\/native\/include\/shared.h"},{"filename":"hat\/core\/src\/main\/java\/hat\/buffer\/KernelContext.java"}],"sha":"ef1481f434a4afad2287724e60c756f6024d0cab"}]
