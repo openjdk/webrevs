@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -331,1 +331,3 @@\n-        add_init_dep(ktd);\n+        if (l.can_add()) {\n+          add_init_dep(ktd);\n+        }\n","filename":"src\/hotspot\/share\/oops\/trainingData.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
