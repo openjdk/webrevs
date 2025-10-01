@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,8 @@\n+#ifdef AIX\n+  \/\/ AIX allows reading from nullptr without signalling\n+  if (adr == nullptr) {\n+    *result = 0;\n+    return false;\n+  }\n+#endif\n+\n","filename":"src\/hotspot\/os\/posix\/safefetch_sigjmp.cpp","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
