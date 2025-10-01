@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,2 @@\n+ * @comment The check of the array allocated with raw malloc triggers ASAN as we peek into the malloc header space.\n+ * @requires !vm.asan\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/checked\/TestCharArrayReleasing.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
