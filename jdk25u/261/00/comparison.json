@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,1 +140,1 @@\n-        __ jccb(Assembler::equal, L_ok);\n+        __ jcc(Assembler::equal, L_ok);\n@@ -157,1 +157,1 @@\n-        __ jccb(Assembler::notZero, L_ok);\n+        __ jcc(Assembler::notZero, L_ok);\n","filename":"src\/hotspot\/cpu\/x86\/methodHandles_x86.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
