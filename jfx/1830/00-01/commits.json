@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' of https:\/\/github.com\/openjdk\/jfx into 8359599-refresh-recreates-all"},"files":[],"sha":"940f7cbd247161621e976ebeff47893fc755847a"},{"commit":{"message":"Calling refresh() for all virtualized controls recreates all cells instead of refreshing the cells"},"files":[],"sha":"c9843e795492a0daf71e02d46c263f265a363767"}]
