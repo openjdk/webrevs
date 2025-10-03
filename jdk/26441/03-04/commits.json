@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8355354: continue with other inlines after stress triggers repeated late inlining"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"62afa84a21eaf1a6cc4033fdbe02d8fbe4370343"}]
