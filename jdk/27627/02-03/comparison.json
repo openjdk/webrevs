@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1054,3 +1054,0 @@\n-     * @throws IllegalArgumentException if computing either\n-     *         {@code location.x + w} or\n-     *         {@code location.y + h} results in integer overflow\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/Raster.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
