@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1057,0 +1057,3 @@\n+     * @throws RasterFormatException if computing either\n+     *         {@code location.x + w} or\n+     *         {@code location.y + h} results in integer overflow\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/Raster.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
