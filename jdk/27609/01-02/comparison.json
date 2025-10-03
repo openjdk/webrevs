@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1324,1 +1324,1 @@\n-    public static String newString(byte[] val, int index, int len) {\n+    static String newString(byte[] val, int index, int len) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringUTF16.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
