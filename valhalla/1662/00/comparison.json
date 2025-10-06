@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2697,1 +2697,1 @@\n-        set_req(i, new_in);\n+        set_req_X(i, new_in, phase->is_IterGVN());\n","filename":"src\/hotspot\/share\/opto\/cfgnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
