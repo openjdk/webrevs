@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-\/\/ on all all processors, accesses to memory operands of wordSize and\n+\/\/ on all processors, accesses to memory operands of wordSize and\n","filename":"src\/hotspot\/share\/gc\/shared\/c1\/barrierSetC1.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
