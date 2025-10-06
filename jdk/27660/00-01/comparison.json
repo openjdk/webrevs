@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -866,1 +866,1 @@\n-     * Generates the hash code for the SimpleDateFormat object.\n+     * Generates the hash code for the SimpleTimeZone object.\n","filename":"src\/java.base\/share\/classes\/java\/util\/SimpleTimeZone.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
