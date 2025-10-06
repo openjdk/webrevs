@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -295,0 +295,2 @@\n+                \/\/ Graphics clinits may run, force headless mode\n+                \"-Djava.awt.headless=true\",\n","filename":"test\/hotspot\/jtreg\/testlibrary\/ctw\/src\/sun\/hotspot\/tools\/ctw\/CtwRunner.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
