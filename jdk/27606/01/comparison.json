@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -313,0 +313,4 @@\n+        } finally {\n+            \/\/ Finished testing; release memory to avoid OOM.\n+            runnables.clear();\n+            threads.clear();\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/runner\/ThreadsRunner.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
