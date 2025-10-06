@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5399,0 +5399,1 @@\n+          assert(!n->is_MultiBranch(), \"unexpected node type: %s\", n->Name());\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
