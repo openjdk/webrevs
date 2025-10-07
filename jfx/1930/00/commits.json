@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8365576: Temporarily make Metal the default JavaFX rendering pipeline for macOS\"\n\nThis reverts commit fa2127cb3a3fc11238c5c8ce4cf0d15c4000f05c."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/impl\/PrismSettings.java"}],"sha":"480fe7a22e59ef606c138a5ef37862465d042923"}]
