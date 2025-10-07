@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove set_capacity() scaffolding from shenandoahOldGeneration.hpp"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.hpp"},{"filename":"test\/hotspot\/gtest\/gc\/shenandoah\/test_shenandoahOldHeuristic.cpp"}],"sha":"5277bc1c94f851267daa80d7b6fef3f18f939281"}]
