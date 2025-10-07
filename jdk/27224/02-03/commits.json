@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert MaxRAM default removals, defer to future enhancement"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_globals_x86.hpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"2304c6aa481b66b853ac23d2367685c452b579d7"}]
