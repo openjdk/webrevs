@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-                System.err.println(\"Actual : \" + size);\n+                System.err.println(\"Actual: \" + size);\n","filename":"test\/jdk\/java\/awt\/color\/ICC_Profile\/SerializedFormSize.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
