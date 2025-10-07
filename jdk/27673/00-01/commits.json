@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cannot allocate for Thread::name + adjust debug levels"},"files":[{"filename":"src\/hotspot\/share\/runtime\/safepoint.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/SafepointTest.java"}],"sha":"2270022432f0c651782270a0af1c8f937d5cda5f"}]
