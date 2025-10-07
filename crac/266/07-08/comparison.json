@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+#include \"memory\/resourceArea.hpp\"\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
