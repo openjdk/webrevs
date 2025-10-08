@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -405,1 +405,1 @@\n-  assert(!decode(i1, i2), \"already patched\");\n+  assert(!decode(i1, i2) || NMethodRelocation, \"already patched\");\n","filename":"src\/hotspot\/cpu\/ppc\/nativeInst_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Expect already patched NativePostCallNop with NMethodRelocation"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/nativeInst_ppc.cpp"}],"sha":"827c3eef7e6264a413336031019e0fb85ccc31cc"}]
