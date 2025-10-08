@@ -1,0 +1,1 @@
+[{"commit":{"message":"Get rid of USE_ITERATE_THROUGH_HEAP support"},"files":[{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/debugInit.c"},{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.c"},{"filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/util.h"}],"sha":"94429a50883b6c6bfe99bd4c4db9006da1678077"}]
