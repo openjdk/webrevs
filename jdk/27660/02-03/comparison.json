@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-    void withOutDSTTest() {\n+    void withoutDSTTest() {\n","filename":"test\/jdk\/java\/util\/TimeZone\/SimpleTimeZoneEqualsHashCodeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
