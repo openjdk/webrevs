@@ -1,0 +1,1 @@
+[{"commit":{"message":"8356047: [macos] jpackage produces confusing post- and pre- installation PKG scripts [v8]"},"files":[{"filename":"src\/jdk.jpackage\/macosx\/classes\/jdk\/jpackage\/internal\/MacPkgPackager.java"},{"filename":"src\/jdk.jpackage\/unix\/classes\/jdk\/jpackage\/internal\/PackageScripts.java"}],"sha":"f3a0672dd9b54ccacbbfd808ab96dd303b9333f5"}]
