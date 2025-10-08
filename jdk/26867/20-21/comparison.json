@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,1 +114,1 @@\n-  virtual size_t used() const = 0;\n+  virtual size_t used() const override = 0;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
