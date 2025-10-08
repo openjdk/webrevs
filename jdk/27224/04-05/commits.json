@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make limit_by_size_t_max to a static function in arguments.cpp"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"b46d124ea518754690828368b356b78d9f9f3742"}]
