@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,0 +61,1 @@\n+    SuspendibleThreadSetJoiner joiner;\n@@ -98,0 +99,1 @@\n+    SuspendibleThreadSetJoiner joiner;\n@@ -125,0 +127,1 @@\n+  SuspendibleThreadSetLeaver leaver;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRegulatorThread.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}

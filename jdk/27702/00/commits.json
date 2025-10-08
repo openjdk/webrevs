@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'jdk\/master' into suspend-regulator-thread"},"files":[],"sha":"a721d407163854d08eedf977b53eeed1e53d8347"},{"commit":{"message":"Suspend regulator thread during safepoints"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRegulatorThread.cpp"}],"sha":"fdcd823366b4057e4efcdd8192ab4db5ad118b2e"}]
