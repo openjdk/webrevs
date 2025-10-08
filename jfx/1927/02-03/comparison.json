@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,2 +43,0 @@\n-        } else {\n-            return @\"\";\n@@ -46,0 +44,1 @@\n+        return @\"\";\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/a11y\/JFXMenuItemAccessibility.m","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
