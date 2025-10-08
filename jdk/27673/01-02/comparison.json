@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -261,1 +261,1 @@\n-      log_trace(safepoint)(\"Waiting for threads to block\");\n+      log_trace(safepoint)(\"Waiting for %d threads to block\", still_running);\n","filename":"src\/hotspot\/share\/runtime\/safepoint.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
