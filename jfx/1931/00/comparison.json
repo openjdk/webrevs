@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -488,0 +488,1 @@\n+        disposeLCDBuffer();\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/mtl\/MTLContext.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
