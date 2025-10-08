@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,1 +281,2 @@\n-        jdk.naming.dns;\n+        jdk.naming.dns,\n+        jdk.httpserver;\n","filename":"src\/java.base\/share\/classes\/module-info.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
