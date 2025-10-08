@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1039,1 +1039,1 @@\n-  product(bool, EnhanceErrorWarningLogging, false,                          \\\n+  product(bool, EnhanceErrorWarningLogging, false, DIAGNOSTIC,              \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
