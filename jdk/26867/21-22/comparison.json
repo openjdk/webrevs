@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,1 @@\n-  virtual size_t max_capacity() const = 0;\n+  virtual size_t max_capacity() const override = 0;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGeneration.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
