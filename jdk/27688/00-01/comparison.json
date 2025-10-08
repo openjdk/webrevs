@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -191,1 +191,0 @@\n-- `-DExcludeRandom=true`: Randomly exclude some methods from compilation.\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/README.md","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
