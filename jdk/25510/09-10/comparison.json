@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,0 +81,1 @@\n+                .setPublicName(scriptName)\n","filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/ScriptRunner.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
