@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,1 @@\n+#include \"runtime\/osThread.hpp\"\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
