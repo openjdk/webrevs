@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369468: Rdtsc: Move getCPUIDBrandString_stub into VM_Version stub area"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/rdtsc_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"}],"sha":"1cd0a0693b23af982ef8e00596e3263e5e562777"}]
