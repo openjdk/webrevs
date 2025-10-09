@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -162,1 +162,1 @@\n-      inline void set_alt_canary(AltCanaryType value) { return _alt_canary = value; }\n+      inline void set_alt_canary(AltCanaryType value) { _alt_canary = value; }\n","filename":"src\/hotspot\/share\/nmt\/mallocHeader.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
