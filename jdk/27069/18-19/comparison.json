@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-        System.out.println(\"testAutoContinue()\");\n+        System.out.println(\"testManualContinue()\");\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/Send1xxResponsesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
