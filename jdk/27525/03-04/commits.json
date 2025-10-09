@@ -1,0 +1,1 @@
+[{"commit":{"message":"* use enums instead of rows of booleans to make test more understandable, from iwalulya"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestEagerReclaimHumongousRegions.java"}],"sha":"d5dcfc868362604aebe2a274754706a137cf83be"}]
