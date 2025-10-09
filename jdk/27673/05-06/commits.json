@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not bother changing the existing logging wording for \"initiated\""},"files":[{"filename":"src\/hotspot\/share\/runtime\/safepoint.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/SafepointTest.java"}],"sha":"cccd8a327d55fa7c50a646b600ce5e6c927f4e0f"}]
