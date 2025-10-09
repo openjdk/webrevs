@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369482: JVMTI + Loom: JDK-8368159 introduced safepoint poll in disallowed state"},"files":[{"filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp"}],"sha":"e133d9b73125ea907111a2a869ed824aca9bfa3d"}]
