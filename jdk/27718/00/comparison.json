@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -287,1 +287,3 @@\n-      os::_exit(3); \/\/ quick exit with no cleanup hooks run\n+      \/\/ Gracefully exit with no cleanup hooks run.\n+      before_exit(JavaThread::current(), \/* halt = *\/ true);\n+      vm_exit(3);\n","filename":"src\/hotspot\/share\/utilities\/debug.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
