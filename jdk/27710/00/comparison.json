@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-    JavaThread::current()->sleep(FT_SLEEP_MILLISECS);\n+    os::naked_short_sleep(FT_SLEEP_MILLISECS);\n","filename":"src\/hotspot\/cpu\/x86\/rdtsc_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
