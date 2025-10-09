@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-  const TypeInt* tint = t->isa_int();\n+  const TypeInt* tint = t->is_int();\n@@ -155,1 +155,1 @@\n-  const TypeLong* tlong = t->isa_long();\n+  const TypeLong* tlong = t->is_long();\n","filename":"src\/hotspot\/share\/opto\/countbitsnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
