@@ -1,0 +1,1 @@
+[{"commit":{"message":"8356047: [macos] jpackage produces confusing post- and pre- installation PKG scripts [v13]"},"files":[{"filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/OverridableResource.java"},{"filename":"test\/jdk\/tools\/jpackage\/macosx\/PkgScriptsTest.java"}],"sha":"13a95a5b59c40b8422b75cc417c608383279fdb6"}]
