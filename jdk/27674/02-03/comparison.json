@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-#include <stdint.h> \/\/ For uint_XX_t types used in statx support\n+#include <stdint.h> \/\/ For uintXX_t types used in statx support\n","filename":"src\/java.base\/unix\/native\/libnio\/fs\/UnixNativeDispatcher.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
