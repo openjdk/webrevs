@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -811,1 +811,0 @@\n-  oop from_class = JNIHandles::resolve(caller);\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
