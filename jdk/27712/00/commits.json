@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369469: Rdtsc: Remove potential races in Rdtsc::initialize"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/rdtsc_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/rdtsc_x86.hpp"},{"filename":"src\/hotspot\/share\/jfr\/utilities\/jfrTime.cpp"},{"filename":"src\/hotspot\/share\/utilities\/ticks.cpp"}],"sha":"93e2d96aec99c11c49a211195369c5f46c4c6f07"}]
