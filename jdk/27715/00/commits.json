@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixes JDK-8369418: Add class name to KlassTrainingData aot map output"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMapLogger.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotMapLogger.hpp"}],"sha":"06c4b672b07cd80d1bcf5313b6e4c005708232ac"}]
