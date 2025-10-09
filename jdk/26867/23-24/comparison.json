@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -204,1 +204,1 @@\n-  _soft_max_size = SoftMaxHeapSize;\n+  _soft_max_size = clamp(SoftMaxHeapSize, min_capacity(), max_capacity());\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
