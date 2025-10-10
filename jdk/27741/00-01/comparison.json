@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -429,4 +429,0 @@\n-\n-  # Otherwise optimistically use the system-wide one, if one is present\n-  UTIL_ADD_JVM_ARG_IF_OK([-Xshare:auto],boot_jdk_jvmargs,[$JAVA])\n-\n","filename":"make\/autoconf\/boot-jdk.m4","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
