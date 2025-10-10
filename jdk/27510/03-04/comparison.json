@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,1 +171,1 @@\n-  if (FLAG_IS_DEFAULT(UseUnalignedAccesses) && unaligned_access.enabled()) {\n+  if (FLAG_IS_DEFAULT(UseUnalignedAccesses)) {\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
