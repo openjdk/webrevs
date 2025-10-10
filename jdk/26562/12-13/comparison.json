@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -517,0 +517,2 @@\n+  MACOS_AARCH64_ONLY(os::thread_wx_enable_write());\n+\n@@ -546,0 +548,2 @@\n+  MACOS_AARCH64_ONLY(os::thread_wx_enable_write());\n+\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
