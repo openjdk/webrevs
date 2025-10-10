@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -333,0 +333,2 @@\n+            Assert.checkNonNull(c, \"Failed to create annotation\");\n+\n@@ -340,2 +342,0 @@\n-            Assert.checkNonNull(c, \"Failed to create annotation\");\n-\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Annotate.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
