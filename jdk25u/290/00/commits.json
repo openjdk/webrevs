@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 4bc86a26db1eb3d054d80c9759fe04686e1e36b3"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/events\/MethodTraceEvent.java"},{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/tracing\/MethodTracer.java"},{"filename":"test\/jdk\/jdk\/jfr\/event\/tracing\/TestMethodTrace.java"}],"sha":"b3e5db3b02cfe811f7cd5861117444ea5f177eb8"}]
