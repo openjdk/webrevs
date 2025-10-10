@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -631,0 +631,7 @@\n+\n+  if (TraceWXHealing) {\n+    tty->print_cr(\"### TraceWXHealing is in use\");\n+  }\n+  if (StressWXHealing) {\n+    tty->print_cr(\"### StressWXHealing is in use\");\n+  }\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":7,"deletions":0,"binary":false,"changes":7,"status":"modified"}]}
