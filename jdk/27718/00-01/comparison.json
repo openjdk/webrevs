@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -287,1 +287,1 @@\n-      \/\/ Gracefully exit with no cleanup hooks run.\n+      \/\/ Gracefully exit with no cleanup hooks run - just like JVM_Halt\n","filename":"src\/hotspot\/share\/utilities\/debug.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
