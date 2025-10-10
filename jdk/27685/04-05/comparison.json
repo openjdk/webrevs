@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,0 +168,4 @@\n+  if (MemTracker::enabled()) {\n+    tty->print_cr(\"skipped.\");\n+    return;\n+  }\n","filename":"test\/hotspot\/gtest\/nmt\/test_nmt_buffer_overflow_detection.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
