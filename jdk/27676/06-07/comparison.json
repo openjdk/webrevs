@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2363,1 +2363,1 @@\n-  Label Lresolved, Lclinit_barrier_slow;\n+  Label Lclinit_barrier_slow, Ldone;\n","filename":"src\/hotspot\/cpu\/s390\/templateTable_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

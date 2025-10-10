@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix s390 compilation failure\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/s390\/templateTable_s390.cpp"}],"sha":"4eb89b8b0783370690dd21e1f97b1f40dcc86e5c"}]
