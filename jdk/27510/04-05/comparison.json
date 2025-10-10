@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,0 +95,2 @@\n+  product(bool, AvoidUnalignedAccesses, true,                                    \\\n+          \"Avoid generating unaligned memory accesses\")                          \\\n","filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
