@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,0 +95,4 @@\n+\n+            \/\/ Found one TestNativeWrapperCollection.method, exactly one is\n+            \/\/ expected\n+            foundOne = true;\n","filename":"test\/hotspot\/jtreg\/gc\/NativeWrapperCollection\/TestNativeWrapperCollection.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
