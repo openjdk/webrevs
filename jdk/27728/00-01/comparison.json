@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -274,1 +274,1 @@\n-        senderForUpcallStub(map, (UpcallStub)cb);\n+        return senderForUpcallStub(map, (UpcallStub)cb);\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/x86\/X86Frame.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
