@@ -1,0 +1,1 @@
+[{"commit":{"message":"The fix and unit test for session resumption case"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/DTLSInputRecord.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/DTLS\/DTLSOverDatagram.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/DTLS\/PacketLossRetransmission.java"}],"sha":"5d34fd5c111c040a2680a120c5ae95a5be903f1a"}]
