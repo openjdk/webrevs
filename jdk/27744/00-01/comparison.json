@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -473,1 +473,0 @@\n-#if INCLUDE_CDS\n@@ -475,1 +474,0 @@\n-#endif\n","filename":"src\/hotspot\/share\/oops\/trainingData.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
