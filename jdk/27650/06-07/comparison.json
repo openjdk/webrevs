@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,1 +268,1 @@\n-      [masked_compare_value]   \"r\"     (masked_compare_value),\n+      [masked_compare_val]     \"r\"     (masked_compare_val),\n","filename":"src\/hotspot\/cpu\/ppc\/atomicAccess_ppc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
