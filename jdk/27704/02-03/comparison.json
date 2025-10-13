@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1179,1 +1179,1 @@\n-  phase->set_ctrl(identity, phase->C->root());\n+  phase->set_root_as_ctrl(identity);\n","filename":"src\/hotspot\/share\/opto\/vtransform.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
