@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -434,1 +434,1 @@\n-\/\/  get_field_type_by_offset(field_offset, is_static)->layout_type()\n+\/\/  get_field_by_offset(field_offset, is_static)->layout_type()\n","filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
