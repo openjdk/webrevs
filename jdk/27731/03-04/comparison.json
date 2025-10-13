@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1,2 +0,0 @@\n-package compiler.loopopts;\n-\n@@ -26,0 +24,2 @@\n+package compiler.loopopts;\n+\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestVerifyLoopOptimizationsHitsMemLimit.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
