@@ -1,0 +1,1 @@
+[{"commit":{"message":"JavaFrameAnchor on RISCV has unnecessary barriers and wrong store order in MacroAssembler"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/javaFrameAnchor_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"004d2e040433e30e0b0c94230b6ab15a4aae2d83"}]
