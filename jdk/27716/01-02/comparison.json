@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1629,1 +1629,1 @@\n-  if (JvmtiExport::has_frame_pops(thread)) {\n+  if (!cont.entry()->is_virtual_thread() && JvmtiExport::has_frame_pops(thread)) {\n","filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
