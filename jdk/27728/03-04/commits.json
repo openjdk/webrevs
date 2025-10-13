@@ -1,0 +1,1 @@
+[{"commit":{"message":"Apply changes to RISC-V code"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/riscv64\/RISCV64Frame.java"},{"filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestJhsdbJstackMixedWithVirtualThread.java"}],"sha":"57294d7c1f85469a54f5ec6e0376fe9ebfd4334f"}]
