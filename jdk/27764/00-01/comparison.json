@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -166,1 +166,3 @@\n-  assert(bucket_idx < table_size, \"Invalid bucket index\");\n+  if (bucket_idx >= table_size) {\n+    return nullptr;\n+  }\n","filename":"src\/hotspot\/share\/nmt\/mallocSiteTable.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
