@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,1 @@\n+import java.util.function.Supplier;\n","filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/Executor.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
