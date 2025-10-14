@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-                    \tassertEquals(-1, msg.getRequestBody().read());\n+                        assertEquals(-1, msg.getRequestBody().read());\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/SwitchingProtocolTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
