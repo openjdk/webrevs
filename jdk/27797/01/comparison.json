@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -385,1 +385,1 @@\n-    public String toString() {\n+    public void testToString() {\n@@ -387,1 +387,0 @@\n-        return EMPTY_STRING;\n","filename":"test\/jdk\/java\/io\/File\/EmptyPath.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
