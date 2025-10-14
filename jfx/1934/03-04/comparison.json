@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,0 +94,1 @@\n+        \/\/ This is only accessed on the event thread\n@@ -95,0 +96,1 @@\n+\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/headless\/NestedRunnableProcessor.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
