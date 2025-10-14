@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8369312: Refactor Float.toHexString() to avoid use of regex"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Float.java"},{"filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/Float16.java"}],"sha":"1ca4668f0bde5d0794ad8a8233831ec51e6c2f92"}]
