@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369793\n\nHi all,\n\n  please review this trivial removal of the unused `G1FreeIdSet` code. JEP 522 made it obsolete.\n\nTesting: local compilation, gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1FreeIdSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1FreeIdSet.hpp"}],"sha":"0850d7d9e255aefd127452e41775f6465210f40c"}]
