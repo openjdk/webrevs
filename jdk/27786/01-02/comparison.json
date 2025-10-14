@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,1 +192,0 @@\n-    DISABLED_WARNINGS_gcc_g1FreeIdSet.cpp := unused-const-variable, \\\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
