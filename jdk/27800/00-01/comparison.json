@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5138,1 +5138,1 @@\n-    public void testJoinOnlyAssistsIfInTheSamePool() throws Exception{\n+    public void testOnlyAssistsIfInTheSamePool() throws Exception{\n","filename":"test\/jdk\/java\/util\/concurrent\/tck\/CompletableFutureTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
