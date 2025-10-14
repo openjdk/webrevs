@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369511: PPC64: compiler\/vectorapi\/VectorMaskCompareNotTest.java fails when running without VectorRegisters"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorMaskCompareNotTest.java"},{"filename":"test\/jtreg-ext\/requires\/VMProps.java"}],"sha":"3041e656cef23941c019c838844c737f7837a1e8"}]
