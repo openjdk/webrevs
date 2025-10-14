@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,1 +173,1 @@\n-  *(p -1) = 0;\n+  *(p - 1) = 0;\n","filename":"test\/hotspot\/gtest\/nmt\/test_nmt_buffer_overflow_detection.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
