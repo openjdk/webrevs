@@ -1,0 +1,1 @@
+[{"commit":{"message":"move dependency checks into RVExtFeatureValue"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"}],"sha":"8da2ee7d49c2f6cfdb65b9ffbe7e61410597a852"},{"commit":{"message":"only verify_deps when debug"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"}],"sha":"a2bdd9230c998fa79b227016431c81fd1990284d"}]
