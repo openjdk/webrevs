@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -626,0 +626,2 @@\n+\n+  ResourceMark rm;\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

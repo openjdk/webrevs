@@ -1,0 +1,1 @@
+[{"commit":{"message":"8368940\n\nHi all,\n\n  please review this simple fix to add a `ResourceMark` when printing the thread's name when waiting for shutdown.\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp"}],"sha":"84026a2edf706a56c1925ed3677654a506727f19"}]
