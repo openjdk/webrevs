@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -175,1 +175,1 @@\n-#ifndef PRODUCT\n+#ifdef ASSERT\n@@ -195,1 +195,1 @@\n-#endif \/\/ PRODUCT\n+#endif \/\/ ASSERT\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
