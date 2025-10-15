@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1369,1 +1369,1 @@\n-            Array.get(null,0);\n+            Array.getLength(null);\n","filename":"test\/hotspot\/jtreg\/runtime\/exceptionMsgs\/NullPointerException\/NullPointerExceptionTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
