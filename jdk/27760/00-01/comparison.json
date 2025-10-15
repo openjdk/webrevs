@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-        frame = new Frame();\n+        frame = new Frame(\"SelectBetweenPressRelease\");\n","filename":"test\/jdk\/java\/awt\/Choice\/SelectBetweenPressRelease.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
