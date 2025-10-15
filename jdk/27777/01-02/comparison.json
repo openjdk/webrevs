@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -383,1 +383,1 @@\n-                                        JvmtiCachedClassFileData **cache_ptr) NOT_JVMTI_RETURN_(false);\n+                                        JvmtiCachedClassFileData **cache_ptr) NOT_JVMTI_RETURN;\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
