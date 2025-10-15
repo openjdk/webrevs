@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,0 +42,1 @@\n+ * @comment Temporarily exclude on Musl-C debug until JDK-8366133 is fixed.\n","filename":"test\/hotspot\/jtreg\/runtime\/Monitor\/MonitorWithDeadObjectTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
