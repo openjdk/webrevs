@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -228,0 +228,1 @@\n+errorMsg=\"Bitmap mismatch for tag cpu.features\"\n@@ -308,1 +309,0 @@\n-errorMsg=\"Bitmap mismatch for tag cpu.features\"\n","filename":"test\/jdk\/jdk\/crac\/CPUFeatures\/CPUFeatures.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
