@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove whitespace"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/javaFrameAnchor_ppc.hpp"}],"sha":"251763d2e657f1fbc074cd3d837553614adc5fae"},{"commit":{"message":"8369444: JavaFrameAnchor on PPC64 has unnecessary barriers"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/javaFrameAnchor_ppc.hpp"}],"sha":"cb5bbe385488b95c6d6eeacac791825f7d96e6ce"}]
