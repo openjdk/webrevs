@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1096,1 +1096,1 @@\n-                () ->  new Builder().addUnicodeLocaleAttribute(null), \"null attribute\");\n+                () -> new Builder().addUnicodeLocaleAttribute(null), \"null attribute\");\n","filename":"test\/jdk\/java\/util\/Locale\/LocaleEnhanceTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
