@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n- * @requires os.family != \"windows\" & os.family != \"aix\" & ( !vm.musl | !vm.debug )\n+ * @requires os.family != \"windows\" & os.family != \"aix\" & (!vm.musl | !vm.debug)\n","filename":"test\/hotspot\/jtreg\/runtime\/Monitor\/MonitorWithDeadObjectTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
