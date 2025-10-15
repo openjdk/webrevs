@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace STATIC_ASSERT with static_assert\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/utilities\/unalignedAccess.hpp"}],"sha":"b5ee743c01c9e927820597a0a5ab19c61c03ce70"}]
