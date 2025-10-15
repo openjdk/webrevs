@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4193,1 +4193,1 @@\n-\/\/     because they will only execute for a short time\n+\/\/     they will be handled in `IdealLoopTree::counted_loop`\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
