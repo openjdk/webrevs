@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-        } catch(Throwable t) {\n+        } catch (Throwable t) {\n@@ -83,1 +83,1 @@\n-        } catch(Exception e) {\n+        } catch (Exception e) {\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/LingeredAppWithVirtualThread.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
