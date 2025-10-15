@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n- * @requires vm.opt.final.MaxVectorSize>=16\n+ * @requires vm.opt.final.MaxVectorSize == \"null\" | vm.opt.final.MaxVectorSize >= 16\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorMaskCompareNotTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
