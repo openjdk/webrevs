@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -673,1 +673,1 @@\n-      <setting name=\"enabled\">true<\/setting>\n+      <setting name=\"enabled\">false<\/setting>\n","filename":"src\/jdk.jfr\/share\/conf\/jfr\/default.jfc","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
