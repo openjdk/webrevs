@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1879,1 +1879,1 @@\n-      \/\/ are initialized in production run, but can be non-initialized in assembly.\n+      \/\/ are initialized in production run, but they are not recorded as init dependencies.\n","filename":"src\/hotspot\/share\/ci\/ciEnv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
