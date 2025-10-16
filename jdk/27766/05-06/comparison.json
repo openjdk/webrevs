@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,2 @@\n+    printf(\"Running jcmd command: '%s'\\n\", cmd);\n+\n@@ -53,0 +55,2 @@\n+    printf(\"Running attach command: '%s'\\n\", cmd);\n+\n","filename":"test\/hotspot\/jtreg\/serviceability\/EarlyDynamicLoad\/libEarlyDynamicLoad.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
