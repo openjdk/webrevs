@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,1 @@\n- * @library .. \/lib\/testlibrary\n+ * @library .. \/lib\/testlibrary \/test\/lib\n@@ -39,0 +39,1 @@\n+import jdk.test.lib.Platform;\n","filename":"jdk\/test\/java\/nio\/file\/FileStore\/Basic.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
