@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport b5b83247da9caea30c88b69543e350783663bc46"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/CompletableFuture.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/CompletableFutureTest.java"}],"sha":"00be57ada8969423e707a57ff36b30663aa9e9bc"}]
