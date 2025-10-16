@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -539,0 +539,1 @@\n+  { \"ShenandoahPacing\",             JDK_Version::jdk(25), JDK_Version::jdk(26), JDK_Version::jdk(27) },\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

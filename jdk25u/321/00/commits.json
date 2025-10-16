@@ -1,0 +1,1 @@
+[{"commit":{"message":"Deprecate ShenandoahPacing option in 25 (pacing was removed in 26)"},"files":[{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"}],"sha":"f9c530844ddbb9e620baeb05ebdc9ff2be93a0d6"}]
