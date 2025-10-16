@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-                assertEquals(\"val\", exchange.getAttribute(\"attr\"))\n+                assertEquals(\"val\", exchange.getAttribute(\"attr\"));\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/ExchangeAttributeTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
