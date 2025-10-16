@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,1 +200,1 @@\n-    st->print_cr(\"Not in live phase\");\n+    st->print_cr(\"Dynamic agent loading is only permitted in the live phase\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiAgentList.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
