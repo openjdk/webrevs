@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,2 +40,0 @@\n-    \/\/ auto fp = (fptr)p;\n-    auto fp = (void(*)())p;\n@@ -52,0 +50,2 @@\n+    \/\/ Make sure the newly-compiled code can be executed.\n+    auto fp = (void(*)())p;\n","filename":"src\/hotspot\/share\/runtime\/threadWXSetters.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
