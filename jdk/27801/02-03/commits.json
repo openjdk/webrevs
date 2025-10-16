@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove std::is_trivially_default_constructible\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/hotspot\/share\/utilities\/unalignedAccess.hpp"}],"sha":"d2030a3df29517aca10ccb491d095269c4266a35"}]
