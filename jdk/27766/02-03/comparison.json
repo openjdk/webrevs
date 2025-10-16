@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,0 @@\n-        pb.environment().put(\"MODE\", \"jcmd\");\n","filename":"test\/hotspot\/jtreg\/serviceability\/EarlyDynamicLoad\/TestEarlyDynamicLoadJcmd.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
