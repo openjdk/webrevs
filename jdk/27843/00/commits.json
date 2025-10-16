@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369979: Flag UsePopCountInstruction was accidentally disabled on PPC64"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.cpp"}],"sha":"a7a30fca2d152e5efd76914db1bbad5cc9154555"}]
