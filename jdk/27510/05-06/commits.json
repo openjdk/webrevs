@@ -1,0 +1,1 @@
+[{"commit":{"message":"move the use of UseUnalignedAccesses flag after it properly assigned."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"bdb18ae6529da2b915a8cb4be2ba0954237e18e3"}]
