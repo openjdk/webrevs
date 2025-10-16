@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -639,1 +639,1 @@\n-  tty->print_cr(\"The <class> and <method> accept leading and trailing *'s for wildcard\");\n+  tty->print_cr(\"The <class> and <method> accept leading and trailing '*' wildcards\");\n","filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
