@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -333,0 +333,1 @@\n+   * @param tag2 optional general purpose tag (see GuardedMemory::get_tag2())\n","filename":"src\/hotspot\/share\/memory\/guardedMemory.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
