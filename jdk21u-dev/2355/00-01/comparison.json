@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1900,1 +1900,1 @@\n-  subs(zr, reg, oopDesc::base_offset_in_bytes());\n+  subs(zr, reg, static_cast<int>(sizeof(markWord) + (UseCompressedClassPointers ? sizeof(narrowKlass) : sizeof(Klass*))));\n","filename":"src\/hotspot\/cpu\/aarch64\/interp_masm_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
