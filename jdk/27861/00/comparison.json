@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -359,1 +359,1 @@\n-    return \"Print all threads with stacktraces.\";\n+    return \"Print all platform threads with stacktraces.\";\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
