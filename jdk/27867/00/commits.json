@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369946: Bytecode rewriting causes Java heap corruption on PPC"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc.hpp"},{"filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc_64.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/templateTable_ppc_64.cpp"}],"sha":"138df669209ae58676e0559cf825d0a0cc81ee1b"}]
