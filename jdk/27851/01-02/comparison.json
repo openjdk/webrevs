@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -252,1 +252,1 @@\n-                SSLLogger.fine(\"KeyMgr: exception triggered: \" + e);\n+                SSLLogger.warning(\"KeyMgr: exception triggered: \" + e);\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/X509KeyManagerImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
