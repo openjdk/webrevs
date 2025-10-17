@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369449: Spec: introduce new JVMTI function GetTotalGCCpuTime"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmti.xml"},{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiH.xsl"},{"filename":"src\/hotspot\/share\/prims\/jvmtiManageCapabilities.cpp"}],"sha":"b3bc092f7e818948ee7118fd2ca5ad630f210095"}]
