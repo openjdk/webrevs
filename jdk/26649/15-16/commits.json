@@ -1,0 +1,1 @@
+[{"commit":{"message":"Incremental update to make it clear that if it is necessary\nto forcibly destroy the process, close continues to wait for the\nprocess to terminate."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Process.java"}],"sha":"0e59fe7d51c76df686c4217481d7771ce41328e2"}]
