@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8370057: Correct scale handling of BigDecimal.sqrt"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java"},{"filename":"test\/jdk\/java\/math\/BigDecimal\/SquareRootTests.java"}],"sha":"2393649538a1fc33801d50c257b4e8dbeb2f821b"}]
