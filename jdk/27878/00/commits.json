@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369609: Continuations preempt_epilog is missing a call to invalidate_jvmti_stack"},"files":[{"filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp"}],"sha":"c30793f3ee2bea231b6c8756a8235eb1f3e87593"}]
