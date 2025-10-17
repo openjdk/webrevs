@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2467,1 +2467,5 @@\n-  return iff->in(0)->isa_SafePoint();\n+  Node* sfpt = iff->in(0);\n+  if (sfpt->Opcode() == Op_SafePoint) {\n+    return sfpt->as_SafePoint();\n+  }\n+  return nullptr;\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
