@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2216,1 +2216,0 @@\n-  \/\/ The frame might be still compiled if not executed yet after deoptimization.\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
