@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -524,2 +524,2 @@\n-  const static bool SHOULD_RUN_YOUNG_GC = true;\n-  const static bool SHOULD_RUN_FULL_GC = false;\n+  const bool SHOULD_RUN_YOUNG_GC = true;\n+  const bool SHOULD_RUN_FULL_GC = false;\n","filename":"src\/hotspot\/share\/gc\/parallel\/psScavenge.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
