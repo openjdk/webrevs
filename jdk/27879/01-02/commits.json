@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix a typo in GetGCCpuTimerInfo: long => jlong"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp"}],"sha":"d816a56d7dd6ab2e7e3e3ac65e6627aa3f95bcd8"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3799,1 +3799,1 @@\n-JvmtiEnv::GetTotalGCCpuTime(long* nanos_ptr) {\n+JvmtiEnv::GetTotalGCCpuTime(jlong* nanos_ptr) {\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
