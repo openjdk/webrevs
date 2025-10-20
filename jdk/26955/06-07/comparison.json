@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -288,1 +288,1 @@\n-  if (value + MaxHeapSize < MaxHeapSize) { \/\/ overflow\n+  if (std::numeric_limits<size_t>::max() - value < MaxHeapSize) { \/\/ overflow\n","filename":"src\/hotspot\/share\/gc\/shared\/jvmFlagConstraintsGC.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
