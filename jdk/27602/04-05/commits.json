@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove log_is_enabled"},"files":[{"filename":"src\/hotspot\/os\/posix\/perfMemory_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/perfMemory_windows.cpp"},{"filename":"src\/hotspot\/share\/runtime\/perfMemory.cpp"}],"sha":"f0f4e57c34c2d947ee3a8d45ea251c0cb020947f"}]
