@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -726,1 +726,1 @@\n-                        0x1000000000000000L;\n+                        0x1000_0000_0000_0000L;\n@@ -731,0 +731,1 @@\n+                \/\/ assert 0 <= trailingZeros && trailingZeros <= 12\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Double.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
