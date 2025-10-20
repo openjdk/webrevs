@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 64f8253b7d9d382b18003c647a3941733f191329"},"files":[{"filename":"src\/java.security.jgss\/windows\/native\/libsspi_bridge\/sspi.cpp"},{"filename":"src\/java.security.jgss\/windows\/native\/libw2k_lsa_auth\/NativeCreds.c"}],"sha":"c5c04e4029177aeac46b387b247003d301deb01f"}]
