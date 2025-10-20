@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,1 @@\n+#include <stdint.h>\n","filename":"test\/hotspot\/jtreg\/runtime\/NMT\/libMallocHeaderModifier.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
