@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @bug 4170635 8258247\n+ * @bug 4170635 8258247 8367008\n","filename":"test\/jdk\/sun\/security\/x509\/AlgorithmId\/AlgorithmIdEqualsHashCode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
