@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n- *      -XX:+StressIGVN -XX:StressSeed=115074401\n+ *      -XX:+UnlockDiagnosticVMOptions -XX:+StressIGVN -XX:StressSeed=115074401\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestEliminateRedundantConversionSequences.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
