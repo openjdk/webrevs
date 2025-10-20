@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport c41add8d3e24be5f469f18cfbf0f476f2baf63a6"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.hpp"},{"filename":"test\/hotspot\/gtest\/x86\/asmtest.out.h"},{"filename":"test\/hotspot\/gtest\/x86\/x86-asmtest.py"}],"sha":"1ed38ac5688bedced5f8f1b1bce50cbe097d4dd1"}]
