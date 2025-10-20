@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -712,1 +712,1 @@\n-            boolean negative = Math.copySign(1.0, d) == -1.0;\n+            boolean negative = Double.doubleToLongBits(d) < 0;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Double.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
