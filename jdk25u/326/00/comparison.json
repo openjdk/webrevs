@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -100,0 +100,4 @@\n+  if (FLAG_IS_DEFAULT(UsePopCountInstruction)) {\n+    FLAG_SET_ERGO(UsePopCountInstruction, true);\n+  }\n+\n","filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
