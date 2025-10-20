@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -261,1 +261,1 @@\n-        return cpool->resolved_indy_entry_at(method_index)->is_resolved();\n+        return !cpool->resolved_indy_entry_at(method_index)->is_resolved();\n","filename":"src\/hotspot\/share\/interpreter\/abstractInterpreter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
