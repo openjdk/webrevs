@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -714,1 +714,0 @@\n-        d = Math.abs(d);\n@@ -719,0 +718,1 @@\n+        d = Math.abs(d);\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Double.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
