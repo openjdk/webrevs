@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adding lint warning for inconsistent InnerClasses attribute."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"},{"filename":"test\/langtools\/tools\/javac\/recovery\/SourceAndInnerClassInconsistency.java"}],"sha":"2b7c465b2e021677b8b6fc3e53970146064dea5d"}]
