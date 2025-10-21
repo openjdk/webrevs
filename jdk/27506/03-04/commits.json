@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add misaligned vector check during VM bootstrapping"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/os_linux_riscv.cpp"}],"sha":"2a2d65c631bdc0fe2ad27db034b931f56bdb6e8b"}]
