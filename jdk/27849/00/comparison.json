@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1299,2 +1299,0 @@\n-    } else if (use->is_SafePoint()) {\n-      \/\/ processed later\n@@ -1302,0 +1300,1 @@\n+      \/\/ Safepoints to be processed later; other users aren't expected here\n","filename":"src\/hotspot\/share\/opto\/escape.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
