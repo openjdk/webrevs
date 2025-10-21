@@ -1,0 +1,1 @@
+[{"commit":{"message":"8303215: Make thread stacks not use huge pages"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/globals_linux_aarch64.hpp"}],"sha":"54a6c0452199036579d44ca93fb25ef51b515ecb"}]
