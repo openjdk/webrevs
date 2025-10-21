@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix test, from @jddarcy"},"files":[{"filename":"test\/jdk\/java\/lang\/Double\/ToHexString.java"}],"sha":"cd87ae6139f2daa53b3b4323e05114a4fbf9e941"},{"commit":{"message":"extract doubleToLongBits, from @jddarcy"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Double.java"}],"sha":"8bbc373ecc0183a5d4feae6c7b0d5b6db4c6fcc2"}]
