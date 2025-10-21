@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -763,1 +763,1 @@\n-        for (int sh = 48, end = 4 * trailingZeros; sh >= end; sh -= 4) {\n+        for (int sh = 4 * 12, end = 4 * trailingZeros; sh >= end; sh -= 4) {\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Double.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
