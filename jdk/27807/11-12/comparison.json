@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1034,1 +1034,1 @@\n-        int w = K.length - 4;\n+        int w = K.length - WB;\n","filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/AES_Crypt.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
