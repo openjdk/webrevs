@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -325,1 +325,1 @@\n-  bool                  _major_progress;        \/\/ Count of something big happening\n+  bool                  _major_progress;        \/\/ Whether something big happened\n","filename":"src\/hotspot\/share\/opto\/compile.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
