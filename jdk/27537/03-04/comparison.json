@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -277,1 +277,1 @@\n-     * This method return {@code -1} if the platform does\n+     * This method returns {@code -1} if the platform does\n","filename":"src\/java.management\/share\/classes\/java\/lang\/management\/MemoryMXBean.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
