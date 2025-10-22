@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2599,1 +2599,1 @@\n-  if (!MethodFlushing || (is_native_method() && is_in_use()) || is_not_installed()) {\n+  if (!MethodFlushing || is_not_installed()) {\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
