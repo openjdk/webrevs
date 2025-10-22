@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,1 @@\n+#include \"oops\/method.inline.hpp\"\n","filename":"src\/hotspot\/share\/oops\/trainingData.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
