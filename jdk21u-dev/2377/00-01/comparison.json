@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -0,0 +1,3 @@\n+modules = \\\n+    java.base\/sun.security.util \\\n+    java.base\/sun.security.x509\n","filename":"test\/jdk\/sun\/net\/www\/protocol\/https\/HttpsURLConnection\/TEST.properties","additions":3,"deletions":0,"binary":false,"changes":3,"status":"added"}]}
