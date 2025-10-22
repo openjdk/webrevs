@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,2 @@\n+        \/\/ Sleep for 0.5s to make sure theApp is ready for attach from jhsdb\n+        Thread.sleep(500);\n","filename":"test\/hotspot\/jtreg\/gc\/metaspace\/CompressedClassSpaceSizeInJmapHeap.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
