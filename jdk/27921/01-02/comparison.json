@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,0 +91,2 @@\n+                \/\/ `key` has been cloned into the `SecretKeySpec` within the\n+                \/\/ returned `KEM.Encapsulated`, so it can now be cleared.\n","filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/DHKEM.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
