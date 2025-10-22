@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1174,1 +1174,1 @@\n-    CK_VOID_PTR ckpObject;\n+    CK_VOID_PTR ckpObject = NULL;\n","filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/p11_util.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
