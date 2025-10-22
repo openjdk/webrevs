@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: remove now unneeded call to invalidate_jvmti_stack"},"files":[{"filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp"}],"sha":"1b5a0572f75dfdf09b8fc7affafa19b1b65dcc18"}]
