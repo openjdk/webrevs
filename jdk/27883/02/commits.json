@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rollback JDK-8370100 specific patch"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/share\/IconTest.java"}],"sha":"9bf7e4419c88ba99df816a24598dbc6fa1591bef"},{"commit":{"message":"IconTest: revamp"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/share\/IconTest.java"}],"sha":"6fd11616a701ac18d0f0deaebb07c8e07518cd61"}]
