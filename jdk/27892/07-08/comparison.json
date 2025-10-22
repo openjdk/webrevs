@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1780,1 +1780,1 @@\n-            _phase->replace_node_and_forward_ctrl(u, n);\n+            _phase->igvn().replace_node(u, n);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
