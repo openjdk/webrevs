@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1635,1 +1635,0 @@\n-  invalidate_jvmti_stack(thread);\n@@ -1688,0 +1687,2 @@\n+\n+  JVMTI_ONLY(invalidate_jvmti_stack(JavaThread::current()));\n","filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
