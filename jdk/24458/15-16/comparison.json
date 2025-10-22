@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1343,1 +1343,1 @@\n-    bool is_valid_with_bt(BasicType bt) {\n+    bool is_valid_with_bt(BasicType bt) const {\n","filename":"src\/hotspot\/share\/opto\/loopnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
