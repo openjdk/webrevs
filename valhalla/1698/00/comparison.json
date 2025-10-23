@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -214,1 +214,0 @@\n-      bool Bug8370217_FIXED = false;\n@@ -216,1 +215,1 @@\n-      if (EnableValhalla && Bug8370217_FIXED) {\n+      if (CDSConfig::is_valhalla_preview()) {\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
