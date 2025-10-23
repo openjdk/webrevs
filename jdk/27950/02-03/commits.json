@@ -1,0 +1,1 @@
+[{"commit":{"message":"* reduce indentation in update_gc_overhead_limit_exceeded(), remove some unnecessary return\n* better name for update_gc_overhead_limit_exceeded()"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp"}],"sha":"033343856afa2c576ded3589004a430159657d5d"}]
