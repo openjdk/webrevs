@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -431,4 +431,0 @@\n-            case String s -> {\n-                attr.type(AttributeType.STRING);\n-                attr.s(s.getBytes());\n-            }\n","filename":"cr-examples\/onnx\/src\/main\/java\/oracle\/code\/onnx\/OnnxProtoBuilder.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
