@@ -1,0 +1,1 @@
+[{"commit":{"message":"8370467: BorderFactory.createBevelBorder and createSoftBevelBorder throws NPE for null highlight and shadow"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/BorderFactory.java"},{"filename":"test\/jdk\/javax\/swing\/border\/TestBevelBorderParam.java"}],"sha":"ec182a9aedb8bebb93c95ccf626c275d515b2a7c"}]
