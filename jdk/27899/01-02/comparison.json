@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -162,1 +162,1 @@\n-    JVM_CFLAGS += -DHAS_STRIPPED_DEBUGINFO\n+    CFLAGS_STRIPPED_DEBUGINFO := -DHAS_STRIPPED_DEBUGINFO\n@@ -190,0 +190,1 @@\n+    whitebox.cpp_CXXFLAGS := $(CFLAGS_STRIPPED_DEBUGINFO), \\\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
