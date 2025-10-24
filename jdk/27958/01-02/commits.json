@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move check for VM_Version::supports_fast_class_init_checks() to\nremove_resolved_method_entries_if_non_deterministic()\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/oops\/cpCache.cpp"}],"sha":"61e5653ddfa90871be094e7e28c7d344550111b0"}]
