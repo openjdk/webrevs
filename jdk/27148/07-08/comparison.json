@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2146,1 +2146,1 @@\n-        return nthRoot(2, mc);\n+        return rootn(2, mc);\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
