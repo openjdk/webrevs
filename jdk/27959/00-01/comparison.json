@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,2 +51,2 @@\n-    private static boolean upFail;\n-    private static boolean downFail;\n+    private static volatile boolean upFail;\n+    private static volatile boolean downFail;\n","filename":"test\/jdk\/javax\/swing\/JSlider\/bug4382876.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
