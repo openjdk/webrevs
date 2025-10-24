@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use atomic load when reading promotion failure counters"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.hpp"}],"sha":"9213b8cbe015681bf53994fce76005ff1cd6e85d"}]
