@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,0 +103,1 @@\n+      end -= reserve_size;\n@@ -105,1 +106,1 @@\n-    end -= reserve_size * 2;\n+    end -= MIN2(end, reserve_size);\n","filename":"src\/hotspot\/share\/gc\/z\/zVirtualMemoryManager.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
