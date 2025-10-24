@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -321,1 +321,1 @@\n-         * @see HttpRequest.Builder#timeout(Duration) Configuration timeout for\n+         * @see HttpRequest.Builder#timeout(Duration) Configuring timeout for\n","filename":"src\/java.net.http\/share\/classes\/java\/net\/http\/HttpClient.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
