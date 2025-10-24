@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,1 @@\n-        byte[] elements = (byte[])raster.getDataElements(0, 0,null);\n+        byte[] elements = (byte[])raster.getDataElements(0, 0, null);\n","filename":"test\/jdk\/java\/awt\/image\/ByteInterleavedRasterOffsetsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
