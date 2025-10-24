@@ -1,0 +1,1 @@
+[{"commit":{"message":"8370628: Rename BigInteger::nthRoot to rootn, and similarly for nthRootAndRemainder"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigInteger.java"},{"filename":"src\/java.base\/share\/classes\/java\/math\/MutableBigInteger.java"}],"sha":"801e444059e422a15619c2b5e8591d52516df687"}]
