@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-    private final static String CAT_PROGRAM = OS_WINDOWS ? \"type\" : \"cat\";\n+    private final static String CAT_PROGRAM = \"cat\";\n","filename":"test\/jdk\/java\/lang\/Process\/ProcessCloseTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
