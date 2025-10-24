@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,1 +300,0 @@\n-        int sAsInt = s;\n@@ -303,0 +302,1 @@\n+            int sAsInt = s;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Short.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
