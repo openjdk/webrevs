@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1303,1 +1303,1 @@\n-  for (int c = start; c < map->length() && !inserted ; c++) {\n+  for (int c = start; c < map->length(); c++) {\n","filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
