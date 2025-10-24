@@ -1,0 +1,1 @@
+[{"commit":{"message":"Invoke `preTerminationCallback` at `cancel()` too"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/common\/HttpBodySubscriberWrapper.java"}],"sha":"af49653188ac91667cfc6d0adb39810f2bed716c"}]
