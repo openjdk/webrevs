@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,1 +161,1 @@\n-  : _addr(S::alloc(sizeof(T))) {\n+  : _addr(S::template alloc<T>()) {\n","filename":"src\/hotspot\/share\/gc\/z\/zValue.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
