@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -451,0 +451,1 @@\n+    case addL_rReg_rReg_mem_ndd_rule:\n@@ -455,0 +456,2 @@\n+    case maxI_rReg_ndd_rule:\n+    case minI_rReg_ndd_rule:\n","filename":"src\/hotspot\/cpu\/x86\/x86_64.ad","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
