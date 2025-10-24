@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve robustness of ProcessCloseTest:\nReplace \"cat <filename>\" on Linux with \"type\" on Windows.\nReplace \"cat -\" with builtin Child command, not a native program."},"files":[{"filename":"test\/jdk\/java\/lang\/Process\/ProcessCloseTest.java"}],"sha":"ab009791d8c40fe8b8d145aec6d1e67943be0b3b"}]
