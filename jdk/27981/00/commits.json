@@ -1,0 +1,1 @@
+[{"commit":{"message":"8370633: Remove dead code for Windows file path canonicalization functions"},"files":[{"filename":"src\/java.base\/windows\/native\/libjava\/WinNTFileSystem_md.c"},{"filename":"src\/java.base\/windows\/native\/libjava\/canonicalize_md.c"}],"sha":"4f85adcfa1cf65866dbf7a788ba4531b6247dcf4"}]
