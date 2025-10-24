@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,0 +116,1 @@\n+                    assertEquals(\"context-val\", exchange.getHttpContext().getAttributes().get(\"attr\"));\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/ExchangeAttributeTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
