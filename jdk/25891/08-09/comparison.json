@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,0 +45,1 @@\n+#include \"memory\/metaspace\/metaspaceZapper.hpp\"\n@@ -47,1 +48,0 @@\n-#include \"memory\/metaspace\/metaspaceZapper.hpp\"\n","filename":"src\/hotspot\/share\/memory\/metaspace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
