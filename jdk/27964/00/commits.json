@@ -1,0 +1,1 @@
+[{"commit":{"message":"8364360: Defining hidden class with no room in constant pool crashes the VM"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/ClassFile\/HiddenClassesTest.java"}],"sha":"097a5561b69651d149d2d82189e92d3f2216056f"}]
