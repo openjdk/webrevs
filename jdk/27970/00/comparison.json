@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6290,1 +6290,1 @@\n-     * event is coalesced into a complex {@code RepaintArea} in the peer.\n+     * event is coalesced into a complex repaint area in the peer.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Component.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
