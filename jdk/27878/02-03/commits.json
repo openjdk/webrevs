@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: call to invalidate_jvmti_stack for pure continuations only"},"files":[{"filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp"}],"sha":"e6fc40589a7eb09df1ba15b507ff8176dd80da1f"}]
