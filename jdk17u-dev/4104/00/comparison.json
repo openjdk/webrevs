@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n- * @run main\/othervm\/timeout=360 -Xmx512m jdk.jpackage.test.Main\n+ * @run main\/othervm\/timeout=1440 -Xmx512m jdk.jpackage.test.Main\n","filename":"test\/jdk\/tools\/jpackage\/windows\/WinL10nTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
