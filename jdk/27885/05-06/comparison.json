@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,2 @@\n-import java.lang.foreign.FunctionDescriptor;                                import java.lang.foreign.Linker;\n+import java.lang.foreign.FunctionDescriptor;\n+import java.lang.foreign.Linker;\n","filename":"test\/lib\/jdk\/test\/lib\/SA\/SATestUtils.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
