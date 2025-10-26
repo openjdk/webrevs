@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2358,1 +2358,1 @@\n-            \/\/ 1\/(root*10^(-normScale \/ nAbs)) >= 1\/x, so result >= inverse\n+            \/\/ (1\/(root*10^(-normScale \/ nAbs)))^nAbs >= 1\/x, so result^nAbs >= inverse\n","filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
