@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    \/\/ it, we look for a non-void return type (which comes hand-in-hand\n+    \/\/ it, we look for an oop return type (which comes hand-in-hand\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestReturnsOopSetForJFRWriteCheckpoint.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
