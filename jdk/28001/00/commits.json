@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8366871"},"files":[],"sha":"82f44f57166fad0ac4d4744c31077b80e310ef72"},{"commit":{"message":"8366871: (javac) legacy.properties seems to be an obsolete file"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/legacy.properties"}],"sha":"2cc6d800c25e4f1258deb8959431019d71c22ff5"}]
