@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-    public void myTest() {\n+    public void testWriteCheckpointReturnType() {\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestReturnsOopSetForJFRWriteCheckpoint.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
