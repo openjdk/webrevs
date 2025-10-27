@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -283,0 +283,2 @@\n+        \/\/ With the alternate isSubstitutable() method, type recursion is handled differently\n+        \/\/ and the line below won't throw a SOE\n","filename":"test\/jdk\/valhalla\/valuetypes\/RecursiveValueClass.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
