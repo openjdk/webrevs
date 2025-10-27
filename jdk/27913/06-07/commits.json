@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert to failOn check as getEventWriter is not always inlined"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestReturnsOopSetForJFRWriteCheckpoint.java"}],"sha":"9ff84e732cbfd787023b348863a32fa047c46925"}]
