@@ -1,0 +1,1 @@
+[{"commit":{"message":"8323999: KeyAgreement cannot be initiated again after a failed initialization"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/KeyAgreement.java"},{"filename":"test\/jdk\/java\/security\/KeyAgreement\/KeyAgreementReinit.java"}],"sha":"d6556fabea086736327db37f48b137698f766c2c"}]
