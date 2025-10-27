@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,1 +151,1 @@\n-                        List.of(ExitStatus.PIPE)),\n+                        List.of(ExitStatus.RACY)),\n","filename":"test\/jdk\/java\/lang\/Process\/ProcessCloseTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
