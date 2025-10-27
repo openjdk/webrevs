@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -202,1 +202,1 @@\n-                        \"MLComputeUnits\", \"CPUAndGPU\");\n+                        \"MLComputeUnits\", \"CPUAndGPU\", \"EnableOnSubgraphs\", \"1\");\n","filename":"cr-examples\/onnx\/src\/test\/java\/oracle\/code\/onnx\/fer\/FERCoreMLDemo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
