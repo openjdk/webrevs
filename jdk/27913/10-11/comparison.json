@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n- * @run driver compiler.intrinsics.TestReturnsOopSetForJFRWriteCheckpoint\n+ * @run driver compiler.intrinsics.TestReturnOopSetForJFRWriteCheckpoint\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestReturnOopSetForJFRWriteCheckpoint.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
