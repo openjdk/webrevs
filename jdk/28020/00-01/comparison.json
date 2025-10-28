@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,0 @@\n-import java.util.concurrent.CountDownLatch;\n","filename":"test\/jdk\/javax\/net\/ssl\/SSLSocket\/Tls13PacketSize.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
