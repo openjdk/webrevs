@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -445,1 +445,1 @@\n-               \/\/ Test Thread Factory support has generated methods.\n+               \/\/ Test Thread Factory support has generated methods in MainWrapper class.\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/mlvm\/share\/jdi\/JDIBreakpointTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
