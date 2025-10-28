@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -355,0 +355,1 @@\n+        @Override\n@@ -357,1 +358,0 @@\n-            int dl = dst.length;\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/cs\/HKSCS.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
