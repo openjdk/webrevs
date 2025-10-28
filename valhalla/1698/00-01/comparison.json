@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -215,1 +215,1 @@\n-      if (CDSConfig::is_valhalla_preview()) {\n+      if (Arguments::enable_preview() && EnableValhalla) {\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
