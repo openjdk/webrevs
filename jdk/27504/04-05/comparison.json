@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1231,1 +1231,1 @@\n-  \/\/ The first time we see the callback count reaches zero we know all actual\n+  \/\/ The first time we see the callback count reach zero we know all actual\n","filename":"src\/hotspot\/share\/prims\/jvmtiEventController.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
