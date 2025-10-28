@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1091,0 +1091,1 @@\n+  \/\/ Check for \"(con0 - X) << con1\" \n@@ -1099,1 +1100,1 @@\n-      \/\/ Compute X<<con0 - (con1<<con0)\n+      \/\/ Compute (con1<<con0) - (X<<con0)\n","filename":"src\/hotspot\/share\/opto\/mulnode.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
