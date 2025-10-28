@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n-\tThread[] vthreads = new Thread[vthreads_num];\n+        Thread[] vthreads = new Thread[vthreads_num];\n","filename":"test\/hotspot\/jtreg\/runtime\/vthread\/Deoptimization.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
