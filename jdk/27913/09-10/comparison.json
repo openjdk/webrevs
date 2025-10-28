@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,1 +40,1 @@\n-public class TestReturnsOopSetForJFRWriteCheckpoint {\n+public class TestReturnOopSetForJFRWriteCheckpoint {\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestReturnOopSetForJFRWriteCheckpoint.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
