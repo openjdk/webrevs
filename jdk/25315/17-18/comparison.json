@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-    return RegMask::All;\n+    return RegMask::ALL;\n@@ -67,1 +67,1 @@\n-    return RegMask::Empty;\n+    return RegMask::EMPTY;\n","filename":"src\/hotspot\/share\/opto\/reachability.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
