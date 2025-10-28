@@ -1,0 +1,1 @@
+[{"commit":{"message":"8370775: ModulePatcher.getByteBuffer() does not close the InputStream after reading the bytes"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/ModulePatcher.java"}],"sha":"83d95b09bb3487dda6ae20a71d1cdf922ae4de6e"}]
