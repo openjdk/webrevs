@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-        \/\/ The threads might be virutal and daemon, so wait until completion.\n+        \/\/ The threads might be virtual and daemon, so wait until completion.\n","filename":"test\/jdk\/com\/sun\/jdi\/TwoThreadsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
