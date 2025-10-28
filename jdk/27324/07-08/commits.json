@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355342: Resize buffer passed to GetFinalPathNameByHandleW if needed"},"files":[{"filename":"src\/java.base\/windows\/native\/libjava\/WinNTFileSystem_md.c"},{"filename":"src\/java.base\/windows\/native\/libjava\/canonicalize_md.c"}],"sha":"3820a26904d2e229b443acc1d6656cea38e28ee1"}]
