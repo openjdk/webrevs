@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert NamedGroup constraints filtering"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/NamedGroup.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/CipherSuite\/DisabledCurve.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/CipherSuite\/RestrictNamedGroup.java"}],"sha":"f7052e03b2baf952fd4dc403b8eb44734a9d5641"}]
