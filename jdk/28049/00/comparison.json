@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-#define JVM_MAXPATHLEN MAXPATHLEN + 1\n+#define JVM_MAXPATHLEN (MAXPATHLEN + 1)\n","filename":"src\/hotspot\/os\/posix\/include\/jvm_md.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
