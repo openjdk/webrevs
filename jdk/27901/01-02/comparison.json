@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -18,1 +18,1 @@\n-\/** {@link List<@Nullable String>}\n+\/** {@link List<@A String>}\n","filename":"test\/langtools\/tools\/doclint\/CrashInTypeAnnotateTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
