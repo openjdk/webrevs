@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2556,1 +2556,1 @@\n-      bool const is_remset_tracked = g1h->region_attr(r->bottom()).is_remset_tracked();\n+      const bool is_remset_tracked = g1h->region_attr(r->bottom()).is_remset_tracked();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
