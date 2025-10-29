@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2663,3 +2663,0 @@\n-    const Register len32               = x28;\n-    const Register vl                  = t1;\n-    const Register ctr                 = t2;\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
