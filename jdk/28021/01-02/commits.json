@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove ETag handling from response headers and related tests"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/simpleserver\/FileServerHandler.java"},{"filename":"test\/jdk\/com\/sun\/net\/httpserver\/simpleserver\/SimpleFileServerTest.java"}],"sha":"96486d346733a0a6a06fba7bf0a07c0e1bc4e6d2"}]
