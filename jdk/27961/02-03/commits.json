@@ -1,0 +1,1 @@
+[{"commit":{"message":"- Use better logging method\n- Remove now unnecessary null check for config.signatureSchemes"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SignatureScheme.java"}],"sha":"a2235e0b04caed2501159faa3eb74d31d900af47"}]
