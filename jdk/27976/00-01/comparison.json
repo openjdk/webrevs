@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -291,1 +291,0 @@\n-      LINK_TIME_OPTIMIZATION := true, \\\n@@ -402,1 +401,0 @@\n-    LINK_TIME_OPTIMIZATION := true, \\\n","filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
