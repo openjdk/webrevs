@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -232,2 +232,0 @@\n-        int delta = compareTo(endExclusive);\n-        if (delta == 0) return 0;\n@@ -238,0 +236,1 @@\n+            int delta = compareTo(endExclusive);\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/common\/Deadline.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
