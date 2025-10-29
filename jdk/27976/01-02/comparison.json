@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-#   LINK_TIME_OPTIMIZATION if set to true, it enables additionally link time optimization\n+#   LINK_TIME_OPTIMIZATION if set to true, enables link time optimization\n","filename":"make\/common\/NativeCompilation.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
