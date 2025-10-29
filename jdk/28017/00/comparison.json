@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,0 @@\n-        analyzer.stderrShouldBeEmpty();\n","filename":"test\/hotspot\/jtreg\/serviceability\/attach\/EarlyDynamicLoad\/EarlyDynamicLoad.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
