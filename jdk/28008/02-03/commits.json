@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix NMethod.java immutable data ref count"},"files":[{"filename":"src\/hotspot\/share\/runtime\/vmStructs.cpp"},{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/code\/NMethod.java"}],"sha":"26bdc3ceb4ab9ad9cb9a4218bb87ce2d7546fa22"}]
