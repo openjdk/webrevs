@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-import java.util.Map;\n@@ -39,1 +38,0 @@\n-import static oracle.code.onnx.foreign.onnxruntime_c_api_h.*;\n","filename":"cr-examples\/onnx\/src\/test\/java\/oracle\/code\/onnx\/fer\/FERInference.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
