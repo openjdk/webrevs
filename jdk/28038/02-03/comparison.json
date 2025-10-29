@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,2 +129,0 @@\n-  assert(!hr->in_collection_set(),\n-         \"should not already be registered as in collection set in the attribute table\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSet.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
