@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366522: CodeSource.getCodeSigners() throws NPE within empty certs"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/security\/CodeSource.java"},{"filename":"test\/jdk\/java\/security\/CodeSource\/GetCodeSignersNoCerts.java"}],"sha":"237fcdf5bcee1f77fcc64d6f7ca26e2643b8901e"}]
