@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1375,1 +1375,1 @@\n-    st->print(\"sd  t2, [sp, #%d]\\n\\t\", - 3 * wordSize);\n+    st->print(\"sd  t2, [sp, #%d]\\n\\t\", framesize - 3 * wordSize);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
