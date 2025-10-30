@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+ * @requires os.maxMemory > 15g\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/checked\/TestLargeUTF8Length.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
