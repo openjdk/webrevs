@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2511,1 +2511,0 @@\n-  struct proc_bsdinfo bsdinfo;\n@@ -2515,1 +2514,0 @@\n-  size_t fds_size;\n","filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
