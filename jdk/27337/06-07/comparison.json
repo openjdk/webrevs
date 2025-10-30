@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -540,1 +540,1 @@\n-      \/\/ Cache is usable, no need to fallback to linear scan.\n+      \/\/ Cache is usable, no need to fall back to linear scan.\n","filename":"src\/hotspot\/share\/utilities\/elfFile.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
