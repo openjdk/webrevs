@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366196: Crash in AbstractMethodCheck.getMethodCheckFailure"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/AttrRecover.java"},{"filename":"test\/langtools\/tools\/javac\/recovery\/AttrRecovery.java"}],"sha":"c6443116a49e236288fa7a06afff9920f1b6a1c1"}]
