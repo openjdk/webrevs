@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -441,1 +441,3 @@\n-        verifyAllIconsReferenced(cmd);\n+        if (installed) {\n+            verifyAllIconsReferenced(cmd);\n+        }\n","filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/LinuxHelper.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
