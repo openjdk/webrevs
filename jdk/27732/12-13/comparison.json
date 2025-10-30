@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -568,1 +568,2 @@\n-  \/\/ Attach the main thread to this os thread\n+  \/\/ Attach the main thread to this os thread. It is added to the threads list inside\n+  \/\/ universe_init(), within init_globals().\n","filename":"src\/hotspot\/share\/runtime\/threads.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
