@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1,2 +1,1 @@\n-modules = \\\r\n-  jdk.httpserver\/sun.net.httpserver.simpleserver\r\n+modules = jdk.httpserver\/sun.net.httpserver.simpleserver\n","filename":"test\/jdk\/com\/sun\/net\/httpserver\/simpleserver\/TEST.properties","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
