@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,1 @@\n+ * @requires !vm.asan\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/PrintVMInfoAtExitTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
