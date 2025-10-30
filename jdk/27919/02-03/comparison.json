@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,2 +46,0 @@\n-import static org.junit.jupiter.api.Assertions.*;\n-\n@@ -65,1 +63,1 @@\n-            assertEquals(0, output.getExitValue());\n+            output.shouldHaveExitValue(0);\n","filename":"test\/jdk\/java\/foreign\/sharedclosejvmti\/TestSharedCloseJvmti.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
