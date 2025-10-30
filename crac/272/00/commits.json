@@ -1,0 +1,1 @@
+[{"commit":{"message":"8370873: [CRaC] Launcher does not parse CRaC VM options from JDK_JAVA_OPTIONS"},"files":[{"filename":"src\/java.base\/share\/native\/launcher\/main.c"},{"filename":"test\/jdk\/jdk\/crac\/LauncherVMOptionsTest.java"},{"filename":"test\/lib\/jdk\/test\/lib\/crac\/CracBuilder.java"}],"sha":"2033b0d82bd818ac87db250f0436571a44f2f4ab"}]
