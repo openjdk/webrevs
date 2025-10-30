@@ -1,0 +1,1 @@
+[{"commit":{"message":"8367943: PipedOutputStream write(0, 0) successful after close()"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/PipedOutputStream.java"},{"filename":"test\/jdk\/java\/io\/PipedOutputStream\/WriteAfterClose.java"}],"sha":"655d0e6e3a00a6042c46f91accc87754979bd044"}]
