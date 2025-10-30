@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2017,1 +2017,1 @@\n-  mv(t0, oopDesc::base_offset_in_bytes());\n+  mv(t0, static_cast<int>(sizeof(markWord) + (UseCompressedClassPointers ? sizeof(narrowKlass) : sizeof(Klass*))));\n","filename":"src\/hotspot\/cpu\/riscv\/interp_masm_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
