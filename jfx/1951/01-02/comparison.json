@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,0 +111,2 @@\n+        if (maskTex != null && maskTex.isSurfaceLost()) return;\n+\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/impl\/BaseContext.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
