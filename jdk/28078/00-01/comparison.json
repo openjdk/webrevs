@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -141,1 +141,1 @@\n-     *          closed and {@code len} is positive,\n+     *          closed and {@code len} is greater than zero,\n","filename":"src\/java.base\/share\/classes\/java\/io\/PipedOutputStream.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
