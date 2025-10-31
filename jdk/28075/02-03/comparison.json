@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,0 +116,5 @@\n+ifeq ($(call isTargetOs, macosx), true)\n+  # On macOS, disable deprecation warnings for krb5 API\n+  BUILD_JDK_JTREG_LIBRARIES_CFLAGS_libNativeCredentialCacheHelper := -Wno-deprecated-declarations\n+endif\n+\n","filename":"make\/test\/JtregNativeJdk.gmk","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
