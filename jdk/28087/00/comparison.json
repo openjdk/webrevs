@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -334,1 +334,3 @@\n-    assert(_index_data && \"image file not memory mapped\");\n+    if (_index_data == nullptr) {\n+      return false;\n+    }\n","filename":"src\/java.base\/share\/native\/libjimage\/imageFile.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}

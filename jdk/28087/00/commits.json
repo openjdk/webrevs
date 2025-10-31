@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8371048: ImageFileReader::open fails to check return value of osSupport::map_memory\n\nSigned-off-by: Justin King <jcking@google.com>"},"files":[{"filename":"src\/java.base\/share\/native\/libjimage\/imageFile.cpp"}],"sha":"2f56f8ca9e75c1e1fe231b66b43018fa660860d4"}]
