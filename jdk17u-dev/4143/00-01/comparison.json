@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -83,1 +83,1 @@\n-    shift-negative-value unknown-pragmas\n+    shift-negative-value unknown-pragmas strict-overflow\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
