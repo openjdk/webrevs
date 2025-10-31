@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -276,1 +276,1 @@\n-        hi = nth_bit_typed<jlong>(bitcount);\n+        hi = right_n_bits_typed<jlong>(bitcount);\n","filename":"src\/hotspot\/share\/opto\/intrinsicnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
