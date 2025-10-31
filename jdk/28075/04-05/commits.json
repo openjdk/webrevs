@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixes to ensure that the jtreg test is not built or executed if krb5 is not installed"},"files":[{"filename":"make\/test\/JtregNativeJdk.gmk"},{"filename":"test\/jdk\/sun\/security\/krb5\/native\/NativeCacheTest.java"}],"sha":"bc904b0ef170db1a0dcfd65c0fce525370203cfb"}]
