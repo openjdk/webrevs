@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1585,1 +1585,1 @@\n-    AccessFlags aflags2(JVM_ACC_STATIC);\n+    AccessFlags aflags2(JVM_ACC_STATIC | JVM_ACC_FINAL);\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
