@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,0 @@\n-    DISABLED_WARNINGS_gcc_test_signals.cpp := cast-function-type, \\\n","filename":"make\/hotspot\/lib\/CompileGtest.gmk","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
