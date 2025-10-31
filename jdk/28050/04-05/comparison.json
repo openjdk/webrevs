@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1847,1 +1847,1 @@\n-                    List.of(syms.serializableType, syms.cloneableType) :\n+                    List.of(syms.serializableType, syms.cloneableType, syms.objectType) :\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Code.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
