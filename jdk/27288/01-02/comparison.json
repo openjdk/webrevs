@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -525,1 +525,1 @@\n-    assert( (right_n_bits(exact_log2(result)) & result) == 0, \"post-condition\");\n+    assert((result - 1) & result) == 0, \"post-condition\");\n","filename":"src\/hotspot\/share\/oops\/klass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
