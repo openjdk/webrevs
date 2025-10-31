@@ -1,0 +1,1 @@
+[{"commit":{"message":"8347129: cpuset cgroups controller is required for no good reason\n\nBackport-of: be245be258cda7e06366b4051eec24ad6df04f20"},"files":[{"filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp"}],"sha":"c29a6caed30cd7c2ccca1266982b8fa3917975e3"}]
