@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,0 +105,4 @@\n+ *\n+ *   HttpRequest request = HttpRequest.newBuilder()\n+ *       .uri(URI.create(\"https:\/\/foo.com\/\"))\n+ *       .build();\n","filename":"src\/java.net.http\/share\/classes\/java\/net\/http\/HttpClient.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
