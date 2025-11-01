@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -927,1 +927,1 @@\n-      __ convert(x->op(), value.result(), reg, nullptr);\n+      __ convert(x->op(), value.result(), reg);\n","filename":"src\/hotspot\/cpu\/arm\/c1_LIRGenerator_arm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
