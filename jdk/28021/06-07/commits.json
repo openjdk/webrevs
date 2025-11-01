@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow unlimited splits when parsing HTTP Range header to detect trailing commas"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/simpleserver\/FileServerHandler.java"}],"sha":"41ebfd459dabdefdae65c2e60cda7505e5bdac74"}]

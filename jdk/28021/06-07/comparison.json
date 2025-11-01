@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -330,1 +330,1 @@\n-        for (String spec : rangesPart.split(\",\")) {\n+        for (String spec : rangesPart.split(\",\", -1)) {\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/simpleserver\/FileServerHandler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
