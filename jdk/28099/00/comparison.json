@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -307,0 +307,2 @@\n+      elif test -e $BINUTILS_INSTALL_DIR\/lib64\/libsframe.a; then\n+        HSDIS_LIBS=\"$HSDIS_LIBS $BINUTILS_INSTALL_DIR\/lib64\/libsframe.a\"\n","filename":"make\/autoconf\/lib-hsdis.m4","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
