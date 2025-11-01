@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix bugs in implementation of weakly referenced object handling"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMarkingContext.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.cpp"}],"sha":"e16ea23183b25af31de18da32940e6ec55d86bfe"}]
