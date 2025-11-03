@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -544,1 +544,1 @@\n-\/\/ Cost-model heuristic for nodes that do not contribute to computatinal\n+\/\/ Cost-model heuristic for nodes that do not contribute to computational\n","filename":"src\/hotspot\/share\/opto\/vectorization.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
