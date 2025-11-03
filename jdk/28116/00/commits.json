@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371164 Optimizing ArrayList.addAll()"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/ArrayList.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/Collections.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/ArrayListBulkOpsBenchmark.java"}],"sha":"dbb5b6cfdac55110bafc8c1d0fa6aa9fd30f5379"}]
