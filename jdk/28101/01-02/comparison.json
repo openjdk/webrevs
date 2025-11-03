@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3901,1 +3901,1 @@\n-                        && exactTypeVisitor.visit(ts.head, ss.head)) {\n+                        && sameTypeComparator(ts.head, ss.head)) {\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Types.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
