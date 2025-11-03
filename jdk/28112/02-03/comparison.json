@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-            System.err.println(\"Class not found exception occur \" + ignore.getMessage());\n+            System.err.println(\"Expected: class not found exception \" + ignore.getMessage());\n","filename":"test\/jdk\/java\/security\/cert\/CertStore\/NoLDAP.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
