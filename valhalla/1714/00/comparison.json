@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2037,1 +2037,1 @@\n-        ideal.set(res, ret);\n+        ideal.set(res, makecon(TypePtr::NULL_PTR));\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
