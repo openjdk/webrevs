@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -236,1 +236,1 @@\n-  if (region->is_Loop() && region_loop->_child == nullptr) {\n+  if (region->is_Loop() && region_loop->is_innermost()) {\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
