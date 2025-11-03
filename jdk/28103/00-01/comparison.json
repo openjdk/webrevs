@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -226,1 +226,1 @@\n-        requireNonNull(method);\n+        requireNonNull(method, \"HTTP method must be non-null\");\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpRequestBuilderImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
