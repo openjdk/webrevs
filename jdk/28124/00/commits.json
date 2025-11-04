@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8346657: Improve out of bounds exception messages for MemorySegments"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java"}],"sha":"a106ac87cc12cac2de9fb96eb6f6950029c6dc6c"}]
