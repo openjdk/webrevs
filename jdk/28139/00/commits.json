@@ -1,0 +1,1 @@
+[{"commit":{"message":"8272160: Avoid using 32-bit counters in CDS code"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMetaspace.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.hpp"}],"sha":"26b7b3781525dc17c079157c7f4ef709eef88c30"}]
