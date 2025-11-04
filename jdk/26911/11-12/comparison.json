@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -910,2 +910,0 @@\n-        assert isLatin1(StringLatin1.coderFromChar((char) (c1 | c2))) : \"must be latin1\";\n-\n@@ -922,0 +920,1 @@\n+        this.value = value;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/AbstractStringBuilder.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
