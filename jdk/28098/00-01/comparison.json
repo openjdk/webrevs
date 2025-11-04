@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -415,1 +415,1 @@\n-  JImageLocationRef location;\n+  JImageLocationRef location = 0;\n","filename":"src\/hotspot\/share\/classfile\/classLoader.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
