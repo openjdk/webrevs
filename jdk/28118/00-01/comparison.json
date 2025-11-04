@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -502,1 +502,1 @@\n-            for (var textFile : Map.ofEntries(\n+            for (var textFile : List.of(\n@@ -506,1 +506,1 @@\n-            ).entrySet()) {\n+            )) {\n","filename":"test\/jdk\/tools\/jpackage\/share\/AppContentTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
