@@ -1,0 +1,1 @@
+[{"commit":{"message":"8355342: Do not fail wcanonicalize if getFinalPath fails"},"files":[{"filename":"src\/java.base\/windows\/native\/libjava\/canonicalize_md.c"}],"sha":"0918c3a87a66b5a2f983e4adbd084f5c37b626ac"}]
