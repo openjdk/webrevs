@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-            throw new SkippedException(\"Test skipped :: LDAP is present\");\n+            throw new SkippedException(\"LDAP is present\");\n","filename":"test\/jdk\/java\/security\/cert\/CertStore\/NoLDAP.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
