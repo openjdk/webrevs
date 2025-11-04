@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,0 +58,1 @@\n+            System.out.println(\"Test failed as cleaning up SwingNode caused NPE\");\n","filename":"tests\/manual\/swing\/JavaSwingNodeCleanupBug.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
