@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -224,0 +224,4 @@\n+        if (!resource.isValid()) {\n+            return;\n+        }\n+\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/prism\/mtl\/MTLTexture.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
