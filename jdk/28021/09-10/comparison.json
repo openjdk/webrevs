@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -426,1 +426,1 @@\n-                        break;  \/\/ EOF\n+                        throw new IOException(\"Unexpected EOF while reading file\");\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/simpleserver\/FileServerHandler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
