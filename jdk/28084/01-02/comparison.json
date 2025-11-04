@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n- *    HttpRequest request = HttpRequest.newBuilder()\n+ *   HttpRequest request = HttpRequest.newBuilder()\n","filename":"src\/java.net.http\/share\/classes\/java\/net\/http\/HttpClient.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
