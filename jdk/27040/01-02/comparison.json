@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1944,1 +1944,1 @@\n-        enter(current, false);\n+        enter(current, false \/* post_jvmti_events *\/);\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
