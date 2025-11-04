@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix modeling of expressions with record symbols."},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/internal\/ReflectMethods.java"},{"filename":"test\/langtools\/tools\/javac\/reflect\/RecordAccessTest.java"}],"sha":"d07ab688af57d76579d8983863f4712ee2bd68b0"}]
