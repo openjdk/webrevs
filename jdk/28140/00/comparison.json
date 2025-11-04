@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-            NoSuchAlgorithmException, IOException {\n+            NoSuchAlgorithmException, IOException, CertificateException {\n","filename":"test\/jdk\/java\/security\/KeyStore\/PKCS12\/WriteP12Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
