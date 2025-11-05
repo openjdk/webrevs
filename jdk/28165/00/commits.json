@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371367: Replace remaining JvmtiJavaThreadEventTransition with JVMTI_JAVA_THREAD_EVENT_CALLBACK_BLOCK"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp"}],"sha":"e0eaaa706ba4dd0ee0b34fbc7ef4bd627af39ec8"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1777,1 +1777,1 @@\n-  JvmtiJavaThreadEventTransition jet(javaThread);\n+  JVMTI_JAVA_THREAD_EVENT_CALLBACK_BLOCK(javaThread)\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
