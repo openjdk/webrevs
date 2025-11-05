@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use size_t for string lengths"},"files":[{"filename":"src\/java.base\/share\/native\/launcher\/main.c"}],"sha":"dd8919a9d1842cf8f6f8097fad42328204856d1b"},{"commit":{"message":"Also quote the executable name"},"files":[{"filename":"src\/java.base\/windows\/native\/launcher\/relauncher.c"}],"sha":"fdd7714350db4b637dfc1df8c366241d6c9672e1"}]
