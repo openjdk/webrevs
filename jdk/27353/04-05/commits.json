@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Fixup handling of weakly marked objects in remembered set\"\n\nThis reverts commit 80198abe5d06c3532d9a43a53691376e990ed45f."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.cpp"}],"sha":"643cdfd650f488305e1ce2f00ff9f78aac91ba1c"}]
