@@ -1,0 +1,1 @@
+[{"commit":{"message":"[hat] Avoid NULL in LocalIds for non-specified thread-blocks"},"files":[{"filename":"hat\/backends\/ffi\/shared\/src\/main\/java\/hat\/backend\/ffi\/C99FFIBackend.java"},{"filename":"hat\/core\/src\/main\/java\/hat\/KernelContext.java"},{"filename":"hat\/core\/src\/main\/java\/hat\/NDRange.java"}],"sha":"36cadd373f74fc0ad0c53132f186cf64377a554a"}]
