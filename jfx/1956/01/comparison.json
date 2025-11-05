@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,1 @@\n- *     hbox.getChildren().addAll(new Label(\"Name:), new TextBox());\n+ *     hbox.getChildren().addAll(new Label(\"Name:\"), new TextBox());\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/layout\/HBox.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
