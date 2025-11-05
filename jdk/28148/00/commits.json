@@ -1,0 +1,1 @@
+[{"commit":{"message":"8370843: Deprecate AlwaysActAsServerClassMachine and NeverActAsServerClassMachine"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/java.base\/share\/man\/java.md"}],"sha":"cea0119f4e03987798f643eb422c201e2cb89c5f"}]
