@@ -1,0 +1,1 @@
+[{"commit":{"message":"add Unsafe and VarHandle tests"},"files":[{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestTearing.java"}],"sha":"542c2fd8ed1c241d48de2a4cd04db4e459bc2c7b"}]
