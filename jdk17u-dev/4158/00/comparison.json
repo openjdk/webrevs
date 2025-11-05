@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -376,1 +376,1 @@\n-  check_date=`$DATE --version 2>&1 | $GREP \"GNU\\|BusyBox\"`\n+  check_date=`$DATE --version 2>&1 | $GREP \"GNU\\|BusyBox\\|uutils\"`\n","filename":"make\/autoconf\/basic_tools.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
