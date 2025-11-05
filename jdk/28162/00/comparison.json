@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,2 +121,2 @@\n-  assert(SafepointSynchronize::is_at_safepoint(), \"precondition\");\n-  assert(Thread::current()->is_VM_thread(), \"precondition\");\n+  assert(Heap_lock->is_locked(), \"precondition\");\n+\n","filename":"src\/hotspot\/share\/gc\/parallel\/psOldGen.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
