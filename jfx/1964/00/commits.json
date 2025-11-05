@@ -1,0 +1,1 @@
+[{"commit":{"message":"Notify window and screen when dpi changes, dispose screens only when windows replace them"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/Screen.java"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/GlassWindow.cpp"}],"sha":"9ec63bb5e91408e57204bfee9fa73cd751ee9815"}]
