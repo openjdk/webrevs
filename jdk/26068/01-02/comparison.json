@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -195,1 +195,1 @@\n-    st->verify();\n+    if (VerifyInlineCaches) st->verify();\n@@ -201,1 +201,1 @@\n-    st->verify();\n+    if (VerifyInlineCaches) st->verify();\n","filename":"src\/hotspot\/share\/code\/compiledIC.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
