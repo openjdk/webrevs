@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2011,1 +2011,1 @@\n-    if ((HDC)rintDC == NULL) {\n+    if ((HDC)printDC == NULL) {\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_PrintJob.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
