@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only lazily complete type annotations for members, not classes"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/ClassReader.java"}],"sha":"74512b21484d13b4939ac2aa8cc097f73156ee1c"}]
