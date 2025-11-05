@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371337: [CRaC] Fastdebug build fails when calling OperatingSystemMxBean.getProcessCpuLoad after restore"},"files":[{"filename":"src\/jdk.management\/linux\/native\/libmanagement_ext\/UnixOperatingSystem.c"},{"filename":"test\/jdk\/jdk\/crac\/java\/lang\/management\/OperatingSystemMxBeanTest.java"}],"sha":"284b713060ca9ab255a7e7811ff945f99464ca0f"}]
