@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use LINK_TIME_OPTIMIZATION for libjvm build too"},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"},{"filename":"make\/hotspot\/lib\/JvmFeatures.gmk"}],"sha":"bea8d07a61f348b24f70efe04bdfb6e401be814b"}]
