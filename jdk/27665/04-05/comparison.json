@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2262,1 +2262,1 @@\n-    {1} may need to be recompiled with {0}\n+    ({1} may need to be recompiled with {0})\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
