@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -177,2 +177,0 @@\n-    DISABLED_WARNINGS_gcc_signals_posix.cpp := cast-function-type, \\\n-    DISABLED_WARNINGS_gcc_templateTable.cpp := cast-function-type, \\\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
