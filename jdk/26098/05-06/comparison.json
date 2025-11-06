@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,2 +72,5 @@\n-    _put_code(0),\n-    _padding(0) {}\n+    _put_code(0)\n+#ifdef _LP64\n+    , _padding(0)\n+#endif\n+    {}\n","filename":"src\/hotspot\/share\/oops\/resolvedFieldEntry.hpp","additions":5,"deletions":2,"binary":false,"changes":7,"status":"modified"}]}
