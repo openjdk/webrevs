@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2755,0 +2755,1 @@\n+    __ beqz(len, L_exit);\n@@ -2779,2 +2780,0 @@\n-    __ beqz(len, L_exit);\n-\n@@ -2789,0 +2788,1 @@\n+    __ mv(used, block_size);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
