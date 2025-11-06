@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-import javafx.beans.property.SimpleObjectProperty;\n@@ -90,1 +89,0 @@\n-    private SimpleObjectProperty<LineEnding> lineEnding;\n","filename":"modules\/jfx.incubator.richtext\/src\/main\/java\/jfx\/incubator\/scene\/control\/richtext\/CodeArea.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
