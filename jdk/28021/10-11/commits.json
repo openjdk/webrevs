@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace IOException with EOFException for unexpected EOF in FileServerHandler"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/simpleserver\/FileServerHandler.java"}],"sha":"060ebc00df873d919ce13c820c83edcde38776a8"}]
