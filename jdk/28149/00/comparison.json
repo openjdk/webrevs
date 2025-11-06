@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,1 @@\n+ *   -XX:CompileCommand=exclude,*TestSharedCloseJFR.main\n","filename":"test\/jdk\/java\/foreign\/sharedclosejfr\/TestSharedCloseJFR.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
