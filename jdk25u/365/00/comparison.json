@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-\/**\n+\/*\n@@ -759,1 +759,1 @@\n-        try (JarFile jf = new JarFile(ZIP_FILE.toFile())) {\n+        try (JarFile jf = new JarFile(JAR_FILE.toFile())) {\n","filename":"test\/jdk\/jdk\/nio\/zipfs\/TestPosix.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
