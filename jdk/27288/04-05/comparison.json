@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -524,1 +524,1 @@\n-    \/\/ So use alternate form of negation to avoid warning.\n+    \/\/ So explicitly use two's complement to avoid warning.\n","filename":"src\/hotspot\/share\/oops\/klass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
