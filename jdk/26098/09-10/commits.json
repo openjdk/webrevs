@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the sizeof == const assertions"},"files":[{"filename":"src\/hotspot\/share\/oops\/resolvedFieldEntry.cpp"},{"filename":"src\/hotspot\/share\/oops\/resolvedMethodEntry.cpp"}],"sha":"73ae03bd2626fe39d2c35dc1cbded8099bbe42c7"}]
