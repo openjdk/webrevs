@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't make a new function."},"files":[{"filename":"src\/hotspot\/share\/oops\/oop.cpp"}],"sha":"b5991b7f23a32a96bfc4a419beb28adb5c5e257e"},{"commit":{"message":"Print oop without klass asserts."},"files":[{"filename":"src\/hotspot\/share\/oops\/oop.cpp"}],"sha":"e8be53d0cb38a01a16dacd66d80659b194fee117"}]
