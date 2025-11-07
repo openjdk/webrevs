@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,1 +240,1 @@\n-                                         c -> c instanceof JTable);\n+                                              c -> c instanceof JTable);\n","filename":"test\/jdk\/javax\/swing\/JFileChooser\/FileSizeCheck.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
