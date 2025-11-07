@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371436: (fs) java\/nio\/file\/FileStore\/Basic.java fails on macOS platform due to assertTrue(!store.equals(prev));"},"files":[{"filename":"src\/java.base\/macosx\/native\/libnio\/fs\/BsdNativeDispatcher.c"}],"sha":"c9ce7dfa34695ce8da68effe59114e1a252ef952"}]
