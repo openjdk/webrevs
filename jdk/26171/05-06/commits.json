@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set region back to empty and unaffiliated when release a directly allocatable region(may happen in full GC)"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp"}],"sha":"3fdb0bc0b69e26cf80372920ca43250d6d88fb08"}]
