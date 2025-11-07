@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+ *      -XX:+UnlockDiagnosticVMOptions\n@@ -57,0 +58,1 @@\n+ *      -XX:+UnlockDiagnosticVMOptions\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestLoopPhiApplyBadType.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
