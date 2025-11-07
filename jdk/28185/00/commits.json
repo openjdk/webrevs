@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371421: [AIX] new test ProcessCloseTest fails\nReplace the test case for the child writing to stderr and then exit 1.\n`cat` on AIX writes the error message to stdout.\nUse JavaChild instead of `cat`."},"files":[{"filename":"test\/jdk\/java\/lang\/Process\/ProcessCloseTest.java"}],"sha":"eb1f8d2f68717877bffd3768e820f31b92132963"}]
