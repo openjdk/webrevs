@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8334928 : Increase retry count and added loggers."},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/templates\/SSLSocketTemplate.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSocketImpl\/ReuseAddr.java"}],"sha":"0e4f7d4e430be71b98f873658237caae13dacbb3"}]
