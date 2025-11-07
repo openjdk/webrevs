@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @requires os.maxMemory > 3G\n+ * @requires os.maxMemory > 4G\n@@ -47,1 +47,1 @@\n- * @requires os.maxMemory > 3G\n+ * @requires os.maxMemory > 4G\n","filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/TestLargeObjectAlignment.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
