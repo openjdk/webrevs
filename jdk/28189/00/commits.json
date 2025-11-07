@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8359256: AArch64: Use SHA3 GPR intrinsic where it's faster\"\n\nThis reverts commit c173d416f749348bee42e1a9436a999700d0f0e8."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/globals_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"7348197f9749dc389f655137b4a58c87fb714159"}]
