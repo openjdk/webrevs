@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,3 +239,0 @@\n-  \/\/ Trust final fields in String\n-  if (holder->name() == ciSymbols::java_lang_String())\n-    return true;\n","filename":"src\/hotspot\/share\/ci\/ciField.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
