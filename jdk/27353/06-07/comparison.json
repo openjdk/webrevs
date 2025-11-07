@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -278,1 +278,1 @@\n-    HeapWord* right = MIN2(region->top(), tams);\n+    HeapWord* right = MIN3(region->top(), tams, _rs->addr_for_card_index(last_relevant_card_index + 1));\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
