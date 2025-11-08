@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make test work without CDS"},"files":[{"filename":"test\/jdk\/java\/foreign\/sharedclosejvmti\/TestSharedCloseJvmti.java"},{"filename":"test\/jdk\/java\/foreign\/sharedclosejvmti\/libSharedCloseAgent.cpp"}],"sha":"27500259729a7b08e3ab2210184adbc78035086e"}]
