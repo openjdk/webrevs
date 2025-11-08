@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,0 @@\n-    \/\/ Does not duplicate with Object::clone so it is not proxied\n","filename":"test\/jdk\/java\/lang\/reflect\/Proxy\/BridgeMethodsTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
