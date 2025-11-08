@@ -1,0 +1,1 @@
+[{"commit":{"message":"8349192: Test jvmti\/scenarios\/contention\/TC05\/tc05t001 fails: ERROR: tc05t001.cpp, 281: (waitedThreadCpuTime - waitThreadCpuTime) < (EXPECTED_ACCURACY * 1000000)"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/scenarios\/contention\/TC05\/tc05t001\/tc05t001.cpp"}],"sha":"1df4f7d3775e5bf1ee085993b2bb3b6ba3b42fe3"}]
