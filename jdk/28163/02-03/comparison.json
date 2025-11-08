@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,1 +151,1 @@\n-            Objects.requireNonNull(stackTracePrinter);\n+            Objects.requireNonNull(messagePrinter);\n","filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/cli\/Main.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
