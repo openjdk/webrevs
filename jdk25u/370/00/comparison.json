@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n-        nwp.setText(\"the\\tslow\\tbrown\\tfox\\tjumps\\tover\\tthe\\tlazy\\tdog!\");\n+        nwp.setText(\"the\\tquick\\tbrown\\tfox\\tjumps\\tover\\tthe\\tlazy\\tdog!\");\n","filename":"test\/jdk\/javax\/swing\/text\/GlyphView\/bug4188841.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
