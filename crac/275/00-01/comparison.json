@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+\/\/ FIXME: JDK-8371549 - remove @requires Linux\n@@ -35,0 +36,1 @@\n+ * @requires (os.family == \"linux\")\n","filename":"test\/jdk\/jdk\/crac\/fileDescriptors\/ReopenListeningWithSelectorTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
