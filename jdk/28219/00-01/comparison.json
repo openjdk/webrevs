@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n-#include \"gc\/shenandoah\/shenandoahGlobalGeneration.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMarkingContext.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
