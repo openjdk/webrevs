@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the length > 0 condition, as it brakes multiple unit tests"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java"}],"sha":"53f68ba981540a6e90878fea82a1ea27c01a652e"}]
