@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -110,1 +110,1 @@\n- * process is guaranteed to run.\n+ * process is guaranteed to run in the passed in 'result' reference.\n","filename":"src\/hotspot\/os\/linux\/cgroupV2Subsystem_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
