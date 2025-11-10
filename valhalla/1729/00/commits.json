@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371560: [lworld] Disable check_symmetrical until JDK-8332406 is fixed"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestFlatInArraysFolding.java"}],"sha":"950eb97a2e5761891cb913975db30e90aa11d7df"}]
