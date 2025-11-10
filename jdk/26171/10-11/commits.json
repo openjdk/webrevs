@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove ShenandoahDirectlyAllocatableRegionAffinity and simply use thread local instead"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.hpp"}],"sha":"f3fa45c663276ca8b91ee911ace2f11eeed2a1ff"}]
