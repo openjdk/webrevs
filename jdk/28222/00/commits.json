@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369692: JFR: Don't record thread metadata in case jdk.ThreadStart is disabled"},"files":[{"filename":"src\/hotspot\/share\/jfr\/support\/jfrThreadLocal.cpp"},{"filename":"test\/jdk\/jdk\/jfr\/jvm\/TestWaste.java"}],"sha":"ad86a92529ac094ee97b0f6892bac1fa674494c8"}]
