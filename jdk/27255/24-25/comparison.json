@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1260,1 +1260,1 @@\n-                templateVerify.asToken(\"v1, v6, v7\")\n+                templateVerify.asToken(\"v1, v6, v7\"),\n","filename":"test\/hotspot\/jtreg\/testlibrary_tests\/template_framework\/examples\/TestTutorial.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
