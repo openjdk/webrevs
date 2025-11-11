@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 7df492627b933f48750985c26de69be3f86115cb"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/print\/TestPrintInliningLateVirtualCall.java"}],"sha":"6ac8e24977e8dbc97e4640632c158b7f810eb6a6"}]
