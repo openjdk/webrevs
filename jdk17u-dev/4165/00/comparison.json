@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3401,1 +3401,1 @@\n-  \/\/\/ mov envcodings\n+  \/\/ mov encodings\n","filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
