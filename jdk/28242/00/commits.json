@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371381: [Shenandoah] Setting ergo flags should use FLAG_SET_ERGO"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahHeuristics.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoah_globals.hpp"}],"sha":"1a5a09bfdfd430d2546af8048c028a326a9c7d2d"}]
