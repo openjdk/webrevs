@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -206,1 +206,1 @@\n-        if (byteAlignment > MAX_MALLOC_ALIGN) {\n+        if (byteAlignment >= MAX_MALLOC_ALIGN) {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/SegmentFactories.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
