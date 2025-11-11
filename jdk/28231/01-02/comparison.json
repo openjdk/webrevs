@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2340,1 +2340,1 @@\n-  if (VectorNode::is_different_use_def_size_supported() && return use->is_CMove() && def->is_Bool()) {\n+  if (VectorNode::is_different_use_def_size_supported() && use->is_CMove() && def->is_Bool()) {\n","filename":"src\/hotspot\/share\/opto\/superword.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
