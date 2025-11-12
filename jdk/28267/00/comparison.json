@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,0 +99,3 @@\n+        if (Platform.isDebugBuild()) {\n+            COMPILATION_TIMEOUT = COMPILATION_TIMEOUT * 2;\n+        }\n","filename":"test\/jdk\/jdk\/internal\/vm\/Continuation\/Fuzz.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
