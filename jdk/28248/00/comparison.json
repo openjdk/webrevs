@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,5 @@\n+\/src\/hotspot\/CMakeLists.txt\n+\/src\/hotspot\/compile_commands.json\n+\/src\/hotspot\/cmake-build-debug\/\n+\/src\/hotspot\/.cache\/\n+\/src\/hotspot\/.idea\/\n","filename":".gitignore","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
