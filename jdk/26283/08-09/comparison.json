@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1660,1 +1660,0 @@\n-    uint lrg_in1 = 0;\n@@ -1666,1 +1665,1 @@\n-        lrg_in1 = _lrg_map.find(in1);\n+        uint lrg_in1 = _lrg_map.find(in1);\n","filename":"src\/hotspot\/share\/opto\/chaitin.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
