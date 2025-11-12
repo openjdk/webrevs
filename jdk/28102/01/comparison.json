@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,0 +117,5 @@\n+    _decoder_status = file->get_status();\n+    if (has_error()) {\n+      delete file;\n+      return nullptr;\n+    }\n","filename":"src\/hotspot\/share\/utilities\/decoder_elf.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
