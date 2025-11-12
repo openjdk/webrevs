@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,3 @@\n-      BASIC_LDFLAGS=\"$BASIC_LDFLAGS -Wl,--icf=all\"\n+      if test x$DEBUG_LEVEL = xrelease; then\n+        BASIC_LDFLAGS=\"$BASIC_LDFLAGS -Wl,--icf=all\"\n+      fi\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
