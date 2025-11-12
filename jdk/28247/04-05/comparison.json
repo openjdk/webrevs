@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,0 +132,2 @@\n+    case ShenandoahAllocRequest::_alloc_shared_gc_old:\n+    case ShenandoahAllocRequest::_alloc_shared_gc_promotion:\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.inline.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
