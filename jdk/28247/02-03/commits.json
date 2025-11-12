@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fold _affiliation and _is_promotion into the bitset of request type"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocRequest.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"}],"sha":"2cf6600e2032470ff97dae12c54309601dfdf514"}]
