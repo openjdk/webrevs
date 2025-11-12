@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -778,1 +778,1 @@\n-    if (FLAG_IS_DEFAULT(StressSeed) || (FLAG_IS_ERGO(StressSeed) && RepeatCompilation)) {\n+    if (FLAG_IS_DEFAULT(StressSeed) || (FLAG_IS_ERGO(StressSeed) && directive->RepeatCompilationOption)) {\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
