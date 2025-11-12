@@ -1,0 +1,1 @@
+[{"commit":{"message":"Comment fixes"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp"}],"sha":"fea63eca928d78e654341243083377d05f9d7b06"},{"commit":{"message":"8371702: ZGC: NUMA-Affinity for Worker Threads in the Relocation Phase"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp"}],"sha":"2aabc2fbee7c2605d4fe5455483e423ea617849d"}]
