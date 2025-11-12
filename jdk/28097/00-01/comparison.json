@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -622,1 +622,1 @@\n-  if(longType1 && longType2 && longType1->is_con() && longType2->is_con()){\n+  if(longType1 != nullptr && longType2 != nullptr && longType1->is_con() && longType2->is_con()){\n","filename":"src\/hotspot\/share\/opto\/mulnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
