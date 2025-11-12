@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,1 @@\n- * @run main\/othervm -XX:+IgnoreUnrecognizedVMOptions -XX:-TieredCompilation -Xbatch -Xcomp\n+ * @run main\/othervm -XX:+IgnoreUnrecognizedVMOptions -XX:-TieredCompilation -Xcomp\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMissingOptAbsZeroMinusX.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
