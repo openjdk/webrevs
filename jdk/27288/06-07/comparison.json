@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -514,2 +514,0 @@\n-  \/\/ VS warns (C4146) about unary minus of unsigned.\n-  PRAGMA_DISABLE_MSVC_WARNING(4146)\n","filename":"src\/hotspot\/share\/oops\/klass.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
