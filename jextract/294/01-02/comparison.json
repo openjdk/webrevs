@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+import static test.jextract.testStructArrayFields.testStructArrayFields_h.*;\n","filename":"test\/jtreg\/generator\/testStructArrayFields\/TestStructArrayFields.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
