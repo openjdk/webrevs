@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,1 @@\n-err.jlink.version.missing=jlink build {0} cannot find the build signature \\\n+err.jlink.version.missing=jlink build {0} cannot find the build signature\\\n","filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/resources\/jlink.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
