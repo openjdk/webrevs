@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-    assert(user_specified_MaxNewSize, \"\");\n+    postcond(user_specified_MaxNewSize);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1YoungGenSizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
