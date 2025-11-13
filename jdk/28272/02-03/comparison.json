@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,2 +40,0 @@\n-import com.sun.source.tree.ParameterizedTypeTree;\n-import com.sun.source.tree.PrimitiveTypeTree;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
