@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371501: Change IAE to NPE in java.awt.image.Kernel when data is null"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/Kernel.java"},{"filename":"test\/jdk\/java\/awt\/image\/ConvolveOp\/KernelInitialisationTest.java"}],"sha":"b0a027319c60862bd50af7fff1e59f7cf149fb01"}]
