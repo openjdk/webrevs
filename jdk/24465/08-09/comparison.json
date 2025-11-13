@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -398,1 +398,1 @@\n-        ex.getOutputAnalyzer().stderrMatches(\"\\\\QInternalError: Cyclic \" +\n+        ex.getOutputAnalyzer().stderrShouldMatch(\"\\\\QInternalError: Cyclic \" +\n","filename":"test\/jdk\/java\/security\/Security\/ConfigFileTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

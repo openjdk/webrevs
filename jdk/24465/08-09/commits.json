@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use the right OutputAnalyzer method\n\nOutputAnalyzer::stderrMatches returns a boolean while\nOutputAnalyzer::stderrShouldMatch performs the check."},"files":[{"filename":"test\/jdk\/java\/security\/Security\/ConfigFileTest.java"}],"sha":"4483469e453100259aa28d900943c34a4ab994b4"}]
