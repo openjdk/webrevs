@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,1 @@\n+import java.util.LinkedHashSet;\n@@ -1546,1 +1547,1 @@\n-        Set<String> variants = new HashSet<>();\n+        Set<String> variants = new LinkedHashSet<>();\n","filename":"test\/langtools\/tools\/javac\/patterns\/Exhaustiveness.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
