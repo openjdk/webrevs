@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2654,1 +2654,1 @@\n-    StubId stub_id = StubId::stubgen_aescrypt_decryptBlock_id;\n+    StubId stub_id = StubId::stubgen_counterMode_AESCrypt_id;\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
