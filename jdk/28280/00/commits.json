@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371749: New test serviceability\/jvmti\/events\/VMDeath\/AllocatingInVMDeath\/TestAllocatingInVMDeath.java fails with -Xcheck:jni"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/events\/VMDeath\/AllocatingInVMDeath\/libTestAllocatingInVMDeath.cpp"}],"sha":"8d539f866472ab6e7451aef5a54d943df9c13ec3"}]
