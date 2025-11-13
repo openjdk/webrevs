@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -166,1 +166,1 @@\n-                        print(\"OP_RIGHT failed: \" + e);\n+                        print(\"OP_WRITE failed: \" + e);\n","filename":"test\/jdk\/java\/net\/httpclient\/whitebox\/java.net.http\/jdk\/internal\/net\/http\/RawChannelTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
