@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371783: Refactor GCCause in VM_CollectForMetadataAllocation"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/gcVMOperations.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/gcVMOperations.hpp"}],"sha":"25da0eef88522a20e44f02bd26f81578be75edac"}]
