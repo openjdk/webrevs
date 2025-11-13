@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1379,1 +1379,1 @@\n-  IdealLoopTree *get_loop(const Node* n) const {\n+  IdealLoopTree* get_loop(const Node* n) const {\n","filename":"src\/hotspot\/share\/opto\/loopnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
