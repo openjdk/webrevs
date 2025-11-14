@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,1 @@\n+#include \"utilities\/spinCriticalSection.hpp\"\n","filename":"test\/hotspot\/gtest\/jfr\/test_adaptiveSampler.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
