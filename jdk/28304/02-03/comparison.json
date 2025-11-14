@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-        if (sourceAttrs == null)\n+        else\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/CopyMoveHelper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
