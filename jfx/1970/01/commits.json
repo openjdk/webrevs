@@ -1,0 +1,1 @@
+[{"commit":{"message":"Copyright header"},"files":[{"filename":"maven-publish.gradle"}],"sha":"2b45aa63bc3572d42accd2727c602300dc2370f9"},{"commit":{"message":"8333146: Move maven publication logic from build.gradle"},"files":[{"filename":"build.gradle"},{"filename":"maven-publish.gradle"}],"sha":"1af9633741ed1b713b796f0d4f7c370b1e208367"}]
