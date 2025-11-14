@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1378,1 +1378,0 @@\n-    __ ldr(rscratch2, rscratch2);\n","filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}

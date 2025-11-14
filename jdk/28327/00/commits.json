@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371918: aarch64: Incorrect pointer dereference in TemplateInterpreterGenerator::generate_native_entry\n\nRemove errant aarch64 hotspot assembly instruction that was reading\nfrom libjvm.so .text segment."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp"}],"sha":"e5c2e609436b7ebb8a05143e92cfe4dfe820c2ae"}]
