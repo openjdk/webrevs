@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -132,1 +132,1 @@\n-  \/\/ return their collective flags.\n+  \/\/ fill out their collective flags into bm.\n","filename":"src\/hotspot\/share\/nmt\/memMapPrinter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
