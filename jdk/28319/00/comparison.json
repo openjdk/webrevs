@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,0 +101,3 @@\n+    if test \"x$OPENJDK_TARGET_CPU\" = xaarch64; then\n+      BASIC_LDFLAGS=\"$BASIC_LDFLAGS -Wl,-dead_strip\"\n+    fi\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
