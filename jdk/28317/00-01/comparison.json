@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -394,1 +394,0 @@\n-            list[sizeof(list) - 1] = '\\0';\n","filename":"src\/java.base\/unix\/native\/libjava\/java_props_md.c","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
