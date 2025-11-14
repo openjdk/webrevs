@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Reduce GC coverage for trivial API test\"\n\nThis reverts commit 8fd1ee093066138c9aa5602dcac0e7db1916db6b."},"files":[{"filename":"test\/jdk\/java\/lang\/management\/MemoryMXBean\/TestGetTotalGcCpuTime.java"}],"sha":"97978d04c241061cd0fdf656748bfe08da88017a"}]
