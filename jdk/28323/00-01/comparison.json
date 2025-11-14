@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1269,1 +1269,1 @@\n-          tty->print(\" nullptr\");\n+          tty->print(\"nullptr\");\n","filename":"src\/hotspot\/share\/opto\/vtransform.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
