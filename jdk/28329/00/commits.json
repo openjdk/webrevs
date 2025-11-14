@@ -1,0 +1,1 @@
+[{"commit":{"message":"LockFreeStack supports Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/utilities\/lockFreeStack.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_lockFreeStack.cpp"}],"sha":"28b4d2a2d4313af13433dd471356f42f3bb6ffd4"}]
