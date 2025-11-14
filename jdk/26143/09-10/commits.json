@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify test, add temporary @IR rule for testLongRange and improve comments"},"files":[{"filename":"src\/hotspot\/share\/opto\/divnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/igvn\/IntegerDivValueTests.java"}],"sha":"313215bb7faa955d5fd5d9e453c2c57b02fdbc21"}]
