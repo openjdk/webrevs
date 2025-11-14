@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove NonblockingQueue"},"files":[{"filename":"src\/hotspot\/share\/utilities\/nonblockingQueue.hpp"},{"filename":"src\/hotspot\/share\/utilities\/nonblockingQueue.inline.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_nonblockingQueue.cpp"}],"sha":"8a67f2a23812ebbfe6c455affd538825bae3f874"}]
