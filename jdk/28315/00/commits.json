@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371874: AOTLinkedClassBulkLoader::preload_classes() should not allocate heap objects"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp"}],"sha":"50340cb0b4abba45a55b3c184ec4d536a3330c65"}]
