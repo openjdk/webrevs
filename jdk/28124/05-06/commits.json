@@ -1,0 +1,1 @@
+[{"commit":{"message":"rework: eliminate lambda binding; introduce lightweight wrapper which should be eliminated by escape analysis"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java"}],"sha":"9a2cc1388975e622e6c7f07c4446d3360c3dc78f"}]
