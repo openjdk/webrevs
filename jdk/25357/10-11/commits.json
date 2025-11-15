@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not reset generation reserves at end of GC"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.cpp"}],"sha":"6b62448dbc21ae244af998e109de7bebcd4db34c"}]
