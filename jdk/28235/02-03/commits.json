@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix calculation of allocationSize when byteAlignment < MAX_MALLOC_ALIGN\n\nThis work was sponsored by: The FreeBSD Foundation"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/SegmentFactories.java"}],"sha":"c723058e75dfc519f0b8a69b53a84cbe571e83d5"}]
