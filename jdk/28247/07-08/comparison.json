@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n-  \/\/ Alloc type is encoded bits with scheme as:\n+  \/\/ Alloc type is an int value with encoded bits in scheme as:\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocRequest.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
