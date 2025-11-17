@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,2 @@\n-        phase = {CompilePhase.FINAL_CODE})\n+        phase = {CompilePhase.FINAL_CODE},\n+        applyIfCPUFeature= {\"rvv\", \"false\"})\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorSpilling.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
