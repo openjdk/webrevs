@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-`-c=zip-[0-9]` or `--compress=zip-[0-9]`\n+`--compress=zip-[0-9]`\n","filename":"src\/jdk.jlink\/share\/man\/jlink.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
