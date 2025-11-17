@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    return *storage._active_array.load_acquire();\n+    return *storage._active_array.load_relaxed();\n","filename":"test\/hotspot\/gtest\/gc\/shared\/test_oopStorage.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

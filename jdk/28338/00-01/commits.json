@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed unintentional load_acquire in test"},"files":[{"filename":"test\/hotspot\/gtest\/gc\/shared\/test_oopStorage.cpp"}],"sha":"7f78403fb9c09d8b69d0a48b26c1e02e55a92d3c"}]
