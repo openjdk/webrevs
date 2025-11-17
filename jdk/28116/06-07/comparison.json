@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5264,1 +5264,1 @@\n-                a = (T[])java.lang.reflect.Array.newInstance(a.getClass().getComponentType(), 1);\n+                a = (T[])Array.newInstance(a.getClass().getComponentType(), 1);\n","filename":"src\/java.base\/share\/classes\/java\/util\/Collections.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
