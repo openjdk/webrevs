@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,1 +244,1 @@\n-     * to determine equality. Hence, two lazy constant with the same contents are\n+     * to determine equality. Hence, two lazy constants with the same contents are\n","filename":"src\/java.base\/share\/classes\/java\/lang\/LazyConstant.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
