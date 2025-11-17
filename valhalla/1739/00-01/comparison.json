@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6707,1 +6707,1 @@\n-  if (is_flat() && el->is_inlinetypeptr()) {\n+  if (klass_is_exact() && is_flat() && el->is_inlinetypeptr()) {\n","filename":"src\/hotspot\/share\/opto\/type.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
