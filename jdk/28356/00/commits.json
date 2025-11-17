@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-836732: Refactor PEM API tests requiring PEMRecord usage"},"files":[{"filename":"test\/jdk\/sun\/security\/rsa\/TestKeyFactory.java"},{"filename":"test\/jdk\/sun\/security\/rsa\/pss\/PSSKeyCompatibility.java"},{"filename":"test\/jdk\/sun\/security\/validator\/PKIXValAndRevCheckTests.java"}],"sha":"08e0fdb2bece335eec2c8f4089511d0d45977219"}]
