@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace assertNotNull for \"Files.getFileAttributeView(file, viewClass)\" when supported is true"},"files":[{"filename":"test\/jdk\/java\/nio\/file\/FileStore\/Basic.java"}],"sha":"96223e5acf3e673f1eaa171de70c737deebdd1dd"}]
