@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1149,3 +1149,1 @@\n-    __ la(t, unsatisfied);\n-    __ load_long_misaligned(t1, Address(t, 0), t0, 2); \/\/ 2 bytes aligned, but not 4 or 8\n-\n+    __ la(t1, unsatisfied);\n","filename":"src\/hotspot\/cpu\/riscv\/templateInterpreterGenerator_riscv.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
