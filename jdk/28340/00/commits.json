@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371869: RISC-V: too many warnings when build on BPI-F3 SBC"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp"}],"sha":"75d0d60c8ea6c5630435d0f9683cfc8576a52cf1"}]
