@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use assertNotNull instead of assertTrue, and remove the local assertTrue method implementation"},"files":[{"filename":"test\/jdk\/java\/nio\/file\/FileStore\/Basic.java"}],"sha":"067191cb18039b6a817c5eb7c59fa32fa95fa0e9"}]
