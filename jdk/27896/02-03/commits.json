@@ -1,0 +1,1 @@
+[{"commit":{"message":"8367049: URL.openConnection throws StringIndexOutOfBoundsException in avm mode"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/HostPortrange.java"},{"filename":"src\/java.base\/share\/classes\/java\/net\/URLPermission.java"}],"sha":"409b886ac68c7d9ddf0c6b97d58e43030b68e671"}]
