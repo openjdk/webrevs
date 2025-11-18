@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -219,0 +219,1 @@\n+#if INCLUDE_CDS_JAVA_HEAP\n@@ -225,0 +226,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
