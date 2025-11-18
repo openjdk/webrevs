@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-            ArrayList<Object> objs = new ArrayList<Object>();\n+            objs = new ArrayList<Object>();\n","filename":"test\/jdk\/java\/lang\/management\/MemoryMXBean\/TestGetTotalGcCpuTime.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
