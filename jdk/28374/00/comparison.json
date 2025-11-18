@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -256,0 +256,2 @@\n+  AsyncLogWriter::flush();\n+  fflush(nullptr);\n","filename":"test\/hotspot\/gtest\/logging\/test_asynclog.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
