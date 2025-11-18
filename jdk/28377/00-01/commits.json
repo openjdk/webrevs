@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372047: ClassTransform.transformingMethodBodies andThen composes incorrectly"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/TransformImpl.java"},{"filename":"test\/jdk\/jdk\/classfile\/TransformTests.java"}],"sha":"b5ac4fcfd10c17222ae45d6bfa98b8a9cc8481ba"}]
