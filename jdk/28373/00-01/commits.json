@@ -1,0 +1,1 @@
+[{"commit":{"message":"ppc and s390 do not have frame::sender_sp_offset defined"},"files":[{"filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrThreadSampling.cpp"}],"sha":"a2434eb8249176f275e478c8ac97115509cbe746"}]
