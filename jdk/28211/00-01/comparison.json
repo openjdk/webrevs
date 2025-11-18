@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -564,1 +564,1 @@\n-     * don't need to keep the node around. More details int he comments below.\n+     * don't need to keep the node around. More details in the comments below.\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/threadControl.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
