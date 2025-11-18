@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -614,1 +614,1 @@\n-     * Creates a new directory, failing if the directory already exists.\n+     * Creates a new directory, failing if the file or directory already exists.\n","filename":"src\/java.base\/share\/classes\/java\/nio\/file\/Files.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
