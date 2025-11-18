@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372045: AOT assembly phase asserts with old class if AOT class linking is disabled"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/OldClassSupport2.java"}],"sha":"f6a0ed1e0cb374b37f4784024348af20530daa5f"}]
