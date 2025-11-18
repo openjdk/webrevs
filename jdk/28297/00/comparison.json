@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2466,0 +2466,3 @@\n+      if (match_option(option, \"-Xmaxjitcodesize\", &tail)) {\n+        warning(\"Option -Xmaxjitcodesize was deprecated in JDK 26 and will likely be removed in a future release.\");\n+      }\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
