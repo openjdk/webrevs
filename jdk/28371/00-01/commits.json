@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert two InstanceKlass::cast() calls that might not be InstanceKlass."},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"src\/hotspot\/share\/oops\/constantPool.cpp"}],"sha":"e8973f5932797906f4bccd97cc86b56935ee6625"}]
