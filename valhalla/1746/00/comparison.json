@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,3 +88,0 @@\n-compiler\/regalloc\/TestVerifyRegisterAllocator.java 8365895 windows-x64\n-compiler\/types\/TestArrayManyDimensions.java 8365895 windows-x64\n-compiler\/types\/correctness\/OffTest.java 8365895 windows-x64\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
