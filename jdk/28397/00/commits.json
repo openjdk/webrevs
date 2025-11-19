@@ -1,0 +1,1 @@
+[{"commit":{"message":"8370885: Default namedGroups values are not being filtered against algorithm constraints"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/NamedGroup.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/CipherSuite\/DefaultNamedGroups.java"}],"sha":"dc69b451adb53babac64b5892b82c61aa2bcf1ec"}]
