@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed manual\/automatic flag entirely"},"files":[{"filename":"make\/RunTests.gmk"}],"sha":"1cfa515ddec7b75b2bd1fbb9c343efa259edfe2b"},{"commit":{"message":"8247690: RunTest does not support running of JTREG manual tests"},"files":[{"filename":"make\/RunTests.gmk"}],"sha":"6e1a5a9a2867ca8914f218a90e98fac96a3ad31f"}]

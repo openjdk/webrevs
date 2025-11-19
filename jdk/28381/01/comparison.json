@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -914,1 +914,1 @@\n-  $1_JTREG_BASIC_OPTIONS += -automatic -ignore:quiet\n+  $1_JTREG_BASIC_OPTIONS += -ignore:quiet\n","filename":"make\/RunTests.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
