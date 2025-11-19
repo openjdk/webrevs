@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,0 @@\n-import java.nio.channels.NetworkChannel;\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2Connection.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
