@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert a couple more InstanceKlass::casts also to get GHA to restart."},"files":[{"filename":"src\/hotspot\/share\/cds\/aotConstantPoolResolver.cpp"},{"filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/traceid\/jfrTraceId.inline.hpp"}],"sha":"1060463b9ff7829ba1e530b4aaa3853b731f4dbd"}]
