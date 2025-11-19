@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,0 +181,3 @@\n+\n+    # FIXME: The marker file should probably go in modules root dir.\n+    # FIXME: Copying value classes should not also copy marker files.\n","filename":"make\/CompileJavaModules.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
