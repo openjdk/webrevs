@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,2 +210,0 @@\n-  CollectedHeap* heap = Universe::heap();\n-\n@@ -239,0 +237,2 @@\n+  CollectedHeap* heap = Universe::heap();\n+\n","filename":"src\/hotspot\/share\/gc\/shared\/gcVMOperations.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
