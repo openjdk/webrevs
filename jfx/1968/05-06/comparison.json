@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1021,0 +1021,1 @@\n+                SwingNodeHelper.runOnEDT(() -> sendMoveEventToFX());\n@@ -1022,1 +1023,0 @@\n-            SwingNodeHelper.runOnEDT(() -> sendMoveEventToFX());\n","filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/JFXPanel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
