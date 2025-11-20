@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372149\n\nHi all,\n\n  please review this tiny change to remove some local variable (and management) in G1.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSetCandidates.cpp"}],"sha":"e9ed101807317ac8276fc2fe620bd3b96d6bb99d"}]
