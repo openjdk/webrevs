@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1228,1 +1228,1 @@\n-  while(c_or_eof != EOF && pos < (int)(sizeof(token)-1)) {\n+  while (c_or_eof != EOF && pos < (int)(sizeof(token) - 1)) {\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
