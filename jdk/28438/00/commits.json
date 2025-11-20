@@ -1,0 +1,1 @@
+[{"commit":{"message":"8365526: Crash with null Symbol passed to SystemDictionary::resolve_or_null"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"6123316c0dc0cc566f71b80e9290d77653408829"}]
