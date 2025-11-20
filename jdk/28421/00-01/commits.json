@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'SelectorManagerVT-8372159' into ConnectionCloseLock-8372198"},"files":[],"sha":"97ce373752ac3501ba41443dca0dc3e7fbc0b1a1"},{"commit":{"message":"8372198: Avoid closing PlainHttpConnection while holding a lock"},"files":[],"sha":"177e7ee31e9193e45f2fa210ce1a4953e0cf8dc9"}]
