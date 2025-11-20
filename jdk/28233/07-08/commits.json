@@ -1,0 +1,1 @@
+[{"commit":{"message":"use H3ConnectionAccess in test and remove the @modules usage"},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/access\/java.net.http\/jdk\/internal\/net\/http\/Http3ConnectionAccess.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/http2\/BurstyRequestsTest.java"}],"sha":"b37189cb0b6feb21d9b12ade935f33012248ca32"}]
