@@ -1,0 +1,1 @@
+[{"commit":{"message":"Review comment. Redundant null check removed, add thread wait for both AWT, FX threads"},"files":[{"filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/JFXPanel.java"},{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/embed\/swing\/JFXPanelNPETest.java"}],"sha":"e0c5a363ce0ad5c7b4c09dcdf473f634569367f2"}]
