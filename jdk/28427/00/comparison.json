@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -205,1 +205,0 @@\n-  HeapWord* base() const { return _reserved.start(); }\n","filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
