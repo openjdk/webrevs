@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -221,1 +221,1 @@\n-            Rectangle emptyRect = viewRect;\n+            Rectangle emptyRect = new Rectangle();\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/metal\/MetalButtonUI.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
