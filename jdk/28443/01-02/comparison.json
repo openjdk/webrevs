@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- *      Samples ~1\/4 of the available locales from NumberFormat SPI.\n+ *      Samples ~1\/4 of the available locales provided by NumberFormat.\n","filename":"test\/jdk\/java\/text\/Format\/NumberFormat\/NumberRoundTrip.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
