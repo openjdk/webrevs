@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -540,3 +540,1 @@\n-        if (length < 0) {\n-            throw new IllegalArgumentException();\n-        }\n+        Utils.checkNonNegativeArgument(length, \"length\");\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
