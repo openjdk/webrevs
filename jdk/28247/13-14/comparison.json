@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,1 +216,1 @@\n-  inline const char* affiliation_name() const {\n+  const char* affiliation_name() const {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocRequest.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
