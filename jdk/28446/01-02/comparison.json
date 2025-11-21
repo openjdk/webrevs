@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,1 +130,1 @@\n-  __ jcc(Assembler::belowEqual, loop);\n+  __ jccb(Assembler::belowEqual, loop);\n@@ -136,1 +136,1 @@\n-  __ jmp(next_card);\n+  __ jmpb(next_card);\n","filename":"src\/hotspot\/cpu\/x86\/gc\/g1\/g1BarrierSetAssembler_x86.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
