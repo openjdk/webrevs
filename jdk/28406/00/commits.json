@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix: partially revert jdk-8351148 to restore zero build on 32 bit platforms"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"2f55fbe1b183b432ed56e9603a736ceb802ed903"}]
