@@ -1,0 +1,1 @@
+[{"commit":{"message":"Addressing 8372256 by catching CCE and NPE during invocation to Map::get in CHM::equals"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ConcurrentHashMap.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/ConcurrentHashMapTest.java"}],"sha":"7ea9a9e84941bb453a006e7035c48f344e0d1d6a"}]
