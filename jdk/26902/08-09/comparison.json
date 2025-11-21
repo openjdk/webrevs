@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n-    print_property(lrg._degree_valid, \"degree\", lrg.degree());\n+    print_property(true, \"degree\", lrg.degree());\n","filename":"src\/hotspot\/share\/opto\/idealGraphPrinter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
