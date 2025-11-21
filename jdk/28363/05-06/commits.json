@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change to just create a byte array for 'nonce' without generating random data in gcmDecrypt. Suggested by AI."},"files":[{"filename":"test\/jdk\/com\/sun\/crypto\/provider\/Cipher\/AES\/TestGCMSplitBound.java"}],"sha":"d26d0ee9c2b9375824f2bfebb670a44ed5859a5e"}]
