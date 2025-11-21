@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,0 @@\n-                { \"http:\/\/:80\/x\" }, \/\/ port with no host\n","filename":"test\/jdk\/java\/net\/URLPermission\/EmptyAuthorityTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
