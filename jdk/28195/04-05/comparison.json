@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,0 +161,2 @@\n+        \/\/ kNanos may be negative if we reduced the window below minimum,\n+        \/\/ and fast convergence was used. This is acceptable.\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/quic\/QuicCubicCongestionController.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
