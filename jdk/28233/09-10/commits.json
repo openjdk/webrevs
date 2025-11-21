@@ -1,0 +1,1 @@
+[{"commit":{"message":"use ClosedChannelException instead of IOException"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2Connection.java"}],"sha":"79ff938bc3123fe9677f72d9ec409c665e81a751"}]
