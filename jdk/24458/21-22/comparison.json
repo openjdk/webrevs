@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1702,1 +1702,1 @@\n-  if (!_loop->is_invariant(_incr)) { \/\/ Trip counter must be loop-variant\n+  if (_loop->is_invariant(_incr)) { \/\/ Trip counter must be loop-variant\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
