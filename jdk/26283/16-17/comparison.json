@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1538,1 +1538,1 @@\n-  if (lrg._copy_bias || lrg._copy_bias2) {\n+  if (lrg._copy_bias != 0 || lrg._copy_bias2 != 0) {\n","filename":"src\/hotspot\/share\/opto\/chaitin.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
