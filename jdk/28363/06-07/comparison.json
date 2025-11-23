@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3527,0 +3527,1 @@\n+  __ addl(pos, 16 * 16);\n@@ -3530,3 +3531,0 @@\n-  __ cmpl(len, 16 * 16);\n-  __ jcc(Assembler::lessEqual, ENC_DEC_DONE);\n-  __ addl(pos, 16 * 16);\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_aes.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
