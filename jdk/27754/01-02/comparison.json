@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -651,1 +651,1 @@\n-     * @throws NullPointerException if {@code data} is null.\n+     * @throws NullPointerException if {@code iArray} or {@code data} is null.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/MultiPixelPackedSampleModel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
