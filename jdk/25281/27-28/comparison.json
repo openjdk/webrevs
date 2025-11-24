@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2796,2 +2796,2 @@\n-    Label L_EXIT;\n-    __ beqz(input_len, L_EXIT);\n+    Label L_exit;\n+    __ beqz(input_len, L_exit);\n@@ -2818,1 +2818,1 @@\n-    __ bind(L_EXIT);\n+    __ bind(L_exit);\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
