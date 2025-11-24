@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set the -dead_strip linker option only for the JDK libs"},"files":[{"filename":"make\/autoconf\/flags-ldflags.m4"},{"filename":"src\/hotspot\/share\/oops\/metadata.cpp"}],"sha":"b63b9ca895f9943b59454dc79d26037bd4073d84"}]
