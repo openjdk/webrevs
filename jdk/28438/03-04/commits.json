@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use put_when_absent and add an assert that the message is the same."},"files":[{"filename":"src\/hotspot\/share\/classfile\/resolutionErrors.cpp"},{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"a0c5392915cf182eb760001007e442afc507043f"}]
