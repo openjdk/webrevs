@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,1 +268,1 @@\n-            super(ErrorFrame.INTERNAL_ERROR, new Exception(cause));\n+            super(ErrorFrame.INTERNAL_ERROR, cause);\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2TerminationCause.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
