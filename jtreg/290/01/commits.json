@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into stderr"},"files":[],"sha":"04d2135ebe5b7386193c98c65f13f78141f8f111"},{"commit":{"message":"7904083: Print fatal error messages to stderr"},"files":[{"filename":"src\/share\/bin\/jtreg.sh"}],"sha":"1b27919adb62804a15a824a629ff3420198349c4"}]
