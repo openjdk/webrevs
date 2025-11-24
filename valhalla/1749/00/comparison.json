@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-        int minInitialSize = 2000 + (Platform.isS390x() ? 800 : 0);\n+        int minInitialSize = 1300 + (Platform.isS390x() ? 800 : 0);\n","filename":"test\/hotspot\/jtreg\/compiler\/startup\/StartupOutput.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
