@@ -1,0 +1,1 @@
+[{"commit":{"message":"[hat] Use of C99CodeBuilder to build the IR for a deviceType"},"files":[{"filename":"hat\/core\/src\/main\/java\/hat\/codebuilders\/C99CodeBuilder.java"},{"filename":"hat\/core\/src\/main\/java\/hat\/device\/DeviceSchema.java"},{"filename":"hat\/tests\/src\/main\/java\/hat\/test\/TestDeviceType.java"}],"sha":"f7dc733ce9e3b815ac22292f22cadb90db805696"}]
