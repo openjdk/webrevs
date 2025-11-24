@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-     * Returns the {@code GenericDeclaration} object representing the\n+     * Returns a {@code GenericDeclaration} object representing the\n","filename":"src\/java.base\/share\/classes\/java\/lang\/reflect\/TypeVariable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
