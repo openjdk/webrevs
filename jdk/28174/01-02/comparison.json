@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-        buf.print(\"core dumps are further processed the following: \");\n+        buf.print(\"core dumps may be further processed by the following: \");\n","filename":"src\/hotspot\/os\/posix\/os_posix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
