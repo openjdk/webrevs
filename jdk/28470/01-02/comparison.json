@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,0 @@\n-#include \"runtime\/thread.hpp\"\n@@ -29,0 +28,1 @@\n+#include \"runtime\/thread.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shared\/gcLogPrecious.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
