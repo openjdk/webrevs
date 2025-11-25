@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -705,1 +705,1 @@\n-  for (int idx = 0; idx  < deopts->length(); idx++) {\n+  for (int idx = deopts->length() - 1; idx >= 0; idx--) {\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
