@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -154,1 +154,1 @@\n-  inline void ICacheInvalidationContext::pd_init(nmethod*) {}\n+  inline void ICacheInvalidationContext::pd_init() {}\n","filename":"src\/hotspot\/share\/runtime\/icache.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
