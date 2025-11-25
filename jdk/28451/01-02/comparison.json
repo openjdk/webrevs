@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,1 @@\n+ * @bug 8364490\n@@ -27,1 +28,0 @@\n- * @requires vm.flagless\n","filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestSpecTrapLimitExtraEntries.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
