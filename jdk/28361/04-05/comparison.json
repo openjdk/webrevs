@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1172,1 +1172,0 @@\n-#if INCLUDE_JVMTI\n@@ -1175,1 +1174,0 @@\n-#endif\n","filename":"src\/hotspot\/share\/runtime\/javaThread.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
