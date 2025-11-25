@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352654: [REDO] nsk\/jvmti\/ tests should fail when nsk_jvmti_setFailStatus() is called"},"files":[{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/jvmti\/agent_tools.cpp"}],"sha":"e4994574c8a2c3f61d7000e768259c97352283cf"}]
