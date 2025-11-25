@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7236,1 +7236,1 @@\n-  bool is_decrypt= false;\n+  bool is_decrypt = false;\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
