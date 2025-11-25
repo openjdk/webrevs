@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,1 @@\n-                    System.err.println(\"Unexpected 0th root of negative: (\" +\n+                    System.err.println(\"Unexpected 0th root: (\" +\n","filename":"test\/jdk\/java\/math\/BigDecimal\/SquareRootTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
