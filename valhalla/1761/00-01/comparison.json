@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -391,1 +391,1 @@\n-        \/\/ Monotonic, created on demand (todo: migrate to StableValue).\n+        \/\/ Monotonic, created on demand.\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/file\/JavacFileManager.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
