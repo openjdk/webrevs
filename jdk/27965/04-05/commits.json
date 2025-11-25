@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added acquire_load and improved tests"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMetaspace.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/DiagnosticCommandMBeanTest.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/JcmdAOTEndRecordingTest.java"}],"sha":"2223870ca9f97ad1df355e59c9a38368697d5ea5"}]
