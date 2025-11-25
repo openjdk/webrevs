@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -590,1 +590,1 @@\n-    size_t zerobased_max = OopEncodingHeapMax;\n+    const uintptr_t zerobased_max = OopEncodingHeapMax;\n","filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
