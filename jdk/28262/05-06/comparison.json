@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1191,3 +1191,0 @@\n-\n-      \/\/ No more work\n-      return false;\n","filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
