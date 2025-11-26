@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,4 +118,0 @@\n-        if (n == 1) {\n-            return controlPoints[1];\n-        }\n-\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/scenario\/animation\/LinearInterpolator.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
