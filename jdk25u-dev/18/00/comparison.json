@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-class GCLogMessage : public FormatBuffer<512> {};\n+class GCLogMessage : public FormatBuffer<1024> {};\n","filename":"src\/hotspot\/share\/gc\/shared\/collectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
