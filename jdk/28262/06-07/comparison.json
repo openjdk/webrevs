@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1168,1 +1168,1 @@\n-      while (true) {\n+      for (;;) {\n","filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
