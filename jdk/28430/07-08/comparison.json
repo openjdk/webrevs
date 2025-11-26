@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,0 @@\n- *              -Djdk.internal.httpclient.tcp.selector.useVirtualThreads=always\n","filename":"test\/jdk\/java\/net\/httpclient\/PlainConnectionLockTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
