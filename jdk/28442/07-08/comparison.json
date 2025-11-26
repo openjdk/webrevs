@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9266,0 +9266,2 @@\n+  addq(dst, 1);\n+  subq(length, 1 >> shift);\n@@ -9280,3 +9282,1 @@\n-  fill32_tail(shift, dst, disp + 32, xmm, length, temp);\n-  jmp(L_exit);\n-  \/\/ Size <= 32B\n+  addq(dst, 32);\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
