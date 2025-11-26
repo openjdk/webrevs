@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372619: [lworld] Use Character caches in --enable-preview\nRe-enable Character.cache with or without --enable-preview\nA more complete removal of the Character cache needs some hotspot changes."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Character.java"}],"sha":"29fb0c3d09173517b3de0ee0d308bae175239299"}]
