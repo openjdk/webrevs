@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,0 @@\n-\n@@ -199,1 +198,1 @@\n-                result.getMinorVersion() != ImageHeader.MINOR_VERSION) {\n+            result.getMinorVersion() != ImageHeader.MINOR_VERSION) {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/jimage\/BasicImageReader.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
