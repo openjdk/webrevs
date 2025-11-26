@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert change addressed in another bug and move bug IDs."},"files":[{"filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/resources\/jlink.properties"},{"filename":"test\/jdk\/tools\/jlink\/JLinkTest.java"},{"filename":"test\/jdk\/tools\/jlink\/TaskHelperTest.java"}],"sha":"d3931c4097b3a82c29a2e60f5eb7d3f994f3d76f"}]
