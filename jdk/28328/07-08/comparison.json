@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,2 @@\n+class ICacheInvalidationContext;\n+\n","filename":"src\/hotspot\/os_cpu\/linux_aarch64\/icache_linux_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
