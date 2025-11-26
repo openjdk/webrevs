@@ -1,0 +1,1 @@
+[{"commit":{"message":"[AArch64] Math.log is 10% slower than StrictMath.log on aarch64"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"test\/jdk\/java\/lang\/Math\/LogTests.java"}],"sha":"60a0b8e90955f18664bf14195c1a71bba5e4dc87"}]
