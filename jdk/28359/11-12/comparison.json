@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -254,0 +254,3 @@\n+\t\t\/\/ trigger Plugin::configure\n+\t\ttaskHelper.getPluginsConfig(null, null, null);\n+\n","filename":"test\/jdk\/tools\/jlink\/TaskHelperTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
