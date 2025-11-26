@@ -1,0 +1,1 @@
+[{"commit":{"message":"Detect if a java switch is case constant"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/dialect\/java\/JavaOp.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/TestIsCaseConstantSwitch.java"}],"sha":"38fa5d0cd1163b38dfc589541de387e3a64f09b7"}]
