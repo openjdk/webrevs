@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -502,0 +502,1 @@\n+  DEBUG_ONLY(_is_disabler_at_start(false) COMMA)\n","filename":"src\/hotspot\/share\/runtime\/javaThread.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
