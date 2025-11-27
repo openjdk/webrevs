@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,1 @@\n-        deselectALl(list);\n+        deselectAll(list);\n@@ -153,1 +153,1 @@\n-    private static void deselectALl(List list) {\n+    private static void deselectAll(List list) {\n","filename":"test\/jdk\/java\/awt\/List\/NoEvents\/ProgrammaticChange.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
