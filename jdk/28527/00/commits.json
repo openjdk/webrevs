@@ -1,0 +1,1 @@
+[{"commit":{"message":"convert GenericWaitBarrier to use Atomic"},"files":[{"filename":"src\/hotspot\/share\/utilities\/waitBarrier_generic.cpp"},{"filename":"src\/hotspot\/share\/utilities\/waitBarrier_generic.hpp"}],"sha":"618e1a0320a64fef6884a9ba30bdad2b3853fce5"}]
