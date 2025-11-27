@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -224,1 +224,1 @@\n-        if (quicIdleTimeout.get() <= maxIdle.toMillis()) {\n+        if (quicIdleTimeout.get() < maxIdle.toMillis()) {\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/quic\/IdleTimeoutManager.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
