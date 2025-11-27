@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3323,0 +3323,5 @@\n+    case Op_VectorBlend:\n+      if (UseAVX == 0 && size_in_bits < 128) {\n+        return false;\n+      }\n+      break;\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}

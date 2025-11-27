@@ -1,0 +1,1 @@
+[{"commit":{"message":"8337791: VectorAPI jtreg ABSMaskedByteMaxVectorTests crash with UseAVX=0 -XX:MaxVectorSize=8"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"706004983f496739714efbd6a6fa02408650aece"}]
