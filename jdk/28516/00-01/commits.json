@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove dlsym and fix to correct return statement"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.hpp"}],"sha":"558b492d673a85774ecc12b9db093002af4c662c"}]
