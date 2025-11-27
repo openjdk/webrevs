@@ -1,0 +1,1 @@
+[{"commit":{"message":"SATB queue uses Atomic"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/bufferNode.hpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/satbMarkQueue.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/satbMarkQueue.hpp"}],"sha":"731ed182a933abd174e3c004e07f32051088875f"}]
