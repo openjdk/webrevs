@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5512,1 +5512,1 @@\n-volatile int CountedLoopConverter::_long_loop_counted_loops = 0;                                               \n+volatile int CountedLoopConverter::_long_loop_counted_loops = 0;\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
