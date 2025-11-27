@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -447,0 +447,3 @@\n+  UTIL_ADD_JVM_ARG_IF_OK([-Xlog:all=off:stdout],boot_jdk_jvmargs,[$JAVA])\n+  UTIL_ADD_JVM_ARG_IF_OK([-Xlog:all=warning:stderr],boot_jdk_jvmargs,[$JAVA])\n+\n","filename":"make\/autoconf\/boot-jdk.m4","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
