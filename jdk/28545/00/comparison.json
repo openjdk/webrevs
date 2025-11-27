@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -311,1 +311,1 @@\n-                    times[0] = thread.isVirtual() ? -1L : getThreadTotalCpuTime0(0);\n+                    times[0] = thread.isVirtual() ? -1L : getThreadUserCpuTime0(0);\n","filename":"src\/java.management\/share\/classes\/sun\/management\/ThreadImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
