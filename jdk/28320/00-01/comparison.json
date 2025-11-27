@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2619,1 +2619,1 @@\n-  \/\/   x0        - input length\n+  \/\/   x10       - input length\n@@ -2727,1 +2727,1 @@\n-  \/\/   r0        - input length\n+  \/\/   x10       - input length\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
