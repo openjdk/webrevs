@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1296,1 +1296,1 @@\n-    int ei = NODE_EI(node);\n+    EventIndex ei = NODE_EI(node);\n@@ -1394,1 +1394,1 @@\n-    int ei = NODE_EI(node);\n+    EventIndex ei = NODE_EI(node);\n","filename":"src\/jdk.jdwp.agent\/share\/native\/libjdwp\/eventFilter.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
