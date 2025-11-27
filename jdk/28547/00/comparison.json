@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,2 +36,1 @@\n-        \/\/ TODO re-enalbe when monitor doesn't require to pin thread\n-        \/\/ Utils.getRandomInstance();\n+        Utils.getRandomInstance();\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/test\/LocalRandom.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
