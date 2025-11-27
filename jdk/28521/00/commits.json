@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert changes not related to the fix of the crash"},"files":[],"sha":"24dae41f33498887a2a8663f39131f01b1e6bddf"},{"commit":{"message":"8372566: Genshen: crash at ShenandoahScanRemembered::process_clusters after JDK-8371667"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"20bb8f0dd2d01099c68c737d3f45ade085dd94e4"}]
