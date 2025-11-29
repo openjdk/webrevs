@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove local suppression of VS C4146"},"files":[{"filename":"src\/hotspot\/os\/windows\/sharedRuntimeRem.cpp"},{"filename":"src\/hotspot\/share\/runtime\/atomicAccess.hpp"}],"sha":"551b3b2cf3ad25a3fe4090f516f4fd46d9d300be"}]
