@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-  do_arch_blob(compiler, 109000 WINDOWS_ONLY(+2000))                    \\\n+  do_arch_blob(compiler, 120000 WINDOWS_ONLY(+2000))                    \\\n","filename":"src\/hotspot\/cpu\/x86\/stubDeclarations_x86.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
