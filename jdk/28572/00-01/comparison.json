@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-  return MAX2(region_size, calculate_heap_alignment(SpaceAlignment));\n+  return calculate_heap_alignment(region_size);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
