@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4961,1 +4961,1 @@\n-\/\/ Since kernel v2.6.12 the Linux ABI have had support for encoding the clock types\n+\/\/ Since kernel v2.6.12 the Linux ABI has had support for encoding the clock types\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
