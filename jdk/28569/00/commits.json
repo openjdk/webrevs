@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372787: ModulePatcher throws unspecified IllegalStateException upon being invoked after close()"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/module\/ModulePatcher.java"},{"filename":"test\/jdk\/java\/lang\/module\/ModuleReader\/PatchedModuleReaderTest.java"}],"sha":"42cfa0aa40926b748c6d7bdf814d85ca1ccd8fed"}]
