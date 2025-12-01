@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,1 +98,0 @@\n-             thread.setName(id);\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/vm\/runtime\/defmeth\/StressTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
