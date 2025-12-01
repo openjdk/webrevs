@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372747: G1: Conservative heap alignment does not account for card table constraint"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1Arguments.cpp"}],"sha":"f0bc43599df3d6507fef3cf4a6174dd8a57c1164"}]
