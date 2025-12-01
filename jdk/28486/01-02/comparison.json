@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8367002\n+ * @bug 8367002 8370766\n","filename":"test\/hotspot\/jtreg\/compiler\/exceptions\/TestAccessErrorInCatch.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
