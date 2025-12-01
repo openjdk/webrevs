@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372645: ParallelGC: Remove race between allocation and expansion before is_init_completed"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.cpp"}],"sha":"76f7012f82cb1064708294f4cfdbf0b77acba1a1"}]
