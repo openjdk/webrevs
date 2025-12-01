@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1676,0 +1676,1 @@\n+          range(0, max_intx)                                                \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
