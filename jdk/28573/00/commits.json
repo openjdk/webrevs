@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372540: SerialGC: Remove race between allocation and expansion before is_init_completed"},"files":[{"filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.cpp"}],"sha":"ba640c1817bb140998b9f7d1a5ca511f2e50fdcd"}]
