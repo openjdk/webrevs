@@ -1,0 +1,1 @@
+[{"commit":{"message":"change flag type to int"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"a1555d99098500b249aaeb34b787e5aeb17ccbb4"},{"commit":{"message":"constraint on MinOopMapAllocation"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"6ded9479e82fe62eb3cca6ef18b8057f6405ff80"}]
