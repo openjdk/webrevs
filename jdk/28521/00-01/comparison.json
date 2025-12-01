@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1018,1 +1018,1 @@\n-    if (req.type() != ShenandoahAllocRequest::_alloc_plab) {\n+    if (!req.is_lab_alloc()) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
