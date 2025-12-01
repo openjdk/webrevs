@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369950: TLS connection to IPv6 address fails with BCJSSE due to IllegalArgumentException"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/https\/HttpsClient.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/HttpsURLConnection\/SubjectAltNameIPv6.java"}],"sha":"7d1a90321450ac9a875ba78c8f261f1729fdd524"}]
