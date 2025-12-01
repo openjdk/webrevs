@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,1 @@\n-    \/\/ loadObjectList are filled by attach0 method\n+    \/\/ loadObjectList is filled by attach0 method\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/debugger\/bsd\/BsdDebuggerLocal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
