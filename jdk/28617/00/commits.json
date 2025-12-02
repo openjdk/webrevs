@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372961: [BACKOUT] Remove the default value of InitialRAMPercentage"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlag.cpp"},{"filename":"src\/java.base\/share\/man\/java.md"}],"sha":"93bcc7f197c6234ea6ab1cb479e95624dc71db8a"}]
