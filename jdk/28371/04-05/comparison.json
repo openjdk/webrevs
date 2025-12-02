@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4105,0 +4105,1 @@\n+    \/\/ In other words, we are accessing subtype-specific information, so we need to determine the subtype first.\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
