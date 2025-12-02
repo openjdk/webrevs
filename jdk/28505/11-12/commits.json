@@ -1,0 +1,1 @@
+[{"commit":{"message":"use strcmp instead of strncmp for equals"},"files":[{"filename":"src\/hotspot\/share\/jfr\/support\/jfrSymbolTable.cpp"}],"sha":"c2e36d2f1db2eb28001c9c37b1409603596a31da"}]

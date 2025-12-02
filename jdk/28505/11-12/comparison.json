@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -85,1 +85,1 @@\n-  return strncmp((const char*)this->literal(), str, strlen(str)) == 0;\n+  return strcmp((const char*)this->literal(), str) == 0;\n","filename":"src\/hotspot\/share\/jfr\/support\/jfrSymbolTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
