@@ -1,0 +1,1 @@
+[{"commit":{"message":"8351844: C2 x64 AVX2 vpminmax assertion failure with equivalent inputs"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorMinMaxSameInputs.java"}],"sha":"f9611ef6ac6cfc7791762268c7fe6ae621336130"}]
