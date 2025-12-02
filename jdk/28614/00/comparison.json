@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,0 +71,4 @@\n+    if (axComponent == nil) {\n+        return nil;\n+    }\n+\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/a11y\/MenuAccessibility.m","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
