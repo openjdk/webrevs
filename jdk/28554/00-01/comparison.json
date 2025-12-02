@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1405,0 +1405,1 @@\n+        \/\/ Only proceed if the transformation doesn't create a data loop\n","filename":"src\/hotspot\/share\/opto\/cfgnode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
