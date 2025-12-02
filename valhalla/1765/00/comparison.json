@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,1 @@\n-#include \"oops\/flatArrayOop.hpp\"\n+#include \"oops\/flatArrayOop.inline.hpp\"\n","filename":"test\/hotspot\/gtest\/oops\/test_flatArrayOop.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
