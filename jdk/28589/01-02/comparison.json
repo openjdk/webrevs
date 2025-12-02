@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4785,1 +4785,1 @@\n-    jint hash = t->const_oop()->identity_hash_or_zero();\n+    jint hash = t->const_oop()->identity_hash_or_no_hash();\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
