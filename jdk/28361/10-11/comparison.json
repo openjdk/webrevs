@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-      assert((_is_mount && is_virtual) || (!_is_mount && !is_virtual), \"wrong identity\");\n+      assert(_is_mount == is_virtual, \"wrong identity\");\n","filename":"src\/hotspot\/share\/runtime\/mountUnmountDisabler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
