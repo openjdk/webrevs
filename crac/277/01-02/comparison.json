@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1164,1 +1164,1 @@\n-  static const size_t tunables_size_max = 23;\n+  static const size_t tunables_size_max = sizeof(\"AVX_Fast_Unaligned_Load\") - 1;\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
