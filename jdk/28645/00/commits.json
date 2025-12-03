@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373046: Method::get_c2i_unverified_entry() and get_c2i_no_clinit_check_entry() are missing check for abstract method\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/oops\/method.cpp"}],"sha":"ae35a5e51229e1bfbb9def294e700b36621e1f90"}]

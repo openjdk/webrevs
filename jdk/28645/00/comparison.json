@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,0 +171,3 @@\n+  if (is_abstract()) {\n+    return SharedRuntime::get_handle_wrong_method_abstract_stub();\n+  }\n@@ -176,0 +179,3 @@\n+  if (is_abstract()) {\n+    return nullptr;\n+  }\n","filename":"src\/hotspot\/share\/oops\/method.cpp","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
