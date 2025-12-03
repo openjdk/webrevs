@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 5daf0666e9c0fc239d1ba8b63ecb494e367b06f2"},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/ciphersuites\/DisabledAlgorithms.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/ciphersuites\/TLSWontNegotiateDisabledCipherAlgos.java"}],"sha":"59d7ba44a2bed88213b96174b0f685367629cdb1"}]
