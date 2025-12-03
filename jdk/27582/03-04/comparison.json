@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n- * @requires test.thread.factory == null\n","filename":"test\/hotspot\/jtreg\/runtime\/Thread\/AsyncExceptionOnMonitorEnter.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
