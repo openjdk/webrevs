@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -201,1 +201,1 @@\n-            if ((flags & ALIGN_LEFT) != 0) {\n+            if (!isMirrored() && (flags & ALIGN_LEFT) != 0) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/text\/PrismTextLayout.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
