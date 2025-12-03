@@ -1,0 +1,1 @@
+[{"commit":{"message":"SerialGC: Allow SerialHeap::allocate_loaded_archive_space expand old_gen"},"files":[{"filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.cpp"}],"sha":"698efa378a4b869e74397386c22434e54bbc6cc2"}]
