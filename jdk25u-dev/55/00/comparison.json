@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1290,0 +1290,4 @@\n+  if (!ls.is_enabled()) {\n+    return;\n+  }\n+\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
