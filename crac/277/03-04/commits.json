@@ -1,0 +1,1 @@
+[{"commit":{"message":"make AVX_Fast_Unaligned_Load lowercase as required"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"},{"filename":"test\/lib-test\/jdk\/test\/whitebox\/CPUInfoTest.java"}],"sha":"8951ab0ba009d56810c6e11f2ded4fdfb02d1b12"}]
