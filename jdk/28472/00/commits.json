@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372384: Remove unused local variable in MacroAssembler::sha512_update_sha_state on PPC"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc_sha.cpp"}],"sha":"c37c535c2fe5d5c2116c9121f024c46f837eb354"}]
