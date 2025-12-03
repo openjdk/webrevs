@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,0 +117,2 @@\n+     * <p>This method will return a new array each time it is invoked.\n+     *\n@@ -142,0 +144,2 @@\n+     * <p>This method will return a new array each time it is invoked.\n+     *\n","filename":"src\/java.base\/share\/classes\/java\/util\/jar\/JarEntry.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
