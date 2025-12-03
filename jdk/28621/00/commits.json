@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372756: Mouse additional buttons and horizontal scrolling are broken on XWayland GNOME >= 47 after JDK-835190"},"files":[{"filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XToolkit.java"}],"sha":"b180a60dcec765b785def70ead03667c39824658"}]
