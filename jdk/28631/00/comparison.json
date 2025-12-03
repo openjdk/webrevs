@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,0 +122,3 @@\n+<li><code>test\/langtools\/tools\/javac\/versions\/Versions.java<\/code>: add\n+new source version to the set of valid sources and add new enum constant\n+for the new class file version.<\/li>\n","filename":"doc\/starting-next-release.html","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
