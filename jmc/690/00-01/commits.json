@@ -1,0 +1,1 @@
+[{"commit":{"message":"8475: Writing events with fields not explicitly set can corrupt the recording"},"files":[{"filename":"core\/tests\/org.openjdk.jmc.flightrecorder.writer.test\/src\/main\/java\/org\/openjdk\/jmc\/flightrecorder\/writer\/ImplicitEventFieldsTest.java"}],"sha":"d6f6798891e6d9f8d1387de79fab93db03b24c24"}]
