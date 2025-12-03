@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move -Wl,-object_path_lto setting, and specify a file at OBJECT_DIR"},"files":[{"filename":"make\/autoconf\/flags-ldflags.m4"},{"filename":"make\/common\/native\/Flags.gmk"}],"sha":"508122b3cfb9035f94969a55d0ac50eb2c11bb0c"}]
