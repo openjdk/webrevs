@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -968,1 +968,1 @@\n-  const char* const jrt = ClassLoader::get_jrt_entry()->name();\n+  const char* jrt = ClassLoader::get_jrt_entry()->name();\n","filename":"src\/hotspot\/share\/cds\/aotClassLocation.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
