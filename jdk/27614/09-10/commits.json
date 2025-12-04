@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove null check to not assume key is returned"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/ServerHello.java"}],"sha":"37a696893dcfe457d72adf143b51408618b66095"}]
