@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @requires !vm.opt.final.UseLarePages\n+ * @requires !vm.opt.final.UseLargePages\n","filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestMinInitialErgonomics.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
