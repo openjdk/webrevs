@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1720,0 +1720,3 @@\n+        if (ci == null) {\n+            return new Point2D(0, 0);\n+        }\n","filename":"modules\/jfx.incubator.richtext\/src\/main\/java\/com\/sun\/jfx\/incubator\/scene\/control\/richtext\/VFlow.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
