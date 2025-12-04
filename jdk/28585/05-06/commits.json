@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert void special case removal due to C2 shortage causing TestZGCBarrierElision::testAtomicThenAtomicAnotherField failure"},"files":[{"filename":"make\/jdk\/src\/classes\/build\/tools\/methodhandle\/VarHandleGuardMethodGenerator.java"}],"sha":"8200fb283ba2a25b427fe08c97d7a2021f08dba7"}]
