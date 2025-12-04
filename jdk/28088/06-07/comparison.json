@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1102,1 +1102,1 @@\n-  bool has_mh_late_inlines() const     { return _has_mh_late_inlines; }\n+  bool has_mh_late_inlines() const { return _has_mh_late_inlines; }\n","filename":"src\/hotspot\/share\/opto\/compile.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
