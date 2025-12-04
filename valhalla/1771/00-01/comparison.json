@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -282,1 +282,1 @@\n-        long count = objects.stream().map(Object::hashCode).distinct().count();\n+        long count = objects.stream().map(System::identityHashCode).distinct().count();\n","filename":"test\/jdk\/valhalla\/valuetypes\/ValueObjectMethodsTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
