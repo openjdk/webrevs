@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372589: VM crashes on init when NonNMethodCodeHeapSize is set too small and UseTransparentHugePages is enabled"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"}],"sha":"346e7d4c48fe84e0dff8ae9b06a1bdeb9f79ab27"}]
