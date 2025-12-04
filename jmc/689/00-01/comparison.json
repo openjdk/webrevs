@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -103,1 +103,1 @@\n-\t\t\t\treturn Status.OK_STATUS;\n+\t\t\t\treturn Status.CANCEL_STATUS;\n","filename":"application\/org.openjdk.jmc.console.agent\/src\/main\/java\/org\/openjdk\/jmc\/console\/agent\/actions\/AgentEditorOpener.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
