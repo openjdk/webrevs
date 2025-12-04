@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1853,1 +1853,1 @@\n-\/\/  pointers: the base will be valid for encoding, the range [Base, End) and not\n+\/\/  pointers: the base will be valid for encoding the range [Base, End) and not\n","filename":"src\/hotspot\/share\/cds\/aotMetaspace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
