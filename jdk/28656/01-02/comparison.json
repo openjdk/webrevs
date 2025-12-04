@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n-  CDS_ONLY(void on_restoration(const Klass* k, JavaThread* jt);)\n+  CDS_ONLY(static void on_restoration(const Klass* k, JavaThread* jt);)\n","filename":"src\/hotspot\/share\/jfr\/jfr.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
