@@ -1,0 +1,1 @@
+[{"commit":{"message":"Expand scope of control lock so that it can't miss cancellation notifications"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"}],"sha":"89af17016e19f16459564edc7873e00fc232eef2"}]
