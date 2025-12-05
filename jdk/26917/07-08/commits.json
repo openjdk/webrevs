@@ -1,0 +1,1 @@
+[{"commit":{"message":"Changed the constant 16 to 2 * zero_words_block_size\n\nSigned-off-by: Patrick Zhang <patrick@os.amperecomputing.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"}],"sha":"f39078bde1e53f750b7da38916b928530b226852"}]
