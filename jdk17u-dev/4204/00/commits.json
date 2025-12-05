@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361117: SIGSEGV in LShiftLNode::Ideal due to unexpected dead node"},"files":[{"filename":"src\/hotspot\/share\/opto\/arraycopynode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/Test8361117.java"}],"sha":"40c63e8675d2698c8abf9bf2b262e7ece02eacec"}]
