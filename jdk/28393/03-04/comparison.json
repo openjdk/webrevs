@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -634,1 +634,1 @@\n-  DEBUG_ONLY(verify_not_in_native_if_java_thread();)\n+  verify_not_in_native_if_java_thread();\n","filename":"src\/hotspot\/share\/gc\/serial\/serialHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
