@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add asserts back, the elem_ptr must be dirty either in read or write table"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp"}],"sha":"53316bd36855302342cffd070c02bf50b500bc82"}]
