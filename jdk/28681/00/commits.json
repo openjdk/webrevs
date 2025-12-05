@@ -1,0 +1,1 @@
+[{"commit":{"message":"8352914: Shenandoah: Change definition of ShenandoahSharedValue to int32_t to leverage platform atomics"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahSharedVariables.hpp"}],"sha":"90923ab3b090ae4021bcb4bf47076f6124cd2491"}]
