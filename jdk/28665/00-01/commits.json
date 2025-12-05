@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set requested gc cause under a lock when allocation fails"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.hpp"}],"sha":"1081f21e3a3b12f91c3930575a44bd40cda257ed"}]
