@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1178,0 +1178,2 @@\n+    SavedImage *correct_saved_images;\n+\n@@ -1184,1 +1186,1 @@\n-    SavedImage *correct_saved_images = (SavedImage *)reallocarray(\n+    correct_saved_images = (SavedImage *)reallocarray(\n","filename":"jdk\/src\/share\/native\/sun\/awt\/giflib\/dgif_lib.c","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
