@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -482,1 +482,1 @@\n-    @Test(compLevel = CompLevel.C2)\n+    @Test\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestSubwordTruncation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
