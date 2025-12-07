@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix internal JSSE benchmarks to reflect new class location.  Address comments, adjust line lengths"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/javax\/crypto\/full\/KEMBench.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/javax\/crypto\/full\/KeyPairGeneratorBench.java"}],"sha":"30da7e01702ea720f42c977fde01e58c62e81a53"}]
