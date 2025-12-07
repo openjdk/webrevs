@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle negative degrees differently to simplify and optimize code"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/math\/BigDecimal.java"},{"filename":"test\/jdk\/java\/math\/BigDecimal\/SquareRootTests.java"}],"sha":"592c4776ee2ce26ece1f495e3f660a3d2e90163d"}]
