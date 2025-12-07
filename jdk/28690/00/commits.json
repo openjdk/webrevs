@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372949: Prevent NPE in getBootstrapMethodAt by returning an empty array for null offsets or bootstrap methods"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/ConstantPool.java"}],"sha":"7bced4e2bd5c63ffcb9bf7eceb8ec0f12759a96b"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -479,1 +479,1 @@\n-    if (offs == null || bsms == null) return null; \/\/ safety first\n+    if (offs == null || bsms == null) return new short[0];  \/\/ safety first\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/ConstantPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
