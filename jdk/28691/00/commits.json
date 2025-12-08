@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373231: ECDSAOperations::toAffinePoint is redundant"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ec\/ECDSAOperations.java"},{"filename":"test\/jdk\/sun\/security\/ec\/ECDSAPrimitive.java"}],"sha":"a1cebba79dcf29c67543370a149cf753b94c0237"}]
