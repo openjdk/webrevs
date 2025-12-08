@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -312,0 +312,2 @@\n+$(call SetupCopyDebuginfo,JDK)\n+$(call SetupCopyDebuginfo,JRE)\n","filename":"make\/Images.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
