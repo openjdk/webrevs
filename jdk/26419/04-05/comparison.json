@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -116,1 +116,1 @@\n-        if (!System.getProperty(\"java.locale.useOldISOCodes\", \"\").isEmpty()) {\n+        if (System.getProperty(\"java.locale.useOldISOCodes\") != null) {\n","filename":"src\/java.base\/share\/classes\/sun\/util\/locale\/BaseLocale.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
