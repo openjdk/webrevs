@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,0 @@\n-import java.nio.file.Files;\n@@ -80,1 +79,1 @@\n-    @Test(dataProvider = \"testCases\", timeOut=30000)\n+    @Test(dataProvider = \"testCases\")\n","filename":"test\/jdk\/java\/nio\/channels\/spi\/SelectorProvider\/inheritedChannel\/InheritedChannelTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
