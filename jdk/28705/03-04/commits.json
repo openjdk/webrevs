@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371718: Add tests; fix ChannelOutputStream.write"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ChannelOutputStream.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Channels\/SocketChannelStreams.java"}],"sha":"956d64b208fd171592d839f54a2516a4af308f99"}]
