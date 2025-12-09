@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-          throw new Error(\"Unexpected interrupt\");\n+            throw new Error(\"Unexpected interrupt\", e);\n","filename":"test\/hotspot\/jtreg\/runtime\/Nestmates\/membership\/TestNestHostErrorWithMultiThread.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
