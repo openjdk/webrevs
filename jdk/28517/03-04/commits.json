@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert Compile::should_delay_inlining unification"},"files":[{"filename":"src\/hotspot\/share\/opto\/callGenerator.cpp"},{"filename":"src\/hotspot\/share\/opto\/compile.hpp"},{"filename":"src\/hotspot\/share\/opto\/doCall.cpp"}],"sha":"4e9f462451fed0c6771e285438ac8127e05ba1d5"}]
