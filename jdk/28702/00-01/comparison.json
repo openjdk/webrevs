@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+ * @requires os.arch == \"riscv64\" | os.arch==\"aarch64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/cmove\/TestFPComparison2.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
