@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -737,1 +737,1 @@\n-     * Determines if an object reference of the type represented by this {@code\n+     * Determines if a non-null reference of the type represented by this {@code\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Class.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
