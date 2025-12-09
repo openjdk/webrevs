@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372635: Lambdas do not copy over SYNTHETIC flag for local variables"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/LambdaToMethod.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/SyntheticVariables.java"}],"sha":"28cda46f5fc1fdc0a77ca357a6397d57b7b1f7e0"}]
