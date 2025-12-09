@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,1 +190,1 @@\n-         *    throw new IllegalStateException \"headers not sent\");\n+         *    throw new IllegalStateException(\"headers not sent\");\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ExchangeImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
