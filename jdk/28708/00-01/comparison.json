@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -284,1 +284,1 @@\n-      return NULL;\n+      return (0);\n","filename":"src\/java.base\/unix\/native\/libjli\/java_md_common.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
