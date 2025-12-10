@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373411: Crash when PrintSharedArchiveAndExit is enabled but shared heap is disabled"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMetaspace.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/PrintSharedArchiveAndExitNoHeap.java"}],"sha":"4221e14185179a858dfbe9fe14cca6929ece007e"}]
