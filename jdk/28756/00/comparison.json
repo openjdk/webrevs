@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,1 +113,0 @@\n-    @Warmup(10000)\n@@ -127,1 +126,0 @@\n-    @Warmup(10000)\n@@ -142,1 +140,0 @@\n-    @Warmup(10000)\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestLongUnsignedDivMod.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
