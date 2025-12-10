@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prevent GenericEditor serialization"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JTable.java"},{"filename":"test\/jdk\/javax\/swing\/JTable\/EditingJTableNotSerializable.java"}],"sha":"504606d40a295759508bcab3d8a9ae29d9020250"}]
