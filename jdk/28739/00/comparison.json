@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,2 @@\n-  jvmtiCapabilities capabilities{};\n+  jvmtiCapabilities capabilities;\n+  memset(&capabilities, 0, sizeof(jvmtiCapabilities));\n","filename":"test\/jdk\/java\/foreign\/sharedclosejvmti\/libSharedCloseAgent.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
