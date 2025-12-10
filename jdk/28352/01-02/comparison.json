@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2581,1 +2581,1 @@\n-  return _java_thread_min_stack_allowed;\n+  return static_cast<jint>(_java_thread_min_stack_allowed);\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
