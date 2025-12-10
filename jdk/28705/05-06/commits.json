@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371718: Remove duplicative position update; add bug ID to test"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/ChannelOutputStream.java"},{"filename":"test\/jdk\/java\/nio\/channels\/Channels\/SocketChannelStreams.java"}],"sha":"e8036cf8031fcd48022a2acaef6777b32b127b9a"}]
