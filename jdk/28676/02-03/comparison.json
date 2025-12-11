@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -639,1 +639,0 @@\n-DEBUG_PREFIX_CFLAGS := @DEBUG_PREFIX_CFLAGS@\n","filename":"make\/autoconf\/spec.gmk.template","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
