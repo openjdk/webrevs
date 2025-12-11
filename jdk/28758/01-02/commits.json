@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only load _requested_gc_cause once when figuring out pending requests"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"}],"sha":"467b2746fe99fc9a0cabc0f2d989b6fba73778c4"}]
