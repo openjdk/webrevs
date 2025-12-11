@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: use ReentrantLock.hasQueuedThread()"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/ThreadListStackTracesTest\/ThreadListStackTracesTest.java"}],"sha":"a9c4752f50bea03718cf214b8ff7eacb3f77235a"}]
