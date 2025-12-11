@@ -1,0 +1,1 @@
+[{"commit":{"message":"Some runtime calls may receive a derived pointer but not the base"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseloadfolding.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestLoadFolding.java"}],"sha":"f558c90bba1c2523896c7e1ed911151a34fdd2d4"}]
