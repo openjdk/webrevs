@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -228,1 +228,1 @@\n-  virtual void enqueue_completed_buffer(BufferNode* node);\n+  void enqueue_completed_buffer(BufferNode* node);\n","filename":"src\/hotspot\/share\/gc\/shared\/satbMarkQueue.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

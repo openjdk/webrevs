@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove virtual from SATBMarkQueueSet::enqueue_completed_buffer"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/satbMarkQueue.hpp"}],"sha":"517b245fb65eb2b9df0de21e09e016d2129e8edf"}]
