@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -950,0 +950,2 @@\n+    \/\/ Archiving FlatArrayOop with embedded oops is not supported.\n+    \/\/ TODO: add restriction.\n","filename":"src\/hotspot\/share\/cds\/aotMapLogger.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
