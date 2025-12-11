@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n- * @since 26\n+ * @since 27\n@@ -93,1 +93,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"src\/jdk.management\/share\/classes\/jdk\/management\/HotSpotAOTCacheMXBean.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
