@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -182,0 +182,8 @@\n+  static void invalidate_range(address start, int nbytes) {\n+    ICache::invalidate_range(start, nbytes);\n+  }\n+\n+  static void invalidate_word(address addr) {\n+    invalidate_range(addr, 4);\n+  }\n+\n","filename":"src\/hotspot\/share\/runtime\/icache.hpp","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
