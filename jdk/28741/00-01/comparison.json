@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,0 +26,1 @@\n+ * @bug 8373411\n@@ -29,2 +30,0 @@\n- * @modules java.base\/jdk.internal.misc\n- *          java.management\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/PrintSharedArchiveAndExitNoHeap.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
