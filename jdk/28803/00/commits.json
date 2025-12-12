@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only create sun.threads.total_gc_cpu_time if we run a supported GC"},"files":[{"filename":"src\/hotspot\/share\/runtime\/cpuTimeCounters.hpp"}],"sha":"c643db51737c809b39457e95c1f4a568280908c9"}]
