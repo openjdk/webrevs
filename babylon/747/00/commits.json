@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373576: BytecodeGenerator fails with AssertionError on InvokeOp with varargs\n"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/bytecode\/BytecodeGenerator.java"},{"filename":"test\/jdk\/java\/lang\/reflect\/code\/bytecode\/TestBytecode.java"}],"sha":"ac2c9ab69765d903970fa8eab14ab61e19025535"}]
