@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -308,1 +308,5 @@\n-  st->print_cr(unit[0] != '\\0' ? \" %s\" : \"\", unit);\n+  if (unit[0] != '\\0') {\n+    st->print_cr(\" %s\", unit);\n+  } else {\n+      st->print_cr(\"\");\n+  }\n","filename":"src\/hotspot\/os\/linux\/osContainer_linux.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
