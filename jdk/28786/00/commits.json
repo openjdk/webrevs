@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix memory effect of CallLeafPureNode"},"files":[{"filename":"src\/hotspot\/share\/opto\/callnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/divnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"src\/hotspot\/share\/opto\/macro.cpp"}],"sha":"d124be9ffb0aaeebc170db8e8fdafe2b5985a4d4"}]
