@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -311,1 +311,1 @@\n-      st->print_cr(\"\");\n+    st->print_cr(\"\");\n","filename":"src\/hotspot\/os\/linux\/osContainer_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
