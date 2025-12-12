@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move to igvn directory and use test.main.class"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestMissingOptMemBarRemovePrecedentEdge.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/igvn\/TestMissingOptMemBarRemovePrecedentEdge.java"}],"sha":"a32ee08c67a1aede65a9ceb23c10e75ad9f4c32c"}]
