@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373627: assert(!is_vthread_transition_disabler()) failed: no suspend allowed for vthread transition disablers"},"files":[{"filename":"src\/hotspot\/share\/runtime\/mountUnmountDisabler.cpp"}],"sha":"3f610aa39656d66ce22c63546387483cd7e9711c"}]
