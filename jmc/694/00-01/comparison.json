@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n-import net.jpountz.lz4.LZ4FrameInputStream;\n+import at.yawk.lz4.LZ4FrameInputStream;\n","filename":"core\/org.openjdk.jmc.common\/src\/main\/java\/org\/openjdk\/jmc\/common\/io\/IOToolkit.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
