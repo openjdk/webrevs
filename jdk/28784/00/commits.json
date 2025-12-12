@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into JDK-8371559"},"files":[],"sha":"4d0dda0660d06cfa5a5882236f89f459c1009681"},{"commit":{"message":"Use timeout factor when waiting for server ready"},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/Stapling\/HttpsUrlConnClient.java"}],"sha":"e7435050c2790774f3e8f09402ac9274c82f5e1e"}]
