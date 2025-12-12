@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -285,0 +285,2 @@\n+      #elif _MSC_VER == 1950\n+        #define HOTSPOT_BUILD_COMPILER \"MS VC++ 18.0 (VS2026)\"\n","filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
