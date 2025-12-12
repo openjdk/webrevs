@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n- * @run main TestMismatchedMemoryPhis\n+ * @run main ${test.main.class}\n","filename":"test\/hotspot\/jtreg\/compiler\/loopstripmining\/TestMismatchedMemoryPhis.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
