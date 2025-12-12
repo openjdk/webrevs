@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+ * @requires (os.family == \"windows\")\n","filename":"test\/jdk\/javax\/swing\/JInternalFrame\/JIFMaximizedTrfAttribute.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
