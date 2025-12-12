@@ -1,0 +1,1 @@
+[{"commit":{"message":"7904113: Logging flags cause malformed \\uxxxx encoding"},"files":[{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/agent\/GetJDKProperties.java"},{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/config\/JDK.java"}],"sha":"ed26204d78b2c8406a6aca5e9cf7177bd2a5fd19"}]
