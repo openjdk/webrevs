@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-     *     -Djavax.net.debug=all\n+     *     -Djavax.net.debug=ssl,handshake\n","filename":"test\/jdk\/javax\/net\/ssl\/TLSCommon\/TLSTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
