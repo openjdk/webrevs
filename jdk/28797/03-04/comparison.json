@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2004,1 +2004,1 @@\n-                                    Object nt = U.getReferenceAcquire(a, np);\n+                                    Object nt = U.getReference(a, np);\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
