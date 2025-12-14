@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cheaper and stronger assert, add test for devirtualization"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/memnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestLoadFolding.java"}],"sha":"31d96537f29601f809a86665c56103aea7e294ec"}]
