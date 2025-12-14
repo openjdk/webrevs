@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,2 +237,2 @@\n-            } catch (Exception ex) {\n-                printStackTrace(ex);\n+            } catch (Exception|AssertionError t) {\n+                printStackTrace(t);\n","filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/TKit.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
