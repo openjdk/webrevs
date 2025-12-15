@@ -1,0 +1,1 @@
+[{"commit":{"message":"Undo changes in header, needed for gtk2. See 8329471: Remove GTK2"},"files":[],"sha":"daa3ad0c7266e8866aadf3acd577773436dea095"},{"commit":{"message":"Backport 5ea2b6402114d34465b2ad9e476ab8e36ddeea06"},"files":[{"filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/gtk3_interface.c"}],"sha":"4a3edc3bc59c6ffcb58a0f4d883c9d4bf87ecb58"}]
