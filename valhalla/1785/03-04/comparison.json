@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1455,0 +1455,2 @@\n+  \/\/ Safe to read if we have enough words for the full header, i.e., both\n+  \/\/ markWord and Klass pointer.\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
