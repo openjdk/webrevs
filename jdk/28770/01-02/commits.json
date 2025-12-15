@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Remove MinI\/MaxI exceptions from verify_Ideal_for\"\n\nThis reverts commit 1ae308155ebec12a9741eb40b1630dbde49af7ac."},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"}],"sha":"630364e1afcde64ffdaa546cb2814fc9071e3445"}]
