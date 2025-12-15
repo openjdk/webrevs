@@ -1,0 +1,1 @@
+[{"commit":{"message":"Undo changes in header, needed for gtk2. See 8329471: Remove GTK2"},"files":[{"filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/gtk_interface.h"}],"sha":"daa3ad0c7266e8866aadf3acd577773436dea095"}]
