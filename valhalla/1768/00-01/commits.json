@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8369045: remove strength reduction flag"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/compile.hpp"},{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"}],"sha":"ccf58125b13655bb6c15af747345efbd6791f93d"}]
