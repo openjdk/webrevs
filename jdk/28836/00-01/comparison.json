@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-    Object[][] names() {\n+    Object[][] lenientEra() {\n@@ -55,1 +55,1 @@\n-    @MethodSource(\"names\")\n+    @MethodSource(\"lenientEra\")\n","filename":"test\/jdk\/java\/util\/Calendar\/JapaneseLenientEraTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
