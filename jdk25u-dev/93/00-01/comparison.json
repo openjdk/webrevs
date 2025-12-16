@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -574,1 +574,1 @@\n-    VM_Operation(), _map_info(map_info), _builder(b) {}\n+    VM_Operation(), _heap_info(), _map_info(map_info), _builder(b) {}\n","filename":"src\/hotspot\/share\/cds\/metaspaceShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
