@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,1 +157,1 @@\n-                Assert.check(!active.owners.add(owner));\n+                Assert.check(active.owners.add(owner));\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/file\/JRTIndex.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
