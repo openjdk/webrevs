@@ -1,0 +1,1 @@
+[{"commit":{"message":"if parser exception is thrown, include verbatim user value in the message, not lower-cased version"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/css\/media\/MediaFeatures.java"}],"sha":"0fc311f2715153fa91e5bf533ddb92b4e23530b9"}]
