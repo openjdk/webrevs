@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-    \/\/ Note: we used to check for ConF nodes in the IR. But that is a bit brittle:\n+    \/\/ Note: we used to check for ConD nodes in the IR. But that is a bit brittle:\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/ModDNodeTests.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
