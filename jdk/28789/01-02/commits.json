@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use MemBar instead of widening the intrinsic memory"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahSupport.cpp"},{"filename":"src\/hotspot\/share\/opto\/graphKit.cpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"9649a2f21a34c1d2b95cfed017839eeda809b504"}]
