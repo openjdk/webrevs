@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373787: [lworld] InstanceKlass::size mixes bytes and words"},"files":[{"filename":"src\/hotspot\/share\/oops\/flatArrayKlass.hpp"},{"filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp"}],"sha":"b617866ff5cf7912c07efe38e92ea93abd43837c"}]
