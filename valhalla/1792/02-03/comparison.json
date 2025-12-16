@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -335,1 +335,1 @@\n-  [[nodiscard]] \/\/ The caller is responsible to thow an exception on failure\n+  [[nodiscard]] \/\/ The caller is responsible to throw an exception on failure\n","filename":"src\/hotspot\/share\/oops\/access.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
