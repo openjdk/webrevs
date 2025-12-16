@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373661: Convert BasicObjectsTest to JUnit format\n\n   - Converted all 17 test methods from jtreg main-method format to JUnit\n   - Removed main() method\n   - Added @run junit annotation\n   - All tests follow OpenJDK JUnit testing patterns\n\n   Thanks to @RogerRiggs for the feedback."},"files":[],"sha":"03017effc924489d3c17d68e6068df8b2e542d08"}]
