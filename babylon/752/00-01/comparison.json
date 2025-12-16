@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -860,1 +860,1 @@\n-                                                      \"invoke\",\n+                                                      \"invokeExact\",\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/bytecode\/BytecodeGenerator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
