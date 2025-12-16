@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369043: [lworld] -XX:AOTMode=create crashes with UseCompactObjectHeaders on aarch64"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vtableStubs_aarch64.cpp"},{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"}],"sha":"40090b103be080d15a2fc3ab16492b5744e396fe"}]
