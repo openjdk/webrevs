@@ -1,0 +1,1 @@
+[{"commit":{"message":"applid David's suggestion"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp"}],"sha":"6790f159a95d735b1083355408b19c007801924d"},{"commit":{"message":"8373723: Deadlock with JvmtiTagMap::flush_object_free_events()"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp"}],"sha":"3035f2b43d8759ead0fc79b3637b0c993269eb31"}]
