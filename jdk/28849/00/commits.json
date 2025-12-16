@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove ScopedValueBindingsResolver to avoid potential NULL pointer returned by SystemDictionary::resolve_or_fail()"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmClassMacros.hpp"},{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"6f6aac921173f85652dac88948eac72fefe1cf15"}]
