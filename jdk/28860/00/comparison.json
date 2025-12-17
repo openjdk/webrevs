@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -370,1 +370,1 @@\n-  if (exclusive_operation_ongoing()) {\n+  if (_is_exclusive) {\n","filename":"src\/hotspot\/share\/runtime\/mountUnmountDisabler.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
