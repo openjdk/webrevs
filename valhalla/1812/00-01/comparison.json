@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,1 @@\n-    assert(_adr_inline_klass_members != 0, \"Should have been initialized\");\n+    assert(_adr_inline_klass_members != nullptr, \"Should have been initialized\");\n","filename":"src\/hotspot\/share\/oops\/inlineKlass.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
