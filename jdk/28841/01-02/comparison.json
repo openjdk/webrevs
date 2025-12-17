@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-package compiler.c2;\n+package compiler.igvn;\n","filename":"test\/hotspot\/jtreg\/compiler\/igvn\/TestNodeWithNoUseAfterPhiIdeal.java","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestNodeWithNoUseAfterPhiIdeal.java","status":"renamed"}]}
