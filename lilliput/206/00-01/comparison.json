@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -581,1 +581,1 @@\n-  assert(UseZGC || !m.is_forwarded(), \"must not be forwarded header\");\n+  assert(ZGC_ONLY(UseZGC ||) !m.is_forwarded(), \"must not be forwarded header\");\n","filename":"src\/hotspot\/share\/oops\/oop.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
