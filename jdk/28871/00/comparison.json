@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,0 +73,4 @@\n+        if (res.length - 1 != 2) {\n+            output.reportDiagnosticSummary();\n+        }\n+\n@@ -134,1 +138,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/StackWalkNativeToJava.java","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
