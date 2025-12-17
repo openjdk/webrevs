@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed test case -- the regexp pattern could match the stats for the subgraphs table, which now has a single entry"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/SharedSymbolTableBucketSize.java"}],"sha":"306d91678f881ef3b3531e1841e6bcc28f6ec82f"}]
