@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -894,1 +894,1 @@\n-                    ? Collections.emptySet() : filesForLocation.keySet();\n+                ? Collections.emptySet() : filesForLocation.keySet();\n","filename":"test\/langtools\/tools\/lib\/toolbox\/ToolBox.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
