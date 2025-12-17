@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -580,2 +580,0 @@\n-  \/\/ ZGC temporarily marks the header in ZObjArrayAllocator::initialize().\n-  assert(ZGC_ONLY(UseZGC ||) !m.is_forwarded(), \"must not be forwarded header\");\n","filename":"src\/hotspot\/share\/oops\/oop.inline.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
