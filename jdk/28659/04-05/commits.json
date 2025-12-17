@@ -1,0 +1,1 @@
+[{"commit":{"message":"completely revert test changes"},"files":[{"filename":"test\/jdk\/jdk\/jfr\/jcmd\/TestJcmdDumpPathToGCRoots.java"}],"sha":"09886f484085bca5796b73b3a1d17e64184f5edb"},{"commit":{"message":"revert part of the test changes"},"files":[{"filename":"test\/jdk\/jdk\/jfr\/jcmd\/TestJcmdDumpPathToGCRoots.java"}],"sha":"ad92650386a48f917a0947642aa41cca7aaf378c"}]
