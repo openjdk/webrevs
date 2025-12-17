@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 386ad61458a3901622b92ca56982d728c11b846a"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/quic\/QuicEndpoint.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/http3\/H3ErrorHandlingTest.java"}],"sha":"25d08ee56600524e3c534fc4f36793fbeb79ba23"}]
