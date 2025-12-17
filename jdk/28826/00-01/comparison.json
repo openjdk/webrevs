@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -293,1 +293,1 @@\n-        if(!DockerTestUtils.RETAIN_IMAGE_AFTER_TEST) {\n+        if (!DockerTestUtils.RETAIN_IMAGE_AFTER_TEST) {\n","filename":"test\/lib\/jdk\/test\/lib\/containers\/docker\/DockerTestUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
