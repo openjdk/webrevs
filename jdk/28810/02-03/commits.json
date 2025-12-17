@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix idiosyncratic white space in whitebox\n\nCo-authored-by: Stefan Karlsson <stefan.karlsson@oracle.com>"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"},{"filename":"test\/lib\/jdk\/test\/whitebox\/WhiteBox.java"}],"sha":"74b7307c709e6875c27750077badf193980ef1d3"}]
