@@ -1,0 +1,1 @@
+[{"commit":{"message":"8184166: Move nulling of out-of-range elements to inside if (c.wasRemoved()) { } block, as this is only where it's required."},"files":[{"filename":"modules\/javafx.base\/src\/main\/java\/javafx\/collections\/transformation\/SortedList.java"}],"sha":"d09a85b573363947aeeb7298e509269146022855"}]
