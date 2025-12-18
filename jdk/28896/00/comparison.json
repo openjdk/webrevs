@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8545,1 +8545,1 @@\n-instruct convHF2F_reg_reg(fRegF dst, iRegINoSp src, iRegINoSp tmp) %{\n+instruct convHF2F_reg_reg(fRegF dst, iRegIorL2I src, iRegINoSp tmp) %{\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
