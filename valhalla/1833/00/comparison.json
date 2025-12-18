@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-    Set<Symbol> loadableDescriptors = new HashSet<>();\n+    Set<Symbol> loadableDescriptors = new LinkedHashSet<>();\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/PoolWriter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
