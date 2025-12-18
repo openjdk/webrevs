@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,0 @@\n-#include \"opto\/subnode.hpp\"\n@@ -41,0 +40,1 @@\n+#include \"opto\/subnode.hpp\"\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
