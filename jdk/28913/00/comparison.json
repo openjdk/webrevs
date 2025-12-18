@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,2 @@\n-    -html5 -javafx --expand-requires transitive\n+    -html5 -javafx --expand-requires transitive \\\n+    -XDaccessInternalAPI\n","filename":"make\/Docs.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
