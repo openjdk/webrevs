@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -138,0 +138,1 @@\n+                e.printStackTrace();\n","filename":"test\/jdk\/java\/net\/httpclient\/http2\/GoAwayWithErrorTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
