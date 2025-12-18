@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373837: \"assert(thread->is_VM_thread() || thread->is_Java_thread()) failed: Must be VMThread or JavaThread\" on macosx-aarch64-26"},"files":[{"filename":"src\/hotspot\/os\/posix\/signals_posix.cpp"}],"sha":"9437bfda928065c5813fdf22572e6c1e0956b86f"}]
