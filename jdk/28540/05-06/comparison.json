@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,1 @@\n-package compiler.constantFold;\n+package compiler.corelibs;\n","filename":"test\/hotspot\/jtreg\/compiler\/corelibs\/OptionalFold.java","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"test\/hotspot\/jtreg\/compiler\/constantFold\/OptionalFold.java","status":"renamed"}]}
