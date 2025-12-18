@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373839: Disable JVM TI suspension during JNI critical regions"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.hpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.inline.hpp"}],"sha":"7723275e4495cc1f514c531afe752210209617cc"}]
