@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved the generation of random suffix for schema padding to codegen"},"files":[{"filename":"hat\/core\/src\/main\/java\/hat\/codebuilders\/C99HATKernelBuilder.java"},{"filename":"hat\/core\/src\/main\/java\/hat\/ifacemapper\/Schema.java"}],"sha":"ed9c8b2a12839f56dd07cc177fbfb302309cb85e"}]
