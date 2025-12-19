@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -334,0 +334,2 @@\n+  \/\/ Future location for null-restriction check and failure reporting\n+\n","filename":"src\/hotspot\/share\/gc\/z\/zBarrierSet.inline.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
