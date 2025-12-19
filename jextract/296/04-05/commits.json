@@ -1,0 +1,1 @@
+[{"commit":{"message":"7904115: Fix for AIX test case failures due to incorrect alignment for double and pointer"},"files":[{"filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/StructBuilder.java"},{"filename":"test\/jtreg\/generator\/testStruct\/LibStructTest.java"}],"sha":"a3dbfaf9e999812ecef00af8211d3a05775e059d"}]
