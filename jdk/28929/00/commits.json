@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 00050f84d44f3ec23e9c6da52bffd68770010749"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorization.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectorization.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestAliasingCheckVPointerVariablesNotAvailable.java"}],"sha":"b9231032d621e8ad195e52fbce3012209f5656cf"}]
