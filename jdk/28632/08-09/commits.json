@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371903: Use stateLock to synchronize stream iteration and connection closure"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2Connection.java"}],"sha":"af092399cd5d188fdec4061d33528f6dc0f3a7f0"}]
