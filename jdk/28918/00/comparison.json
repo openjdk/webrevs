@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,1 @@\n-    IPv6_available = IPv6_supported() & (!preferIPv4Stack);\n+    IPv6_available = IPv6_supported() && !preferIPv4Stack;\n","filename":"src\/java.base\/share\/native\/libnet\/net_util.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
