@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373967: [macos] User interactions with List do not trigger ItemEvent after programmatic change"},"files":[{"filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/LWListPeer.java"},{"filename":"test\/jdk\/java\/awt\/List\/NoEvents\/MixProgrammaticUserChange.java"}],"sha":"6f8cc25117ba74523bf4abe520af790302e2cc2d"}]
