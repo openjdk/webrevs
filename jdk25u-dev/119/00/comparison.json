@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-      \"-XX:GCTimeLimit=90\",           \/\/ Ease the CPU requirement a little.\n+      \"-XX:GCTimeLimit=80\",           \/\/ Ease the CPU requirement.\n","filename":"test\/hotspot\/jtreg\/gc\/TestUseGCOverheadLimit.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
