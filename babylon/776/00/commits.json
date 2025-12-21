@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cleanup of HAT Cuda codegen"},"files":[{"filename":"hat\/backends\/ffi\/cuda\/src\/main\/java\/hat\/backend\/ffi\/CudaHATKernelBuilder.java"},{"filename":"hat\/core\/src\/main\/java\/hat\/codebuilders\/C99HATKernelBuilder.java"}],"sha":"8abb2a357749e3677a20c28542687f44d4625657"}]
