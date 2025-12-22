@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-        return VM.current().addressSize();\n+        return VM.current().objectHeaderSize() - classHeaderSize();\n","filename":"jol-core\/src\/main\/java\/org\/openjdk\/jol\/datamodel\/ModelVM.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
