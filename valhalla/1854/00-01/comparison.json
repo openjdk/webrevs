@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -735,1 +735,1 @@\n-          if (nullptr != preview_entry) {\n+          if (preview_entry != nullptr) {\n","filename":"src\/hotspot\/share\/classfile\/classLoader.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
