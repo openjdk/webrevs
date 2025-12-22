@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -231,1 +231,1 @@\n-                fprintf(origFile, str);\n+                fprintf(origFile, \"%s\", str);\n@@ -321,1 +321,1 @@\n-    printf(outputString);\n+    printf(\"%s\", outputString);\n","filename":"src\/jdk.accessibility\/windows\/native\/jabswitch\/jabswitch.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
