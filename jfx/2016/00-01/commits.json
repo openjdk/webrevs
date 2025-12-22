@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366739: organizeOverflow() is now snapping length inside  after floating-point manipulation. Also, simplifying previous commit fix in getOverflowNodeIndex() regarding snapping x."},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/ToolBarSkin.java"}],"sha":"d77d2c779453edb4b95b06c780ad803f3df08150"}]
