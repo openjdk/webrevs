@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1601,1 +1601,1 @@\n-          \/\/ The graph could be in a dirty state. So, we need to check for the type of x\n+          \/\/ The graph could be dying (i.e. x is top) in which case type(x) is not a long.\n","filename":"src\/hotspot\/share\/opto\/addnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
