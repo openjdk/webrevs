@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,2 +168,0 @@\n-        var pkg = Objects.requireNonNull(createPackage.apply(options));\n-\n","filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/DefaultBundlingEnvironment.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
