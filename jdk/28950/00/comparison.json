@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -100,1 +100,1 @@\n-    fprintf(logfile, tmpbuf);\n+    fprintf(logfile, \"%s\", tmpbuf);\n","filename":"src\/jdk.accessibility\/windows\/native\/toolscommon\/AccessInfo.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
