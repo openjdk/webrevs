@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,1 @@\n+#include \"oops\/constantPool.inline.hpp\"\n@@ -90,3 +91,0 @@\n-#ifdef ASSERT\n-#include \"oops\/constantPool.inline.hpp\"\n-#endif\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
