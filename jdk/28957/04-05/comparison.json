@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -342,1 +342,1 @@\n-            TKit.createDirectories(execDir);\n+            Files.createDirectories(execDir);\n","filename":"test\/jdk\/tools\/jpackage\/share\/BasicTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
