@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move down the helper to avoid introducing new conditions\n\nAddress mgronlun's comment"},"files":[{"filename":"src\/hotspot\/share\/jfr\/support\/jfrClassDefineEvent.cpp"}],"sha":"bccc9eac931cdda32c051c643ec36ff8314f65f7"}]
