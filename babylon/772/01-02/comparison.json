@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -177,1 +177,1 @@\n-    void testIdentityPrimitive() { \/\/ TODO test with int and float when other PR is merged\n+    void testIdentityPrimitive() {\n","filename":"test\/jdk\/java\/lang\/reflect\/code\/TestPrimitiveTypePatterns.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
