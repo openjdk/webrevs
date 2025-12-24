@@ -1,0 +1,1 @@
+[{"commit":{"message":"8374317: Change GCM IV size to 12 bytes when encrypting\/decrypting TLS session ticket"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SessionTicketExtension.java"}],"sha":"729216970213643080baa898b320a81b7bddc1c2"}]
