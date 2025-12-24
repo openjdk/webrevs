@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,1 +168,1 @@\n-                        if (line.split(\"\\s\", 2)[0].endsWith(\"systemd-coredump\")) {\n+                        if (line.split(\"\\\\s+\", 2)[0].endsWith(\"systemd-coredump\")) {\n","filename":"test\/lib\/jdk\/test\/lib\/util\/CoreUtils.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
