@@ -1,0 +1,1 @@
+[{"commit":{"message":"8374343: Fix SIGSEGV when lib\/modules is unreadable"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotClassLocation.cpp"}],"sha":"f3da8c8267729044d0543a601b1980d6c60d7703"}]
