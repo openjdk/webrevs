@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,0 @@\n-#include \"runtime\/icache.hpp\"\n@@ -45,0 +44,1 @@\n+class ICacheInvalidationContext;\n","filename":"src\/hotspot\/share\/code\/nmethod.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
