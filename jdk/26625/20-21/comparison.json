@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,2 +134,2 @@\n-        if (testResize) {\n-            wasLWClicked = false;\n+        if (!testResize) {\n+            return true;\n","filename":"test\/jdk\/java\/awt\/Mixing\/AWT_Mixing\/GlassPaneOverlappingTestBase.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
