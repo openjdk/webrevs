@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix escape at store"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestLoadFolding.java"}],"sha":"06fb10fecf1ee373a6e13f572523100ee75fa87e"}]
