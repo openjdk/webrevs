@@ -1,0 +1,1 @@
+[{"commit":{"message":"Convert the check condition for vector length into an assertion\n\nAlso refined the tests."},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorStoreMaskIdentityTest.java"}],"sha":"8c29c902316e071c3289eb1574bc0dafca16a641"}]
