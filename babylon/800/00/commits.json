@@ -1,0 +1,1 @@
+[{"commit":{"message":"Migrated BufferTagger to use InvokeOpHelper for common tasks"},"files":[{"filename":"hat\/core\/src\/main\/java\/hat\/BufferTagger.java"},{"filename":"hat\/optkl\/src\/main\/java\/optkl\/InvokeOpHelper.java"}],"sha":"95b7437f0ee2ab082d602d2f01bce752c257dedb"}]
