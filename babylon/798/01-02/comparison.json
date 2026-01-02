@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,0 +112,2 @@\n+                    changed.set(true);\n+                    return exit.rebind(blockbuilder.context(), blockbuilder.transformer());\n","filename":"hat\/core\/src\/main\/java\/hat\/BufferTagger.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
