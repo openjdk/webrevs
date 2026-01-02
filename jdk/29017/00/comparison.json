@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -13176,1 +13176,1 @@\n-      <functionlink id=\"GetLoadedClasses\">when a class or interface is created.<\/functionlink>.\n+      <functionlink id=\"GetLoadedClasses\">when a class or interface is created<\/functionlink>.\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
