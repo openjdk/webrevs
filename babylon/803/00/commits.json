@@ -1,0 +1,1 @@
+[{"commit":{"message":"More FP16Phase cleanup. Leveraging Invoke helper"},"files":[{"filename":"hat\/core\/src\/main\/java\/hat\/phases\/HATFP16Phase.java"},{"filename":"hat\/optkl\/src\/main\/java\/optkl\/Invoke.java"},{"filename":"hat\/optkl\/src\/main\/java\/optkl\/OpHelper.java"}],"sha":"740873ca231da5b4d66a151a02d6d01a9a4ce800"}]
