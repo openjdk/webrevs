@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -254,1 +254,0 @@\n-    public final Type looselyConsistentValueType;\n@@ -663,1 +662,0 @@\n-        looselyConsistentValueType = enterClass(\"java.lang.LooselyConsistentValue\");\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Symtab.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
