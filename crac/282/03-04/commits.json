@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fail on x86 non-Linux with not recognized CPUFeatures pattern"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"test\/jdk\/jdk\/crac\/CPUFeatures\/SimpleCPUFeaturesTest.java"}],"sha":"0bab0747c3f75f26c9ce0a9b21dcff70f29f5ba5"}]
