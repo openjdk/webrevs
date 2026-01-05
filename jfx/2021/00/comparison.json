@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -588,1 +588,1 @@\n-        public Builder setRTL(ParagraphDirection d) {\n+        public Builder setParagraphDirection(ParagraphDirection d) {\n","filename":"modules\/jfx.incubator.richtext\/src\/main\/java\/jfx\/incubator\/scene\/control\/richtext\/model\/StyleAttributeMap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
