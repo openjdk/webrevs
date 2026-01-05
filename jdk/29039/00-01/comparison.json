@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -133,1 +133,1 @@\n-  virtual void adjust_penalty(intx step);\n+  virtual void adjust_penalty(intx step) override;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAdaptiveHeuristics.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
