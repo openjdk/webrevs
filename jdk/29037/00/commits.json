@@ -1,0 +1,1 @@
+[{"commit":{"message":"8374518: C1: Remove dead LinearScanStatistic::Counter::counter_fpu_stack"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_LinearScan.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c1\/TestCITimeCountLinearScan.java"}],"sha":"2679cf2f0414b696d53f4e643a48ead47cc47bf1"}]
