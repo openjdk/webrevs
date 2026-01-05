@@ -1,0 +1,1 @@
+[{"commit":{"message":"8374213: [11u] [BACKOUT] JDK-8301379"},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/ciphersuites\/DisabledAlgorithms.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/ciphersuites\/TLSWontNegotiateDisabledCipherAlgos.java"}],"sha":"edf0a6b5e605d91ed8a47ca4c5d74dba9c2421dd"}]
