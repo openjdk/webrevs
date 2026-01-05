@@ -1,0 +1,1 @@
+[{"commit":{"message":"8374456: JVM crashes with \"assert(resolved_method->method_holder()->is_linked()) failed: must be linked\" when run with large value for PreallocatedOutOfMemoryErrorCount"},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"77b2a6df1f2c04c2333e42cc66005454ed469306"}]
