@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -325,1 +325,1 @@\n-    public final void setLocation(Location l) {\n+    public final Op setLocation(Location l) {\n@@ -332,0 +332,1 @@\n+        return this;\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/Op.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
