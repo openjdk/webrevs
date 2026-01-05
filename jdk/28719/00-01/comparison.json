@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,1 +118,1 @@\n-    assert(is_init_completed(), \"Would be interesting to see if this ever happens\");\n+    assert(is_init_completed(), \"Initialization not completed\");\n","filename":"src\/hotspot\/share\/gc\/shared\/workerThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
