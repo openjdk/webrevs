@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -956,1 +956,0 @@\n-static bool from_reexec;\n@@ -963,0 +962,1 @@\n+  bool from_reexec = getenv(REEXEC_NAME) != nullptr;\n@@ -1069,2 +1069,0 @@\n-  from_reexec = getenv(REEXEC_NAME) != nullptr;\n-\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
