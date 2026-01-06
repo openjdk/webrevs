@@ -1,0 +1,1 @@
+[{"commit":{"message":"7904126: PrintWriter(s) used by jtreg for agent logging aren't using autoFlush"},"files":[{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/agent\/AgentServer.java"},{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/Agent.java"}],"sha":"7d082050ca97cf557b781fad080e33948761d676"}]
