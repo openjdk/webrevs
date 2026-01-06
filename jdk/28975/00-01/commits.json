@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8374322: TestMemoryWithSubgroups.java fails Permission denied\"\n\nThis reverts commit be21ae5d78e63673cfaaa79be70d47f7331f5298."},"files":[{"filename":"test\/hotspot\/jtreg\/containers\/docker\/TestMemoryWithSubgroups.java"}],"sha":"0c8f3101a709292f397e5b9f909551aa9c8ab0ed"}]
