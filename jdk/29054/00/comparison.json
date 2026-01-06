@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -959,0 +959,4 @@\n+    \/* Do not continue if any copy-back operation raised an exception *\/\n+    if ((*env)->ExceptionCheck(env)) {\n+        goto cleanup;\n+    }\n","filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/p11_keymgmt.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
