@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,1 +87,1 @@\n-        \/\/ If cgroups is not configured, report success\n+        \/\/ If cgroups is not configured, the test is skipped.\n","filename":"test\/lib\/jdk\/test\/lib\/containers\/cgroup\/MetricsTester.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
