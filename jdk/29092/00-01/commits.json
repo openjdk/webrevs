@@ -1,0 +1,1 @@
+[{"commit":{"message":"use -1 to represent absence of a GZIP header, from readHeader() method"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPInputStream.java"}],"sha":"06e7b370c6f0c1a10d31a4a0b6a00efa9447a890"}]
