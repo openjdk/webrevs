@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -699,1 +699,1 @@\n-    *((narrowOop*)field_addr_in_buffer) = checked_cast<narrowOop>(addr);\n+    *((narrowOop*)field_addr_in_buffer) = CompressedOops::narrow_oop_cast(addr);\n","filename":"src\/hotspot\/share\/cds\/aotMappedHeapWriter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
