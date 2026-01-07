@@ -1,0 +1,1 @@
+[{"commit":{"message":"No need to use Atomic::load to read shared alloc region in refresh_alloc_regions"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.cpp"}],"sha":"f5038a3a03e0c489f6981fd83e08be1371c99bd2"}]

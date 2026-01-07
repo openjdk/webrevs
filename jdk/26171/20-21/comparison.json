@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -263,1 +263,1 @@\n-    ShenandoahHeapRegion* region = AtomicAccess::load(&alloc_region->address);\n+    ShenandoahHeapRegion* region = alloc_region->address;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
