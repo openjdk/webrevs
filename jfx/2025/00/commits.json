@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use GtkFileChooserNative instead of GtkFileChooserDialog for file picker dialogs in gtk based glass"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/GlassCommonDialogs.cpp"}],"sha":"555a66cffad59801e549ebca1e30330b75e9ea1c"}]
