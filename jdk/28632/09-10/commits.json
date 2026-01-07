@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371903: Move close() outside stateLock to avoid deadlock"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2Connection.java"}],"sha":"9d57110a7df794afde51a77f43295d97509d7335"}]

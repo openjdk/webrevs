@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1480,2 +1480,0 @@\n-\n-            close(cause);\n@@ -1485,0 +1483,2 @@\n+\n+        close(cause);\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2Connection.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
