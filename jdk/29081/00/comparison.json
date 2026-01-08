@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -460,6 +460,0 @@\n-  if (base != nullptr && addr != base) {\n-    if (!os::release_memory(addr, size)) {\n-      warning(\"Could not release memory on unsuccessful file mapping\");\n-    }\n-    return nullptr;\n-  }\n","filename":"src\/hotspot\/os\/posix\/os_posix.cpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
