@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,0 +112,2 @@\n+        \/\/ Intel APX\n+        \"apx_f\",\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/test\/IREncodingPrinter.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
