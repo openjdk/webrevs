@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -724,1 +724,0 @@\n-                    return true;\n@@ -726,0 +725,3 @@\n+\n+                \/\/ Always consume WM_MOUSEMOVE when we're in a PDR interaction.\n+                return true;\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/GlassWindow.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
