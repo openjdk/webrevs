@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -484,0 +484,1 @@\n+    @Warmup(0)\n@@ -509,1 +510,0 @@\n-        TestFramework.runWithFlags(\"-Xcomp\", \"-XX:CompileCommand=compileonly,*TestSubwordTruncation::*\");\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestSubwordTruncation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Use Xcomp test run instead of Warmup(0)\"\n\nThis reverts commit 50bc132676e5a1276bdf2c236ae57873375a773d."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestSubwordTruncation.java"}],"sha":"0b445a5a4a9aeed87cd2f039c182793417c78d49"}]
