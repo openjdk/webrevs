@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -802,6 +802,0 @@\n-    static Properties getAllSecurityPropertiesReadOnly() {\n-        Properties copy = new Properties();\n-        copy.putAll(props);\n-        return copy;\n-    }\n-\n","filename":"src\/java.base\/share\/classes\/java\/security\/Security.java","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
