@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+ * @requires test.thread.factory == null\n","filename":"test\/jdk\/jdk\/internal\/misc\/VM\/RuntimeArguments.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
