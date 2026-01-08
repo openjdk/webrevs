@@ -1,0 +1,1 @@
+[{"commit":{"message":"8360934: Add AVX-512 intrinsics for ML-KEM - enhancement on AVX512_VBMI\nChange Swap to Dup named function\/variable\nCheck for only VBMI support (not VBMI2)"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_kyber.cpp"}],"sha":"4af759634d266e164eddf368dbb5ec854248f033"}]
