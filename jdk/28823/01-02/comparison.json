@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-public class OpenFileStress {\n+public class OpenFileForWritingBench {\n","filename":"test\/micro\/org\/openjdk\/bench\/java\/io\/OpenFileForWritingBench.java","additions":1,"deletions":1,"binary":false,"changes":2,"previous_filename":"test\/micro\/org\/openjdk\/bench\/java\/io\/OpenFileStress.java","status":"renamed"}]}
