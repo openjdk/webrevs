@@ -1,0 +1,1 @@
+[{"commit":{"message":"1. Allow to reserve alloc region with free space >= PLAB::min_size()\n2. Other minor fixes"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.cpp"}],"sha":"7e0a124442a6c8f67058903788fb3fff9ff30df0"}]
