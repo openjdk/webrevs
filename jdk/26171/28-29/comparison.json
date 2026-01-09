@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,2 @@\n+#include \"utilities\/globalDefinitions.hpp\"\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAffiliation.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
