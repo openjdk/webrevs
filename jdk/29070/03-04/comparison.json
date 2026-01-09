@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @bug 8284883\n+ * @bug 8284883 8374570\n@@ -36,2 +36,0 @@\n- *\n- * @bug 8374570\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/ClearArray.java","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
