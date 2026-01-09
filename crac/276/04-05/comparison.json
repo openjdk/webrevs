@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n- * @requires (os.family != \"unix\")\n+ * @requires (os.family != \"windows\")\n","filename":"test\/jdk\/jdk\/crac\/java\/nio\/channels\/Selector\/MultipleSelectNowTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
