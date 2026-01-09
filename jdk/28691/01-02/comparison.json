@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n- * @bug 8189189 8147502 8295010 8373231\n+ * @bug 8189189 8147502 8295010\n","filename":"test\/jdk\/sun\/security\/ec\/ECDSAPrimitive.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
