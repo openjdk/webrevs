@@ -1,0 +1,1 @@
+[{"commit":{"message":"generate null checks for intersections for which at least one component is null restricted"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Type.java"},{"filename":"test\/langtools\/tools\/javac\/nullability\/RuntimeNullChecks.java"}],"sha":"5ec51f0e4ffd139dd6ba5d11c57fda2d203543bc"}]
