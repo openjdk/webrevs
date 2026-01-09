@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove extra jump instruction in signum floating point and unify three-way floating point comparison logic in x86.ad"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"cd7acad7525677925daf52233170cf54b5016c20"}]
