@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport da14813a5bdadaf0a1f81fa57ff6e1b103eaf113"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorization.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectorization.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestLoadSliceWithMultipleMemoryInputStates.java"}],"sha":"37d9e49bb48541ae289750f7351907ed5f055cd0"}]
