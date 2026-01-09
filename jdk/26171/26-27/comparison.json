@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+#include \"gc\/shenandoah\/shenandoahAllocRequest.hpp\"\n@@ -37,1 +38,0 @@\n-class ShenandoahAllocRequest;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
