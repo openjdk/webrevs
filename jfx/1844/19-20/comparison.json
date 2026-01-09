@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -880,1 +880,1 @@\n-                    (400px &gt;= width &gt;= 600px)<br>\n+                    (600px &gt;= width &gt;= 400px)<br>\n","filename":"modules\/javafx.graphics\/src\/main\/docs\/javafx\/scene\/doc-files\/cssref.html","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
