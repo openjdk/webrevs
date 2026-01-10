@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- *           (vm.compMode != \"Xcomp\" | vm.compMode == null)\n+ *           vm.compMode == \"Xmixed\"\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/NMethodRelocation\/NMethodRelocationTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
