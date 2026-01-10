@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use supports_hybrid() to check for EnableX86ECoreOpts"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"96880609c8e5a9898e4a0d5e5044b2e63b752e0d"},{"commit":{"message":"Add comments for CPU models"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"f363ea1436b8100021fdac87b48ec43bcf6820af"}]
