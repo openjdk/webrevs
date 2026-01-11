@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -876,0 +876,1 @@\n+    __ align(OptoLoopAlignment);\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_kyber.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
