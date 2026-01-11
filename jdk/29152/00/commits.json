@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove trailing whitespace"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"080552489b678ca8933f459d5557ab4eebb54209"},{"commit":{"message":"[Linux] Avoid fstat in os::open"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"1ff56fa086f2f0548f7256386e1b19a2359ea0fa"}]
