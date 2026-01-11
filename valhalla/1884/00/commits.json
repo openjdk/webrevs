@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not generate null checks for record patterns"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/NullChecksWriter.java"},{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"}],"sha":"38845f27236d2511e783bfcef0c2f46f96d577b6"}]
