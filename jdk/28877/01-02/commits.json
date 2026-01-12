@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update to use Stream<List<String>> for parameterized method testing.\nAdd static to simplify test setup.\nSmall source changes to remove \"C\" style array declarations."},"files":[{"filename":"test\/jdk\/java\/io\/Serializable\/class\/NonSerializableTest.java"}],"sha":"cc9a66bc05ef286fa19c96d881644630d32fe454"}]
