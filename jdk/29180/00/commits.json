@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make ByteArrayOutputStream.ensureCapacity(int) protected"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/io\/ByteArrayOutputStream.java"},{"filename":"test\/jdk\/java\/io\/ByteArrayOutputStream\/EnsureCapacity.java"}],"sha":"ecd31f591a87cb908180ce224878b1af9a10c8a8"}]
