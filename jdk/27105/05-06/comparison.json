@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- *          results when CodeSource is created with emtpy or null Certificate[]\n+ *          results when CodeSource is created with empty or null Certificate[]\n","filename":"test\/jdk\/java\/security\/CodeSource\/CodeSourceNoInputs.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
