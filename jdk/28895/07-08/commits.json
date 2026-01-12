@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Remove exclude or Min\/Max in verify identity\"\n\nThis reverts commit cf24abad55db9a320930379c4f0f3154791d26e2."},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"}],"sha":"438aeff326b1f055893c8b0206cd4ee5fdf1057c"}]
