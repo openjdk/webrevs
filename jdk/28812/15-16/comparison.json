@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1358,1 +1358,1 @@\n-  if (!DoLocalEscapeAnalysis || phase == nullptr) {\n+  if (!DoLocalEscapeAnalysis || phase == nullptr || !phase->type(base)->isa_oopptr()) {\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
