@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -0,0 +1,8 @@\n+#define test_width 16\n+#define test_height 3\n+#define ht_x 1\n+#define ht_y 2\n+static unsigned char test_bits[] = {\n+0x20, 0x10, \n+0x25, 0x01, \n+0xAC, 0xab };\n","filename":"test\/jdk\/java\/awt\/image\/XBMDecoder\/valid_multiline.xbm","additions":8,"deletions":0,"binary":false,"changes":8,"status":"added"}]}
