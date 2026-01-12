@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-  \/\/ Special iterators for an element index range\n+  \/\/ Special iterators for an element index range.\n","filename":"src\/hotspot\/share\/oops\/objArrayOop.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
