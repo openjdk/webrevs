@@ -1,0 +1,1 @@
+[{"commit":{"message":"8374948: [8u] saproc & jsig builds add duplicate linker flags on Darwin\/MacOS"},"files":[{"filename":"hotspot\/make\/bsd\/makefiles\/gcc.make"},{"filename":"hotspot\/make\/bsd\/makefiles\/jsig.make"},{"filename":"hotspot\/make\/bsd\/makefiles\/saproc.make"}],"sha":"4e5afd45312369f3f7786a631cd9d6c3b5dca67f"}]
