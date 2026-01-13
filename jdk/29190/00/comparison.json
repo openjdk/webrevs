@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+import java.nio.charset.StandardCharsets;\n@@ -99,1 +100,1 @@\n-                    str = new String(b, 0, n);\n+                    str = new String(b, 0, n, StandardCharsets.UTF_8);\n","filename":"test\/jdk\/demo\/jfc\/J2Ddemo\/J2DdemoTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
