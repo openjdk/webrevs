@@ -1,0 +1,1 @@
+[{"commit":{"message":"While eagerly refresh alloc regions, thread should not yield to safepoint because it is holding uninitialized new object"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.hpp"}],"sha":"475bdac7cda7b8210dc9192fbc4a994a0afeb93d"}]
