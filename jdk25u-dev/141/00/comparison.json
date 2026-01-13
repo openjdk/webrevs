@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1300,1 +1300,1 @@\n-                if ((room == 0 || a[m & (s - pk)] == null) &&\n+                if ((room == 0 || U.getReferenceAcquire(a, slotOffset(m & (s - pk))) == null) &&\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
