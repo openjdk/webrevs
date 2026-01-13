@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375183: Remove unused SSLConfiguration.maximumProtocolVersion variable"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLConfiguration.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/TransportContext.java"}],"sha":"ebc4227656281e16dfced3aa9f4fe7084bfca5ad"}]
