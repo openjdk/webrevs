@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,2 +113,2 @@\n-    for (uint i = Values; i < field_count(); ++i) {\n-      Node* n = in(i);\n+    for (uint i = 0; i < field_count(); ++i) {\n+      Node* n = field_value(i);\n","filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
