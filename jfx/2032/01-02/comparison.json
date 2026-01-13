@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -535,1 +535,1 @@\n-        } catch (final NullPointerException e) {\n+            \/\/ Invalid color specification\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/css\/CssParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
