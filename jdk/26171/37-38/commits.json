@@ -1,0 +1,1 @@
+[{"commit":{"message":"More eagerly to refresh alloc regions in attempt_allocation_slow since it is holding heap lock"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.hpp"}],"sha":"6cc1834b7bb9bcf2dca1e6ecef2ed93eabbc5109"}]
