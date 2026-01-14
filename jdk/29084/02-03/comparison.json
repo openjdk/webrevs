@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,0 +38,1 @@\n+import jdk.internal.vm.annotation.AOTSafeClassInitializer;\n@@ -80,0 +81,1 @@\n+@AOTSafeClassInitializer\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotClassLinking\/GeneratedInternedString.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
