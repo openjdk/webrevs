@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -934,1 +934,0 @@\n-        jKeyHandle = 0L;\n","filename":"src\/jdk.crypto.cryptoki\/share\/native\/libj2pkcs11\/p11_keymgmt.c","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
