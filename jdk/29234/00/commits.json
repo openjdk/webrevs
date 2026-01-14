@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375294: (fs) Files.copy can fail with EOPNOTSUPP when copy_file_range not supported"},"files":[{"filename":"src\/java.base\/linux\/native\/libnio\/ch\/FileDispatcherImpl.c"},{"filename":"src\/java.base\/linux\/native\/libnio\/fs\/LinuxNativeDispatcher.c"}],"sha":"83d02e87bb9d350ed42cddb07a8303ca0d96b3db"}]
