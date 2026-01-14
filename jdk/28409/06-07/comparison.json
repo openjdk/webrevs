@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,2 +54,0 @@\n-        \/\/ JDK-8374450\n-        TF(\"opto.canonicalize_constraints\"),\n","filename":"test\/hotspot\/jtreg\/gtest\/AllNotVMGtest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
