@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zJNICritical to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zJNICritical.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zJNICritical.hpp"}],"sha":"d50ca0ddc9dbbf692001bcd2402ae65710fb4cf1"}]
