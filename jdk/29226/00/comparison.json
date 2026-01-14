@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -94,1 +94,1 @@\n-        m.addColumn(columnIdentifier, columnData.toArray());\n+        m.addColumn(columnIdentifier, (columnData == null) ? null : columnData.toArray());\n","filename":"src\/demo\/share\/jfc\/TableExample\/OldJTable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
