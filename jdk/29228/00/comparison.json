@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,0 +115,4 @@\n+    } else {\n+      if (!successful_write) {\n+        remove(destfile);\n+      }\n@@ -952,0 +956,1 @@\n+      remove(filename);\n","filename":"src\/hotspot\/os\/posix\/perfMemory_posix.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
