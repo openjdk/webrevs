@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zAbort to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zAbort.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zAbort.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zAbort.inline.hpp"}],"sha":"1f51b0c6299870d4f5cec77cf82c79c23843d020"}]
