@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,4 +169,0 @@\n-    \/\/NOTE: this is not a rectangle. The left, top, right, and bottom\n-    \/\/components contain corresponding insets values.\n-    RECT m_insets;\n-\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/win\/GlassWindow.h","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
