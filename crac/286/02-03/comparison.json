@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -249,1 +249,1 @@\n-#define DEFINE_DEFAULT(id, ctype, cdef, ...) Option<ctype> _##id = { .value = cdef };\n+#define DEFINE_DEFAULT(id, ctype, cdef, ...) Option<ctype> _##id = { cdef, true };\n","filename":"src\/java.base\/share\/native\/libcrexec\/crexec.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
