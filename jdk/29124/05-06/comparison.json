@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n-    static const char* description() { return \"Print security properties.\"; }\n+    static const char* description() { return \"Print java.security.Security properties.\"; }\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
