@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6217,1 +6217,1 @@\n-    __ br(Assembler::GE, L_loop);\n+    __ br(Assembler::GT, L_loop);\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
