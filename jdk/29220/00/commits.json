@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zForwarding to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/vmStructs_z.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zForwarding.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zForwarding.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zForwarding.inline.hpp"}],"sha":"e981013a0083279a32f183a34ed225fd7543c304"}]
