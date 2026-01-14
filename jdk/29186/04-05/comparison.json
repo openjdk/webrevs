@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -289,1 +289,1 @@\n-  bool is_buffered() const override { return true; }\n+  bool is_buffered() const { return true; }\n","filename":"src\/hotspot\/share\/utilities\/ostream.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
