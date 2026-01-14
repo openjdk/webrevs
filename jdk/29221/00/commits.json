@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zForwardingAllocator to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zForwardingAllocator.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zForwardingAllocator.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zForwardingAllocator.inline.hpp"}],"sha":"9d57e9ead85cc2564eefbb57c460719bf964e5f0"}]
