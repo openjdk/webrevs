@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375320: [lworld] Revert SystemIdentityHashcode for wrapper objects non AltSubstitutability version\nRestore the unconditional use of value_object_hash_code_method.\nThe Alt hashcode method is not used (until it is fixed)"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"fecdeb23f27f57151eb8877d60af16ae7a93f5b7"}]
