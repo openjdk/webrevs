@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-    output.stdoutContains(\".*(file:\/|jar:).*\");\n+    output.stdoutShouldMatch(\"^.*(file:\/|jar:).*$\");\n","filename":"test\/hotspot\/jtreg\/runtime\/CommandLine\/PrintClasses.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
