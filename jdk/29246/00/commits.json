@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zMarkTerminate to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zMarkTerminate.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zMarkTerminate.inline.hpp"}],"sha":"fb7a9e69004a57da3404d1992676423ecfa2bc56"}]
