@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -357,1 +357,1 @@\n-    \/\/ - During the second step, type(x) is widen to [0, 2], w = 0.\n+    \/\/ - During the second step, type(x) is widened to [0, 2], w = 0.\n","filename":"src\/hotspot\/share\/opto\/rangeinference.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
