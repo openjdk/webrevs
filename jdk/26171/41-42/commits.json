@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only to set update_watermark when allocate from collector\/old collector partition"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.cpp"}],"sha":"42770e08c594692e9be71202572aafd8f79d1667"}]
