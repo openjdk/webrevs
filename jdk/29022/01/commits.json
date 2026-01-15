@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into jfrset-zero-as-null-pointer-warnings"},"files":[],"sha":"d54334e0bbc7f49e17451eaacbcb635b489bac67"},{"commit":{"message":"fix -Wzero-as-null-poniter-constant warnings in jfrSet.hpp"},"files":[{"filename":"src\/hotspot\/share\/jfr\/utilities\/jfrSet.hpp"}],"sha":"d2ee55abd41b97e05841a2ed4874dbab01521679"}]
