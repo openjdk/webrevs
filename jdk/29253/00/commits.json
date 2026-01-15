@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375455\n\nHi all,\n\n  please review this trivial removal of an unused method.\n\nTesting: local compilation\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CardSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1HeapRegionRemSet.hpp"}],"sha":"e9fe9681a23c5eac47b61970a7dbdc983a16fa9d"}]
