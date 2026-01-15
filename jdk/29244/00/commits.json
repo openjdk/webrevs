@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zLock to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zLock.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zLock.inline.hpp"}],"sha":"c2c27da88e0e297b40dd62fc61caef3354c5aac8"}]
