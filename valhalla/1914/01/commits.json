@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add comment"},"files":[{"filename":"src\/hotspot\/share\/oops\/inlineKlass.cpp"}],"sha":"c4776d84ccea1ee3c4202b1a83b866fca6dcda4d"},{"commit":{"message":"8375434: [lworld] Cleanup null-marker check for InlineKlass::read_payload_from_addr"},"files":[{"filename":"src\/hotspot\/share\/oops\/inlineKlass.cpp"}],"sha":"705b141648997cbd38d069193929198b1e485fee"}]
