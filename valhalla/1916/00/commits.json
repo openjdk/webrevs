@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixing null restricted types for fields\/methods in compact source files."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/nullability\/NullabilityCompilationTests.java"}],"sha":"6c387da1065879ffcb0cb6141511eeae9cb9749a"}]
