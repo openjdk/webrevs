@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zMark to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zMark.hpp"}],"sha":"645a8b2c94c526a4ab6af79bf22c73b476249fcf"}]
