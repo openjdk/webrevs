@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -342,2 +342,1 @@\n-  XRenderPictureAttributes pict_attr;\n-  pict_attr.repeat = RepeatNone;\n+  XRenderPictureAttributes pict_attr = {0};\n","filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/java2d\/x11\/XRBackendNative.c","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
