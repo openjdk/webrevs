@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -199,1 +199,1 @@\n-        \/\/ The warnings are mutual exclusive\n+        \/\/ The warnings are mutually exclusive\n","filename":"test\/jdk\/tools\/jpackage\/macosx\/SigningPackageTwoStepTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
