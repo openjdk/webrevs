@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zRemembered to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zRemembered.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zRemembered.hpp"}],"sha":"39c98772187537c2685e630aa71d0a4205a2b2bf"}]
