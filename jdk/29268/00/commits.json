@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zRelocate to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.hpp"}],"sha":"eb26f41d9f376e8713d05617683e19fa7fdb16c9"}]
