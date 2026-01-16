@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zRootsIterator to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zRootsIterator.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zRootsIterator.hpp"}],"sha":"c21b49dc30a1a919fb8398e27c7fff7b3125177a"}]
