@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375530: PPC64: incorrect quick verify_method_data_pointer check causes poor performance in debug build"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc_64.cpp"}],"sha":"5814522e26730afcc4e8f252e4d67bb3e4c33c4a"}]
