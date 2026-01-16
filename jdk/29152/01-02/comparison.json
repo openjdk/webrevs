@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4886,1 +4886,1 @@\n-  \/\/ access mode is not read only\n+  \/\/ access mode is not read only.\n@@ -4892,1 +4892,1 @@\n-  \/\/ which the JVM don't allow to be read\n+  \/\/ which the JVM doesn't allow to be read.\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
