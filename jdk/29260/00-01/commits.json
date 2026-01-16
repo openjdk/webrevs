@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357404: jpackage should attempt to get a package version from the JDK's release file if the --version option is not specified [v3]"},"files":[{"filename":"src\/jdk.jpackage\/windows\/classes\/jdk\/jpackage\/internal\/WinFromOptions.java"}],"sha":"a891e85f40bdf4d2a0c6232e963d7ad899486e80"}]
