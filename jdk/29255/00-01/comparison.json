@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -113,0 +113,2 @@\n+        \/\/ We tested with a platform thread in race1. Here we\n+        \/\/ use a vthread to exercise different timing behavior.\n","filename":"test\/jdk\/java\/lang\/Thread\/virtual\/stress\/NotifiedThenTimedOutWait.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
