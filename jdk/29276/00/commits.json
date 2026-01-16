@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zResurrection to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zResurrection.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zResurrection.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zResurrection.inline.hpp"}],"sha":"d21f1f56c2da03a8268148ae8200d06ece599b53"}]
