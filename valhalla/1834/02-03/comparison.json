@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -839,1 +839,1 @@\n-        return versionInfo().jdwpMajor >=27;\n+        return versionInfo().jdwpMajor >= 27;\n","filename":"src\/jdk.jdi\/share\/classes\/com\/sun\/tools\/jdi\/VirtualMachineImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
