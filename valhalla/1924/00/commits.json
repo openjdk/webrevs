@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375319: [lworld] System.identityHashCode wrong for Wrapper classes with -XX:+UseAltSubstitutabilityMethod\nSeed the AltHashCode implementation on the SALT value."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/ValueObjectMethods.java"}],"sha":"57bdfebd66a8e82a2a97a00ebba5cca6eac7a3b1"}]
