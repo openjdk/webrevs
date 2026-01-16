@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-    \/\/@Test\n+    @Test\n@@ -375,1 +375,1 @@\n-    \/\/@Test\n+    @Test\n@@ -436,1 +436,1 @@\n-    \/\/@Test\n+    @Test\n","filename":"test\/langtools\/tools\/javac\/nullability\/RuntimeNullChecks.java","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
