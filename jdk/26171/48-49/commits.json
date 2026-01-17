@@ -1,0 +1,1 @@
+[{"commit":{"message":"Enforce memory order by adding fence"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.inline.hpp"}],"sha":"5e080fb5229094e79d8c3206023ac3f9dae171e1"}]
