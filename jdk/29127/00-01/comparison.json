@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -569,1 +569,1 @@\n-  mixed_candidate_garbage_words = 0;\n+  _mixed_candidate_garbage_words = 0;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
