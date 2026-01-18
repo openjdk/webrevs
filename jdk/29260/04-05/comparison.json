@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -247,2 +247,2 @@\n-                app.srcDir(),\n-                app.contentDirs(),\n+                app.appDirSources(),\n+                app.contentDirSources(),\n","filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/ApplicationBuilder.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357404: jpackage should attempt to get a package version from the JDK's release file if the --version option is not specified [v6]"},"files":[{"filename":"src\/jdk.jpackage\/share\/classes\/jdk\/jpackage\/internal\/ApplicationBuilder.java"}],"sha":"06bbad82a1d47e15e4f9e7b19f29b626c77918b2"}]
