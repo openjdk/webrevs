@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify scan mode control by moving and reworking topLevelExec and throwing on trim"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"}],"sha":"a1e5ce94e00dbddea8447b063f569af9c86cb578"}]
