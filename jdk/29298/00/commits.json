@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375626\n\nHi all,\n\n  please review this change to use `Atomic<T>` for the `G1CollectionSetChooser` class.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSetChooser.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSetChooser.hpp"}],"sha":"6a29e1cf76d0ffbf0bc940501acf7a72723d62a0"}]
