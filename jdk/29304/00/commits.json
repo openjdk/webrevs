@@ -1,0 +1,1 @@
+[{"commit":{"message":"Incorrect assertion in CastLLNode::Ideal"},"files":[{"filename":"src\/hotspot\/share\/opto\/castnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/type.cpp"},{"filename":"src\/hotspot\/share\/opto\/type.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/igvn\/CastLLBits.java"}],"sha":"4778bcba2771196deed9110c6a4e3b2ad5d1bd63"}]
