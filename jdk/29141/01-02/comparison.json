@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6084,1 +6084,1 @@\n-  \/\/ it is assumed that parsed and condensed are allocated such that for\n+  \/\/ we assume that parsed and condensed are allocated such that for\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
