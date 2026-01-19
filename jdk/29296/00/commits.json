@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375622\n\nHi all,\n\n  please review this change to convert `G1CodeRootSet` to use `Atomic<T>` instead of `AtomicAccess`.\n\nTesting: gha,\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CodeRootSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CodeRootSet.hpp"}],"sha":"b76b4df86a669cbcab5e0fe28331779255b55d43"}]
