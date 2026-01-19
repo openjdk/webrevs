@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2109,0 +2109,3 @@\n+     * <p>The returned length accounts for the replacement of malformed-input and unmappable-character\n+     * sequences with the charset's default replacement byte array.\n+     *\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
