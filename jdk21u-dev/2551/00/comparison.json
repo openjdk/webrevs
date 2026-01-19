@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -361,1 +361,1 @@\n-        log_debug(os, container)(\"controller %s is not enabled\\n\", cg_controller_name[i]);\n+        log_debug(os, container)(\"controller %s is not enabled\", cg_controller_name[i]);\n","filename":"src\/hotspot\/os\/linux\/cgroupSubsystem_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
