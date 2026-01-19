@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375548: [lworld] C2: Compiler replay fails with an assertion due to not loading object array klasses with ArrayProperties::DEFAULT"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciReplay.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/ciReplay\/TestLoadObjArrayKlass.java"}],"sha":"0cdb2549427a02c6d77adbbf29ba5ed1d1d38293"}]
