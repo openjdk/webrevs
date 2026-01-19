@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -145,1 +145,1 @@\n-                        f2 = newFileOutputStream(Redirect.DISCARD,\n+                        f2 = newFileOutputStream(Redirect.DISCARD.file(),\n","filename":"src\/java.base\/windows\/classes\/java\/lang\/ProcessImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
