@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375630\n\nHi all,\n\n  please review this change to `G1ConcurrentMark` to use `Atomic<T>`.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp"}],"sha":"e1e1bcf3f317d767496565fa2d38c0d67a5d92f5"}]
