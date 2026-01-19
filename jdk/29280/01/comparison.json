@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -425,4 +425,2 @@\n-  if (Universe::heap()->is_in(p)) {\n-    oop obj = cast_to_oop(p);\n-    obj->print();\n-  } else {\n+\n+  if (!Universe::heap()->print_location(tty, p)) {\n","filename":"src\/hotspot\/share\/utilities\/debug.cpp","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}
