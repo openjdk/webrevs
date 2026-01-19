@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,0 @@\n-    @SuppressWarnings(\"initialization\")\n@@ -65,0 +64,1 @@\n+        super();\n","filename":"test\/lib\/jdk\/test\/lib\/cds\/SimpleCDSAppTester.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
