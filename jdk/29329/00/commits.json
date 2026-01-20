@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix MacOSX -Wzero-as-null-pointer-constant warnings"},"files":[{"filename":"make\/hotspot\/lib\/CompileGtest.gmk"},{"filename":"src\/hotspot\/os\/bsd\/memMapPrinter_macosx.cpp"},{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"6d73a55fb6e06c68a0d8a06ac29861ce67ce62bb"}]
