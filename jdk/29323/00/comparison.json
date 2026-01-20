@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-    private static final String OPENSSL_BUNDLE_VERSION = \"3.5.1\";\n+    private static final String OPENSSL_BUNDLE_VERSION = \"3.5.4\";\n","filename":"test\/lib\/jdk\/test\/lib\/security\/OpensslArtifactFetcher.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
