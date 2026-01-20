@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8375444\nRemoved commented out print statements.\nFixed import order."},"files":[{"filename":"modules\/javafx.controls\/src\/main\/java\/com\/sun\/javafx\/scene\/control\/LabeledImpl.java"},{"filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/LabeledTruncatedTest.java"}],"sha":"6f78c57876bd5ae80dde99f2de9b73fa3b62886f"}]
