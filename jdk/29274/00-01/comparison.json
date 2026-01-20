@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -158,1 +158,1 @@\n-  Atomic<size_t>_coarsen_from[NumCoarsenCategories];\n+  Atomic<size_t> _coarsen_from[NumCoarsenCategories];\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardSet.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
