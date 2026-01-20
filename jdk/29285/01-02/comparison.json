@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,1 +268,0 @@\n-            Runtime.getRuntime().gc();\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/ClassUnloader.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
