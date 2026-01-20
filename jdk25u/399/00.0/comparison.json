@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -831,0 +831,4 @@\n+\n+# Mechanically added:\n+javax\/sound\/midi\/Soundbanks\/ExtraCharInSoundbank.java 8350613 linux-aarch64,linux-x64\n+java\/net\/CookieHandler\/B6644726.java 8366103 linux-aarch64,linux-x64,macosx-aarch64,windows-x64\n","filename":"test\/jdk\/ProblemList.txt","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
