@@ -1,0 +1,1 @@
+[{"commit":{"message":"relocate print out to SYSTEM section and remove AIX impl"},"files":[{"filename":"src\/hotspot\/os\/aix\/os_aix.cpp"},{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/share\/utilities\/vmError.cpp"}],"sha":"14ca2e29bafa82e7c17c98358d9aef067bdcc2d5"}]
