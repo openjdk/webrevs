@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2050,1 +2050,1 @@\n-      \/\/ If we will add the vthread to the entry list below then we need to \n+      \/\/ If we will add the vthread to the entry list below then we need to\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
