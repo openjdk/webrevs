@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375616\n\nHi all,\n\n  please review the use of `Atomic<T>` for the `G1BatchedTask` class.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1BatchedTask.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1BatchedTask.hpp"}],"sha":"b248b5c2af9d5cc46adcc85c20f492525d20ad17"}]
