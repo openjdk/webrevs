@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375740: [lworld] javap prints \"value class\" while class flags indicate ACC_IDENTITY"},"files":[{"filename":"src\/jdk.jdeps\/share\/classes\/com\/sun\/tools\/javap\/ClassWriter.java"},{"filename":"test\/langtools\/tools\/javap\/value_classes\/ValueClassesJavapTest.java"}],"sha":"c06db063e03ef5a1b900efe783b3875bdc88151d"}]
