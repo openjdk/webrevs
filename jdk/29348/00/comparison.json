@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,0 +134,1 @@\n+                                || msg.contains(\"Connection timed out\")\n","filename":"test\/jdk\/com\/sun\/jndi\/ldap\/LdapPoolTimeoutTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
