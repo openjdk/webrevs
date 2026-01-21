@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+ *      -XX:+UnlockDiagnosticVMOptions\n@@ -47,0 +48,1 @@\n+ *      -XX:+UnlockDiagnosticVMOptions\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestCastShapeBadOpc.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
