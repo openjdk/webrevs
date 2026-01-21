@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use \"list\" instead of \"queue\" when referring to expandedPath which is processed FIFO and as such is not a queue"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/loader\/URLClassPath.java"}],"sha":"d79624429e270cb50ef43ae24e23cd3ea15d9a74"}]
