@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8327246: fixed initialization bug in AOT cache sharing summary code"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"}],"sha":"341643a2d7bc41ac33e32b2b226427040c76492b"}]

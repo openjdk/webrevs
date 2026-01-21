@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2341,1 +2341,1 @@\n-  :_st(st), _verbose(verbose), _location(location) {\n+  :_st(st), _verbose(verbose), _location(location), _aot_statics(0), _aot_dynamics(0) {\n@@ -2386,1 +2386,0 @@\n-\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
