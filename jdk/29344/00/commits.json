@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375978\n\nHi all,\n\n  please review this conversion of `G1Policy` to use `Atomic<T>`.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.hpp"}],"sha":"eb4fbdf1bcec341d9ebfc6b38bfbb479ed505a3f"}]
