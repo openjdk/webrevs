@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -502,1 +502,1 @@\n-        if (m_font.isZeroWidthSpaceGlyph(m_glyphs[i]))\n+        if (m_font->isZeroWidthSpaceGlyph(m_glyphs[i]))\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/platform\/graphics\/ComplexTextController.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
