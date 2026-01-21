@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375364\n\nHi all,\n\n  please review the changes to let `G1BuildCandidateRegionsTask` use `Atomic<T>`.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectionSetChooser.cpp"}],"sha":"53e409f42000e86f286b5b1ddd31b9c67c6ee382"}]
