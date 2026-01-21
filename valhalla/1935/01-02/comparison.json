@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1960,0 +1960,1 @@\n+          assert(C->inlining_incrementally() || C->strength_reduction(), \"must be during devirtualization of calls\");\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
