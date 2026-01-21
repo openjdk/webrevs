@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -190,1 +190,1 @@\n-            int out = 0;\n+            int out;\n","filename":"src\/jdk.security.auth\/share\/classes\/com\/sun\/security\/auth\/module\/UnixSystem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
