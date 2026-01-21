@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1961,0 +1961,1 @@\n+          assert(!is_Parse(), \"must be during devirtualization of calls\");\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
