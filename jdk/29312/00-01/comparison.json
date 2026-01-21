@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1737,2 +1737,1 @@\n-                attributes.add(new PageRanges(1, 9999));\n-                setPageRange(1, 9999);\n+                attributes.remove(PageRanges.class);\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WPrinterJob.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
