@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,0 +36,8 @@\n+To see the preview new modifications once the server has started:\n+\n+```bash\n+make && make update\n+```\n+\n+And refresh the page in the web browser. \n+\n","filename":"README.md","additions":8,"deletions":0,"binary":false,"changes":8,"status":"modified"}]}
