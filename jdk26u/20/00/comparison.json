@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,1 +216,1 @@\n-  return UseRVV;\n+  return UseRVV && size > 0;\n","filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
