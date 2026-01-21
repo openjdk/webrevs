@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375977\n\nHi all,\n\n  please review this conversion of `JVMCICleaningTask` to use `Atomic<T>`.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ParallelCleaning.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ParallelCleaning.hpp"}],"sha":"82c6f18d31b433a936f88b16eb3e871cda482201"}]
