@@ -1,0 +1,1 @@
+[{"commit":{"message":"add different flavors to the useSiteNullChecks compiler option"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/NullChecksWriter.java"},{"filename":"test\/langtools\/tools\/javac\/nullability\/RuntimeNullChecks.java"}],"sha":"c3fbd863859019aec76d042d1f27360bdd142b40"}]
