@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -416,1 +416,1 @@\n-#undef KELVIN_START_GC\n+#define KELVIN_START_GC\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAdaptiveHeuristics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
