@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -223,1 +223,0 @@\n-          sp += 2*sll;\n@@ -254,1 +253,0 @@\n-          sp += 2*sll;\n","filename":"src\/java.desktop\/share\/native\/libmlib_image\/mlib_ImageConv_D64nw.c","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
