@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,0 @@\n-class outputStream;\n@@ -68,0 +67,1 @@\n+class outputStream;\n","filename":"src\/hotspot\/share\/utilities\/rbTree.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
