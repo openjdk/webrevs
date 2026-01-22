@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -466,0 +466,1 @@\n+  trace_vector(operation);\n@@ -470,1 +471,0 @@\n-      trace_vector(operation);\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
