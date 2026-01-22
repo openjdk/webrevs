@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2237,0 +2237,6 @@\n+    case Op_MinF:\n+    case Op_MaxF:\n+    case Op_MinD:\n+    case Op_MaxD:\n+      return (PowerArchitecturePPC64 >= 9);\n+\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
