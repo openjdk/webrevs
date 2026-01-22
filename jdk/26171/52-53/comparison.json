@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -472,1 +472,1 @@\n-    return AtomicAccess::load(&_top);\n+    return _top;\n@@ -477,1 +477,1 @@\n-    AtomicAccess::store(&_top, v);\n+    _top = v;\n@@ -586,1 +586,0 @@\n-      OrderAccess::fence();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.hpp","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
