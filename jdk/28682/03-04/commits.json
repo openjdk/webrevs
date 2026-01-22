@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move HttpsCompressedCert test to test\/jdk\/java\/net\/httpclient and make it manual"},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/HttpsCompressedCert.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/HttpsURLConnection\/HttpsCompressedCert.java"}],"sha":"b53a5fca5bbf50c5975189474f85bdabfb3349b1"}]
