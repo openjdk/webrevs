@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,1 +140,1 @@\n-    _compaction_tops[j].store_relaxed(nullptr);\n+    ::new (&_compaction_tops[j]) Atomic<HeapWord*>{};\n","filename":"src\/hotspot\/share\/gc\/g1\/g1FullCollector.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
