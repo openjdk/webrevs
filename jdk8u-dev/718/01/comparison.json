@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -249,1 +249,1 @@\n-    for (int i = i = 0; i < stack->locks_size(); i++) {\n+    for (int i = 0; i < stack->locks_size(); i++) {\n","filename":"hotspot\/src\/share\/vm\/c1\/c1_InstructionPrinter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
