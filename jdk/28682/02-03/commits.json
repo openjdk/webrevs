@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use CRC32C checksum instead of Adler32 to reduce the chance of collision"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/CompressionAlgorithm.java"}],"sha":"7dad5f1be9831b3e3e33ea890f9a744f209279b4"}]
