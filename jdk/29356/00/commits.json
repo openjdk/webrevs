@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375654: Exclude all array classes from dynamic CDS archive"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"},{"filename":"test\/hotspot\/jtreg\/ProblemList-AotJdk.txt"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/dynamicArchive\/ArraySuperTest.java"}],"sha":"ec6e964c8e2a67086b6bfff10e9b1582b7fb9098"}]
