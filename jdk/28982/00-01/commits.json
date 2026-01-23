@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move runtime image check to early VM init\n\nSuggested-by: Ioi Lam"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotClassLocation.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"}],"sha":"8152b3b2d0d16b5f1bfe72c5212f5d00aa51c6d9"}]
