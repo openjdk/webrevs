@@ -1,0 +1,1 @@
+[{"commit":{"message":"After JDK-8373794, we don't need to be in write mode to modify nmethod fields."},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"37730e6aac899e1fbdcf4f201ac2ae1013201432"}]
