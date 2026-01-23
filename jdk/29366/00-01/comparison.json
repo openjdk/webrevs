@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- *       StreamingBody\n+ *       ${test.main.class}\n","filename":"test\/jdk\/java\/net\/httpclient\/StreamingBody.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
