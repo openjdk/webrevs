@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1421,0 +1421,4 @@\n+    if (Arguments::has_jimage()) {\n+      \/\/ The modules file exists but is unreadable or corrupt\n+      vm_exit_during_initialization(err_msg(\"Unable to load %s\", modules_path));\n+    }\n","filename":"src\/hotspot\/share\/classfile\/classLoader.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}

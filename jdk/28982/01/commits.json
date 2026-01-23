@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move runtime image check to early VM init\n\nSuggested-by: Ioi Lam"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"}],"sha":"8152b3b2d0d16b5f1bfe72c5212f5d00aa51c6d9"},{"commit":{"message":"8374343: Fix SIGSEGV when lib\/modules is unreadable"},"files":[],"sha":"f3da8c8267729044d0543a601b1980d6c60d7703"}]
