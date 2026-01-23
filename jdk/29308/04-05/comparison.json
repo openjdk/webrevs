@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -749,2 +749,2 @@\n-  const TypeInt *r0 = t1->is_int();\n-  const TypeInt *r1 = t2->is_int();\n+  const TypeInt* r0 = t1->is_int();\n+  const TypeInt* r1 = t2->is_int();\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
