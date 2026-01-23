@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8374911: [lworld] C2 fails assert(adr_type != nullptr) failed: source must have adr_type"},"files":[{"filename":"src\/hotspot\/share\/opto\/multnode.cpp"}],"sha":"258bcbe723cf35ed7f4b28d07fbc7816af613e99"}]
