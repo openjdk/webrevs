@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use newLinkedHashMap to avoid unnecessary reallocation. Remove redundant \"handshake\" check point from logging."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/CompressionAlgorithm.java"}],"sha":"c0fd9b868af99f9f281ac08963e17f67b9950478"}]
