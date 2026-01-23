@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use handle"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"356517fe648884e6aadbd23c2e4a9d1654aec5b9"},{"commit":{"message":"8376171: [lworld] Enable storing the hash code in the mark word of value objects"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"bb61f7f2ae87d11ad1b3534898155d95fe7d7ce4"}]
