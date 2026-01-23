@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -135,1 +135,1 @@\n-    \/\/\/ before pending HTTP request are finished. The test\n+    \/\/\/ before pending HTTP requests are finished. The test\n","filename":"test\/jdk\/java\/net\/httpclient\/StreamingBody.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
