@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -555,1 +555,1 @@\n-    \/\/ offset points the top of the symbol\n+    \/\/ offset points to the top of the symbol\n","filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/symtab.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
