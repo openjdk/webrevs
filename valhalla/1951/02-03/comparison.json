@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1471,0 +1471,1 @@\n+            return;\n@@ -1478,0 +1479,1 @@\n+            return;\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
