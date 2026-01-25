@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,1 @@\n-EscapeHash = $(subst \\#,\\\\\\#,$(subst \\\\\\#,\\#,$(strip $1)))\n+EscapeHash = $(subst $(HASH),\\$(HASH),$(subst \\$(HASH),$(HASH),$(strip $1)))\n","filename":"make\/common\/Utils.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
