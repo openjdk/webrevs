@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1471,1 +1471,0 @@\n-            return;\n@@ -1479,1 +1478,0 @@\n-            return;\n@@ -1482,1 +1480,1 @@\n-          if (!is_strict) {\n+          if (!is_strict && !HAS_PENDING_EXCEPTION) {\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
