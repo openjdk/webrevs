@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove IR rules from TestMemorySegment methods where vectorization depends on backing store type"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestMemorySegment.java"}],"sha":"23eff0db7138bc43d07c7724ac363a7979265a6f"}]
