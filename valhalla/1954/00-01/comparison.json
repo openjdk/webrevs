@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -780,1 +780,1 @@\n-    if (hash != 0) {\n+    if (hash != markWord::no_hash) {\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
