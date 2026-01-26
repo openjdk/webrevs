@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,0 +109,2 @@\n+        allowedEndingsLibDir.add(\"javafx-swt.jar\");\n+        allowedEndingsLibDir.add(\"javafx.properties\");\n","filename":"test\/jdk\/build\/CheckFiles.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
