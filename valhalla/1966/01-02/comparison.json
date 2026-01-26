@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6323,0 +6323,2 @@\n+            \/\/ Loads triggered by the LoadableDescriptors attribute are speculative, failures must not\n+            \/\/ impact loading of current class.\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
