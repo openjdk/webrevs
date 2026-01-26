@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376356\n\nHi all,\n\n  please review this change to convert `PSCardTable` to use `Atomic<T>`.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psCardTable.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psCardTable.hpp"}],"sha":"223528754867439e5079a6191136025e5eaf84c8"}]
