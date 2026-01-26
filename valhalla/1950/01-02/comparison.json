@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -954,0 +954,3 @@\n+  assert(!ModuleEntryTable::javabase_moduleEntry()->is_patched(),\n+         \"Cannot use sharing if java.base is patched\");\n+\n","filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
