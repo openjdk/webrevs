@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -438,0 +438,5 @@\n+    @Test\n+    public void factory_parse_hourOnlyOffset() {\n+        Assertions.assertDoesNotThrow(() -> OffsetTime.parse(\"00:00:00-09\"));\n+    }\n+\n","filename":"test\/jdk\/java\/time\/tck\/java\/time\/TCKOffsetTime.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
