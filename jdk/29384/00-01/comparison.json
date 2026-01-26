@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,1 @@\n+#include \"runtime\/atomicAccess.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shared\/preservedMarks.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
