@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2140,0 +2140,3 @@\n+  \/\/ Assume there will be some calls to make deoptimized.\n+  MACOS_AARCH64_ONLY(os::thread_wx_enable_write());\n+\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
