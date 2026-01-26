@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add missing cast in operator lowering code"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"},{"filename":"test\/langtools\/tools\/javac\/typeClasses\/TypeClassesOperatorResolutionTest.java"}],"sha":"433015baf850ca73d0767b415e11f2bef982d9f6"}]
