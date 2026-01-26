@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376351\n\nHi all,\n\n  please review this change to use `Atomic<T>` in `ParallelScavengeHeap`.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.cpp"}],"sha":"52ec4355b1c5163c67171ed7b6bc241ff891b3e5"}]
