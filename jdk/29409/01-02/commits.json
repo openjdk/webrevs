@@ -1,0 +1,1 @@
+[{"commit":{"message":"skip the test if the SocketChannel unexpectedly connects to the destination address"},"files":[{"filename":"test\/jdk\/java\/nio\/channels\/Selector\/ConnectionRefusedMessage.java"}],"sha":"2e5555914eac2daa5bffa94fe7758e1a35009c78"}]
