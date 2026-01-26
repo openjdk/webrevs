@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-                    \"Looks like a Windows machine in a domain.\");\n+                    \"Test cannot run in a domain.\");\n","filename":"test\/jdk\/sun\/security\/krb5\/config\/ConfPlusProp.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
