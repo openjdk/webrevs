@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -585,1 +585,1 @@\n-  _promotion_failure_count.add_then_fetch(static_cast<size_t>(1));\n+  _promotion_failure_count.add_then_fetch(1UL);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
