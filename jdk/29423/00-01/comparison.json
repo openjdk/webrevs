@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,0 @@\n-#include \"cppstdlib\/new.hpp\"\n@@ -199,1 +198,1 @@\n-    ::new (&_ref_dropped[i]) Atomic<size_t>{};\n+    _ref_dropped[i].store_relaxed(0);\n","filename":"src\/hotspot\/share\/gc\/shared\/referenceProcessorPhaseTimes.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
