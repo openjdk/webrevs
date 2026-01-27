@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use JDK-8376511 over JDK-8257852 in comment"},"files":[{"filename":".github\/workflows\/submit.yml"}],"sha":"b9886dec5fc6ea039a6770b52d99d9b841c76220"},{"commit":{"message":"8376225: [8u] GHA: Apply work-around for missing JNF for MacOSX builds"},"files":[{"filename":".github\/workflows\/submit.yml"}],"sha":"734c805b9789db85c9ed8e369406b4be99cd8332"}]
