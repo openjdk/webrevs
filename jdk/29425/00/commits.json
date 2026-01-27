@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376353\n\nHi all,\n\n  please review this change to convert `PSParallelCompact` to use `Atomic<T>`.\n\nTesting: tier1-5,gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.hpp"}],"sha":"a4346031d73ee30ebf3613e1940e07b5832e8d74"}]
