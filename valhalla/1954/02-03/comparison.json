@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -804,1 +804,1 @@\n-      old_mark = ho->mark_acquire();\n+      old_mark = ho->mark();\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
