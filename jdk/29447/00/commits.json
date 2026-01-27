@@ -1,0 +1,1 @@
+[{"commit":{"message":"ZGC: Convert zObjectAllocator to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zObjectAllocator.cpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zObjectAllocator.hpp"}],"sha":"f0737ceb89ebb2cfeecb6d6784aa7fba9c3fb6d6"}]
