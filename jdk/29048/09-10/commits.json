@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8327246: changes as per @kwalls last comments, improved help and optimized -location option checking"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp"}],"sha":"f2198458b079f11bbc838162f737f4f820e64f96"}]
