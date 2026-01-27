@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -247,1 +247,3 @@\n-        return LAF_STATE;\n+        synchronized (classLock) {\n+            return LAF_STATE;\n+        }\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/UIManager.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
