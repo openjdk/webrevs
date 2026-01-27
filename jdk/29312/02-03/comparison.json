@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1738,0 +1738,2 @@\n+                setPageRange(Pageable.UNKNOWN_NUMBER_OF_PAGES,\n+                             Pageable.UNKNOWN_NUMBER_OF_PAGES);\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WPrinterJob.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
