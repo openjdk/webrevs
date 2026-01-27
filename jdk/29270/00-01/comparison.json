@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,2 +37,2 @@\n-  Iterator      _iter;\n-  Atomic<bool>  _completed;\n+  Iterator     _iter;\n+  Atomic<bool> _completed;\n","filename":"src\/hotspot\/share\/gc\/z\/zRootsIterator.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
