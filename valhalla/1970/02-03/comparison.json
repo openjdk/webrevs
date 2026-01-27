@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1480,1 +1480,0 @@\n-      bool null_free = field->is_null_free();\n@@ -1494,1 +1493,0 @@\n-          null_free = false;\n","filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
