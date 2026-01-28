@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -711,1 +711,0 @@\n-  __ sext(index, index, 32);\n@@ -1055,1 +1054,1 @@\n-  __ ld(x12, at_tos_p1()); \/\/ index\n+  __ lw(x12, at_tos_p1()); \/\/ index\n","filename":"src\/hotspot\/cpu\/riscv\/templateTable_riscv.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
