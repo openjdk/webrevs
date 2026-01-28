@@ -1,0 +1,1 @@
+[{"commit":{"message":"Force cache limit per compression algorithm"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/CompressedCertificate.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/CertificateCompression\/CompressedCertMsgCacheLimit.java"}],"sha":"b96442a9c5950109242cca62cdcb228360079b40"}]
