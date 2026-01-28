@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+#include \"gc\/shared\/barrierSetAssembler.hpp\"\n@@ -1794,0 +1795,4 @@\n+#if defined(AARCH64)\n+  ADD_EXTERNAL_ADDRESS(BarrierSetAssembler::patching_epoch_addr());\n+#endif\n+\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
