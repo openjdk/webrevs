@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376282: [linux, macos] JavaFX fails to build WebKit in DebugNative"},"files":[{"filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/bindings\/java\/JavaDOMUtils.cpp"},{"filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/page\/LocalDOMWindow.cpp"}],"sha":"e3f740406dcc18855fec77741909ea7ddcef982e"}]
