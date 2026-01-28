@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1118,1 +1118,1 @@\n-  __ ldr(r2, at_tos_p1()); \/\/ index\n+  __ ldrw(r2, at_tos_p1());\/\/ index\n","filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
