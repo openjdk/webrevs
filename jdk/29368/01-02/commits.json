@@ -1,0 +1,1 @@
+[{"commit":{"message":"* separate initialization and reset for _top_at_rebuild_starts\n* add initialization for _top_at_mark_starts, _region_mark_stats"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"}],"sha":"d10ecb18f533e0ab8c020909d3ce0fdbaa0ba0d0"}]
