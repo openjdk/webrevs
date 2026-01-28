@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,0 +47,2 @@\n+  G1RegionMarkStats() : _live_words(0), _incoming_refs(0) { }\n+\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RegionMarkStatsCache.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
