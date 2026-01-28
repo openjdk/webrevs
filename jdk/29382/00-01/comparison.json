@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,1 @@\n-\/\/ But we could run into weird pathological object graphs. Therfore we also\n+\/\/ But we could run into weird pathological object graphs. Therefore we also\n","filename":"src\/hotspot\/share\/jfr\/leakprofiler\/chains\/dfsClosure.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
