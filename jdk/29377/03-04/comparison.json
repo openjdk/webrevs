@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,1 +112,0 @@\n-            SwingUtilities.invokeAndWait(() -> invoker = popupMenu.getInvoker());\n@@ -114,0 +113,1 @@\n+            SwingUtilities.invokeAndWait(() -> invoker = popupMenu.getInvoker());\n","filename":"test\/jdk\/javax\/swing\/JPopupMenu\/TestPopupInvoker.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
