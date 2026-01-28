@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1157,1 +1157,1 @@\n-\/\/    - '-XX:VerifyIterativeGVN=100000' cheks the return value\n+\/\/    - '-XX:VerifyIterativeGVN=100000' checks the return value\n","filename":"src\/hotspot\/share\/opto\/node.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
