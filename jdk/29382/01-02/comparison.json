@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,2 +217,0 @@\n-  _num_objects_processed++;\n-\n@@ -248,0 +246,2 @@\n+\n+  _num_objects_processed++;\n@@ -269,0 +269,2 @@\n+\n+      _num_objects_processed++;\n","filename":"src\/hotspot\/share\/jfr\/leakprofiler\/chains\/dfsClosure.cpp","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
