@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -229,2 +229,0 @@\n-  assert (ObjArrayMarkingStride > 0, \"sanity\");\n-\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMark.inline.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
