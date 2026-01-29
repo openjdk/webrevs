@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix adjustements of BUFFERED layout"},"files":[{"filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/field_layout\/FieldLayoutAnalyzer.java"}],"sha":"af5c3ad47e6739f1215209152661812140ba89df"}]
