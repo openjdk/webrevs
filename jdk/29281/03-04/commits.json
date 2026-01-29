@@ -1,0 +1,1 @@
+[{"commit":{"message":"negating comparisons does not always work, invert results instead"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/c2_MacroAssembler_ppc.cpp"}],"sha":"3d1aa822fa2b94747d2f554313e0e495ec35da92"}]
