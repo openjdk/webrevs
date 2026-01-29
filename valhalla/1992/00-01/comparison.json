@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1405,1 +1405,0 @@\n-  int instance_fields_count = 0;\n@@ -1435,1 +1434,0 @@\n-    if (!access_flags.is_static()) instance_fields_count++;\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
