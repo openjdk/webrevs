@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -560,0 +560,1 @@\n+    newParams.BackBufferFormat = D3DFMT_A8R8G8B8;\n","filename":"modules\/javafx.graphics\/src\/main\/native-prism-d3d\/D3DResourceManager.cc","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
