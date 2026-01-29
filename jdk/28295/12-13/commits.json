@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move static_cast to .cpp to avoid incomplete type"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.hpp"}],"sha":"c25efddcfb4e8957cbd692784e5e38258a339406"}]
