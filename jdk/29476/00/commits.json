@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376295: \"assert(BytecodeVerificationRemote) failed: Should not be here\" when running class redefinition test with -XX:-BytecodeVerificationRemote"},"files":[{"filename":"src\/hotspot\/share\/classfile\/verifier.cpp"}],"sha":"47f007579ed8aed1e73f36b2375ab080c3c59aea"}]
