@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3518,1 +3518,1 @@\n-     *      asinh(x) is defined so that asinh(sinh(alpha)) = alpha -INF < alpha < < INF\n+     *      asinh(x) is defined so that asinh(sinh(alpha)) = alpha, -INF < alpha < < INF\n","filename":"src\/java.base\/share\/classes\/java\/lang\/FdLibm.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
