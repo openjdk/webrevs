@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -264,0 +264,1 @@\n+          range(1, max_uintx)                                               \\\n","filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
