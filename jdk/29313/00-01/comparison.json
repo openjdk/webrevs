@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,0 @@\n-    private static JLabel label;\n@@ -76,1 +75,1 @@\n-        label = new JLabel(SOME_TEST_LABEL);\n+        JLabel label = new JLabel(SOME_TEST_LABEL);\n","filename":"test\/jdk\/javax\/swing\/JTable\/JTableSerialization.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
