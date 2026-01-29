@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,2 @@\n+\/\/ With ASAN, we omit NMT block integrity checks since ASAN does a better and faster\n+\/\/ job of alerting us to memory corruptions\n","filename":"src\/hotspot\/share\/nmt\/mallocHeader.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
