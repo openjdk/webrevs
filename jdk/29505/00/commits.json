@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376810: Make Atomic<T> default constructor non-explicit"},"files":[{"filename":"src\/hotspot\/share\/runtime\/atomic.hpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_atomic.cpp"}],"sha":"04d6384cda95fe18590145378a593a0f68c022d1"}]
