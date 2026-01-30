@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-                <plugin>\n+            <plugin>\n@@ -76,1 +76,2 @@\n-                    <release>21<\/release>\n+                    <source>1.8<\/source>\n+                    <target>1.8<\/target>\n","filename":"test\/benchmarks\/micros-javac\/pom.xml","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
