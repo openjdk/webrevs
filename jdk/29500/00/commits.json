@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376777: Consistent use of nonstatic instead of non_static in ci files"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciField.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.hpp"}],"sha":"b61b5d0bcd000545dbb26cc67e456d636a269eec"}]
