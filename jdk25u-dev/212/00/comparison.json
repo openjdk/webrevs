@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,2 +30,0 @@\n- * @comment CDS archive heap mapping is not supported with large pages\n- * @requires vm.opt.UseLargePages == null | !vm.opt.UseLargePages\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/sharedStrings\/InternSharedString.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
