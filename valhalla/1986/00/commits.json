@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376358: [lworld] runtime\/valhalla\/inlinetypes\/classloading\/ConcurrentClassLoadingTest.java fails assert(oopDesc::is_oop(obj)) failed: not an oop"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"}],"sha":"50e17ba37f1401000f3b60568ac42e7cb7415e51"}]
