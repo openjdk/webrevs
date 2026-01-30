@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-\/\/ Explicitly don't inline: foo is large enough that GCC won't inline it, but Clang might.\n+\/\/ Explicitly don't inline. foo needs complexity so GCC\/Clang don't optimize it away.\n","filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/libTestDwarf.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
