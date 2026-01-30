@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -894,1 +894,1 @@\n-                                                     Node* *pos_index, bool is_opaque) {\n+                                                     Node** pos_index, bool is_opaque) {\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
