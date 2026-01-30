@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -333,2 +333,0 @@\n-            stream1.close();\n-            stream2.close();\n","filename":"test\/jdk\/java\/nio\/file\/DirectoryStream\/SecureDS.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
