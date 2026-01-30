@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -614,0 +614,1 @@\n+    return;\n","filename":"src\/hotspot\/cpu\/ppc\/gc\/shenandoah\/shenandoahBarrierSetAssembler_ppc.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
