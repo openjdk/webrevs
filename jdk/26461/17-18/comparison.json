@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -264,1 +264,1 @@\n-            check(result != expected, \"codePointCount()\", result, expected)\n+            check(result != expected, \"codePointCount()\", result, expected);\n","filename":"test\/jdk\/java\/lang\/StringBuilder\/Supplementary.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
