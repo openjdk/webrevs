@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,1 @@\n+    Zero_Features &operator &=(const Zero_Features &) { return *this; }\n","filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
