@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1518,1 +1518,0 @@\n-#ifndef __IOS__\n@@ -1520,3 +1519,0 @@\n-#else\n-  char* jimage = format_boot_path(\"%\/Documents\/lib\/\" MODULES_IMAGE_NAME, home, home_len, fileSep, pathSep);\n-#endif\n","filename":"src\/hotspot\/share\/runtime\/os.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
