@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use ExecutorService.close() instead of ExecutorService.shutdown()\/ExecutorService.awaitTermination()"},"files":[{"filename":"test\/jdk\/tools\/jimage\/VerifyJimage.java"}],"sha":"4a0d130115577858128e3faa3184b75a6cb3f5c0"}]
