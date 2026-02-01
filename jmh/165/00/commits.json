@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix (samples with java > 22)\n- specify explicitly jmh-generator-annprocess dependency in <annotationProcessorPaths>\n\nSigned-off-by: Fabrice Bibonne <fabrice.bibonne@courriel.eco>"},"files":[{"filename":"jmh-samples\/pom.xml"}],"sha":"c2cd871fd0d0519927397c650f2ef4d4af00df0d"}]
