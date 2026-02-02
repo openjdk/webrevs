@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -775,2 +775,0 @@\n-  \/\/ If any phase is randomized for stress testing, seed random number\n-  \/\/ generation and log the seed for repeatability.\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
