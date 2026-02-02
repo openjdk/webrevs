@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix Max(A, Min(A, B)) == A and test for ints and longs"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/igvn\/TestMinMaxIdentity.java"}],"sha":"32d1dbe42dce72af0886f432d1ba91ba7e9a14ea"}]
