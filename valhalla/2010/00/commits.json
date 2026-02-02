@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376890: [lworld] Compiler replay crashes when class cannot be loaded after JDK-8375548"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciReplay.cpp"}],"sha":"cd5f66ca488f5721b5b86ddad1c4d5e3d77458a0"}]

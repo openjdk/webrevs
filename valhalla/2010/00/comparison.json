@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -869,1 +869,1 @@\n-      if (Arguments::is_valhalla_enabled() && _version >= 3 && k->is_objArray_klass()) {\n+      if (Arguments::is_valhalla_enabled() && _version >= 3 && k != nullptr && k->is_objArray_klass()) {\n","filename":"src\/hotspot\/share\/ci\/ciReplay.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
