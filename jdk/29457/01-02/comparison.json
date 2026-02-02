@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-                        width, height, 1, width, bandOffsets);\n+                                         width, height, 1, width, bandOffsets);\n@@ -74,1 +74,1 @@\n-        }\n+            }\n","filename":"test\/jdk\/java\/awt\/image\/GetSampleSizeTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
