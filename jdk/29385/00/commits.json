@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376164: Optimize AES\/ECB\/PKCS5Padding with parallel intrinsic"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_aes.cpp"}],"sha":"cae5e0f178eed383de9676eb86b0d6ffedb3a697"}]
