@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+ * @run junit\/othervm -Djdk.console=jdk.internal.le ReadWriteBlockingTest\n","filename":"test\/jdk\/java\/io\/Console\/ReadWriteBlockingTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
