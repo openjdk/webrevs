@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,0 +151,1 @@\n+    assert(tst->is_Bool() || tst->is_Con(), \"Test node must be a BoolNode or a constant\");\n","filename":"src\/hotspot\/share\/opto\/opaquenode.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

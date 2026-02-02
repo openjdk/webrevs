@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'JDK-8374582' of https:\/\/github.com\/dafedafe\/jdk into JDK-8374582"},"files":[],"sha":"5e7df6f4c883f8bb271f9cba850a2b517825e748"},{"commit":{"message":"JDK-8374582: add assert in opaque constructor"},"files":[{"filename":"src\/hotspot\/share\/opto\/opaquenode.hpp"}],"sha":"9c3c3bc78eb5f69f4630b8d70d136034c08cd604"}]
