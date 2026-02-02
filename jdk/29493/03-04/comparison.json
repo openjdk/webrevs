@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+ * @requires (os.family == \"linux\" | os.family == \"mac\")\n","filename":"test\/jdk\/java\/io\/Console\/ReadWriteBlockingTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
