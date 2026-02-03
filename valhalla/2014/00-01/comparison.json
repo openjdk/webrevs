@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2944,0 +2944,2 @@\n+                    \/\/ Keep the lock scope minimal. Prevent interference with other\n+                    \/\/ dependency checks by setting mismatch and marking within the lock.\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
