@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377065: [lworld] Fix merge removing VM_Version::supports_fast_class_init_checks() check"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp"}],"sha":"f9d5a2c369e12f9b6e5b55b57a0bc148d85ef71f"}]
