@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2300,0 +2300,2 @@\n+\/\/ TODO 8325632 Fails with -XX:+UnlockExperimentalVMOptions -XX:PerMethodSpecTrapLimit=0 -XX:PerMethodTrapLimit=0\n+\/*\n@@ -2400,0 +2402,1 @@\n+*\/\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestNullableInlineTypes.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
