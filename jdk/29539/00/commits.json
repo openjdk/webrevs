@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix -Wzero-as-null-pointer-constant warnings for AIX"},"files":[{"filename":"src\/hotspot\/os\/aix\/decoder_aix.hpp"},{"filename":"src\/hotspot\/os\/aix\/os_aix.cpp"},{"filename":"src\/hotspot\/os\/aix\/porting_aix.cpp"}],"sha":"279d86599cba21ac2d0acbe6a23a5179e69a3a86"}]
