@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-#define CURRENT_CDS_ARCHIVE_VERSION 20\n+#define CURRENT_CDS_ARCHIVE_VERSION 19\n","filename":"src\/hotspot\/share\/include\/cds.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
