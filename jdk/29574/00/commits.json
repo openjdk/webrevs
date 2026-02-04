@@ -1,0 +1,1 @@
+[{"commit":{"message":"Delay escalation to full GC for traditional Shenandoah"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahCollectorPolicy.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahDegeneratedGC.cpp"}],"sha":"8c8aee6f12d68573618ab8e5de58b5f4a34cfaa7"}]
