@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support for transient jdk.internal.vm.annotation.NullRestricted."},"files":[{"filename":"make\/langtools\/src\/classes\/build\/tools\/symbolgenerator\/CreateSymbols.java"},{"filename":"test\/langtools\/tools\/javac\/nullability\/NullRestrictedAnnotation.java"}],"sha":"1be152027764c57f37fceb64091a5066d1058b7c"}]
