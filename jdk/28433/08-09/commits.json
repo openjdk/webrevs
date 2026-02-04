@@ -1,0 +1,1 @@
+[{"commit":{"message":"ensure C1 treats ThreadIdentifier::unsafe_offset() as an external address"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c1_LIRAssembler_x86.cpp"}],"sha":"f6c0a92d2d821e57b75c7a9f2cbbcfa02a1a1b22"}]
