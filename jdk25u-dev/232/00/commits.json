@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport ea0b49c36db7dce508aec7e72e73c7274d65bc15"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestSubwordTruncation.java"}],"sha":"ba4667961caf2d06f7e47f4af3172cd1782bdc9e"}]
