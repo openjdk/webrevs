@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375688: C2: Missed Ideal optimization opportunity with VectorMaskToLong and -XX:+StressIncrementalInlining"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"}],"sha":"e12ed80381689926bcf5c1ee9ef08349bdd977c0"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2731,0 +2731,5 @@\n+  \/\/ VectorMaskToLongNode::Ideal_MaskAll looks through VectorStoreMask\n+  \/\/ to fold constant masks.\n+  if (use_op == Op_VectorStoreMask) {\n+    add_users_to_worklist0(use, worklist);\n+  }\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
