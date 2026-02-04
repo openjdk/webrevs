@@ -1,0 +1,1 @@
+[{"commit":{"message":"8375691: C2: assert(false) failed: no node with a side effect, with -XX:+StressIncrementalInlining"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectorization.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectorization.hpp"}],"sha":"d7a1d52bd1c7f3373b986e2c8154167504df8e08"}]
