@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,1 +354,0 @@\n-  GraphKit* kit = access.kit();\n@@ -364,1 +363,0 @@\n-  GraphKit* kit = access.kit();\n@@ -373,1 +371,0 @@\n-  GraphKit* kit = access.kit();\n","filename":"src\/hotspot\/share\/gc\/g1\/c2\/g1BarrierSetC2.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
