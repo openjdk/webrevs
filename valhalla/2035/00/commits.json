@@ -1,0 +1,1 @@
+[{"commit":{"message":"Acmp does not work with cyclic value classes"},"files":[{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestAcmpCyclicInlineType.java"}],"sha":"c121ccc159627f12bb10f043e66dbfce80991f84"}]
