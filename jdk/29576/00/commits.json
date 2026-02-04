@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377126: Convert ShenandoahVerifier related code to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.hpp"}],"sha":"f5c311b4bc88015f297de0a29517d8c8cdb098fe"}]
