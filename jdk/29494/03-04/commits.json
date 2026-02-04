@@ -1,0 +1,1 @@
+[{"commit":{"message":"limit max archive size to 3.5GB"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.hpp"},{"filename":"src\/hotspot\/share\/cds\/archiveUtils.hpp"},{"filename":"test\/hotspot\/gtest\/cds\/test_scaledOffsets.cpp"}],"sha":"7ca8f6cc0bf07e1a4283ad1b89278cf7e0375f6b"}]
