@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix improper use of FLAG_SET_DEFAULT() under !FLAG_IS_DEFAULT(UseAESCTRIntrinsics)"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"44189900c0e8921ea2504d1272ac7b180573539b"}]
