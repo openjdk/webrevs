@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377161\n\nHi all,\n\n  please review this change that inlines the `_g1h` member use in ´G1FullGCScope` to be allowed to remove it.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCScope.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1FullGCScope.hpp"}],"sha":"4f1d2e635fe4acab10e5783116229f4913ea8984"}]
