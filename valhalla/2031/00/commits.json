@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376733: [lworld] Inconsistent result of Invoke::declared_type triggers assert in profiling"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_Instruction.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_Instruction.hpp"}],"sha":"dbf9608ea47a3ce541cde900170a79e5085d2c80"}]
