@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1475,3 +1475,0 @@\n-    if (res != JVMTI_ERROR_NONE) {\n-      return res;\n-    }\n@@ -1487,0 +1484,2 @@\n+    } else if (res != JVMTI_ERROR_NONE) {\n+      return res;\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
