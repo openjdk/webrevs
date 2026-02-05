@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,3 @@\n-        implPreClose(fd, reader, writer);\n+        if (reader != null || writer != null) {\n+            implPreClose(fd, reader, writer);\n+        }\n","filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/NativeDispatcher.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
