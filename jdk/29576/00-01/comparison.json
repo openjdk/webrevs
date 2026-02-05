@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -667,1 +667,1 @@\n-    _processed.add_then_fetch(processed);\n+    _processed.add_then_fetch(processed, memory_order_relaxed);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
