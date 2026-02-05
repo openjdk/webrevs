@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n-                        throw new RuntimeException(\"Expected BPE NOT thrown\");\n+                        System.out.println(\"WARNING: Expected BPE NOT thrown\");\n","filename":"test\/jdk\/sun\/security\/pkcs11\/Cipher\/TestPKCS5PaddingError.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
