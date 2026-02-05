@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -928,1 +928,1 @@\n-    AOTMapLogger::OopData capture(address buffered_addr) {\n+    AOTMapLogger::OopData capture(address buffered_addr) override {\n","filename":"src\/hotspot\/share\/cds\/aotMappedHeapWriter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
