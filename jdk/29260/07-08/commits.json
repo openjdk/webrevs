@@ -1,0 +1,1 @@
+[{"commit":{"message":"8357404: jpackage should attempt to get a package version from the JDK's release file if the --version option is not specified [v8]"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/share\/NoMPathRuntimeTest.java"},{"filename":"test\/jdk\/tools\/jpackage\/share\/RuntimePackageTest.java"}],"sha":"17707867d4e0f3d50a1d2d6deb29c1fdfb9ba285"}]
