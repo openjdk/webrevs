@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -617,1 +617,2 @@\n-  if (access(vdso_path, F_OK) == 0) {\n+  lib_fd = pathmap_open(vdso_path);\n+  if (lib_fd != -1) {\n@@ -620,1 +621,0 @@\n-    lib_fd = pathmap_open(lib_name);\n","filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/ps_core.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
