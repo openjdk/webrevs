@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixed indexing bug in vs_ldpq, simplified vector loads in generate_intpoly_assign()"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"}],"sha":"05925eaaa4397a90fb6fd852637290e74a32a1ef"}]
