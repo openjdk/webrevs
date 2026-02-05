@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -822,1 +822,1 @@\n-  Events::log(Thread::current_or_null(), \"JVMTI - dead phase\");\n+  Events::log(Thread::current_or_null(), \"JVMTI - enter dead phase\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
