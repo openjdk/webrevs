@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377173: [CRaC] Don't set direct_map=true on checkpoint"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"},{"filename":"src\/hotspot\/share\/runtime\/crac_engine.cpp"},{"filename":"src\/hotspot\/share\/runtime\/crac_engine.hpp"}],"sha":"8e25a155e370b17303922e07e1871c95490e1c41"}]
