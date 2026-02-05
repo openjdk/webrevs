@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix StressLongCountedLoop loop limit checks"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestStressLongCountedLoopLimitChecks.java"}],"sha":"304d4cdbfce4059e9667c5292454f6386e5152cc"}]
