@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -468,1 +468,1 @@\n-  size_t used_bytes = pointer_delta(_start, _top, 1);\n+  size_t used_bytes = pointer_delta(_top, _start, 1);\n","filename":"src\/hotspot\/share\/gc\/shared\/threadLocalAllocBuffer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
