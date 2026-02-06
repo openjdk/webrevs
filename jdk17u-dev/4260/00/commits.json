@@ -1,0 +1,1 @@
+[{"commit":{"message":"8280029: G1: \"Overflow during reference processing, can not continue\" on x86_32"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/gc_globals.hpp"}],"sha":"e5d2b601000b8ae707000e25c71622b5d1b67dd8"}]
