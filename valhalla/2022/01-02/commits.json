@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adding support for null restriction on type variables to javadoc."},"files":[{"filename":"src\/jdk.javadoc\/share\/classes\/jdk\/javadoc\/internal\/doclets\/formats\/html\/HtmlLinkFactory.java"},{"filename":"test\/langtools\/jdk\/javadoc\/tool\/nullRestriction\/NullRestrictions.java"}],"sha":"675bdd33898410ac93816e00f5afcb6bc288efa2"}]
