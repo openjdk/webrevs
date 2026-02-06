@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -565,1 +565,1 @@\n-  \n+\n@@ -569,1 +569,1 @@\n-                         gc_time_ratio * 100.0, \n+                         gc_time_ratio * 100.0,\n@@ -602,1 +602,1 @@\n-      \n+\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HeapSizingPolicy.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
