@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -233,0 +233,2 @@\n+compiler.warn.reflectable.method.unsupported\n+compiler.warn.reflectable.lambda.unsupported\n","filename":"test\/langtools\/tools\/javac\/diags\/examples.not-yet.txt","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
