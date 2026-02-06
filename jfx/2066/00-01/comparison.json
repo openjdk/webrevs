@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-    private static final int DELTA = 100;\n+    private static final int DELTA = 150;\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/TooltipTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
