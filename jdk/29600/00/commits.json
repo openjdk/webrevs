@@ -1,0 +1,1 @@
+[{"commit":{"message":"URLJarFile$URLJarFileEntry need not clone the arrays returned by getCertificates() and getCodeSigners()"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/jar\/URLJarFile.java"}],"sha":"27bd238aaf4cd744910227e962166852637d24bc"}]
