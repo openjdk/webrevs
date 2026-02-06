@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -441,1 +441,1 @@\n-                  percent_of(_old_gen->free_in_bytes(), _young_gen->capacity_in_bytes()),\n+                  percent_of(_old_gen->free_in_bytes(), _old_gen->capacity_in_bytes()),\n","filename":"src\/hotspot\/share\/gc\/parallel\/parallelScavengeHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
