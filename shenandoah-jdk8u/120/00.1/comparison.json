@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,1 +193,1 @@\n-  CFLAGS += -fcheck-new\n+  CFLAGS += -fcheck-new -fstack-protector\n","filename":"hotspot\/make\/bsd\/makefiles\/gcc.make","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
