@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377443\n\nHi all,\n\n  please review this trivial removal of an unnecessary cast because `tlab()` is a member of `Thread` already and does not need `JavaThread`.\n\nTesting: local compilation, gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1YoungGCPostEvacuateTasks.cpp"}],"sha":"d9ab696470299ac524b0a19f8b6fa9c90de3e749"}]
