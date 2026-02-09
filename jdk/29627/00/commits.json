@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377388: Replacing \"new StringReader(String)\" by \"Reader.of(CharSequence);\" in Scanner"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Scanner.java"}],"sha":"03837bb46aeb4c907af0fef8063f461aceaf079a"}]
