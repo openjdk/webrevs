@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-    return (void *)ptr_to_jlong(ctx);\n+    return ctx;\n","filename":"modules\/javafx.graphics\/src\/main\/native-prism-es2\/ios\/IOSWindowSystemInterface.m","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
