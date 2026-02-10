@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix sha3 support criterion"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestUseSHA3IntrinsicsWithUseSHADisabledOnSupportedCPU.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestUseSHA3IntrinsicsWithUseSHADisabledOnUnsupportedCPU.java"}],"sha":"e1e30430e6ca49b4c58c56bf574eb1f794e71bea"}]
