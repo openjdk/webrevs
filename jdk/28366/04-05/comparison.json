@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,1 +354,1 @@\n-  \/\/ Compares the narrow Klass pointer of an object to a given narrow Klass (which might be narrow\n+  \/\/ Compares the narrow Klass pointer of an object to a given narrow Klass.\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
