@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -155,1 +155,0 @@\n-        Path file2 = Files.createFile(dir.resolve(\"bar\"));\n@@ -157,1 +156,0 @@\n-        FileStore store2 = Files.getFileStore(file2);\n","filename":"test\/jdk\/java\/nio\/file\/FileStore\/Basic.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
