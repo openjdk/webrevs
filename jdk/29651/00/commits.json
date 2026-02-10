@@ -1,0 +1,1 @@
+[{"commit":{"message":"8366957: Amalloc may return null despite contrary AllocFailType"},"files":[{"filename":"src\/hotspot\/share\/memory\/arena.cpp"},{"filename":"test\/hotspot\/gtest\/nmt\/test_nmt_malloclimit.cpp"}],"sha":"18f4a67e38a6519c5bf4ef9781eac418552df2c5"}]
