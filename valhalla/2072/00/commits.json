@@ -1,0 +1,1 @@
+[{"commit":{"message":"8190936: [lworld] Missing SA support causes \"sun.jvm.hotspot.utilities.AssertionFailure: illegal bci\""},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/interpreter\/Bytecodes.java"},{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"}],"sha":"d0ee048fcf9c4ed4b66dc215e1ee3e1beafa3004"}]
