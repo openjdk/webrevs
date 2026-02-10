@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377045: Shenandoah: Convert ShenandoahLock related code to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahLock.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahLock.hpp"}],"sha":"cee8a7ede8d93df45589522083c7438c2a6cd21b"}]
