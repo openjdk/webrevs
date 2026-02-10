@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -467,1 +467,1 @@\n-  \/\/ If there has been a race when retrieving _top and _start return 0.\n+  \/\/ If there has been a race when retrieving _top and _start, return 0.\n","filename":"src\/hotspot\/share\/gc\/shared\/threadLocalAllocBuffer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
