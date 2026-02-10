@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,2 +37,0 @@\n-import java.security.CodeSigner;\n-import java.security.cert.Certificate;\n","filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/jar\/URLJarFile.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
