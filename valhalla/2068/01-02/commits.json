@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove incorrect assert. JVM_CopyOfSpecialArray is currently broken"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"1707a3398b0864b467919fa80e70614c6930fac3"}]

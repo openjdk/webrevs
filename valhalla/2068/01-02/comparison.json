@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -459,1 +459,1 @@\n-    assert(to >= 0 && from >= 0, \"Assume this for now. %d >= 0 && %d >= 0\", to, from);\n+    \/\/ The whole JVM_CopyOfSpecialArray is currently broken. Fix this in a separate bugfix.\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
