@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8328046: Need to keep leading zeros in TlsPremasterSecret of TLS1.3 DHKeyAgreement\"\n\nThis reverts commit 25d2b52ab97d116024872e567c1c1ffd814616d4."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/KAKeyDerivation.java"}],"sha":"511b3eb296376ed06b980ac8af92016e5854b7d9"}]
