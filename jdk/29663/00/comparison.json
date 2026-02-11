@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -517,1 +517,1 @@\n-  _cur_wx_mode(0),\n+  _cur_wx_mode(nullptr),\n","filename":"src\/hotspot\/share\/runtime\/javaThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
