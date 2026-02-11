@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n-define_pd_global(intx, FreqInlineSize,               175);\n+define_pd_global(intx, FreqInlineSize,               325);\n","filename":"src\/hotspot\/cpu\/ppc\/c2_globals_ppc.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
