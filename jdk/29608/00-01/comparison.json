@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -409,1 +409,1 @@\n-#if defined(X86) || defined(AARCH64) || defined(RISCV64)\n+#if defined(X86) || defined(AARCH64) || defined(RISCV64) || defined(PPC)\n","filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
