@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+import sun.net.httpserver.HttpConnection.State;\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/UpgradeInputStream.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
