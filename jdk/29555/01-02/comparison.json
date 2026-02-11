@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,0 +42,1 @@\n+ * @build jdk.test.lib.Platform\n@@ -52,0 +53,1 @@\n+ * @build jdk.test.lib.Platform\n@@ -75,0 +77,1 @@\n+ * @build jdk.test.lib.Platform\n","filename":"test\/jdk\/java\/util\/concurrent\/tck\/JSR166TestCase.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
