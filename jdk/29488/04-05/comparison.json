@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,1 +84,0 @@\n-        TANH(HyperbolicTests::testTanhCase, FdlibmTranslit::tanh),\n","filename":"test\/jdk\/java\/lang\/StrictMath\/HyperbolicTests.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
