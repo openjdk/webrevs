@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377703: Add assertion to ensure all AOT mapped heap roots have valid classes"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMappedHeapLoader.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotMappedHeapLoader.hpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"}],"sha":"2a7952dbf21b8c3d171de88e65a52ccfe959e746"}]
