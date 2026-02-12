@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n- * where just some constants from the constant pools were swapped.  \n+ * where just some constants from the constant pools were swapped.\n","filename":"test\/jdk\/java\/lang\/instrument\/RetransformRecordTypeAnn\/TestRetransformRecord.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
