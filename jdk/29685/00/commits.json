@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove unused macros"},"files":[{"filename":"src\/hotspot\/share\/asm\/register.hpp"}],"sha":"f33d51264763efe2e1fdaf119e35b0f877d51938"},{"commit":{"message":"simplify noreg definition for zero"},"files":[{"filename":"src\/hotspot\/cpu\/zero\/register_zero.hpp"}],"sha":"b76102e1f449cb173dd5c38ce9d6e3081e4dc532"}]
