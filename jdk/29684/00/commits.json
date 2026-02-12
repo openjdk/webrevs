@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377729: Running jtreg tests with -agent... option causes some tests to fail due to duplicate -agent options provided to a subprocess"},"files":[{"filename":"test\/lib\/jdk\/test\/lib\/apps\/LingeredApp.java"},{"filename":"test\/lib\/jdk\/test\/lib\/process\/ProcessTools.java"}],"sha":"d45c4fa463a129942087ccaae5983749084ced51"}]
