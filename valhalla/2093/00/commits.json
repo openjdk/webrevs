@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8377353: [lworld] compiler\/valhalla\/inlinetypes\/TestStressReturnBuffering.java OOMs with ZGC and AOT class linking with --enable-preview"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestStressReturnBuffering.java"}],"sha":"f1f8f93076e87078038dea30ec8a40bb14df0ee6"}]
