@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5345,0 +5345,3 @@\n+\n+  bool needs_zext = ((int32_t)nk & 0x80000000) != 0;\n+\n@@ -5348,1 +5351,5 @@\n-  zext(dst, dst, 32);\n+\n+  if (needs_zext) {\n+    zext(dst, dst, 32);\n+  }\n+\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":8,"deletions":1,"binary":false,"changes":9,"status":"modified"}]}
