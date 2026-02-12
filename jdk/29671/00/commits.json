@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove Use64KPages from globals_aix.hpp"},"files":[{"filename":"src\/hotspot\/os\/aix\/globals_aix.hpp"}],"sha":"1d232699f7e6d7b5e9bf1259607500fbe8dadcf8"},{"commit":{"message":"JDK-8377300"},"files":[{"filename":"src\/hotspot\/os\/aix\/globals_aix.hpp"},{"filename":"src\/hotspot\/os\/aix\/os_aix.cpp"}],"sha":"4b1c4d72896a50352977d21a9661ebcce20e0c04"}]
