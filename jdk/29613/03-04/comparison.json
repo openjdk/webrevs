@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @bug 8377389\n+ * @bug 8374798 8377389\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/MissedURShiftLShiftIdeal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
