@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,1 +95,0 @@\n-#ifndef PRODUCT\n@@ -99,1 +98,0 @@\n-#endif\n@@ -386,1 +384,0 @@\n-#ifndef PRODUCT\n@@ -407,1 +404,0 @@\n-#endif \/\/PRODUCT\n","filename":"src\/hotspot\/share\/oops\/flatArrayKlass.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
