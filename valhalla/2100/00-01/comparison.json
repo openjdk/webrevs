@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    public static void test() {\n+    public void test() {\n","filename":"test\/jdk\/valhalla\/valuetypes\/LambdaMetaFactory\/LambdaConversion.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
