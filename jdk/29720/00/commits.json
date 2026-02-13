@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable AArch64 SpinPause tests on Windows"},"files":[{"filename":"test\/hotspot\/gtest\/aarch64\/test_spin_pause.cpp"},{"filename":"test\/hotspot\/jtreg\/gtest\/TestSpinPauseAArch64.java"}],"sha":"bb72eb0b96ce78a00bb123d7d9103ee64d90e41c"}]
