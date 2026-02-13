@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,1 @@\n+        \"-Xlog:gc=debug\",\n","filename":"test\/hotspot\/jtreg\/gc\/g1\/TestShrinkAuxiliaryData.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
