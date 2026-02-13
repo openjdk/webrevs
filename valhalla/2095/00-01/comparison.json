@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1272,1 +1272,1 @@\n-  } else {\n+  } else if (k->is_objArray_klass()) {\n","filename":"src\/hotspot\/share\/classfile\/javaClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
