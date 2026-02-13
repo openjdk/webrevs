@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix jdk-8373731"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestIGVNAddSubElimination.java"}],"sha":"5a090ab7284f65d32790c2ece9107d4541e339af"}]
