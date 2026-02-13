@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -101,1 +101,1 @@\n- * @run main compiler.valhalla.inlinetypes.TestNullableInlineTypes 3\n+ * @run main\/othervm\/timeout=300 compiler.valhalla.inlinetypes.TestNullableInlineTypes 3\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestNullableInlineTypes.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
