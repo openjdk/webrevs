@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -465,1 +465,1 @@\n-  __ ldrb(tmp, Address(tmp));\n+  __ ldrb(tmp, __ legitimize_address(gc_state, 1, tmp));\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoahBarrierSetAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
