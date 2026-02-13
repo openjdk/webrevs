@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377857: Add since checker test for java.naming module"},"files":[{"filename":"src\/java.naming\/share\/classes\/javax\/naming\/InitialContext.java"},{"filename":"test\/jdk\/tools\/sincechecker\/modules\/java.naming\/JavaNamingCheckSince.java"}],"sha":"aeb89dc7f00b944da071164958f015905e703ab3"}]
