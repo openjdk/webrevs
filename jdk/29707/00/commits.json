@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377862: jtreg is unable to detect SkippedException because it is wrapped by Compiler Framework"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/compile_framework\/CompileFramework.java"}],"sha":"d123562f7b1250505b2efa137e4d6cb3f43ad0ee"}]
