@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2406,0 +2406,1 @@\n+        on_input_edge_rewire(use, j);\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
