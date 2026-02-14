@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -305,1 +305,1 @@\n-    public static final long[] T;\n+    public static final long[] T; \/\/ contains 1302 longs (~10 kb)\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/css\/parser\/CssNumberParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
