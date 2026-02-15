@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377932: AOT cache is not rejected when JAR file has changed"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotClassLocation.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/ChangedJarFile.java"}],"sha":"3a09cbd28df36ca85d69583ac37058fa2f1ff5f3"}]
