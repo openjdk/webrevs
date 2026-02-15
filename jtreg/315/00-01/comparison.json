@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -114,1 +114,7 @@\n-by the following variables: `JDK8HOME`, `JDK9HOME`, `JDK14HOME`, `JDK18HOME`, `JDK21HOME`.\n+by the following variables:\n+- `JDK8HOME`\n+- `JDK9HOME`\n+- `JDK14HOME`\n+- `JDK18HOME`\n+- `JDK21HOME`\n+- `JDK25HOME`\n","filename":"doc\/building.md","additions":7,"deletions":1,"binary":false,"changes":8,"status":"modified"}]}
