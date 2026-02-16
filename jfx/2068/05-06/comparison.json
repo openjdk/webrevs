@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+import javafx.application.Platform;\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/stage\/Window.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
