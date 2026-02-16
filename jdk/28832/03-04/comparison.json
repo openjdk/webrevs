@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -472,6 +472,0 @@\n-        if (str.length == 0) {\n-            return 0;\n-        }\n-        if (value.length == 0) {\n-            return -1;\n-        }\n","filename":"src\/java.base\/share\/classes\/java\/lang\/StringLatin1.java","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
