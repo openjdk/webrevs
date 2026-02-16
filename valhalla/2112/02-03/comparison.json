@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1328,1 +1328,0 @@\n-        if (a == null) throw new NullPointerException();\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ConcurrentLinkedDeque.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
