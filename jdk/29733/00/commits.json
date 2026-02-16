@@ -1,0 +1,1 @@
+[{"commit":{"message":"8268675: RTE from \"Printable.print\" propagates through \"PrinterJob.print\""},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/print\/RasterPrinterJob.java"},{"filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/ExceptionFromPrintableIsIgnoredTest.java"}],"sha":"33ec67b908d97e69837a0b65e9eb19a7d69ddc1d"}]
