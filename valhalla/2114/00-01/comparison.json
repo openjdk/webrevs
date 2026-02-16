@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,3 @@\n-    if (b) _flags |= t;\n+    if (b) {\n+      _flags |= t;\n+    }\n","filename":"src\/hotspot\/share\/oops\/arrayProperties.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
