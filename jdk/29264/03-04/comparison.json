@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,0 +128,3 @@\n+ *\n+ * <p>This property is introduced temporarily to restore the old behavior in\n+ * case of need and will be removed in a future release.<\/p>\n","filename":"src\/jdk.httpserver\/share\/classes\/module-info.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
