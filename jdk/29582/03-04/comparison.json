@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,0 @@\n-    using U = std::make_unsigned_t<To>;\n@@ -70,0 +69,1 @@\n+    using U = std::make_unsigned_t<To>;\n","filename":"src\/hotspot\/share\/utilities\/integerCast.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
