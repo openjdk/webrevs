@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378005: C2: assert \"bad if #1\" in MultiNode::proj_out with StressLongCountedLoop"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestStressLongCountedLoopInfiniteLoop.java"}],"sha":"0ed90b430bfcca4e1686c45db03c4e821793e469"}]
