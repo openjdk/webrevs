@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -371,1 +371,3 @@\n-  void *mirror; {\n+  void *mirror;\n+  void *env;\n+  {\n@@ -376,1 +378,1 @@\n-    void *env = thread->jni_environment();\n+    env = thread->jni_environment();\n","filename":"src\/hotspot\/cpu\/zero\/zeroInterpreter_zero.cpp","additions":4,"deletions":2,"binary":false,"changes":6,"status":"modified"}]}
