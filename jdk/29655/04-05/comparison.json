@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -458,1 +458,3 @@\n-      log.print_cr(\"Additional runtime CPU features: %s\", ss.as_string());\n+      if (!ss.is_empty()) {\n+        log.print_cr(\"Additional runtime CPU features: %s\", ss.as_string());\n+      }\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
