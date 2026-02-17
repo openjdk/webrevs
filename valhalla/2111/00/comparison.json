@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5583,1 +5583,1 @@\n-    assert(acmp_maps_array->length() == map->length(), \"sanity\");\n+    assert(acmp_maps_array->length() == map_h->length(), \"sanity\");\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
