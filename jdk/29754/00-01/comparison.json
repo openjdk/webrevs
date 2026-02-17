@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -371,0 +371,1 @@\n+  \/\/ These locals must remain on stack until call completes\n","filename":"src\/hotspot\/cpu\/zero\/zeroInterpreter_zero.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
