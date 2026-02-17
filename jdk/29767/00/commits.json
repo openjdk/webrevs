@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377713: Shenandoah: Convert ShenandoahReferenceProcessor to use Atomic<T>"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahReferenceProcessor.hpp"}],"sha":"f44b87cf6d29d00440c9cf5c37a3ceb99253c8e4"}]
