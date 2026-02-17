@@ -1,0 +1,1 @@
+[{"commit":{"message":"8341818: C2: Compilation fails with \"dead loop detected\""},"files":[{"filename":"src\/hotspot\/share\/opto\/ifnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestDeadLoopSplitIfLoop.java"}],"sha":"67140a59b3a8541545e97bb3f91408321cd26219"}]
