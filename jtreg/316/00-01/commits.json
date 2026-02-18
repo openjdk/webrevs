@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use the last output for a section to get the failure. Only do this for the failure node"},"files":[{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/report\/XMLWriter.java"},{"filename":"test\/xmlCrashInfo\/CrashTestStdout.java"}],"sha":"ec9758ebfc1bf1c352f9d0443a22be27317c1432"}]
