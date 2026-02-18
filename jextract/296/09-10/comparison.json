@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,0 @@\n-    public static final boolean IS_AIX = System.getProperty(\"os.name\").startsWith(\"AIX\");\n","filename":"src\/main\/java\/org\/openjdk\/jextract\/impl\/TypeImpl.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
