@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,2 +77,1 @@\n-        Event e = new Event.WriteFinished(t);\n-        t.getHttpContext().getServerImpl().addEvent(e);\n+        t.postExchangeFinished(true);\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/UpgradeOutputStream.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
