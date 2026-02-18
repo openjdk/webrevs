@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix PrintStubs when loading AOT stubs"},"files":[{"filename":"src\/hotspot\/share\/asm\/codeBuffer.cpp"}],"sha":"ba3b0de8a6a321e0e78012d889018b0d5b1b25d5"},{"commit":{"message":"add missing ZGC external"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"170950a69900b267068e6ea80a54689715c3c2dd"}]
