@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,3 +81,0 @@\n-  int  cp_entry_to_cp_cache(int i) { assert(has_cp_cache(i), \"oob\"); return _cp_map.at(i); }\n-  bool has_cp_cache(int i) { return (uint) i < (uint) _cp_map.length() && _cp_map.at(i) >= 0; }\n-\n","filename":"src\/hotspot\/share\/interpreter\/rewriter.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
