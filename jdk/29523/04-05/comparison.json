@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,1 +192,0 @@\n-    $(call ExtendFlags,$(TOPDIR)\/src\/hotspot\/share\/gc\/g1,g1ConcurrentMark.cpp,_CXXFLAGS,$(CFLAGS_CONVERSION_WARNINGS)), \\\n","filename":"make\/hotspot\/lib\/CompileJvm.gmk","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
