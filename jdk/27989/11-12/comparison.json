@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -203,1 +203,2 @@\n-        return values != null\n+        return !http10 \n+            && values != null\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ExchangeImpl.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
