@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2785,1 +2785,1 @@\n-            \/\/ Create empty hlsl dirs on all platforms for IDE support\n+            \/\/ Create empty hlsl dirs on all platforms for IDE (Eclipse) support\n","filename":"build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
