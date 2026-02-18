@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378110: Add -XX: prefix to settings-file flags in RuntimeMXBean.getInputArguments()"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"},{"filename":"test\/jdk\/java\/lang\/management\/RuntimeMXBean\/InputArgument.java"}],"sha":"78ed9a4cdf041c00f103b3f4296d1e5c28ed4cca"}]
