@@ -1,0 +1,1 @@
+[{"commit":{"message":"Apple seems to miss the off64_t"},"files":[{"filename":"src\/hotspot\/os\/posix\/forbiddenFunctions_posix.hpp"}],"sha":"91ab51cd8f858bfe98731eb1699538cbe0a4aef6"},{"commit":{"message":"JDK-8377952"},"files":[{"filename":"src\/hotspot\/os\/posix\/forbiddenFunctions_posix.hpp"}],"sha":"a19877274e2115a384321a1671405ae26a6e30a2"}]
