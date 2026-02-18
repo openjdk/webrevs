@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -334,2 +334,1 @@\n-            public Properties getCurrentProperties() {\n-                return (Properties) props.clone();\n+            public Properties getCurrentProperties() { return props;\n","filename":"src\/java.base\/share\/classes\/java\/security\/Security.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
