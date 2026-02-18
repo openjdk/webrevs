@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -602,0 +602,2 @@\n+    if (x < 0) x = 0;\n+    if (y < 0) y = 0;\n@@ -607,2 +609,0 @@\n-        if (x < 0)                    x = 0;\n-        if (y < 0)                    y = 0;\n","filename":"modules\/javafx.graphics\/src\/main\/native-prism-mtl\/MetalContext.m","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
