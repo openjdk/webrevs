@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1102,1 +1102,1 @@\n-    for( r = orig_lo; r <= orig_hi; r++ ) {\n+    for (r = orig_lo; r <= orig_hi; r++) {\n@@ -1114,1 +1114,1 @@\n-    for( r = orig_lo; r <= orig_hi; r++ ) {\n+    for (r = orig_lo; r <= orig_hi; r++) {\n","filename":"src\/hotspot\/share\/opto\/parse2.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
