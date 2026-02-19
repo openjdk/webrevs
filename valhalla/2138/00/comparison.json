@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,2 +104,1 @@\n-  }\n-  else if (_offset == OffsetBot) {\n+  } else if (_offset == OffsetBot) {\n@@ -107,1 +106,1 @@\n-  } else if (_offset) {\n+  } else {\n","filename":"src\/hotspot\/share\/opto\/type.cpp","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
