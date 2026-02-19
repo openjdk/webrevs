@@ -1,0 +1,1 @@
+[{"commit":{"message":"revert the change in StoreNode::Identity"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorLoadStoreOptimization.java"}],"sha":"2cdfe8d24498cc7d9b794b77eef3c8b9642f75d9"}]
