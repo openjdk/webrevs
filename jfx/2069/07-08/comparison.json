@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,0 +128,1 @@\n+        assertSameDouble(1.1125369292536007E-308, \"1.1125369292536007E-308\"); \/\/ MIN_NORMAL\/2\n","filename":"modules\/javafx.graphics\/src\/test\/java\/test\/com\/sun\/javafx\/css\/parser\/CssNumberParserTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
