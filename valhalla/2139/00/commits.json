@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378247: [lworld] Move ciKlass::can_be_inline_klass to ciType"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciKlass.hpp"},{"filename":"src\/hotspot\/share\/ci\/ciType.hpp"},{"filename":"src\/hotspot\/share\/opto\/inlinetypenode.cpp"}],"sha":"7abc27552b72a7b4b4604766e19a69ace03bbf08"}]
