@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1052,1 +1052,0 @@\n-                                    \/\/                                if (getCurrentPath().getParentPath().getLeaf().getKind() == Kind.NEW_CLASS) {\n","filename":"test\/langtools\/tools\/javac\/api\/TestGetScopeResult.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
