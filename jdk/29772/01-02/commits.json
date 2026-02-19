@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set debug build as prerequisite for test\n\nThe IR framework tests use the `PrintIdeal` and `PrintOptoAssembly`\nflags, which are available in debug builds only."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestLoopPeelingDisabled.java"}],"sha":"e7fcb4ed582407b74e6fe77562de9afa36269371"}]
