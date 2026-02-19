@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-                                          pageRange.getMembers()[0][1],\n+                                          pageRange.getMembers()[0][0],\n","filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/PageRangesAuto.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
