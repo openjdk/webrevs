@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,0 @@\n-import java.awt.PrintGraphics;\n@@ -55,2 +54,0 @@\n-import java.awt.print.PrinterGraphics;\n-\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicProgressBarUI.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
