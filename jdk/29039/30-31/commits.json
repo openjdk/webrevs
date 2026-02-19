@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow generic triggers even when we have not allocated minimal threshold"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAdaptiveHeuristics.cpp"}],"sha":"ea9141c22c1106731a752af34eedf5ae7489e068"}]
