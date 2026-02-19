@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4036,0 +4036,2 @@\n+                        \/\/ Pass in the rt\/build dir and WebKit output dir\n+                        cmakeArgs = \"$cmakeArgs -DRT_BUILD_ROOT='${rootProject.buildDir}' -DWEBKIT_OUTPUTDIR=${webkitOutputDir}\"\n","filename":"build.gradle","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
