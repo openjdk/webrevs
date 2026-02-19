@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,7 @@\n+# Special handling for environments that report Cygwin despite being MSYS\n+case `uname -s` in\n+  MSYS*)\n+    MSYSTEM_CHOST=`echo $MSYSTEM_CHOST | sed 's\/cygwin\/msys\/'`\n+    ;;\n+esac\n+\n","filename":"make\/autoconf\/configure","additions":7,"deletions":0,"binary":false,"changes":7,"status":"modified"}]}
