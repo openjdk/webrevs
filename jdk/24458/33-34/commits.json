@@ -1,0 +1,1 @@
+[{"commit":{"message":"Optimize by passing references and reusing already resolved stride_con's"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"}],"sha":"734afcbc78ec0c2eb3603bdb0cf4c67abbd57e02"}]
