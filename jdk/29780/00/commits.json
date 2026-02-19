@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378153: Robot.getPixelColor() may return stale pixels due to missing Toolkit.sync()"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/Robot.java"}],"sha":"2a0a30b95ff20702e4cee8a409241f6e492263f9"}]
