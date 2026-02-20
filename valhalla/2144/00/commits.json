@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378292: [lworld] C2 fails assert(in1->uncast()->Opcode() == Op_LoadKlass && in2->uncast()->Opcode() == Op_LoadKlass) failed: must be LoadKlass"},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"src\/hotspot\/share\/opto\/escape.hpp"}],"sha":"c7265396790489199918d679136de610682828a1"}]
