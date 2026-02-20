@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update ConcurrentHashMap.java\n\n\"In Red-Black Trees, a red node cannot have any red children; this rule is violated even if only one child is red, not just when both children are red.\""},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ConcurrentHashMap.java"}],"sha":"8f86c85c0cbf0a05d2df31fafdc925a22173858a"}]
