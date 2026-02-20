@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2678,0 +2678,4 @@\n+      \/\/ MemNode::optimize_memory_chain above may kill us!\n+      if (outcnt() == 0) {\n+        return top;\n+      }\n","filename":"src\/hotspot\/share\/opto\/cfgnode.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
