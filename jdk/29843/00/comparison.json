@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1089,1 +1089,1 @@\n-          _verify_size_exact,          \/\/ expect generation and heap sizes to match exactly\n+          _verify_size_disable,        \/\/ no reliable sizing data\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahVerifier.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
