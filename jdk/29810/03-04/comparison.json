@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,0 +314,1 @@\n+  # Special handling for MSYS2 that reports a Cygwin triplet as the default host triplet.\n","filename":"make\/autoconf\/platform.m4","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
