@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -102,1 +102,1 @@\n-                    assertEquals(clientEx.getMessage(), \"\"\n+                    assertEquals(clientEx.getMessage(), \"(bad_certificate) \"\n","filename":"test\/jdk\/sun\/security\/ssl\/SignatureScheme\/MD5NotAllowedInTLS13CertificateSignature.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
