@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1439,1 +1439,1 @@\n-                    && containsTypeEquivalent(t.elemtype, elemtype(s));\n+                    && visit(t.elemtype, elemtype(s));\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Types.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
