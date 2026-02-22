@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,2 @@\n+import java.util.HashMap;\n+\n@@ -34,0 +36,2 @@\n+            \/\/ we don't need system level history\/storage for this test\n+            .persistence(new HashMap<>())\n","filename":"test\/hotspot\/jtreg\/runtime\/os\/WXHealing.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
