@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,0 +24,2 @@\n+\/\/ Skip Windows to prevent GTestWrapper.java from failing because\n+\/\/ SpinPause is not implemented on Windows (and therefore returns 0)\n","filename":"test\/hotspot\/gtest\/aarch64\/test_spin_pause.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
