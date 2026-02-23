@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,1 +157,0 @@\n-                  IRNode.STORE_VECTOR,       \"= 0\",  \/\/ no vector store\n@@ -184,1 +183,0 @@\n-                  IRNode.STORE_VECTOR,       \"= 0\",  \/\/ no vector store\n","filename":"test\/hotspot\/jtreg\/compiler\/gallery\/TestParticleLife.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
