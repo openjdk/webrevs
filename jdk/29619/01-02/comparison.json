@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1906,1 +1906,1 @@\n-                    \" disabled by jdk.crypto.disabledAlgrithms property\");\n+                    \" disabled by jdk.crypto.disabledAlgorithms property\");\n","filename":"src\/java.base\/share\/classes\/java\/security\/KeyStore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
