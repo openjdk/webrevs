@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378417: Printing All pages results in NPE for 1.1 PrintJob"},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/print\/PrintJobDelegate.java"},{"filename":"test\/jdk\/java\/awt\/PrintJob\/ScaledImagePrintingTest.java"}],"sha":"f19e7c15d963dfc3c61bbf6fadd3876179178714"}]
