@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378413: C2: Missed Ideal optimization opportunity in PhaseIterGVN for URShiftI still exists"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/MissedURShiftIAddILShiftIdeal.java"}],"sha":"6d41761af88ab794d15413749a307cda5aa8ebd6"}]
