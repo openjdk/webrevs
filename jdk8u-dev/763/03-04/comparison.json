@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -709,1 +709,1 @@\n-#       rsa_pkcs1_sha1, secp224r1, TLS_RSA_*\n+#       TLS_RSA_*\n","filename":"jdk\/src\/share\/lib\/security\/java.security-aix","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
