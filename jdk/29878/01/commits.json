@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adjust COPYRIGHT header"},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"}],"sha":"b3b4bc8f92020a778ad04c691874d2c6dc460bda"},{"commit":{"message":"JDK-8377880"},"files":[{"filename":"make\/hotspot\/lib\/CompileJvm.gmk"},{"filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp"}],"sha":"70c6fbeefbb11b62b8f1793d3d2648b20adec558"}]
