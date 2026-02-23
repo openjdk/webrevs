@@ -1,0 +1,1 @@
+[{"commit":{"message":"8371260: Fix wrong VarHandle usage, remove unneeded fullFence from justClose()"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/SharedSession.java"}],"sha":"1a3b0cf7a72d6c9725f88e9cfdb13f28068e6ebf"}]
