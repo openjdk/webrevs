@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -924,1 +924,1 @@\n-    masked_shift = 0; \/\/ TODO is this right though?\n+    masked_shift = 0;\n","filename":"src\/hotspot\/share\/opto\/mulnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
