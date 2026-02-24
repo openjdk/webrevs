@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1041,1 +1041,1 @@\n-                    if (role != null && ignoredRoles != null &&\n+                    if (roleStr != null && ignoredRoles != null &&\n","filename":"src\/java.desktop\/macosx\/classes\/sun\/lwawt\/macosx\/CAccessibility.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
