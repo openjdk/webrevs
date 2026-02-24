@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3574,1 +3574,1 @@\n-      \/\/ Ensure vector types are the same\n+      \/\/ Ensure both are not masked accesses or gathers\/scatters and vector types are the same\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
