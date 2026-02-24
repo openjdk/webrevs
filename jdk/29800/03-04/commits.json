@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: convert volatile bool to Atomic<bool>"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.hpp"}],"sha":"8b84265e5455ee2ea17a37b3a8344fc2d1412cb9"}]
