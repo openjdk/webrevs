@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,2 +122,0 @@\n-    private static final Object repaintManagerKey = RepaintManager.class;\n-\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/RepaintManager.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
