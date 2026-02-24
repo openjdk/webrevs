@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,0 +58,1 @@\n+#include \"gc\/g1\/g1HeapRegion.hpp\"\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
