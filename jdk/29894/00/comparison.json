@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -327,1 +327,3 @@\n-        c.forEach(this::addLast);\n+        for (E e : c) {\n+            addLast(e);\n+        }\n","filename":"src\/java.base\/share\/classes\/java\/util\/ArrayDeque.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
