@@ -1,0 +1,1 @@
+[{"commit":{"message":"8374020: Inconsistent handling of type updates in typeWithAnnotations"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/TypeAnnotations.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/typeAnnotations\/TypeAnnotationsOnTypes.java"}],"sha":"289ed5337d5e871da8be6b1c7eb8b034781f0b15"}]
