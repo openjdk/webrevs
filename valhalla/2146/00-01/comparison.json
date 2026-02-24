@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4513,4 +4513,0 @@\n-    const char* class_note = \"\";\n-    if (!valid_value_class) {\n-      class_note = \" (a value class must be final or else abstract)\";\n-    }\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
