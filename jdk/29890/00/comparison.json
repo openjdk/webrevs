@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -482,2 +482,0 @@\n-  } else {\n-    assert(!is_enabled(JVMTI_EVENT_FRAME_POP), \"Must have no framepops set\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
