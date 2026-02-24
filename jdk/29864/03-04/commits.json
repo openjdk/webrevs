@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add tests for URLClassLoader::getResource following a redirect and another test where the redirect location returns 404 Not Found."},"files":[{"filename":"test\/jdk\/java\/net\/URLClassLoader\/HttpTest.java"}],"sha":"22048aeadfbb084e48d6454db972670562bbf7d2"}]
