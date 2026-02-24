@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle commutativity in URShift{I,L}Node::Ideal"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopopts.cpp"},{"filename":"src\/hotspot\/share\/opto\/mulnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/MissedURShiftIAddILShiftIdeal.java"}],"sha":"41e0c181b515643c2b1291290fef14ff7c7f2104"}]
