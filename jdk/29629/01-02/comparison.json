@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,0 @@\n-        this.carrierType = carrierType;\n@@ -71,0 +70,3 @@\n+        this.carrierType = carrierType;\n+        assert(carrierType.isPrimitive());\n+\n","filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/LaneType.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
