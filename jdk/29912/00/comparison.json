@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,0 +45,1 @@\n+ *         -XX:+UnlockDiagnosticVMOptions\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/RedefineClasses\/RedefineVerifyError.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
