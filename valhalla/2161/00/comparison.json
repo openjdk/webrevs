@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -419,1 +419,1 @@\n-        int loopLimit = 1_000_000;\n+        int loopLimit = 250_000;\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestTearing.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
