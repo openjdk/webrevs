@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cyclic field should be scalarized at getfield"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"src\/hotspot\/share\/opto\/parse3.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestGetCyclicField.java"}],"sha":"b20c84c4b35d0a269cc70896b24d1d9ec7f1a85f"}]
