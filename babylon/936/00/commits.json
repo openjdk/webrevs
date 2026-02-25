@@ -1,0 +1,1 @@
+[{"commit":{"message":"[hat] Fix for private\/shared memory of UDT"},"files":[{"filename":"hat\/backends\/ffi\/shared\/src\/main\/java\/hat\/backend\/ffi\/C99FFIBackend.java"},{"filename":"hat\/core\/src\/main\/java\/hat\/device\/DeviceSchema.java"},{"filename":"hat\/tests\/src\/main\/java\/hat\/test\/TestDFT.java"}],"sha":"0f1c8877f8cb740f955b6fa8cbdf60efce76be2f"}]
