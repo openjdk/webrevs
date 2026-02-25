@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added test"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/DeterministicClasslist.java"}],"sha":"e88c6dc53482009f210448e4659e6f60b3258b9c"},{"commit":{"message":"8378371: Default classlist not deterministic due to JIT activity"},"files":[{"filename":"make\/GenerateLinkOptData.gmk"}],"sha":"f7a9c675f2dbb229b639e731dae634ef02e7d2ee"}]
