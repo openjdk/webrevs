@@ -1,0 +1,1 @@
+[{"commit":{"message":"Lazily replenish alloc regions instead of proactively doing in alloc code path"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.cpp"}],"sha":"00fc56e1cc202dcfbd9f9797e2d8a418d8d65833"}]
