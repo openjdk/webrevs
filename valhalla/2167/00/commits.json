@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378476i: [lworld] Disable Character cache for --enable-preview\nRefactor Boolean.valueOf using same code structure as other disables of caches."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/Byte.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/Character.java"}],"sha":"d4bb80e7e4201ac36f9a23010d0ac279df4b164c"}]
