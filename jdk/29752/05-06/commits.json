@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove PageRange regression, fix Synth"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/synth\/SynthProgressBarUI.java"},{"filename":"src\/java.desktop\/share\/classes\/sun\/print\/PrintJobDelegate.java"},{"filename":"test\/jdk\/java\/awt\/PrintJob\/PrintProgressBarTest.java"}],"sha":"99cc8a798c585534419cb043e438a9009f9267eb"}]
