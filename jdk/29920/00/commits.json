@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378698: Optimize Base64.Encoder#encodeToString\n\nAvoid a byte array copy in encodeToString by using JavaLangAccess#uncheckedNewStringWithLatin1Bytes"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Base64.java"}],"sha":"d007ca46ac6910e2cda7b569716148e1fb30af14"}]
