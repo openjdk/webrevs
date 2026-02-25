@@ -1,0 +1,1 @@
+[{"commit":{"message":"Convert AtomicAccess to Atomic<T> for ShenandoahAllocator"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.hpp"}],"sha":"95b205aa019f6c79c3f1d4572a31e27c36a9b073"}]
