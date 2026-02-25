@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3405,0 +3405,2 @@\n+      } else if (rtype == relocInfo::external_word_type) {\n+        __ lea(dst_reg, ExternalAddress(con));\n","filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
