@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -433,1 +433,1 @@\n-            if (entry != null && entry instanceof QueueCacheEntry<K, V>) {\n+            if (entry instanceof QueueCacheEntry<K, V>) {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/util\/Cache.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
