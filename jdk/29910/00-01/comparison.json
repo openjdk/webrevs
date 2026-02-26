@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8208377 6562489 8270265 8356803 8356812 4517298 8378623\n+ * @bug 8208377 6562489 8270265 8356803 8356812 4517298\n","filename":"test\/jdk\/java\/awt\/font\/TextLayout\/FormatCharAdvanceTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
