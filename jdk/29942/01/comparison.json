@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,2 @@\n-ifeq ($(findstring p, $(MAKEFLAGS))$(findstring q, $(MAKEFLAGS)), pq)\n+MAKEFLAGS_SINGLE := $(firstword -$(filter-out --%, $(MAKEFLAGS)))\n+ifeq ($(findstring p, $(MAKEFLAGS_SINGLE))$(findstring q, $(MAKEFLAGS_SINGLE)), pq)\n","filename":"make\/PreInit.gmk","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
