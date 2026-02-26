@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-  return path.as_string();\n+  return os::strdup(path.freeze());\n","filename":"test\/hotspot\/gtest\/os\/linux\/test_cgroupSubsystem_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
