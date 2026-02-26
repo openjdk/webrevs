@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n-    ASSERT(ec);\n+    ASSERT(ec == ExceptionCode::TypeError);\n","filename":"modules\/javafx.web\/src\/main\/native\/Source\/WebCore\/bindings\/java\/JavaDOMUtils.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
