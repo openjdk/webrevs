@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1421,1 +1421,1 @@\n-    if (record->is_full_module_graph() && !CDSConfig::is_using_full_module_graph()) {\n+    if (record->is_full_module_graph() && !CDSConfig::is_using_full_module_graph() && do_init) {\n","filename":"src\/hotspot\/share\/cds\/heapShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
