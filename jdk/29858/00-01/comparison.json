@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -605,1 +605,1 @@\n-        WToolkit.postEvent(WToolkit.targetToAppContext(source), event);\n+        WToolkit.postEvent(event);\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WInputMethod.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
