@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -439,1 +439,2 @@\n-        JMenu menu = new JMenu(\" \");\n+        JMenu menu = new JMenu(\"\");\n+        menu.setPreferredSize(new Dimension(IMAGE_WIDTH, IMAGE_HEIGHT));\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/metal\/MetalTitlePane.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
