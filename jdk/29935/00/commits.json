@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369181 (v1): InflaterOutputStream: writing after finish() results in a NullPointerException (NPE) instead of an IOException"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/InflaterOutputStream.java"},{"filename":"test\/jdk\/java\/util\/zip\/InflaterOutputStreamTest.java"}],"sha":"849708be51031ad56ea464b6d434f0ca5a2bf508"}]
