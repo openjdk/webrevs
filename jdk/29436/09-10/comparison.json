@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -331,1 +331,0 @@\n-  _seen_interp_only_mode = true;\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
