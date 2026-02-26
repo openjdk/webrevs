@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372382: invalid RuntimeVisibleTypeAnnotations for compact record constructor"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/typeAnnotations\/TypeAnnotationsPositionsOnRecords.java"}],"sha":"d47964e52a50c87d249409add5ccaff07c417987"}]
