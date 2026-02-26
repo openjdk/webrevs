@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix arm32 build failure"},"files":[{"filename":"src\/hotspot\/cpu\/arm\/relocInfo_arm.cpp"},{"filename":"src\/hotspot\/share\/code\/relocInfo.hpp"}],"sha":"abb032824f23621d07d239e30e7c103804f89f00"}]
