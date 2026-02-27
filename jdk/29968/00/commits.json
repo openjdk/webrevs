@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378871: CPU feature flags are not properly set in vm_version_windows_aarch64.cpp\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/os_cpu\/windows_aarch64\/vm_version_windows_aarch64.cpp"}],"sha":"8b891568d2f15de48df51bd86a31893bf167f147"}]
