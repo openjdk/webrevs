@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -270,1 +270,1 @@\n-    if test \"x$OPENJDK_TARGET_OS\" = xmacosx; then\n+    if test \"x$OPENJDK_TARGET_OS\" = xmacosx -o \"x$OPENJDK_TARGET_OS\" = xaix; then\n","filename":"make\/autoconf\/lib-bundled.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
