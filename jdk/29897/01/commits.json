@@ -1,0 +1,1 @@
+[{"commit":{"message":"move template method to cpp"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"}],"sha":"2ac92fcbea382f4eaf1266805dfd16ac17f7607f"},{"commit":{"message":"8377986: C2: New method to add specific users to the worklist"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"}],"sha":"e29f10db1f555701c6d883cbeaaa32d4918da8fd"}]
