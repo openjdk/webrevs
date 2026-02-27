@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,2 +192,1 @@\n-    \"-DMACOS_MIN_VERSION_MINOR=$macOSMinVersionMinor\",\n-    \"-Werror\"].flatten()\n+    \"-DMACOS_MIN_VERSION_MINOR=$macOSMinVersionMinor\"].flatten()\n","filename":"buildSrc\/mac.gradle","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
