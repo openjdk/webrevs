@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'lworld' into 8378375-hashcode-use-class-hashcode"},"files":[],"sha":"cc225bd553e0476075ddc23816631437f62f3abe"},{"commit":{"message":"SALT for value objects is the class identityHashCode"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/ValueObjectMethods.java"}],"sha":"f8c420f8a7edda2f4d3730e36167e6dfec30a187"}]
