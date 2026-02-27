@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376164: Optimize AES\/ECB\/PKCS5Padding implementation using full-message intrinsic stub and parallel RoundKey addition"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_aes.cpp"}],"sha":"c1b9d3028debf69359eb047692705a22f71b1d9b"}]
