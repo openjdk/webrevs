@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix assert string too."},"files":[{"filename":"src\/hotspot\/share\/oops\/resolvedFieldEntry.cpp"}],"sha":"1b394bcac0d67424f0ba908264f558b55a9a43ef"},{"commit":{"message":"Remove assert clause that can never be false."},"files":[{"filename":"src\/hotspot\/share\/oops\/resolvedFieldEntry.cpp"}],"sha":"c6759b162aa7e716e45de37ae49a36945d4ad238"}]
