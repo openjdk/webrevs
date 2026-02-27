@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add missing memory barrier in FlatArrayKlass::copy_array"},"files":[{"filename":"src\/hotspot\/share\/oops\/flatArrayKlass.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/ValueTearingTest.java"}],"sha":"ed6137ba75bcd75864c0eaf58cec24bfc189e251"}]
