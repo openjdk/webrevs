@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,0 +66,3 @@\n+    # Disable deprecated-declarations warnings to workaround clang18+glibc12\n+    # bug(https:\/\/github.com\/llvm\/llvm-project\/issues\/76515), until the clang\n+    # bug has been fixed\n","filename":"make\/hotspot\/lib\/CompileGtest.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
