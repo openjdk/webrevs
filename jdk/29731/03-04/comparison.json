@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -295,1 +295,1 @@\n-    printf(\"WARNING: PAC is enabled. Output might not be enough and\/or incorrect.\\n\");\n+    printf(\"WARNING: PAC is enabled. Stack traces might be incomplete.\\n\");\n","filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/LinuxDebuggerLocal.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
