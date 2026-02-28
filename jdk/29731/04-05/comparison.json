@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,2 +33,0 @@\n-#include <fcntl.h>\n-#include <sys\/auxv.h>\n@@ -40,1 +38,4 @@\n-#include \"elfmacros.h\"\n+\n+#ifdef __aarch64__\n+#include <sys\/auxv.h>\n+#endif\n","filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/ps_proc.c","additions":4,"deletions":3,"binary":false,"changes":7,"status":"modified"}]}
