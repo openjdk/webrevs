@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -23,1 +23,1 @@\n-package org.openjdk.bench.java.lang;\n+package org.openjdk.bench.jdk.incubator.vector;\n","filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/Float16OperationsBenchmark.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
