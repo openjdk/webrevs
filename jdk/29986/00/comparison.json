@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2277,1 +2277,1 @@\n-        assert(rtype == relocInfo::none, \"unexpected reloc type\");\n+        assert(rtype == relocInfo::none || rtype == relocInfo::external_word_type, \"unexpected reloc type\");\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
