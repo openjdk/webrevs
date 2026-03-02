@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1283,1 +1283,1 @@\n-                if (sigOnly) {\n+                if (sigOnly && !tree.declaredUsingVar()) {\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/TypeAnnotations.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
