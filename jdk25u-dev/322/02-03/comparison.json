@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -848,1 +848,1 @@\n-     * the preferred provider order for the specified algorithm. This\n+     * the preferred provider order for the specified keystore type. This\n","filename":"src\/java.base\/share\/classes\/java\/security\/KeyStore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
