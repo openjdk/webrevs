@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -377,0 +377,3 @@\n+#ifndef PATH_MAX\n+# define PATH_MAX 1024\n+#endif\n@@ -379,1 +382,1 @@\n-  int fd = os::open(path, oflag, S_IRUSR | S_IWUSR);\n+  int fd = os::open(path, oflag, 0600);\n","filename":"src\/hotspot\/share\/runtime\/crac_engine.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
