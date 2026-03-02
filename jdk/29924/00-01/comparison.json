@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -490,1 +490,1 @@\n-        Font2D font2D  = scopedVars.get().font();\n+        Font2D font2D = scopedVars.get().font();\n","filename":"src\/java.desktop\/share\/classes\/sun\/font\/HBShaper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
