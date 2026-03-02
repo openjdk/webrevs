@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -201,1 +201,1 @@\n-        }  else if (TKit.isOSX()) {\n+        } else if (TKit.isOSX()) {\n","filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/AppImageFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
