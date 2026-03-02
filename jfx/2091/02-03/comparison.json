@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-            return o instanceof PeerCacheKey other\n+            return o instanceof PeerCacheKey other \/\/ 'o' is never 'this'\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/scenario\/effect\/impl\/Renderer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
