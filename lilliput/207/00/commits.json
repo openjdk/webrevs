@@ -1,0 +1,1 @@
+[{"commit":{"message":"8372151: Lilliput: Don't copy mark-word in Object.clone()"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/c2\/barrierSetC2.cpp"},{"filename":"src\/hotspot\/share\/oops\/accessBackend.inline.hpp"}],"sha":"ab1597626c773741925a16d7fa43f3f60914578e"}]
