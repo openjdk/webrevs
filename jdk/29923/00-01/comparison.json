@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -200,1 +200,3 @@\n-            } catch (Exception e) {}\n+            } catch (Exception e) {\n+                e.printStackTrace();\n+            }\n","filename":"test\/lib\/jdk\/test\/lib\/Platform.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
