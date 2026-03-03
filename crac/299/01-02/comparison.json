@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -404,1 +404,1 @@\n-    return -1;\n+    return false;\n@@ -409,1 +409,1 @@\n-    ssize_t r = ::read(fd, buf + rd, sizeof(buf) - rd);\n+    ssize_t r = ::read(fd, buf + rd, static_cast<unsigned int>(sizeof(buf) - rd));\n","filename":"src\/hotspot\/share\/runtime\/crac_engine.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
