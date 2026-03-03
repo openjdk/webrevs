@@ -1,0 +1,1 @@
+[{"commit":{"message":"Take the smaller of the heap or 32M for testing"},"files":[{"filename":"test\/hotspot\/gtest\/gc\/shenandoah\/test_shenandoahMarkBitMap.cpp"}],"sha":"210ddaa511de323ad1bb0473e54e66628b790285"}]

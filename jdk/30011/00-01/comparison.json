@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -168,1 +168,1 @@\n-    size_t test_heap_size = 32 * M;\n+    size_t test_heap_size = MIN2(32 * M, heap->max_capacity());\n","filename":"test\/hotspot\/gtest\/gc\/shenandoah\/test_shenandoahMarkBitMap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
