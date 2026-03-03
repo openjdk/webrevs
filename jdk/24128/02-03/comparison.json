@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4455,1 +4455,1 @@\n-     *         or {@code 0} if {@code a} is {@code null} and the range is empty\n+     *         or {@code 0} if either {@code a} is {@code null} or the range is empty\n","filename":"src\/java.base\/share\/classes\/java\/util\/Arrays.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
