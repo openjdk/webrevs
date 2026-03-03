@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8379006: [lworld] Convert value class serialization tests to JUnit\nRefactored tests to JUnit"},"files":[{"filename":"test\/jdk\/java\/io\/Serializable\/valueObjects\/SimpleValueGraphs.java"},{"filename":"test\/jdk\/java\/io\/Serializable\/valueObjects\/ValueSerializationTest.java"}],"sha":"d602b67b4b084faee73277a47029b027ee36d96d"}]
