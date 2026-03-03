@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -210,1 +210,1 @@\n-        assertEquals(r, ref);\n+        assertEquals(ref, r);\n","filename":"test\/jdk\/java\/nio\/channels\/AsynchronousSocketChannel\/CompletionHandlerRelease.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
