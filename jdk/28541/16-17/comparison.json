@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,0 +79,2 @@\n+#define RANDOMIZED_PROFILE_CAPTURE\n+\n","filename":"src\/hotspot\/cpu\/aarch64\/globalDefinitions_aarch64.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
