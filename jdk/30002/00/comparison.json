@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,1 +82,1 @@\n-compiler\/c2\/aarch64\/TestStaticCallStub.java 8359963 linux-aarch64,macosx-aarch64\n+compiler\/c2\/aarch64\/TestStaticCallStub.java 8359963 linux-aarch64,macosx-aarch64,windows-aarch64\n","filename":"test\/hotspot\/jtreg\/ProblemList.txt","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
