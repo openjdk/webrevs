@@ -1,0 +1,1 @@
+[{"commit":{"message":"8379196: delta apply fix for JDK-8214934"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransTypes.java"},{"filename":"test\/langtools\/tools\/javac\/annotations\/typeAnnotations\/IncorrectCastOffsetTest.java"}],"sha":"bdf34e3c335a17a3cb0e3b7b86e254b33df3478a"}]
