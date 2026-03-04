@@ -1,0 +1,1 @@
+[{"commit":{"message":"Recheck 1: only avoid use of noUserHelp for signalling"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinTask.java"}],"sha":"eaf0c79d9796088797712dade40c262703f83588"}]
