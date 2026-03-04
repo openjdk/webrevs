@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,0 +43,2 @@\n+#include <X11\/Xresource.h>\n+\n","filename":"src\/java.desktop\/unix\/native\/common\/java2d\/opengl\/GLXSurfaceData.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
