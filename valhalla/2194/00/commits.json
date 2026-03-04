@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378792: ObjectMethods.bootstrap missing getter validation\n\nReviewed-by: rriggs, jvernee"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/runtime\/ObjectMethods.java"},{"filename":"test\/jdk\/java\/lang\/runtime\/ObjectMethodsTest.java"}],"sha":"4570dbeada69adf1eff97a29a8a0db75b3d1b95c"}]
