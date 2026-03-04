@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378808: List.of().stream() -> Stream.of(); remove @{After,Before}All in ForceViews"},"files":[{"filename":"test\/jdk\/java\/nio\/Buffer\/EqualsCompareTest.java"},{"filename":"test\/jdk\/java\/nio\/MappedByteBuffer\/ForceViews.java"}],"sha":"45887605caf69587ef5b8eb8fba213cb6446dd50"}]
