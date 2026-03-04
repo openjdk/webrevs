@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -699,1 +699,0 @@\n-            System.out.println(getCrashMessage(output.getStdout()));\n","filename":"test\/lib\/jdk\/test\/lib\/cds\/CDSTestUtils.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
