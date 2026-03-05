@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,2 +56,0 @@\n-        \/\/ JDK-8372247\n-        TF(\"Semaphore.trywait\", Platform.isOSX()),\n","filename":"test\/hotspot\/jtreg\/gtest\/AllNotVMGtest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
