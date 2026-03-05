@@ -1,0 +1,1 @@
+[{"commit":{"message":"Elide barriers during parsing when the access folds to a constant"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/c2\/barrierSetC2.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/gcbarriers\/TestZGCBarrierElision.java"}],"sha":"ecdf91bfab2d162ec4a1c9990aa99aee34e0c8b7"}]
