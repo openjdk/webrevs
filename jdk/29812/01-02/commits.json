@@ -1,0 +1,1 @@
+[{"commit":{"message":"8216486: Fix integer overflow in BCEscapeAnalyzer::iterate_blocks\n\nBail out conservatively if datacount overflows size_t."},"files":[{"filename":"src\/hotspot\/share\/ci\/bcEscapeAnalyzer.cpp"}],"sha":"5cc1242a106dfd69a365cf3bf39da1d41ff4e1c2"}]
