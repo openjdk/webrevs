@@ -1,0 +1,1 @@
+[{"commit":{"message":"use constant for UnsafeMemoryAccess table columns count"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_arraycopy.cpp"},{"filename":"src\/hotspot\/share\/runtime\/stubRoutines.hpp"}],"sha":"c76a809e8dbdfe768f9b9c542c69a38c8353bbd0"}]
