@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n- * @run compiler.loopopts.parallel_iv.TestParallelIvInIntCountedLoop\n+ * @run driver compiler.loopopts.parallel_iv.TestParallelIvInIntCountedLoop\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/parallel_iv\/TestParallelIvInIntCountedLoop.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
