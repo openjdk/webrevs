@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1148,1 +1148,1 @@\n-    assert(!Arguments::enable_preview(), \"Should not use box caches with enable preview\");\n+    assert(!Arguments::is_valhalla_enabled(), \"Should not use box caches with enable preview\");\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
