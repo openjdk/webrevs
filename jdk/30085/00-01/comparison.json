@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1387,1 +1387,1 @@\n-            if (PackageType.LINUX.contains(cmd.packageType())) {\n+            if (TKit.isLinux() && !cmd.isImagePackageType()) {\n","filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/JPackageCommand.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
