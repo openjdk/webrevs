@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378523: [lworld] Remove post-barriers from CardTableBarrierSet value_store_null_in_heap"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/cardTableBarrierSet.inline.hpp"}],"sha":"2cc85c8b6aabcd2d26562e370a35208944f8cf1f"}]
