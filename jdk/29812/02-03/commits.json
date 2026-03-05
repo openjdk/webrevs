@@ -1,0 +1,1 @@
+[{"commit":{"message":"8216486: Use unsigned types and add overflow check\n\nPer review: use checked_cast<uint> for locals, uint64_t for datacount,\nand bail out conservatively if allocation size overflows size_t."},"files":[{"filename":"src\/hotspot\/share\/ci\/bcEscapeAnalyzer.cpp"}],"sha":"d8da6a9c3900046c4dd2c698d1375dc93a5c4d83"}]
