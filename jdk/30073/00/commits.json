@@ -1,0 +1,1 @@
+[{"commit":{"message":"8379231: Assembler::mov64 always emits 10-byte movabs even for small immediates"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"}],"sha":"5bc2fc82ffc7633b01bb63fc344f280726580f79"}]
