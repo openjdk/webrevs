@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3349,1 +3349,1 @@\n-      if (bt == T_LONG && UseAVX < 3) {\n+      if (bt == T_LONG && !VM_Version::supports_avx512vl()) {\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
