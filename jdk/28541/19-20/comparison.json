@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,0 +54,1 @@\n+  f(int,   ProfileCaptureRatioConstraintFunc)           \\\n@@ -58,1 +59,0 @@\n-  f(int,   ProfileCaptureRatioConstraintFunc)           \\\n","filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagConstraintsCompiler.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
