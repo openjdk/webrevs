@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8379156: Specify behavior of Types.asElement() on array types"},"files":[{"filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/util\/Types.java"},{"filename":"test\/langtools\/tools\/javac\/processing\/model\/util\/types\/TestAsElement.java"}],"sha":"08894d1a007d873cb501643ac36937ae8f9fd2d1"}]
