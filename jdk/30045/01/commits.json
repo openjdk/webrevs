@@ -1,0 +1,1 @@
+[{"commit":{"message":"code style"},"files":[{"filename":"src\/hotspot\/share\/opto\/macro.cpp"}],"sha":"cdcd8ebe8da57968b3d568b6eadb458c50d3bf5a"},{"commit":{"message":"test & fix"},"files":[{"filename":"src\/hotspot\/share\/opto\/macro.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestAllocatePrefetchStyle.java"}],"sha":"28fcbfa23c70655ed809becf2b223f43613a20cd"}]
