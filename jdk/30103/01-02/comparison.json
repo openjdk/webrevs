@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2569,4 +2569,0 @@\n-  p = ::getenv(\"EXTSHM\");\n-  if (p != nullptr) {\n-    vm_exit_during_initialization(\"EXTSHM is ON. Please remove EXTSHM from your environment.\");\n-  }\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
