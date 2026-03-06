@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,2 +35,0 @@\n-import static org.junit.jupiter.api.Assertions.fail;\n-import static org.junit.jupiter.api.Assertions.assertEquals;\n","filename":"test\/jdk\/java\/util\/Arrays\/Correct.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
