@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1010,1 +1010,1 @@\n-  \/\/ thread currently loading or initializiing a class, and all other carriers\n+  \/\/ thread currently loading or initializing a class, and all other carriers\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
