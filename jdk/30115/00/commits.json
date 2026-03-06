@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix highest int\/log values, they were overflowing"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/MinMaxVector.java"}],"sha":"14a536d0e1c0289ed99ac88af05f8ee4ece6a630"}]
