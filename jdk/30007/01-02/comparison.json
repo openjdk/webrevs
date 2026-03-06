@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-                throw new Error(\"Expected message: Hotspot crashed\");\n+                throw new Error(\"Expected message: A fatal error has been detected\");\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/TestCDSVMCrash.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
