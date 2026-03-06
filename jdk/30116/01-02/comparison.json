@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n- * @run main ${test.main.class}\n+ * @run driver ${test.main.class}\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/MissedURShiftIAddILShiftIdeal.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
