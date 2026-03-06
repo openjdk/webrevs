@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove spurious blank line added by JDK-8261160 and replicated in this backport"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/instrument\/JDKEvents.java"}],"sha":"c8b5c367fc9fc769c16cc05188e5af1c73e0fcf9"}]
