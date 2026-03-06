@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3534,2 +3534,0 @@\n-        private static final Object keyCodesKey =\n-            JComponent.KeyboardState.class;\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JComponent.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
