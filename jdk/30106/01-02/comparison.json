@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8087,1 +8087,2 @@\n-  format %{ \"membar_full\" %}\n+  format %{ \"membar_full\\n\\t\"\n+            \"dmb ish\" %}      \n","filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
