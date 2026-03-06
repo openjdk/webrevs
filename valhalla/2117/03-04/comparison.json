@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,1 +217,1 @@\n-  if (!d->is_flatArray() && !d->is_refArray()) {\n+  if (!d->is_refined_objArray()) {\n","filename":"src\/hotspot\/share\/oops\/flatArrayKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
