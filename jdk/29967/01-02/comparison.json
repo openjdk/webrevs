@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-  Atomic<size_t>  _sum;\n+  Atomic<size_t> _sum;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahNumberSeq.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
