@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -148,1 +148,0 @@\n-    DEPENDS := $(BUILDTOOLS_OUTPUTDIR)\/gensrc\/java.base.interim\/jdk\/internal\/javac\/PreviewFeature.java, \\\n","filename":"make\/CompileInterimLangtools.gmk","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
