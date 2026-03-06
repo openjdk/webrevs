@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,0 @@\n-        builder.javaOption(\"java.util.logging.config.file\", \"\/home\/rvansa\/work\/crac\/test\/jdk\/jdk\/crac\/logging.properties\");\n","filename":"test\/jdk\/jdk\/crac\/RemoteJmxTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
