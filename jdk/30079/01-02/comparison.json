@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,1 @@\n-# Prevent TestNG-based tests, use @run junit actions instead\n+# Prevent TestNG-based tests\n","filename":"test\/jdk\/java\/net\/httpclient\/TEST.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
