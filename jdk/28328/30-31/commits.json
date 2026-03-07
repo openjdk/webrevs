@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove metadata_Relocation::is_modifying_code"},"files":[{"filename":"src\/hotspot\/cpu\/arm\/relocInfo_arm.cpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/code\/relocInfo.hpp"}],"sha":"b3e2ec35990d867fb5b2699d36dcd638b0f41f76"}]
