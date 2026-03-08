@@ -1,0 +1,1 @@
+[{"commit":{"message":"Frame size of CodeBlob should be checked before calling senderForCompiledFrame()"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/ppc64\/PPC64Frame.java"},{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/riscv64\/RISCV64Frame.java"}],"sha":"4bb73f669d6880f08f875ec32b615a20b7fe25f1"}]
