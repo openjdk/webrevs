@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4,0 +4,3 @@\n+grant codebase \"file:${test.classes}\/..\/..\/..\/..\/test\/lib\/-\" {\n+    permission java.security.AllPermission;\n+};\n","filename":"test\/jdk\/sun\/security\/ec\/TestEC.policy","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
