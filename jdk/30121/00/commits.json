@@ -1,0 +1,1 @@
+[{"commit":{"message":"8379396: \"assert(offset + partition_size <= size()) failed: partition failed\" when combining NonProfiledCodeHeapSize and large value for CICompilerCount"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"}],"sha":"c1f69fbc0c4a290f587cadbbb354e89510a16057"}]
