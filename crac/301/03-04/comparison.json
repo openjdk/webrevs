@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -672,1 +672,1 @@\n-  ssize_t len = readlink(path, target, sizeof(target));\n+  ssize_t len = readlink(path, target, sizeof(target) - 1);\n","filename":"src\/java.base\/linux\/native\/libcriuengine\/criuengine.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
