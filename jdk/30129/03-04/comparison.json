@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,0 +73,1 @@\n+  \/\/ Can be used in nmethods including native wrappers.\n","filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetAssembler_ppc.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
