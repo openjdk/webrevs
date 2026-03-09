@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -889,1 +889,1 @@\n-  class SavedState :public StackObj {\n+  class SavedState : public StackObj {\n","filename":"src\/hotspot\/share\/opto\/graphKit.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
