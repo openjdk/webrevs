@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into fix-arrcpy-membar-8379228"},"files":[],"sha":"dd788781156c42d818e8dcee6db0827d17b36fac"},{"commit":{"message":"8379228: C2: Missing trailing_expanded_array_copy flag on MemBar after clone expansion"},"files":[{"filename":"src\/hotspot\/share\/opto\/macroArrayCopy.cpp"}],"sha":"c647ed09a1504e8d228ae8e631c7f764f3da3572"}]
