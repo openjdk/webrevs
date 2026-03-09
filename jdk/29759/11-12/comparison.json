@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1117,4 +1117,1 @@\n-  if (reenter_path) {\n-    current_node->TState = ObjectWaiter::TS_RUN;\n-    OrderAccess::fence();      \/\/ see comments above\n-  }\n+  current_node->TState = ObjectWaiter::TS_RUN;\n","filename":"src\/hotspot\/share\/runtime\/objectMonitor.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
