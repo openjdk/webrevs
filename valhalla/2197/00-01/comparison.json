@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5087,1 +5087,1 @@\n-    @Test(allowNotCompilable = true)\n+    @Test(allowNotCompilable = true) \/\/ TODO 8378943: reason should be \"failed spill-split-recycle sanity check\"\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorld.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
