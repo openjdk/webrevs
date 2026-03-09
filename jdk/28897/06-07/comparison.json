@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -587,1 +587,1 @@\n-      \/\/ + ((~st1._bits._ones)[i] | (~st2._bits._zeros)[i]) == 1\n+      \/\/ + ((~st1._bits._ones)[i] & (~st2._bits._zeros)[i]) == 1\n","filename":"src\/hotspot\/share\/opto\/rangeinference.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
