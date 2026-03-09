@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,0 +73,2 @@\n+# The classlists must be generated with -Xint to avoid non-determinism\n+# introduced by JIT compiled code\n","filename":"make\/GenerateLinkOptData.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
