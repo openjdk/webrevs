@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2054,1 +2054,1 @@\n-class CountedLoopConverter : public StackObj {\n+class CountedLoopConverter {\n","filename":"src\/hotspot\/share\/opto\/loopnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
