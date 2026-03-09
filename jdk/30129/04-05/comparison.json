@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,0 +74,1 @@\n+  \/\/ Attention: obj will only be valid until next safepoint (no SATB barrier).\n","filename":"src\/hotspot\/cpu\/ppc\/gc\/shared\/barrierSetAssembler_ppc.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
