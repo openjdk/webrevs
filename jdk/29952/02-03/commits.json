@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use specific os::off_t typedef for os::fseek and os::ftell"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.hpp"}],"sha":"d92aa1de980426e73d3b00a168b235cd5ff7f762"}]
