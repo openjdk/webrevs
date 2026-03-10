@@ -1,0 +1,1 @@
+[{"commit":{"message":"No need for a MemBarCPUOrder with fence intrinsics"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"2fda718a92f45bfa094c2be6df435ff6918f5045"}]

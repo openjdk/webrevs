@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2889,3 +2889,0 @@\n-  \/\/ Regardless of form, don't allow previous ld\/st to move down,\n-  \/\/ then issue acquire, release, or volatile mem_bar.\n-  insert_mem_bar(Op_MemBarCPUOrder);\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
