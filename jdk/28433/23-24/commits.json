@@ -1,0 +1,1 @@
+[{"commit":{"message":"move x86_specific checks inside ifdef"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"}],"sha":"7b493ec7bc9d9d0068dc2c5603d70fc760198caa"}]
