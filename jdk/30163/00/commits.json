@@ -1,0 +1,1 @@
+[{"commit":{"message":"8379621: javac produces unverifiable class-file when using primitive type with instanceof"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/PrimitiveInstanceOfConstantLocalVerifyError.java"}],"sha":"9e1994851c4a6b9e9d69e3814bbd789afb4b8f47"}]
