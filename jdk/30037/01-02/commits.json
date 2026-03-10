@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace TraceNewOopMapGenerationDetailed with Verbose."},"files":[{"filename":"src\/hotspot\/share\/oops\/generateOopMap.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/GenerateOopMapTest.java"}],"sha":"17a83230ecd2257195f779ace4aa76f59e8c29e9"}]
