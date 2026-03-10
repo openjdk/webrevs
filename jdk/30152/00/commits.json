@@ -1,0 +1,1 @@
+[{"commit":{"message":"8379544: C2: URShiftI Ideal optimization opportunity for - 3rd level notification required"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/MissedURShiftIAddILShiftIdeal.java"}],"sha":"6b8206bc930c53e49784833a264902c55ad27686"}]
