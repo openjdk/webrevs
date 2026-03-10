@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,0 @@\n-  \/\/ ASSERT_THAT(o3, HasSubstr(\"InstanceKlass: java.lang.Integer {0x\")) << \"must print InstanceKlass\";\n","filename":"test\/hotspot\/gtest\/runtime\/test_classPrinter.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
