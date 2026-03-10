@@ -1,0 +1,1 @@
+[{"commit":{"message":"Made register allocation safer, changed assert in umull{2}v"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"}],"sha":"f05c6ecaf6fae52edd1ad678b5474952ed5b0323"}]
