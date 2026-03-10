@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -323,1 +323,1 @@\n-  void clear_claimed() { _claimed_index = 0; }\n+  void clear_claimed() { _claimed_index.store_relaxed(0); }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahTaskqueue.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
