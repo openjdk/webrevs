@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,4 +134,0 @@\n-static inline bool is_interpreter(const JfrSampleRequest& request) {\n-  return request._sample_bcp != nullptr;\n-}\n-\n","filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrStackTrace.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
