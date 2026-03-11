@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -526,0 +526,3 @@\n+  if (UseSIMDForArrayEquals) {\n+    _aarch64_flags |= aarch64_useSIMDForArrayEquals;\n+  }\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
