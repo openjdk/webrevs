@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -371,0 +371,1 @@\n+    AC_MSG_RESULT([no])\n@@ -375,1 +376,0 @@\n-    AC_MSG_RESULT([no])\n","filename":"make\/autoconf\/basic_tools.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
