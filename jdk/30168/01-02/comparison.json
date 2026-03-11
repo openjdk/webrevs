@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -372,1 +372,1 @@\n-    # AIX date could be detected, but it is not compatible\n+    # Likely at the AIX provided version of the date utility here, which is not compatible\n","filename":"make\/autoconf\/basic_tools.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
