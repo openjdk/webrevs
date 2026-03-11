@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,2 +47,1 @@\n-    vm.debug \\\n-    java.enablePreview\n+    vm.debug\n","filename":"test\/langtools\/TEST.ROOT","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
