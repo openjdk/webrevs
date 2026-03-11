@@ -1,0 +1,1 @@
+[{"commit":{"message":"enable headless only is not supported on windows and macos"},"files":[{"filename":"make\/autoconf\/jdk-options.m4"},{"filename":"src\/java.desktop\/windows\/native\/libawt\/java2d\/opengl\/WGLGraphicsConfig.c"},{"filename":"src\/java.desktop\/windows\/native\/libawt\/java2d\/opengl\/WGLSurfaceData.c"}],"sha":"3240363fa46708239d0b53c1f3a626209fcc42ca"}]
