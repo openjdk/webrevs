@@ -1,0 +1,1 @@
+[{"commit":{"message":"compiler_buffer_size: use uint64 for calculation; limit CICompilerCount"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"3f7407e6d34818f3b623060fc673bfe1c9cf4e54"}]
