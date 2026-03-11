@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -290,2 +290,2 @@\n-size_t os::physical_memory(size_t& value) {\n-  return Aix::physical_memory(value);\n+size_t os::physical_memory() {\n+  return Aix::physical_memory();\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
