@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377588: C2: VectorMaskToLong fails to fold Float\/Double masks due to VectorMaskCast"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorMaskToLongTest.java"}],"sha":"22843a56d20fb9a4efb752e325b5f2d423e8096a"}]
