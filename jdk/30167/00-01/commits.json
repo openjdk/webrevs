@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add a negative test and restore IAE back"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/Hybrid.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/HybridKeyExchange\/TestHybrid.java"}],"sha":"7031a6f18a9b4c132b6de27f316d978452c8801a"}]
