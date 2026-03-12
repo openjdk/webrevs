@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 6f493b4d2e7120cbe34fb70d595f7626655b47a9"},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestReduceAllocationNotReducibleAnymore.java"}],"sha":"81ba80e475f4455a66d01e82eca7f334d1988834"}]
