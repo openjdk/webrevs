@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4165,1 +4165,1 @@\n-  init_page_sizes((size_t) page_size);\n+  _page_sizes.add(page_size);\n","filename":"src\/hotspot\/os\/solaris\/os_solaris.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
