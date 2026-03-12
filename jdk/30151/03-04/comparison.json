@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -265,0 +265,2 @@\n+        new Entry(null, \"file:\/\/\/path#\", \"file:\/path#\"),\n+        new Entry(null, \"file:\/\/\/path?\", \"file:\/path?\"),\n","filename":"test\/jdk\/java\/net\/URL\/Constructor.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
