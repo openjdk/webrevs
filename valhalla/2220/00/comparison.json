@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -717,1 +717,1 @@\n-        DEFINE_CLASS_ID(Blackhole,        MemBar, 2)\n+      DEFINE_CLASS_ID(Blackhole,   Multi, 4)\n","filename":"src\/hotspot\/share\/opto\/node.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
