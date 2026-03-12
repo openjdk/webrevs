@@ -1,0 +1,1 @@
+[{"commit":{"message":"Preserve existing IKE behavior when key length (with offset) is invalid"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/DESKeySpec.java"},{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/DESedeKeySpec.java"}],"sha":"b5f02eeda6cbcb2a497e39939ccd59ba0e669ed8"}]
