@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -406,1 +406,1 @@\n-            if (kernelWroteToThisArg || compilationUnit->backend->config->alwaysCopy) {\n+            if (kernelWroteToThisArg && compilationUnit->backend->config->alwaysCopy) {\n","filename":"hat\/backends\/ffi\/shared\/src\/main\/native\/cpp\/shared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
