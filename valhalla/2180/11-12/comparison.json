@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,0 @@\n-# TODO: Remove Xlint directives below once the fix in JDK-8378740 is merged into lworld.\n@@ -80,1 +79,1 @@\n-        -Xlint:-removal -Xlint:-processing \\\n+        -Xlint:-processing \\\n","filename":"make\/CompileJavaModules.gmk","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
