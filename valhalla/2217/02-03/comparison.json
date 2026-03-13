@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -513,1 +513,1 @@\n-  \/\/ (adapters too as they decode flattened inline types during c2i transitions).\n+  \/\/ (adapters too as they access oops when buffering scalarized value objects).\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
