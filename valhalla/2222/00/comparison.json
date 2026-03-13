@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1335,1 +1335,1 @@\n-      \/\/ FIXME: Is this missing an InternalOOMEMark?\n+      InternalOOMEMark iom(THREAD);\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

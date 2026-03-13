@@ -1,0 +1,1 @@
+[{"commit":{"message":"8380006: [lworld] Missing InternalOOMEMark in Deoptimization::realloc_objects"},"files":[{"filename":"src\/hotspot\/share\/runtime\/deoptimization.cpp"}],"sha":"a733e0264cca5946fde1cc7fe0817733ffc1d0f1"}]
