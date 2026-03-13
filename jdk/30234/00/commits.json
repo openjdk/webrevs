@@ -1,0 +1,1 @@
+[{"commit":{"message":"8379981: Virtual thread: crash in stackChunkOopDesc::print_on when thawing frame"},"files":[{"filename":"src\/hotspot\/share\/runtime\/frame.cpp"}],"sha":"7fc679e638376b0b778bb77549191015931efa3e"}]
