@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -269,1 +269,1 @@\n-  bool caller_is_c1 = *vtable_caller_type_addr == static_cast<uint8_t>(VtableStub::CallerType::c1);\n+  bool caller_is_c1 = (*vtable_caller_type_addr == static_cast<uint8_t>(VtableStub::CallerType::c1));\n","filename":"src\/hotspot\/share\/code\/vtableStubs.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
