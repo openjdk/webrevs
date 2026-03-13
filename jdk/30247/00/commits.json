@@ -1,0 +1,1 @@
+[{"commit":{"message":"8377769: Only use large pages sizes that have any pages configured"},"files":[{"filename":"src\/hotspot\/os\/linux\/hugepages.cpp"},{"filename":"src\/hotspot\/os\/linux\/hugepages.hpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.hpp"}],"sha":"aea4fc340cf26c65ccf0effe08778c87ef01fe8d"}]
