@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -230,1 +230,1 @@\n-            tempDirectory.getFileSystem().getRootDirectories());\/\/XXX\n+            tempDirectory.getFileSystem().getRootDirectories());\n","filename":"test\/jdk\/java\/nio\/file\/Files\/SubstDrive.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
