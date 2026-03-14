@@ -1,0 +1,1 @@
+[{"commit":{"message":"8380083: Enable some vector mask cast IR matching tests for RISC-V"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorMaskCastIdentityTest.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorMaskCastTest.java"}],"sha":"95fa2ab8c6dcf705664f8be3175995858800f892"}]
