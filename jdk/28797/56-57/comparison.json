@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2664,1 +2664,1 @@\n-            q = submissionQueue(ThreadLocalRandom.getProbe(), true);\n+            q = externalSubmissionQueue(true);\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ForkJoinPool.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
