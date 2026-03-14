@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix IntroShader and tidyup vec and mat mappings for opencl"},"files":[{"filename":"hat\/core\/src\/main\/java\/hat\/codebuilders\/C99VecAndMatHandler.java"},{"filename":"hat\/examples\/shade\/src\/main\/java\/shade\/shaders\/SquareWaveShader.java"}],"sha":"aba84add096544ba3e62c8646e825a027838661c"}]
