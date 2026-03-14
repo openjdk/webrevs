@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1976,1 +1976,1 @@\n-    if (is_intel_server_family() && supports_serialize()) {\n+    if (is_intel() && is_intel_server_family() && supports_serialize()) {\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
