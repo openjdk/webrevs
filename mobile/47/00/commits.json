@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not try to invoke pthread_jit_write_protect_np when compiling for iOS"},"files":[{"filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/os_bsd_aarch64.cpp"},{"filename":"src\/hotspot\/share\/runtime\/thread.inline.hpp"},{"filename":"src\/hotspot\/share\/utilities\/permitForbiddenFunctions.hpp"}],"sha":"d315b0868e4bf13cd11f98dcd08e9715953646e2"}]
