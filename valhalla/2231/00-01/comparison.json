@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1456,1 +1456,1 @@\n-            if (t.tsym.hasOuterInstance() &&\n+            if (t.tsym.isInner() &&\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
