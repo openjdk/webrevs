@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-import static org.testng.Assert.assertTrue;\n+import static org.junit.jupiter.api.Assertions.assertTrue;\n","filename":"test\/jaxp\/javax\/xml\/jaxp\/functional\/test\/gaptest\/Bug4515660.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
