@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1458,1 +1458,0 @@\n-                    !t.tsym.isStatic() &&\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
