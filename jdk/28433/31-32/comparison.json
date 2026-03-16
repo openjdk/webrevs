@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2263,1 +2263,4 @@\n-#endif\n+#endif \/\/ defined(AMD64) || defined(AARCH64) || defined(RISCV64)\n+#if defined(AMD64)\n+  ADD_EXTERNAL_ADDRESS(warning);\n+#endif \/\/ defined(AMD64)\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
