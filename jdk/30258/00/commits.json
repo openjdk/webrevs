@@ -1,0 +1,1 @@
+[{"commit":{"message":"C2: UBSAN runtime error: signed integer overflow: -9223372036854775808 - 1 cannot be represented in type 'long int'"},"files":[{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"aa143443cdcd5b2da41597c16661c778600eff6b"}]
