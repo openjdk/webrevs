@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -549,1 +549,1 @@\n-    assert(array->is_flatArray(), \"should not be called\");\n+    \/\/ Here we know that we have a flat array\n","filename":"src\/hotspot\/share\/c1\/c1_Runtime1.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
