@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2617,1 +2617,1 @@\n-    st->print_cr(\"Open File Descriptors: >%zu\", max_fds);\n+    st->print_cr(\"Open File Descriptors: > %zu\", max_fds);\n","filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
