@@ -1,0 +1,1 @@
+[{"commit":{"message":"8379816: Use unsigned return types for ci accessors and add braces"},"files":[{"filename":"src\/hotspot\/share\/ci\/bcEscapeAnalyzer.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciMethod.hpp"},{"filename":"src\/hotspot\/share\/ci\/ciMethodBlocks.hpp"}],"sha":"d29ef3dce4f84d0aae6a77590dc16ee190d1e393"}]
