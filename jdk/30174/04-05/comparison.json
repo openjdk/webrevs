@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -11652,0 +11652,1 @@\n+  match(MulHiLoL src rax);\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
