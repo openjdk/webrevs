@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix and document the preloading strategy"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"src\/hotspot\/share\/classfile\/classFileParser.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/PreloadCircularityTest.java"}],"sha":"452a1076742c79dec8cf00f8c9e0897052835eef"}]
