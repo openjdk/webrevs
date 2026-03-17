@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -545,0 +545,3 @@\n+  if (UseAESCTRIntrinsics) {\n+    set_use_flag(useAESCTR);\n+  }\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
