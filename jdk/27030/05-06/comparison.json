@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,1 @@\n-  product(uint, OnSpinWaitDelay, 40, EXPERIMENTAL,                      \\\n+  product(uint, OnSpinWaitDelay, 40, DIAGNOSTIC,                        \\\n","filename":"src\/hotspot\/cpu\/aarch64\/globals_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
