@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @requires vm.debug\n+ * @requires vm.flagless & vm.debug\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestLoopPeelingDisabled.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
