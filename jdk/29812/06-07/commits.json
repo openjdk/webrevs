@@ -1,0 +1,1 @@
+[{"commit":{"message":"8379816: Use uint for max_stack and uint loop variables"},"files":[{"filename":"src\/hotspot\/share\/ci\/bcEscapeAnalyzer.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciMethod.hpp"}],"sha":"97eff26c35a3c8a7df5790dcecfd6b3c2f103b9a"}]
