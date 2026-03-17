@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2616,1 +2616,1 @@\n-  assert(buflen >= sizeof(struct proc_fdinfo));\n+  precond(buflen >= sizeof(struct proc_fdinfo));\n@@ -2642,1 +2642,1 @@\n-}\n\\ No newline at end of file\n+}\n","filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
