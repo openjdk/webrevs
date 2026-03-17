@@ -1,0 +1,1 @@
+[{"commit":{"message":"8380228: JNI primitive type mismatch in Java_com_sun_java_swing_plaf_gtk_GTKLookAndFeel_applyThemeIfNeeded of swing_GTKEngine.c:403 (ID: 52423)"},"files":[{"filename":"src\/java.desktop\/unix\/native\/libawt_xawt\/awt\/swing_GTKEngine.c"}],"sha":"e6f2200f3acf7a9927ec144958477612e8e80ab2"}]
