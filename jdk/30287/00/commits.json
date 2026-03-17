@@ -1,0 +1,1 @@
+[{"commit":{"message":"8380303: Obsolete unused flag UseXMMForArrayCopy\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/share\/runtime\/arguments.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"9861a6ee85a87574a7715319239f8b5a6a0ac188"}]
