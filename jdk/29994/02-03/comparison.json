@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-    @Deprecated(since = \"27\", forRemoval = true)\n+     @Deprecated(since = \"27\", forRemoval = true)\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/source\/util\/SourcePositions.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
