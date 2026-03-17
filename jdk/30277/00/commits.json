@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove stores in loops by peeling"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestRemoveStoresAfterPeeling.java"}],"sha":"a7ec114dfc4a0de41146b6f8188487373c33558d"}]
