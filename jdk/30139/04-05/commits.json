@@ -1,0 +1,1 @@
+[{"commit":{"message":"Verify `callee()->signature()->size()` in all StringUTF16 intrinsics"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"6124a888a4d0baf170f06f6fafae7e873715a649"}]
