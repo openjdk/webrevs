@@ -1,0 +1,1 @@
+[{"commit":{"message":"8380168: Remove unused flag UseNewLongLShift\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/globals_x86.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"200834dcdb79acb77bc42bbcfccb1c49ee32e5e6"}]
