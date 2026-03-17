@@ -1,0 +1,1 @@
+[{"commit":{"message":"make HeapRegion::block_is_obj() always consult marking bitmap\nif object is below last TAMS"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/heapRegion.inline.hpp"}],"sha":"a4f2eb23453d8f83e2ca6db0977a19c75be2188b"}]
