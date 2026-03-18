@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,2 +26,0 @@\n-#include \"opto\/machnode.hpp\"\n-#include \"opto\/matcher.hpp\"\n@@ -31,0 +29,2 @@\n+#include \"opto\/machnode.hpp\"\n+#include \"opto\/matcher.hpp\"\n","filename":"src\/hotspot\/share\/opto\/mulnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
