@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -105,1 +105,1 @@\n-  # avoid headless-only on macOS and Windows, it is not supported there\n+  # Avoid headless-only on macOS and Windows, it is not supported there\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
