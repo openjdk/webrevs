@@ -1,0 +1,1 @@
+[{"commit":{"message":"GenerateOopMapALot at all safepoints even ones that cannot throw async exceptions."},"files":[{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/interfaceSupport.cpp"},{"filename":"src\/hotspot\/share\/runtime\/interfaceSupport.inline.hpp"}],"sha":"13de1dbe033800f41325a9bf92453fdfd5a40edb"}]
