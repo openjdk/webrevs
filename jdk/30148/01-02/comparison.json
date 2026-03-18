@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-      AC_MSG_ERROR([headless-only is not supported on macos and windows])\n+      AC_MSG_ERROR([headless-only is not supported on macOS and Windows])\n","filename":"make\/autoconf\/jdk-options.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
