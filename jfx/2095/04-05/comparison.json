@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1675,1 +1675,1 @@\n-                    final int newIndex = treeView.isShowRoot()\n+                    int newIndex = treeView.isShowRoot()\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/TreeView.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
