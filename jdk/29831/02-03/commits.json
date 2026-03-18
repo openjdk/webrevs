@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename IR match nodes in tests to account for merging of scalar min\/max definitions in x86.ad file."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/math\/TestFpMinMaxReductions.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java"}],"sha":"3db7bbf8fed7406d1bf43da8e012050626a82e47"}]
