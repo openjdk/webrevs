@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -390,2 +390,1 @@\n-        int i = 1;\n-        while (i < cp.size()) {\n+        for (int i = 1; i < cp.size(); ) {\n","filename":"test\/jdk\/jdk\/classfile\/ConstantPoolNaNTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
