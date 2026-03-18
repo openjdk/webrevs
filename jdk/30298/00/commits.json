@@ -1,0 +1,1 @@
+[{"commit":{"message":"8380298: Rename _pagesizes and _pre_allocated_pagesizes in hugepages.cpp"},"files":[{"filename":"src\/hotspot\/os\/linux\/hugepages.cpp"},{"filename":"src\/hotspot\/os\/linux\/hugepages.hpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"1a54750344f26c6873c1e8ba1f50ef3c35985045"}]
