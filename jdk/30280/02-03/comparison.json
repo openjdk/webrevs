@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-            r = test8376189(a);         \n+            r = test8376189(a);\n","filename":"test\/hotspot\/jtreg\/compiler\/codegen\/TestCheckCastPPRawOopSchedulingAtSafepoint.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
