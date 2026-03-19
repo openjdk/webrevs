@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use InetAddress.getLoopbackAddress() instead of https:\/\/localhost:"},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/Stapling\/HttpsUrlConnClient.java"}],"sha":"f3292ff8884d8e5b14430b981868ff3bab0d684b"}]
