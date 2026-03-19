@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -678,1 +678,1 @@\n-    ? klass->oop_size(obj(), obj->mark().set_not_hashed_not_expanded())\n+    ? obj->base_size_given_klass(obj->mark(), klass)\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
