@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-    public static Stream<Arguments> lines() {\n+    static Stream<Arguments> lines() {\n","filename":"test\/jdk\/java\/nio\/file\/Files\/StreamLinesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
