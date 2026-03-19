@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,0 +104,2 @@\n+            \/\/ `warning.per.user.app.image.signed` warning doesn't apply to runtime bundling.\n+            \/\/ Ensure the warning is not in the output.\n","filename":"test\/jdk\/tools\/jpackage\/macosx\/SigningRuntimeImagePackageTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
