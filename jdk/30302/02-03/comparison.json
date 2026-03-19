@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -124,1 +124,1 @@\n-        return Arguments.arguments(description, lineGenerator, separatorGenerator, n, cs);\n+        return Arguments.argumentSet(description, lineGenerator, separatorGenerator, n, cs);\n","filename":"test\/jdk\/java\/nio\/file\/Files\/StreamLinesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
