@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8380292: Confusing \"reverted *\" messages during training\"\n\nThis reverts commit 00a77704b00eb4a4d4356695329fb0e247bb3028."},"files":[{"filename":"src\/hotspot\/share\/oops\/constantPool.cpp"},{"filename":"src\/hotspot\/share\/oops\/cpCache.cpp"}],"sha":"c169c2de6264a0d0066d4196582af3bf5247502b"}]
