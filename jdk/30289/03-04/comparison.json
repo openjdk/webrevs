@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,3 +120,0 @@\n-        if (b3.length != len1 + len2 + b.length) {\n-            throw new RuntimeException(\"Array length test 3 failed.\");\n-        }\n","filename":"test\/jdk\/java\/io\/ByteArrayOutputStream\/Write.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
