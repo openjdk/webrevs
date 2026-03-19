@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -177,2 +177,0 @@\n-\n-  size_t available_young_collected = ShenandoahHeap::heap()->collection_set()->get_young_available_bytes_collected();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahYoungHeuristics.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
