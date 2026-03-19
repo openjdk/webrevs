@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-  void create_and_start(ThreadPriority prio = NearMaxPriority);\n+  void create_and_start(ThreadPriority prio = NormPriority);\n","filename":"src\/hotspot\/share\/gc\/shared\/concurrentGCThread.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
