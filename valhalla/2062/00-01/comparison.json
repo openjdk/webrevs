@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -585,1 +585,1 @@\n-  bool _vt_oop;       \/\/ Is it a possibly nyll buffer\n+  bool _vt_oop;       \/\/ Is it a possibly null buffer\n","filename":"src\/hotspot\/share\/runtime\/signature.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
