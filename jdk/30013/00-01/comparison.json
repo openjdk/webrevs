@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2679,0 +2679,2 @@\n+\/\/ Limitation: the \"andNot\" rule still cannot be matched if \"m\" has other\n+\/\/ uses outside this pattern.\n","filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
