@@ -1,0 +1,1 @@
+[{"commit":{"message":"disable AOT cache store and load for C2 blobs"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"51c85f95a4cc92f70b12e1c881b010c83a2d68ce"}]
