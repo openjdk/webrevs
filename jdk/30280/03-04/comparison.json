@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2919,1 +2919,0 @@\n-      \/\/ Add precedence edge from following safepoint to use of derived pointer\n@@ -2921,0 +2920,1 @@\n+      \/\/ Add precedence edge from following safepoint to use of derived pointer\n","filename":"src\/hotspot\/share\/opto\/output.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
