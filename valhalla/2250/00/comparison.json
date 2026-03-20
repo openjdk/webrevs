@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -430,5 +430,1 @@\n-#ifdef _LP64\n-      new_vt->double_field_put(off,  *(jdouble*)loc);\n-#else\n-      Unimplemented();\n-#endif\n+      new_vt->long_field_put(off,  *(jlong*)loc);\n","filename":"src\/hotspot\/share\/oops\/inlineKlass.cpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
