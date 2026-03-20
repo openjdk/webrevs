@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1287,1 +1287,1 @@\n-#ifdef GSTREMAER_LITE\n+#ifdef GSTREAMER_LITE\n@@ -1290,1 +1290,1 @@\n-#endif \/\/ GSTREMAER_LITE\n+#endif \/\/ GSTREAMER_LITE\n","filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/3rd_party\/glib\/glib\/garray.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
