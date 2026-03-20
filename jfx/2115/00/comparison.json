@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,0 +112,4 @@\n+#ifdef GSTREAMER_LITE\n+  if (!array)\n+    return NULL;\n+#endif \/\/ GSTREAMER_LITE\n","filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/gstreamer-lite\/gstreamer\/gst\/gstvecdeque.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
