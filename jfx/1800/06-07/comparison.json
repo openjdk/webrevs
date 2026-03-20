@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -13,0 +13,1 @@\n+--add-exports javafx.graphics\/com.sun.prism.paint=ALL-UNNAMED\n","filename":"modules\/jfx.incubator.richtext\/src\/test\/addExports","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
