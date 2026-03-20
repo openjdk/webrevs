@@ -1,0 +1,1 @@
+[{"commit":{"message":"8374497: C2: assert(verify(phase)) failed: missing Value() optimization with -XX:+StressReflectiveCode"},"files":[{"filename":"src\/hotspot\/share\/opto\/subtypenode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/types\/TestSubTypeCheckStressReflectiveCode.java"}],"sha":"b7337b9dc0483319f2c0a2d4b141bd59c6490943"}]
