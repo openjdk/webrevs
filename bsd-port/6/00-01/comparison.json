@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,2 +65,2 @@\n-  else ifeq ($(call isTargetOsEnv, bsd.freebsd), true)\n-    LLVM_OS := unknown-freebsd\n+  else ifeq ($(call isTargetOs, bsd), true)\n+    LLVM_OS := unknown-$(OPENJDK_TARGET_OS_ENV:bsd.%=%)\n","filename":"make\/Hsdis.gmk","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
