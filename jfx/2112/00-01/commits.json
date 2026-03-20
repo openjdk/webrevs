@@ -1,0 +1,1 @@
+[{"commit":{"message":"- renamed valid to hasSupportedPrefix;\n- using already acquired address instead of requesting it again from the text field;"},"files":[{"filename":"apps\/samples\/Ensemble8\/src\/samples\/java\/ensemble\/samples\/controls\/webview\/WebViewApp.java"}],"sha":"5617d73a3e007069cd83b839769dfc3b16aadcf2"}]
