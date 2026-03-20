@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n- *                   -XX:CompileCommand=dontinline,*::constantGetter*\n+ *                   -XX:CompileCommand=dontinline,*::constantGetter* -XX:+PreloadClasses\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestTrivialMethods.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
