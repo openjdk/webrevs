@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378195: guarantee(static_cast<int>(_oops_size) == align_up(code_buffer->total_oop_size(), oopSize)) failed: failed: 12272 != 77808"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.hpp"}],"sha":"7914870a1e14cc6c2676c4c980ec4c7e744995e0"}]
