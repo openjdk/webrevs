@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,0 +77,3 @@\n+                   <annotationProcessors>\n+                       <annotationProcessor>org.openjdk.jmh.generators.BenchmarkProcessor<\/annotationProcessor>\n+                   <\/annotationProcessors>\n","filename":"jmh-samples\/pom.xml","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
