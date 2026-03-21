@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7338,0 +7338,5 @@\n+#ifdef GSTREAMER_LITE\n+  if (value1 == NULL || value2 == NULL)\n+    return GST_VALUE_UNORDERED;\n+#endif \/\/ GSTREAMER_LITE\n+\n","filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/gstreamer-lite\/gstreamer\/gst\/gstvalue.c","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
