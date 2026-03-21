@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+#include \"memory\/resourceArea.hpp\"\n","filename":"src\/hotspot\/share\/oops\/instanceRefKlass.inline.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
