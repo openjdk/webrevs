@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid encoding name into bytes twice in putNextEntry, then again in writeLOC"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipOutputStream.java"}],"sha":"c8130ea751fa008c74bf3442fa97a8bd156c3983"}]
