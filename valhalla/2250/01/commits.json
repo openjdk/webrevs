@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix spaces"},"files":[{"filename":"src\/hotspot\/share\/oops\/inlineKlass.cpp"}],"sha":"ae39adf7b7c1077dc816ffa9f2297c68c516b1d1"},{"commit":{"message":"Fix handling of long in InlineKlass::realloc_resut()"},"files":[{"filename":"src\/hotspot\/share\/oops\/inlineKlass.cpp"}],"sha":"ccc6350e123ab7130d275e3cee7f665e502884b2"}]
