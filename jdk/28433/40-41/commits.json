@@ -1,0 +1,1 @@
+[{"commit":{"message":"ensure load time relocs are visible"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"a09cdaaad526f26c19084fd38c49e8e9d88353da"},{"commit":{"message":"restore AOT cache store and load for C2 blobs"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"9f1d11f3cccda360c1150cd63ce01c3f44207ecc"}]
