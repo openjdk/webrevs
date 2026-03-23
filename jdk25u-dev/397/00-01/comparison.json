@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,0 @@\n-        \"avx512_vbmi\",\n@@ -109,1 +108,0 @@\n-        \"bmi2\",\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/test\/IREncodingPrinter.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
