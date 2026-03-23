@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378250: C2 VectorAPI : wrong result with MUL reduction at various AVX levels"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestMultiplyReductionByte.java"}],"sha":"a20893af4ff7ebb640d6ac4900ab0022044f498a"}]
