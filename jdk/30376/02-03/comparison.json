@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,0 @@\n- * @run testng\/othervm SendReceiveMaxSize\n","filename":"test\/jdk\/java\/nio\/channels\/DatagramChannel\/SendReceiveMaxSize.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
