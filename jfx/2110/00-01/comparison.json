@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1378,0 +1378,1 @@\n+    dispatch_release(semaphore);\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassApplication.m","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
