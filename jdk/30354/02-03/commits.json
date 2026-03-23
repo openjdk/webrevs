@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't load raw oops when running with ZGC"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceRefKlass.inline.hpp"}],"sha":"43dc75452e7120bbbaa9d5b93e2e807be2831d1b"}]
