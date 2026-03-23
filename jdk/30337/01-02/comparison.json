@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -73,1 +73,1 @@\n-    return strtok_s(str, delim, saveptr);\n+  return strtok_s(str, delim, saveptr);\n","filename":"src\/hotspot\/share\/utilities\/globalDefinitions_visCPP.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
