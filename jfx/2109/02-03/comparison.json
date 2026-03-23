@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -427,0 +427,1 @@\n+    }\n@@ -428,0 +429,1 @@\n+    @Test public void testShiftClickToAnchor() {\n","filename":"modules\/javafx.controls\/src\/test\/java\/test\/javafx\/scene\/control\/ListViewMouseInputTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
