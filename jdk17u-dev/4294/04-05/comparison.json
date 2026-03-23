@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -214,1 +214,1 @@\n-    static native void preClose0(FileDescriptor fd) throws IOException;\n+    private static native void preClose0(FileDescriptor fd) throws IOException;\n","filename":"src\/java.base\/unix\/classes\/sun\/nio\/ch\/FileDispatcherImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
