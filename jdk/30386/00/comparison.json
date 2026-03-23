@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -222,1 +222,1 @@\n-      int max_aligned_size = 10;                                        \\\n+      int max_aligned_size = StubInfo::stub_count(blob_id);             \\\n","filename":"src\/hotspot\/share\/runtime\/stubRoutines.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
