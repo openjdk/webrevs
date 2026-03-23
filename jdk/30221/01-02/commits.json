@@ -1,0 +1,1 @@
+[{"commit":{"message":"Not using ClassLoader.equals, as suggested."},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/MethodFinder.java"},{"filename":"test\/jdk\/tools\/launcher\/MethodFinderTest.java"}],"sha":"dcc393f33ec03d5db24e611a2ff20ba880aea3bb"}]
