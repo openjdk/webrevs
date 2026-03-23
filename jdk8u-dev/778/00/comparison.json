@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n- * @library \/test\/lib\n+ * @library \/lib\/security\n","filename":"jdk\/test\/sun\/security\/ssl\/X509TrustManagerImpl\/distrust\/Chunghwa.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
