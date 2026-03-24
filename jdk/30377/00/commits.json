@@ -1,0 +1,1 @@
+[{"commit":{"message":"reject changes for AOT cache intrinsic use and stub gen config"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"}],"sha":"49351101eeff39ed3da510ad5d2870d336509419"}]
