@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-                .subscribe(() -> {\n+                .subscribe(_ -> { \/\/ use a value subscriber here to force invalidation\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/WindowStage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
