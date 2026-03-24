@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -203,1 +203,0 @@\n-  assert(lane_type >= LT_FLOAT && lane_type <= LT_LONG, \"\");\n@@ -215,0 +214,1 @@\n+  assert(false, \"unknown lane type: %d\", (int)lane_type);\n","filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
