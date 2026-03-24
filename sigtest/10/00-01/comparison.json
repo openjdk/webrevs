@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -239,4 +239,0 @@\n-    public SigTest getSigTest() {\n-        return  this.sigTest;\n-    }\n-\n","filename":"src\/classes\/com\/sun\/tdk\/signaturetest\/core\/ClassHierarchyImpl.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
