@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,0 @@\n-            nm->mark_as_maybe_on_stack();\n","filename":"src\/hotspot\/share\/runtime\/hotCodeSampler.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
