@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move JVM_dladdr to jvm_md.h"},"files":[{"filename":"src\/hotspot\/os\/aix\/porting_aix.hpp"},{"filename":"src\/hotspot\/os\/posix\/include\/jvm_md.h"},{"filename":"src\/java.desktop\/unix\/native\/libawt\/awt\/awt_LoadLibrary.c"}],"sha":"16056af232445bc9dc8a09766e4421762b3bf699"}]
