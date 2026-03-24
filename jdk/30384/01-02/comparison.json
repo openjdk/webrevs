@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,0 @@\n-import jdk.internal.vm.annotation.Stable;\n@@ -182,1 +181,0 @@\n-    @Stable\n","filename":"src\/java.base\/share\/classes\/java\/time\/ZoneOffset.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
