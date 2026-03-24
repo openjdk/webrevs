@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -212,1 +212,4 @@\n-  return lanetype2name[lane_type];\n+  if (lane_type >= LT_FLOAT && lane_type <= LT_LONG) {\n+    return lanetype2name[lane_type];\n+  }\n+  return \"illegal\";\n","filename":"src\/hotspot\/share\/prims\/vectorSupport.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
