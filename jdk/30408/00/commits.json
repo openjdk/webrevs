@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set tenuring threshold to zero for whitebox full gc"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAgeCensus.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"}],"sha":"b83121589a22954c8a7154a8795db9c55052b570"}]
