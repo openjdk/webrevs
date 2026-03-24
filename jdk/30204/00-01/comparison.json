@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1269,2 +1269,0 @@\n-    NearLabel skip_receiver_profile;\n-\n@@ -1273,1 +1271,0 @@\n-    bind(skip_receiver_profile);\n","filename":"src\/hotspot\/cpu\/s390\/interp_masm_s390.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
