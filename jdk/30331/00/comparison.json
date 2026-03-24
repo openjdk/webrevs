@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1947,1 +1947,1 @@\n-  product(bool, UseObjectMonitorTable, false, DIAGNOSTIC,                   \\\n+  product(bool, UseObjectMonitorTable, true, DIAGNOSTIC,                    \\\n","filename":"src\/hotspot\/share\/runtime\/globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
