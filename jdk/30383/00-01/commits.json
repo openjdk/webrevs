@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix test, rename is_linked to use_cp_cache."},"files":[{"filename":"src\/hotspot\/share\/interpreter\/bytecodeTracer.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/interpreter\/JsrLogging.jasm"},{"filename":"test\/hotspot\/jtreg\/runtime\/interpreter\/JsrLoggingTest.java"}],"sha":"b80ace9680cdadd6773261bf4bed51661e773e19"}]
