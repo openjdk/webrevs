@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -207,0 +207,1 @@\n+            \/\/ unexpected provider\/runtime failure\n@@ -246,0 +247,1 @@\n+                    \/\/ unexpected provider\/runtime failure\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/KAKeyDerivation.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
