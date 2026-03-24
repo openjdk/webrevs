@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -794,0 +794,1 @@\n+    \/\/ @@@ we might revisit the mechanism to resolve a method and cache the result - JDK-8378294\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/internal\/ArithmeticAndConvOpImpls.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
