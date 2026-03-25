@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -23979,1 +23979,1 @@\n-      __ mov64($temp$$Register, (0xFFFFFFFFFFFFFFFFUL >> (64 - $len$$constant)));\n+      __ mov64($temp$$Register, right_n_bits($len$$constant));\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
