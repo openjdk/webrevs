@@ -1,0 +1,1 @@
+[{"commit":{"message":"8380942: Fix whitespace and conditional logic in interpreter code"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp"},{"filename":"src\/hotspot\/share\/interpreter\/linkResolver.cpp"},{"filename":"src\/hotspot\/share\/interpreter\/oopMapCache.cpp"}],"sha":"eac7af7853ebe298935d98e71c4fa90d96fa9321"}]
