@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add null \/ empty string note to ZipEntry::setComment. Use \"an empty string\" consistently."},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipEntry.java"},{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipOutputStream.java"}],"sha":"7ae703a900d57992f3be2299fe669db8319e8fb1"}]
