@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-\/**\n+\/*\n@@ -76,1 +76,0 @@\n-        frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);\n","filename":"test\/jdk\/javax\/swing\/RepaintManager\/RemoveInvalidComponentTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
