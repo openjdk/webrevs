@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,1 +161,1 @@\n-  EXPECT_FALSE(mark.is_neutral());\n+  \/\/ Don't call mark.is_neutral() on value class instances\n","filename":"test\/hotspot\/gtest\/oops\/test_markWord.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
