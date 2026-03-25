@@ -1,0 +1,1 @@
+[{"commit":{"message":"disable C2 stub save and restore"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCode\/AOTCodeFlags.java"}],"sha":"75378dcea7e71baddb8690433f8f0facc7dba27c"}]
