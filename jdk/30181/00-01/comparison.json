@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,1 @@\n-        String INSTRUCTIONS = \"INSTRUCTIONS (Mac-only):\\n\" +\n+        String INSTRUCTIONS = \"INSTRUCTIONS:\\n\" +\n","filename":"test\/jdk\/javax\/accessibility\/8377938\/VoiceOverAccessibleActionButtonTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
