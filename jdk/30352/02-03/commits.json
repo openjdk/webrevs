@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed tests to correctly verify -Xcomp and -XX:-TieredCompilation"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/commands\/CompileLevelPrintTest.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/commands\/CompileLevelWBTest.java"}],"sha":"312002f9ac3c1e36e8da7c4af140ef77414ee65f"}]
