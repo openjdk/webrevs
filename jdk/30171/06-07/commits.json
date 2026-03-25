@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow async exceptions on returns and have GOM create an exception edge if the bytecode is covered by a handler in the method."},"files":[{"filename":"src\/hotspot\/share\/interpreter\/interpreterRuntime.cpp"},{"filename":"src\/hotspot\/share\/oops\/generateOopMap.cpp"}],"sha":"143842d8b5ca60adf9e1aeae5a9fa634ce1d6dc2"}]
