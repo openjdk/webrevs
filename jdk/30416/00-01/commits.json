@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move ICache::invalidate_range() from CodeBuffer::copy_code_to()"},"files":[{"filename":"src\/hotspot\/share\/asm\/codeBuffer.cpp"},{"filename":"src\/hotspot\/share\/code\/codeBlob.cpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"6e6836edea03e152eef9858f41df0313d3d3565f"}]
