@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove priority argument for conc GC threads"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/concurrentGCThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shared\/concurrentGCThread.hpp"}],"sha":"a51f56387b651ad95b30a917ce5d5ad8a6efa135"}]
