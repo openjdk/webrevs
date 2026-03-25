@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+bool Thread::is_in_alternate_stack(address adr) { return false; }\n","filename":"src\/hotspot\/os\/windows\/threadAltSigStack_windows.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
