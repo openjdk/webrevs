@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1256,0 +1256,2 @@\n+    \/\/ The MemBar sits after the Catch chain if one exists, otherwise directly after the\n+    \/\/ call projection. Either may be null if not yet wired or if the control output has no uses.\n","filename":"src\/hotspot\/share\/opto\/macroArrayCopy.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
