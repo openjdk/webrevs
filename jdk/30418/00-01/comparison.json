@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,1 +88,1 @@\n-            g.fillOval(0, 0, getWidth(),getHeight());\n+            g.fillOval(0, 0, getWidth(), getHeight());\n","filename":"test\/jdk\/javax\/accessibility\/8380849\/AccessibleActionAsSeparateClassTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
