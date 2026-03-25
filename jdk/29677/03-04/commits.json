@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added some an assert for streamed loader as well, but this does not check oops loaded before _gc_enabled==true"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotStreamedHeapLoader.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotStreamedHeapLoader.hpp"}],"sha":"0cb9b80d46883ece400c392a73957f45da4ca6db"}]
