@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2531,6 +2531,0 @@\n-\n-\/\/ Used for PostMortemDump\n-extern \"C\" void safepoints();\n-extern \"C\" void find(int x);\n-extern \"C\" void events();\n-\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":0,"deletions":6,"binary":false,"changes":6,"status":"modified"}]}
