@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,0 @@\n-                        Set.of(\"-XX:+UseEpsilonGC\", \"-XX:+UseSerialGC\", \"-XX:+UseParallelGC\", \"-XX:+UseG1GC\", \"-XX:+UseZGC\"),\n","filename":"test\/hotspot\/jtreg\/compiler\/stable\/LazyConstantsIrTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
