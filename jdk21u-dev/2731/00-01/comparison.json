@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -159,0 +159,2 @@\n+        } catch (SecurityException e) {\n+            throw e;\n","filename":"test\/lib\/jdk\/test\/lib\/net\/SimpleSSLContext.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
