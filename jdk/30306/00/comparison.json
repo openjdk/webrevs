@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -347,0 +347,2 @@\n+  } else {\n+    assert(!w.has_displaced_mark_helper(), \"Mark word should not be displaced\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.inline.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
