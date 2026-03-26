@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,1 +25,0 @@\n-#include \"gc\/g1\/g1CollectedHeap.inline.hpp\"\n@@ -27,1 +26,0 @@\n-#include \"gc\/g1\/g1ConcurrentMarkThread.inline.hpp\"\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectorState.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
