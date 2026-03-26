@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,1 +80,1 @@\n-        this.edgeTriggered = subPoller && read;\n+        this.edgeTriggered = subPoller && read && (mode != Mode.POLLER_PER_CARRIER);\n","filename":"src\/java.base\/linux\/classes\/sun\/nio\/ch\/EPollPoller.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
