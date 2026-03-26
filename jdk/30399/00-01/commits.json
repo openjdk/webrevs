@@ -1,0 +1,1 @@
+[{"commit":{"message":"* stefank review, reduce include of g1CollectedHeap.inline.hpp to g1CollectedHeap.hpp"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectorState.inline.hpp"}],"sha":"27d5fe30c5b8c2c80bf0d34946258571e33b6368"}]

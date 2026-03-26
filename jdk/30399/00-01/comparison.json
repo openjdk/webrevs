@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,1 @@\n-#include \"gc\/g1\/g1CollectedHeap.inline.hpp\"\n+#include \"gc\/g1\/g1CollectedHeap.hpp\"\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectorState.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
