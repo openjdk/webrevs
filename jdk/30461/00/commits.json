@@ -1,0 +1,1 @@
+[{"commit":{"message":"8347462: Improve TraceClassLoading to add link information"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/LogLinkingTest.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/classes\/test\/LinkageErrorApp.java"}],"sha":"ac5049317f13ae2351a6382dc7fa4734b3465c2e"}]
