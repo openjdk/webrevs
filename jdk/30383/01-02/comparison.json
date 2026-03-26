@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,1 +97,1 @@\n-    _use_cp_cache = method->method_holder()->is_linked();\n+    _use_cp_cache = method->constants()->cache() != nullptr;\n","filename":"src\/hotspot\/share\/interpreter\/bytecodeTracer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
