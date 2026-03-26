@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -175,1 +175,1 @@\n-                return Platform.isServer() && !Platform.isEmulatedClient();\n+                return Platform.isServer();\n","filename":"test\/hotspot\/jtreg\/compiler\/codecache\/cli\/TestSegmentedCodeCacheOption.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
