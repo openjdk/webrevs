@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-ifeq ($(call Or $(call isTargetOs, linux) $(call isTargetOsEnv, bsd.freebsd)), true)\n+ifeq ($(call Or, $(call isTargetOs, linux) $(call isTargetOsEnv, bsd.freebsd)), true)\n","filename":"make\/modules\/jdk.sctp\/Lib.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
