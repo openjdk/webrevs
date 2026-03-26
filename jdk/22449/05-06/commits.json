@@ -1,0 +1,1 @@
+[{"commit":{"message":"delay narrowing node creation until counted loop is proven"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"}],"sha":"165d788e1102ee79090a8a8b1cbb9f2330464985"}]
