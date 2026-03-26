@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add AOTCodeReader::restore() called from CodeBlob::restore()"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"},{"filename":"src\/hotspot\/share\/code\/codeBlob.cpp"},{"filename":"src\/hotspot\/share\/code\/codeBlob.hpp"}],"sha":"64c9e0be71a067697b0ae80b04a2e04867545654"}]
