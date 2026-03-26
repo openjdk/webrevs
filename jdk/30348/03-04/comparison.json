@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -352,1 +352,1 @@\n-  \/\/ polling_page_vectors_safepoint_handler_blob.\n+  \/\/ polling_page_vectors_safepoint_handler_blob and the deopt_blob.\n","filename":"src\/hotspot\/cpu\/ppc\/sharedRuntime_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
