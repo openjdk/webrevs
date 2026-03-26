@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -241,0 +241,1 @@\n+        Asserts.assertThrows(NullPointerException.class, () -> c1.exportKey(null, new byte[1], 32));\n@@ -263,1 +264,1 @@\n-            \/\/ HPKE\n+        \/\/ HPKE\n","filename":"test\/jdk\/com\/sun\/crypto\/provider\/Cipher\/HPKE\/Compliance.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
