@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-    # Only plain access for non-atomic storage\n+    # Everyone except NonAtomicXxx have non-plain access\n","filename":"make\/modules\/java.base\/gensrc\/GensrcVarHandles.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
