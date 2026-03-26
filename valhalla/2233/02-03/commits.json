@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8379913: make AOTAdapterCaching dependent on InlineTypePassFieldsAsArgs"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"3793fba6cd2357eddb7bb7873e0d5a68793ea4ae"}]
