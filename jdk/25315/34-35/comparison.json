@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -713,1 +713,0 @@\n-      DEFINE_CLASS_ID(ReachabilityFence, Multi, 4)\n@@ -832,0 +831,1 @@\n+    DEFINE_CLASS_ID(ReachabilityFence, Node, 23)\n","filename":"src\/hotspot\/share\/opto\/node.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
