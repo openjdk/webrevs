@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1734,1 +1734,1 @@\n-# directly from the console. If the console is not available, Java may fall back\n+# directly from the console. If the console is not available, Java falls back\n","filename":"src\/java.base\/share\/conf\/security\/java.security","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
