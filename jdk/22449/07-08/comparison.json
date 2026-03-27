@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3227,1 +3227,1 @@\n-  \/\/ If (maybe after  stripping) it is an AddI, we won:\n+  \/\/ If (maybe after stripping) it is an AddI, we won:\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
