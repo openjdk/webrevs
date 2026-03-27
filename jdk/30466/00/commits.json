@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373778: java.util.NoSuchElementException in HttpURLConnection.doTunneling0 when connecting via HTTPS"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/net\/www\/protocol\/http\/HttpURLConnection.java"},{"filename":"test\/jdk\/java\/net\/HttpURLConnection\/ProxyBadStatusLine.java"}],"sha":"57ce84a455373f34ca11d3b39ccd631fe290af43"}]
