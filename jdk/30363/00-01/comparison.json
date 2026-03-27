@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2195,0 +2195,1 @@\n+    assert_different_registers(src2, vtmp1);\n@@ -2207,0 +2208,1 @@\n+    assert_different_registers(src2, vtmp2);\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
