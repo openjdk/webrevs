@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,0 +57,2 @@\n+    private static StringBuffer debugBuf;\n+\n@@ -68,2 +70,0 @@\n-    private static StringBuffer debugBuf;\n-\n","filename":"test\/jdk\/sun\/security\/pkcs11\/Cipher\/TestSymmCiphersNoPad.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
