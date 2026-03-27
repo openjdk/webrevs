@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -362,0 +362,1 @@\n+  ResourceMark rm;\n","filename":"src\/hotspot\/share\/runtime\/mutex.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
