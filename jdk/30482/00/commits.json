@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove always tautological checked_casts"},"files":[{"filename":"src\/hotspot\/share\/compiler\/oopMap.hpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompact.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"}],"sha":"c7eff7fd6ffb1a95ec3049cec96ec0246ddbd8db"}]
