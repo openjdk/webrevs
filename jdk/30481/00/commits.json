@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381233: Linker and FunctionDescriptor do not need to be value based class"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/FunctionDescriptor.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/foreign\/Linker.java"}],"sha":"8b55998a0018334fc0a058276b3796d85092eb07"}]
