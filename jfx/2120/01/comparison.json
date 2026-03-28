@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -806,0 +806,4 @@\n+#ifdef GSTREAMER_LITE\n+  if (options == NULL)\n+    return FALSE;\n+#endif \/\/ GSTREAMER_LITE\n","filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/gstreamer-lite\/gstreamer\/gst\/gstbufferpool.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
