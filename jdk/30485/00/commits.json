@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378860: C2: PhaseIdealLoop::do_range_check does not work with test that does not exit the loop"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopTransform.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestInternalRangeCheckElimination.java"}],"sha":"eb9bedf3dab71653b7b6e822206f39020538b6c7"}]
