@@ -1,0 +1,1 @@
+[{"commit":{"message":"Enable JDK 25 testing"},"files":[{"filename":".github\/workflows\/pre-integration.yml"},{"filename":"jmh-core-it\/src\/test\/java\/org\/openjdk\/jmh\/it\/profilers\/LinuxPerfProfilerTest.java"},{"filename":"jmh-core\/src\/test\/java\/org\/openjdk\/jmh\/profile\/PerfAsmMethodParsingTest.java"}],"sha":"afa54e6a32f5243f9efa7573ca15bd0046b6230a"}]
