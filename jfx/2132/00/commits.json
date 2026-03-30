@@ -1,0 +1,1 @@
+[{"commit":{"message":"8379211: Uninitialised memory in Java_com_sun_javafx_font_freetype_OSFreetype_FT_1Outline_1Decompose"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-font\/freetype.c"}],"sha":"9b70eebb1e20628be620cb5dfca16e96b3a8bda9"}]
