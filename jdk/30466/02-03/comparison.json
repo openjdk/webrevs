@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -255,0 +255,3 @@\n+            if (crlfcount != 4) {\n+                throw new IOException(\"Could not locate a CRLFCRLF sequence in the request\");\n+            }\n","filename":"test\/jdk\/java\/net\/HttpURLConnection\/ProxyBadStatusLine.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
