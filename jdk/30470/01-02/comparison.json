@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2,1 +2,1 @@\n- * Copyright (c) 1998, 2025, Oracle and\/or its affiliates. All rights reserved.\n+ * Copyright (c) 1998, 2026, Oracle and\/or its affiliates. All rights reserved.\n@@ -292,2 +292,0 @@\n-  ResourceMark rm;\n-\n","filename":"src\/hotspot\/share\/runtime\/mutex.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
