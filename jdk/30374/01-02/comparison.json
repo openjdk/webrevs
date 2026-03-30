@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1793,1 +1793,1 @@\n-    public final void setName(String name) {\n+    public final synchronized void setName(String name) {\n@@ -1797,1 +1797,0 @@\n-        String oldName = this.name;\n","filename":"src\/java.base\/share\/classes\/java\/lang\/Thread.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
