@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed intermittent failures of CompileLevelPrintTest: added hotspot_pid*.log parsing in addition to stdout parsing."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/commands\/CompileLevelPrintTest.java"}],"sha":"24d253ed396d4fb06225d3d7c6313fa475955d33"}]
