@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -629,2 +629,1 @@\n-                \/\/ for compatibility reasons. Probably some time later we'll remove\n-                \/\/ break the loop here.\n+                \/\/ for compatibility reasons.\n","filename":"src\/java.desktop\/unix\/classes\/sun\/awt\/X11\/XToolkit.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
