@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1126,1 +1126,1 @@\n-#ifdef assert\n+#ifdef ASSERT\n","filename":"src\/hotspot\/share\/opto\/callGenerator.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
