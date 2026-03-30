@@ -1,0 +1,1 @@
+[{"commit":{"message":"Expose API in ScrollBarUI"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/ScrollBarUI.java"}],"sha":"7beb9299d1257d0b2e3e760c422fdece2fddc3a2"},{"commit":{"message":"8176085: Please expose ScrollBarUI#getTrackBounds() ScrollBarUI#getThumbBounds()"},"files":[],"sha":"91debdffcf15b27e18fe722f42061396f480d078"}]
