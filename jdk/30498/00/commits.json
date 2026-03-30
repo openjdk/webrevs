@@ -1,0 +1,1 @@
+[{"commit":{"message":"8380912: \"Trailing white space will be removed\" incorrectly triggered with \\u2028"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/TextBlockSupport.java"},{"filename":"test\/langtools\/tools\/javac\/TextBlockU2028.java"}],"sha":"079b24823683c49c28c389d4d93f79edd8e2aa0b"}]
