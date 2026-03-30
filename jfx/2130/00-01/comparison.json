@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,5 +75,0 @@\n-- (NSString *)accessibilityTitle\n-{\n-    return [self requestNodeAttribute:@\"AXTitle\"];\n-}\n-\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/a11y\/JFXNavigableTextAccessibility.m","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
