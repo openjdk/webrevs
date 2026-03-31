@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve truncation code on BSD and Windows, add comment to Linux"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"4d6cae8f46d66b66adbd789967523bab763518cf"}]
