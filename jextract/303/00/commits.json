@@ -1,0 +1,1 @@
+[{"commit":{"message":"-empty option values cause jextract to crash\n-issue an error"},"files":[{"filename":"src\/main\/java\/org\/openjdk\/jextract\/JextractTool.java"},{"filename":"test\/testng\/org\/openjdk\/jextract\/test\/toolprovider\/JextractToolProviderTest.java"}],"sha":"d2218ae8b305e2a0afaacc516259940e06a8a141"}]
