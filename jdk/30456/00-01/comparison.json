@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,1 +108,1 @@\n-            throw new RuntimeException(errors + \" errors for character set \" + csn);\n+            throw new RuntimeException(errors + \" errors for Charset \" + csn);\n","filename":"test\/jdk\/java\/nio\/charset\/CharsetEncoder\/CanEncode.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
