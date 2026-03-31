@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381315: compiler\/vectorapi\/TestVectorReallocation.java fails with -XX:UseAVX=1 after JDK-8380565"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorReallocation.java"}],"sha":"79cbc3eeebcb3d6447636d3772555def74457496"}]
