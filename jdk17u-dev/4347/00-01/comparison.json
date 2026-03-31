@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -160,1 +160,1 @@\n-                    sniSN.getFirst() + \"' must not be set.\");\n+                    sniSN.get(0) + \"' must not be set.\");\n","filename":"test\/jdk\/javax\/net\/ssl\/HttpsURLConnection\/SubjectAltNameIP.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
