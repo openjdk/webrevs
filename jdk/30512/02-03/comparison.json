@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -317,1 +317,1 @@\n-  void verify_type(const Type* t1, const Type* t2) const;\n+  void verify_type(const Type* in_type, const Type* out_type) const;\n","filename":"src\/hotspot\/share\/opto\/castnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
