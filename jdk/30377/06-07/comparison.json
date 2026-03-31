@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -442,1 +442,1 @@\n-  RECORD_FLAG(use_, useSHA1, useSHA1);\n+  RECORD_FLAG(use_, useSHA1, UseSHA1Intrinsics);\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
