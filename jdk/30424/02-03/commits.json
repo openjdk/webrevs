@@ -1,0 +1,1 @@
+[{"commit":{"message":"* move abort-flag into G1ConcurrentMark, suggested by ayang"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp"}],"sha":"02a309b470242c34c68942878496529d2cb4f769"}]
