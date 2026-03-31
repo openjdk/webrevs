@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,1 +53,0 @@\n-    @SuppressWarnings(\"serial\") \/\/ Not statically typed as Serializable\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/SentEvent.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
