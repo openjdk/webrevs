@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1183,0 +1183,1 @@\n+    assert(Opcode() == res->Opcode(), \"pinning must result in the same kind of node %s - %s\", Name(), res->Name());\n","filename":"src\/hotspot\/share\/opto\/node.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
