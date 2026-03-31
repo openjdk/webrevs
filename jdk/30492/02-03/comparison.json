@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -183,0 +183,1 @@\n+    assert(is_call(), \"we should always spatch a call instruction\");\n","filename":"src\/hotspot\/cpu\/aarch64\/nativeInst_aarch64.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
