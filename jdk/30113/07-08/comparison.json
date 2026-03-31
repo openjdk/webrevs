@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -370,1 +370,1 @@\n- * size changes, lane-wise conversion methods can product <em>partial\n+ * size changes, lane-wise conversion methods can produce <em>partial\n","filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/Vector.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
