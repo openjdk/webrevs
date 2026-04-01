@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move UseSingleICacheInvalidation to AArch64; Add AArch64 require to TestDeferredICacheInvalidation"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/globals_aarch64.hpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/hotspot\/jtreg\/gc\/TestDeferredICacheInvalidation.java"}],"sha":"e3a9a2f9734b3de8aba5bedfdcbde3bd9c9b297a"}]
