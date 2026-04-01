@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix JTREG_VALUE_CLASS_PLUGIN test infrastructure to correctly supply VERSION_FEATURE in prebuilt test environments and enable the plugin explicitly."},"files":[{"filename":"make\/RunTests.gmk"},{"filename":"make\/RunTestsPrebuiltSpec.gmk"},{"filename":"test\/jdk\/java\/util\/Collections\/AddAll.java"}],"sha":"5c3dfe655057e19e468e645c8d29c35e0d96c84c"}]
