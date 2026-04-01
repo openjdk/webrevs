@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,1 @@\n-#include <xmmintrin.h>\n+#include <intrin.h>\n","filename":"src\/hotspot\/os_cpu\/windows_x86\/prefetch_windows_x86.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
