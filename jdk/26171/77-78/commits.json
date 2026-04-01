@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert the change making get_usable_free_words static"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.hpp"}],"sha":"9a39f31527b461010a1ae044c2be2bb5f1524b57"}]
