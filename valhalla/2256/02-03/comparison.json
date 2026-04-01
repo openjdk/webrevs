@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,0 +70,1 @@\n+        \/\/ B needs to be loaded so that we don't get an exact type for the receiver in the OSR compilation\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestMakeFromOopReturnValue.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
