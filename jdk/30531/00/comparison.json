@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1267,1 +1267,1 @@\n-  \/\/ First, collector_state()->in_concurrent_start_gc() should not be already set. We\n+  \/\/ First, collector_state()->is_in_concurrent_start_gc() should not already be set. We\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
