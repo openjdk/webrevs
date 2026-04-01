@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381517: GlassViewDelegate::convertNSStringToJString can return uninitialized value"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassViewDelegate.m"}],"sha":"f0f06cf45b46f15251f653fc084d843269d33974"}]
