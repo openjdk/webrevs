@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1492,1 +1492,1 @@\n-    \/\/ TODO JDK-8367624 this should be re-introduced once fixed\n+    \/\/ TODO JDK-8380927 this should be re-introduced once fixed\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestCallingConvention.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
