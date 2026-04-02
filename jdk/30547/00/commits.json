@@ -1,0 +1,1 @@
+[{"commit":{"message":"8261289: incorrect cleanup in LDAP TLS handling"},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/ext\/StartTlsResponseImpl.java"},{"filename":"test\/jdk\/com\/sun\/jndi\/ldap\/LdapStartTlsTest.java"}],"sha":"07312ad8728a061ef4de6dabdf3e7800920ac338"}]
