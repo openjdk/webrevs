@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381596: Adjust checks which use supports_ht() on x86 for hybrid CPUs"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"}],"sha":"34033e63f0fa5ef40bc9fb4802a3dcc54a6a9131"}]
