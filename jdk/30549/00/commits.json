@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381561: G1: Cleanup patch in preparation for eager reclamation of flat arrays"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.inline.hpp"}],"sha":"a3ad1abff16db5bdf73aef0c5a329720dd700628"}]
