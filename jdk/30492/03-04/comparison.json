@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -182,0 +182,1 @@\n+    jint insn = 0b100101 << 26;\n@@ -183,1 +184,1 @@\n-    assert(is_call(), \"we should always spatch a call instruction\");\n+    set_int_at(displacement_offset, insn);\n","filename":"src\/hotspot\/cpu\/aarch64\/nativeInst_aarch64.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
