@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused JTREG_VALUE_CLASS_ANNOTATION_JAR and guard the -cpa: plugin JAR option behind JTREG_VALUE_CLASS_PLUGIN to avoid adding it to the classpath when the plugin is not active."},"files":[{"filename":"make\/RunTests.gmk"}],"sha":"c9ef9829471c7ad0addca57a349471595513438a"}]
