@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,0 +51,1 @@\n+import org.junit.jupiter.api.Disabled;\n@@ -100,0 +101,1 @@\n+    @Disabled(\"JDK-8381443\")\n@@ -134,0 +136,1 @@\n+    @Disabled(\"JDK-8381443\")\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/SystemMenuBarHelpMenuTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
