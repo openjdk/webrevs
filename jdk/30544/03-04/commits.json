@@ -1,0 +1,1 @@
+[{"commit":{"message":"Log to error channel when -XX:AOTMode is \"on\""},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/methodHandles\/JDKMethodHandlesTestRunner.java"}],"sha":"e26d5385b375f6c8911f583627acc1b4203b498e"}]
