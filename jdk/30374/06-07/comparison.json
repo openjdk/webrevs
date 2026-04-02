@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2262,2 +2262,1 @@\n-    const char* prefix = \"Java: \";\n-    const size_t prefix_len = strlen(prefix);\n+    const size_t prefix_len = 6;\n","filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
