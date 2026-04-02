@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -280,1 +280,1 @@\n-    if (mem->is_Proj() && mem->in(0)->is_ArrayCopy() && mem->in(0) == ac) {\n+    if (mem->is_Proj() && mem->in(0) == ac) {\n","filename":"src\/hotspot\/share\/opto\/macro.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
