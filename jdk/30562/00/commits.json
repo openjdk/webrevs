@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381611: RISC-V: Factor out function cmpptr from MacroAssembler"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/methodHandles_riscv.cpp"}],"sha":"66d105d6079d1d6917a50665d6b9aa505be85ea5"}]
