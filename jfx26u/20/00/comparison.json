@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -621,1 +621,4 @@\n-    if (data.pointTypes == NULL) goto fail;\n+    if (data.pointTypes == NULL) {\n+        data.pointCoords = NULL;\n+        goto fail;\n+    }\n","filename":"modules\/javafx.graphics\/src\/main\/native-font\/freetype.c","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
