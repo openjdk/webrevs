@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix compile failure and whitespace\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/cpuflags\/CPUFeaturesClearTest.java"}],"sha":"a4cc3f4b63666ba80ca55071fcbc6a82762c37f4"}]
