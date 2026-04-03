@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1346,1 +1346,1 @@\n-#endif \/\/ GSTRAEMER_LITE\n+#endif \/\/ GSTREAMER_LITE\n","filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/3rd_party\/glib\/glib\/gvariant-serialiser.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
