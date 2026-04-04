@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8341399 8381475\n+ * @bug 8341399\n","filename":"test\/jdk\/tools\/sincechecker\/modules\/jdk.compiler\/JdkCompilerCheckSince.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
