@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add missing check for supports_fma()\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_fmod.cpp"}],"sha":"d36b843a5ead7531ee4ad3ef54281b90348c9d2e"}]
