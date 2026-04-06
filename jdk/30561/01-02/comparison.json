@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,1 @@\n-            absolutePath=outputAnalyzer.getOutput();\n+            absolutePath = outputAnalyzer.getOutput();\n","filename":"test\/lib\/jdk\/test\/lib\/security\/OpensslArtifactFetcher.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
