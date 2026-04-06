@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -133,1 +133,1 @@\n-        return isMinimized();\n+        return minimize;\n@@ -140,1 +140,1 @@\n-        return isMaximized();\n+        return maximize;\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/gtk\/GtkWindow.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
