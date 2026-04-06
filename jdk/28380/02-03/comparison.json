@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -272,1 +272,0 @@\n-  u2 number_of_parameters() const;\n","filename":"src\/hotspot\/share\/oops\/method.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
