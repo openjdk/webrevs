@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,1 +125,1 @@\n-            compilationOutput.removeIf(msg -> msg.contains(\"preview\"));\n+            compilationOutput.removeIf(msg -> msg.contains(\"compiler.note.preview\"));\n","filename":"test\/langtools\/tools\/javac\/SuperInit\/InitializationWarningTester.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
