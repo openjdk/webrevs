@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix layout of abstract value classes with inherited fields"},"files":[{"filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/field_layout\/FieldLayoutAnalyzer.java"}],"sha":"944c261c22acade6e50b4b622e71dd9534947fb1"}]
