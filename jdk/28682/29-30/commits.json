@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make the test pass on Windows plus a few small tweaks"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/CompressionAlgorithm.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/CertificateCompression\/CompressedCertMsg.java"}],"sha":"d1fb2d67d0b15217577f654ea7a272d445df16c8"}]
