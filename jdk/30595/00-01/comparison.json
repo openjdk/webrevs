@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,1 @@\n+import compiler.lib.ir_framework.CompLevel;\n@@ -113,1 +114,1 @@\n-    @Test(allowNotCompilable = true)\n+    @Test(compLevel = CompLevel.C2) \/\/ see JDK-8381786\n","filename":"test\/hotspot\/jtreg\/compiler\/exceptions\/TestDebugDuringExceptionCatching.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
