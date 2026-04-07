@@ -1,0 +1,1 @@
+[{"commit":{"message":"More feedback. Consolidate KernelBase resolutions in os::init_2()"},"files":[{"filename":"src\/hotspot\/os\/aix\/os_aix.cpp"},{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/share\/runtime\/os.hpp"}],"sha":"e9c629ebd84296aac2fb92a376b802825d2b2f8a"}]
