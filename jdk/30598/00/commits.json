@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381724: RISC-V: Pass temp registers and use them in CardTableBarrierSetAssembler::store_check()"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/cardTableBarrierSetAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/cardTableBarrierSetAssembler_riscv.hpp"}],"sha":"0986904c8fc76c62eb0f653060a974cb56c3ebd9"}]
