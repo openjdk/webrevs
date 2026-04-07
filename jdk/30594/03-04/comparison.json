@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,2 +144,2 @@\n-    \/\/ key: metazone name\n-    \/\/ value: dstOffset\n+    \/\/ key: time zone ID\n+    \/\/ value: explicit dstOffset for the corresponding metazone name\n","filename":"make\/jdk\/src\/classes\/build\/tools\/cldrconverter\/CLDRConverter.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
