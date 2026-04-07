@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381770: Revert some shared changes done by JDK-8381003"},"files":[{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"},{"filename":"src\/hotspot\/share\/code\/relocInfo.cpp"},{"filename":"src\/hotspot\/share\/code\/relocInfo.hpp"}],"sha":"16a6417bd1e70db43ed04bed4fa21a74e49c7ab4"}]
