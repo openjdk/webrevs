@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,1 +49,1 @@\n-    @IR(counts = { IRNode.MUL_I, \">=1\" })\n+    @IR(counts = { IRNode.MUL_I, \"=1\" })\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/parallel_iv\/TestParallelIvInvariantIncrement.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
