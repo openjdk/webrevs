@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1250,1 +1250,1 @@\n-        return zc.getBytes(name);\n+            return zc.getBytes(name);\n","filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
