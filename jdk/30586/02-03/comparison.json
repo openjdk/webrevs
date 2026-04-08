@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1807,0 +1807,1 @@\n+        assert(main_safepoint != nullptr, \"outer loop must have a safepoint\");\n","filename":"src\/hotspot\/share\/opto\/loopTransform.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
