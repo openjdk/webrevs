@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -330,1 +330,1 @@\n-                                  ? State::SweepRT : _state;\n+                                   ? State::SweepRT : _state;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentRefine.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
