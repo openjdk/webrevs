@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,0 @@\n-            verifyOutput(null, new String[]{\"sve2\"}, null, outputAnalyzer);\n@@ -131,1 +130,0 @@\n-            verifyOutput(null, new String[]{\"sve\"}, null, outputAnalyzer);\n","filename":"test\/hotspot\/jtreg\/compiler\/cpuflags\/CPUFeaturesClearTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
