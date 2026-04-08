@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: (1) remove unneeded assert, (2) simplify one statement in JvmtiEnvBase::set_frame_pop"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.hpp"}],"sha":"f15d88176ed6c8aa48904edc78645c24f9e0df4e"}]
