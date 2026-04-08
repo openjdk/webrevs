@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check each label for the start\/end hyphen. Add size checks."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/x509\/DNSName.java"},{"filename":"test\/jdk\/sun\/security\/x509\/GeneralName\/DNSNameTest.java"}],"sha":"b42e89a6bcb8f43e86950ed0e4d570b82d68f399"}]
