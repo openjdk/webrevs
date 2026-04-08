@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381865: Fix debug build failure caused by not clearing CPU_APX_F feature"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"0be33b00fa3231f19cd734843b0c95b1475453b0"}]
