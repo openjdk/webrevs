@@ -1,0 +1,1 @@
+[{"commit":{"message":"Put temporary register back into effects list of minmaxD_reduction_reg rule that somehow went missing in the merge."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"0d2cd0be8b816434d635bcd1e726bcd596bd7210"}]

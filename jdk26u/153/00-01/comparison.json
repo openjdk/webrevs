@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7476,1 +7476,1 @@\n-  effect(USE a, USE b, TEMP rtmp, KILL cr);\n+  effect(USE a, USE b, TEMP xtmp, TEMP rtmp, KILL cr);\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
