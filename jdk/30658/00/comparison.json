@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1518,1 +1518,1 @@\n-  const size_t avail_mem = os::physical_memory();\n+  const physical_memory_size_type avail_mem = os::physical_memory();\n","filename":"src\/hotspot\/share\/runtime\/arguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
