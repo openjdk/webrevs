@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381579: C2: \"fatal error: LROTATE: double\" when using VectorAPI"},"files":[{"filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/VectorOperators.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestShiftOpOnFloatingVector.java"}],"sha":"2997a0b5c7e64da150734606415f2b272718fb29"}]
