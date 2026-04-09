@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-\/\/    Inline types cannot be locked and does not have an identity hash.\n+\/\/    Inline types cannot be locked and do not have an identity hash.\n","filename":"src\/hotspot\/share\/oops\/markWord.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
