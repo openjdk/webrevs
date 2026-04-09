@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381932: Publish stubgen entries when -XX:-AOTStubCaching configured"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"},{"filename":"src\/hotspot\/share\/runtime\/stubRoutines.cpp"}],"sha":"d8b1dd62265d6ca88fad6dc59951ac743c881330"}]
