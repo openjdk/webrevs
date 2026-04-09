@@ -1,0 +1,1 @@
+[{"commit":{"message":"nit: comments to explain why mutator_allocator_remaining_bytes needs to be added back when reset bytes_allocated_since_gc_start"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"08b4245d70c6d7bc01efed0ce83bcd0310a41f18"}]
