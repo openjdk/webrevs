@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -426,1 +426,1 @@\n-  const size_t tenuring_threshold = heap->age_census()->tenuring_threshold();\n+  const uint tenuring_threshold = heap->age_census()->tenuring_threshold();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahGenerationalHeuristics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
