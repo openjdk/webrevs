@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -254,2 +254,0 @@\n-            \/\/ We avoid using decoder() here since the UTF8ZipCoder is\n-            \/\/ shared and that decoder is not thread safe.\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipCoder.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
