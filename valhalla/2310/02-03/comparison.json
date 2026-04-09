@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-  \/\/ Helper to make sure that _bit_in_place constants only refers to one bit.\n+  \/\/ Helper to make sure that _bit_in_place constants only refer to one bit.\n","filename":"src\/hotspot\/share\/oops\/markWord.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
