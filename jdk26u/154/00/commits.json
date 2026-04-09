@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix AOTCache failure during startup with custom runtime images"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotArtifactFinder.cpp"}],"sha":"5a656b7c0da882961c5fb2722f06300d10003a56"}]
