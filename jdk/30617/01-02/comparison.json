@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,5 +32,0 @@\n-#define STATUS_FAILED 2\n-#define PASSED 0\n-\n-static volatile jint result = PASSED;\n-static volatile long wrongStepEv = 0;\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/events\/SingleStep\/singlestep02\/libsinglestep02.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
