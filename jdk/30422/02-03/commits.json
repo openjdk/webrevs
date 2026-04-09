@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add -XX:ConcGCThreads=1 -XX:ParallelGCThreads=1 parameters to make test more stable"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/generational\/TestOldGrowthTriggers.java"}],"sha":"375e449dffafd009da65e796c0d12b4af13f1799"}]
