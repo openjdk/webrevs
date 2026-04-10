@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,1 +44,1 @@\n-        Path dir = Files.createTempDirectory(\"tmp\");\n+        Path dir = Files.createTempDirectory(Path.of(\"\"), \"tmp\");\n","filename":"test\/jdk\/java\/nio\/file\/spi\/testapp\/testapp\/Main.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
