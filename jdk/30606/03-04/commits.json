@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed interpreter directive at 1st line. Improved guard against non-bash shells, require 'complete' to be a buildin"},"files":[{"filename":"src\/jdk.jcmd\/share\/conf\/bash-completion\/jcmd"}],"sha":"a5280e966380120ae38de87ce5e345ebcd4f1ed7"}]
