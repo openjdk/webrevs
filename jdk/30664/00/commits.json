@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381851: handleMessage use uninitialized struct"},"files":[{"filename":"src\/jdk.sctp\/unix\/native\/libsctp\/SctpChannelImpl.c"}],"sha":"c6e91848c1414f4f89b420c6f0196f63bf500a5e"}]
