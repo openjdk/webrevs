@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use HelloWorld instead of JavacBench to run test\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCode\/AOTCodeFlags.java"},{"filename":"test\/setup_aot\/HelloWorld.java"}],"sha":"8a346c22497e09c61e9d31e65ddd67c2c34fa7e2"}]
