@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,1 @@\n-    if [[ ${COMP_WORDS[2]} == help ]] then\n+    if [[ ${COMP_WORDS[2]} == help ]]; then\n","filename":"src\/jdk.jcmd\/share\/conf\/bash-completion\/jcmd","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
