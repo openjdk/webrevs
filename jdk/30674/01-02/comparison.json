@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,4 +64,0 @@\n-\n-        \/\/ Cleanup in tempdir\n-        Files.deleteIfExists(foo);\n-        Files.deleteIfExists(dir);\n","filename":"test\/jdk\/java\/nio\/file\/spi\/testapp\/testapp\/Main.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
