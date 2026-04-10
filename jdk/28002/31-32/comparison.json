@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2758,1 +2758,1 @@\n-      log_if_needed(\"  ** missing constant: idx=%s\", NodeClassNames[argument(5)->Opcode()]);\n+      log_if_needed(\"  ** missing constant: idx=%s\", NodeClassNames[argument(4)->Opcode()]);\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
