@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -464,1 +464,1 @@\n-    bool part_of_marking = r->is_old_or_humongous() && !r->is_collection_set_candidate() && !cm->is_root_region(r);\n+    bool part_of_marking = !cm->is_root_region(r);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HeapVerifier.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
