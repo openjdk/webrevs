@@ -1,0 +1,1 @@
+[{"commit":{"message":"Shenandoah: Allocation rate sample could be wrong after force_sample"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAdaptiveHeuristics.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"b4bbac88f9032ce96a48cdf5c4358486f5392332"}]
