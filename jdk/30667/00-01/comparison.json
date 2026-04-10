@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -486,1 +486,1 @@\n-    andptr(reg_rax, ~(int32_t)markWord::lock_mask);\n+    andptr(reg_rax, ~(int32_t)markWord::lock_mask_in_place);\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
