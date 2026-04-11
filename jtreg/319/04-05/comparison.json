@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -164,1 +164,1 @@\n-\t\t-jdk:$(JDKHOME) \\\n+\t\t-jdk:$(JDK25HOME) \\\n","filename":"test\/nativepath\/TestNativePath.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
