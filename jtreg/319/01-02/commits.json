@@ -1,0 +1,1 @@
+[{"commit":{"message":"Run `NativeAccessEnabled` only on Java 22+"},"files":[{"filename":"src\/share\/classes\/com\/sun\/javatest\/regtest\/exec\/MainAction.java"},{"filename":"test\/nativepath\/NativeAccessEnabled.java"},{"filename":"test\/nativepath\/NativesOK.java"},{"filename":"test\/nativepath\/TestNativePath.gmk"}],"sha":"98813cc35ff2115aa12bc87faccbd2955c068ad7"}]
