@@ -1,0 +1,1 @@
+[{"commit":{"message":"For dynamic heap size, recompute region size on each full GC"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompactNew.cpp"}],"sha":"cd68fd2dba2529f65d2b54a8cda54339428c6c5a"}]
