@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381996: [lworld] JNIHandles::is_same_object makes an unsafe Java upcall"},"files":[{"filename":"src\/hotspot\/share\/runtime\/jniHandles.cpp"}],"sha":"0428774f452c9ce1153d3449460570c9a11a5e18"}]
