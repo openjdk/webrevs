@@ -1,0 +1,1 @@
+[{"commit":{"message":"added check for compiler_buffer_size>SIZE_MAX case.\nmessage updated - CICompilerCount is too large: compiler buffer size exceeds the CodeCache size limit"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"}],"sha":"8cbe2351e2bacfe59aba60dd64575f2bfdee3db3"}]
