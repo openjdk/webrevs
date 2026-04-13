@@ -1,0 +1,1 @@
+[{"commit":{"message":"Filter out the function\/data sections flags from libjvm gtest build"},"files":[{"filename":"make\/hotspot\/lib\/CompileGtest.gmk"}],"sha":"452345cd725a89acebc6e2033d3d4880a51786c1"},{"commit":{"message":"JDK-8375177"},"files":[],"sha":"e3acbabf1de25228e3c4a36da0e987c1cbe91d5a"}]
