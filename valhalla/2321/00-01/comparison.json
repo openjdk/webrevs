@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -195,1 +195,1 @@\n-    l->dump(0);\n+    l->dump(10);\n","filename":"src\/hotspot\/share\/opto\/parse1.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
