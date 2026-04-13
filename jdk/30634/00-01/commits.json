@@ -1,0 +1,1 @@
+[{"commit":{"message":"Richard's PPC patch + rename to _should_patch_caller_pc"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/continuationFreezeThaw_ppc.inline.hpp"},{"filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp"}],"sha":"82ab498fe9d1135b82681e502c2c918feb2c2bc6"}]
