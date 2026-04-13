@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,3 @@\n- * and finally the 3rd child of it.\n+ * and finally the 3rd child of it. The path label can be used as location in\n+ * various {@link jdk.test.lib.security.DerUtils DerUtils} methods.\n+ *\n","filename":"test\/lib\/jdk\/test\/lib\/hexdump\/ASN1Formatter.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
