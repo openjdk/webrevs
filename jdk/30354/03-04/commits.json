@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make klass prinitng more reliable in the presence of CompactObjectHeaders\/forwarding pointers"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceRefKlass.inline.hpp"}],"sha":"b455633866ed2774326de67fecf7a0a67d943297"}]
