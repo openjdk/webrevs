@@ -1,0 +1,1 @@
+[{"commit":{"message":"Accept empty arrays in `java.net.http.HttpRequest.Builder#headers`"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpRequestBuilderImpl.java"},{"filename":"test\/jdk\/java\/net\/httpclient\/HttpRequestBuilderTest.java"}],"sha":"c3f05a538522dee7c6fb86b6aaedcae7acbb7af0"}]
