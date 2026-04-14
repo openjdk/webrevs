@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -16,0 +16,1 @@\n+    \t<ant dir=\"RichTextAreaDemo\" target=\"jar\" inheritAll=\"true\"\/>\n@@ -23,0 +24,1 @@\n+    \t<ant dir=\"RichTextAreaDemo\" target=\"clean\" inheritAll=\"true\"\/>\n","filename":"apps\/samples\/build.xml","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
