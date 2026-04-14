@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,0 +48,1 @@\n+GTEST_LIBJVM_CFLAGS := $(JVM_CFLAGS)\n","filename":"make\/hotspot\/lib\/CompileGtest.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
