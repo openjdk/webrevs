@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -413,0 +413,2 @@\n+      } else if (!allow_gc) {\n+        return nullptr;\n@@ -422,2 +424,0 @@\n-        } else if (!allow_gc) {\n-          return nullptr;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
