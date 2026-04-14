@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use load_acquire when read _epoch_id"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.cpp"}],"sha":"0802666ba1a1db1e05a884ea9a2a6897fb57ed99"}]
