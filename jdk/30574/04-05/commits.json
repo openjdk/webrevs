@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restrict test to fire on 128-bit SVE\n\nOn 256-bit (or higher) SVE, there won't be any vector rotate nodes, so\nthis patch updates the test criteria to reflect that."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/runner\/ArrayShiftOpTest.java"}],"sha":"3a30deec69966a886cde23f9d48643d9a0f1da41"}]
