@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -587,1 +587,3 @@\n-  if (!is_trash()) return;\n+  if (!is_trash()) {\n+    return;\n+  }\n@@ -616,1 +618,3 @@\n-  if (!is_trash()) return;\n+  if (!is_trash()) {\n+    return;\n+  }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp","additions":6,"deletions":2,"binary":false,"changes":8,"status":"modified"}]}
