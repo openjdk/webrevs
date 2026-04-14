@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382134: Replace assert with fatal check in AOTCodeCache::load_strings() to make sure we have valid value in product VM"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"0e0cefff5fba9dcdf2f17f15ffbf00e48e80d60c"}]
