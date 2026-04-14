@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,0 +81,1 @@\n+  if (_regions_data != nullptr) FREE_C_HEAP_ARRAY(PerfVariable*, _regions_data);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegionCounters.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
