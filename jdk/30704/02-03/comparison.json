@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2418,1 +2418,1 @@\n-        int idx = vector_iota_entry_index(bt);\n+        int idx = vector_iota_entry_index(T_LONG);\n","filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
