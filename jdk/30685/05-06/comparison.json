@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -685,2 +685,0 @@\n-            } else if (file == null) {\n-                file = arg;\n@@ -691,0 +689,2 @@\n+            } else if (file == null) {\n+                file = arg;\n","filename":"test\/lib\/jdk\/test\/lib\/hexdump\/ASN1Formatter.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
