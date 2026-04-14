@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1674,0 +1674,4 @@\n+  if (base == nullptr) {\n+    return false;\n+  }\n+\n@@ -1678,1 +1682,1 @@\n-  if (req() > 3 || base == nullptr || !base->is_Phi()) {\n+  if (req() > 3 || !base->is_Phi()) {\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
