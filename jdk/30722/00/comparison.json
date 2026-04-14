@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1190,1 +1190,1 @@\n-        if (FLAG_IS_DEFAULT(UseAESCTRIntrinsics)) {\n+        if (!FLAG_IS_DEFAULT(UseAESCTRIntrinsics)) {\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

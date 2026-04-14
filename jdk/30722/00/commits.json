@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382167: Warning message should be displayed only when UseAESCTRIntrinsics is explicitly enabled by the user\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"39ce71500b7290e0a463fd59f214ec94e3b5c1fb"}]
