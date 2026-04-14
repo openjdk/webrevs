@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-  FREE_C_HEAP_ARRAY(G1CardSetAllocator<G1CardSetContainer>, _allocators);\n+  FREE_C_HEAP_ARRAY(G1CardSetAllocator, _allocators);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardSetMemory.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
