@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,0 +112,2 @@\n+        \/\/ mode bits 0 and 1 encode AOTAdapterCaching and AOTStubCaching settings\n+        \/\/ aMode is used for assembly run, pMode for production run\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCode\/AOTCodeFlags.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
