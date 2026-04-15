@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @build jtreg.SkippedException ValidatePathWithParams\n+ * @build ValidatePathWithParams\n","filename":"test\/jdk\/security\/infra\/java\/security\/cert\/CertPathValidator\/certification\/SectigoCSRootCAs.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
