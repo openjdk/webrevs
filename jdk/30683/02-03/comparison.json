@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,0 +86,1 @@\n+                    \/\/ (only called if state != OK.)\n","filename":"src\/java.smartcardio\/share\/classes\/sun\/security\/smartcardio\/CardImpl.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
