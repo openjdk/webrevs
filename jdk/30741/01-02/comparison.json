@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -291,1 +291,1 @@\n-  if (!_generation->is_old()) {\n+  if (!heap->cancelled_gc() && !_generation->is_old()) {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
