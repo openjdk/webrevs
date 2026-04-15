@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -894,0 +894,3 @@\n+ * Convert from jstring to standard UTF-8 using GLib\n+ * utility method g_utf16_to_utf8.\n+ *\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_general.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
