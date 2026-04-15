@@ -1,0 +1,1 @@
+[{"commit":{"message":"8381670: Revert the changes to GZIPInputStream related to InputStream.available() usage"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPInputStream.java"},{"filename":"test\/jdk\/java\/util\/zip\/GZIP\/GZIPInputStreamAvailable.java"}],"sha":"ce8804ec1a0aa766ccf1eea81162be5e289a4a84"}]
