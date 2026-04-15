@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,5 +63,0 @@\n-    @Override\n-    public Category getType() {\n-        return Category.TRANSFORMER;\n-    }\n-\n","filename":"src\/jdk.jlink\/share\/classes\/jdk\/tools\/jlink\/internal\/plugins\/SecurityPropertiesPlugin.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
