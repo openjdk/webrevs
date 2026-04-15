@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1023,0 +1023,3 @@\n+    $1_JTREG_BASIC_OPTIONS += $$(addprefix $$(JTREG_PROBLEM_LIST_PREFIX), $$(wildcard \\\n+        $$(addprefix $$($1_TEST_ROOT)\/, ProblemList-AotJdk.txt) \\\n+    ))\n","filename":"make\/RunTests.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
