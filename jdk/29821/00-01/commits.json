@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add a CFRetain after CFArrayGetValueAtIndex in addIdentitiesToKeystore"},"files":[{"filename":"src\/java.base\/macosx\/native\/libosxsecurity\/KeystoreImpl.m"}],"sha":"7ddde2a405c58fe10299857f3031b107b68fcd9f"}]
