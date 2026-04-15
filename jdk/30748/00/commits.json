@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382267: VectorMathLibrary uses locale-sensitive String.format to construct native symbol names"},"files":[{"filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/VectorMathLibrary.java"},{"filename":"test\/jdk\/jdk\/incubator\/vector\/VectorMathLibraryLocaleTest.java"}],"sha":"847f8ccb5a4b62f5bd0210a72e41a0674869efd0"}]
