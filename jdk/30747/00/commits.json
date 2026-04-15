@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disallow IP literals in `SNIHostName::new`"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/net\/ssl\/SNIHostName.java"},{"filename":"test\/jdk\/javax\/net\/ssl\/ServerName\/IllegalSNIName.java"}],"sha":"bd7aea4f5668e1d20f5472cf6624d842f2b7c5fc"}]
