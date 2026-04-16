@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -942,1 +942,2 @@\n- * No selection or insertion (in-place, {@code MO=MS=1}).\n+ * The conversion is length-invariant, so\n+ * no selection or insertion (in-place, {@code MO=MS=1}).\n","filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/Vector.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
