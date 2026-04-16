@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-        if(path == null) {\n+        if (path == null) {\n","filename":"test\/lib\/jdk\/test\/lib\/security\/OpensslArtifactFetcher.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
