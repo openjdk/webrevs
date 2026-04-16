@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,2 @@\n-  \/\/ warning and move on.\n+  \/\/ warning, set `MaxVectorSize` to the value returned by this function, and\n+  \/\/ move on.\n","filename":"src\/hotspot\/os_cpu\/windows_aarch64\/vm_version_windows_aarch64.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
