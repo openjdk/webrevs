@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -852,1 +852,1 @@\n-  void postPrecessing() {\n+  void postProcessing() {\n@@ -892,1 +892,1 @@\n-    postPrecessing();\n+    postProcessing();\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/field_layout\/FieldLayoutAnalyzer.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
