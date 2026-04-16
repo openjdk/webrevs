@@ -1,0 +1,1 @@
+[{"commit":{"message":"use checked_cast, undo MIN2, update the test"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/arguments\/CheckCICompilerCount.java"}],"sha":"2f2b22e7bdd1ff9c76beabc3b06e176c408be9a2"}]
