@@ -1,0 +1,1 @@
+[{"commit":{"message":"conContext.fatal always throws, put back the try-catch clause"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSocketImpl.java"}],"sha":"91f334b41293cc9322ec9ac9626644b8d5212fda"}]
