@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -351,1 +351,1 @@\n-\/\/ Does not require caller to have ResourceMark, unless the outputStream already has one.\n+\/\/ Does not require caller to have ResourceMark.\n","filename":"src\/hotspot\/share\/runtime\/mutex.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
