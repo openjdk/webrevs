@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3707,0 +3707,1 @@\n+  if (flags.is_public    ()) st->print(\"public \");\n@@ -3709,1 +3710,0 @@\n-  if (flags.is_public    ()) st->print(\"public \");\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
