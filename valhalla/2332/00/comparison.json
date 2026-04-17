@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3242,0 +3242,3 @@\n+    if (failing()) {\n+      return;\n+    }\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
