@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -513,3 +513,0 @@\n-#define FREE_FAST(obj)\\\n-    \/* nop *\/\n-\n","filename":"src\/hotspot\/share\/memory\/allocation.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
