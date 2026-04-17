@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use REALLOC_RETURN_TYPE in arena.hpp"},"files":[{"filename":"src\/hotspot\/share\/memory\/arena.hpp"}],"sha":"f1c87f41df9768a95c12414c586032195909aab5"},{"commit":{"message":"Minor tweak of comment"},"files":[{"filename":"src\/hotspot\/share\/memory\/allocation.hpp"}],"sha":"775b76344309cc04fe9a7f714ff0d3eaf71385eb"}]
