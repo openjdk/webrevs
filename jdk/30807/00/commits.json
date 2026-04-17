@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add options to tests to prevent Shenandoah from skipping evacuations"},"files":[{"filename":"test\/jdk\/jdk\/jfr\/event\/gc\/detailed\/TestShenandoahEvacuationInformationEvent.java"},{"filename":"test\/jdk\/jdk\/jfr\/event\/gc\/detailed\/TestShenandoahPromotionInformationEvent.java"}],"sha":"4a4bf6ffe9b5b74bd72a240e13dd10a680867d48"}]
