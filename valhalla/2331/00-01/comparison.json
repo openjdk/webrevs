@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1221,1 +1221,1 @@\n-    \/\/ instances which causes performance regression (see JDK-8379145)\n+    \/\/ instances which causes performance regression (see JDK-8379145).\n","filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
