@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,2 @@\n- * @summary AOTCacheConsistency\n+ * @summary AOTCacheConsistency This test checks that there is a CRC validation of the AOT Cache regions.\n+ * @bug 8382166\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/AOTCacheConsistency.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
