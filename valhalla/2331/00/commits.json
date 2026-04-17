@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable NULLABLE_NON_ATOMIC_FLAT layout for Double and Long"},"files":[{"filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp"}],"sha":"70d965da2019170f93dd21abf88b418835071f62"}]
