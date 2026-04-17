@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382359: Align 32-bit data in AOT Code Cache to sizeof(uint)"},"files":[{"filename":"src\/hotspot\/share\/cds\/cds_globals.hpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"}],"sha":"43a6ad258654b872890e0e88e8140b715659b1cc"}]
