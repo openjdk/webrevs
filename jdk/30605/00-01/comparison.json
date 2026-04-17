@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -763,1 +763,1 @@\n-  \/\/ constant value greater than 2^12 will need to use a 2nd scratch\n+  \/\/ constant value greater than 2^24 will need to use a 2nd scratch\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
