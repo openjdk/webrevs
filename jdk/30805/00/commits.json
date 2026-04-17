@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix compilation error on gcc 14"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.inline.hpp"}],"sha":"a20624cf5a88b6146f5ff72a8654517ed5a16d7d"}]
