@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,1 @@\n-            System.out.println(\"Server SSLException:\");\n+            System.out.println(\"Server exception:\");\n","filename":"test\/jdk\/javax\/net\/ssl\/SSLSession\/TestEnabledProtocols.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
