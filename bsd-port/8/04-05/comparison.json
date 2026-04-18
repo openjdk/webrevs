@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -813,1 +813,1 @@\n-#else\r\n+#else\n@@ -816,1 +816,1 @@\n-    os_sigaction = (os_sigaction_t)dlsym(RTLD_DEFAULT, SIGACTION_NAME);\r\n+    os_sigaction = (os_sigaction_t)dlsym(RTLD_DEFAULT, SIGACTION_NAME);\n","filename":"src\/hotspot\/os\/posix\/signals_posix.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
