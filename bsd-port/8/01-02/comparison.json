@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -561,5 +561,1 @@\n-#if defined(_AIX) || (defined(__OpenBSD__) && OpenBSD <= 202507)\n-  return fileno(fp);\n-#else\n-  return ::fileno(fp);\n-#endif\n+  return NOT_AIX(::)fileno(fp);\n","filename":"src\/hotspot\/os\/posix\/os_posix.cpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}

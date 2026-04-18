@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop support for fileno macro in OpenBSD < 7.8\n\nCo-authored-by: Kurt Miller <kurt@openjdk.org>"},"files":[{"filename":"src\/hotspot\/os\/posix\/os_posix.cpp"}],"sha":"bc2e0b966cc12df6690db959e66e8c617467f539"}]
