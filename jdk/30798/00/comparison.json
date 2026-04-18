@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4571,1 +4571,1 @@\n-      __ addr_nop_5();\n+      __ nop(5);\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
