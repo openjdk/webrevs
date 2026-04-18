@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -333,3 +333,0 @@\n-  \/\/ Check if the class can be shared in CDS\n-  bool is_shareable() const;\n-\n@@ -1139,2 +1136,0 @@\n-  \/\/ log class name to classlist\n-  void log_to_classlist() const;\n","filename":"src\/hotspot\/share\/oops\/instanceKlass.hpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
