@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382489: aarch64: Clean up redundant restore_locals() in TemplateTable::invokeinterface"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp"}],"sha":"5d0115eac0e18a9dd16c0b7dd681392876cae890"}]
