@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -753,1 +753,0 @@\n-    kit->set_all_memory_call(ac);\n","filename":"src\/hotspot\/share\/gc\/shared\/c2\/barrierSetC2.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
