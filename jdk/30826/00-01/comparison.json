@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,0 +150,2 @@\n+     * @throws IllegalArgumentException if {@code dataBitOffset} is less than zero,\n+     *         or not a multiple of {@code numberOfBits}.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/MultiPixelPackedSampleModel.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
