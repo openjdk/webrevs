@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,4 +40,0 @@\n-import javax.swing.JMenu;\n-import javax.swing.JMenuItem;\n-import javax.swing.JMenuBar;\n-import javax.swing.KeyStroke;\n","filename":"test\/jdk\/javax\/swing\/JDesktopPane\/TestDesktopManagerNPE.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
