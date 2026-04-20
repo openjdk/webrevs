@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,2 @@\n+# Decoder does not work with debuginfo of the gtest libjvm when sections are used,\n+# so we get wrong file names. That's why we filter out the section flags.\n","filename":"make\/hotspot\/lib\/CompileGtest.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
