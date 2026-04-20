@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,1 +169,1 @@\n-            targetThread.join(timeout*1000*5);\n+            targetThread.join(timeout*1000*20);\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/SuspendWithObjectMonitorTimedWait\/SuspendWithObjectMonitorTimedWait.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
