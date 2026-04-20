@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify op transformer.\n\nEnsure it works correctly for reentrant calls."},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/CodeTransformer.java"},{"filename":"test\/jdk\/jdk\/incubator\/code\/transform\/TestTransform.java"}],"sha":"52dca71ca81fff4fc09957aa8d348494d5f667f8"}]
