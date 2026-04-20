@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-import jdk.test.lib.process.ProcessBuilder;\n+import jdk.test.lib.process.ProcessTools;\n","filename":"test\/hotspot\/jtreg\/runtime\/interpreter\/TraceBytecodesSignatures.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
