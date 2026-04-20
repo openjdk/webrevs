@@ -1,0 +1,1 @@
+[{"commit":{"message":"Abort VM if AOTMode=on and AOTCodeCache fails to load\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCode\/AOTCodeCPUFeatureIncompatibilityTest.java"}],"sha":"b9c5ca093947029caf5b2f6344c66b6f092e82ed"}]
