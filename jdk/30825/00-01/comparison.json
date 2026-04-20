@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,1 +176,1 @@\n-                    System.out.println(\"Found class: \" + name);\n+                    \/\/System.out.println(\"Found class: \" + name);\n","filename":"test\/jdk\/com\/sun\/jdi\/ClassesByName2Test.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
