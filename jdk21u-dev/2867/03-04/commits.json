@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove @Test annotation from getDirectoriesToTest\n\nRemoved the @Test annotation from getDirectoriesToTest method."},"files":[{"filename":"test\/langtools\/jdk\/jshell\/KullaCompletenessStressTest.java"}],"sha":"400e7aa2a6cc8d9ed2859d8717e32dd90a0f6441"}]
