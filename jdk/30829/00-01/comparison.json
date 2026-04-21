@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -99,1 +99,1 @@\n-                while(true) {\n+                while(!finalizerRun) {\n@@ -105,0 +105,1 @@\n+            } finally {\n@@ -108,2 +109,0 @@\n-            holdAlot.clear();\n-            System.gc();\n","filename":"test\/jdk\/com\/sun\/jdi\/FinalizerTest.java","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
