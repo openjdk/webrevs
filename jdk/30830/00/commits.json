@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382588: AArch64: Sync aarch64_vector.ad with aarch64_vector_ad.m4 after JDK-8382039\n\nJDK-8382039 modified only the aarch64_vector.ad file and not the\ncorresponding m4 file. In this patch, we sync both the files."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_vector_ad.m4"}],"sha":"04d2dfc04214d42199278757468a4c23c684fd2a"}]
