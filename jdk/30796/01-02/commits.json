@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add -XX:-AbortVMOnAOTCodeFailure to AOTCodeCompressedOopsTest\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCode\/AOTCodeCompressedOopsTest.java"}],"sha":"60b17f3057cd5e9b37845c4fc9df11f26f4947d4"}]

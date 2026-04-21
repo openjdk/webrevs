@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -137,0 +137,1 @@\n+                                        \"-XX:-AbortVMOnAOTCodeFailure\",\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCode\/AOTCodeCompressedOopsTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
