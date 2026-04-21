@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused kscratch temp register from mask_opers_evex\n\nThe kReg scratch operand was declared as TEMP but never referenced\nin the encoding block, needlessly reserving a k-register and\npotentially causing unnecessary spilling."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"75d3d2372d4f879bd716808a93146d0272c96ea7"}]
