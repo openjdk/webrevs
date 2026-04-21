@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382560: [lworld] Unsafe access to klass name in SystemDictionary::try_preload_from_loadable_descriptors"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionary.cpp"}],"sha":"22f68cb2d24ae2aab057093e9223a4cc98a4adfc"}]
