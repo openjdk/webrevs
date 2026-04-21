@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove the usage of clobber_volatile_registers"},"files":[{"filename":"src\/hotspot\/cpu\/s390\/interp_masm_s390.cpp"},{"filename":"src\/hotspot\/cpu\/s390\/templateInterpreterGenerator_s390.cpp"},{"filename":"src\/hotspot\/cpu\/s390\/templateTable_s390.cpp"}],"sha":"ddf4da6f46c2f457ab8974ab5393b161e4351a64"}]
