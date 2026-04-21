@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -240,1 +240,1 @@\n-    static sealed abstract class AbstractLazyMap<K, V>\n+    static abstract sealed class AbstractLazyMap<K, V>\n","filename":"src\/java.base\/share\/classes\/java\/util\/LazyCollections.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
