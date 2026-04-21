@@ -1,0 +1,1 @@
+[{"commit":{"message":"1. Fix the comments about the senond attemt trigger finalize(); 2. Replaced finalizerRun as FINALIZER_DONE.getCount()"},"files":[{"filename":"test\/jdk\/com\/sun\/jdi\/FinalizerTest.java"}],"sha":"43872d0d19c021294d1551a3ccf298924a1ff661"}]
