@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382490: RISC-V: Clean up redundant restore_locals() in TemplateTable::invokeinterface"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/templateTable_riscv.cpp"}],"sha":"43cacbc0c55b8a384ff8822a9e71495fc1d5f7b8"}]
