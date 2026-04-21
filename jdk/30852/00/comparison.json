@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @library \/test\/lib\n+ * @library \/test\/lib \/test\/setup_aot\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/AOTCacheConsistency.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
