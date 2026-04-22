@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert the content of closeAll method;\nCall closeAll on every test loop iteration in addition to the finally clause;"},"files":[{"filename":"test\/jdk\/java\/awt\/Modal\/ModalBlockingTests\/UnblockedDialogTest.java"}],"sha":"5e9f17f064c8871bdbcf61f874660b47534db236"}]
