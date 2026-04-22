@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -131,4 +131,0 @@\n-        }\n-        try {\n-            db.getElemFloat(index);\n-        } catch (ArrayIndexOutOfBoundsException e) {\n","filename":"test\/jdk\/java\/awt\/image\/DataBuffer\/DataBufferGetSetElemTest.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
