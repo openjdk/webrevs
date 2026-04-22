@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -435,0 +435,2 @@\n+     * @throws ArrayIndexOutOfBoundsException if {@code bank} is not a valid bank index,\n+     *         or {@code (i + getOffsets()[bank])} is not a valid index into the bank.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/DataBuffer.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
