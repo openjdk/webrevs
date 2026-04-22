@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix read of modules via fast path API"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/jimage\/ImageReader.java"},{"filename":"test\/jdk\/jdk\/internal\/jimage\/ImageReaderTest.java"}],"sha":"7c74f0a9788b4696fa984de2b67e9b310c7fa99a"}]
