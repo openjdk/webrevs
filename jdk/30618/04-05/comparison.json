@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5891,0 +5891,1 @@\n+\/\/ There are 6 volatile registers on s390 R0 to R5 (excluding R14).\n","filename":"src\/hotspot\/cpu\/s390\/macroAssembler_s390.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
