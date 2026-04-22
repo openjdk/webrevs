@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4858,0 +4858,3 @@\n+      if (use->is_Phi() && (((uint) _compile->get_alias_index(use->as_Phi()->adr_type()) < new_index_start))) {\n+          orig_phis.append_if_missing(use->as_Phi());\n+      }\n","filename":"src\/hotspot\/share\/opto\/escape.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
