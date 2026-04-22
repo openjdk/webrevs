@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,0 @@\n-    private ProcessingEnvironment processingEnv = null;\n@@ -100,1 +99,0 @@\n-        this.processingEnv = processingEnv;\n","filename":"make\/jdk\/src\/classes\/build\/tools\/valhalla\/valuetypes\/GenValueClasses.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
