@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -197,1 +197,1 @@\n-    assert(next_addr == limit, \"Should stop the scan at the limit.\");\n+    assert(next_addr == limit, \"Should stop the scan at the limit. r %u (%s)\", hrm_index(), get_short_type_str());\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HeapRegion.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
