@@ -1,0 +1,1 @@
+[{"commit":{"message":"8379722: C2: assert that result is used for CallLeafPureNode in final graph reshaping"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"5e2eca3f91ff6e943bdab8465e905e38fd812edc"}]
