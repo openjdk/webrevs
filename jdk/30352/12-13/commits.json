@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix crash in DirectiveSet::release() after merging tip"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"}],"sha":"c64e0d6f27c93103a7e303131d4c448baa37ad18"}]
