@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix JDK-8382877."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Check.java"},{"filename":"test\/langtools\/tools\/javac\/warnings\/HeapPollutionParam.java"},{"filename":"test\/langtools\/tools\/javac\/warnings\/HeapPollutionParam.out"}],"sha":"00ad2518e35a56c53c30381974fdb4c15f1232d0"}]
