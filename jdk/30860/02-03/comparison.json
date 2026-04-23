@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -211,1 +211,1 @@\n-  size_t align = next_power_of_2(ShenandoahHeapRegion::MAX_REGION_SIZE);\n+  size_t align = ShenandoahHeapRegion::MAX_REGION_SIZE;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahArguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
