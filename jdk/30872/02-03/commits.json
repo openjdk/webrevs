@@ -1,0 +1,1 @@
+[{"commit":{"message":"* suggestion from walulyai: make G1VerifyBitmaps a diagnostic flag, remove previous change"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1_globals.hpp"},{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestVerifyGCType.java"}],"sha":"d20badf7ed70c81c2b9b19f04b959503def8338b"}]
