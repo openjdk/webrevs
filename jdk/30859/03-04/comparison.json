@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -140,1 +140,1 @@\n-            LOGGER.info(\"Tainting the socket...\");\n+            LOGGER.info(\"Writing data to the socket...\");\n","filename":"test\/jdk\/sun\/net\/www\/http\/HttpClient\/IsAvailable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
