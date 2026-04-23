@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -358,1 +358,1 @@\n-      return ((~(trap_request) >> _debug_id_shift) & right_n_bits(_debug_id_bits));\n+      return (~(trap_request) >> _debug_id_shift) & right_n_bits<int>(_debug_id_bits);\n","filename":"src\/hotspot\/share\/runtime\/deoptimization.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
