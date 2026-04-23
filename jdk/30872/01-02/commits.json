@@ -1,0 +1,1 @@
+[{"commit":{"message":"* only add G1VerifyBitmaps in debug builds because it is a develop option"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestVerifyGCType.java"}],"sha":"da6851b8b1963ce28fda58370fad47bbb839b665"}]
