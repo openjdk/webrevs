@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -513,1 +513,1 @@\n-     * If a value is not available, either a {@code null} or {@code 0} is stored.\n+     * If a value is not available, either a {@code null} or {@code -1} is stored.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/ProcessHandleImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
