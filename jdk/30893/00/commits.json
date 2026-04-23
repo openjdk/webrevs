@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382878: RISC-V: Missing InlineSkippedInstructionsCounter in ZGC barriers stubs"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/z\/zBarrierSetAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/gc\/z\/z_riscv.ad"}],"sha":"d1b60e23dbfc347ae6a2538efcb16559022606c1"}]
