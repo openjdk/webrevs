@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into ScanOops"},"files":[],"sha":"48043a0a5cd9442cb6ef9d1d9c5b0f5add7ad923"},{"commit":{"message":"Scan for session oop before deoptimizing"},"files":[{"filename":"src\/hotspot\/share\/prims\/scopedMemoryAccess.cpp"}],"sha":"b017e6999e06ddb0e09f491c6d70b2a42df8a38b"}]
