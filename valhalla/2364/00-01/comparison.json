@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,4 +46,1 @@\n-\n-  ciKlass* exact_klass() override {\n-    return this;\n-  }\n+  ciKlass* exact_klass() override { return this; }\n","filename":"src\/hotspot\/share\/ci\/ciRefArrayKlass.hpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
