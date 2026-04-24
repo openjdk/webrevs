@@ -1,0 +1,1 @@
+[{"commit":{"message":"Split AVX10.2 and non-AVX10.2 min\/max floating point reduction into separate code paths."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"23ae1990382d748bd9e85a819268e2f88690bd61"}]
