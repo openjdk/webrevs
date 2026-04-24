@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2894,1 +2894,5 @@\n-  return JFR_ONLY(Jfr::epoch_generation_offset();) NOT_JFR_RETURN_(0);\n+#if INCLUDE_JFR\n+  return Jfr::epoch_generation_offset();\n+#else\n+  return 0;\n+#endif\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
