@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix negative compile level bitmask handling for CompileCommand-s."},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerOracle.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/compilercontrol\/commands\/CompileLevelParseTest.java"}],"sha":"9c7979f924ed21fc25d3f7ff2b25e988838f7bc2"}]
