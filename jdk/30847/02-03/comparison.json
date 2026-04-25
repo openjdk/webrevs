@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -302,0 +302,2 @@\n+            \/\/ The above Assumptions.abort(...) call makes this \"return\" unreachable, but we keep\n+            \/\/ the \"return\" for code clarity.\n","filename":"test\/jdk\/tools\/jar\/JarExtractTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
