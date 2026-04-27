@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -212,0 +212,1 @@\n+    [dialogDelegate retain];\n@@ -221,0 +222,1 @@\n+    [dialogDelegate release];\n","filename":"src\/java.desktop\/macosx\/native\/libawt_lwawt\/awt\/CFileDialog.m","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
