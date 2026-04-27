@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1730,1 +1730,1 @@\n-  mp_int  tmp;\n+  mp_int  tmp = {0};\n","filename":"src\/jdk.crypto.ec\/share\/native\/libsunec\/impl\/mpi.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
