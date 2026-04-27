@@ -1,0 +1,1 @@
+[{"commit":{"message":"Implementation of 8313713 has been changed to use 0\/1-based bitmasks (e.g. 1110 instead of 14) in the corresponding -XX:CompileCommand options"},"files":[{"filename":"src\/java.base\/share\/man\/java.md"}],"sha":"180288152f8da773629113668eb4feef9c3e01aa"}]
