@@ -1,0 +1,1 @@
+[{"commit":{"message":"Read region state once to avoid benign races"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahFreeSet.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.hpp"}],"sha":"2ab9d3d70c04b909cb41121a9f44648baa276a3e"}]
