@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -890,0 +890,1 @@\n+      assert(map == kit.map(), \"broken if map changes\");\n","filename":"src\/hotspot\/share\/opto\/parse1.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
