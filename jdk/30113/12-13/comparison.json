@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -955,1 +955,1 @@\n- * We must insert the logical resut {@code byte[2]:16} into\n+ * We must insert the logical result {@code byte[2]:16} into\n","filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/Vector.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
