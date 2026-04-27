@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n-    public static void main() {\n+    public static void main(String[] args) {\n","filename":"test\/jdk\/jdk\/crac\/ignoreRestore\/HelloWorld.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
