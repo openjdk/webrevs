@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -242,1 +242,1 @@\n-    final String PT = \"PT\"; \/\/ SHORT generic name for \"America\/Los_Angeles\"\n+    final String PT = \"MST\"; \/\/ SHORT generic name for \"America\/Los_Angeles\"\n","filename":"test\/jdk\/java\/util\/PluggableLocale\/TimeZoneNameProviderTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
