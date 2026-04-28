@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,0 @@\n-import jdk.test.lib.jvmti.DebugeeClass;\n@@ -59,1 +58,0 @@\n-        int status = DebugeeClass.TEST_PASSED;\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/SuspendWithObjectMonitorTimedWait\/SuspendWithObjectMonitorTimedWait.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
