@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-        \"lzcnt instruction is not available on this CPU\";\n+        \"LZCNT instruction is not available on this CPU\";\n","filename":"test\/hotspot\/jtreg\/compiler\/arguments\/BMICommandLineOptionTestBase.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

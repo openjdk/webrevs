@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383526: TestUseCountLeadingZerosInstructionOnUnsupportedCPU.java fails on alpine after JDK-8381988\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/arguments\/BMICommandLineOptionTestBase.java"}],"sha":"27fcec37f32ac171c4cb9f6256c412ce0c1ceca7"}]
