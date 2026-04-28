@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2604,4 +2604,0 @@\n-#ifdef ASSERT\n-    \/\/ reset index so we can idenitfy which ones we failed to find\n-    range.init_entry(-2, 0);\n-#endif\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
