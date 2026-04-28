@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383546: HeapReserver::Instance::reserve_heap breaks 32-bit build"},"files":[{"filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp"}],"sha":"2b76ae4f83b14ee4d909a7788d6ac8ecfc85da8e"}]

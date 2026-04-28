@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -659,1 +659,0 @@\n-  if (UseCompressedOops) {\n@@ -661,0 +660,1 @@\n+  if (UseCompressedOops) {\n@@ -662,0 +662,1 @@\n+  } else\n@@ -663,1 +664,1 @@\n-  } else {\n+  {\n","filename":"src\/hotspot\/share\/memory\/memoryReserver.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
