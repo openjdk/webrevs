@@ -1,0 +1,1 @@
+[{"commit":{"message":"Call reinitialize_ptrue in call_VM_leaf_base"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"}],"sha":"745ebf1cb18496d91f6cf67822ea9467b2b4c14a"}]
