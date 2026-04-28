@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383173: Adjust CopyAVX3Threshold for AMD AVX512 targets"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"}],"sha":"939ff0031dd05737ca80efc5f64bcb2a41a7f8fd"}]
