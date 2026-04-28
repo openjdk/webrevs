@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1152,1 +1152,1 @@\n-    assert(num_workers > 0, \"no more remaining root regions to process\");\n+    guarantee(num_workers > 0, \"no more remaining root regions to process\");\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
