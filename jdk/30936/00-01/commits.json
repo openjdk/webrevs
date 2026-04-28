@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use std::atomic for shared variables"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/jni\/critical\/libSuspendInCritical.cpp"}],"sha":"e5214b8e705437bde86236ccd865389fae631b86"}]
