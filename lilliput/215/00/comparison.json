@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,1 @@\n+    if (distance == 0) return x;\n@@ -65,0 +66,1 @@\n+    if (distance == 0) return x;\n","filename":"src\/hotspot\/share\/utilities\/fastHash.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
