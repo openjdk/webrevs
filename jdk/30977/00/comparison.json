@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-    assert(index >= 0 && index < argument_count(), \"invariant\");\n+    assert(index < argument_count(), \"invariant\");\n","filename":"src\/hotspot\/share\/oops\/bsmAttribute.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
