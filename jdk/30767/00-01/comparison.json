@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -283,1 +283,1 @@\n-            char borderChar = '\\u2700';\n+            char borderChar = '\\u2500';\n","filename":"src\/jdk.internal.le\/share\/classes\/jdk\/internal\/org\/jline\/utils\/Status.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
