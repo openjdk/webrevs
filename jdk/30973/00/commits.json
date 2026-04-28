@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make safefetch return error value when accessing pages protected with PAGE_GUARD"},"files":[{"filename":"src\/hotspot\/os\/windows\/safefetch_static_windows.cpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_os_windows.cpp"}],"sha":"d9655abdfd926f667213bdffd6dc1d7b5b6e7015"}]
