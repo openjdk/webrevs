@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -268,0 +268,1 @@\n+  assert(Compile::current()->have_alias_type(adr_type), \"alias index should have been allocated already\");\n","filename":"src\/hotspot\/share\/opto\/multnode.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
