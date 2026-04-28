@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -500,1 +500,4 @@\n-  }\n+\n+    \/\/ Must ensure the content of the buffered value is visible\n+    \/\/ before publishing the buffered value oop\n+    OrderAccess::storestore();  }\n","filename":"src\/hotspot\/share\/prims\/jvmtiImpl.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
