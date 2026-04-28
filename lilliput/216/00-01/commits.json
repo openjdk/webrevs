@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace required reviewers with committers\n\nLilliput project has no reviewers. Instead use committers, like\nValhalla does -\nhttps:\/\/github.com\/openjdk\/valhalla\/blob\/lworld\/.jcheck\/conf#L23C1-L23C13."},"files":[{"filename":".jcheck\/conf"}],"sha":"096c2bf742e535c819fb7a60695790e994951550"}]
