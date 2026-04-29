@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383550: AsyncExceptionHandshakeClosure::do_thread() should not be passed nullptr"},"files":[{"filename":"src\/hotspot\/share\/runtime\/handshake.cpp"},{"filename":"src\/hotspot\/share\/runtime\/javaThread.inline.hpp"}],"sha":"11e080ad6a986f8d131716e087b90c8e2fdbe922"}]
