@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,1 +34,1 @@\n- * @requires vm.gc != \"Z\"\n+ * @requires vm.gc != \"Z\" & (vm.opt.RestrictContended == null | vm.opt.RestrictContended == \"false\")\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/ContendedFlatFieldOopMap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
