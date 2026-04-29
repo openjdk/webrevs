@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert the initial value of _requested_gc_cause"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"}],"sha":"f69db17dc77bc0f9571b7af719e98047d03e14e6"}]

@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,1 +45,1 @@\n-  _requested_gc_cause(GCCause::_no_gc),\n+  _requested_gc_cause(GCCause::_no_cause_specified),\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
