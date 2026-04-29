@@ -1,0 +1,1 @@
+[{"commit":{"message":"change print_class_layout to use external class names"},"files":[{"filename":"src\/hotspot\/share\/memory\/heapInspection.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/ClassPrintLayoutDcmd.java"}],"sha":"2bdaa6398499e006f802ea4115cc294188855f6b"}]
