@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7216,0 +7216,2 @@\n+  assert(src != dst, \"did not expect src and dst to be the same register\");\n+\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
