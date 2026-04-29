@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -174,1 +174,1 @@\n-            throw new SkippedException(\"Failed to get file contents for \" + subSystem + \" \" + metric);\n+            return RETVAL_UNAVAILABLE;\n","filename":"test\/lib\/jdk\/test\/lib\/containers\/cgroup\/MetricsTesterCgroupV1.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
