@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-\/\/ Forward declaration of a funciton defined in javaThread_windows_aarch64.cpp.\n+\/\/ Forward declaration of a function defined in javaThread_windows_aarch64.cpp.\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
