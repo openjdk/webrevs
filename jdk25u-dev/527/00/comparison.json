@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -574,1 +574,1 @@\n-    SpaceMangler::mangle_region(MemRegion(bottom(), end()));\n+    SpaceMangler::mangle_region(MemRegion(bottom(), top()));\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeapRegion.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
