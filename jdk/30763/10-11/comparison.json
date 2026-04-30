@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -276,1 +276,1 @@\n-                if (ppid == java_lang_ProcessHandleImpl_ALL_CHILDREN_PID ||\n+                if (jpid == java_lang_ProcessHandleImpl_ALL_CHILDREN_PID ||\n","filename":"src\/java.base\/windows\/native\/libjava\/ProcessHandleImpl_win.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
