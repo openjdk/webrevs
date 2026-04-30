@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -580,1 +580,1 @@\n-    @SuppressWarnings(\"preview\")\n+    @SuppressWarnings(\"preview\") \/\/ allow use of VALUE_CLASS when building jdk.compiler.interim\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Flags.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
