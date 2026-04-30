@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n- * @run main\/othervm -XX:-RestrictContended\n+ * @run main\/othervm -XX:+UnlockDiagnosticVMOptions -XX:-RestrictContended\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/ContendedFlatFieldOopMap.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
