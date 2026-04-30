@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add `ResourceMark` RAII to guard allocation in lookup function"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_perf_windows.cpp"}],"sha":"758af3015150fc3b962f7072c17b3feda3ae2b9b"}]
