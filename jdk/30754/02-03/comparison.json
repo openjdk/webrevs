@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1174,0 +1174,2 @@\n+     * @throws  IllegalStateException if the client\/server mode\n+     *          has not yet been set.\n","filename":"src\/java.base\/share\/classes\/javax\/net\/ssl\/SSLEngine.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
