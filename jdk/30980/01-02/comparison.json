@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -381,1 +381,1 @@\n-    \/\/ unmounted vthread, execute closure with the continuation\n+    \/\/ unmounted vthread, execute closure with the current thread\n","filename":"src\/hotspot\/share\/runtime\/handshake.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
