@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,0 +80,1 @@\n+            {\"secret.foo.com\", \"s**.foo.com\"},\n","filename":"test\/jdk\/javax\/net\/ssl\/ServerName\/SNIWildcardMatching.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
