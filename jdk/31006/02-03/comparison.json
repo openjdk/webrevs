@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -660,0 +660,2 @@\n+\n+        \/\/ CLDR is guaranteed to implement ResourceBundleBasedAdapter\n","filename":"src\/java.base\/share\/classes\/sun\/util\/locale\/provider\/LocaleResources.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
