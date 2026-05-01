@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3172,0 +3172,2 @@\n+                    exclude \"**\/*swt*-sources.jar\"\n+                    exclude \"**\/*swt*-javadoc.jar\"\n","filename":"build.gradle","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
