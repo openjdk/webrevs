@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reserve mutator alloc regions after abbreviated degenerated GC"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahDegeneratedGC.cpp"}],"sha":"e74b30da265829f1414cb69754790ebf52ae4217"}]
