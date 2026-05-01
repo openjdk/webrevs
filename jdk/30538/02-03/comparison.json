@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,1 @@\n-                if (e.getCause() instanceof SocketException && closeServer) {\n+                if (e instanceof SocketException && closeServer) {\n","filename":"test\/jdk\/javax\/net\/ssl\/TLS\/JSSEServer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
