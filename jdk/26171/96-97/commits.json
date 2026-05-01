@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix: new jtreg tests miss -XX:+UnlockDiagnosticVMOptions"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/TestCASAllocContention.java"},{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/options\/TestAllocRegions.java"}],"sha":"ff321f373fb942f5907af1860ee2facde70cdaea"}]
