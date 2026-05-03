@@ -1,0 +1,1 @@
+[{"commit":{"message":"specify existing behaviour of throwing IOException when stream is already closed"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPInputStream.java"}],"sha":"ce0c683b136ddee8c45ab2e3e610e1c871fc0ae3"}]
