@@ -1,0 +1,1 @@
+[{"commit":{"message":"introduce test to verify read() throws IOException when invoked on closed stream"},"files":[{"filename":"test\/jdk\/java\/util\/zip\/GZIP\/BasicGZIPInputStreamTest.java"}],"sha":"39ba6bc72c4be2b416d67ce75d2c57824218305a"}]
