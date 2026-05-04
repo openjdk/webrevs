@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove retain setting; add linker flag to keep Metadata vtable"},"files":[{"filename":"make\/hotspot\/lib\/JvmFeatures.gmk"},{"filename":"src\/hotspot\/share\/oops\/metadata.hpp"}],"sha":"a19151ebb9044cde812edf88a32745b39557d866"}]
