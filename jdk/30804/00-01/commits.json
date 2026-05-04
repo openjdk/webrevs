@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed the duplicate provider configure call inside doLoadProvider()\nmethod."},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/jca\/ProviderConfig.java"}],"sha":"a6e4460a9cbce927cfea70116a69df34b16a97ab"}]
