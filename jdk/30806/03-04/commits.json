@@ -1,0 +1,1 @@
+[{"commit":{"message":"Re-combine code paths and use near jumps instead of short jumps to make compiler align loop block address to 32 bytes instead of 16 bytes."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"fbee7d34526625baaec86cdf3099f502fa0cfdba"}]
