@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1188,3 +1188,1 @@\n-  bool result = matcher.directive_set()->PrintAssemblyOption;\n-\n-  return result;\n+  return matcher.directive_set()->PrintAssemblyOption;\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
