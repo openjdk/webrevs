@@ -1,0 +1,1 @@
+[{"commit":{"message":"CAS already keeps the \"old\" value alive, no need to pollute SATB with it"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp"}],"sha":"6a066b601493b6d6dde1a10e12a4d565ae07277a"}]
