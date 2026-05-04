@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -880,2 +880,1 @@\n-  bool exclude = matcher.directive_set()->ExcludeOption;\n-  return exclude;\n+  return matcher.directive_set()->ExcludeOption;\n","filename":"src\/hotspot\/share\/prims\/whitebox.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
