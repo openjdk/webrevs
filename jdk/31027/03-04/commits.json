@@ -1,0 +1,1 @@
+[{"commit":{"message":"Actually, still need SATB for CAS, as it overwrites stuff and needs to maintain SATB invariants"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp"}],"sha":"e926dc9a521ec198a8f1c5f1e9b89127e2e9021d"}]
