@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -161,1 +161,1 @@\n-     *                               the number of banks in this sample model.\n+     *                               the number of bands in this sample model.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/PixelInterleavedSampleModel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
