@@ -1,0 +1,1 @@
+[{"commit":{"message":"8320353: Fixed build issue on aarch64 and riscv64-debug"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.hpp"},{"filename":"src\/hotspot\/share\/runtime\/safepointMechanism.cpp"}],"sha":"2fdef1258552cbe397784891dc0acaa47d60a603"}]
