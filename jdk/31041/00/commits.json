@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383861: Shenandoah: ShenandoahObjArrayAllocator should use intArrayKlass as filling class for object array when compressed oops is enabled"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahObjArrayAllocator.cpp"}],"sha":"456b368ed81c9bd863376b84eab8ed77d0ccd04a"}]
