@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383881: Remove checks for sse and sse2 on x86-64\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"af86c0973ff11fe19da1a21db6cf7abb33096919"}]
