@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1128,2 +1128,0 @@\n-            \/\/ this method is only called if we can find the module\n-            \/\/ in the first place, so it will always be present\n","filename":"src\/java.base\/share\/classes\/sun\/launcher\/LauncherHelper.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
