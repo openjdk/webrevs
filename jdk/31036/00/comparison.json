@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1332,1 +1332,0 @@\n-#undef __\n@@ -1335,0 +1334,1 @@\n+#undef __\n","filename":"src\/hotspot\/cpu\/x86\/gc\/z\/zBarrierSetAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
