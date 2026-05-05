@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix regression in type-class mediated shift operation"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Operators.java"},{"filename":"test\/langtools\/tools\/javac\/typeClasses\/TypeClassesOperatorResolutionTest.java"}],"sha":"e34a31c97acabcee0077b9b6a1de9118fa90bb48"}]
