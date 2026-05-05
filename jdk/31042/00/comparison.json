@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -25,0 +25,1 @@\n+import static jdk.test.lib.Asserts.fail;\n@@ -121,1 +122,1 @@\n-                    System.err.println(\"Error running \"\n+                    fail(\"Error running \"\n","filename":"test\/jdk\/javax\/net\/ssl\/ServerName\/SNIWildcardMatching.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
