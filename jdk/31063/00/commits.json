@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8383825: Incorrect handling of Hawaii_Aleutian metazone\"\n\nThis reverts commit e3241741484fff5f1504585241d90236e7b5186b."},"files":[{"filename":"make\/jdk\/src\/classes\/build\/tools\/cldrconverter\/CLDRConverter.java"}],"sha":"7716452686aed8a0d2949214bd935743a434d783"}]
