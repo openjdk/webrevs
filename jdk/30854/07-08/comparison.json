@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,1 @@\n-          \"marking cycles. A value of 100 disables concurrent marking. \"    \\\n+          \"cycles. A value of 100 disables concurrent cycles. \"             \\\n","filename":"src\/hotspot\/share\/gc\/g1\/g1_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
