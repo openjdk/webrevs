@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,2 +63,1 @@\n-  serviceability \\\n-  serviceability\/revival\n+  serviceability\n@@ -618,1 +617,0 @@\n-  serviceability\/revival \\\n@@ -675,1 +673,0 @@\n-  serviceability\/revival \\\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
