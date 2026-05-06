@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use `ptrdiff_t` instead of `int64_t` for result of pointer subtraction"},"files":[{"filename":"src\/hotspot\/os_cpu\/windows_aarch64\/javaThread_windows_aarch64.cpp"},{"filename":"src\/hotspot\/os_cpu\/windows_aarch64\/javaThread_windows_aarch64.hpp"}],"sha":"fe308d1389aeb9aa88a267acfb177771d84ab7e2"}]
