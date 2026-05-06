@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into opt-binsearch-avx2-8380841"},"files":[],"sha":"699412d1069b2064bb70cc1cecd98a18dc5c8a47"},{"commit":{"message":"8380841: Add AVX2 optimized intrinsic for binarySearch on primitive arrays"},"files":[],"sha":"14980904ff1c2b76a2d972a6eff3aa0b4d9eb1f8"}]
