@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,1 +89,1 @@\n-        int minCount = (int) floor(OBJECTS_TO_ALLOCATE * 0.80);\n+        int minCount = (int) floor(OBJECTS_TO_ALLOCATE * 0.75);\n","filename":"test\/jdk\/jdk\/jfr\/event\/allocation\/TestObjectAllocationInNewTLABEvent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
