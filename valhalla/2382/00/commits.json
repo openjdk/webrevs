@@ -1,0 +1,1 @@
+[{"commit":{"message":"[lworld] Fix zero accessor"},"files":[{"filename":"src\/hotspot\/cpu\/zero\/zeroInterpreter_zero.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/FlatFieldAccessorMethods.java"},{"filename":"test\/jdk\/java\/foreign\/enablenativeaccess\/TestEnableNativeAccessJarManifest.java"}],"sha":"352d15b9806097318aa7ceb2c2d32131a72efbcd"}]
