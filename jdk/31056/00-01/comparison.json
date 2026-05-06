@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -606,1 +606,1 @@\n-            if (max > count) {\n+            if (count < max) {\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/vm\/ThreadDumper.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
