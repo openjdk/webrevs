@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,0 +88,1 @@\n+    assert(filling_element_byte_size == type2aelembytes(element_type), \"filling element size must match ref size\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahObjArrayAllocator.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
