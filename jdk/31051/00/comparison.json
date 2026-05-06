@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,2 @@\n- -:hotspot_containers\n+ -:hotspot_containers \\\n+ -:hotspot_resourcehogs\n","filename":"test\/hotspot\/jtreg\/TEST.groups","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
