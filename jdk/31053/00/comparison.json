@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-      return mark_acquire().klass();\n+      return mark_acquire().klass_or_null();\n","filename":"src\/hotspot\/share\/oops\/oop.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
