@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,0 +111,1 @@\n+    DEBUG_ONLY(guarantee(thread != nullptr, \"Must be\");)\n","filename":"src\/hotspot\/share\/runtime\/interfaceSupport.inline.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
