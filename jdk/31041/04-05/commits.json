@@ -1,0 +1,1 @@
+[{"commit":{"message":"nit: pack #ifdef into one-liner with LP64_ONLY and NOT_LP64"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahObjArrayAllocator.cpp"}],"sha":"90b9bb5164d9638b8d2ba013c15e9a0b3b9ef7a5"}]
