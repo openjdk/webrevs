@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -150,1 +150,1 @@\n-      return nullptr;\n+      \/\/return nullptr;\n","filename":"src\/hotspot\/share\/opto\/ifnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
