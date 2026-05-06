@@ -1,0 +1,1 @@
+[{"commit":{"message":"TableStatistics not static, remove Windows special case"},"files":[{"filename":"src\/hotspot\/share\/classfile\/dictionary.cpp"},{"filename":"src\/hotspot\/share\/classfile\/stringTable.cpp"},{"filename":"src\/hotspot\/share\/classfile\/symbolTable.cpp"}],"sha":"d4be54ece2370180bdae726c88bd8fc915b6c684"}]
