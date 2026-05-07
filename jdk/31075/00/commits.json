@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384098\n\nHi all,\n\n  please review this trivial typo fix to change the local named `elasped_time` to `elapsed_time`\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/memory\/universe.cpp"}],"sha":"861df2a190bfa5a0c8562894cf468a46707e6239"}]
