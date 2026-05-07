@@ -1,0 +1,1 @@
+[{"commit":{"message":"compare-and-set checks don't need to look at field type"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java"}],"sha":"644a57b3762d3470298f59fc6a7dfb5528cec78f"}]
