@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,1 +97,1 @@\n-  $(foreach d, $(call FindModuleValueClassSrcDirs, $m), \\\n+  $(foreach d, $(call FindModulePreviewSrcDirs, $m), \\\n","filename":"make\/ZipSource.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
