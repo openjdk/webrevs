@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename shared_init_state to cached_init_state"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciEnv.hpp"},{"filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciObjectFactory.cpp"},{"filename":"src\/hotspot\/share\/ci\/ciObjectFactory.hpp"}],"sha":"b4ec4d860f299e1a96f22f05616cc1f30fbf9661"}]
