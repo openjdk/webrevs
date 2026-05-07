@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -283,1 +283,1 @@\n-  VMOp_Type type() const { return VMOp_PrintClassHierarchy; }\n+  VMOp_Type type() const { return VMOp_ClassPrintLayout; }\n","filename":"src\/hotspot\/share\/runtime\/vmOperations.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
