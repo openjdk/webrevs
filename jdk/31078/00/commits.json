@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384095: [ppc64] assert(is_MachTemp() || res->isa_ptr() == nullptr) failed: must not be a pointer"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"5c561a379191c916cb2e2a81b5d7c70a8c2a6497"}]
