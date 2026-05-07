@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -145,0 +145,5 @@\n+    } else {\n+      GUARDED_VM_ENTRY(\n+        InstanceKlass* ik = get_instanceKlass();\n+        _init_state = ik->init_state();\n+      )\n","filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
