@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-extern \"C\" int64_t _jvm_thr_current_tls_offset = JavaThread::get_thr_tls_offset();\n+extern \"C\" ptrdiff_t _jvm_thr_current_tls_offset = JavaThread::get_thr_tls_offset();\n","filename":"src\/hotspot\/os_cpu\/windows_aarch64\/javaThread_windows_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
