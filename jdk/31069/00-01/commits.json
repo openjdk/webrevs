@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make dlopen_helper a static function\n\nThis work is sponsored by The FreeBSD Foundation"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"src\/hotspot\/os\/bsd\/os_bsd.hpp"}],"sha":"64615c7cfc625a3b2bc1883ba45da8b6824cdc77"}]
