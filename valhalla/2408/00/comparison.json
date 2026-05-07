@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -292,0 +292,1 @@\n+      set_extended_sig(nullptr);\n","filename":"src\/hotspot\/share\/oops\/inlineKlass.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
