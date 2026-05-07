@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused enum and feature test function for mmx and sse\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"}],"sha":"3a3203a6660863003691a85775c912bba4c75d2c"}]
