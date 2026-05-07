@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -703,1 +703,1 @@\n-                path = log.currentSource().getFile().toUri().toString();\n+                path = log.currentSource().getFile().getName();\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/internal\/ReflectMethods.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
