@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384145\n\nHi all,\n\n  please review this change that lets the build always use the default collector.\n\nTesting: see CR\/comment for performance numbers (or PR#31049)\n\nThanks,\n  Thomas"},"files":[{"filename":"make\/RunTestsPrebuiltSpec.gmk"},{"filename":"make\/autoconf\/boot-jdk.m4"}],"sha":"b6312a2e49eb5e94b49a1534f4b22caa2649064e"}]
