@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5893,1 +5893,1 @@\n-              the value_ptr is set to a snapshot of the object.\n+              the value_ptr is set to a snapshot of the \"<code>this<\/code>\" object.\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
