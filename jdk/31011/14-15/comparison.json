@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+#ifndef TRUE\n@@ -34,0 +35,2 @@\n+#endif\n+#ifndef FALSE\n@@ -35,0 +38,1 @@\n+#endif\n","filename":"src\/jdk.attach\/share\/native\/librevival_support\/revival_support.c","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
