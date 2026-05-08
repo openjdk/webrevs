@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2165,4 +2165,0 @@\n-  if (live_nodes() > (uint)LiveNodeCountInliningCutoff) {\n-    _vector_late_inlines.clear();\n-    return;\n-  }\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
