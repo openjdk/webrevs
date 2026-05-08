@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -655,1 +655,1 @@\n-     * with a {@code CFBundleDocumentTypes} array present in its\n+     * with a {@code CFBundleURLTypes} array present in its\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/Desktop.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
