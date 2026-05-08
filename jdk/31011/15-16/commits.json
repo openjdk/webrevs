@@ -1,0 +1,1 @@
+[{"commit":{"message":"only use _s_vm_release_global, no need to use mangled version on Linux"},"files":[{"filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.cpp"},{"filename":"src\/jdk.attach\/share\/native\/revivalhelper\/revival.hpp"}],"sha":"bbff7cfe519ad5903f9e8b62bd33c1ba475bba27"}]
