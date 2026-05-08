@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382041: ZGC: Regressions in 27+16 after JDK-8363996"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zIterator.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zIterator.inline.hpp"},{"filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp"}],"sha":"e98788538615e3cc62b2d8f2ae9229fc2515a5ae"}]
