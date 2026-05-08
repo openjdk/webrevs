@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -159,0 +159,2 @@\n+     * @implSpec The default implementation of this method always throws {@link UnsupportedOperationException}\n+     *\n","filename":"src\/jdk.attach\/share\/classes\/com\/sun\/tools\/attach\/spi\/AttachProvider.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
