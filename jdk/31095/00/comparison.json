@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -259,4 +259,1 @@\n-      const char* info = processes->command_line();\n-      if (info == nullptr) {\n-         info = processes->path();\n-      }\n+      const char* info = processes->path();\n","filename":"src\/hotspot\/share\/jfr\/periodic\/jfrPeriodic.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
