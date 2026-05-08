@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,0 @@\n-        tree.putClientProperty(\"html.disable\", Boolean.TRUE);\n","filename":"src\/jdk.jconsole\/share\/classes\/sun\/tools\/jconsole\/inspector\/XTreeRenderer.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
