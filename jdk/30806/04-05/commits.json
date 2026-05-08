@@ -1,0 +1,1 @@
+[{"commit":{"message":"Switch back to short jumps instead of near jumps because loop alignment should be handled separately."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"}],"sha":"64da6981a9fd7cf11c92f529c45c9393f964a88a"}]
