@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use adrp instruction for external_word relocation"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.hpp"}],"sha":"d9db3148c3a2975c56e26cdd7d815ce0847fc689"}]
