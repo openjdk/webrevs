@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384223: RISC-V: entry_barrier_offset should consider UseZtso"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/barrierSetAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/barrierSetNMethod_riscv.cpp"}],"sha":"dbda0b765b41525e7ee45e98b2e63c106fbae1df"}]
