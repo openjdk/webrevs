@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,1 +120,1 @@\n-        System.out.println(\"OS name:    \" + StaticProperty.osName() + \"\\n\" +\n+        System.out.println(\"OS name:    \" + System.getProperty(\"os.name\") + \"\\n\" +\n","filename":"test\/jdk\/java\/io\/File\/createTempFile\/SpecialTempFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
