@@ -1,0 +1,1 @@
+[{"commit":{"message":"8374397: test\/hotspot\/jtreg\/gc\/shenandoah\/options\/TestPassiveModeWithCardBarrier.java fails with -Xcomp after JDK-8369013"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c2\/shenandoahBarrierSetC2.cpp"}],"sha":"30d77515d24fb998bb48bc24ea395f80b4a6b675"}]
