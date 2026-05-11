@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -143,1 +143,1 @@\n-    precond(env != nullptr && env->task() != nullptr);\n+    assert(env->task() != nullptr, \"only calls from compilation are expected here\");\n","filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
