@@ -1,0 +1,1 @@
+[{"commit":{"message":"MaxHeapSizeConstraintFunc should not check CheckMaxHeapSizeAndSoftRefLRUPolicyMSPerMB, rather it will be checked via SoftRefLRUPolicyMSPerMB check at AfterMemoryInit"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/jvmFlagConstraintsGC.cpp"}],"sha":"2c97c795e8420c3450c9cabc547147ed4783bc92"}]
