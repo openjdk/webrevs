@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4741,0 +4741,2 @@\n+  \/\/ This function may be called twice for a node so we can only remove it\n+  \/\/ if it's still existing.\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
