@@ -1,0 +1,1 @@
+[{"commit":{"message":"Relax the check about reasonable_threads_num"},"files":[{"filename":"src\/hotspot\/share\/runtime\/flags\/jvmFlagConstraintsCompiler.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"}],"sha":"d6177ae5fb6713b24ab605a361e3d3adb1a22513"}]
