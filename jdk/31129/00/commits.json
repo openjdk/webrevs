@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384131: Lowering of array enhanced for loop misses a synthetic cast"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"},{"filename":"test\/langtools\/tools\/javac\/foreach\/T8384131.java"}],"sha":"aa7e4b0bc9bad6435a60a834a1c2c5e559a44fd8"}]
