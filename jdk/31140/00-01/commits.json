@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove stale IR test. Adjust name of matching rules."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoah_aarch64.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/gcbarriers\/TestShenandoahBarrierExpansion.java"}],"sha":"b7235d66e83c0dbe49b44ac35766be6e46c649b9"}]
