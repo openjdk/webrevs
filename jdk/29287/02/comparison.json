@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1497,1 +1497,0 @@\n-  __ membar(__ AnyAny);\n@@ -1503,1 +1502,0 @@\n-  __ membar(__ AnyAny);\n@@ -3110,3 +3108,0 @@\n-  if(!UseLSE) {\n-    __ membar(__ AnyAny);\n-  }\n","filename":"src\/hotspot\/cpu\/aarch64\/c1_LIRAssembler_aarch64.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
