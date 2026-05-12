@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,0 +55,1 @@\n+    @ForceInline\n@@ -59,0 +60,1 @@\n+    @ForceInline\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestEffectiveConstantShiftCount.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

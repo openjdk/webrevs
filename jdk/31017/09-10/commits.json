@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add @ForceInline to both longCount and intCount to ensure they are inlined and the test runs reliably"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestEffectiveConstantShiftCount.java"}],"sha":"72afa9f9faec790f678aa335ca8ac0905f3eff48"}]
