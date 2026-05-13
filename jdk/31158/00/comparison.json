@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,2 +49,1 @@\n-  if ((exception_code == EXCEPTION_ACCESS_VIOLATION ||\n-       exception_code == EXCEPTION_GUARD_PAGE) && ctx != nullptr) {\n+  if (ctx != nullptr) {\n","filename":"src\/hotspot\/os\/windows\/safefetch_static_windows.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
