@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2307,1 +2307,1 @@\n-  if (LIKELY(DEBUG_ONLY(!ForceSingleFrameThaw &&) (full_chunk_size < threshold))) {\n+  if (LIKELY(!ForceSingleFrameThaw && (full_chunk_size < threshold))) {\n","filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
