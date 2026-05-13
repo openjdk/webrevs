@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1083,1 +1083,1 @@\n-    __ testb(gc_state_fast, ShenandoahHeap::MARKING);\n+    __ cmpb(gc_state_fast, 0);\n","filename":"src\/hotspot\/cpu\/x86\/gc\/shenandoah\/shenandoahBarrierSetAssembler_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
