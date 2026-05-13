@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384229: Previously accepted code is rejected after JDK-8378102"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Resolve.java"},{"filename":"test\/langtools\/tools\/javac\/recovery\/AttrRecovery.java"}],"sha":"1d8929a9951a142d2b5a2476f14f93161eb04424"}]
