@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,1 +139,1 @@\n-      \/\/ Can replace a loaded type with an unloaded type, but not otherwise\n+      \/\/ Can replace a loaded type with an unloaded type, but not vice versa\n","filename":"src\/hotspot\/share\/opto\/node.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
