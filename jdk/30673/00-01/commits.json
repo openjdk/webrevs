@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoiding javac crash when an invalid limit is sent to LambdaToMethod."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/LambdaToMethod.java"},{"filename":"test\/langtools\/tools\/javac\/lambda\/ManyLambdasSerialization.java"}],"sha":"9ff5c00d28081b8d1e140bea7434618d909cbd31"}]
