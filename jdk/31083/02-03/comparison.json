@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-    const bool is_gc_requested = _gc_requested.is_set();\n+    const bool is_gc_requested = _gc_requested.try_unset();\n@@ -99,1 +99,0 @@\n-      _gc_requested.unset();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
