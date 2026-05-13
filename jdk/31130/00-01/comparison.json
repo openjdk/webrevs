@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -860,4 +860,0 @@\n-            if (SunToolkit.currentEventQueue == topQueue) {\n-                SunToolkit.currentEventQueue = newEventQueue;\n-            }\n-\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/EventQueue.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
