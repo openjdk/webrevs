@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384540: [17u, 21u, 25u] Update GHA JDKs after Apr\/26 updates\n\nBump boot JDK in GitHub Actions workflows from Temurin 21.0.6+7 to\nTemurin 21.0.11+10 for all platforms (Linux x64, macOS aarch64,\nmacOS x64, Windows x64)."},"files":[{"filename":"make\/conf\/github-actions.conf"}],"sha":"bcdd6f02b031d58906a4b47c99fdabc5044a423f"}]
