@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -309,0 +309,4 @@\n+\n+        \/\/ compile again to make sure trap was properly recorded\n+        m.invoke(null, trappingArg);\n+        compile(m); \/\/ COMP_LEVEL_FULL_OPTIMIZATION, C2\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestIntCountedLoopLongLimit.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
