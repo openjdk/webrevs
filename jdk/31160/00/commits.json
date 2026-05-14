@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384132: javac: Cannot read field \"sym\" because \"this.lvar[1]\" is null"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/CaptureScanner.java"},{"filename":"test\/langtools\/tools\/javac\/switchexpr\/LambdaCaptureInStaticInit.java"}],"sha":"b985981ab5b29d3cb4485a8956e2d010b6ac2265"}]
