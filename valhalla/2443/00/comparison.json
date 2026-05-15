@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -14151,1 +14151,1 @@\n-      When preview features are enabled, this event does not supports value object allocations.\n+      When preview features are enabled, this event does not support value object allocations.\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
