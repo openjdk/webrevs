@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4327,1 +4327,1 @@\n-  frame callerFrame = stubFrame.sender(&reg_map);\n+  stubFrame.sender(&reg_map);\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
