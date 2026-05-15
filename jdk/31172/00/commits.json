@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384507: Incorrect vector reassociation for signed saturating addition"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"src\/hotspot\/share\/opto\/vectornode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestIncorrectVectorReassociation.java"}],"sha":"f4e84a855c199c6e612768252553c8eead901492"}]
