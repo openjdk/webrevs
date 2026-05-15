@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -400,0 +400,2 @@\n+    CXXFLAGS_gcc := -fno-rtti -fno-exceptions, \\\n+    CXXFLAGS_clang := -fno-rtti -fno-exceptions, \\\n","filename":"make\/modules\/java.desktop\/lib\/ClientLibraries.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
