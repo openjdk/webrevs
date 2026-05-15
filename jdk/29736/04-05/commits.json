@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure only only fully matched filters are redacted. Remove empty testComplex(). Test last argument redaction of password"},"files":[{"filename":"src\/hotspot\/share\/jfr\/dcmd\/jfrDcmds.cpp"},{"filename":"test\/jdk\/jdk\/jfr\/startupargs\/TestRedact.java"}],"sha":"6e240d5a2d11b6e18746dff23bcfa8c7f444ed29"}]
