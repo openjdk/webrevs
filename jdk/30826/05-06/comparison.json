@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -354,1 +354,1 @@\n-     * @return a new {@code SampleModel} with the same bands of\n+     * @return a new {@code SampleModel} with the same bands as\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/MultiPixelPackedSampleModel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
