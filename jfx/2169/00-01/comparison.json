@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -365,3 +365,0 @@\n-            if (index > -1) {\n-                buttonCell.setItem(null);\n-            }\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/ComboBoxListViewSkin.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
