@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2063,1 +2063,1 @@\n-     * <p>The number of Unicode code points in this character buffer is\n+     * <p> The number of Unicode code points in this character buffer is\n","filename":"src\/java.base\/share\/classes\/java\/nio\/X-Buffer.java.template","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
