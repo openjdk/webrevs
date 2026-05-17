@@ -1,0 +1,1 @@
+[{"commit":{"message":"8368967: C2: refactor DivI\/DivL Identity\/Ideal\/Value to remove code duplication\n\nSigned-off-by: jonghoonpark <dev@jonghoonpark.com>"},"files":[{"filename":"src\/hotspot\/share\/opto\/divnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/divnode.hpp"}],"sha":"6fbaf38111008079cd4a48e27fdbf0717b4b87ef"}]
