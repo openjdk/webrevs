@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -816,1 +816,1 @@\n-  \/\/ A non-virtual implementation for callers that no what kind of heap they have\n+  \/\/ A non-virtual implementation for callers that know what kind of heap they have\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
