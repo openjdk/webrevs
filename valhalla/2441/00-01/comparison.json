@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,1 @@\n-                     \"UseArrayFlattening\", \"true\"})\n+                      \"UseArrayFlattening\", \"true\"})\n","filename":"test\/hotspot\/jtreg\/compiler\/stable\/TestStableArrayMembars.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
