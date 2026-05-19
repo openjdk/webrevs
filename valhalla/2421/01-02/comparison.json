@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-    static class SerV implements Serializable {\n+    static final class SerV implements Serializable {\n","filename":"test\/jdk\/java\/util\/Collections\/Ser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
