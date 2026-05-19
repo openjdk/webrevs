@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384948: Disable DelayAfterInliningCutoff until memory consumption issues are fixed\n\nReviewed-by: thartmann, shade"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"}],"sha":"05acc0b32f9ff3c5cb1d28f7482f634e86c90259"}]
