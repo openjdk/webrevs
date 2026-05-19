@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -549,0 +549,2 @@\n+            exceptionRegionsChange(catchBlocks);\n+\n@@ -555,2 +557,0 @@\n-            exceptionRegionsChange(catchBlocks);\n-\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/bytecode\/BytecodeGenerator.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
