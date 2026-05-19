@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -186,1 +186,1 @@\n-    static boolean lessThan(long x, long y) {\n+    public static boolean lessThan(long x, long y) {\n","filename":"src\/java.base\/share\/classes\/java\/math\/UInt64.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
