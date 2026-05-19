@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make size field private, since it is not used outside of the class"},"files":[{"filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsFileAttributes.java"}],"sha":"1582635643156cbab585857457259cbfe805b323"}]
