@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8384520_membar_merge_fix"},"files":[],"sha":"5e775b34427fef41c8845adecc094c46fb4638e2"},{"commit":{"message":"8384520: AArch64: Prevent out-of-CodeBuffer read in MacroAssembler::membar"},"files":[],"sha":"5c14157802d557ceb00aa42f52230ecad37e7783"}]
