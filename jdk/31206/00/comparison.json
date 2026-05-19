@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -269,1 +269,1 @@\n-  void stub_epilog(StubId stub_id);\n+  void stub_epilog(StubId stub_id) NOT_CDS_RETURN;\n@@ -271,1 +271,1 @@\n-  void check_stored(StubId stub_id);\n+  void check_stored(StubId stub_id) NOT_CDS_RETURN;\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
