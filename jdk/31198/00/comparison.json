@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -513,1 +513,1 @@\n-  product(bool, DelayAfterInliningCutoff, true, DIAGNOSTIC,                 \\\n+  product(bool, DelayAfterInliningCutoff, false, DIAGNOSTIC,                \\\n","filename":"src\/hotspot\/share\/opto\/c2_globals.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
