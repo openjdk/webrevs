@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -303,1 +303,1 @@\n-        return \"a\" + null;\n+        return (String) null + null;\n","filename":"test\/jdk\/jdk\/incubator\/code\/TestConstantExpressionEvaluation.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
