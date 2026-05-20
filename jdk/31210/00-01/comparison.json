@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,2 @@\n- * C to Java.\n+ * C to Java, with a fix to pow so that its error bounds conform to\n+ * the quality of implementation criteria for the method.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/FdLibm.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
