@@ -1,0 +1,1 @@
+[{"commit":{"message":"Save one xtn for the case where the inputs are identical on NEON"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_vector.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_vector_ad.m4"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorMultiplyOpt.java"}],"sha":"325419743f35bdbd304c37b1e48ff580f4489d94"}]
