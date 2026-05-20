@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1034,1 +1034,1 @@\n-  c2_do_stub_init_complete ||= (_stub_entry_point != nullptr);\n+  c2_do_stub_init_complete = c2_do_stub_init_complete || (_stub_entry_point != nullptr);\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
