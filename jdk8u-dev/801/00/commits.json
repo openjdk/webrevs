@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 7b3ad8bff951b9f1d7a2bbe6d54e960321b2760c\n\n8249159: Downport test rework for SSLSocketTemplate from 8224650"},"files":[{"filename":"jdk\/test\/javax\/net\/ssl\/templates\/SSLSocketTemplate.java"}],"sha":"b6256bc92cb1d28c7cca03988dfee64d51fa9d75"}]
