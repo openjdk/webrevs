@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,5 +49,1 @@\n-    if (cb == nullptr) {\n-      continue;\n-    }\n-\n-    if (cb->is_nmethod()) {\n+    if (cb != nullptr && cb->is_nmethod()) {\n","filename":"src\/hotspot\/share\/runtime\/hotCodeSampler.cpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
