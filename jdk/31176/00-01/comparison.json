@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -154,1 +154,1 @@\n-    _regenerated_objs= nullptr;\n+    _regenerated_objs = nullptr;\n","filename":"src\/hotspot\/share\/cds\/regeneratedClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
