@@ -1,0 +1,1 @@
+[{"commit":{"message":"BRISBANE-10 Remove export of com.oracle.jipher.internal.spi to java.base"},"files":[{"filename":"src\/main\/java\/com\/oracle\/jipher\/provider\/JipherJCE.java"},{"filename":"src\/main\/java\/module-info.java"}],"sha":"18a42746df0ae01e0a79a2083754a468dc93cac3"}]
