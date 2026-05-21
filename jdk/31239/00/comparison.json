@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,1 @@\n+ * @requires !vm.ubsan\n","filename":"test\/jdk\/jdk\/internal\/platform\/docker\/TestDockerMemoryMetricsSubgroup.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
