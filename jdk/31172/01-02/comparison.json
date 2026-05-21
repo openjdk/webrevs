@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1185,2 +1185,0 @@\n-    case Op_SaturatingAddV:\n-      return is_SaturatingVector() && as_SaturatingVector()->is_unsigned();\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
