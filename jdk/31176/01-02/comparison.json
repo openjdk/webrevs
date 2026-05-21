@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -714,1 +714,0 @@\n-      precond(regen_obj != nullptr);\n","filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
