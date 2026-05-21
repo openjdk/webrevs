@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384958: Revert ThreadWrapper in getallstktr001 - test is not virtual-thread-safe"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jvmti\/unit\/GetAllStackTraces\/getallstktr001.java"}],"sha":"a9ac875b13d0f66ec9f09254fac8de6437c310dc"}]
