@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-    static class Context implements Runnable {\n+    static final class Context implements Runnable {\n","filename":"src\/java.smartcardio\/share\/classes\/sun\/security\/smartcardio\/CardImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
