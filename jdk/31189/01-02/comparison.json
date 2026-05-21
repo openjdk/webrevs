@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -259,2 +259,0 @@\n-  \/\/ Sets up marking if proper conditions are met.\n-  void maybe_start_marking(size_t allocation_word_size);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
