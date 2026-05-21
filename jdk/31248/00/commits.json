@@ -1,0 +1,1 @@
+[{"commit":{"message":"8384418: Zero: Do less implicit narrowing conversions"},"files":[{"filename":"src\/hotspot\/cpu\/zero\/bytes_zero.hpp"},{"filename":"src\/hotspot\/cpu\/zero\/register_zero.hpp"},{"filename":"src\/hotspot\/cpu\/zero\/stack_zero.hpp"},{"filename":"src\/hotspot\/cpu\/zero\/stack_zero.inline.hpp"}],"sha":"0f5003a7bdc20257b5febe5414faccd38e4b27eb"}]
