@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8357,1 +8357,1 @@\n-  address stubAddr;\n+  address stubAddr = nullptr;\n@@ -8374,1 +8374,1 @@\n-      assert(false, \"dont call\");\n+      ShouldNotReachHere();\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
