@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed test, removed from group, Fred comments"},"files":[{"filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp"},{"filename":"test\/hotspot\/jtreg\/TEST.groups"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/InlineFieldExclusionTest.java"}],"sha":"99d6b079ba702df81db680e302b64159cc89f166"}]
