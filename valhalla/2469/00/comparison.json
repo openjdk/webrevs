@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2944,1 +2944,1 @@\n-  return _ptr == a->ptr() && _offset == a->_offset && _reloc == a->reloc() &&\n+  return _ptr == a->ptr() && offset() == a->offset() && _reloc == a->reloc() &&\n","filename":"src\/hotspot\/share\/opto\/type.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
