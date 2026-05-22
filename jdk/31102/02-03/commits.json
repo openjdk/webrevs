@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update msys2 GHA version and add dry-run to windows-aarch64 tests"},"files":[{"filename":".github\/actions\/get-msys2\/action.yml"},{"filename":".github\/workflows\/main.yml"}],"sha":"ee9f257bb7b49afdc919a832899db9acb344cd60"}]
