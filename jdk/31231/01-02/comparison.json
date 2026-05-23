@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -565,1 +565,1 @@\n-  if (p1_type->isa_oopptr() && p2_type->isa_oopptr() &&\n+  if (p1_type != p2_type && p1_type->isa_oopptr() && p2_type->isa_oopptr() &&\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
