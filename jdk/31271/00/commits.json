@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385367: stop using stale\/orphaned AccessibleContext"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/text\/JTextComponent.java"},{"filename":"test\/jdk\/javax\/accessibility\/8385367\/TestAddingOldAccessibleContextAsDocumentListener.java"}],"sha":"35603a7b3b72527e56015431aabd5469bab6d6fe"}]
