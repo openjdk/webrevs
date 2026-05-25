@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-#endif \/\/ CRLIB_CHECKPOINTABLE_DATA_H\n\\ No newline at end of file\n+#endif \/\/ CRLIB_CHECKPOINTABLE_DATA_H\n","filename":"src\/hotspot\/share\/include\/crlib\/crlib_checkpointable_data.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
