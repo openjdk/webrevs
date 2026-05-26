@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-            int maxIncrement  = 2;\n+            int maxIncrement = 2;\n@@ -82,1 +82,1 @@\n-                maxIncrement  = 3;\n+                maxIncrement = 3;\n","filename":"test\/hotspot\/jtreg\/gc\/TestFullGCCount.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
