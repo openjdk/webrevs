@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support Generic algorithm in KeyAgreement.generateSecret(String)"},"files":[{"filename":"src\/intTest\/java\/com\/oracle\/test\/integration\/keyagree\/KeyAgreeApiTest.java"},{"filename":"src\/main\/java\/com\/oracle\/jipher\/internal\/spi\/KeyAgree.java"}],"sha":"3f9c46ace07bf8cb49d0b455a3b9bb05c8120c55"}]
