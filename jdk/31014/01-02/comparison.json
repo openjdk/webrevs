@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -203,1 +203,1 @@\n-     * @throws IllegalArgumentException if the product of {@code w}\n+     * @throws IllegalArgumentException if the product of {@code w},\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/Raster.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
