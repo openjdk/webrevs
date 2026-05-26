@@ -1,0 +1,1 @@
+[{"commit":{"message":"aarch64 fixes"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.hpp"},{"filename":"src\/hotspot\/share\/runtime\/crac_engine.cpp"},{"filename":"test\/jdk\/jdk\/crac\/CPUFeatures\/CPUFeaturesAWS.sh"}],"sha":"ae708ae5318da511e9d04aa6b2b996ae26d31a0d"}]
