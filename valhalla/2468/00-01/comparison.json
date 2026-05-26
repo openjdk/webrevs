@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2591,1 +2591,1 @@\n-  \/\/ TODO 8370914 This should be simplified at construction time once we get rid of dual\n+  \/\/ TODO 8385426 This should be simplified at construction time once we get rid of dual\n","filename":"src\/hotspot\/share\/opto\/type.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
