@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,1 @@\n- *          This test would be run on SVML\/SLEEF supported platforms only.\n+ *          This test is run on SVML\/SLEEF supported platforms only.\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorLibrarySleefUnaryOpAndBinaryOp.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
