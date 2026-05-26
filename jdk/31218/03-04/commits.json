@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adopt the comment"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/TestFullGCCount.java"}],"sha":"263cd5c035e84b684505ff716ce9047d86ef0270"},{"commit":{"message":"Use maxAllowedIncrement and use > check for more explicit"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/TestFullGCCount.java"}],"sha":"37233d59b158182b1fe0cb141d59ed9755290a7a"}]
