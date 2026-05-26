@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into 8259662-dont-wrap-socketexcpn-8u"},"files":[],"sha":"ba89e9cd9615b79635dadd6d6b0d1313453ed1d6"},{"commit":{"message":"Backport 3aa7dcd2671ab596d1205ea2c78352eae2ce608a\n\n8259662: Don't wrap SocketExceptions into SSLExceptions in SSLSocketImpl"},"files":[],"sha":"6742ac229ee7d343cb3cbb5ea61df046b2b8ef1a"}]
