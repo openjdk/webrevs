@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -882,1 +882,0 @@\n-                \/\/ FFDHE_6144 and FFDHE_8192 were removed in JDK-8373426\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/NamedGroup.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
