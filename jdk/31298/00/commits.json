@@ -1,0 +1,1 @@
+[{"commit":{"message":"Replace allocated bytes estimation with usage delta"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahCompactHeuristics.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahCompactHeuristics.hpp"}],"sha":"1fe334505c2ffaddb8104e7a32427a2a063b0fd0"}]
