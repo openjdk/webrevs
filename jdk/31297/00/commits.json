@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383767: C2: assert(curr_ctrl->in(0)->Opcode() == Op_If) failed: unexpected node MemBarStoreStore"},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"src\/hotspot\/share\/opto\/escape.hpp"}],"sha":"2481074ad9666f1235f503d69ced3c4c93d1cfa5"}]
