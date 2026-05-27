@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -156,0 +156,1 @@\n+                sb.append(String.format(\"RUN groupmod -g 9999 $(getent group %s | cut -d: -f1) || true \\n\", gid));\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TestJcmd.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
