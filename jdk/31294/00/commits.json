@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385528: Fix linker alignment warning for libawt on macOS with Xcode 26"},"files":[{"filename":"src\/java.desktop\/share\/native\/libawt\/java2d\/loops\/AlphaMath.c"}],"sha":"37367ad471b185d2616d97121ec12f4b236db8d9"}]
