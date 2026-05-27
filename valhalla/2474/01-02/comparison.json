@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4860,1 +4860,1 @@\n-        \/\/ TODO 8384979: This should be Integer\n+        \/\/ TODO 8384979: This should be Integer, enable various verifications below as well\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestLWorld.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
