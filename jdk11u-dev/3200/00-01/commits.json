@@ -1,0 +1,1 @@
+[{"commit":{"message":"Dropping \"-Dcom.sun.security.ocsp.useget=false\" from CAInterop.java"},"files":[{"filename":"test\/jdk\/security\/infra\/java\/security\/cert\/CertPathValidator\/certification\/CAInterop.java"}],"sha":"ff8cad867a1c39da40f5802a05d1017fb0b02a49"}]
