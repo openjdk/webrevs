@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -766,2 +766,0 @@\n-    private static final PseudoClass PSEUDO_CLASS_FOCUSED =\n-            PseudoClass.getPseudoClass(\"focused\");\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/Cell.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
