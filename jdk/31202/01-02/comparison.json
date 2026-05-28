@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -199,1 +199,1 @@\n-  static Atomic<int>                        _entry_count;\n+  static Atomic<size_t>                     _entry_count;\n","filename":"src\/hotspot\/share\/nmt\/mallocSiteTable.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
