@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -245,1 +245,1 @@\n-  st->print_cr(\"\\tExpected entry count: %d\", _entry_count.load_relaxed());\n+  st->print_cr(\"\\tExpected entry count: %lu\", _entry_count.load_relaxed());\n","filename":"src\/hotspot\/share\/nmt\/mallocSiteTable.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
