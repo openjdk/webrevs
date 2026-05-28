@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385569: [lworld] Apply JDK-8343767 to Valhalla specific StubRoutines"},"files":[{"filename":"src\/hotspot\/share\/runtime\/stubDeclarations.hpp"},{"filename":"src\/hotspot\/share\/runtime\/stubRoutines.cpp"},{"filename":"src\/hotspot\/share\/runtime\/stubRoutines.hpp"}],"sha":"aa218e0f3db0eb6153f894c91b79bdf3fc195b9d"}]
