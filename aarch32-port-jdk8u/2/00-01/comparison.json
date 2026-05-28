@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -120,2 +120,0 @@\n-    u4 *const a = (u4*) p;\n-    return (u8(a[1]) << 32) | a[0];\n","filename":"hotspot\/src\/cpu\/aarch32\/vm\/bytes_aarch32.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
