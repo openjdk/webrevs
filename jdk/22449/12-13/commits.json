@@ -1,0 +1,1 @@
+[{"commit":{"message":"skip long->int loop conversion when StressLongCountedLoop is set"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"}],"sha":"bc4280f15554330458a8b6ec9ee322d7e9570d14"}]
