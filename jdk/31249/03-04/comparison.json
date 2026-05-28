@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5384,1 +5384,1 @@\n-    result = new AndINode(value, phase->intcon(0xFF));\n+    result = new AndINode(value, phase->intcon(1));\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
