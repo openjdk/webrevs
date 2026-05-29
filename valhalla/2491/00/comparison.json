@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3284,1 +3284,1 @@\n-   if (frame_type == 246) {  \/\/ EARLY_LARVAL\n+   if (frame_type == StackMapReader::EARLY_LARVAL) {\n","filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

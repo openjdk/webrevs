@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385652: [lworld] RedefineClasses should use stack map frame nameRemove assert_bounds_check."},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiRedefineClasses.cpp"}],"sha":"f7c50e8a85341ec217dde2d00b96b37b3d833522"}]
