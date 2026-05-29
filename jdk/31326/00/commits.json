@@ -1,0 +1,1 @@
+[{"commit":{"message":"Hold Threads_lock to fix crash when running with JFR"},"files":[{"filename":"src\/hotspot\/share\/runtime\/hotCodeSampler.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/hotcode\/HotCodeCollectorJFR.java"}],"sha":"75b3b04954673f7324fa72f78587fdf7244acbab"}]
