@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use appropriate EvpMacCtx release dummy key size\n\nAlso clear the temporary FFM key segment"},"files":[{"filename":"src\/main\/java\/com\/oracle\/jipher\/internal\/openssl\/ffm\/EvpMacCtx.java"}],"sha":"b950d17b746d250b02814303b7430d0a269e0052"}]
