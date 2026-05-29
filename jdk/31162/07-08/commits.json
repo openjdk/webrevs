@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move the check to MemNode::can_see_stored_value"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"}],"sha":"364993fb4a80eaa99cb0f234fc4584675d25b2f2"}]
