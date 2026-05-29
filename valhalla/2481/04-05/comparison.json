@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -145,1 +145,1 @@\n-        this.vt = vt;\n+        Test5NestmateAccess.vt = vt;\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestNestmateAccess.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
