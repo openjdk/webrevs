@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add MulPairwiseAdd pattern\n\nThis patch adds the pattern `sum *= x[i] + y[i]` to the benchmarks."},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/VectorReduction2.java"}],"sha":"50ece70a960180c23a96bc79cf33ddc9d59544f8"}]
