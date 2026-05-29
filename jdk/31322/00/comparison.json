@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -645,1 +645,1 @@\n-      _allocator->undo_alloc_object(to_page, to_addr, size);\n+      _allocator->undo_alloc_object(to_page, allocated_addr, size);\n","filename":"src\/hotspot\/share\/gc\/z\/zRelocate.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
