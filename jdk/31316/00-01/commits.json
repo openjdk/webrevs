@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385606: Shenandoah: Remove PLAB card-table alignment and per-object register_object during old-gen allocation"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAffiliation.hpp"}],"sha":"c7aeb1d450c1f9c69fb36fcc55a66b1854e4e383"}]
