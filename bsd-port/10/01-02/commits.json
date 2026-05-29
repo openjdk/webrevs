@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add ThreadWXEnable impl for BSD\n\nThis work is sponsored by The FreeBSD Foundation\n\nCo-authored-by: Kurt Miller <bsdkurt@gmail.com>\nCo-authored-by: Greg Lewis <glewis@eyesbeyond.com>"},"files":[{"filename":"src\/hotspot\/share\/runtime\/threadWXSetters.inline.hpp"}],"sha":"9c668f42e0011539c67e332b97215de43472e25b"}]
