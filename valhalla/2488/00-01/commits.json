@@ -1,0 +1,1 @@
+[{"commit":{"message":"Deal with references to lowered fields from early field initializers"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"},{"filename":"test\/langtools\/tools\/javac\/valhalla\/value-objects\/ValueObjectCompilationTests.java"}],"sha":"bf8256807d49fbd69c42a24375d55fd24d89972d"}]
