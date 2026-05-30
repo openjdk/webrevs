@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix compilation on old MSVC\ncmscgats.c(3234) : error C2275: 'cmsFloat32Number' : illegal use of this type as an expression"},"files":[{"filename":"jdk\/src\/share\/native\/sun\/java2d\/cmm\/lcms\/cmscgats.c"}],"sha":"662251078b1bc38b5e0b366ab47b395855415556"}]
