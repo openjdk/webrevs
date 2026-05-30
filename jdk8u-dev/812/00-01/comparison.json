@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -270,1 +270,1 @@\n-    ZLIB_CPPFLAGS += -DHAVE_UNISTD_H\n+    ZLIB_CPPFLAGS += -DHAVE_UNISTD_H=1 -DHAVE_STDARG_H=1\n","filename":"jdk\/make\/lib\/CoreLibraries.gmk","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
