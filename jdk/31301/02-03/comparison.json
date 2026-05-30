@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -885,1 +885,1 @@\n-#if COMPILER2\n+#ifdef COMPILER2\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
