@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1798,1 +1798,1 @@\n-     * truncate them to least-significant bit, and then test\n+     * truncate them to the least-significant bit, and then test\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
