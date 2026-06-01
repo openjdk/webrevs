@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -57,1 +57,1 @@\n-package private, protected and public fields, and methods of the classes passed\n+package private, protected, and public fields and methods declared in the classes passed\n","filename":"src\/jdk.jdeps\/share\/man\/javap.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
