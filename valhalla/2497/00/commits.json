@@ -1,0 +1,1 @@
+[{"commit":{"message":"Pointer to strict final field may be of an abstract class"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestAbstractStrictFinalField.java"}],"sha":"6f677cef14a28dfb075c166ecc072b7e7943dea3"}]
