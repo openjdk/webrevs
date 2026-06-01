@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1025,0 +1025,2 @@\n+    default:\n+        goto fail;\n","filename":"modules\/javafx.graphics\/src\/main\/native-font\/coretext.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
