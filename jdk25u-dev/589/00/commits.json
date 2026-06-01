@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport f125c76f5b53d90a09f58c22d6def7d843feaa50\n\n8247690: RunTest does not support running of JTREG manual tests"},"files":[{"filename":"doc\/testing.html"},{"filename":"doc\/testing.md"},{"filename":"make\/RunTests.gmk"}],"sha":"f1652244bdf0f51696c37577ceb94971cdb43321"}]
