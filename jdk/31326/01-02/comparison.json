@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+ * @bug 8385651\n@@ -28,1 +29,1 @@\n- * @requires vm.compiler2.enabled\n+ * @requires vm.compiler2.enabled & vm.hasJFR\n","filename":"test\/hotspot\/jtreg\/compiler\/hotcode\/HotCodeCollectorJFR.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
