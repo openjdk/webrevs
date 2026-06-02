@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385815: CRaC: Fix aarch64 failing testcases"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"test\/jdk\/jdk\/crac\/CPUFeatures\/SimpleCPUFeaturesTest.java"},{"filename":"test\/jdk\/jdk\/crac\/engine\/CheckCPUFeaturesTest.java"}],"sha":"104cdff918f43fbc195a90ca97068e3ea2ee7831"}]
