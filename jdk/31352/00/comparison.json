@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2272,0 +2272,2 @@\n+  assert(jvf != nullptr, \"last frame shouldn't be null\");\n+\n@@ -2370,0 +2372,2 @@\n+  assert(jvf != nullptr, \"last frame shouldn't be null\");\n+\n","filename":"src\/hotspot\/share\/prims\/jvmtiExport.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
