@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix issues with LambdaToMethod touching `this` too early"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/LambdaToMethod.java"},{"filename":"test\/langtools\/tools\/javac\/valhalla\/value-objects\/ValueObjectCompilationTests.java"}],"sha":"19082982438a80dd8d68b46a8b2f0d40d79ce5e9"}]
