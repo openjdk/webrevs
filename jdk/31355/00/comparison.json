@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -646,0 +646,2 @@\n+                \/\/ Force a GC now to reduce the risk of one happening during the loop below.\n+                System.gc();\n","filename":"test\/lib\/jdk\/test\/lib\/apps\/LingeredApp.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
