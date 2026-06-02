@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix JDK-8384871"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_Canonicalizer.cpp"},{"filename":"src\/hotspot\/share\/c1\/c1_Optimizer.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestC1AcmpCEE.java"}],"sha":"ee76c81f41560d2a3ff975ebe813f7ff6cf9e704"}]
