@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4407,1 +4407,1 @@\n-    value classes should not have finalize methods, as they are not invoked\n+    value classes should not have a finalizer method, as it is not invoked\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/compiler.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
