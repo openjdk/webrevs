@@ -1,0 +1,1 @@
+[{"commit":{"message":"backport a67979c4e6dcea70e63cc79a105be12a9306c660"},"files":[{"filename":"src\/hotspot\/share\/classfile\/stringTable.cpp"},{"filename":"src\/hotspot\/share\/classfile\/symbolTable.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestTrimNativeHeapIntervalTablesCleanup.java"}],"sha":"89a3b1cbdfbcc6265fd596dd1c070bf2b0fdc398"}]
