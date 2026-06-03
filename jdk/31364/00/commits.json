@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385856: GHA: Consolidate architecture-specific steps in Windows CI workflows"},"files":[{"filename":".github\/actions\/get-msys2\/action.yml"},{"filename":".github\/workflows\/build-windows.yml"}],"sha":"8b08dfd7a27d63e302d79c64986d155300e9bab7"}]
