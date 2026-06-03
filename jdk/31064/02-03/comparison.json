@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n- * {@code iterator}, {@code add}, {@code remove}, {@code removeAtIndex},\n+ * {@code iterator}, {@code add}, {@code remove}, {@code removeAt},\n","filename":"src\/java.base\/share\/classes\/java\/util\/List.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
