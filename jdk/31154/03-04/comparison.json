@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3480,1 +3480,1 @@\n-    n->as_CastPP()->verify_type();\n+    DEBUG_ONLY(n->as_CastPP()->verify_type());\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
