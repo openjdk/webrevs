@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -90,1 +90,2 @@\n-     *  27: tbd\n+     *  27: no changes (primitive Types in Patterns, instanceof, and\n+     *      switch in fifth preview)\n","filename":"src\/java.compiler\/share\/classes\/javax\/lang\/model\/SourceVersion.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
