@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -100,0 +100,3 @@\n+    \/\/ This is painful because on 32-bit systems, C1 groups registers\n+    \/\/ in pairs. We're already very short of registers, so to lose two\n+    \/\/ is Very Bad.\n","filename":"src\/hotspot\/cpu\/arm\/c1_FrameMap_arm.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
