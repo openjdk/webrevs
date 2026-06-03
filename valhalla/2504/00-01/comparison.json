@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-    return k->is_objArray_klass() && k->kind() != Klass::KlassKind::ObjArrayKlassKind:\n+    return k->is_objArray_klass() && k->kind() != Klass::KlassKind::ObjArrayKlassKind;\n","filename":"src\/hotspot\/share\/classfile\/classLoaderStats.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
