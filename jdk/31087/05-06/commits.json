@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix compilation issues on Windows where |long| = 32 bits\nUpdate comment based on @ascarpino's comment"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_poly25519.cpp"}],"sha":"d0f013f725035f5e12fd3d9de0a9fb7eadf7abbf"}]
