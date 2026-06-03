@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7885,3 +7885,0 @@\n-  if (referent->is_InlineType()) {\n-    referent = referent->as_InlineType()->buffer(this);\n-  }\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
