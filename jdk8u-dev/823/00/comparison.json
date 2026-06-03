@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -271,0 +271,4 @@\n+  else ifeq ($(OPENJDK_TARGET_OS), linux)\n+    ZLIB_CPPFLAGS += -DHAVE_UNISTD_H=1 -DHAVE_STDARG_H=1\n+  else ifeq ($(OPENJDK_TARGET_OS), aix)\n+    ZLIB_CPPFLAGS += -DHAVE_UNISTD_H=1 -DHAVE_STDARG_H=1\n","filename":"jdk\/make\/lib\/CoreLibraries.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
