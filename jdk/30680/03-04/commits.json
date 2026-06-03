@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed serverException field and changed to just create 'fail' file instead of writing to it."},"files":[{"filename":"test\/jdk\/sun\/security\/ssl\/CipherSuite\/DisabledCipherSuitesNotNegotiated.java"}],"sha":"732603e18672a3feb30680c111e291d7dd0ed9c0"}]
