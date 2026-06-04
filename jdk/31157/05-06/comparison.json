@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -82,0 +82,2 @@\n+        private static volatile int blackholeCount = 0;\n+\n","filename":"test\/hotspot\/jtreg\/compiler\/hotcode\/HotCodeCollectorMoveFunction.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
