@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoiding generating invalid lambda deserialization method names."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/LambdaToMethod.java"},{"filename":"test\/langtools\/tools\/javac\/lambda\/ManyLambdasSerialization.java"}],"sha":"7be3c39cd7709d271a1097b14b5c3e0dfc389a9f"}]
