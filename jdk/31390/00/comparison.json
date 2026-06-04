@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,0 @@\n-class ShenandoahPacer;\n@@ -537,1 +536,0 @@\n-  ShenandoahPacer*           _pacer;\n@@ -562,1 +560,0 @@\n-  ShenandoahPacer*           pacer()             const { return _pacer;             }\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
