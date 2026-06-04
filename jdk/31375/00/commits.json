@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376803: Fix compiler\/vectorization\/TestVectorAlgorithms.java failure after JDK-8373026"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/VectorAlgorithmsImpl.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/VectorAlgorithmsImpl.java"}],"sha":"27dc97794400254653c0fabd1060b1a53fae49aa"}]
