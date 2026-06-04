@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -579,1 +579,0 @@\n-  bool has_static_null_restricted_fields() const { return _has_null_restricted_static_fields; }\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
