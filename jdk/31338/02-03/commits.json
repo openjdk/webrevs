@@ -1,0 +1,1 @@
+[{"commit":{"message":"tolerate extra space in one [class,preview]. Trim redundant .\\* in few other checks."},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/ClassFile\/PreviewVersion.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/NMT\/MallocLimitTest.java"}],"sha":"7d50c2c8888385767c252d970470368bd2b96ae0"}]
