@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385833: C2 Vector API: assert(false) failed: infinite loop in PhaseIterGVN::transform_old"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorReassociations.java"}],"sha":"2f262258f0beebde6af19e8bff333fdecc97f3c2"}]
