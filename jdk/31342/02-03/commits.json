@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix uninitialized variables on conditional branch"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahHeuristics.cpp"}],"sha":"24bc09911c8e795c5a69dba5bca0f1df3c2e1afc"}]
