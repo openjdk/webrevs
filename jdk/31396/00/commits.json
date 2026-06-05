@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385924: GZIPInputStream.read() behaves differently on some Java versions"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/zip\/GZIPInputStream.java"},{"filename":"test\/jdk\/java\/util\/zip\/GZIP\/GZIPInputStreamCallsAvailable.java"}],"sha":"70a1c70c9e9a317491262a2b8d1baab79089cc23"}]
