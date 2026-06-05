@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -414,1 +414,1 @@\n-  _profile_rng(-1) {\n+  _profile_rng(-1u) {\n","filename":"src\/hotspot\/share\/runtime\/javaThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
