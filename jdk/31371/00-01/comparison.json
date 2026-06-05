@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,0 @@\n-    public long certificateId;\n@@ -39,0 +38,1 @@\n+    public long certificateId;\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/event\/TLSHandshakeEvent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
