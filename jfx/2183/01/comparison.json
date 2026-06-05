@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,2 @@\n+import static org.junit.jupiter.api.Assumptions.assumeTrue;\n+\n@@ -65,0 +67,1 @@\n+        assumeTrue(!Util.isOnWayland()); \/\/ JDK-8375347\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/dialog\/DialogRepeatedShowHideTest.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
