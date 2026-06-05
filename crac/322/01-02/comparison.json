@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -343,1 +343,1 @@\n-#else \/* *NIXES *\/\n+#else \/* if !_WIN32 *\/\n@@ -456,1 +456,0 @@\n-    #endif \/* not WIN32 *\/\n@@ -469,1 +468,2 @@\n-#endif \/* LINUX *\/\n+#endif \/\/ LINUX\n+#endif \/\/ !_WIN32\n","filename":"src\/java.base\/share\/native\/launcher\/main.c","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
