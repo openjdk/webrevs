@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385963: Native Attach API code has unnecessary 'strdup' calls"},"files":[{"filename":"src\/jdk.attach\/linux\/native\/libattach\/VirtualMachineImpl.c"},{"filename":"src\/jdk.attach\/macosx\/native\/libattach\/VirtualMachineImpl.c"}],"sha":"6c82955eb2aa79634f5cd5c3c95c04569d40b537"}]
