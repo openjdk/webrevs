@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,1 +67,1 @@\n-        assumeTrue(!Util.isOnWayland()); \/\/ JDK-8385956\n+        assumeTrue(!Util.isOnWayland()); \/\/ JDK-8375347\n","filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/dialog\/DialogRepeatedShowHideTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
