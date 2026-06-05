@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,1 +112,1 @@\n-DNF_ARCHS := $(subst $(SPACE),$(COMMA),$(RPM_ARCHS))\n+DNF_ARCHS := $(foreach arch,$(RPM_ARCHS),--arch $(arch))\n@@ -126,1 +126,1 @@\n-    --archlist $(DNF_ARCHS) \\\n+    $(DNF_ARCHS) \\\n","filename":"make\/devkit\/Sysroot.gmk","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
