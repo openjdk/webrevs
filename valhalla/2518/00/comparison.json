@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-    private Object monitor = new Object();;\n+    private Object monitor = new Object();\n","filename":"test\/hotspot\/jtreg\/serviceability\/tmtools\/jstack\/WaitNotifyThreadTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
