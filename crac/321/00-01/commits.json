@@ -1,0 +1,1 @@
+[{"commit":{"message":"Unify glibc features numbering"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.hpp"},{"filename":"test\/jdk\/jdk\/crac\/CPUFeatures\/CPUFeaturesAWS.sh"}],"sha":"6c349cde7c90b849d3503585cc976f228cfdf8d8"}]
