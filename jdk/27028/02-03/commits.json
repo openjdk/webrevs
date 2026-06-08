@@ -1,0 +1,1 @@
+[{"commit":{"message":"guard against shared bool case"},"files":[{"filename":"src\/hotspot\/share\/opto\/stringopts.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/stringopts\/TestStackedConcatsSharedTest.java"}],"sha":"0e9c3fc1714524fd50775df466bfefc878f192ad"}]
