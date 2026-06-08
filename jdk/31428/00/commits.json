@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386203: Use CRC32C checksum instead of Adler32 for stateless session ticket"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLSessionImpl.java"}],"sha":"6314d66f77712d3875bdb0dc076e4f89179c9a66"}]
