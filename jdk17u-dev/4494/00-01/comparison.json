@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6795,1 +6795,1 @@\n-  Node* block_size = load_field_from_object(digest_object, \"digestLength\", \"I\");\n+  Node* block_size = load_field_from_object(digest_object, \"blockSize\", \"I\");\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
