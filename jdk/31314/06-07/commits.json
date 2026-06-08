@@ -1,0 +1,1 @@
+[{"commit":{"message":"Relaxed memory order for allocated bytes sampling"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocRate.inline.hpp"}],"sha":"48ec5a6b7ce469e0af4f7d83f2f88c5a637625d5"}]
