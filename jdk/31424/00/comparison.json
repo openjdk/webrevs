@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,0 +50,3 @@\n+  else ifeq ($(call isTargetCpuArch, riscv), true)\n+    CAPSTONE_ARCH := CS_ARCH_RISCV\n+    CAPSTONE_MODE := CS_MODE_RISCV64\n","filename":"make\/Hsdis.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
