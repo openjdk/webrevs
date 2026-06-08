@@ -1,0 +1,1 @@
+[{"commit":{"message":"c_return_value is redundant"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"52c175524448b42239ccebd9f6f4ba3c91a0228d"},{"commit":{"message":"return_value in ppc64.ad: 2nd register for Op_RegI should be OptoReg::Bad"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"cbc072c8e65344d5190c03f80e96190d5dabb844"}]
