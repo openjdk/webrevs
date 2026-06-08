@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7,1 +7,1 @@\n-# Only add commits that obviously do not change semanitcs, e.g. mechanical refactorings\n+# Only add commits that obviously do not change semantics, e.g. mechanical refactorings\n","filename":".git-blame-ignore-revs","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
