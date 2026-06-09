@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixes a livelock in AbstractQueuedSynchronizer"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/locks\/AbstractQueuedSynchronizer.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/SemaphoreTest.java"}],"sha":"1f0ce1e7356070d3cdf8d3745abf896aefe4d23a"}]
