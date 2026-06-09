@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,1 @@\n+                    workerStarted.countDown();\n@@ -57,1 +58,0 @@\n-                        workerStarted.countDown();\n","filename":"test\/jdk\/javax\/swing\/SwingWorker\/TestDoneBeforeDoInBackground.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
