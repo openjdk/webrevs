@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2793,4 +2793,1 @@\n-  if (is_masked) {\n-    a = in(1);\n-    andv = in(2);\n-  } else if (in(2)->Opcode() == Op_AndV) {\n+  if (is_masked || in(2)->Opcode() == Op_AndV) {\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
