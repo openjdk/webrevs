@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6,0 +6,3 @@\n+Source files in the directory src\/main\/profiles were derived mechanically\n+from the C-language header files of CPython version 3.13.9.\n+\n@@ -283,1 +286,1 @@\n-```\n\\ No newline at end of file\n+```\n","filename":"legal\/Python\/Python.md","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
