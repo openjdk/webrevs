@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not rewrite paths beginning with \\\\.\\ as UNC paths"},"files":[{"filename":"src\/java.base\/windows\/native\/libjli\/java_md.c"}],"sha":"aa81d3861f3b4feae6da23463f1eac2821a952d3"}]
