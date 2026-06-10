@@ -1,0 +1,1 @@
+[{"commit":{"message":"8252250: isnanf is obsolete\n\nReviewed-by: vkempik\nBackport-of: b957d802e6982be56d3a344668d8fd230f20d0df"},"files":[{"filename":"hotspot\/src\/share\/vm\/utilities\/globalDefinitions_gcc.hpp"},{"filename":"jdk\/src\/solaris\/native\/common\/jdk_util_md.h"}],"sha":"64dafd4882fb06030534a67d215470f24e6db9e0"}]
