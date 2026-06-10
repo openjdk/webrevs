@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386312: Shenandoah: Incorrect assertion in ShenandoahAllocRate uses is_locked() instead of owned_by_self()"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocRate.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocRate.inline.hpp"}],"sha":"093f5a79f3ec6a209a749f98d963941fb7bb5c88"}]
