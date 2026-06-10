@@ -1,0 +1,1 @@
+[{"commit":{"message":"HCC sample_all_java_threads finishes if contention with JFR is detected"},"files":[{"filename":"src\/hotspot\/share\/runtime\/hotCodeSampler.cpp"},{"filename":"src\/hotspot\/share\/runtime\/hotCodeSampler.hpp"}],"sha":"d609551899e3a123fb38855cb25b17fe5b7674e7"}]
