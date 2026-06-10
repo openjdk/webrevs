@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,1 @@\n+ * @requires !jdk.static\n","filename":"test\/hotspot\/jtreg\/runtime\/StackGuardPages\/TestStackGuardPagesNative.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
