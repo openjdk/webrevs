@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,1 @@\n-static jmp_buf  context;\n+static sigjmp_buf  context;\n","filename":"test\/hotspot\/jtreg\/runtime\/StackGuardPages\/exeinvoke.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
