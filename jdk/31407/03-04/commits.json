@@ -1,0 +1,1 @@
+[{"commit":{"message":"os:snprintf returns size of the concatenated string even if it doesn't concatenate the strings.  Added a test and improved the error message."},"files":[{"filename":"src\/hotspot\/os\/posix\/attachListener_posix.cpp"},{"filename":"test\/jdk\/com\/sun\/tools\/attach\/JvmTempDirTest.java"}],"sha":"57e928a8e17ddcd12fccabf84f5fa15e477e7932"}]
