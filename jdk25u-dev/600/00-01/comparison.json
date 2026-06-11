@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -185,1 +185,1 @@\n-  StreamIndentor(outputStream* os, int indentation) :\n+  StreamIndentor(outputStream* os, int indentation = 2) :\n","filename":"src\/hotspot\/share\/utilities\/ostream.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
