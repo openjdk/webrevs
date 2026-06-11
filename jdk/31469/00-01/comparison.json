@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,1 +52,0 @@\n- *          jdk.hotspot.agent\/sun.jvm.hotspot.gc.shared\n@@ -114,1 +113,0 @@\n-            \"--add-exports=jdk.hotspot.agent\/sun.jvm.hotspot.gc.shared=ALL-UNNAMED\",\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestG1HeapRegion.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
