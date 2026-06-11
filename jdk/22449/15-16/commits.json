@@ -1,0 +1,1 @@
+[{"commit":{"message":"avoid partial graph modification by removing redundant replace_input_of(), add more stress flags"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestIntCountedLoopLongLimit.java"}],"sha":"fc61c96b0dee43cf3c6c397408d7129f255ab24b"}]
