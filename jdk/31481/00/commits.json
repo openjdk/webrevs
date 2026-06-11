@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"}],"sha":"c18bb658e460a033313b23b6cd087fde81bb64d4"},{"commit":{"message":"JDK-8386482"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestTruncationWrapEmptyType.java"}],"sha":"6329c44c6d9b9180e0715b4bc02ca406896a86b6"}]
