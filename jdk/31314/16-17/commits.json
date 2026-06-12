@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify alloc region caching: keep first instead of largest"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahPartitionAllocator.cpp"}],"sha":"139cf8d1516873f8f3007df9513f8f278c4f660c"}]
