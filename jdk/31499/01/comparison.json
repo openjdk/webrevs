@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,0 +33,1 @@\n+ifneq ($(ENABLE_HEADLESS_ONLY), true)\n@@ -44,0 +45,1 @@\n+endif\n","filename":"make\/modules\/jdk.jconsole\/Launcher.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
