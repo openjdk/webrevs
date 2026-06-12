@@ -1,0 +1,1 @@
+[{"commit":{"message":"8382879: AOT training run exits with 0 even if assembly subprocess fails"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMetaspace.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotFlags\/AssemblySubProcessFailure.java"}],"sha":"3c59c6441cfe26686badce904c3256311a97849b"}]
