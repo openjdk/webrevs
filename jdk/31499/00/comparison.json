@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -52,0 +52,5 @@\n+# the headless-only build does not have jconsole\n+ifeq ($(ENABLE_HEADLESS_ONLY), true)\n+  MODULES_FILTER += jdk.jconsole\n+endif\n+\n","filename":"make\/common\/Modules.gmk","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
