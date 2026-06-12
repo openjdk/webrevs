@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386562: JVM crashes when StackMapTable attribute is too long"},"files":[{"filename":"src\/hotspot\/share\/memory\/metaspace.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/classFileParserBug\/StackMapTooLong.java"},{"filename":"test\/lib\/jdk\/test\/lib\/helpers\/ClassFileAssembler.java"}],"sha":"da1e479f0272b6106de9b7d1548eb605914fde3a"}]
