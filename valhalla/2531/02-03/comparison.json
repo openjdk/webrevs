@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1316,4 +1316,0 @@\n-  __ bind(L_oops_equal);\n-  move(op->equal_result(), op->result_opr());\n-  __ j(L_end);\n-\n@@ -1325,0 +1321,2 @@\n+\n+  __ bind(L_oops_equal);\n","filename":"src\/hotspot\/cpu\/riscv\/c1_LIRAssembler_riscv.cpp","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}
