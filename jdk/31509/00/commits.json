@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386466: DESedeKeySpec.isParityAdjusted spec permits 8-byte key but RI throws InvalidKeyException"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/DESedeKeySpec.java"}],"sha":"930cf305308b7143c957296e45c35469ed1d6ce0"}]
