@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -413,1 +413,1 @@\n-      || is_pending_step_for_popframe() || is_pending_step_for_popframe()) {\n+      || is_pending_step_for_earlyret() || is_pending_step_for_popframe()) {\n","filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
