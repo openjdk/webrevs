@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386626: [lworld] Only enable valhalla IR tests in ScalarReplacementWithGCBarrierTests.java for aarch64 and x86"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/scalarReplacement\/ScalarReplacementWithGCBarrierTests.java"}],"sha":"8b43572fca69130d55665564d1d11cc0258625f6"}]
