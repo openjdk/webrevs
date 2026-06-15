@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not block sent configure events, as doing so breaks screen-change detection."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp"}],"sha":"8fd5515d0287c45305b21868df3ecc1a9c9efe65"}]
