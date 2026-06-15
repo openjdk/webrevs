@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 841e28822200103088c04d07b551537630ea79c4"},"files":[{"filename":"src\/hotspot\/share\/opto\/ifnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestHasTruncationWrap.java"}],"sha":"ed86ca7caebf6fba7ebb9cda2bffaeda4f05a587"}]
