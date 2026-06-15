@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add test case where the base address type, rather than the offset, is discovered late"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/inlining\/TestLateInliningWithSliceNarrowing.java"}],"sha":"e6bde69d8baca843019d9d0ab05b109d09a154dc"}]
