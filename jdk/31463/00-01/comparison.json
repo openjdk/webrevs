@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1842,1 +1842,1 @@\n-  _old_marking_cycles_completed.store_relaxed(old_marking_cycles_completed() + 1);\n+  _old_marking_cycles_completed.add_then_fetch(1u, memory_order_relaxed);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
