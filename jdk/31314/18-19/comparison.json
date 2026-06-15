@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,0 @@\n-  shenandoah_padding(0);\n@@ -45,1 +44,0 @@\n-  shenandoah_padding(1);\n@@ -47,1 +45,0 @@\n-  shenandoah_padding(2);\n@@ -49,1 +46,0 @@\n-  shenandoah_padding(3);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAllocator.hpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
