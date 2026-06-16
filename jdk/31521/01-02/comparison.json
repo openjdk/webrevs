@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -863,0 +863,3 @@\n+            if (!(key instanceof PublicKey)) {\n+                throw new InvalidKeyException(\"Only support public key\");\n+            }\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/HSS.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
