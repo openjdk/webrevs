@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386155: C2 Vector API: missing trunctation in VectorNode::push_through_replicate"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestTruncationAfterReassociation.java"}],"sha":"93253eebeff9b6d470a63ccfdbe856561752ff45"}]
