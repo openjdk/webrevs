@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 97372a1771fcc387747144e9ea2e4344338655c7\n\n8385584: CAInterop.java#buypassclass3ca fails with Intermediate Root CA not found in the chain"},"files":[{"filename":"test\/jdk\/security\/infra\/java\/security\/cert\/CertPathValidator\/certification\/CAInterop.java"}],"sha":"ce228b342d219c796b796e9755066d4daaf2c7bb"}]
