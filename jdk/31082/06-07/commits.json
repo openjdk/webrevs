@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix initialization value of accumulator for product reduction"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestAutoVectorizationOfReductionLoops.java"}],"sha":"d887e0903ab8b2ef67eff97f3faa5a5bfb1be5c3"}]

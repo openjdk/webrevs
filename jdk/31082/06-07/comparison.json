@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -95,1 +95,1 @@\n-        float expected = 0.0f;\n+        float expected = 1.0f;\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestAutoVectorizationOfReductionLoops.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
