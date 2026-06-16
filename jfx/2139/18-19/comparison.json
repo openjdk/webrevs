@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,1 +300,1 @@\n-    if (mapped || window_type == POPUP) return;\n+    if (mapped) return;\n@@ -305,0 +305,2 @@\n+    if (window_type == POPUP) return;\n+\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
