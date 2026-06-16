@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-    BASIC_LDFLAGS_JVM_ONLY=\"-opt:icf,8 -subsystem:windows\"\n+    BASIC_LDFLAGS_JVM_ONLY=\"-opt:noicf -subsystem:windows\"\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
