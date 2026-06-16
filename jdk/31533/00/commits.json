@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386700: Class-File API: StackMapGenerator.setLocalsFromArg leaves stale locals, generating invalid stack maps\n"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapGenerator.java"},{"filename":"test\/jdk\/jdk\/classfile\/StackMapsTest.java"}],"sha":"f463961aa6830cb164a9b5ad6b0ee3bf09172634"}]
