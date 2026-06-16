@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386604: GenShen: _do_old_gc_bootstrap could become stuck after a full GC"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"}],"sha":"857051bdf6e102432f553b915095377fd8c988b1"}]

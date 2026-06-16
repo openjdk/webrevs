@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -611,0 +611,1 @@\n+  _do_old_gc_bootstrap = false;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
