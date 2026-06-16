@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386475: C2 x64: -XX:-UseBMI2Instructions is broken for AVX-512\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"a1c906041944a5d22e77be1b59df8c19e63c52da"}]
