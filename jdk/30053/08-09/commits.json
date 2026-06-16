@@ -1,0 +1,1 @@
+[{"commit":{"message":"undo fixing TestStaticCallStub due to a separate change JDK-8359963"},"files":[{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/aarch64\/TestStaticCallStub.java"}],"sha":"46bf7c459738739132a5041a8da099c0253033bd"}]
