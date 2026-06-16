@@ -1,0 +1,1 @@
+[{"commit":{"message":"Given the flag is only affecting C2, stands to reason it should be in c2_globals.hpp"},"files":[{"filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp"},{"filename":"src\/hotspot\/share\/compiler\/compiler_globals.hpp"},{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"}],"sha":"7f7ba2ccb97b88d3374e371e2a1fa5c170fbb7ea"}]
