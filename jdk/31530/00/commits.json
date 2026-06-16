@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport b9f7bd2be81421e4198c57ed77e8c0bee3bf197b"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestTruncationWrapEmptyType.java"}],"sha":"f561f53a3214527b1e44385729b3f40d0cc526a8"}]
