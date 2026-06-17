@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,1 +115,1 @@\n-        if (valueString == \"\") {\n+        if (\"\".equals(valueString)) {\n","filename":"test\/jdk\/build\/releaseFile\/CheckReleaseFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
