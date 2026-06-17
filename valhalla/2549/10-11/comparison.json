@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3412,1 +3412,0 @@\n-      __ untested(\"_fast_vgetfield 1\");\n@@ -3419,1 +3418,0 @@\n-      __ untested(\"_fast_vgetfield 2\");\n","filename":"src\/hotspot\/cpu\/ppc\/templateTable_ppc_64.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
