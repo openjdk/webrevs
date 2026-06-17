@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383879: assert(_cur_stack_depth == num_frames) failed: cur_stack_depth out of sync _cur_stack_depth: 9 num_frames: 10\n\nReviewed-by: cjplummer, dcubed, sspitsyn, dholmes"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiEnvBase.cpp"},{"filename":"src\/hotspot\/share\/prims\/jvmtiThreadState.cpp"}],"sha":"91e88718ba7e391835f9cca4a21f5aa92c71db3f"}]
