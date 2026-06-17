@@ -1,0 +1,1 @@
+[{"commit":{"message":"Return null on failure only when `use_archive_base_addr` is true"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMetaspace.cpp"}],"sha":"82672497fe2c7c5f2b4d72f47d43180156aa9e59"}]
