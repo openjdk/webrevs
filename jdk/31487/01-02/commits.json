@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert the change to Connection.java\n\nThis change is unrelated to this PR and is now captured in a separate\npatch."},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/Connection.java"}],"sha":"74c8bbe76ee4ec3f7285726f8a350de988872253"}]

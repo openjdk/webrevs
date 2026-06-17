@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1177,2 +1177,1 @@\n-                ce.addSuppressed(ex);\n-                tlsHandshakeCompleted.completeExceptionally(ce);\n+                tlsHandshakeCompleted.completeExceptionally(ex);\n","filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/Connection.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
