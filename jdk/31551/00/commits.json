@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport ef5b328ce5a8f1a27f87745d6cc19db7baec4c3f"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/StackMapGenerator.java"},{"filename":"test\/jdk\/jdk\/classfile\/StackMapsTest.java"}],"sha":"387e782f1757086e6d191343ba6004cf949cbc76"}]
