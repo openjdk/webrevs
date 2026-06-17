@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,1 @@\n-  __ bctr();\n+  __ bctrl();\n@@ -193,1 +193,1 @@\n-  __ bctr();\n+  __ bctrl();\n@@ -217,1 +217,1 @@\n-  __ bctr();\n+  __ bctrl();\n","filename":"src\/hotspot\/cpu\/ppc\/c1_CodeStubs_ppc.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
