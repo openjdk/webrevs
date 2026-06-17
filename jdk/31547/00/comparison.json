@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,2 @@\n- * @bug 4800187\n+ * @bug 4800187 8384287\n+ * @requires (os.family == \"windows\")\n","filename":"test\/jdk\/java\/awt\/TextArea\/TextAreaCRLFAutoDetectManualTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
