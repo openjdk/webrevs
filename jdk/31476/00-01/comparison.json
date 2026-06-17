@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6696,1 +6696,1 @@\n-    \/\/ and vb used to hold the expanded 8H elements are of length 8.\n+    \/\/ and vb are used to hold the expanded 8H elements are of length 8.\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
