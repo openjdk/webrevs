@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,1 +117,1 @@\n-                \" JDK Repository used for building might not have .git directory.\" + \n+                \" JDK Repository used for building might not have .git directory.\" +\n","filename":"test\/jdk\/build\/releaseFile\/CheckReleaseFile.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
