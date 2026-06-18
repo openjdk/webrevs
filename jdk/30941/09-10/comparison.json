@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -302,0 +302,1 @@\n+  do_var(bool,  UseIntPolyIntrinsics) \\\n@@ -335,1 +336,0 @@\n-  do_var(bool,  UseIntPolyIntrinsics) \\\n@@ -346,1 +346,0 @@\n-  do_var(bool,  UseIntPolyIntrinsics) \\\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
