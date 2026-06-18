@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -261,0 +261,1 @@\n+        overlay.buttonDarkStyleProperty().bind(headerButtonDarkStyleProperty());\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/gtk\/GtkWindow.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
