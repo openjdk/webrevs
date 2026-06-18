@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386879: PPC64: unchecked_or in OrI instructs can emit unintended SMT priority hints"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"7471d85691ba551c1d8cb4e3334975453e8b2bcc"}]
