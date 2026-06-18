@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix incorrect load hoisting"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_ValueMap.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c1\/TestIntrinsicLoadSegfault.java"}],"sha":"4397bccc654be355048fc8c5104139481534cdda"}]
