@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386922: Convert TraceRelocator to Unified Logging"},"files":[{"filename":"src\/hotspot\/share\/logging\/logTag.hpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"src\/hotspot\/share\/runtime\/relocator.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/logging\/RelocatorTest.java"}],"sha":"0636f09ac57265ce37431231549e97465ec62afc"}]
