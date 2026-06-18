@@ -1,0 +1,1 @@
+[{"commit":{"message":"refactoring: remove magic1 check, rename kmm to kmask, access ymm and zmm using ucontext_t pointer"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_x86\/os_linux_x86.cpp"}],"sha":"56f0f57ae3b4f4924a213507dab08b64d6e2cc00"}]
