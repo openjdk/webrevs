@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -301,1 +301,1 @@\n-  if (sysctl(mib, namelen, &kp, &bufSize, NULL, 0) != -1) {\n+  if (sysctl(mib, namelen, &kp, &bufSize, nullptr, 0) != -1) {\n","filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
