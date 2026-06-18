@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n-define_pd_global(intx, CompilerThreadStackSize,  2040);\n+define_pd_global(intx, CompilerThreadStackSize,  0);\n","filename":"hotspot\/src\/os_cpu\/linux_aarch64\/vm\/globals_linux_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
