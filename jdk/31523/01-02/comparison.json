@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1417,1 +1417,1 @@\n-    sop = Compile::narrow_value(bt, sop, nullptr, phase, true);\n+    sop = Compile::narrow_value(bt, sop, Type::get_const_basic_type(bt), phase, true);\n","filename":"src\/hotspot\/share\/opto\/vectornode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
