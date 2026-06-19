@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix new tests for JDK 17 where ExecutorService does not implement AutoCloseable"},"files":[{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/SemaphoreTest.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/StampedLockTest.java"}],"sha":"2b9f2c2bdb1f65b52b13f490997467dbe102f438"}]
