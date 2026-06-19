@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386981: [CRaC] Drop deprecated CRAC_CRIU_* env vars"},"files":[{"filename":"src\/java.base\/linux\/native\/libcriuengine\/criuengine.cpp"},{"filename":"test\/jdk\/jdk\/crac\/engineOptions\/CracCriuOptsTest.java"}],"sha":"d18c947a94fd9fed6a3444b1f28153623ca6d223"}]
