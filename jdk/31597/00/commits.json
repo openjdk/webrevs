@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 1ad2db7ad11e5158177b10d5e8edbc0a8547f084"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/DESKeySpec.java"},{"filename":"src\/java.base\/share\/classes\/javax\/crypto\/spec\/DESedeKeySpec.java"},{"filename":"test\/jdk\/javax\/crypto\/spec\/DESKeySpec\/OffsetKey.java"}],"sha":"b624920c80fa2582fa8f7a66c202cb99d6be36be"}]
