@@ -1,0 +1,1 @@
+[{"commit":{"message":"HAT - avoid string class comparisons"},"files":[{"filename":"hat\/backends\/ffi\/cuda\/src\/main\/java\/hat\/backend\/ffi\/CudaHATKernelBuilder.java"},{"filename":"hat\/backends\/ffi\/opencl\/src\/main\/java\/hat\/backend\/ffi\/OpenCLHATKernelBuilder.java"}],"sha":"2d8f5b90b1dff57fd32a2404a32cfcb1f24d3d1c"}]
