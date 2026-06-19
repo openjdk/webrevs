@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386945: RISC-V: Auto-enable Zvbb extension features"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp"}],"sha":"015aad6effbcfae5282f8a1c666f2f85751f3561"}]
