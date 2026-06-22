@@ -1,0 +1,1 @@
+[{"commit":{"message":"minor refactor codegen for OCL\/CUDA"},"files":[{"filename":"hat\/backends\/ffi\/cuda\/src\/main\/java\/hat\/backend\/ffi\/CudaHATKernelBuilder.java"},{"filename":"hat\/backends\/ffi\/opencl\/src\/main\/java\/hat\/backend\/ffi\/OpenCLHATKernelBuilder.java"}],"sha":"062403a81689bc4c94acab7e32e158bcc6f402ea"}]
