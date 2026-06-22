@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,1 @@\n-\/\/\/ packages (Defined in `trust_final_non_static_fields` in `ciField.cpp`) in\n+\/\/\/ packages (Defined in `trust_final_nonstatic_fields` in `ciField.cpp`) in\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/vm\/annotation\/TrustFinalFields.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
