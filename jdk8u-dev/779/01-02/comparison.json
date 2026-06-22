@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -192,1 +192,0 @@\n-  \/\/ pids might not be enabled on older Linux distros (SLES 12.1, RHEL 7.1)\n","filename":"hotspot\/src\/os\/linux\/vm\/cgroupSubsystem_linux.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
