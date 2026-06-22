@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -873,1 +873,1 @@\n-  static const uint MAX_INJECTED_PINS = 16;\n+  static const uint MAX_INJECTED_PINS = 32;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
