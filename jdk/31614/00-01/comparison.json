@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,0 +84,4 @@\n+ifneq ($(call isTargetOs, windows)+$(call isTargetCpu, aarch64), true+true)\n+  HOTSPOT_JTREG_EXCLUDE += libCodeCacheRuntimeFunctionTableTest.c\n+endif\n+\n","filename":"make\/test\/JtregNativeHotspot.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
