@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,1 +127,1 @@\n-    \/\/ Caller gave us the pre_val to work with.\n+    \/\/ Caller gave us the obj to work with.\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/c1\/shenandoahBarrierSetC1.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
