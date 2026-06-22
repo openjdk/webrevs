@@ -1,0 +1,1 @@
+[{"commit":{"message":"Handle the case when `closureReason == null`\n\nAlso, since `closureReason` is shared, we first read it into a local\nvariable (`priorFailure`) before checking for null."},"files":[{"filename":"src\/java.naming\/share\/classes\/com\/sun\/jndi\/ldap\/Connection.java"}],"sha":"9c69ffa8084536d11a4bdb9c34eff243ec41a839"}]
