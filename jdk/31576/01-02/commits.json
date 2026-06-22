@@ -1,0 +1,1 @@
+[{"commit":{"message":"Also handle post_barrier -> card_barrier rename"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c1\/shenandoahBarrierSetC1.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/c1\/shenandoahBarrierSetC1.hpp"}],"sha":"0734eca357b303f094fc381165145ed76cb39fe9"}]
