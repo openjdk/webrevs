@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,1 +86,1 @@\n-                if (m.group(3).contains(\"vtable stub [\") {\n+                if (m.group(3).contains(\"vtable stub [\")) {\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/compiler\/PerfMapTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
