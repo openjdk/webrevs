@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix identity hash code computation & add test"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/gc\/stress\/ihash\/TestHashCodeC2Relocation.java"}],"sha":"2c9f7bb98c756d53db81612ad2ac6c5fef774e50"}]
