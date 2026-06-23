@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,0 @@\n-#include \"nmt\/memTracker.hpp\"\n@@ -49,2 +48,0 @@\n-\n-  MemTracker::record_virtual_memory_tag(rs, mem_tag);\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RegionToSpaceMapper.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
