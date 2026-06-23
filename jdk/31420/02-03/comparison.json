@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -831,2 +831,0 @@\n-         Note: JDK (and other classes) loaded by a ClassLoader that does not provide a location URL to the JVM will omit this field.\n-\n","filename":"src\/jdk.jcmd\/share\/man\/jcmd.md","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
