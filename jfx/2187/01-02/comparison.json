@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3175,1 +3175,1 @@\n-        final double AREA = SIDE*SIDE;\n+        final double AREA = SIDE * SIDE;\n","filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/layout\/GridPaneTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
