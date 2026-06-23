@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386163: C2 Vector API: assert(collect_unique_inputs(n, inputs) == 1) failed: not unary"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestMaskedNotAllOnes.java"}],"sha":"4acc0d743d235d2c62fd58cf8cb2b5ebacd53f7b"}]
