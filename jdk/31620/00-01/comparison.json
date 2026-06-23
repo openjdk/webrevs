@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-#include \"gc\/shenandoah\/shenandoahFreeSet.hpp\"\n@@ -37,0 +36,1 @@\n+#include \"gc\/shenandoah\/shenandoahFreeSet.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
