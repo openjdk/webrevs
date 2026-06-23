@@ -1,0 +1,1 @@
+[{"commit":{"message":"also correct assertsions in register_aarch64.hpp. Remove extra brace."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/register_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/share\/utilities\/globalDefinitions.hpp"}],"sha":"b15409efa5ebe85085c9bf7ffe372eee11ef6103"}]
