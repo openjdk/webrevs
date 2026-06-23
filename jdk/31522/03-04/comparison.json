@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+ * @requires os.simpleArch == \"x64\"\n@@ -35,0 +36,1 @@\n+ * @requires os.simpleArch == \"x64\"\n","filename":"test\/hotspot\/jtreg\/compiler\/cpuflags\/TestUseCountTrailingZerosInstruction.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}

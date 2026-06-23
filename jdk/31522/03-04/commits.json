@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restrict TestUseCountTrailingZerosInstruction to run on x64 systems only\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/cpuflags\/TestUseCountTrailingZerosInstruction.java"}],"sha":"64646a9da832c818b1166ccead4b2f205dd76c93"}]
