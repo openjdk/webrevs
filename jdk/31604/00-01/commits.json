@@ -1,0 +1,1 @@
+[{"commit":{"message":"Log a message when compiler thread exits before it could be tracked\n\nAddress review feedback: instead of silently skipping the trace\nlogging, print a message with the thread address to indicate\nthe thread exited early."},"files":[{"filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp"}],"sha":"632474406c4ae57c2e5ade559026d9e13558fa9c"}]
