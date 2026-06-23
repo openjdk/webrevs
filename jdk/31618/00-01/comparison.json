@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-  CYGWIN* | MSYS* | MINGW*)\n+  CYGWIN*)\n","filename":"test\/jdk\/java\/lang\/instrument\/appendToClassLoaderSearch\/CommonSetup.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
