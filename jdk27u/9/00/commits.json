@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport ee9616d4a43006f932774f9a5d421dc46a91d5d6"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestTruncationAfterReassociation.java"}],"sha":"4a3d3fed5d7852c3dc995a3794914b2d224a5eb7"}]
