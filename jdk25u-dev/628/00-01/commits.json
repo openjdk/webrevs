@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix armasm64 parsing error\n\nNewer versions of armasm64 seem to be more lenient so that might be why we don't see this error when building this same code in JDK tip."},"files":[{"filename":"src\/hotspot\/os_cpu\/windows_aarch64\/safefetch_windows_aarch64.S"}],"sha":"2ed58eb6294c206f36a3e2a4c2c7dcc0c66a506b"}]

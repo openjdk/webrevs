@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,0 +30,2 @@\n+    AREA safefetch_text, CODE\n+\n@@ -35,1 +37,0 @@\n-    AREA safefetch_text, CODE\n","filename":"src\/hotspot\/os_cpu\/windows_aarch64\/safefetch_windows_aarch64.S","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
