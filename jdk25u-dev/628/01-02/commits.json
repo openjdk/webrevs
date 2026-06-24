@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use the conventional form of the `AREA` directive\n\nThis is to prevent parsing errors on older versions of the armasm64\nassembler."},"files":[{"filename":"src\/hotspot\/os_cpu\/windows_aarch64\/safefetch_windows_aarch64.S"}],"sha":"fbca6ed400424a93730a255aa6b459ce641935d0"}]
