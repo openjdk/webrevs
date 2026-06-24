@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support more than one group specified in jdk.tls.namedGroups in TLS system tests"},"files":[{"filename":"src\/jipherTest\/java\/com\/oracle\/jiphertest\/helpers\/TlsServer.java"},{"filename":"src\/systemTest\/java\/com\/oracle\/systest\/tls\/TlsSystemTest.java"}],"sha":"6876e5393c2c63ef342975765b23a808f83cd80c"}]
