@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-        for (int i = 0; i < NRPAR; i++) {\n+        for (int i = 0; i < nr; i++) {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/SHA3Parallel.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
