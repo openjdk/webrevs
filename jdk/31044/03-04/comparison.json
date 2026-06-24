@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    Compile only the specified module(s), check timestamps\n+    Compile only the specified module(s)\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/resources\/javac.properties","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
