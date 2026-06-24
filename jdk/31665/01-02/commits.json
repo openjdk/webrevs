@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387260: Revert per-iteration reserve reload in try_expend_promoted"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.cpp"}],"sha":"779e96c65477493a853b4acc573d0e152bab033b"}]
