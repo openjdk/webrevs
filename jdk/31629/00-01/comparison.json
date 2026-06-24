@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -10071,1 +10071,1 @@\n-  effect(DEF dst, USE crx, USE src);\n+  effect(TEMP_DEF dst, USE crx, USE src);\n@@ -10209,1 +10209,1 @@\n-  effect(DEF dst, USE crx, USE src);\n+  effect(TEMP_DEF dst, USE crx, USE src);\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
