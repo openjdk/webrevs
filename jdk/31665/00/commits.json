@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387260: Shenandoah: ShenandoahOldGeneration::_promoted_reserve should be atomic and try_expend_promoted should reload it on retry"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.hpp"}],"sha":"10d6dd1b25dc926e0d53bf61d9469a558e843990"}]
