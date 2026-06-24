@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n- * (e.g {@code NONEwithSDSA}. {@code NONEwithRSA}, {@code NONEwithECDSA}),\n+ * (e.g {@code NONEwithDSA}. {@code NONEwithRSA}, {@code NONEwithECDSA}),\n","filename":"src\/main\/java\/com\/oracle\/jipher\/internal\/spi\/NoDigestSig.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
