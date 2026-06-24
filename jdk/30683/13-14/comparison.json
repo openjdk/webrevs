@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,0 +66,3 @@\n+                    return;\n+                } else {\n+                    throw e;\n@@ -67,1 +70,0 @@\n-\n","filename":"test\/jdk\/sun\/security\/smartcardio\/TestCleaner.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
