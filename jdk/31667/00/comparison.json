@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2172,3 +2172,1 @@\n-      before_exit(JavaThread::current());\n-      exit_globals(); \/\/ will delete tty\n-      vm_direct_exit(1);\n+      vm_exit(1);\n","filename":"src\/hotspot\/share\/compiler\/compileBroker.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
