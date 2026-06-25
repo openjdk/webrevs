@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -542,1 +542,1 @@\n-                                            \"closing accepted connection\");\n+                                            \"closing accepted connection \" + chan);\n","filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ServerImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
