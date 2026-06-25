@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387306: Replace InputStream#read(byte[]) with InputStream#readNBytes(int) in RtfConverter.isRtfFile()"},"files":[{"filename":"src\/jdk.jpackage\/windows\/classes\/jdk\/jpackage\/internal\/RtfConverter.java"}],"sha":"50ae42c7e4885d9f07d0b525a62ec95c23cee4fb"}]
