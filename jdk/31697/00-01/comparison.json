@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3212,1 +3212,1 @@\n-         * or if the given {@code weight} is less than {@code MIN_WEIGHT}\n+         * or if the given {@code weight} is {@code Double.NaN}, less than {@code MIN_WEIGHT}\n","filename":"src\/java.base\/share\/classes\/java\/util\/Locale.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
