@@ -1,0 +1,1 @@
+[{"commit":{"message":"review: replaced trowing RuntimeException with call to System.exit(1)"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/VThreadTest\/VThreadTest.java"}],"sha":"6becaa21c99fe982a87e55e26ffc2ea84319e930"}]
