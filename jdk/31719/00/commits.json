@@ -1,0 +1,1 @@
+[{"commit":{"message":"8386802: ClassFile Util.entryList should consider non-RandomAccess lists"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/classfile\/impl\/Util.java"},{"filename":"test\/jdk\/jdk\/classfile\/UtilTest.java"}],"sha":"e5e59c01d8f510d0de1c356d227734f17c1ccaa2"}]
