@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -58,1 +58,1 @@\n-        \"linux\", PlatformUtil::isLinux,\n+        \"linux\", PlatformUtil::isUnix, \/\/ for our purposes, \"linux\" means \"unix but not macOS\"\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/css\/media\/MediaFeatures.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
