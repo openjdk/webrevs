@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,1 +134,1 @@\n-     * Verifies that a value object that doesn't implement java.io.Serializable\n+     * Verifies that the given obj that isn't expected to be serializable\n","filename":"test\/jdk\/java\/io\/Serializable\/valueObjects\/ValueSerializationTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
