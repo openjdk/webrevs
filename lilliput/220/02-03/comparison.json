@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -365,1 +365,1 @@\n-#if COMPILER2\n+#ifdef COMPILER2\n@@ -541,1 +541,1 @@\n-#if COMPILER2\n+#ifdef COMPILER2\n@@ -555,1 +555,1 @@\n-#if COMPILER2\n+#ifdef COMPILER2\n","filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompactNew.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
