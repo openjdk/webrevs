@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add assertion checks to restrict where we call try_inject_pin()"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp"}],"sha":"99d19f4f603d9245bfdc5fe754030d20052a874e"}]

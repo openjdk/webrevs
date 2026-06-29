@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2774,1 +2774,1 @@\n-         \"try_inject_pin() can only be called if marking has started or has already completed.\");\n+         \"try_inject_pin() requires marking is in progress or has completed.\");\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
