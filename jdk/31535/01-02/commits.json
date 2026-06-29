@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only run the test on x64 systems\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/cpuflags\/TestUseBMI2Instructions.java"}],"sha":"5d8a097aa6447a91d079849c0f78f40d8aa6f4de"}]
