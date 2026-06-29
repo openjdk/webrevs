@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387381: RISC-V: assert \"value != DEFAULT_VALUE\" crash with fastdebug build on systems with different core types"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp"}],"sha":"b74f818dee461b53a2a6eb647b9d8f9de9e6f3a2"}]
