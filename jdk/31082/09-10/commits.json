@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add *AddPairwiseAdd benchmark\n\nThis mimics the removed functional tests in\nTestDisableAutoVectOpcodes.java."},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/VectorReduction2.java"}],"sha":"1d424de6a44b0c6fd6584830a8c838f263e00910"}]
