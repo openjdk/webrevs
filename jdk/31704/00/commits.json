@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387267: Editor for the last column in JTable is hard to activate after AUTO_RESIZE_LAST_COLUMN was configured"},"files":[{"filename":"src\/java.desktop\/share\/classes\/javax\/swing\/JTable.java"},{"filename":"test\/jdk\/javax\/swing\/JTable\/TestAutoResizeLastColumn.java"}],"sha":"d8f087fe6721962fdcdd00a0452e17bd01f42ce8"}]
