@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1587,0 +1587,3 @@\n+    if (!is_writable_directory(\"\/tmp\")) {\n+      log_warning(os)(\"Warning: \/tmp is not a writable directory. Consider using -XX:AltTempDir=\/<dir> to one that is writable\");\n+    }\n","filename":"src\/hotspot\/os\/linux\/os_linux.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
