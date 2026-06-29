@@ -1,0 +1,1 @@
+[{"commit":{"message":"don't test sysFsCgroupCgroupControllersNoPidsPath (no pid controller)\n\nSigned-off-by: Jonathan Dowland <jdowland@redhat.com>"},"files":[{"filename":"hotspot\/test\/runtime\/containers\/cgroup\/CgroupSubsystemFactory.java"}],"sha":"f9cff8e62f67190e3a50cea0fdae64a7060ee211"}]
