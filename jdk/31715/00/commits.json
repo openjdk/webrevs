@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport e28a58b48606c6bbb13c8fc9ad37225fca0e5442"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/cpuflags\/TestUseCountTrailingZerosInstruction.java"}],"sha":"8e21ed1a0c0c897e495b3ad84ae7d07d27db1cff"}]
