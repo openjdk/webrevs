@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable reserved stack areas for critical sections on Windows AArch64"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/globalDefinitions_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/globals_aarch64.hpp"}],"sha":"5d4fe45676ca8abd1651f820049cf54c836103b0"}]
