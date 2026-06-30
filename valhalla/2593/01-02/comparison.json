@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @run driver ${test.main.class}\n+ * @run main ${test.main.class}\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestPushThroughPhiNotification.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
