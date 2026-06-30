@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into JDK-8387400-devirtualizer-force-inline"},"files":[],"sha":"052ab2963adb281e6e64cf94425e29c5f6b09ac0"},{"commit":{"message":"Fix"},"files":[{"filename":"src\/hotspot\/share\/utilities\/devirtualizer.hpp"},{"filename":"src\/hotspot\/share\/utilities\/devirtualizer.inline.hpp"}],"sha":"3f5c96268f33e88ae5e3ebcfe215fd8f70deed79"}]
