@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -81,1 +81,4 @@\n-  if (is_power_of_2(int_or_long_const + 1)) {\n+  if (int_or_long_const == 0) {\n+    \/\/ should not be handled as pow2minus1\n+    li(a, 0);\n+  } else if (is_power_of_2(int_or_long_const + 1)) {\n","filename":"src\/hotspot\/cpu\/ppc\/assembler_ppc.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
