@@ -1,0 +1,1 @@
+[{"commit":{"message":"[hat] Codegen HAT_WRS for expressing the warp size"},"files":[{"filename":"hat\/backends\/ffi\/cuda\/src\/main\/java\/hat\/backend\/ffi\/CudaHATKernelBuilder.java"},{"filename":"hat\/backends\/ffi\/opencl\/src\/main\/java\/hat\/backend\/ffi\/OpenCLHATKernelBuilder.java"}],"sha":"5eeb2de9a3e2f163f51436430dd1ae777e6efcd6"}]
