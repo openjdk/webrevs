@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -22,1 +22,1 @@\n-   $ONNX_GEN_AI_INCLUDE_DIR\/ort_genai_c.h\n\\ No newline at end of file\n+   $ONNX_GEN_AI_INCLUDE_DIR\/ort_genai_c.h\n","filename":"cr-examples\/onnx\/opgen\/setup.sh","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
