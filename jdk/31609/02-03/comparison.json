@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -321,0 +321,1 @@\n+            assertDirContents(reader, \"\/modules\/modfoo\/com\", \"foo\");\n","filename":"test\/jdk\/jdk\/internal\/jimage\/ImageReaderTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
