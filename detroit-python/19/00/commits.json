@@ -1,0 +1,1 @@
+[{"commit":{"message":"26: Throwable.toString call Python java callback is problematic in\n    Python 3.12"},"files":[{"filename":"src\/main\/java\/org\/openjdk\/engine\/python\/PythonScriptEngine.java"},{"filename":"src\/test\/java\/org\/openjdk\/engine\/python\/test\/PyJavaFunctionTest.java"}],"sha":"e38c22e2abc43e90a8152149b0d7bd4d5bf9f6ca"}]
