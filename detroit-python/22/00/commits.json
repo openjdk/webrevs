@@ -1,0 +1,1 @@
+[{"commit":{"message":"29: sh jpython.sh -m option does not work in Python 3.12"},"files":[{"filename":"src\/main\/java\/org\/openjdk\/engine\/python\/PythonMain.java"},{"filename":"src\/test\/java\/org\/openjdk\/engine\/python\/test\/ShellToolTest.java"}],"sha":"c37c17a3143bd3071eb0ae0d81ac4828dbcdde04"}]
