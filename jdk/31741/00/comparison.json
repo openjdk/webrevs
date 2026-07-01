@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -600,0 +600,3 @@\n+        {\"windows-aarch64\", \"com.sun.jdi.CommandLineLaunch\", \"dt_socket\"},\n+        {\"windows-aarch64\", \"com.sun.jdi.RawCommandLineLaunch\", \"dt_socket\"},\n+\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/share\/jdi\/ArgumentHandler.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
