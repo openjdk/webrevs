@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8387381: RISC-V: assert failed with fastdebug build on systems with different core types"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp"}],"sha":"e86c716e4cf6ad692f2ccb6e050ffd4c2c73a1b7"}]
