@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8314,1 +8314,1 @@\n-        When preview features are enabled, this function can be used for value objects.\n+        When preview features are enabled, the object to query may be a value object.\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
