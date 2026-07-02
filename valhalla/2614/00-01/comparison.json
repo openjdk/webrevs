@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @summary Test that stale\n+ * @summary Test that stale array type is correctly updated and the corrected assert works.\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestStaleArrayTypeInArrayStore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
