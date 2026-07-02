@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move the query_accurate_process_memory_info call to the test, because it might be sometimes too expensive for the productive code"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_os.cpp"}],"sha":"b9917c475919549d40744ff2f9f755cb51fdb389"}]
