@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,0 @@\n-    hashCtrlMask        = db.lookupLongConstant(\"markWord::hashctrl_mask\").longValue();\n@@ -104,1 +103,0 @@\n-  private static long hashCtrlMask;\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/Mark.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
