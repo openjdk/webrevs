@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,1 +56,0 @@\n-            Asserts.assertEQ(LAYOUT, 5, \"Unexpected layout\");\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestGetFlatValueNullableNonAtomic.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
