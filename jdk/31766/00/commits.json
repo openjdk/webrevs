@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8387697\n\nRevert \"8385892: TestResidentSetSizeEvent fails with RuntimeException: Should be non-zero: expected 0 > 0\"\nThis reverts commit d3d67ece7cf1885a30d46707a5c0a450510f037f."},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"49cb2ac35bf4bbb6badd8769827526b9da1c5fd3"}]
