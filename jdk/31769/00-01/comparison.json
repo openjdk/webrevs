@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -224,0 +224,1 @@\n+                    setPosixFilePermissions(file, permsFile);\n","filename":"test\/jdk\/java\/nio\/file\/DirectoryStream\/SecureDS.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
