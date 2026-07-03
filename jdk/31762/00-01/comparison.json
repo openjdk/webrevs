@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -741,1 +741,1 @@\n-        \/\/ On Vista: setting the window non-opaque makes the window look\n+        \/\/ Since Vista: setting the window non-opaque makes the window look\n","filename":"src\/java.desktop\/windows\/classes\/sun\/awt\/windows\/WWindowPeer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
