@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update os::rss() impl for BSD from feedback\n\nRedused the amount of conditional sections to only concern the part of\nthe mib that is different between the platforms.\n\nThis work is sponsored by The FreeBSD Foundation"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"}],"sha":"376cedf46defae1bd74423478cca44478ca10746"}]
