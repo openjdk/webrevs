@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n- * @requires vm.compiler2.enabled | vm.graal.enabled\n+ * @requires vm.flavor == \"server\"\n","filename":"hotspot\/test\/compiler\/codegen\/TestCharVect2.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
