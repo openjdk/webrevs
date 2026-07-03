@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -467,1 +467,1 @@\n-#endif \/* defined(_AIX) *\/\n+#endif \/* defined(__linux__) || defined(MACOSX) || defined(_AIX) *\/\n","filename":"src\/java.base\/unix\/native\/libjava\/TimeZone_md.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
