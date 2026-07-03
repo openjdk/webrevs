@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4155,2 +4155,2 @@\n-  if (in(Address) != nullptr)\n-    _adr_type = in(Address)->bottom_type()->isa_ptr();\n+  if (in(MemNode::Address) != nullptr)\n+    _adr_type = in(MemNode::Address)->bottom_type()->isa_ptr();\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
