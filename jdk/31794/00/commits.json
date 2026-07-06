@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387793: SecureDS.doSetPermissions tests absolute paths\n\nAlways pass a relative path to `SecureDirectoryStream.getFileAttributeView`."},"files":[{"filename":"test\/jdk\/java\/nio\/file\/DirectoryStream\/SecureDS.java"}],"sha":"6fadaa0ad08974d8733c207e5d5921423eaf65df"}]
