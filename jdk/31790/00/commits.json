@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387769: GZIPInputStream tests should succeed with tryReadAheadAfterTrailer true and false"},"files":[{"filename":"test\/jdk\/java\/util\/zip\/GZIP\/GZIPInputStreamRead.java"},{"filename":"test\/jdk\/java\/util\/zip\/GZIP\/GZIPOverBlockingStreams.java"}],"sha":"29ef7ab5c552797a82bed2dd8105ea790f7901e7"}]
