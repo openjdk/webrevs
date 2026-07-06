@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387800: [lworld] PPC64 field flattening bugs in JEP 401"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/interp_masm_ppc_64.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/jniFastGetField_ppc.cpp"},{"filename":"src\/hotspot\/cpu\/ppc\/templateTable_ppc_64.cpp"}],"sha":"29b74f939461015d7fb66dc3e6fb87d0b55ddf3a"}]
