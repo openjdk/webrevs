@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387747: Enable long vector multiply IR tests for RISC-V"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorMulLongToSignedUnsignedInt.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorMultiplyOpt.java"}],"sha":"586182e9713e098cd6d8e4573664d745d09cc737"}]
