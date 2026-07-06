@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove stage from active windows list, to prevent NPE, and include test"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/GlassWindowEventHandler.java"},{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/stage\/DestroyWindowTest.java"}],"sha":"3b46f50dd4db3d5a392990a77bcd9d5fb52ed8f5"}]
