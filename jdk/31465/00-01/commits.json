@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use getVolatile instead of getAcquire"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/LinkedTransferQueue.java"}],"sha":"536861f4192265ff52387d364c396817e0923654"}]
