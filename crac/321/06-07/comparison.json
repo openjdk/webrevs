@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -211,1 +211,1 @@\n-    const char *a[MAX_CPU_FEATURES];\n+    const char *names[MAX_CPU_FEATURES];\n@@ -214,1 +214,1 @@\n-      const char *retval = a[i];\n+      const char *retval = names[i];\n","filename":"src\/hotspot\/share\/runtime\/vm_features.inline.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
