@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387204: C2 VectorAPI: logic cones treats wrongly treats masked XorV"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestMaskedMacroLogicVector.java"}],"sha":"915f39e590850bfdc8b0a8d4a5be752c15187bfc"}]
