@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -655,1 +655,1 @@\n-    if (!x->is_null_free() && obj->is_null_obj()) {\n+    if (obj->is_null_obj()) {\n","filename":"src\/hotspot\/share\/c1\/c1_Canonicalizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
