@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,1 +147,1 @@\n-  const G1CollectorState& next_state() const { return _next_state; }\n+  const G1CollectorState next_state() const { return _next_state; }\n","filename":"src\/hotspot\/share\/gc\/g1\/g1YoungCollector.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
