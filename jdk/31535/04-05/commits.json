@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update tests to run without Xcomp when not needed\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/cpuflags\/TestUseBMI2Instructions.java"}],"sha":"edd66a8578d6e34a8dca4c38bf253d5568d67655"}]
