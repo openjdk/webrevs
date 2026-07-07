@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -445,0 +445,1 @@\n+    RV_ENABLE_EXTENSION(UseZvbb)                    \\\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
