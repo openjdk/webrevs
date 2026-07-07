@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387865: ThisEscapeAnalyzer crashes for erroneous source code"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/ThisEscapeAnalyzer.java"},{"filename":"test\/langtools\/tools\/javac\/recovery\/AttrRecovery.java"}],"sha":"5c83187eaf882500c0b84de2221403678b6813dd"}]
