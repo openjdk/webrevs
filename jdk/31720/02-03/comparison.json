@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,0 +47,5 @@\n+inline jlong os::cntfrq() {\n+  const int CNTFRQ_EL0 = ARM64_SYSREG(3, 3, 14, 0, 0);\n+  return (jlong)_ReadStatusReg(CNTFRQ_EL0);\n+}\n+\n","filename":"src\/hotspot\/os_cpu\/windows_aarch64\/os_windows_aarch64.inline.hpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
