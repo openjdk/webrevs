@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n- * @run main\/othervm CompressedCertMsgCache\n+ * @run main\/othervm -Djdk.tls.server.newSessionTicketCount=0 CompressedCertMsgCache\n","filename":"test\/jdk\/sun\/security\/ssl\/CertificateCompression\/CompressedCertMsgCache.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
