@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -400,1 +400,1 @@\n-            assertThrows(cf1.isCancelled());\n+            assertTrue(cf1.isCancelled());\n","filename":"test\/jdk\/java\/net\/httpclient\/CancelRequestTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
