@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove redundant conditional preprocessor guard\n\nThis file is only built for Windows\/ARM64, so we don't need to check of\n`_M_ARM64`."},"files":[{"filename":"src\/hotspot\/os_cpu\/windows_aarch64\/pauth_windows_aarch64.inline.hpp"}],"sha":"93170e60bcefbc612b6f8a8bb24db63e7e20b04b"}]
