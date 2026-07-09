@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388035: RISC-V: Auto-enable Zfa extension features"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp"}],"sha":"52621342e1a54e685ce1df4f2c9c77c862a30a01"}]
