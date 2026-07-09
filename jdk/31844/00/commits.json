@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387860\n\nHi all,\n\n  please review this change that changes padding calculation to use member names, not member types, to avoid future problems with type changes in that area.\n\nTesting: gha\n\nThanks,\n  Thomas"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentMark.hpp"}],"sha":"961723fee51800ce8d47869495535eb22de40687"}]
