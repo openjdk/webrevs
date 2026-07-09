@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1111,1 +1111,0 @@\n-    assert(VM_Version::supports_avx512vlbw(), \"must at least support AVX-512 VLBW\");\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_kyber.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
