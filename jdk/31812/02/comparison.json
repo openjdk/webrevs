@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @run main\/othervm BulkCipherDisabledAlgorithms visibility\n+ * @run main\/othervm\/timeout=480 BulkCipherDisabledAlgorithms visibility\n","filename":"test\/jdk\/javax\/net\/ssl\/ciphersuites\/BulkCipherDisabledAlgorithms.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
