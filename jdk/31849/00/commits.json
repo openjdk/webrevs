@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 7753c98686006bc5710169dd4d3ca312495a8ad1"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/cpuflags\/TestUseBMI2Instructions.java"}],"sha":"b39c1e7e4ea0c8bde1b954dcf60fdf940e84e712"}]
