@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix JDK-8387472"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/memnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestRemoveFullyCoveredStores.java"}],"sha":"dced2287d412735609694ef77b83bfb695f15ba4"}]
