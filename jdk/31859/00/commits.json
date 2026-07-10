@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387145: C2 VectorAPI: bad definition of right_child_pred in Compile::compute_logic_cone"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestMaskedMacroLogicVector.java"}],"sha":"c4540bf22c28f461e2a203b90c30dfe7fe99fd63"}]
