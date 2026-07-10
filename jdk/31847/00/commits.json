@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8388017-aix-Narrow-klass-encoding-protection-region-should-be-protected-in-mmap-mode"},"files":[{"filename":"src\/hotspot\/os\/aix\/os_aix.cpp"},{"filename":"src\/hotspot\/share\/oops\/compressedKlass.cpp"}],"sha":"c1784119f8a8627b9ec7fb2ce8fa861af9d25845"}]
