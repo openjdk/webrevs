@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n- * behavior for the JDI user. In particlar, the value object may change after\n+ * behavior for the JDI user. In particular, the value object may change after\n","filename":"src\/jdk.jdi\/share\/classes\/com\/sun\/jdi\/ObjectReference.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
