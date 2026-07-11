@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1205,3 +1205,1 @@\n-  if (drain_worklist()) {\n-    return;\n-  }\n+  verify_empty_worklist(nullptr);\n@@ -1242,1 +1240,0 @@\n-  Node_Array tmp_node_map;\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
