@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1205,1 +1205,3 @@\n-  DEBUG_ONLY(verify_empty_worklist(nullptr));\n+  if (drain_worklist()) {\n+    return;\n+  }\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
