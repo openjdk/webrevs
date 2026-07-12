@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,1 @@\n+  GLIBC_UNSUPPORTED(STXR_PREFETCH_UNUSED); \\\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
