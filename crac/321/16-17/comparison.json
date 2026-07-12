@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,1 @@\n+#include \"utilities\/formatBuffer.hpp\"\n","filename":"src\/hotspot\/os_cpu\/linux_aarch64\/vm_version_linux_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
