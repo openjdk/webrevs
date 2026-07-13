@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- *                   -XX:CompileOnly=compiler.stringopts.TestStackedConcatsManyUTF16Overflow::f\n+ *                   -XX:CompileOnly=${test.main.class}::f\n","filename":"test\/hotspot\/jtreg\/compiler\/stringopts\/TestStackedConcatsManyUTF16Overflow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
