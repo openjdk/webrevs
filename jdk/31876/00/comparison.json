@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,1 +35,0 @@\n-  size_t comm_size = 0;\n","filename":"src\/hotspot\/share\/nmt\/regionsTree.inline.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
