@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address review comments and extend the test"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestSelectFromTwoVectorSameOperand.java"}],"sha":"7bfb2431e613d7620666e2ee398066c7621bbc0e"}]
