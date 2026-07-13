@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove psapi linkage from other libs too"},"files":[{"filename":"make\/modules\/java.management\/Lib.gmk"},{"filename":"make\/modules\/jdk.attach\/Lib.gmk"},{"filename":"make\/modules\/jdk.management\/Lib.gmk"}],"sha":"807266908b3ac916b377735d6614bd2f68889392"}]
