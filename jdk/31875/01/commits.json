@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388120: Refine s390x return value register definitions"},"files":[{"filename":"src\/hotspot\/cpu\/s390\/s390.ad"}],"sha":"4b35bcbc7ec32aea27981b7b26d554581b2b4529"},{"commit":{"message":"8388120: [s390x] c2: c_return_value is redundant"},"files":[{"filename":"src\/hotspot\/cpu\/s390\/s390.ad"}],"sha":"9678457358cdfad510ad1e03e8404035606395b0"}]
