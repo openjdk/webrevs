@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix bug where a property with a change listener did not become valid"},"files":[{"filename":"modules\/javafx.base\/src\/main\/java\/com\/sun\/javafx\/binding\/ListenerList.java"},{"filename":"modules\/javafx.base\/src\/test\/java\/test\/com\/sun\/javafx\/binding\/AbstractListenerManagerTest.java"}],"sha":"7113e1626dbc6deaa1feff8beac2b656a64211be"}]
