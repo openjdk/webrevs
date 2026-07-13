@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1123,0 +1123,1 @@\n+          assert(base->Opcode() != Op_CastPP, \"Only one CastPP expected\");\n","filename":"src\/hotspot\/share\/opto\/escape.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
