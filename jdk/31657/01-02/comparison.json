@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -6696,1 +6696,1 @@\n-    decodeNKlass_notNull_addBase(dst, base, src);\n+    decodeNKlass_notNull(dst, base, src);\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
