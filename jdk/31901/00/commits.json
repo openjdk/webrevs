@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 499a25b2d05194461c2a4ed1d7bdb745b115f98f"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/parsing\/TestTypeUnsafeFieldStore.java"}],"sha":"7752bbc7e96bea0df9048611db627d771ebb8ede"}]
