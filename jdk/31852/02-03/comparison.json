@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1298,1 +1298,1 @@\n-      \/\/ unsafe accesses when we do not check for type safety.\n+      \/\/ unsafe accesses when we do not check for type safety. See JDK-8388184.\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
