@@ -1,0 +1,1 @@
+[{"commit":{"message":"Support -XX:FlightRecorderOptions:redact-argument=*red* in env. variables"},"files":[{"filename":"src\/hotspot\/share\/jfr\/periodic\/jfrRedactedEvents.cpp"},{"filename":"src\/hotspot\/share\/jfr\/periodic\/jfrRedactedEvents.hpp"}],"sha":"9d87fb1dfb95fc9519c83c748dd077c5728802f9"}]
