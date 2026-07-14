@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5532,5 +5532,1 @@\n-    if (shift != 0) {\n-      add(dst, tmp, src, LSL, shift);\n-    } else {\n-      add(dst, tmp, src);\n-    }\n+    add(dst, tmp, src, LSL, shift);\n","filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp","additions":1,"deletions":5,"binary":false,"changes":6,"status":"modified"}]}
