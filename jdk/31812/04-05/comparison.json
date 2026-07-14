@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,0 @@\n-import java.util.ArrayList;\n@@ -39,1 +38,0 @@\n-import java.util.List;\n","filename":"test\/jdk\/sun\/security\/ssl\/SSLAlgorithmDecomposer\/BulkCipherDecomposition.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
