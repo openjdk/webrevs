@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3182,4 +3182,1 @@\n-      if (!UseCountTrailingZerosInstruction) {\n-        return false;\n-      }\n-      if (UseAVX < 3 || !VM_Version::supports_bmi2()) {\n+      if (UseAVX < 3 || !UseCountTrailingZerosInstruction) {\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
