@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix typo and fail on -XX:FlightRecorderOptions:redact-argument\/redact-key="},"files":[{"filename":"src\/hotspot\/share\/jfr\/periodic\/jfrRedactedEvents.cpp"},{"filename":"test\/jdk\/jdk\/jfr\/startupargs\/TestRedact.java"}],"sha":"f52468655a9706aeaa3c50963f2782bb263494d1"}]
