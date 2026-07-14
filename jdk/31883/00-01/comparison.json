@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,0 +66,1 @@\n+      \/\/ Not all committed pages have to be resident.\n","filename":"test\/hotspot\/gtest\/runtime\/test_committed_virtualmemory.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
