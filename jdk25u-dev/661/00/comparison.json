@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,0 +193,4 @@\n+  # avoid elimination of Metadata vtable when using LTO (important for serviceability agent)\n+  ifeq ($(call isCompiler, gcc), true)\n+    JVM_LDFLAGS_FEATURES += -Wl,--undefined=_ZTV8Metadata\n+  endif\n","filename":"make\/hotspot\/lib\/JvmFeatures.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
