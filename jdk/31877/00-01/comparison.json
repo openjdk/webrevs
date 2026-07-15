@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3249,2 +3249,0 @@\n-  address pc0 = *(address*)(sp - frame::sender_sp_ret_address_offset());\n-\n","filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
