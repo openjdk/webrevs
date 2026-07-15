@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2369,4 +2369,1 @@\n-    if (AlwaysIncrementalInline || StressIncrementalInlining ||\n-        _late_inlines.length() > 0) {\n-      inline_incrementally(igvn);\n-    }\n+    inline_incrementally(igvn);\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":4,"binary":false,"changes":5,"status":"modified"}]}
