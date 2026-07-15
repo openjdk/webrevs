@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388360: Dead sharedRuntime.cpp stub name code\n\nJDK-8360707 removed all references to `SharedRuntime::_stub_names` except for dead `#if 0`ed block that this change now removes too."},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"}],"sha":"473ca28495e0186c40e5cc0635d6da7d5355c140"}]
