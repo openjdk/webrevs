@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -70,1 +70,1 @@\n-            if(stopThread(vthread, new MyException())) {\n+            if (stopThread(vthread, new MyException())) {\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/StopThreadTest2\/StopThreadTest2.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
