@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -781,0 +781,4 @@\n+    The sources for the JDK classes are looked up in the JDK's sources, if they\n+    can be found in the JDK installation. The sources may need to be added to\n+    the JDK installation separately.\n+\n","filename":"src\/jdk.jshell\/share\/man\/jshell.md","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
