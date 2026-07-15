@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,1 +61,1 @@\n- * @run driver jdk.test.lib.crac.CracTest 0x200000080c7,0x0\n+ * @run driver jdk.test.lib.crac.CracTest 0x200000080d7,0x0\n","filename":"test\/jdk\/jdk\/crac\/CPUFeatures\/SimpleCPUFeaturesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
