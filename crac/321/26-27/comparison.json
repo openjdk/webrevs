@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3232,0 +3232,3 @@\n+  \/\/ Unused fields, see the enum definition.\n+  vm_features.set_feature(CPU_MMX_UNUSED);\n+  vm_features.set_feature(CPU_FLUSH_UNUSED);\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
