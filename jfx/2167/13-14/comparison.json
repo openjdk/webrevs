@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -422,1 +422,1 @@\n-    public void testReadOnlyObservableIntegerArrayWxithNamedArg() {\n+    public void testReadOnlyObservableIntegerArrayWithNamedArg() {\n","filename":"modules\/javafx.fxml\/src\/test\/java\/test\/com\/sun\/javafx\/fxml\/builder\/ProxyBuilderTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
