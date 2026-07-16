@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -683,1 +683,1 @@\n- \/\/ get throwing pc (= return address).\n+  \/\/ get throwing pc (= return address).\n","filename":"src\/hotspot\/cpu\/x86\/c1_Runtime1_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
