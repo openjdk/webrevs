@@ -1,0 +1,1 @@
+[{"commit":{"message":"Made the non-conditional case explicit by setting it to \"NONE\""},"files":[{"filename":"make\/jdk\/src\/classes\/build\/tools\/generatespecialcasing\/GenerateSpecialCasing.java"},{"filename":"src\/java.base\/share\/classes\/java\/lang\/ConditionalSpecialCasing.java.template"}],"sha":"b50616d2a331b4b61e76040ed1ba4384f2e8e53b"}]
