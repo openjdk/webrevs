@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,1 +127,1 @@\n-  __ z_btrue(weak_tag);\n+  __ branch_optimized(Assembler::bcondNotAllZero, weak_tag);\n","filename":"src\/hotspot\/cpu\/s390\/gc\/shared\/barrierSetAssembler_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
