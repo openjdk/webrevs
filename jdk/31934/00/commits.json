@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388399: RISC-V: Add independent Zvfhmin support"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp"}],"sha":"baed0ebf6810fd22829fd1d4819d288f51ad625d"}]
