@@ -1,0 +1,1 @@
+[{"commit":{"message":"feat(log): JDK-8388410 Add EmbeddedStubs from StubGenBlobs into the\nmapping file"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMapLogger.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotMapLogger.hpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"}],"sha":"4da696d4cd079404195095634242c6c9974de37c"}]
