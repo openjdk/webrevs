@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -284,1 +284,1 @@\n-        MemorySegment localGeneratorParams = null;\n+        MemorySegment localGeneratorParams = MemorySegment.NULL;\n","filename":"cr-examples\/onnx\/src\/main\/java\/oracle\/code\/onnx\/genai\/OnnxGenRuntimeSession.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
