@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -358,1 +358,1 @@\n-      heap_region_containing(p)->set_has_self_forwards();\n+      from_region->set_has_self_forwards();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
