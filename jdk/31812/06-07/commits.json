@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reduce spawned VMs to 5 by grouping cipher suites by bulk cipher"},"files":[{"filename":"test\/jdk\/javax\/net\/ssl\/ciphersuites\/BulkCipherDisabledAlgorithms.java"}],"sha":"1a9687701391daa29c2e54adc3c3eb57ee1c6a01"}]
