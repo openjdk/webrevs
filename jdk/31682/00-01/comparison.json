@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,2 +106,1 @@\n-        \/\/ if GetDiskSpaceInformationW is unavailable (\"The specified\n-        \/\/ procedure could not be found\"), fall back to GetDiskFreeSpaceExW\n+        \/\/ fall back to GetDiskFreeSpaceExW\n","filename":"test\/jdk\/java\/io\/File\/libGetXSpace.c","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
