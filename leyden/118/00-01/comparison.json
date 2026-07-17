@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -606,1 +606,1 @@\n-  const char* store_buffer()      const { return _store_buffer; }\n+  const char* store_buffer() const { return _store_buffer; }\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
