@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix type of ZIndexDistributorStrategy to uint"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/z_globals.hpp"}],"sha":"767f1be359ddf455956234969bc838fa2c243108"},{"commit":{"message":"fix JDK-8388312"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/z_globals.hpp"}],"sha":"06ec4c3560054a8e2c51864945a06d6b3fc3c888"}]
