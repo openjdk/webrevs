@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388431: [21u] Backport of JDK-8352565 misses previous vm symbol to be deleted"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmSymbols.hpp"}],"sha":"001454c119d74f17447f6609462a86962fe39760"}]
