@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't generate continuations stub if VMContinuations disabled"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"},{"filename":"src\/hotspot\/share\/runtime\/stubRoutines.cpp"}],"sha":"5e0ab47b70899ea91a6af3ba2abfad5fd7174fa2"}]
