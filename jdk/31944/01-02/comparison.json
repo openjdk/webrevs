@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -147,1 +147,1 @@\n-\/\/ handle_dcmd_start() need to print info level jfr+startup message to stdout,\n+\/\/ handle_dcmd_result() need to print info level jfr+startup message to stdout,\n","filename":"src\/hotspot\/share\/jfr\/dcmd\/jfrDcmds.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
