@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388458: RISC-V: Optimize G1 post-write barrier conditional card mark"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/g1\/g1BarrierSetAssembler_riscv.cpp"}],"sha":"a740d2fbb636a09f364ff9dcd1212ea9f90a825d"}]
