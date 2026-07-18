@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -171,1 +171,1 @@\n-    return G1CardSet::static_mem_size();\n+    return G1CardSet::static_mem_size() + G1FromCardCache::static_mem_size();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1HeapRegionRemSet.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
