@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388457: parse_integer: typo in hex prefix detection causes out-of-bounds read and wrong base for negative hex"},"files":[{"filename":"src\/hotspot\/share\/utilities\/parseInteger.hpp"},{"filename":"test\/hotspot\/gtest\/utilities\/test_parse_memory_size.cpp"}],"sha":"c20afbbdd13b21f3ff5b980942e9561049aa9f07"}]
