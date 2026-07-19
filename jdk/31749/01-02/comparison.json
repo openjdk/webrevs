@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,1 +244,0 @@\n-System.out.println(g instanceof Graphics2D);\n","filename":"src\/java.desktop\/macosx\/classes\/com\/apple\/laf\/AquaProgressBarUI.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
