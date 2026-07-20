@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -563,2 +563,0 @@\n-            } else if (cpu.equals(\"aarch64\")) {\n-                machDesc = new MachineDescriptionAArch64();\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/HotSpotAgent.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
