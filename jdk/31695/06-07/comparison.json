@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,0 +68,1 @@\n+        vmArgs.add(\"-XX:-StressReflectiveCode\"); \/\/ Temporarily disable stress flag that causes unrelated failures.\n@@ -70,0 +71,1 @@\n+\n","filename":"test\/hotspot\/jtreg\/compiler\/igvn\/TestMaskedStoreIdealization.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
