@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,0 +72,1 @@\n+        f.setResizable(false);\n","filename":"test\/jdk\/java\/awt\/Panel\/PanelRepaint\/PanelRepaint.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
