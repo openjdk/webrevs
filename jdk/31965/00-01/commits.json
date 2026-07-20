@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip SetLocal sub-tests on virtual threads"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/GetLocalVariable\/GetSetLocalSlotOverflow.java"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/GetLocalVariable\/libGetSetLocalSlotOverflow.cpp"}],"sha":"8b92c680a262426379a5c66e337c77f1292bf961"}]
