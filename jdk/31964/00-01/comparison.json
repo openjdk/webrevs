@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -235,1 +235,1 @@\n-        if (runMode == RunMode.TRAINING) {\n+        if (runMode == RunMode.ASSEMBLY) {\n","filename":"test\/lib\/jdk\/test\/lib\/cds\/CDSAppTester.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
