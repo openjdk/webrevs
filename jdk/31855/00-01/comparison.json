@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -392,1 +392,1 @@\n-        \/\/ flags that indicate if we should fail if attributes cannot be copied\n+        \/\/ flag that indicates if we should fail if basic attributes cannot be copied\n","filename":"src\/java.base\/unix\/classes\/sun\/nio\/fs\/UnixFileSystem.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
