@@ -1,0 +1,1 @@
+[{"commit":{"message":"Create native owned copy of pixel buffer, and include manual test"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassPixels.m"},{"filename":"tests\/manual\/systemmenu\/MacOSSystemMenuImageGraphicTest.java"}],"sha":"51bdfa11b30d4b4990614ecb28545f86993b59e0"}]
