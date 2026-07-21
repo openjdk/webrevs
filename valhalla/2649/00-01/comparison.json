@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -123,1 +123,1 @@\n-            super(name, Objects.requireNonNull(link).getFileAttributes());\n+            super(name, link.getFileAttributes());\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/jrtfs\/ExplodedImage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
