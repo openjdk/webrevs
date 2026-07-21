@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add cmovI_cmpN_zero cmovI_cmpP_zero instruct"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"5163d555635a493f217cf5f45502ccc9ecc41523"},{"commit":{"message":"8388459: RISC-V: Add specialized CMove patterns with zero operand"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"685dd11fc01735af835ef48add1e3fa9f61de1f4"}]
