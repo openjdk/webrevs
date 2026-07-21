@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add functional test\n\nCredit to Eric Fang for writing the reproducer code, which I've used\nverbatim in the test."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/aarch64\/TestSveClone.java"}],"sha":"184fd27f0e361a089f252fcd7769ee671aef464f"}]
