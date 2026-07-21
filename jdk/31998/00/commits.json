@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388694: Refactor metaspace_pointers_do() operations for BSMAttributeEntries"},"files":[{"filename":"src\/hotspot\/share\/oops\/bsmAttribute.hpp"},{"filename":"src\/hotspot\/share\/oops\/constantPool.cpp"}],"sha":"bab2e381705d8bd2bc26682aa729f88d7473eb7d"}]
