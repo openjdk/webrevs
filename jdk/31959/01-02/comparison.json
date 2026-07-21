@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1255,1 +1255,1 @@\n-    orr(dst, dst, cond);\n+    add(dst, dst, cond);\n@@ -1265,1 +1265,1 @@\n-    orr(dst, dst, cond);\n+    add(dst, dst, cond);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
