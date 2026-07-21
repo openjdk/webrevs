@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8388475: RISC-V: Optimize MD5 intrinsics by reducing data dependency"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"fca1eaccee56ca1bbfcd83187a7cb8fb3cd1f920"}]
