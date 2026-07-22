@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -437,1 +437,1 @@\n-  assert(entry->kind() == StubGen, \"invalid call\");\n+  assert(entry->kind() == AOTCodeEntry::Kind::StubGenBlob, \"invalid call\");\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
