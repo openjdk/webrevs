@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow tests to enable AOTAdapterCaching"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCode\/AOTCodeCompressedOopsTest.java"}],"sha":"464b6246605b2b832c8501b6c3bdf3acbea605fe"}]
