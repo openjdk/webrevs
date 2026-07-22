@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,1 +119,1 @@\n-            if (wasLocked) {\n+            if (!wasLocked) {\n","filename":"modules\/javafx.base\/src\/main\/java\/com\/sun\/javafx\/binding\/ListenerList.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
