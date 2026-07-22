@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into 8388703"},"files":[],"sha":"605c6b333f931b2045c84f69071192867d13c02a"},{"commit":{"message":"8388703: Launching with AOT cache fatally crashes with SIGILL (0x4) depending on available CPU instructions"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"3a27c49fc41c1fb3aee43e1caf51b56f85a5f71b"}]
