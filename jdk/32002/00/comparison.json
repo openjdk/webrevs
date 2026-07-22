@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n- * The maxiumum number of header fields accepted in a request. If this limit is exceeded\n+ * The maximum number of header fields accepted in a request. If this limit is exceeded\n","filename":"src\/jdk.httpserver\/share\/classes\/module-info.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
