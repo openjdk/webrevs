@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,0 +216,1 @@\n+        opts.addJavaOptsAppended(\"-XX:ActiveProcessorCount=2\");\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TestMemoryAwareness.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
