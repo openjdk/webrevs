@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -10406,1 +10406,1 @@\n-  ins_cost(ALU_COST * 2);\n+  ins_cost(ALU_COST + BRANCH_COST);\n@@ -10421,1 +10421,1 @@\n-  ins_cost(ALU_COST * 2);\n+  ins_cost(ALU_COST + BRANCH_COST);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
