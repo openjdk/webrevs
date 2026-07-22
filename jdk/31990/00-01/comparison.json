@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    result = reserve_address_space_X(from, to, size, Metaspace::reserve_alignment(), aslr);\n+    result = reserve_address_space_X(from, to, size, nth_bit<uintptr_t>(32), aslr);\n","filename":"src\/hotspot\/cpu\/s390\/compressedKlass_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
