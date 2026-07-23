@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set UseFPUForSpilling to false by default for Intel processors that support it."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"31efcb3168b3da6fa405f8ab4c661270165739fb"}]

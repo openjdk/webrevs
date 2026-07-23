@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1797,1 +1797,1 @@\n-      FLAG_SET_DEFAULT(UseFPUForSpilling, true);\n+      FLAG_SET_DEFAULT(UseFPUForSpilling, false);\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
