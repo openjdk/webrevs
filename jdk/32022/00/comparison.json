@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1509,0 +1509,1 @@\n+  \/\/ The higher lanes are set to zero.\n@@ -1510,2 +1511,1 @@\n-  sve_dup(vtmp, B, 0);\n-  mov(vtmp, D, 0, src);\n+  fmovd(vtmp, src);\n","filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
