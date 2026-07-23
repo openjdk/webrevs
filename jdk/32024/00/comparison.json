@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,1 +126,1 @@\n-        return !Boolean.getBoolean(d3d) || getOSType() == OSType.WINDOWS;\n+        return !Boolean.parseBoolean(d3d) || getOSType() == OSType.WINDOWS;\n","filename":"test\/jdk\/javax\/swing\/JInternalFrame\/8069348\/bug8069348.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
