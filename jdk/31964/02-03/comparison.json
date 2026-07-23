@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -231,0 +231,2 @@\n+    \/\/ This method should be called before `vmArgs()`, so that subclasses of CDSAppTester\n+    \/\/ can have a chance to override the flags set here.\n","filename":"test\/lib\/jdk\/test\/lib\/cds\/CDSAppTester.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
