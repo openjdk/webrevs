@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -127,1 +127,1 @@\n-        b._rel_pc = pointer_delta(r->addr(), code_begin, 1);\n+        b._rel_pc = checked_cast<int32_t>(pointer_delta(r->addr(), code_begin, 1));\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahNMethod.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
