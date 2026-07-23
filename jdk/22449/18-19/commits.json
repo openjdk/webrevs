@@ -1,0 +1,1 @@
+[{"commit":{"message":"skips int -> long conversions for loops with existing long exit tests"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"}],"sha":"6fd4a2140f809dd781eb7358953550a650663d86"}]
