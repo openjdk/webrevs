@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add forward declarations, fix MAX_VERSION that fails with product compiles"},"files":[{"filename":"src\/hotspot\/share\/classfile\/javaStackTraceClasses.cpp"},{"filename":"src\/hotspot\/share\/classfile\/javaStackTraceClasses.hpp"}],"sha":"300ee65064942629bb47790a4dbdae6a427e6ea1"}]
