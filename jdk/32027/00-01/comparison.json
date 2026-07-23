@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-  virtual bool nmethod_entry_barrier(nmethod* nm);\n+  bool nmethod_entry_barrier(nmethod* nm) override;\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSetNMethod.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
