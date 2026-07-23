@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -606,0 +606,2 @@\n+                    \/\/ The following ThreadLocal.get() should NOT compute\n+                    \/\/ new thread local state.\n","filename":"src\/main\/java\/org\/openjdk\/engine\/python\/PythonScriptEngine.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
