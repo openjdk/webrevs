@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -67,3 +67,0 @@\n-\n-  \/\/ Debugging\n-  friend class JavaClasses;\n","filename":"src\/hotspot\/share\/classfile\/javaStackTraceClasses.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
