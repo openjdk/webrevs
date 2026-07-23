@@ -1,0 +1,1 @@
+[{"commit":{"message":"[hat] Add warning to remove the I\/O annotations for non annotated kernels"},"files":[{"filename":"hat\/backends\/ffi\/shared\/src\/main\/java\/hat\/backend\/ffi\/C99FFIBackend.java"},{"filename":"hat\/core\/src\/main\/java\/hat\/buffer\/ArgArray.java"}],"sha":"32ce59fcca2d573df517027e843965af8981014c"}]
