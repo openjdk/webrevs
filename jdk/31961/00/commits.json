@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388460: RISC-V: Auto-enable Zcb extension features"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp"}],"sha":"2048699ec9377b8d98c258a490128f252a56af43"}]
