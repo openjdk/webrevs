@@ -1,0 +1,1 @@
+[{"commit":{"message":"8370493: [ubsan] aotMapLogger.cpp:864:44: runtime error: applying non-zero offset NNNNN to null pointer"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMapLogger.cpp"},{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"},{"filename":"src\/hotspot\/share\/cds\/archiveUtils.hpp"}],"sha":"68bf88e371462ded3c689cbcdcc1b627a51d91de"}]
