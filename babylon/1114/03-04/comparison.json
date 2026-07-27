@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -264,0 +264,3 @@\n+                Env<AttrContext> classEnv = typeEnvs.get(tree.sym);\n+                classEnv.tree = tree;\n+                classEnv.enclClass = tree;\n","filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/internal\/ReflectMethods.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
