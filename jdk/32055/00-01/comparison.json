@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,1 @@\n-<p>Use of instances of value-based classes in {@linkplain\n+<p>Use of instances of value-based classes as referents in {@linkplain\n","filename":"src\/java.base\/share\/classes\/java\/lang\/doc-files\/ValueBased.html","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
