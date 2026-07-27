@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,0 +216,2 @@\n+        \/\/ reduce the number of CPUs to 2, so that the number of GC threads is not too\n+        \/\/ high for the small memory limit (each thread reserves 2MB stacksize).\n","filename":"test\/hotspot\/jtreg\/containers\/docker\/TestMemoryAwareness.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
