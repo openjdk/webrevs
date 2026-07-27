@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -288,1 +288,1 @@\n-      G1BarrierSet::g1_barrier_set()->write_ref_field_post(p);\n+      \/\/ Pointers into young regions are already tracked by post-write barriers.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1OopClosures.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
