@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use `InterceptOSException` to demonstrate utility of patch"},"files":[{"filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/CodeCacheRuntimeFunctionTableTest.java"},{"filename":"test\/hotspot\/jtreg\/runtime\/ErrorHandling\/libCodeCacheRuntimeFunctionTableTest.c"}],"sha":"007f048e068c0bce6b6f7853c657bf30483165b7"}]
