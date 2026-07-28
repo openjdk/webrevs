@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-        MutableIntegerModuloP test1;\n+        MutableIntegerModuloP test1 = X.mutable();\n","filename":"test\/micro\/org\/openjdk\/bench\/javax\/crypto\/full\/PolynomialP256Bench.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
