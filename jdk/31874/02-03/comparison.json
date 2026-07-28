@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2376,0 +2376,2 @@\n+    \/\/ inline_boxing_calls() may enqueue newly discovered calls matched by a\n+    \/\/ CompileCommand=delayinline directive into _late_inlines.\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
