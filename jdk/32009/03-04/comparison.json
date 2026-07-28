@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,2 +54,1 @@\n- * @library ..\/..\/lib\n- * @library \/test\/lib\n+ * @library ..\/..\/lib \/test\/lib\n","filename":"test\/jdk\/tools\/jlink\/plugins\/GenerateJLIClassesPluginTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
