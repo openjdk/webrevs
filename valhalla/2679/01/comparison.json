@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3021,0 +3021,1 @@\n+    \/* TODO 8389088: Re-enable once fixed.\n@@ -3031,0 +3032,1 @@\n+    *\/\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestNullableInlineTypes.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
