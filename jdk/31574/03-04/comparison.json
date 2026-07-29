@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4427,1 +4427,1 @@\n-    offset = appenf(new Convert(Bytecodes::_l2i, offset, as_ValueType(T_INT)));\n+    offset = append(new Convert(Bytecodes::_l2i, offset, as_ValueType(T_INT)));\n","filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
