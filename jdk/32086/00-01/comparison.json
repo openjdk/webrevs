@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,0 @@\n- * @run testng\/othervm -esa -ea -Dsys.option=on  -Duser.option=on Sanity\n@@ -32,0 +31,1 @@\n+ * @run testng\/othervm -dsa -da -Dsys.option=off -Duser.option=off Sanity\n","filename":"test\/jdk\/java\/lang\/Class\/desiredAssertionStatus\/Sanity.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
