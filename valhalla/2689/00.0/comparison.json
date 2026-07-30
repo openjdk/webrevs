@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -506,1 +506,1 @@\n-    if (parallel < 0) {\n+    if (parallel < 0 || parallel > max_juint) {\n","filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
