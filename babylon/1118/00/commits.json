@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389389: IllegalAccessError when calling a protected method\n"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/bytecode\/BytecodeGenerator.java"},{"filename":"test\/jdk\/jdk\/incubator\/code\/bytecode\/TestProtectedAccess.java"}],"sha":"a187c38a8cbe4a65f820523f28b787d40a76b797"}]
