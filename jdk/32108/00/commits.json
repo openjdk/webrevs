@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389392: Leftover policy files in java.net tests after Security Manager removal"},"files":[{"filename":"test\/jdk\/java\/net\/InetAddress\/policy.file"},{"filename":"test\/jdk\/java\/net\/SetFactoryPermission\/policy.fail"},{"filename":"test\/jdk\/java\/net\/SetFactoryPermission\/policy.success"}],"sha":"ea84d0b63b9c0bed05a51f4d82fc3a90eca6cc80"}]
