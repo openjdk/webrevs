@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,1 +54,0 @@\n-    private static String AGENT_LIB = \"PrintRawMonitorLockTest\";;\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/thread\/PrintRawMonitorLockTest.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
