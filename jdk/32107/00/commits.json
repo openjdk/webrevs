@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388385: CDS dumping fails with circular JAR manifest Class-Path"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotClassLocation.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/ClassPathAttrCircularReference.java"}],"sha":"d7f5c7b6ed51f1e4238c0c9510ab84e525c544e2"}]
