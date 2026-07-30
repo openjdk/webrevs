@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: vector_update_crc32 wrongly assumes undisturbed tail elements"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"1cd799d85c8c6e1d9ce749b8208cb8cc66a6f062"}]
