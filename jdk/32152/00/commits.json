@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389514: HttpClientImpl$SelectorManager.deregistrations collection is always empty resulting in dead code"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/HttpClientImpl.java"}],"sha":"7b0aaedf471ba288dad52bdd4782630bc474ba58"}]
