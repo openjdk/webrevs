@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix memory leak in dshowwrapper"},"files":[{"filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/plugins\/dshowwrapper\/Allocator.cpp"},{"filename":"modules\/javafx.media\/src\/main\/native\/gstreamer\/plugins\/dshowwrapper\/Allocator.h"}],"sha":"619ef6a4cfa119e2bb0ba6a83ae4f293bc1038a3"}]
