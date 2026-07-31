@@ -1,0 +1,1 @@
+[{"commit":{"message":"drop Zbc from RVA23 profile, guard hwprobe detection with #ifndef PRODUCT, remove unused clmulr"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/assembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp"}],"sha":"a5d67c42d8215d285f95aae42aecceca0cd7190b"}]
