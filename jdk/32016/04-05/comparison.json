@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -821,1 +821,1 @@\n-  refArrayHandle result(THREAD, backtrace());\n+  refArrayHandle result(THREAD, refArrayOop(backtrace()));\n","filename":"src\/hotspot\/share\/classfile\/javaStackTraceClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
