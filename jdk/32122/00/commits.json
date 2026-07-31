@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389088: [lworld] C2: assert(false) failed: empty program detected during loop optimization"},"files":[{"filename":"src\/hotspot\/share\/opto\/cfgnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestPushInlineTypeDownDeadBranch.java"}],"sha":"d061162a258304d733f0192295d3169c9d0ed1bd"}]
