@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -111,0 +111,1 @@\n+    DISABLED_WARNINGS_clang_imageFile.cpp := unused-private-field \\\n","filename":"make\/modules\/java.base\/lib\/CoreLibraries.gmk","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
