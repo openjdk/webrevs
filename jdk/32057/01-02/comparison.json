@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1051,1 +1051,1 @@\n-    address new_bottom = ArchiveUtils::offset_to_requested_addr(bottom, _buffer_to_requested_delta);\n+    address new_bottom = bottom +  _buffer_to_requested_delta;\n","filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
