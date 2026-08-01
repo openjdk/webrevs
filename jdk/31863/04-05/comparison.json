@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3909,1 +3909,1 @@\n-  {\n+  if (phase->C->get_adr_type(phase->C->get_alias_index(adr_type())) != TypeAryPtr::INLINES) {\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
