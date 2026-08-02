@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix JDK-8389218"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/ccp\/TestCmpUCCPFixpoint.java"}],"sha":"d76231bf1a30f8461516165d132764fb114de774"}]
