@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make loop infinite instead of counted so we get a core file if it fails."},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/thread\/PrintRawMonitorLockTest.java"}],"sha":"bcbb3bcc92a607a758cf0615f4e505a4280dd4c8"}]
