@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable UseFPUForSpilling on families starting with Haswell."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"a347360a5fa6a9aa0af40fa769e494b111e185b2"}]
