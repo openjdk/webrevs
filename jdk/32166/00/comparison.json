@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -384,0 +384,1 @@\n+          range(1, UINT_MAX)                                                \\\n@@ -389,0 +390,1 @@\n+          range(1, UINT_MAX)                                                \\\n","filename":"src\/hotspot\/share\/gc\/g1\/g1_globals.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
