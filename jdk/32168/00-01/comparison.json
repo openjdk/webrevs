@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -122,1 +122,1 @@\n-            throw new Error(\"Some pixel colors not correct; FS window may not\" +\n+            throw new RuntimeException(\"Some pixel colors not correct; FS window may not\" +\n","filename":"test\/jdk\/java\/awt\/FullScreen\/SetFSWindow\/FSFrame.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
