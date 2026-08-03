@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,0 @@\n-#include \"oops\/refArrayOop.inline.hpp\"\n@@ -41,0 +40,1 @@\n+#include \"oops\/refArrayOop.inline.hpp\"\n","filename":"src\/hotspot\/share\/classfile\/javaStackTraceClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
