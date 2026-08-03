@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -462,1 +462,1 @@\n-    uint new_idx = _old2new_map.at(old_idx);\n+    int new_idx = _old2new_map.at(old_idx);\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
