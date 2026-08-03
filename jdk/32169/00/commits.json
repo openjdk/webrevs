@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388824: JOptionPane.showInternalMessageDialog does not close after clicking on its close button"},"files":[{"filename":"src\/java.desktop\/share\/classes\/java\/awt\/Container.java"},{"filename":"test\/jdk\/javax\/swing\/JOptionPane\/JOptionPaneInternalDlgCloseTest.java"}],"sha":"1af833fdc7d6a4fccb9f3e7a9083c902fb4487a4"}]
