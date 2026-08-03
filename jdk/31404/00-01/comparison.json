@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1098,0 +1098,2 @@\n+  assert(user_name != nullptr,\n+         \"get_user_name() must resolve or synthesize a user name\");\n","filename":"src\/hotspot\/os\/posix\/perfMemory_posix.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
