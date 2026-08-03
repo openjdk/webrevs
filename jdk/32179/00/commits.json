@@ -1,0 +1,1 @@
+[{"commit":{"message":"C2: Skip redundant AND mask in LibraryCallKit::inline_native_hashcode intrinsic when compact headers are disabled"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"5954b640ae3741750951a2e4c02344f861446646"}]
