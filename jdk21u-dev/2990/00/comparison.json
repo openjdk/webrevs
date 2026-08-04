@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -475,0 +475,2 @@\n+  __ xorq(rax, rax); \/\/ return 0\n+\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_sha3.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
