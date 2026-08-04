@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -497,1 +497,1 @@\n-  assert(Assembler::is_simm(imm26, 26), \"maximum offset is 128MiB\");\n+  guarantee(Assembler::is_simm(imm26, 26), \"maximum offset is 128MiB\");\n","filename":"src\/hotspot\/cpu\/aarch64\/gc\/shenandoah\/shenandoahBarrierSetAssembler_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
