@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -145,0 +145,1 @@\n+        assertThrows(IndexOutOfBoundsException.class, () -> RawBytecodeHelper.of(new byte[16], -42));\n","filename":"test\/jdk\/jdk\/classfile\/UtilTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
