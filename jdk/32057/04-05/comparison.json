@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -300,1 +300,0 @@\n-    \/\/ As zero is allowed for requested_base, use integer arithmetic to avoid UB pointer arithmetic.\n","filename":"src\/hotspot\/share\/cds\/archiveUtils.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
