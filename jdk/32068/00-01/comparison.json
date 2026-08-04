@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4261,1 +4261,1 @@\n-    if (aryklass_t != nullptr && aryklass_t->is_not_flat()) {\n+    if (aryklass_t != nullptr && aryklass_t->elem()->isa_klassptr() != nullptr && aryklass_t->is_not_flat()) {\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
