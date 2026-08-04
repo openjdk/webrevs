@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -679,1 +679,1 @@\n-        if (selector == null || (crl != null && selector.match(crl))) {\n+        if (crl != null && (selector == null || selector.match(crl))) {\n","filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/certpath\/URICertStore.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
