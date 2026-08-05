@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport e1d889ee53a9f0287bd76e6d60819a5d654b6ceb"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestReferenceGet.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestReferenceRefersTo.java"}],"sha":"0e3acee6f1d5267786fe5b95a91923b3e6217e45"}]
