@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389478: Crash with missing symbol in serializable lambda: AssertionError: isSubtype PACKAGE"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Check.java"},{"filename":"test\/langtools\/tools\/javac\/recovery\/AttrRecovery.java"}],"sha":"d482371287eef3bfa7d7ba52afb9abdefaca2ae2"}]
