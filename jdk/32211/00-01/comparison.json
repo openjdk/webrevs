@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -935,1 +935,1 @@\n-    <internallink id=\"objecTags\">Object tags<\/internallink> are <code>jlong<\/code> values\n+    <internallink id=\"objectTags\">Object tags<\/internallink> are <code>jlong<\/code> values\n","filename":"src\/hotspot\/share\/prims\/jvmti.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
