@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -460,0 +460,3 @@\n+            } else {\n+                JNU_ThrowIOException(env, \"GlobalLock failed\");\n+                return NULL;\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Clipboard.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
