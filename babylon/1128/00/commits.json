@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389766: NullPointerException when lowering unlabeled continue inside a switch"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/dialect\/java\/JavaOp.java"},{"filename":"test\/jdk\/jdk\/incubator\/code\/lower\/TestLoop.java"}],"sha":"cd9e6c3b6887e7502ef6291be6e63623f4b5633e"}]
