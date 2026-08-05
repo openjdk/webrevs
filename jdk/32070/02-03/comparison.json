@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -607,1 +607,1 @@\n-            \/\/ Check if there already is a mutex (Object or TOMB_STONE)\n+            \/\/ Check if a mutex alredy exists\n","filename":"src\/java.base\/share\/classes\/java\/util\/LazyCollections.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
