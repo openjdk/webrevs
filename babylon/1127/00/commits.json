@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389802: BytecodeGenerator misses the cast for generic field loads\n"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/bytecode\/BytecodeGenerator.java"},{"filename":"test\/jdk\/jdk\/incubator\/code\/bytecode\/TestBytecode.java"}],"sha":"5eceb42abfa18688dce0d53360594cc4c3e7dfbf"}]
