@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -466,1 +466,1 @@\n-    return ((VerifyIterativeGVN % 10000000) \/ 1000000) == 1;\n+    return ((VerifyIterativeGVN % 10'000'000) \/ 1'000'000) == 1;\n","filename":"src\/hotspot\/share\/opto\/phaseX.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
