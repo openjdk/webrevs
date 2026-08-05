@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,4 @@\n+\n+# Serviceability:\n+serviceability\/sa\/TestInstanceKlassSize.java             8389759 generic-all\n+serviceability\/sa\/TestInstanceKlassSizeForInterface.java 8389759 generic-all\n","filename":"test\/hotspot\/jtreg\/ProblemList-enable-preview.txt","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
