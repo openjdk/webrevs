@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport a2b9e941d67936d4cbf9125ff2ea70bd669e5130"},"files":[{"filename":"src\/hotspot\/share\/prims\/upcallLinker.cpp"},{"filename":"src\/hotspot\/share\/prims\/upcallLinker.hpp"},{"filename":"test\/jdk\/java\/foreign\/TestUpcallStress.java"}],"sha":"2cb4b484919a934b12a3709a606822d056fe13c8"}]
