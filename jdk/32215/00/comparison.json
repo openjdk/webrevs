@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -616,1 +616,0 @@\n-  static const int total_inis = sizeof(inis)\/sizeof(VectorRegister);\n","filename":"src\/hotspot\/cpu\/ppc\/macroAssembler_ppc_sha.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
