@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,0 @@\n-  \/\/ Sum of used bytes in all retired regions.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1YoungRegions.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
