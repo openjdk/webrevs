@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1204,0 +1204,3 @@\n+    \/\/ Get locked oop from the handle we passed to jni\n+    __ ldr(sync_obj, Address(sync_handle));\n+\n","filename":"src\/hotspot\/cpu\/arm\/sharedRuntime_arm.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
