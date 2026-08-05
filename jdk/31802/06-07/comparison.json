@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1,7 +0,0 @@\n-{\n-  \"permissions\": {\n-    \"allow\": [\n-      \"Bash(cd \/mnt\/data\/kuaiwei.kw_home_ext\/repo\/openjdk && git --no-pager diff HEAD)\"\n-    ]\n-  }\n-}\n","filename":"src\/java.base\/share\/classes\/.qoder\/settings.local.json","additions":0,"deletions":7,"binary":false,"changes":7,"status":"deleted"}]}
