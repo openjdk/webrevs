@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use int type for opcode comparison"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorStoreMaskIdentityStressTest.java"}],"sha":"4dd0d44d1f39262ff2ef283f22ec56886df736d7"}]
