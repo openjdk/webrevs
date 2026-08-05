@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -146,1 +146,1 @@\n-            actualCount = actualCount * inferredCount;\n+            actualCount = Math.multiplyExact(actualCount, inferredCount);\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/layout\/SequenceLayoutImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
