@@ -1,0 +1,1 @@
+[{"commit":{"message":"don't join() on writeLoopThread if called from that thread"},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/lib\/jdk\/httpclient\/test\/lib\/http2\/Http2TestServerConnection.java"}],"sha":"b8a3eff1ba6b9b9263670d7ab3462154171b6f66"}]
