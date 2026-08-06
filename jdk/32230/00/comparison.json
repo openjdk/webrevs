@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1340,1 +1340,1 @@\n-  JavaValue result(T_OBJECT);\n+  JavaValue result(T_INT);\n","filename":"src\/hotspot\/share\/cds\/aotMetaspace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
