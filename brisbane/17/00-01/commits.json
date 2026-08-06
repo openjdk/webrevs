@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add call to Math.addExact() where dataSize may be large.\n\nDocument that checkDataSize() should only be called when param.data is not null."},"files":[{"filename":"src\/main\/java\/com\/oracle\/jipher\/internal\/openssl\/ffm\/OsslParam.java"}],"sha":"d6b2735d5cf3367e8e52571b1b8fff845ea613ca"}]
