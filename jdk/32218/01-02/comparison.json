@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,1 +244,1 @@\n-    JfrDefineClassEvent event(klass, jt, true);\n+    JfrDefineClassEvent class_define_event(klass, jt, true);\n","filename":"src\/hotspot\/share\/classfile\/vmClasses.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
