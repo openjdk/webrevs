@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8386687: Regression >6% on Crypto-MLDSA.sign on x64\"\n\nThis reverts commit 820aa257ea5fec8cd60215cbd339b7d6134ddbab."},"files":[{"filename":"src\/hotspot\/share\/adlc\/formssel.cpp"}],"sha":"88220641132f264297f335bd34f4606109c87cb8"}]
