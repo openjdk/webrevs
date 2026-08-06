@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389846: GenShen: ShenandoahScanRemembered::process_clusters may miss dirty cards when use write table"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahScanRemembered.inline.hpp"}],"sha":"7c7f475c01f0d8316e7375212d4931302bfd80c9"}]
