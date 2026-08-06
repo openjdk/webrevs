@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix initializer in test\n\nThe bitwise-NOT pattern uses -1 as the constant and not +1."},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestSveClone.java"}],"sha":"7438b5b61940dadc9c1f9d6e4d0df5fa798b9d64"}]

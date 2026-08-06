@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-            test(1);    \/\/ exercise is_vector_bitwise_not_pattern()\n+            test(-1);   \/\/ exercise is_vector_bitwise_not_pattern()\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestSveClone.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
