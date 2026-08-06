@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add handling for ExpandBits input to CompressBits"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/igvn\/TestMissingCompressBitsIdeal.java"}],"sha":"a9b7e3f26b78dc884e37afb50e238a7fba2ef7e6"}]
