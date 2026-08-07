@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1916,1 +1916,1 @@\n-    if (klass == nullptr) {\n+    if (k == nullptr) {\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
