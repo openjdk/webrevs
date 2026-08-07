@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cleanup and test case improvement"},"files":[{"filename":"src\/hotspot\/share\/classfile\/stackMapFrame.hpp"},{"filename":"src\/hotspot\/share\/classfile\/stackMapTable.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/verifier\/UninitThisOnStack.jasm"}],"sha":"03aaae5669bce69ab117fd212ce4120a8ac173b0"}]
