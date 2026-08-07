@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add test"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/codegen\/ShiftByZero.java"}],"sha":"567db5bc231e234abb50ecfc7d1f5a13afdb9b53"},{"commit":{"message":"Fix"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectornode.cpp"}],"sha":"3e573984044a9c516c96807be2a468eb4796c854"}]
