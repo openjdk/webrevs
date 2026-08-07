@@ -1,0 +1,1 @@
+[{"commit":{"message":"fix LShiftNode::IdealIL optimizes patterns like: LShift(And(RShift(x, c), Y), c), and XorI\/LNode::Ideal exception beause of output check is_used_in_only_arithmetic"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"}],"sha":"4000359e8c35f3a041c3d9d1384cf5e61385da8c"}]
