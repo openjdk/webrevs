@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,2 +74,1 @@\n-      \"must_be_compiled\",\n-      \"bootstrap\"\n+      \"must_be_compiled\"\n@@ -77,0 +76,1 @@\n+    STATIC_ASSERT(ARRAY_SIZE(reason_names) == Reason_Count);\n","filename":"src\/hotspot\/share\/compiler\/compileTask.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
