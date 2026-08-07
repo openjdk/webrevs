@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address PR comments\n\n1. Outlined `copyDosAttributes()` back to the original form.\n\n2. Removed code to delete destination symbolic link if there's a failure\n   while setting attributes."},"files":[{"filename":"src\/java.base\/windows\/classes\/sun\/nio\/fs\/WindowsFileCopy.java"}],"sha":"812f4e74510d9ddc864a05b1264d3c7e3101e8e2"}]
