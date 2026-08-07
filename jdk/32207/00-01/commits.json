@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389480: Tests in tools\/jlink\/plugins\/ fail due to AccessDeniedExceptions on Windows\n\nApply same fix to GenerateJLIClassesPluginTest.java"},"files":[{"filename":"test\/jdk\/tools\/jlink\/plugins\/GenerateJLIClassesPluginTest.java"}],"sha":"9f70b31269e34f81d594d05241f9ac95ad4bda59"}]
