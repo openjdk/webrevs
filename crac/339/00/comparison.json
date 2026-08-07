@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,1 +151,1 @@\n-  fcntl(fi2->fd, flags1);\n+  fcntl(fi1->fd, F_SETFL, flags1);\n","filename":"src\/hotspot\/os\/linux\/crac_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
