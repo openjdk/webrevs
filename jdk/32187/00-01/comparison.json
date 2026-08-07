@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -30,1 +30,1 @@\n- * @requires vm.compiler2.enabled & vm.flagless\n+ * @requires vm.compiler1.enabled & vm.compiler2.enabled & vm.flagless\n","filename":"test\/hotspot\/jtreg\/compiler\/hotcode\/TestHotCodeHeapOptions.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
