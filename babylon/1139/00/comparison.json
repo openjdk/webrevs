@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -301,1 +301,1 @@\n-                case Buffer buffer when finalArgIndex >1-> {\n+                case Buffer buffer when finalArgIndex >0-> {\n","filename":"hat\/core\/src\/main\/java\/hat\/buffer\/ArgArray.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
