@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390024: WB_ParseCommandLine leaks C-heap memory when parsing STRING arguments"},"files":[{"filename":"src\/hotspot\/share\/prims\/wbtestmethods\/parserTests.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/ParseCommandLineMemoryTest.java"}],"sha":"d3b2b0ed798bf8622b309a61acb9eb5c7076a6d2"}]
