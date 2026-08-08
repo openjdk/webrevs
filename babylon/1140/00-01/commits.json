@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reverted conditional cuda creation of thread ops"},"files":[{"filename":"hat\/backends\/ffi\/cuda\/src\/main\/java\/hat\/backend\/ffi\/CudaHATKernelBuilder.java"}],"sha":"6cc4e8747d1746f31ebc34eaccb698c7b43887ec"}]
