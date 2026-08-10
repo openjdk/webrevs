@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -80,0 +80,1 @@\n+        BASIC_LDFLAGS_JVM_ONLY=\"$BASIC_LDFLAGS_JVM_ONLY -Wl,--gc-sections -Wl,--undefined=_ZTV8Metadata\"\n","filename":"make\/autoconf\/flags-ldflags.m4","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
