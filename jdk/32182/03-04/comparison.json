@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5010,1 +5010,1 @@\n-  const TypeKlassPtr* phi_type = load_type;\n+  const TypeKlassPtr* phi_type;\n@@ -5013,0 +5013,2 @@\n+  } else {\n+    phi_type = load_type;\n","filename":"src\/hotspot\/share\/opto\/library_call.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
