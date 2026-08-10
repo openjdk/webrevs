@@ -1,0 +1,1 @@
+[{"commit":{"message":"8388450: ImageIO.write(SwingFXUtils.fromFXImage()) creates 0 length JPEG for some images"},"files":[{"filename":"modules\/javafx.swing\/src\/main\/java\/javafx\/embed\/swing\/SwingFXUtils.java"},{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/embed\/swing\/SwingFXUtilsTest.java"}],"sha":"60f36ab3108f7f4b31bf80809acb38c96a860a16"}]
