@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix to have a generic message for the non-null null restricted field stored into null."},"files":[{"filename":"src\/hotspot\/share\/interpreter\/bytecodeUtils.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/NPEInPreviewTest.java"}],"sha":"104ecbd94143d5dbe26a40e0fa9012d0e5823a3c"}]
