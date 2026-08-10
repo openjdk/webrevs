@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -714,0 +714,1 @@\n+#ifdef ASSERT\n@@ -716,0 +717,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/ci\/ciInstanceKlass.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
