@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2979,1 +2979,1 @@\n-    const int max_stack_slots = 128;\n+    const int max_stack_slots = UseShenandoahGC ? 64 : 128;\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
