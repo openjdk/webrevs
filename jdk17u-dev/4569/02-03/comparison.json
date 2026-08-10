@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1385,1 +1385,1 @@\n-  void evpsrad(XMMRegister dst, XMMRegister nds, int shift, int vector_len);\n+  void evpsrad(XMMRegister dst, XMMRegister nds, int         shift, int vector_len);\n","filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
