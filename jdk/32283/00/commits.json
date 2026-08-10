@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8380453: Add the hotspot compiler testlibrary to the test-image\"\n\nThis reverts commit b4a43ca56d409da61cf2e7d0b6b2f4e2b94498b3."},"files":[{"filename":"make\/Main.gmk"},{"filename":"make\/hotspot\/test\/BuildCompilerTestlibrary.gmk"}],"sha":"4cfcf385912157662f231618805f889f82530061"}]
