@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+#ifdef COMPILER1\n@@ -42,0 +43,2 @@\n+#endif \/\/ COMPILER1\n+#ifdef COMPILER2\n@@ -48,0 +51,1 @@\n+#endif \/\/ COMPILER2\n","filename":"src\/hotspot\/share\/compiler\/stress.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
