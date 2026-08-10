@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -566,1 +566,0 @@\n-    if (phase->type(mem) == Type::TOP) return NodeSentinel;\n@@ -2214,1 +2213,0 @@\n-      if (phase->type(opt_mem) == Type::TOP) { return NodeSentinel; }\n","filename":"src\/hotspot\/share\/opto\/memnode.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
