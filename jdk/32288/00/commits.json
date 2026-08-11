@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390076: iList should be free'd after a failed C_GetInterfaceList() call in DEBUG mode"},"files":[{"filename":"src\/jdk.crypto.cryptoki\/unix\/native\/libj2pkcs11\/p11_md.c"}],"sha":"04f8ca3705b7c56284dad8298faff180c91a7c76"}]
