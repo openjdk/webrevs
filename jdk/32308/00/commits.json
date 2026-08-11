@@ -1,0 +1,1 @@
+[{"commit":{"message":"8385672: SunEC NONEwithECDSA Signature.update(ByteBuffer) rejects an input of exactly 64 bytes, while update(byte[]) accepts it"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ec\/ECDSASignature.java"},{"filename":"test\/jdk\/sun\/security\/ec\/NONEwithECDSAOffsetTest.java"}],"sha":"b4bc670308fdd98f1af1ee8900b96e03b691b1bc"}]
