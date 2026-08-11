@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n- * @run main compiler.c2.TestReduceAllocationOptimizedOutPhi\n+ * @run main ${test.main.class}\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestReduceAllocationOptimizedOutPhi.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
