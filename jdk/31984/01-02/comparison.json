@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -506,1 +506,1 @@\n-  __ clear_reg(Z_RET);\n+  __ clear_reg(Z_RET, true, false);\n@@ -535,1 +535,1 @@\n-  __ clear_reg(Z_RET);\n+  __ clear_reg(Z_RET, true, false);\n","filename":"src\/hotspot\/cpu\/s390\/gc\/z\/zBarrierSetAssembler_s390.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
