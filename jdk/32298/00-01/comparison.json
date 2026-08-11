@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -167,2 +167,0 @@\n-    int i = 0;\n-    char** argv = *pargv;\n@@ -200,2 +198,2 @@\n-    argv = *pargv;\n-    for (i = 0; i < *pargc ; i++) {\n+    char** argv = *pargv;\n+    for (int i = 0; i < *pargc ; i++) {\n","filename":"src\/java.base\/windows\/native\/libjli\/java_md.c","additions":2,"deletions":4,"binary":false,"changes":6,"status":"modified"}]}
