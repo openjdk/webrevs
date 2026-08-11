@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390101: RISC-V: Use vmandn.mm for vector mask and-not"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/AllBitsSetVectorMatchRuleTest.java"}],"sha":"504df0ec3f6b382e58af67f7e89ada73a498cae9"}]
