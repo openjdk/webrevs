@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1750,0 +1750,2 @@\n+  ResourceMark rm;\n+\n@@ -1766,1 +1768,0 @@\n-      ResourceMark rm(current);\n","filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
