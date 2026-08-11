@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove ;"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"9f87511ca7bba31b189aea99a03955562c64ece7"},{"commit":{"message":"C2: Re-enable malformed graph assert removed with JDK-8317998 to reduce noise"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"}],"sha":"3b121f18d687f4f541998422faf63ef160c14fa2"}]
