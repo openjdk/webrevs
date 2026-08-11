@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'master' into 8390062"},"files":[],"sha":"55e3871493ee2c5ae1378ea8a01a48b957a2f56c"},{"commit":{"message":"8390062: aarch64: CPU_SB is set only on BSD, not on Linux"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_aarch64\/vm_version_linux_aarch64.cpp"}],"sha":"7ded3e062e07cb79ed0c540368ee924b89c49810"}]
