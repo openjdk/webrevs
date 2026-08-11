@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n- * @modules java.base.\/jdk.internal.misc\n+ * @modules java.base\/jdk.internal.misc\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/RedefineClasses\/RedefineLeakThrowable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
