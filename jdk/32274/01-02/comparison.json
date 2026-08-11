@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -583,1 +583,1 @@\n-  \/\/ Returns a resolved klass without trying to resolve the class.\n+  \/\/ Returns a resolved klass or nullptr if not resolved.  Does not trying to resolve the class.\n","filename":"src\/hotspot\/share\/oops\/constantPool.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
