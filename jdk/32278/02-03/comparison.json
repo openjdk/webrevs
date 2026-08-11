@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -128,1 +128,1 @@\n-                if (actual != null && actual.contains(ioe.getMessage())) {\n+                if (actual != null && actual.contains(expectedExMsg)) {\n","filename":"test\/jdk\/java\/net\/httpclient\/http2\/H2GoAwayTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
