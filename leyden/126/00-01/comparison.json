@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1049,1 +1049,1 @@\n-    if (TieredCompilation) {\n+    if (TieredCompilation || is_aot_compile()) {\n","filename":"src\/hotspot\/share\/ci\/ciEnv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
