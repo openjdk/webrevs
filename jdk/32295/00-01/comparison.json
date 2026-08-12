@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -357,1 +357,0 @@\n-\/\/ Output:  xmm0-xmm7 (reduced coefficients each in [0, q])\n@@ -359,0 +358,1 @@\n+\/\/ Output:  xmm0-xmm7 (reduced coefficients each in [0, q])\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_kyber.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
