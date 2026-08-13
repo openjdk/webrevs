@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -186,1 +186,1 @@\n-        \/\/ Offload and dispatch of the compute-graph on the target accelerator.\n+        \/\/ Dispatch the set of kernels defined in the compute-layer on the target accelerator.\n","filename":"hat\/README.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
