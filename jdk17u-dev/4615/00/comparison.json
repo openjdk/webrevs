@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -55,1 +55,1 @@\n-            IDN.toASCII(\"公司.江利子\") \/\/ IDN punycode\n+            IDN.toASCII(\"\\u516c\\u53f8.\\u6c5f\\u5229\\u5b50\") \/\/ IDN punycode\n","filename":"test\/jdk\/sun\/security\/x509\/GeneralName\/DNSNameTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
