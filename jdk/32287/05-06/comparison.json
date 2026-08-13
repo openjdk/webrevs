@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -439,1 +439,1 @@\n-  log_info(class, path)(\"ok\");\n+  log_info(class, path)(\"ok (file size and timestamp have not changed)\");\n","filename":"src\/hotspot\/share\/cds\/aotClassLocation.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
