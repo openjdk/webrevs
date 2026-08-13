@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-\/\/ An InlineKlass is the VM level representation of a flattable Java class.\n+\/\/ An InlineKlass is the VM level representation of a flattenable Java class.\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/oops\/InlineKlass.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
