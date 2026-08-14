@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2253,1 +2253,1 @@\n-  if (UseSlowPath ||\n+  if (UseSlowPath || op->always_slow_path() ||\n","filename":"src\/hotspot\/cpu\/ppc\/c1_LIRAssembler_ppc.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
