@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 667744c353e4d6abbe5cbf85746e5e0e44dafaf8"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/subnode.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestVectorConditionalMove.java"}],"sha":"d91f527e277ac35a2d6cff2bbeb2f90d1d6e39b2"}]
