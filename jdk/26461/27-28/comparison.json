@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1934,0 +1934,3 @@\n+     * {@return the number of Unicode code points in this {@code string}}\n+     * Isolated surrogate code units count as one code point each.\n+     *\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
