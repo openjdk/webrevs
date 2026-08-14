@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,0 +35,1 @@\n+ * @run main ${test.main.class}\n@@ -38,0 +39,1 @@\n+package compiler.valhalla.inlinetypes;\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestIncorrectlyEliminatedStoreToFlatArray.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
