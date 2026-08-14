@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390175: FFM upcallstub can skip reinit_heapbase() right before restore_callee_saved_registers"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/upcallLinker_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/upcallLinker_x86_64.cpp"}],"sha":"b7218251d2a89c603b5de31ec8b2d89ab145cac3"}]
