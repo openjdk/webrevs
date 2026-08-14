@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address performance regression"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/ConfinedSegmentPool.java"},{"filename":"test\/jdk\/java\/foreign\/TestConfinedSegmentPool.java"},{"filename":"test\/jdk\/java\/foreign\/TestConfinedSegmentPoolDefensiveRelease.java"}],"sha":"4eed689eeb5e8902a7aba01c6fce0af5fd02c1af"}]
