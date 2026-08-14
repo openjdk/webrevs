@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip compilation of libTestWindowsStackPages.c on non-Windows platforms\n\nAlso fix typo in variable name (`uload_requested` -> `ulong_requested`)."},"files":[{"filename":"make\/test\/JtregNativeHotspot.gmk"},{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"fc2041f395c146da5eb954a616c0b2e813dfbba8"}]
