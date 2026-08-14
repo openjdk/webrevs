@@ -1,0 +1,1 @@
+[{"commit":{"message":"Applied the suggested changes:\n- renamed ResolvedStatementTarget to StatementTargetProxy\n- fixed the VarType resource\n\nCo-authored-by: Paul Sandoz <psandoz@openjdk.org>\n"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/dialect\/java\/JavaOp.java"}],"sha":"466d118c4b81b5740c20dd4254f6ca3c22498695"}]
