@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1916,3 +1916,1 @@\n-    if (klass == nullptr) {\n-      return JVMTI_ERROR_INVALID_CLASS;\n-    }\n+    assert(k != nullptr, \"k_mirror is not null and not primitive, must have a valid klass\");\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp","additions":1,"deletions":3,"binary":false,"changes":4,"status":"modified"}]}
