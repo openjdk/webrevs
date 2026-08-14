@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378071: Class ThreadSnapshot$ThreadLock is not initialized by VM"},"files":[{"filename":"src\/hotspot\/share\/services\/threadService.cpp"},{"filename":"test\/jdk\/jdk\/internal\/vm\/ThreadSnapshot\/ThreadWithMonitors.java"}],"sha":"fe8edd74f077fa18a36159b5b95d6e5f550aa241"}]
