@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -59,1 +59,0 @@\n-  fprintf(stderr, \"_features_string = \\\"%s\\\"\", _features_string);\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_ext_aarch64.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
