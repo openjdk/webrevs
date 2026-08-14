@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1935,1 +1935,1 @@\n-     * Isolated surrogate code units count as one code point each.\n+     * Unpaired surrogates count as one code point each.\n","filename":"src\/java.base\/share\/classes\/java\/lang\/String.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
