@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390390: Shenandoah: ShenandoahAdaptiveInitialConfidence accepts negative values"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoah_globals.hpp"},{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/options\/TestArgumentRanges.java"}],"sha":"725f04debc9af4002d5be57126695a67afdf6ccb"}]
