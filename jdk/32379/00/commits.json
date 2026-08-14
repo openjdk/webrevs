@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8390391 [perf] performance drop for compiler.overhead.SimpleRepeatCompilation.mixHashCode_repeat_c2 for APX mode"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/globals_x86.hpp"},{"filename":"src\/hotspot\/share\/compiler\/compilerDefinitions.cpp"}],"sha":"a59bdae0c5f7cd3efe574489dc8d5d4a101e1f50"}]
