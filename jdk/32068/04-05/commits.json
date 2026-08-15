@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove comments about symmetry"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"}],"sha":"0ac7a1ff8980cd865eefb7ec1673a3247382595e"},{"commit":{"message":"Fix converting a bot[] klass pointer to TypeOopPtr"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"}],"sha":"09351d06769ee1e1b897b3ffa1465b7b75b5e7dc"}]
