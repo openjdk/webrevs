@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390443: [leyden] AOTCodeEntry::_not_entrant should be synchronized"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"},{"filename":"src\/hotspot\/share\/oops\/methodCounters.cpp"}],"sha":"4beb5f7d3553e4020df4e80f64b1b0aa80d05935"}]
