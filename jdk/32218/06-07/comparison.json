@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -905,1 +905,1 @@\n-        JFR_ONLY(Jfr::on_deallocation(reinterpret_cast<Klass*>(m));)\n+        JFR_ONLY(Jfr::on_deallocation(static_cast<Klass*>(m));)\n","filename":"src\/hotspot\/share\/classfile\/classLoaderData.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
