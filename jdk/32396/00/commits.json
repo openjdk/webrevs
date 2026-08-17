@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383567: [lworld] VM.class_print_layout should use external class names"},"files":[{"filename":"src\/hotspot\/share\/memory\/heapInspection.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/ClassPrintLayoutDcmd.java"}],"sha":"c03f1b0fd591613a3a50c2d675fd8eceeecbd56d"}]
