@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -988,3 +988,0 @@\n-    int size_lo = 0;\n-    int size_hi = 0;\n-\n","filename":"test\/hotspot\/gtest\/opto\/test_typejavaptr.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
