@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -934,1 +934,1 @@\n-      __ zext_w(_obj, x10);\n+      __ zext(_obj, x10, 32);\n","filename":"src\/hotspot\/cpu\/riscv\/gc\/shenandoah\/shenandoahBarrierSetAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
