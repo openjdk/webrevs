@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -373,0 +373,1 @@\n+  assert(SystemDictionaryShared::is_builtin_loader(ClassLoaderData::class_loader_data(class_loader())), \"must be\");\n","filename":"src\/hotspot\/share\/classfile\/classLoader.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
