@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -752,1 +752,1 @@\n-  \/\/ Floating point additions are not associative because of boundary conditions (infinity)\n+  \/\/ Float16 addition is commutative but not associative.\n","filename":"src\/hotspot\/share\/opto\/addnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
