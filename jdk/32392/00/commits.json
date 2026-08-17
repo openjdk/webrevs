@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390452: RISC-V: gc\/shenandoah\/TestSieveObjects.java fails with \"assert(UseZba) failed: must be\""},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shenandoah\/shenandoahBarrierSetAssembler_riscv.cpp"}],"sha":"1b16f59be0382d6e907ff08613c13403f9090638"}]
