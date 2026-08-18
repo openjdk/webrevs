@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390550: C2 hit MemLimit when run with -Xcomp -XX:VerifyIterativeGVN=1110"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2_globals.hpp"},{"filename":"src\/hotspot\/share\/opto\/macro.cpp"}],"sha":"59556e560af32e856f4e2fdee901e665125d8df8"}]
