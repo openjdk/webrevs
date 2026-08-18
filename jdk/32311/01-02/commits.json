@@ -1,0 +1,1 @@
+[{"commit":{"message":"modify rt_call,add an optional second temporary register"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"c992cc3e7f64fb2979b5cc90fac1aad2adbc8630"}]
