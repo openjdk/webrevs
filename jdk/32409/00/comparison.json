@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -536,1 +536,1 @@\n-    \/** Produce {@code a\/b}. Floating only. *\/\n+    \/** Produce {@code a\/b}. *\/\n","filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/VectorOperators.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
