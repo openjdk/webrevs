@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-            Files.createDirectory(filterOutput);\n+            Files.createDirectories(filterOutput);\n","filename":"test\/testng\/org\/openjdk\/jextract\/test\/toolprovider\/dumpIncludes\/TestNormalizedPathOutput.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
