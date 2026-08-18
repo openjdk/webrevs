@@ -1,0 +1,1 @@
+[{"commit":{"message":"OOM killer kills with SIGKILL rather than SIGSEGV. Corrected the comment"},"files":[{"filename":"test\/jdk\/jdk\/internal\/platform\/docker\/MetricsMemoryTester.java"}],"sha":"2b2acf4d63b9a559e5df0483f63f731d0380d057"}]

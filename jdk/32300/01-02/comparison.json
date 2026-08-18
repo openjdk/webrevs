@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -75,1 +75,1 @@\n-        \/\/ SIGSEGV before we read the fail counter.\n+        \/\/ SIGKILL before we read the fail counter.\n","filename":"test\/jdk\/jdk\/internal\/platform\/docker\/MetricsMemoryTester.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
