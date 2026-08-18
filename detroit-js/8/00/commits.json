@@ -1,0 +1,1 @@
+[{"commit":{"message":"34: V8Isolate object should be synchronized in all paths of usage"},"files":[{"filename":"src\/java\/org\/openjdk\/engine\/javascript\/internal\/V8.java"},{"filename":"src\/java\/org\/openjdk\/engine\/javascript\/internal\/V8Reference.java"}],"sha":"c03d21b5108342bdda92b10c03a04c50e6a035fe"}]
