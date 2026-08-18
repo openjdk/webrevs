@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390044: Remove untested vector-scalar division rules"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorDivTest.java"}],"sha":"869e925cf39a2956d556ab96df30d46f2cbfefa8"}]
