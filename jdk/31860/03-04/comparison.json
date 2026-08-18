@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8362394\n+ * @bug 8387014\n","filename":"test\/hotspot\/jtreg\/compiler\/stringopts\/TestStackedConcatsManyUTF16Overflow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
