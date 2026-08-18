@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1752,2 +1752,0 @@\n-    va_end(args);\n-\n@@ -1756,0 +1754,1 @@\n+    va_end(args);\n","filename":"src\/native\/jvmv8_jni_support.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
