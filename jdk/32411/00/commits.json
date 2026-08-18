@@ -1,0 +1,1 @@
+[{"commit":{"message":"no longer call Thread.interrupted()"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/ThreadReference\/stop\/stop002t.java"}],"sha":"c6d9baf868fdea985d78c3b1a7d91bf61857f4f9"}]
