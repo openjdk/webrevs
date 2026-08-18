@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed the manual ldrsh\/ldrsw switch"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"},{"filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/c2_MacroAssembler_aarch64.hpp"}],"sha":"be100f85c11528f2c8f0f0d7a565af9cc578b37e"}]
