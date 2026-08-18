@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add more fusion instruct"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"69aa77a4fd93d258c15cd0bdfc6fe51ac39906e7"},{"commit":{"message":"8389378: RISC-V: Eliminate redundant sext.w by fusing ConvI2L with int producers"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"ba608246f62cfb587a79fe743d848b8a26d23450"}]
