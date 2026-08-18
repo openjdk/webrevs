@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -125,2 +125,1 @@\n-          idx += INCREMENTS[n];\n-          if (idx >= N_PRECOMPUTED) idx -= N_PRECOMPUTED;\n+          idx = (idx + INCREMENTS[n]) % N_PRECOMPUTED;\n","filename":"test\/hotspot\/jtreg\/resourcehogs\/runtime\/ValueTearingTest.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
