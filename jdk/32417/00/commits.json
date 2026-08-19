@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Avoid clobbering ra in the nmethod entry barrier"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/barrierSetAssembler_riscv.cpp"}],"sha":"5e34af12ed499e8160cb785062700b1e1f1bfa2d"}]
