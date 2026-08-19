@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390613: Missing class in loadable descriptors causes AOT crash"},"files":[{"filename":"src\/hotspot\/share\/oops\/instanceKlass.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/LoadableDescriptorTest.java"}],"sha":"b9e151379d75794828e6a4777c9d60e998dab216"}]
