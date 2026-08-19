@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3458,1 +3458,1 @@\n-    \/\/ Reached Allocate nodes - jump to second pass to prcess them.\n+    \/\/ Reached Allocate nodes - jump to second pass to process them.\n","filename":"src\/hotspot\/share\/opto\/macro.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
