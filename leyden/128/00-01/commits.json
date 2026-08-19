@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use atomic access for _not_entrant"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp"},{"filename":"src\/hotspot\/share\/oops\/methodCounters.cpp"}],"sha":"e98101b110e0df9854cf0fdaa756c190a8fd8370"}]
