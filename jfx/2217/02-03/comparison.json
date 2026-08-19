@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -810,1 +810,2 @@\n-     *     number of visible items <\/li>\n+     *     number of visible items. If no items are fully visible the return\n+           value should be {0, 0} <\/li>\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/AccessibleAttribute.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
