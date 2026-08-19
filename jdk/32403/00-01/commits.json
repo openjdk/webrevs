@@ -1,0 +1,1 @@
+[{"commit":{"message":"verify we got OpaqueFrameException when no exception thrown on debuggee side"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/ThreadReference\/stop\/stop002.java"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdi\/ThreadReference\/stop\/stop002t.java"}],"sha":"23c0499a2bed401be253af7946e1acce14eefe06"}]
