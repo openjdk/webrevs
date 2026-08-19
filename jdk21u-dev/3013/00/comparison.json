@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,1 @@\n-  _compiler_stubs_code_size     = 53000 ZGC_ONLY(+10000),\n+  _compiler_stubs_code_size     = 63000,\n","filename":"src\/hotspot\/cpu\/aarch64\/stubRoutines_aarch64.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
