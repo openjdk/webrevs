@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1080,0 +1080,1 @@\n+#if defined(COMPILER2) && defined(_LP64)\n@@ -1082,1 +1083,0 @@\n-#if defined(COMPILER2) && defined(_LP64)\n@@ -1086,1 +1086,0 @@\n-#endif\n@@ -1093,0 +1092,1 @@\n+#endif\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
