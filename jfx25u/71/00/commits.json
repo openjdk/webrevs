@@ -1,0 +1,1 @@
+[{"commit":{"message":"8340564: [macOS] Intermittent build failure in native font with parallel compilation\n\nReviewed-by: angorya, arapte"},"files":[{"filename":"buildSrc\/src\/main\/groovy\/com\/sun\/javafx\/gradle\/CCTask.groovy"}],"sha":"332ae45c0100de00343e8df99695efc30b939c6c"}]
