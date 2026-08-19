@@ -1,0 +1,1 @@
+[{"commit":{"message":"apply -XX:-UseCompactObjectHeaders only on 64-bit VMs"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/TestUseGCOverheadLimit.java"}],"sha":"0161e8ab80165aab32e58e1a8d36225384aae6c3"}]
