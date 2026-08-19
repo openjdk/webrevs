@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -223,0 +223,1 @@\n+#if INCLUDE_CDS\n@@ -227,1 +228,3 @@\n-    } else {\n+    } else\n+#endif\n+    {\n","filename":"src\/hotspot\/cpu\/riscv\/gc\/shenandoah\/shenandoahBarrierSetAssembler_riscv.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add missing INCLUDE_CDS guard in load_reference_barrier"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shenandoah\/shenandoahBarrierSetAssembler_riscv.cpp"}],"sha":"0906392e3014b2dcf6c7c8219d56e41543b10408"}]
