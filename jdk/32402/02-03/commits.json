@@ -1,0 +1,1 @@
+[{"commit":{"message":"fixing profile_array_accesses assert: swith it off on the case of disabled TypeProfile"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_Compilation.hpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"}],"sha":"bbccf75d9ba30c3ee1cdc080e2aed6b5a2e0cc01"}]
