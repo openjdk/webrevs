@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,1 +181,1 @@\n-            count = count * elemSeq.elementCount();\n+            count = Math.multiplyExact(count ,elemSeq.elementCount());\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/layout\/SequenceLayoutImpl.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
