@@ -1,0 +1,1 @@
+[{"commit":{"message":"Correct copyright headers.\n\nOnly update upcallLinker_x86_64.cpp and revert upcallLinker_aarch64.cpp"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/upcallLinker_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/upcallLinker_x86_64.cpp"}],"sha":"6dd892b891185b006756991e67f9da91dd1e44b6"}]
