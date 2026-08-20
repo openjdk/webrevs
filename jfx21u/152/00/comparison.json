@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -64,1 +64,1 @@\n-                    spec.args(new ArrayList<String>(params));\n+                    args(new ArrayList<String>(params));\n","filename":"buildSrc\/src\/main\/groovy\/com\/sun\/javafx\/gradle\/CCTask.groovy","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
