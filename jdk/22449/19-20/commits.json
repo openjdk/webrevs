@@ -1,0 +1,1 @@
+[{"commit":{"message":"ensure _limit overlaps with the int range"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"}],"sha":"a20f5ad4faf0524ea53c7ab8c496ebca80fb4d00"},{"commit":{"message":"fix trailing whitespaces"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"}],"sha":"47f530383fde3279650b680e5ab7895924e7557b"}]
