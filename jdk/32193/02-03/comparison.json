@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -317,1 +317,1 @@\n-     * Returns an array compatible with the requested layout layout kind.\n+     * Returns an array compatible with the requested layout kind.\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/misc\/Unsafe.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
