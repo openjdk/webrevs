@@ -1,0 +1,1 @@
+[{"commit":{"message":"do not mark value classes as contended"},"files":[{"filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/field_layout\/ContendedValueClassInheritanceTest.java"}],"sha":"e4d0b23569b3ade87639b928a8acfebf132abb70"}]
