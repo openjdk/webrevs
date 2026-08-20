@@ -1,0 +1,1 @@
+[{"commit":{"message":"always run configurePublication but only execute during gradle all, as before"},"files":[{"filename":"build.gradle"},{"filename":"buildSrc\/src\/main\/groovy\/com\/sun\/javafx\/gradle\/CompileTarget.java"},{"filename":"maven-publish.gradle"}],"sha":"05e65128b3d767e7163096a91af7b48f58d4c8f1"}]
