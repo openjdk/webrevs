@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1776,1 +1776,1 @@\n-    flatArrayOop fa = flatArrayOop(orig_obj);\n+    flatArrayOop fa = oop_cast<flatArrayOop>(orig_obj);\n","filename":"src\/hotspot\/share\/cds\/heapShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
