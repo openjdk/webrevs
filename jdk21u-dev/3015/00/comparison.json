@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -11141,0 +11141,1 @@\n+#ifdef COMPILER2\n@@ -11150,0 +11151,1 @@\n+#endif\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
