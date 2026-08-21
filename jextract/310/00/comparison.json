@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -118,1 +118,1 @@\n-    public static int main(String[] args) throws IOException {\n+    public static void main(String[] args) {\n@@ -129,1 +129,0 @@\n-        return 0;\n","filename":"test\/lib\/JtregJextract.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
