@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -570,1 +570,1 @@\n-    lint warning categories exception `preview` are recommended. The `preview` category\n+    lint warning categories except `preview` are recommended. The `preview` category\n","filename":"src\/jdk.compiler\/share\/man\/javac.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
