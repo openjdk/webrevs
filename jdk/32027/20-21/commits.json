@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cross-modify fences from nmethod entry barriers only for Java threads"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSetNMethod.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSetNMethod.hpp"}],"sha":"bc5115ecf795ec4a606084e337d2aa9764ed4d67"}]
