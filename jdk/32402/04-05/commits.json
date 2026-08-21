@@ -1,0 +1,1 @@
+[{"commit":{"message":"C1: emit array access and acmp type profiles only when such profiling is enabled"},"files":[{"filename":"src\/hotspot\/share\/c1\/c1_GraphBuilder.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.hpp"}],"sha":"44c9e55e74acb811523d8b01e4c9aa4947bb3627"}]
