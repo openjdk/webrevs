@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3909,1 +3909,0 @@\n-    \"UMax\",\"UMin\"\n@@ -3916,1 +3915,1 @@\n-    \"MaxVHF\", \"MinVHF\", \"MaxV\", \"MinV\", \"UMax\",\"UMin\"\n+    \"MaxVHF\", \"MinVHF\", \"MaxV\", \"MinV\", \"UMaxV\", \"UMinV\"\n","filename":"src\/hotspot\/share\/adlc\/formssel.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
