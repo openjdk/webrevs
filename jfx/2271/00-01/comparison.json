@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -173,1 +173,1 @@\n-        if (!pseudoClassStates.isEmpty()) {\n+        if (pseudoClassStates.size() > 1) {\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/css\/BinarySerializer.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
