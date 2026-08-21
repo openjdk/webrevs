@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3246,1 +3246,2 @@\n-  assert(heap_file_handle == INVALID_HANDLE_VALUE, \"Heap backing file already exists\");\n+  guarantee(heap_file_handle == INVALID_HANDLE_VALUE,\n+            \"Heap backing file already exists\");\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
