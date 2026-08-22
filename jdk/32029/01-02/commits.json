@@ -1,0 +1,1 @@
+[{"commit":{"message":"Only print success message if truely a success. Fix variable name in message."},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdwp\/ClassType\/SetValues\/setvalues001.java"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/nsk\/jdwp\/ObjectReference\/SetValues\/setvalues001.java"}],"sha":"f1c11ea8de616994b520656cf922f5e6293f8b7e"}]
