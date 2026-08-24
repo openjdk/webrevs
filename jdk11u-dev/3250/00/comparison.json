@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -327,0 +327,5 @@\n+    FLAG_SET_DEFAULT(UsePopCountInstruction, true);\n+  }\n+\n+  if (!UsePopCountInstruction) {\n+    warning(\"UsePopCountInstruction is always enabled on this CPU\");\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
