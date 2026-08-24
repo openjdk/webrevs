@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove redundant guard; set do_stringopts false in runtime stub setup"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/compile.hpp"}],"sha":"7538e79af25145cfd28368594b8626f0080beb35"}]
