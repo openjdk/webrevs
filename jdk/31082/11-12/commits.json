@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use `VECTOR_SIZE_{2,4}` to reflect AArch64's 128-bit limit"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/superword\/TestAutoVectorizationOfReductionLoops.java"}],"sha":"7e6e610e070bc4843a62c578278ecd61fe339608"}]
