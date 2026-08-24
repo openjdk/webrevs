@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -107,1 +107,1 @@\n-  add_to_unloaded_set(JfrTraceId::load_raw(k));\n+  add_to_unloaded_set(k);\n","filename":"src\/hotspot\/share\/jfr\/support\/jfrKlassUnloading.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
