@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -894,1 +894,1 @@\n-        ArrayList<String> expected = new ArrayList();\n+        ArrayList<String> expected = new ArrayList<>();\n","filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/css\/StylesheetTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
