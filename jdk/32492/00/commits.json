@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390874: MethodData::extra_data_lock memory leak"},"files":[{"filename":"src\/hotspot\/share\/oops\/methodData.cpp"},{"filename":"src\/hotspot\/share\/oops\/methodData.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/profiling\/TestMethodDataObjectMutexLeak.java"}],"sha":"d3014c8d2312541d90c9c2a8f25ac735dda52610"}]
