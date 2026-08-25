@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use KEY_READ because we only query\/read the registry"},"files":[{"filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Font.cpp"}],"sha":"9f22f82c96b6bdabd493021212b9eacd4b87b1fb"}]
