@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -681,1 +681,1 @@\n-    update_phase(phase);\n+    _controller->set_phase(phase);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahConcurrentGC.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
