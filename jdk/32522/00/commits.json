@@ -1,0 +1,1 @@
+[{"commit":{"message":"8391022: [valhalla] Missed ValueObjectMethods class initialization in JVM_IHashCode()"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/inlinetypes\/TestValueObjectMethodsInit.java"}],"sha":"e135092880ae041e008187a4c936469c9d11353d"}]
