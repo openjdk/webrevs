@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,0 +32,1 @@\n+#include \"gc\/shared\/collectedHeap.inline.hpp\"\n@@ -2205,0 +2206,4 @@\n+  if (CollectedHeap::is_filler_object(o)) {\n+    return;\n+  }\n+\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
