@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n- * @run main JLinkToolProviderTest\n+ * @run main\/othervm JLinkToolProviderTest\n","filename":"test\/jdk\/tools\/jlink\/JLinkToolProviderTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
