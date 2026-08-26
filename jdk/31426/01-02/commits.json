@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fold FirstGCTest into HighWaterMarkTest per review"},"files":[{"filename":"test\/hotspot\/jtreg\/vmTestbase\/metaspace\/gc\/FirstGCTest.java"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/metaspace\/gc\/HighWaterMarkTest.java"},{"filename":"test\/hotspot\/jtreg\/vmTestbase\/metaspace\/gc\/readme.txt"}],"sha":"8d9ed37626a3398ece582d832206a810e356b8b1"}]
