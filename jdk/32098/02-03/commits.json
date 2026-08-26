@@ -1,0 +1,1 @@
+[{"commit":{"message":"rewrite AccessRule and test; adding test cases to cover dot segments, file URI with an authority"},"files":[{"filename":"src\/java.xml\/share\/classes\/jdk\/xml\/internal\/AccessRule.java"},{"filename":"test\/jaxp\/javax\/xml\/jaxp\/unittest\/common\/access\/AccessRuleTest.java"}],"sha":"23e1614eccf3187395ee3acd12f674d143b8defb"}]
