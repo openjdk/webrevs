@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add log_if_needed"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"a437a19a4e0ba7e458cbe060197032863e98641b"},{"commit":{"message":"Null check should be performed before access"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"}],"sha":"6b7e5c93707dd9ee367dc3d62ab0cc7fa6cdcbf5"}]
