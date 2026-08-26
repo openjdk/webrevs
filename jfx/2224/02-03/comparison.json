@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -472,1 +472,1 @@\n-     * No spaces or symbols other than upper\/lower case hex digits is allosed.\n+     * No spaces or symbols other than upper\/lower case hex digits is allowed.\n","filename":"tests\/system\/src\/test\/java\/test\/util\/Util.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
