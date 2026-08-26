@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-\/\/    on the immutable payload, which may be cached in the markWord.\n+\/\/    on the immutable payload and class, which may be cached in the markWord.\n","filename":"src\/hotspot\/share\/oops\/markWord.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
