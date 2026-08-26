@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 6253a03af30f11f684a17ff7874c6e91a0e160f7"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_kyber.cpp"},{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/ML_KEM.java"}],"sha":"cc3b505a6cb966ac82af73bd02ed0032c3de05df"}]
