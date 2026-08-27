@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,0 @@\n-import java.util.List;\n@@ -39,0 +38,1 @@\n+import java.util.List;\n","filename":"test\/hotspot\/jtreg\/runtime\/stringtable\/StringTableCorruptionTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
