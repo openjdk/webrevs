@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1815,2 +1815,0 @@\n-    assert(!ObjectSynchronizer::current_thread_holds_lock(current, Handle(current, object)),\n-           \"current must have proporly exited the monitor when using JNI\");\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}

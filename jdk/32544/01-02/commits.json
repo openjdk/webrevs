@@ -1,0 +1,1 @@
+[{"commit":{"message":"Removed the assert, we have other checks for inconsistent locking"},"files":[{"filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp"}],"sha":"4a7cdd6ceed6f98245f208210aaa2c5cd9881606"}]
