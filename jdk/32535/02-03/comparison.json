@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -745,1 +745,1 @@\n-  if (src_obj->has_identity_hash() && (!(Arguments::is_valhalla_enabled() && src_obj->mark().is_inline_type()))) {\n+  if (!src_obj->is_inline_type() && src_obj->has_identity_hash()) {\n","filename":"src\/hotspot\/share\/cds\/aotMappedHeapWriter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
