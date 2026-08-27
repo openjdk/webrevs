@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8358521 8389666 8391171\n+ * @bug 8358521 8389666\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorBroadcastTransforms.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
