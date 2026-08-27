@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,0 +29,1 @@\n+ * @requires os.arch != \"riscv64\" | !(vm.cpu.features ~= \".*qemu.*\")\n","filename":"test\/jdk\/tools\/launcher\/ExecutionEnvironment.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
