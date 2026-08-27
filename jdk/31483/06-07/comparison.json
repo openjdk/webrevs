@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3224,0 +3224,1 @@\n+    __ align(32);\n@@ -3233,0 +3234,1 @@\n+\n@@ -3294,0 +3296,1 @@\n+    __ align(32);\n@@ -3305,0 +3308,1 @@\n+\n","filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
