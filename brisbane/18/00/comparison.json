@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,2 +51,1 @@\n-; if promotion will tag... uncomment and update\n-; tags= <regex of tag format>\n+tags=(?:\\\\d{2}(?:\\\\.\\\\d+)+\\\\+\\\\d{1,2}|\\\\d{2}(?:\\\\.\\\\d+)?-ga)\n","filename":".jcheck\/conf","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
