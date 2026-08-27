@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1773,0 +1773,1 @@\n+    DASSERT(strlen((LPCSTR)lpszSubKey) > 0);\n","filename":"src\/java.desktop\/windows\/native\/libawt\/windows\/awt_Font.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
