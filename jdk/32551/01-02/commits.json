@@ -1,0 +1,1 @@
+[{"commit":{"message":"removed the post-disposal check as the Cleanable.clean() guarantees the action runs at most once."},"files":[{"filename":"test\/jdk\/com\/sun\/security\/sasl\/ClientCleaner.java"}],"sha":"683a58e48d3c4f356bf0379e0d894a97ad24af11"}]
