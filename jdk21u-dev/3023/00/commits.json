@@ -1,0 +1,1 @@
+[{"commit":{"message":"8336912: G1: Undefined behavior for G1ConfidencePercent=0"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1_globals.hpp"},{"filename":"test\/hotspot\/jtreg\/gc\/arguments\/TestG1PercentageOptions.java"}],"sha":"84a73ea256fc7420d0a6c443c3ac2bd65083bbc8"}]
