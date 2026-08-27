@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,2 +71,0 @@\n-        if (vstr == null)\n-            vstr = System.getProperty(\"test.verbose\");\n","filename":"jdk\/test\/java\/lang\/invoke\/PrivateInvokeTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
