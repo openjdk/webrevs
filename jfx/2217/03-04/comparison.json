@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -811,1 +811,1 @@\n-           value should be {0, 0} <\/li>\n+     *     value should be {0, 0} <\/li>\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/AccessibleAttribute.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
