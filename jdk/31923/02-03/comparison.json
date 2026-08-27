@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3825,3 +3825,0 @@\n-    } else if (UseZbb) {\n-      sub(d, s, xheapbase);\n-      max(d, d, zr);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
