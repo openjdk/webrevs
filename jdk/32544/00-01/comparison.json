@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1815,1 +1815,1 @@\n-    assert(ObjectSynchronizer::current_thread_holds_lock(current, Handle(current, object)),\n+    assert(!ObjectSynchronizer::current_thread_holds_lock(current, Handle(current, object)),\n","filename":"src\/hotspot\/share\/runtime\/synchronizer.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
