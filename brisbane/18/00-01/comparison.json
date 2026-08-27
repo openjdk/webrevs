@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-tags=(?:\\\\d{2}(?:\\\\.\\\\d+)+\\\\+\\\\d{1,2}|\\\\d{2}(?:\\\\.\\\\d+)?-ga)\n+tags=(?:[1-9]\\d*(?:\\.\\d+)*(?:\\+\\d+|-ga))\n","filename":".jcheck\/conf","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
