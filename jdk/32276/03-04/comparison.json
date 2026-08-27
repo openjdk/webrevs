@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -187,0 +187,1 @@\n+    case LayoutKind::COUNT:\n@@ -188,0 +189,1 @@\n+      return 0;\n","filename":"src\/hotspot\/share\/oops\/layoutKind.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
