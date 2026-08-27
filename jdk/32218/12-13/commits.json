@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove assertion in JfrFilterClassClosure::do_entry\n\nRemove assertion for JfrTraceId in do_entry method."},"files":[{"filename":"src\/hotspot\/share\/jfr\/support\/methodtracer\/jfrClassFilterClosure.cpp"}],"sha":"aae49f3807b7eb85f453ae2c69b7881a1e6f393e"}]
