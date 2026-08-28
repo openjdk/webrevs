@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8387799"},"files":[{"filename":"src\/hotspot\/share\/opto\/callnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/inlining\/TestLateInlineNullableReceiver.java"}],"sha":"4c99708347fb0df323f0be21ffdc67ff2dbaf316"}]
