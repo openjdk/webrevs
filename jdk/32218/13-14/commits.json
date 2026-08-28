@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove invariant assertion in JfrPlaceholderTableCleaner\n\nRemove assertion for trace ID matching in JfrPlaceholderTableCleaner."},"files":[{"filename":"src\/hotspot\/share\/jfr\/support\/methodtracer\/jfrMethodTracer.cpp"}],"sha":"c242e0d495f34d0630da3b31705bc044c09b17e9"}]
