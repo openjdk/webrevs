@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -187,2 +187,1 @@\n-      ShouldNotReachHere();\n-      return 0;\n+      break;\n@@ -190,0 +189,2 @@\n+    ShouldNotReachHere();\n+    return 0;\n","filename":"src\/hotspot\/share\/oops\/layoutKind.hpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
