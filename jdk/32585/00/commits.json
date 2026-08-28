@@ -1,0 +1,1 @@
+[{"commit":{"message":"Convert suspendthrd01 to direct native calls"},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/thread\/SuspendThread\/suspendthrd01\/libsuspendthrd01.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/thread\/SuspendThread\/suspendthrd01\/suspendthrd01.java"}],"sha":"ad72fc19e2f501d6a0401ca7fe8a914f8ba93d19"}]
