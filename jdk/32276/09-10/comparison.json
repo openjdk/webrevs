@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5423,1 +5423,1 @@\n-    int offset = _layout_info->_payload_offset - trailing_zeroes \/ BitsPerByte;\n+    int offset = _layout_info->_available_layouts().payload_offset() - trailing_zeroes \/ BitsPerByte;\n","filename":"src\/hotspot\/share\/classfile\/classFileParser.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
