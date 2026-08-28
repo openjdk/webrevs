@@ -1,0 +1,1 @@
+[{"commit":{"message":"be consistent about using load_acquire and release_store for thread\nstate on all platforms"},"files":[{"filename":"src\/hotspot\/share\/runtime\/javaThread.inline.hpp"}],"sha":"e2d90888d0af7f9cc22f11f596e528056ca0d16a"}]
