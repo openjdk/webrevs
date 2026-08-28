@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix sig_cc initialization in adapter handler"},"files":[{"filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/AOTCacheSupportForCustomLoaders.java"}],"sha":"a4628500a7dd2bcc11ae3418ea585452706ae59b"}]
