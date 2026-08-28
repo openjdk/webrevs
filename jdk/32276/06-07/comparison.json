@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3789,1 +3789,1 @@\n-    __ movb(Address(rax, vk->null_marker_offset()), 1);\n+    __ movb(Address(rax, vk->layouts().null_marker_offset()), 1);\n","filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
