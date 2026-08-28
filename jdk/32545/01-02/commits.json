@@ -1,0 +1,1 @@
+[{"commit":{"message":"Copy while accessing the `idleConnectionTimeoutEvent`, which is `volatile`"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http3Connection.java"}],"sha":"a8162a4e930b6f2446723b1f914634e8c5177c23"}]
