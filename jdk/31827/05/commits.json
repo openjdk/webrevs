@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove dead Phis that refer to themselves"},"files":[{"filename":"src\/hotspot\/share\/opto\/cfgnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/cfgnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"}],"sha":"429f84c054f03c38dd141b0415f6c7c1675988be"}]
