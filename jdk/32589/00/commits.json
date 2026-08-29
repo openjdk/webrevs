@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix the issue of not being able to run Debian packaging on RPM-based hosts."},"files":[{"filename":"test\/jdk\/tools\/jpackage\/helpers\/jdk\/jpackage\/test\/LinuxHelper.java"}],"sha":"dbf341b902987257bbeeec5d8a2cf503227589df"}]
