@@ -1,0 +1,1 @@
+[{"commit":{"message":"8380647 ASAN: heap-buffer-overflow in ArchiveBuilder::make_shallow_copy"},"files":[{"filename":"src\/hotspot\/share\/cds\/archiveBuilder.cpp"}],"sha":"bcb03f17f2f7d122eed6b81ecb429992c343165e"}]
