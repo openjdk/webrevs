@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1243,1 +1243,0 @@\n-    __ slli(t0, count, exact_log2(size));\n@@ -1245,0 +1244,1 @@\n+    __ slli(t0, count, exact_log2(size));\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
