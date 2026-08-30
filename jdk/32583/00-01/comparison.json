@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2778,1 +2778,0 @@\n-    Label L_doLast, L_error;\n@@ -2825,1 +2824,0 @@\n-    Label L_doLast, L_do44, L_do52, L_error;\n","filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
