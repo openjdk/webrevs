@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -181,1 +181,1 @@\n-    @MethodSource(\"noResourceTZs\")\n+    @MethodSource(\"data\")\n","filename":"test\/jdk\/sun\/util\/resources\/cldr\/TimeZoneNamesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
