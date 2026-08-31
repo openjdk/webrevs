@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,1 @@\n-                    \" not supported by current SunPKCS11 back-end\");\n+                                       \" not supported by current SunPKCS11 back-end\");\n","filename":"test\/jdk\/sun\/security\/pkcs11\/tls\/tls12\/FipsModeTLS12.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
