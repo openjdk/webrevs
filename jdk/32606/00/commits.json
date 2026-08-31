@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix CallNode::may_modify"},"files":[{"filename":"src\/hotspot\/share\/opto\/callnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestWrappedBoxedPrimitive.java"}],"sha":"a0c6631e95a2e0509b2f76e1cca00b4fde59098c"}]
