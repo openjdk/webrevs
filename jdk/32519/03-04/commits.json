@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add a test to show that the class is still found in hprof even though classes is not in ClassLoader."},"files":[{"filename":"test\/hotspot\/jtreg\/serviceability\/HeapDump\/ClassLoaderFieldsTest.java"}],"sha":"2ec41882aac80e26a003bc1ee5ac0c10f6aa2a0e"}]
