@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1391,1 +1391,0 @@\n-  _oops_do_mark_nmethods        = nullptr;\n","filename":"src\/hotspot\/share\/code\/nmethod.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
