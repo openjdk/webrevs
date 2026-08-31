@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389730: [Valhalla] Fix two masked inverted conditions in LibraryCallKit::should_bail_out_on_non_ref_arrays()"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"d0a3086648d935755643566dfda73e62558fd912"}]
