@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4232,0 +4232,2 @@\n+  \/\/ This must happen after processing the safepoint, otherwise preconditions for\n+  \/\/ before_unwind are not met.\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
