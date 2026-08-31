@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390121: C2: StressBailout and VerifyIterativeGVN lead to nullptr push to igvn worklist"},"files":[{"filename":"src\/hotspot\/share\/opto\/compile.cpp"},{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/debug\/TestStressBailout.java"}],"sha":"56ddd71aa669cef63e9ba7aaf8a6e8a2bb6b8b04"}]
