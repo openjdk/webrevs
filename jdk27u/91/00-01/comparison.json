@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-    \/\/ Explicit dstOffset attributes from CLDR v48.2 metazone data.\n+    \/\/ Explicit dstOffset attributes from CLDR pre-release v49 metazone data.\n","filename":"test\/jdk\/java\/time\/test\/java\/time\/format\/TestZoneTextPrinterParser.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
