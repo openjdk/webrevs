@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,0 +60,3 @@\n+    \/\/ AMD \/ ATI - vendor ID 0x1002, no current hardware block-listed\n+    \/\/ Nvidia - vendor ID 0x10DE, no current hardware block-listed\n+\n","filename":"src\/java.desktop\/windows\/native\/libawt\/java2d\/d3d\/D3DBadHardware.h","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
