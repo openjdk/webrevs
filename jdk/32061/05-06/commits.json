@@ -1,0 +1,1 @@
+[{"commit":{"message":"Moved the registration to the RISC-V StubGenerator::init_AOTAddressTable() instead"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"bdd09de1f83d488e35800a58523424da6c69dbee"}]
