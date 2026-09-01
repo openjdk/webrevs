@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove thread parameter"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/ArenaImpl.java"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/ConfinedSegmentPool.java"},{"filename":"test\/jdk\/java\/foreign\/TestConfinedSegmentPoolDefensiveRelease.java"}],"sha":"187348ee9563808b76f471ad8ca5b3e155e6c51e"}]
