@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove `numReservedServerStreams == 0` check from `Http2Connection::isIdle`"},"files":[{"filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http2Connection.java"}],"sha":"7bc084a204703d63cbac844362c87753a373ab2a"}]
