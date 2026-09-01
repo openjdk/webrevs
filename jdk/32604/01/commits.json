@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update code comment"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"25942ce1b21a66b94db2ddc8ea3b9516058c4ab8"},{"commit":{"message":"8391466: RISC-V: Remove unreachable non-acquiring CAS\/GetAndSet\/GetAndAdd match rules"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"a41ec1c9bf964ab2fac71efaa74bab9bffbaed46"}]
