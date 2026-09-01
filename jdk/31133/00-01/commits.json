@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove the Key template parameter"},"files":[{"filename":"src\/hotspot\/share\/nmt\/memBaseline.cpp"},{"filename":"src\/hotspot\/share\/nmt\/nmtHashTable.hpp"},{"filename":"src\/hotspot\/share\/nmt\/vmatree.hpp"},{"filename":"test\/hotspot\/gtest\/nmt\/test_nmt_ht.cpp"}],"sha":"ce5dd2e296b5f5a954c5f232362155fd72d14aaa"}]
