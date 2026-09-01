@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-        var repo = Repository.init(path, vcs);\n+        var repo = TestableRepository.init(path, vcs);\n","filename":"test\/src\/main\/java\/org\/openjdk\/skara\/test\/CheckableRepository.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
