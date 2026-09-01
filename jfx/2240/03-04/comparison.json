@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -193,10 +193,0 @@\n-\/**\n- * Struct used to contain some information passed to the closure\n- * passed to compileTargets.\n- *\/\n-class CompileTarget {\n-    String name;\n-    String upper;\n-    String capital;\n-}\n-\n","filename":"build.gradle","additions":0,"deletions":10,"binary":false,"changes":10,"status":"modified"}]}
