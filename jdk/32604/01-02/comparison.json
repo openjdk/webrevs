@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5221,1 +5221,1 @@\n-\/\/ consistent operations. C2 therefore emits a trailing MemBarAcquire for\n+\/\/ consistent operations. C2 emits a trailing MemBarAcquire for\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
