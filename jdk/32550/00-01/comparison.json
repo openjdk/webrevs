@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -579,2 +579,0 @@\n-  addi(str1, str1, 8);\n-  subi(cnt1, cnt1, 8);\n@@ -583,0 +581,2 @@\n+  addi(str1, str1, 8);\n+  subi(cnt1, cnt1, 8);\n@@ -607,1 +607,0 @@\n-  addi(cnt1, cnt1, 8);\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":2,"deletions":3,"binary":false,"changes":5,"status":"modified"}]}
