@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,2 @@\n-    private final Map<String, JsonValue> theMembers;\n+    \/\/ Preserves member order\n+    private final SequencedMap<String, JsonValue> theMembers;\n","filename":"src\/jdk.incubator.json\/share\/classes\/jdk\/incubator\/json\/impl\/JsonObjectImpl.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
