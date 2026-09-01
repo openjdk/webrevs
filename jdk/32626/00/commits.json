@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prevent scalarization when cloning atomic arrays"},"files":[{"filename":"src\/hotspot\/share\/opto\/macro.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestArrays.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/inlinetypes\/TestAtomicFlatArrayClone.java"}],"sha":"bc8ae490ddcd935fe89ec02757ec038fa4c0b84a"}]
