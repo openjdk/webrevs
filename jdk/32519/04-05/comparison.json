@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -450,1 +450,1 @@\n-#if ASSERT\n+#ifdef ASSERT\n","filename":"src\/hotspot\/share\/classfile\/loaderConstraints.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
