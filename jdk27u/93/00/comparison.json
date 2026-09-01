@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,0 +69,3 @@\n+  \/\/ Order the hazard pointers loads w.r.t. the unlinking of the head node.\n+  OrderAccess::fence();\n+\n","filename":"src\/hotspot\/share\/gc\/z\/zMarkingSMR.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
