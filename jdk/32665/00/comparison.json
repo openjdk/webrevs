@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -222,0 +222,1 @@\n+  SerializerRegistrationGuard guard;\n@@ -226,1 +227,0 @@\n-  SerializerRegistrationGuard guard;\n","filename":"src\/hotspot\/share\/jfr\/recorder\/checkpoint\/types\/jfrTypeManager.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
