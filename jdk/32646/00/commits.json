@@ -1,0 +1,1 @@
+[{"commit":{"message":"8391612: Use heapOopSize consistently in AOT"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMappedHeapWriter.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotStreamedHeapWriter.cpp"}],"sha":"507ab27a975a6bd729ccab7cc4dc779da75135e9"}]
