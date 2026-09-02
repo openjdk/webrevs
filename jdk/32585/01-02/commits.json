@@ -1,0 +1,1 @@
+[{"commit":{"message":"Drop the getThreadState wrapper"},"files":[{"filename":"test\/hotspot\/jtreg\/testlibrary\/jvmti\/JVMTIUtils.java"},{"filename":"test\/hotspot\/jtreg\/testlibrary\/jvmti\/libJvmtiUtils.cpp"}],"sha":"eff80cc17e48e9c627362a58cc6add003a36061f"}]
