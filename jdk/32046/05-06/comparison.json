@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2852,0 +2852,1 @@\n+\n@@ -7363,1 +7364,0 @@\n-    assert(width <= 31, \"the zero extended result must be a valid int\");\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
