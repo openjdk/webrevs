@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8,0 +8,1 @@\n+         <trust group=\"org[.]apache[.]groovy\" file=\"groovy-.*[.](?:pom|module)\" regex=\"true\"\/>\n","filename":"gradle\/verification-metadata.xml","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
