@@ -1,0 +1,1 @@
+[{"commit":{"message":"0-terminate buffer because RegQueryValueExA does not guarantee this"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"}],"sha":"6ec1d20104bc90bea472f8368843f925b301ee63"}]
