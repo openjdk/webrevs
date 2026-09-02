@@ -1,0 +1,1 @@
+[{"commit":{"message":"8378603: libfontmanager FFM path needs to use FFM to locate both malloc and free\n\nBackport-of: 704efcb20dbe2f77e991b2343d5dccdf524882ba"},"files":[{"filename":"src\/java.desktop\/share\/classes\/sun\/font\/HBShaper.java"},{"filename":"src\/java.desktop\/share\/native\/libfontmanager\/hb-jdk-font-p.cc"}],"sha":"e8f9926c063550d416ac907f38669168b4ad42b9"}]
