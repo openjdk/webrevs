@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,1 +151,1 @@\n-    set_size_in_bytes_of(LayoutKind::REFERENCE, UseCompressedOops ? sizeof(narrowOop) : oopSize);\n+    set_size_in_bytes_of(LayoutKind::REFERENCE, heapOopSize);\n","filename":"src\/hotspot\/share\/oops\/layoutKind.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
