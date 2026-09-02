@@ -1,0 +1,1 @@
+[{"commit":{"message":"8391473: jpackage ignores exit code of the \"dpkg-deb\" command\n\nReviewed-by: almatvee"},"files":[{"filename":"test\/jdk\/tools\/jpackage\/junit\/linux\/jdk.jpackage\/jdk\/jpackage\/internal\/LinuxDebPackagerTest.java"}],"sha":"7c4dafda7926d22d9b6b67da5ad2f6db66933cbe"}]
