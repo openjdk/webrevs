@@ -1,0 +1,1 @@
+[{"commit":{"message":"8391605: Record jfr stubs to aot code cache"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/sharedRuntime_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/sharedRuntime_x86_64.cpp"}],"sha":"1e0e7ea428f14c3e2391cd7dab380f28306e6869"}]
