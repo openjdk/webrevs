@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,1 +41,0 @@\n- * @author Andreas Chmielewski\n@@ -55,2 +54,0 @@\n-    \/\/ algorithm name\n-    private final String algorithm;\n","filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/P11TlsExtendedMasterSecretGenerator.java","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
