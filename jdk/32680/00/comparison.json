@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -215,0 +215,1 @@\n+  MutexLocker lock(JfrStacktrace_lock, Mutex::_no_safepoint_check_flag);\n","filename":"src\/hotspot\/share\/jfr\/recorder\/stacktrace\/jfrStackTraceRepository.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
