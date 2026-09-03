@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -39,1 +39,1 @@\n-    \/\/\/ contains pairs of [ miny, maxy, ... ], or null\n+    \/\/\/ contains one or more pairs of {miny, maxy} values, or null\n","filename":"modules\/jfx.incubator.richtext\/src\/main\/java\/com\/sun\/jfx\/incubator\/scene\/control\/richtext\/RangeInfo.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
