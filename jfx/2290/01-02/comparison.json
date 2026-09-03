@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -126,0 +126,1 @@\n+        assertTrue(timer.isRunning());\n@@ -163,0 +164,1 @@\n+            assertFalse(timer.isRunning());\n","filename":"tests\/system\/src\/test\/java\/test\/com\/sun\/glass\/ui\/WinTimerTest.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
