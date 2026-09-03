@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 8390521: RISC-V: Clean up vector register dispatch in MachSpillCopyNode::implementation"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"47e807a26521a6b6d1a27bc74d36b7dd38124d23"}]
