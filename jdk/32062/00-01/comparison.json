@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3550,0 +3550,3 @@\n+      if (size_in_bits < 128) {\n+        return false; \/\/ Implementation limitation\n+      }\n","filename":"src\/hotspot\/cpu\/x86\/x86.ad","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
