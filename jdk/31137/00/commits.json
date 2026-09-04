@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use array for malloc sites"},"files":[{"filename":"src\/hotspot\/share\/nmt\/mallocSiteTable.hpp"},{"filename":"src\/hotspot\/share\/nmt\/memBaseline.cpp"},{"filename":"src\/hotspot\/share\/nmt\/memBaseline.hpp"},{"filename":"src\/hotspot\/share\/nmt\/memReporter.cpp"}],"sha":"b32eee2ea6514e915e32f944a61db5621508d798"}]
