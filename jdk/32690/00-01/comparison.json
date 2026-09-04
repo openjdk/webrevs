@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -68,1 +68,2 @@\n-        return out;\n+        return new OutputAnalyzer(out.getStdout(),\n+                out.getStderrNoDeprecatedWarnings(), out.getExitValue());\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/sadebugd\/DebugdConnectTest.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
