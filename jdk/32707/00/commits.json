@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix asOverlappingSlice issue"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/AbstractMemorySegmentImpl.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegmentOverlap.java"}],"sha":"c742f573233a7826311fefa749a031655e89924d"}]
