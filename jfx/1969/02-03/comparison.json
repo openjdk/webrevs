@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1481,0 +1481,5 @@\n+    \/**\n+     * {@inheritDoc}\n+     *\n+     * @since 28\n+     *\/\n","filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/canvas\/GraphicsContext.java","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
