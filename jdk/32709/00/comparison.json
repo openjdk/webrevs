@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-static inline bool level() {\n+static inline bool previous_epoch_level() {\n@@ -59,1 +59,1 @@\n-  return level() == 0;\n+  return previous_epoch_level() == 0;\n","filename":"src\/hotspot\/share\/jfr\/support\/jfrDeprecationEventWriter.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
