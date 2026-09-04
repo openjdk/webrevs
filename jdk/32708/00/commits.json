@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix mismatch issue with zero-length segments"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/SegmentBulkOperations.java"},{"filename":"test\/jdk\/java\/foreign\/TestMismatch.java"}],"sha":"7504d1fabc601dc40e358e8d140cb2edc388fa68"}]
