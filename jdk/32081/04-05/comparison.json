@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,0 @@\n-        this.algorithm = algorithm;\n","filename":"src\/jdk.crypto.cryptoki\/share\/classes\/sun\/security\/pkcs11\/P11TlsExtendedMasterSecretGenerator.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
