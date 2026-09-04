@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add livenes checks for zero sized copy"},"files":[{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/SegmentBulkOperations.java"},{"filename":"test\/jdk\/java\/foreign\/TestSegmentCopy.java"}],"sha":"83b5ba627ea217139e8fe93278931f37498a5370"}]
