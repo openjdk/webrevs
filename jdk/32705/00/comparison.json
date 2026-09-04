@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,1 +104,1 @@\n-  Symbol* const pin_sym = SymbolTable::new_symbol(valid_name);\n+  Symbol* const pin_sym = SymbolTable::new_symbol(pin_name);\n","filename":"src\/hotspot\/share\/jfr\/writers\/jfrJavaEventWriter.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
