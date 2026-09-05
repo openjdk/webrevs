@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix JNI acquire\/release + potential division by zero"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-prism-sw\/JDirectBufferSurface.c"},{"filename":"modules\/javafx.graphics\/src\/main\/native-prism-sw\/JJavaSurface.c"}],"sha":"af43485dfd6f9c8ad074c70ce9cd2834c6ca7a14"}]
