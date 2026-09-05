@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8386318: Reject inference that widens wildcard bounds to concrete types"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Infer.java"},{"filename":"test\/langtools\/tools\/javac\/generics\/inference\/WildcardChainedInference.java"}],"sha":"332d9990c888897c00b4daee99f7c65e233d636d"}]
