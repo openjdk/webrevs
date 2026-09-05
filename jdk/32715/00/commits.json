@@ -1,0 +1,1 @@
+[{"commit":{"message":"8250677: ModuleDescriptor.Version parsing treats pre-release identically to build"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/lang\/module\/ModuleDescriptor.java"},{"filename":"test\/jdk\/java\/lang\/module\/VersionTest.java"}],"sha":"d249d987974b0794ca48bfbcd96cc9a487d6f736"}]
