@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -108,0 +108,1 @@\n+  __ add(roffset, robj, roffset);\n@@ -111,1 +112,0 @@\n-  __ add(roffset, robj, roffset);\n","filename":"src\/hotspot\/cpu\/riscv\/jniFastGetField_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
