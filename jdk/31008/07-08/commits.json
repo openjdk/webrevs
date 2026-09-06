@@ -1,0 +1,1 @@
+[{"commit":{"message":"Rename to jdk.internal.math.Int128Math"},"files":[{"filename":"src\/hotspot\/share\/classfile\/vmIntrinsics.hpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/math\/Int128Math.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestInt128Math.java"}],"sha":"b09063dd110d9aa6d63d4277896bd4987a1ce129"}]
