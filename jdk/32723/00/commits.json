@@ -1,0 +1,1 @@
+[{"commit":{"message":"8391869: jtreg failure handler in the JDK incorrectly determines core dump files"},"files":[{"filename":"test\/failure_handler\/src\/share\/classes\/jdk\/test\/failurehandler\/jtreg\/GatherDiagnosticInfoObserver.java"}],"sha":"0dc3f20755b581dc3430c5007743d699f1412f88"}]
