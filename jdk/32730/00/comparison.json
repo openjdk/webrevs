@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -214,1 +214,1 @@\n-  address *small_jump_table = StubRoutines::x86::big_jump_table_base(ae);\n+  address *small_jump_table = StubRoutines::x86::small_jump_table_base(ae);\n","filename":"src\/hotspot\/cpu\/x86\/c2_stubGenerator_x86_64_string.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
