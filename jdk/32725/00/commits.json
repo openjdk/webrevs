@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip `IdleConnectionTimeoutReuseTest` when JTreg uses VTs"},"files":[{"filename":"test\/jdk\/java\/net\/httpclient\/IdleConnectionTimeoutReuseTest.java"}],"sha":"2977c42e7c3ba1cd525206f96c8fde47c6509ad5"}]
