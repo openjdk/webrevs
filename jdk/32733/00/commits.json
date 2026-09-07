@@ -1,0 +1,1 @@
+[{"commit":{"message":"8327645: Serial heap dump should not consume double amount of disk space"},"files":[{"filename":"src\/hotspot\/share\/services\/heapDumper.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/vthread\/HeapDump\/VThreadInHeapDump.java"}],"sha":"21b09ea27f52fa11d209342cd0f9cebc9479407d"}]
