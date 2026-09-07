@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-                    .stdoutShouldContain(\"[await_join] done joining\");\n+                  .stdoutShouldContain(\"[await_join] done joining\");\n","filename":"test\/jdk\/java\/foreign\/detachafterexit\/TestDetachAfterExit.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
