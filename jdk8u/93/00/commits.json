@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 7110e0fe7dd05da3795f835d78b6761dfcb1fd29\n\n8387123: Remove LuxTrust Global Root CA"},"files":[{"filename":"jdk\/make\/data\/cacerts\/luxtrustglobalrootca"},{"filename":"jdk\/test\/sun\/security\/lib\/cacerts\/VerifyCACerts.java"}],"sha":"1833eed079532c458edf229885b62bacadce54fd"}]
