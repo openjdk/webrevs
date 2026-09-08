@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,0 +61,5 @@\n+      if (_terminating.is_set()) {\n+        \/\/ Terminating already, exit.\n+        break;\n+      }\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahUncommitThread.cpp","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
