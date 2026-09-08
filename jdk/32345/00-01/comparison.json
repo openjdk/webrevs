@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -9544,2 +9544,2 @@\n-  format %{ \"MR      $dst, $src \\t\/\/ int->Narrow Ptr\" %}\n-  \/\/ variable size, 0 or 4\n+  format %{ \"CLRLDI  $dst, $src, #32 \\t\/\/ int->Narrow Ptr\" %}\n+  size(4);\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
