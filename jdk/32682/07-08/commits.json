@@ -1,0 +1,1 @@
+[{"commit":{"message":"Check for termination even when commits are allowed; otherwise it stalls shutdown"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahUncommitThread.cpp"}],"sha":"e94735dce0e3c1ae94facb9af1fc3adb4d04f6f9"}]
