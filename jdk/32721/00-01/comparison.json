@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,0 +79,1 @@\n+                \/\/ For architecture like riscv, code cache limit is below 2g, so use a close value 1900m instead.\n","filename":"test\/hotspot\/jtreg\/compiler\/codecache\/CheckLargePages.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
