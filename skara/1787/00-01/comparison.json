@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n-        return List.of();\n+        throw new UnsupportedOperationException();\n","filename":"host\/src\/main\/java\/org\/openjdk\/skara\/host\/Host.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
