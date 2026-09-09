@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,0 @@\n- * @key randomness\n@@ -29,1 +28,1 @@\n- * @requires vm.debug == true & vm.compiler2.enabled\n+ * @requires vm.compiler2.enabled\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorMaskCastTopInput.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
