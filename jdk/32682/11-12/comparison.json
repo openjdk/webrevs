@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -197,1 +197,1 @@\n-    int delay_ms = checked_cast<int>(MAX2<double>(0, expected_ts - actual_ts));\n+    int delay_ms = MAX2<int>(0, expected_ts - actual_ts);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahUncommitThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
