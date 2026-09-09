@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n- * @run main\/othervm -Xint -Xss256K\n+ * @run main\/othervm -Xint -Xss384K\n","filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/valuetypes\/HashOverflowTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
