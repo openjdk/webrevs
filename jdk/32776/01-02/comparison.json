@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,10 +139,0 @@\n-\n-#ifdef ASSERT\n-  {\n-    Label L;\n-    testptr(rsp, StackAlignmentInBytes-1);\n-    jcc(Assembler::zero, L);\n-    STOP(\"Stack is not properly aligned!\");\n-    bind(L);\n-  }\n-#endif\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":0,"deletions":10,"binary":false,"changes":10,"status":"modified"}]}
