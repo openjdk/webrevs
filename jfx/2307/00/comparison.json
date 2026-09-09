@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,0 +72,1 @@\n+    @SuppressWarnings(\"sync-override\")\n@@ -84,0 +85,1 @@\n+    @SuppressWarnings(\"sync-override\")\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/win\/WinTimer.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
