@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2038,0 +2038,2 @@\n+    case Op_FmaHF:\n+      return UseFMA && UseZfh;\n@@ -2040,1 +2042,0 @@\n-    case Op_FmaHF:\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
