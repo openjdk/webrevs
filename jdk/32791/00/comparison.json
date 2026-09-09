@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -336,0 +336,1 @@\n+                    throw e;\n@@ -368,0 +369,1 @@\n+            throw e;\n","filename":"test\/jdk\/java\/foreign\/TestByteBuffer.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
