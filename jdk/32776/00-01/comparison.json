@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1177,2 +1177,0 @@\n-constexpr uint64_t MAJIK_DWORD = 0xabbaabbaabbaabbaull;\n-\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
