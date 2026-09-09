@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1930,2 +1930,1 @@\n-  const TypeAryPtr* arytype = _gvn.type(ary)->isa_aryptr();\n-  precond(arytype != nullptr);\n+  const TypeAryPtr* arytype = _gvn.type(ary)->is_aryptr();\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
