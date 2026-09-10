@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix lowering of reference to primitive pattern"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/dialect\/java\/JavaOp.java"},{"filename":"test\/jdk\/jdk\/incubator\/code\/TestPrimitiveTypePatterns.java"}],"sha":"ddbc0b548b4e96e21c049b93fa7a9c4a6304cffa"}]
