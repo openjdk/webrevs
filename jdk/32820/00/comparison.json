@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -117,1 +117,2 @@\n-    :jdk_since_checks\n+    :jdk_since_checks \\\n+    :jdk_json\n@@ -433,0 +434,3 @@\n+jdk_json = \\\n+    jdk\/incubator\/json\n+\n","filename":"test\/jdk\/TEST.groups","additions":5,"deletions":1,"binary":false,"changes":6,"status":"modified"}]}
