@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392156: RISC-V: Inverted VerifyStackAtCalls condition in in_preserve_stack_slots()"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/sharedRuntime_riscv.cpp"}],"sha":"744245a0c8c2430752776861add2afae38131a53"}]
