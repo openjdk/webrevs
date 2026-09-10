@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 3f42b2601a1db518fd07e63688d2779aef409674\n\n8337669: [17u] Backport of JDK-8284047 missed to delete a file"},"files":[{"filename":"jdk\/test\/sun\/security\/ssl\/SSLSocketImpl\/SSLSocketBruceForceClose.java"}],"sha":"a8a485af0caf37f186f87d40b117a7502f42c4b6"}]
