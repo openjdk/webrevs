@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -297,1 +297,1 @@\n-  _name = os::strdup(name, mtInternal);\n+  _name = os::strdup(name, mtSynchronizer);\n","filename":"src\/hotspot\/share\/runtime\/mutex.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
