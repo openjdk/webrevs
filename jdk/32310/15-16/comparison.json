@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -56,0 +56,4 @@\n+        if (i < 0 || i >= length()) {\n+            throw new ArrayIndexOutOfBoundsException(i);\n+        }\n+\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/utilities\/ValueFieldLayoutInfoArray.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
