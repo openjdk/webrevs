@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1709,2 +1709,2 @@\n-  tst(tmp1, exact_log2(SafepointMechanism::poll_bit()));\n-  b(slow_path, eq);\n+  tst(tmp1, SafepointMechanism::poll_bit());\n+  b(slow_path, ne);\n","filename":"src\/hotspot\/cpu\/arm\/macroAssembler_arm.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
