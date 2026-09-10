@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8202764 8347841\n+ * @bug 8202764\n@@ -51,1 +51,0 @@\n-            .filter(zone -> !ZoneId.SHORT_IDS.containsKey(zone[0]))\n","filename":"test\/jdk\/sun\/util\/resources\/cldr\/Bug8202764.java","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
