@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -97,8 +97,0 @@\n-#if defined(DONT_ENABLE_IPV6)\n-jint  IPv6_supported()\n-{\n-    return JNI_FALSE;\n-}\n-\n-#else \/* !DONT_ENABLE_IPV6 *\/\n-\n@@ -152,1 +144,0 @@\n-#endif \/* DONT_ENABLE_IPV6 *\/\n","filename":"src\/java.base\/unix\/native\/libnet\/net_util_md.c","additions":0,"deletions":9,"binary":false,"changes":9,"status":"modified"}]}
