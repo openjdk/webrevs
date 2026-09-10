@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392127: RISC-V: Replace assert with guarantee in patch_offset_in_jal and patch_offset_in_conditional_branch"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"b1379a98bfa5249dbeac02d21b8974bc2fd157cd"}]
