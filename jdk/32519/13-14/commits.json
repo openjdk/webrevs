@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove JVMTI_REFERENCE_HEAP_OTHER for old Heap 1.0 call.  Exclude hidden classes from compatible class walk."},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmti.xml"},{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp"}],"sha":"1845300f78c5890ee40a244643bd8def2d3c10ed"}]
