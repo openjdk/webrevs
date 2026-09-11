@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,2 @@\n+#include \"runtime\/handles.inline.hpp\"\n+\n@@ -29,1 +31,0 @@\n-class Handle;\n","filename":"src\/hotspot\/share\/cds\/urlClassLoaderSupport.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
