@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix compile failure after merge\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/cds\/cdsProtectionDomain.cpp"},{"filename":"src\/hotspot\/share\/cds\/cdsProtectionDomain.hpp"},{"filename":"src\/hotspot\/share\/classfile\/classLoader.cpp"}],"sha":"f586bfdd99bb7772dca1119321a3b01c83d9ac62"}]
