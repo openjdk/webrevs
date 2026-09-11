@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Fuse ConvI2L with integer negation, division and remainder"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/riscv64\/TestConvI2LFusion.java"}],"sha":"c3500c84f9e4e2a5152a2928c4402747b6e31180"}]
