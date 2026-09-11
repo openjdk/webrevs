@@ -1,0 +1,1 @@
+[{"commit":{"message":"Emit JFR CodeCacheFull event when the MethodHot heap is full"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"},{"filename":"src\/hotspot\/share\/code\/codeCache.hpp"},{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"},{"filename":"src\/hotspot\/share\/runtime\/hotCodeCollector.cpp"}],"sha":"bc698255cbce7f88cb84f4c4eff898323172ea0a"}]
