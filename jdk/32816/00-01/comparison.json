@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -146,1 +146,1 @@\n-            }, task -> Thread.ofPlatform().start(task)).join();\n+            }, Thread.ofPlatform()::start).join();\n","filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/valuetypes\/CorrectlyRestoreRfp.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
