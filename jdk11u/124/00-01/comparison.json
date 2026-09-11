@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -26,1 +26,1 @@\n- * @bug 8181157 8202537 8234347 8236548  8261279 8293834\n+ * @bug 8181157 8202537 8234347 8236548 8261279 8293834\n","filename":"test\/jdk\/sun\/util\/resources\/cldr\/TimeZoneNamesTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
