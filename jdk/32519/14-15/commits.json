@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add an implementation note to JVMTI_HEAP_REFERENCE_OTHER, and make the old Heap function return true not false."},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmti.xml"},{"filename":"src\/hotspot\/share\/prims\/jvmtiTagMap.cpp"}],"sha":"4368536554c9a1aead6a9df29bf6fac71bbb0468"}]
