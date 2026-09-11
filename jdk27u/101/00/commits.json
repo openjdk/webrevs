@@ -1,0 +1,1 @@
+[{"commit":{"message":"8391908: X86: string indexof stubs use a wrong jump table\n\nReviewed-by: thartmann, adinn"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_stubGenerator_x86_64_string.cpp"}],"sha":"49a912d2b97b31cceb7a6403ac43bcf5771f147d"}]
