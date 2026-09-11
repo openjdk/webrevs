@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -216,1 +216,0 @@\n-  assert(!vk->contains_oops() || block->size() >= heapOopSize, \"Size of Value klass with oops should be >= heapOopSize\");\n","filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
