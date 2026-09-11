@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -533,1 +533,1 @@\n-            assertThrows(AssertionError.class, () ->\n+            assertThrows(InternalError.class, () ->\n","filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/css\/ParsedValueTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
