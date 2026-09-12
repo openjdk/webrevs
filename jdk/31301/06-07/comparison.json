@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1119,1 +1119,1 @@\n-  \n+\n@@ -1127,1 +1127,0 @@\n-#endif\n@@ -1129,0 +1128,2 @@\n+#endif\n+\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
