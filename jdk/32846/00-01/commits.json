@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixed bug related to HeapShared::archive_updated_mirror_field()"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotStreamedHeapWriter.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.hpp"}],"sha":"a43e2e34af0b2deb794387ec530c6fe0090a9b1e"}]
