@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -178,0 +178,3 @@\n+  assert(is_handshake_safe_for(Thread::current()) ||\n+         SafepointSynchronize::is_at_safepoint()\n+         JVMTI_ONLY(|| JavaThread::current()->is_vthread_transition_disabler()), \"\");\n","filename":"src\/hotspot\/share\/runtime\/javaThread.inline.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
