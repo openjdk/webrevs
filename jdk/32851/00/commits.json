@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373730: Missing identity optimization in arithmetic Or"},"files":[{"filename":"src\/hotspot\/share\/opto\/addnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/OrINodeIdealizationTests.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/OrLNodeIdealizationTests.java"}],"sha":"22b8ae0ac252b38db2e64d6d44cbc691cc962275"}]
