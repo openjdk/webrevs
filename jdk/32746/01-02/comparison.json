@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -407,1 +407,0 @@\n-  match(Set dst (AddL (AndL (ConvI2L src2) mask) src1));\n@@ -424,1 +423,0 @@\n-  match(Set dst (AddL (LShiftL (AndL (ConvI2L src2) mask) imm) src1));\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_b.ad","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
