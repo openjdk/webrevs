@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -469,1 +469,1 @@\n-    if (is_restore && set_vector_size != 0) {\n+    if (is_checkpoint && set_vector_size != 0) {\n","filename":"src\/java.base\/share\/native\/launcher\/main.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

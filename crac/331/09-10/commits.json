@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use -XX:MaxVectorSize in the launcher only for is_checkpoint"},"files":[{"filename":"src\/java.base\/share\/native\/launcher\/main.c"}],"sha":"f295afcad03103f66118372fb56d7bfb5219cb30"}]
