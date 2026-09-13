@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373730: Missing identity optimization in arithmetic Or"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/OrINodeIdealizationTests.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/OrLNodeIdealizationTests.java"}],"sha":"7c2bde15c1cb1a40de1cb51b990c3aa2fc7fc176"}]
