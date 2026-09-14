@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -992,1 +992,0 @@\n-  set_maximum_sve_vector_length(want_sve_vector_length);\n@@ -997,0 +996,1 @@\n+  set_maximum_sve_vector_length(want_sve_vector_length);\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
