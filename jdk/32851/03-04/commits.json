@@ -1,0 +1,1 @@
+[{"commit":{"message":"8373730: Fix OR identity worklist notification"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/OrINodeIdealizationTests.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/OrLNodeIdealizationTests.java"}],"sha":"7361538d130bc2e45f7db4cb8d031ba50a20428b"}]
