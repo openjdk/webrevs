@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383479: Optimisation of an instanceof operation when the LHS is a constant expression"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/PrimitiveInstanceOfBytecodeTest.java"}],"sha":"ff03948fc1f533bc4180ad2d2e635da066cba6d4"}]
