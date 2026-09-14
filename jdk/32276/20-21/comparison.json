@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -165,1 +165,0 @@\n-    assert(_sizes[static_cast<size_t>(lk)] != NoValue, \"layout must exist\");\n","filename":"src\/hotspot\/share\/oops\/layoutKind.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
