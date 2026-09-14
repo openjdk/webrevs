@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392085: CSLM.clone() on an emptied map shares state"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/ConcurrentSkipListMap.java"},{"filename":"test\/jdk\/java\/util\/concurrent\/tck\/MapTest.java"}],"sha":"e0ff20a6337646e4e4a8881d8287b9956b61799d"}]
