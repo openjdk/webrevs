@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,1 +72,1 @@\n- *          have selector implementations that do *NOT* pin the carrier thread in \n+ *          have selector implementations that do *NOT* pin the carrier thread in\n","filename":"test\/jdk\/java\/net\/httpclient\/IdleConnectionTimeoutReuseTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
