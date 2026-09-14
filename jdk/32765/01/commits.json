@@ -1,0 +1,1 @@
+[{"commit":{"message":"remove ex from names, add comment about sign-extension"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"d4e10a2c448836b5eceb48f58f51bc9c3af2f2f2"},{"commit":{"message":"8391911: Remove postalloc_expand for narrow constant loads"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"7705f724bf06353910b098f9a01ce08f1dac4723"}]
