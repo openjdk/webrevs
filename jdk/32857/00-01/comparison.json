@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -37,1 +37,1 @@\n- * @bug 8390106 8392323\n+ * @bug 8390106\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/ClhsdbInspectWithValueObject.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
