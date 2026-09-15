@@ -1,0 +1,1 @@
+[{"commit":{"message":"Set _is_constant for strict final fields"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciField.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestConstantFoldStrictFinalField.java"}],"sha":"c63c40e786dbbaabb4d989c1f27404487805b550"}]
