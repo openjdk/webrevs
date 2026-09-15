@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -88,0 +88,6 @@\n+####\n+## NSK JDWP tests failing with wrapper\n+\n+# JVMTI bug when popping to a frozen frame\n+vmTestbase\/nsk\/jdwp\/StackFrame\/PopFrames\/popframes001\/TestDescription.java 8391440 generic-all \n+\n","filename":"test\/hotspot\/jtreg\/ProblemList-Virtual.txt","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
