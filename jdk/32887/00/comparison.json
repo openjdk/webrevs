@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -32,1 +32,1 @@\n-class nmethod;\n+class ICacheInvalidationContext;\n@@ -34,0 +34,1 @@\n+class nmethod;\n","filename":"src\/hotspot\/share\/gc\/z\/zNMethod.hpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
