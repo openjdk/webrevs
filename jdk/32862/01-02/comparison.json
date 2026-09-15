@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -362,1 +362,1 @@\n-        (*env)->ReleaseIntArrayElements(env, bisdo->lutarray, pRgb, 0);\n+        (*env)->ReleaseIntArrayElements(env, bisdo->lutarray, pRgb, JNI_ABORT);\n","filename":"src\/java.desktop\/share\/native\/libawt\/awt\/image\/BufImgSurfaceData.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
