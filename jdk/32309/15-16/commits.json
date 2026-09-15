@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Gate native AtomicAccess Zalasr dispatch on a post-validated flag"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/atomicAccess_linux_riscv.hpp"}],"sha":"bca15ad124334286fcae1e7eb8c1c8e4ad40415b"}]
