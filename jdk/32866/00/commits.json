@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix handling of root node in CountedLoopConverter::filtered_type_from_dominators()"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/valuetypes\/TestRootDominator.java"}],"sha":"0ca07623875e334061b9e99601901eb96bedb6ee"}]
