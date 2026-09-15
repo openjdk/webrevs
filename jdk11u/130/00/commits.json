@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport afad0c1dc6e4e187bafb25b65da07a14c158154c\n\n8392072: Follow-on fix for Improve certification checking"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/x509\/DNSName.java"},{"filename":"src\/java.base\/share\/classes\/sun\/security\/x509\/NameConstraintsExtension.java"}],"sha":"7973a5fb123d72d60daa84cea94f449e033e90d0"}]
