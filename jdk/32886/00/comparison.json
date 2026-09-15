@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -260,1 +260,1 @@\n-    private static final int SPINS = 1 << 10;\n+    private static final int SPINS = 24576;\n","filename":"src\/java.base\/share\/classes\/java\/util\/concurrent\/Exchanger.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
