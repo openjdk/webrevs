@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -144,1 +144,2 @@\n-    DEBUG_ONLY(CodeBlob *code = CodeCache::find_blob(call_addr));\n+#ifdef ASSERT\n+    CodeBlob *code = CodeCache::find_blob(call_addr);\n@@ -146,0 +147,1 @@\n+#endif\n","filename":"src\/hotspot\/cpu\/riscv\/nativeInst_riscv.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
