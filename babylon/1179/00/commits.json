@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392141: NPE thrown from ReflectMethods while reflect-compiling java.base"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/main\/JavaCompiler.java"},{"filename":"test\/langtools\/tools\/javac\/reflect\/TestOrdering.java"}],"sha":"e31c58c887c053fb79e4e72ff120d6162f16b20b"}]
