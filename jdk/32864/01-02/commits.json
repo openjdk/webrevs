@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update tests to run with UseParallelBitInstructions only on x86-64\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/gvn\/TestBitCompressValueTransform.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/TestBitShuffleOpers.java"}],"sha":"e3f9d6f4d74c4fe383a871c5126d43be17f010ef"}]
