@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @run main\/othervm -Xcomp -XX:-TieredCompilation -XX:+UnlockDiagnosticVMOptions\n+ * @run main\/othervm -Xcomp -XX:-TieredCompilation\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestStartDominator.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
