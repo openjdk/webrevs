@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5687,1 +5687,1 @@\n-  ins_cost(DEFAULT_COST*3);\n+  ins_cost(DEFAULT_COST*2);\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
