@@ -1,0 +1,1 @@
+[{"commit":{"message":"Zeroing _extrs_addr and _stubs_addr on allocation. Fixed typo in zBarrierSetAssembler_riscv.cpp."},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/z\/zBarrierSetAssembler_riscv.cpp"},{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"}],"sha":"6765f00d850c29e0f05d480d78df6383bef70e9e"}]
