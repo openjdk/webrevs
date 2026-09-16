@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -379,0 +379,3 @@\n+  \/\/ Calling frame::id() is currently not supported for heap frames.\n+  assert(result._on_heap || this->_on_heap || result.is_older(this->id()), \"Must be\");\n+\n","filename":"src\/hotspot\/cpu\/s390\/frame_s390.inline.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
