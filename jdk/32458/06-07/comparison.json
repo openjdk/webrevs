@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -611,1 +611,1 @@\n-    event.set_fullCount(heap->full_count());\n+    event.set_fullCount(full_count);\n","filename":"src\/hotspot\/share\/code\/codeCache.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
