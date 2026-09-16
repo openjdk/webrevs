@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389895: RISC-V: Fuse LoadN with DecodeN to eliminate redundant register moves"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"6bc97593a7ae4ea2e869e43a2ab4deaf027da461"}]
