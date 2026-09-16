@@ -1,0 +1,1 @@
+[{"commit":{"message":"8391597: Use reserved t0 as the movptr2 scratch register\n\nSigned-off-by: Xiaofei Gong <gongxiaofei24@iscas.ac.cn>\nSigned-off-by: YuanSheng <yuansheng@isrc.iscas.ac.cn>"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"e0885afd85cbc2d95b2f7b67ac8c15009e0f7682"}]
