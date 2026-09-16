@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -365,1 +365,0 @@\n-#ifndef PRODUCT\n@@ -370,1 +369,0 @@\n-#endif\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
