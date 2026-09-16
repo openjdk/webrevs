@@ -1,0 +1,1 @@
+[{"commit":{"message":"Report CodeCacheFull event only for MethodHot when allocation failure handling is skipped"},"files":[{"filename":"src\/hotspot\/share\/code\/codeCache.cpp"}],"sha":"cbf1931011555115e80ce825d498bd39803f15ae"}]
