@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,1 +46,1 @@\n-        sendErrorCodeAndExit (fdout, ESTEP_JSPAWN_ALLOC_FAILED, (int)Y, errno); \\\n+        sendErrorCodeAndExit (fdout, ESTEP_JSPAWN_ALLOC_FAILED, (int)(Y), errno); \\\n","filename":"src\/java.base\/unix\/native\/jspawnhelper\/jspawnhelper.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
