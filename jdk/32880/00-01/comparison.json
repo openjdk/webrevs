@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -188,1 +188,1 @@\n-  return  _relocation_target_ref_count == 0;\n+  return _relocation_target_ref_count == 0;\n","filename":"src\/hotspot\/share\/gc\/z\/zPage.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
