@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -302,3 +302,0 @@\n-  \/\/ Trust final fields in value type buffers\n-  if (holder->is_value_klass())\n-    return true;\n","filename":"src\/hotspot\/share\/ci\/ciField.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
