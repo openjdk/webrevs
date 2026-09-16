@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Don't check for cancellation here, use self-forwarded test instead\"\n\nActually, still need to check for cancellation to cover case when VM is\nshutting down."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahBarrierSet.inline.hpp"}],"sha":"2f03265b4b6ed1f2c6516e1d6ecab5d39e59ac86"}]
