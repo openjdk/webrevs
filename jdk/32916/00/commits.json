@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add more comments"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"1735e7df5a3f752be808dd6c67df56d8a60c27a3"},{"commit":{"message":"8392529: Take into account trampoline stub size and its relocations on RISC-V"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"f9a4eb06d7538f3e85c9bd81425fc90944399038"}]
