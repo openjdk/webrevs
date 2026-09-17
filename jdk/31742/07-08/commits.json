@@ -1,0 +1,1 @@
+[{"commit":{"message":"make security properties current and add extra jcmd output"},"files":[{"filename":"src\/hotspot\/share\/services\/diagnosticCommand.hpp"},{"filename":"src\/java.base\/share\/classes\/jdk\/internal\/util\/SecuritySettings.java"},{"filename":"test\/jdk\/sun\/tools\/jcmd\/TestJcmdShowSettings.java"}],"sha":"7f797c8790c2267673005687e8f9f3b0f77b5631"}]
