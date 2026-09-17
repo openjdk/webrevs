@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -130,1 +130,1 @@\n-            query.put(\"stack_trace\", writer.toString());\n+            query.put(\"stack_trace\", applyReplacements(writer.toString()));\n","filename":"bots\/cli\/src\/main\/java\/org\/openjdk\/skara\/bots\/cli\/BotLogstashHandler.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
