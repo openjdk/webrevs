@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -897,1 +897,1 @@\n-        restore_live_registers_except(sasm);\n+        restore_live_registers(sasm);\n","filename":"src\/hotspot\/cpu\/riscv\/c1_Runtime1_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
