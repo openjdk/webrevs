@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -362,1 +362,0 @@\n-  ext_Ztso.enable_feature();\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
