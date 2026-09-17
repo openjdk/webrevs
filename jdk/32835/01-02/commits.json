@@ -1,0 +1,1 @@
+[{"commit":{"message":"Classes from numberSeq are only used in GC so adjust the NMT tag"},"files":[{"filename":"src\/hotspot\/share\/utilities\/numberSeq.cpp"},{"filename":"src\/hotspot\/share\/utilities\/numberSeq.hpp"}],"sha":"32ccb04746a88e603fd534dbd50315dad0cf08b1"}]
