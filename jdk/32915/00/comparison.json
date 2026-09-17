@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -689,1 +689,1 @@\n-            assertTrue(asmStringEquals(\"\", \"\"),\n+            assertTrue(asmStringEquals(new String(\"\"), new String(\"\")),\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/string\/TestStringIntrinsics2.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
