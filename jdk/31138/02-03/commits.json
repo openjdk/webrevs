@@ -1,0 +1,1 @@
+[{"commit":{"message":"explicit nullptr check, add type cast, add clarifications in comments"},"files":[{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/TestCheckIndexIntrinsics.java"}],"sha":"d34570ab17e45b9d2961d095d4894e8124fe0f30"}]
