@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392469: ReflectMethods throws IllegalStateException when reflecting a qualified anonymous inner class"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/internal\/ReflectMethods.java"},{"filename":"test\/langtools\/tools\/javac\/reflect\/NewTest.java"}],"sha":"d1c68693739a531f1adae83cf204817528d8958e"}]
