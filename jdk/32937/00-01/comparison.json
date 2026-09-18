@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -340,2 +340,1 @@\n-\/\/------------------------------sub--------------------------------------------\n-\/\/ A subtract node differences it's two inputs.\n+\/\/ A subtract node computes the difference of its two inputs.\n","filename":"src\/hotspot\/share\/opto\/subnode.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
