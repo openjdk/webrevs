@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,1 +28,0 @@\n-import java.io.IOError;\n@@ -30,0 +29,1 @@\n+import java.io.UncheckedIOException;\n@@ -266,1 +266,1 @@\n-            throw new IOError(e);\n+            throw new UncheckedIOException(e);\n","filename":"src\/jdk.net\/share\/classes\/jdk\/net\/Sockets.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
