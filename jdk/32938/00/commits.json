@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392548: Optimize instruction sequence for x86 ReplHF_reg instruction selection pattern"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/assembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/ReplHFRegBenchmark.java"}],"sha":"23314ca11cbb0fcc485f6e9aac7683dbfe3d57c4"}]
