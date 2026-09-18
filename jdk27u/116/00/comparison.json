@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -264,1 +264,1 @@\n-    \/\/ Note: Don't use this method for close_nofity, use closeNotify() instead.\n+    \/\/ Note: Don't use this method for close_nofify, use closeNotify() instead.\n","filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/TransportContext.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
