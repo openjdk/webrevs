@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -453,1 +453,1 @@\n-          log_warning(pagesize)(\"shmctl(SHM_PAGESIZE) failed with errno=%d\", errno);\n+          log_warning(pagesize)(\"shmctl(SHM_PAGESIZE) failed with errno=%d\", en);\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
