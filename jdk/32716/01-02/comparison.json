@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -45,0 +45,1 @@\n+        assertThrows(NullPointerException.class, () -> Collectors.joining((ListFormat)null));\r\n","filename":"test\/jdk\/java\/util\/stream\/CollectorJoiningListFormatTest.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
