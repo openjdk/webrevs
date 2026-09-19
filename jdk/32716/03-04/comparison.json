@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -375,1 +375,1 @@\n-    public Collector<CharSequence, ?, String> joining(ListFormat format) {\n+    public static Collector<CharSequence, ?, String> joining(ListFormat format) {\n","filename":"src\/java.base\/share\/classes\/java\/util\/stream\/Collectors.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
