@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392709: (fc) FileChannelImpl.write(ByteBuffer src, long position) checks FileReadEvent.enabled()"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/nio\/ch\/FileChannelImpl.java"},{"filename":"test\/jdk\/jdk\/jfr\/event\/io\/TestFileChannelEvents.java"}],"sha":"21ddced976c5e3d443e820587560c53ff6bf7631"}]
