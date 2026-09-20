@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -86,2 +86,1 @@\n-  assert_different_registers(start, tmp);\n-  assert_different_registers(count, tmp);\n+  assert_different_registers(start, count, tmp);\n","filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/cardTableBarrierSetAssembler_riscv.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
