@@ -1,0 +1,1 @@
+[{"commit":{"message":"8361892: AArch64: Incorrect matching rule leading to improper oop instruction encoding\n\nBackport-of: dccb1782ec35d1ee95220a237aef29ddfc292cbd"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64.ad"}],"sha":"af32c08750010d57893631092e8403c0898732da"}]
