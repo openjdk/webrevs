@@ -1,0 +1,1 @@
+[{"commit":{"message":"Avoid accidental deopts due to scope closure in warmup"},"files":[{"filename":"test\/jdk\/java\/foreign\/TestSharedCloseDeopts.java"}],"sha":"2e846298826848ef276369030349240354dc8d09"}]
