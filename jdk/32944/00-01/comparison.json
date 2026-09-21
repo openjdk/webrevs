@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+#include \"gc\/g1\/g1CardSetGroup.hpp\"\n@@ -43,1 +44,0 @@\n-#include \"gc\/g1\/g1CardSetGroup.hpp\"\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
