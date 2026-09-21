@@ -1,0 +1,1 @@
+[{"commit":{"message":"Enable AVX10.2 saturating floating point conversion instructions in runtime."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/templateTable_x86.cpp"}],"sha":"e796c67de31fe7e56dfe2497e1a59b421875182b"}]
