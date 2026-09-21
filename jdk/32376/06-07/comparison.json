@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3771,0 +3771,1 @@\n+    \/\/ {1, <*16 times>}\n@@ -3774,0 +3775,1 @@\n+    \/\/ {16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1}\n","filename":"src\/hotspot\/cpu\/ppc\/stubGenerator_ppc.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
