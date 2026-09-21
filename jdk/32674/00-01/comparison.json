@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -368,0 +368,1 @@\n+  \/\/ This is necessary for the current way that VarHandle CAS is implemented.\n","filename":"src\/hotspot\/share\/prims\/unsafe.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
