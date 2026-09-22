@@ -1,0 +1,1 @@
+[{"commit":{"message":"Whitebox misses the flag update"},"files":[{"filename":"src\/hotspot\/share\/prims\/whitebox.cpp"}],"sha":"cf8811d7f43f4b4fb6bfa43fe2281e993df4f91f"},{"commit":{"message":"Fix"},"files":[{"filename":"src\/hotspot\/share\/oops\/method.hpp"},{"filename":"src\/hotspot\/share\/oops\/methodFlags.hpp"}],"sha":"1828c819e49fb3028538464654ed1c07c1ddd4ed"}]
