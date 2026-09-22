@@ -1,0 +1,1 @@
+[{"commit":{"message":"[hat] set device-buffer to device-owned for WO buffers"},"files":[{"filename":"hat\/backends\/ffi\/shared\/src\/main\/native\/cpp\/shared.cpp"},{"filename":"hat\/tests\/src\/main\/java\/hat\/test\/TestMinCopies.java"}],"sha":"99925b293c1b9321d6fb99e0b9976906c8d4ab81"}]
