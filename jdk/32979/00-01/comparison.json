@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -115,0 +115,1 @@\n+    NONCOPYABLE(Ref);\n","filename":"src\/hotspot\/share\/memory\/metaspaceClosure.hpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
