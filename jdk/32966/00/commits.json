@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390157: (coll) PriorityQueue copy constructors accept non-Comparable single-element collection"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/PriorityQueue.java"},{"filename":"test\/jdk\/java\/util\/PriorityQueue\/AddNonComparable.java"}],"sha":"f46e6ad1e7866443146b485d8cc5d0e95f17dc61"}]
