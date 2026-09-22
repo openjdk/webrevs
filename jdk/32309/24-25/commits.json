@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Fix acquire ordering for narrow Zacas failure paths"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"}],"sha":"c60c1b34e3cae245c38821587f32bbd26be83d56"}]
