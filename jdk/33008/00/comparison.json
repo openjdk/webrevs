@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1750,1 +1750,1 @@\n-           Assembler::extract(((unsigned*)instr)[0], 31, 26) == 0b000000;\n+           Assembler::extract(Assembler::ld_instr(instr), 31, 26) == 0b000000;\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

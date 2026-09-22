@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392845: RISC-V: Use ld_instr for unaligned instruction access in is_srli_at"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.hpp"}],"sha":"00e6240da542b1ebe8bbaa5008bf43a5f9e2cb2e"}]
