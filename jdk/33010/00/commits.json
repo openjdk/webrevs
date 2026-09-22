@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392788: JMX notification buffer size Integer.MAX_VALUE causes NegativeArraySizeException"},"files":[{"filename":"src\/java.management\/share\/classes\/com\/sun\/jmx\/remote\/util\/EnvHelp.java"},{"filename":"test\/jdk\/javax\/management\/remote\/mandatory\/notif\/NotifBufferSizePropertyNameTest.java"}],"sha":"11646a245175f384fc50dbd951caf3f15771a1cf"}]
