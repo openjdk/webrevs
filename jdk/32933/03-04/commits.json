@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address negative cases under CEILING\/FLOOR rounding"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/text\/CompactNumberFormat.java"},{"filename":"test\/jdk\/java\/text\/Format\/CompactNumberFormat\/TestCNFRounding.java"}],"sha":"983dab5182d06ebc40c59b811c00090d591125f8"}]
