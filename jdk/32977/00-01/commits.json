@@ -1,0 +1,1 @@
+[{"commit":{"message":"Update the logic to check that the waiting thread has actually released the monitor.\nUpdate test accordingly to force release.x"},"files":[{"filename":"src\/hotspot\/share\/services\/threadService.cpp"},{"filename":"test\/jdk\/com\/sun\/management\/HotSpotDiagnosticMXBean\/DumpThreads.java"}],"sha":"eab068b5a9a3a477b9785e8947eb04c6fe057405"}]
