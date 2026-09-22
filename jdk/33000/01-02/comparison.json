@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    \/\/ performance, here we define 2000 ms as a threshold which is acceptable for\n+    \/\/ performance, here we define 2000 ms as an adjustable threshold which is acceptable for\n","filename":"test\/jdk\/com\/sun\/jndi\/dns\/ConfigTests\/PortUnreachable.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
