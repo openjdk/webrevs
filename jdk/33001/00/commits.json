@@ -1,0 +1,1 @@
+[{"commit":{"message":"8390472: capability can_support_virtual_threads must be rejected with -XX:-DoJVMTIVirtualThreadTransitions"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmtiManageCapabilities.cpp"}],"sha":"df278fc2028d36d64299497379ad06c7c9da5ae6"}]
