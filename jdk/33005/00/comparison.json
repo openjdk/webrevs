@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1275,1 +1275,0 @@\n-      return true; \/\/ for all recorded constraints added successfully.\n@@ -1277,0 +1276,1 @@\n+    return true; \/\/ All recorded constraints added successfully.\n","filename":"src\/hotspot\/share\/classfile\/systemDictionaryShared.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
