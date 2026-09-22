@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1412,1 +1412,0 @@\n-  const int errno_shmat = errno;\n","filename":"src\/hotspot\/os\/aix\/os_aix.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
