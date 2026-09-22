@@ -1,0 +1,1 @@
+[{"commit":{"message":"* shade review\n* undid last-minute \"fixes\" wrt to G1CardSizeInBytes"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp"},{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestCardClearHang.java"}],"sha":"514ea06b8fc716201db0a10e6493a9c42ddb0961"}]
