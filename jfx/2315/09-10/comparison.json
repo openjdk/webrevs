@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-                The test fails if the drag image is not identical to the source image.\n+                The test fails if the drag image is not similar to the source image.\n","filename":"tests\/manual\/dnd\/DndTestDragViewRawImage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
