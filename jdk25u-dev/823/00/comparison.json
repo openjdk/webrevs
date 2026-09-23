@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -46,0 +46,1 @@\n+  if (IsProcessorFeaturePresent(PF_ARM_V81_ATOMIC_INSTRUCTIONS_AVAILABLE)) _features |= CPU_LSE;\n","filename":"src\/hotspot\/os_cpu\/windows_aarch64\/vm_version_windows_aarch64.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
