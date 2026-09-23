@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392812: RISC-V: Enable UseZicond by default when supported by the CPU\n\nCo-authored-by: Yuansheng <yuansheng@isrc.iscas.ac.cn>\nCo-authored-by: Xiaofei Gong <gongxiaofei24@iscas.ac.cn>"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp"}],"sha":"2e6788c2f0fb420fba5070081075a4e75fc4099d"}]
