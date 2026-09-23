@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -344,2 +344,0 @@\n-    \/\/ We cannot make stack allocation because the Ref may need to be saved in\n-    \/\/ _pending_refs to avoid overflowing the C call stack\n","filename":"src\/hotspot\/share\/memory\/metaspaceClosure.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
