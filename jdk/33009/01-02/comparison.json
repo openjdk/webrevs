@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,5 +44,0 @@\n-            if (!service.getClass().getName()\n-                    .equals(\"sun.print.Win32PrintService\")) {\n-                continue;\n-            }\n-\n","filename":"test\/jdk\/javax\/print\/GetUIClassNameForRole.java","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
