@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -593,0 +593,2 @@\n+                } finally {\n+                    osc_stream = null;\n@@ -622,0 +624,1 @@\n+                    osc_stream = null;\n","filename":"src\/java.desktop\/share\/classes\/com\/sun\/media\/sound\/SoftVoice.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
