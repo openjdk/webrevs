@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -71,1 +71,1 @@\n-        return \"com.sun.glass.ui.\" + PLATFORM_FACTORY.toLowerCase(Locale.ROOT) + \".\" + PLATFORM_FACTORY + \"PlatformFactory\";\n+        return PLATFORM_FACTORY;\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/GlassPlatform.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
