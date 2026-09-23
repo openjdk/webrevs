@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -61,0 +61,5 @@\n+\n+* Recommended usage note\n+\n+The detroit-python engine must not be used to execute arbitrary or untrusted code.\n+Recommended that script code be not interpolated with user input arguments.\n","filename":"README.md","additions":5,"deletions":0,"binary":false,"changes":5,"status":"modified"}]}
