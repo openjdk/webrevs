@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -258,1 +258,1 @@\n-        if ((model.isSelected() && (!menu.isTopLevelMenu())) ||\n+        if ((model.isSelected() && !menu.isTopLevelMenu()) ||\n","filename":"src\/java.desktop\/windows\/classes\/com\/sun\/java\/swing\/plaf\/windows\/WindowsMenuUI.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
