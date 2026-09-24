@@ -1,0 +1,1 @@
+[{"commit":{"message":"\"case _ when\" is disallowed"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/parser\/JavacParser.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/UnnamedErrors.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/UnnamedErrors.out"}],"sha":"698f849b11ba7e87b0cd1caba97f4b4901cb2458"}]
