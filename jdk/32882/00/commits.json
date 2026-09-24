@@ -1,0 +1,1 @@
+[{"commit":{"message":"no errors should be reported for  malformed Markdown constructs"},"files":[{"filename":"src\/jdk.internal.md\/share\/classes\/jdk\/internal\/markdown\/MarkdownTransformer.java"},{"filename":"test\/langtools\/jdk\/javadoc\/doclet\/testMarkdown\/TestMarkdownLinks.java"}],"sha":"66b89a4997ca978240504f9a9d017956a550b235"}]
