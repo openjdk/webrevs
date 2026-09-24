@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use CountDownLatch in two more tests"},"files":[{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSocketImpl\/NoImpactServerRenego.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSocketImpl\/ServerRenegoWithTwoVersions.java"}],"sha":"f5da2df2de3edde251df8b7c0348da68ab6b7f2f"}]
