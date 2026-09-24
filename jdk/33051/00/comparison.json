@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -371,0 +371,4 @@\n+\n+  if (FLAG_IS_DEFAULT(CodeEntryAlignment)) {\n+    FLAG_SET_DEFAULT(CodeEntryAlignment, 32);\n+  }\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
