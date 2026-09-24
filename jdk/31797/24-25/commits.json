@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clear pending alloc failure request at end of concurrent cycle (single gen mode)"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahControlThread.hpp"}],"sha":"ba96fadfa9395ac367de7442e05796bc25e76c0c"}]
