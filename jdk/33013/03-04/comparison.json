@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1978,1 +1978,0 @@\n-    C->record_failure(\"cannot get flat array klass meta-data (OOME?)\");\n@@ -1990,1 +1989,0 @@\n-    C->record_failure(\"cannot get flat array klass meta-data (OOME?)\");\n","filename":"src\/hotspot\/share\/opto\/graphKit.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
