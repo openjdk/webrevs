@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -155,1 +155,1 @@\n-    FLAG_SET_DEFAULT(LogEventsBufferEntries, 250);\n+    FLAG_SET_DEFAULT(LogEventsBufferEntries, NOT_DEBUG(150) DEBUG_ONLY(250));\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahArguments.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
