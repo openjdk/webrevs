@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @bug 8386824 8389237\n+ * @bug 8386824 8392964\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/valhalla\/SetTag\/ValueTagSubstitutabilityTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
