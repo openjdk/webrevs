@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,4 @@\n+\n+jar {\n+    manifest.attributes(\"Main-Class\": \"com.oracle.test.manual.util.TestRunnerApp\")\n+}\n","filename":"tests\/manualTests\/build.gradle","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
