@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n-  return _sweep_duration.load_relaxed() - yield_during_sweep_duration();\n+  return _sweep_duration.load_relaxed();\n","filename":"src\/hotspot\/share\/gc\/g1\/g1ConcurrentRefineStats.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
