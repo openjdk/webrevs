@@ -1,0 +1,1 @@
+[{"commit":{"message":"Break cost tie so loadN2P_unscaled is selected, add IR test"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/riscv64\/TestLoadN2PUnscaled.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/IRNode.java"}],"sha":"6aa05194ce31753db97f38565a8f66510610bd4e"}]
