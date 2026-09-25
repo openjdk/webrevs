@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,2 +27,1 @@\n-        \"-Dprism.vsync=false\",\n-        \"-Djavafx.animation.pulse=1000\"\n+        \"-Djavafx.animation.fullspeed=true\"\n","filename":"tests\/performance\/3DLighting\/build.gradle","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
