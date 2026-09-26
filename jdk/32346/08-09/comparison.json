@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -363,1 +363,0 @@\n-  do_fun(int,   SatpMode,                               (int)VM_Version::satp_mode.value()) \\\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
