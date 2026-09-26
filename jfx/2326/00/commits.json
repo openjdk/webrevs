@@ -1,0 +1,1 @@
+[{"commit":{"message":"8393053: Valid SVG arc path may not render and logs a warning"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/geom\/Path2D.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/com\/sun\/javafx\/geom\/Path2DTest.java"}],"sha":"44ce3e4a0f0b3a81efebbcd7a4803ca60c0ab397"}]
