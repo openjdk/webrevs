@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,0 +93,4 @@\n+    if (is_safe(nm)) {\n+      return false;\n+    }\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahUnload.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}

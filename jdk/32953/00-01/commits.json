@@ -1,0 +1,1 @@
+[{"commit":{"message":"Have ShenandoahCompiledICProtectionBehaviour::lock(nmethod) do an is_safe(nmethod) check before locking."},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahUnload.cpp"}],"sha":"dc7d3b2ec20dd7b41745b521089adf28e3aaee3b"}]
