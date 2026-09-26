@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use ALU_COST for decodeHeapOop instead of adjusting loadN2P_unscaled cost"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"0e65913ccfafde5e7a7b24cfddd9c195e5b9f837"}]
