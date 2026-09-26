@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge remote-tracking branch 'upstream\/master' into JDK-8388926"},"files":[],"sha":"24ff2fced6550bbce3ee2e5b8b19f366869b9811"},{"commit":{"message":"8388926: RISC-V: Skip redundant zext.w in set_narrow_klass when bit 31 is clear"},"files":[],"sha":"420881e1fbea56803132979001ef2dcced57790b"}]
