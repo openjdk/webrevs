@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix extraEndOffset bound after CEN array no longer includes ENDHDR"},"files":[{"filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java"}],"sha":"83002f26b48b9be707abc5be291147affe5af2f3"}]
