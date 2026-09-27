@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1687,0 +1687,3 @@\n+                if (end.centot < 0 || end.centot > end.cenlen \/ CENHDR) {\n+                    zerror(\"invalid END header (total entries count too large)\");\n+                }\n","filename":"src\/java.base\/share\/classes\/java\/util\/zip\/ZipFile.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
