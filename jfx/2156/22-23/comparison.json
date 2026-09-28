@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -17,1 +17,1 @@\n-    toolchain.languageVersion.set(JavaLanguageVersion.of(jdkVersionInfo.feature()))\n+    toolchain.languageVersion.set(JavaLanguageVersion.of(jfxBuildJdkVersion.substring(0, 2)))\n","filename":"tests\/manualTests\/build.gradle","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
