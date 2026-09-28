@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,1 @@\n-        framework.addFlags(\"-Xms64m\", \"-XX:HeapBaseMinAddress=2g\");\n+        framework.addFlags(\"-Xms64m\", \"-XX:HeapBaseMinAddress=1g\");\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/riscv64\/TestLoadN2PUnscaled.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
