@@ -1,0 +1,1 @@
+[{"commit":{"message":"8393016: (fs) FileChannelLinesSpliterator.tryAdvance\/forEachRemaining does not check if action is null"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/nio\/file\/FileChannelLinesSpliterator.java"},{"filename":"test\/jdk\/java\/nio\/file\/Files\/StreamLinesTest.java"}],"sha":"a23e87eccbd6b95b795156a0062e78d6b4f7b759"}]
