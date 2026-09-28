@@ -1,0 +1,1 @@
+[{"commit":{"message":"8393157: Valid ArcTo may not render due to floating point error"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/shape\/ArcTo.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/shape\/ArcToTest.java"}],"sha":"3868669063ba6382c5091afa5be91a958b986006"}]
