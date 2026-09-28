@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -241,1 +241,0 @@\n-        Platform.exit();\n@@ -248,0 +247,1 @@\n+        Platform.exit();\n","filename":"tests\/manualTests\/src\/main\/java\/com\/oracle\/test\/manual\/util\/ManualTestWindow.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
