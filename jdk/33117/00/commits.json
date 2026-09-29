@@ -1,0 +1,1 @@
+[{"commit":{"message":"8369663: [IR Framework] Exclude IR verification when using DTest on a @Run method with multiple tests"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/test\/TestVM.java"},{"filename":"test\/hotspot\/jtreg\/testlibrary_tests\/ir_framework\/tests\/TestRunTests.java"}],"sha":"05392161c884f2ba046e3bf1c1df73e933809a7e"}]
