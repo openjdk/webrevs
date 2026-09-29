@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4606,1 +4606,0 @@\n-  ResourceMark rm;\n@@ -4619,1 +4618,2 @@\n-  Node_List outs;\n+  ResourceMark rm;\n+  Node_List outs; \/\/ collect the outputs first: the loop must never trip over killed nodes\n","filename":"src\/hotspot\/share\/opto\/loopnode.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
