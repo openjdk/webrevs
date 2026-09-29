@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -29,1 +29,1 @@\n- * @requires vm.cds.supports.aot.class.linking\n+ * @requires vm.cds.supports.aot.code.caching\n","filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/AOTCompatibleOopCompression.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
