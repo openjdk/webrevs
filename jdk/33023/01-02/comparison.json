@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -50,1 +50,1 @@\n- * @bug 6362683 8012381\n+ * @bug 6362683 8012381 8345685\n","filename":"test\/jdk\/java\/awt\/print\/PrinterJob\/Collate2DPrintingTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
