@@ -1,0 +1,1 @@
+[{"commit":{"message":"8380732: Final variables cannot be assigned separately from declaration in record compact constructor"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Attr.java"},{"filename":"test\/langtools\/tools\/javac\/records\/RecordCompilationTests.java"}],"sha":"312f6bc690ba0562d0bd884ee093ff48159945d0"}]
