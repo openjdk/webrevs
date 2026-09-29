@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389610: ARM32: native method wrapper unlocks a stale oop after GC relocates the object\n\nReviewed-by: bulasevich, fbredberg"},"files":[{"filename":"src\/hotspot\/cpu\/arm\/sharedRuntime_arm.cpp"}],"sha":"17458da5ef312d88347738142c7be27416880360"}]
