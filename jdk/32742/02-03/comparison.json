@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -74,1 +74,1 @@\n-        final Font font = new Font(Font.MONOSPACED, Font.PLAIN, 20);\n+        final Font font = new Font(Font.DIALOG, Font.PLAIN, 20);\n","filename":"test\/jdk\/java\/awt\/Graphics2D\/DrawString\/DrawRotatedStringUsingRotatedFont.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
