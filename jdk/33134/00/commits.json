@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use CompactObjectHeader safe accessor for object size"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalHeap.cpp"}],"sha":"f4f7be30d7803bd3e2473184042ac8e3bd562450"}]
