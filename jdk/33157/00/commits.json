@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use event log, not event mark for simple message"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahOldGeneration.cpp"}],"sha":"ff3f27a68d388989e825cf123032fcce7722ca9f"}]
