@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392553: javac crashes on an inferred recursive intersection"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/internal\/ReflectMethods.java"},{"filename":"test\/langtools\/tools\/javac\/reflect\/DenotableTypesTest.java"}],"sha":"1a2e48419b89bc71b63433a703d513fe881963dd"}]
