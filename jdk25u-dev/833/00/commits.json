@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 3574dfe98ba205b21c835e949fb2652905cfde8e"},"files":[{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSocketImpl\/NoImpactServerRenego.java"},{"filename":"test\/jdk\/sun\/security\/ssl\/SSLSocketImpl\/ServerRenegoWithTwoVersions.java"}],"sha":"1000e8a47cf41e8a984285cf1fd43634cf9f0007"}]
