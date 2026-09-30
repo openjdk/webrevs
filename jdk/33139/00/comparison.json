@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+ * @key headful\n@@ -38,1 +39,0 @@\n-import javax.swing.LookAndFeel;\n","filename":"test\/jdk\/javax\/swing\/JOptionPane\/JOptionPaneInternalFrameNotClosableTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
