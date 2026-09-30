@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cannot even flush the SATB when GC state is dropped"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp"}],"sha":"d285dc28e137eadbf0b39eee67555203979ca898"}]
