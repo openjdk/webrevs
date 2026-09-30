@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -284,1 +284,2 @@\n-                    transparentColor < 0) {\n+                    transparentColor < 0 &&\n+                    gif->SBackGroundColor < colorMap->ColorCount) {\n","filename":"src\/java.desktop\/share\/native\/libsplashscreen\/splashscreen_gif.c","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
