@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4657,1 +4657,1 @@\n-  bool safe_to_perform() const {\n+  bool is_safe_to_perform() const {\n","filename":"src\/hotspot\/share\/opto\/loopopts.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
