@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -24,1 +24,1 @@\n-public abstract class AbstractJavaInterpreter extends Interpreter {\n+abstract class AbstractJavaInterpreter extends Interpreter {\n","filename":"test\/jdk\/jdk\/incubator\/code\/lib\/AbstractJavaInterpreter.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
