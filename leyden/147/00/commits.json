@@ -1,0 +1,1 @@
+[{"commit":{"message":"8393334: [leyden] assert(entry->is_loaded() || entry->for_preload()) failed: invalidate only AOT code in use or a preload code"},"files":[{"filename":"src\/hotspot\/share\/ci\/ciEnv.cpp"},{"filename":"src\/hotspot\/share\/code\/nmethod.cpp"}],"sha":"cdbff1dfc4737636648085ebb3d83fcf20226f0c"}]
