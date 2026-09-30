@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -395,1 +395,0 @@\n-    oop zip_name_oop = CDSProtectionDomain::to_file_URL(_zip_name, Handle(), current);\n@@ -397,0 +396,1 @@\n+    oop zip_name_oop = CDSProtectionDomain::to_file_URL(_zip_name, Handle(), current);\n","filename":"src\/hotspot\/share\/classfile\/classLoader.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
