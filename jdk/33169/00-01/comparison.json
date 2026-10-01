@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -44,0 +44,3 @@\n+  \/\/ Young collections can never unload classes\n+  bool can_unload_classes() override { return false; }\n+\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahYoungHeuristics.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
