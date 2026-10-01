@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reuse macOS code for clamping SO_LINGER on BSD\n\nThis work is sponsored by The FreeBSD Foundation"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/net\/Socket.java"},{"filename":"src\/java.base\/unix\/native\/libnet\/net_util_md.c"}],"sha":"1e97b13d313ac4b21d1f502acd1e4b1916f157e9"}]
