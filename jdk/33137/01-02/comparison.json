@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2357,1 +2357,1 @@\n-          Node *in = dead->in(i);\n+          Node* in = dead->in(i);\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
