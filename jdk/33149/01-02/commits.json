@@ -1,0 +1,1 @@
+[{"commit":{"message":"Cannot allow stack walks in concurrent threads while resetter activates"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.hpp"}],"sha":"d9816f02581085169c256d58aa1c663b49524ed0"}]
