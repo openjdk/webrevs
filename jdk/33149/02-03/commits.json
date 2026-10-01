@@ -1,0 +1,1 @@
+[{"commit":{"message":"While resetter is a stack object, the state it resets should be tracked globally"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.hpp"}],"sha":"e0934e51a59a5de45acb46b29e3005924b2838b2"}]
