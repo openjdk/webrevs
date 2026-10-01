@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -473,0 +473,3 @@\n+        if (isCollated()) {\n+            mOptions += \" collate=true\";\n+        }\n","filename":"src\/java.desktop\/share\/classes\/sun\/print\/PSPrinterJob.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
