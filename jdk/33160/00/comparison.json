@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -34,0 +34,1 @@\n+import java.nio.file.DirectoryIteratorException;\n@@ -110,1 +111,1 @@\n-        } catch (IOException ioe) {\n+        } catch (IOException | DirectoryIteratorException ioe) {\n","filename":"test\/jdk\/java\/nio\/file\/WatchService\/DeleteInterference.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
