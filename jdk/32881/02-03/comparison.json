@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -415,0 +415,1 @@\n+  JfrThreadLocal::stop_impersonating(current);\n","filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrThreadSampling.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
