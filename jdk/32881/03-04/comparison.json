@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -392,1 +392,1 @@\n-                if (event.getThread(\"sampledThread\").getJavaThreadId() == target.threadId()) {\n+                if (event.getThread().getJavaThreadId() == target.threadId()) {\n","filename":"test\/jdk\/jdk\/jfr\/tool\/TestPrintContextual.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
