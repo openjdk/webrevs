@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1861,1 +1861,3 @@\n-            n = readAt(bb, pos);\n+            synchronized(zfch) {\n+                n = zfch.position(pos).read(bb);\n+            }\n","filename":"src\/jdk.zipfs\/share\/classes\/jdk\/nio\/zipfs\/ZipFileSystem.java","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
