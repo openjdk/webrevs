@@ -1,0 +1,1 @@
+[{"commit":{"message":"Enfore early initialization of ValueHolder and ValueHolderHolder (the latter just for robustness)"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/valuetypes\/TestValueArgEscapeState.java"}],"sha":"cecfc427b423982b10fc9753c82bb567e9e79ed0"}]
