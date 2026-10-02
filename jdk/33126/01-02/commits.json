@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Use explicit aqrl AMOs for add and xchg"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/atomicAccess_linux_riscv.hpp"}],"sha":"73b75d0843cf6f4286afb62aa627db5f6e6d21d9"}]
