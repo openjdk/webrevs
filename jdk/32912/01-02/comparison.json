@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -96,1 +96,1 @@\n-        \/\/ APX enxtended GPRs (EGPRs)\n+        \/\/ APX extended GPRs (EGPRs)\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/foreign\/abi\/x64\/X86_64Architecture.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
