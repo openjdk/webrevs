@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,0 +54,1 @@\n+  shenandoah_assert_safepoint();\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahRootVerifier.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
