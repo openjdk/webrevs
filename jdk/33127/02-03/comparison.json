@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -121,2 +121,6 @@\n-html {\n-  scroll-padding-top: 0.95em;\n+[id] {\n+  scroll-margin-top: 0.9em;\n+}\n+\n+code[id], span[id] {\n+    scroll-margin-top: 0.3em;\n","filename":"make\/data\/docs-resources\/resources\/jdk-default.css","additions":6,"deletions":2,"binary":false,"changes":8,"status":"modified"}]}
