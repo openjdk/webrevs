@@ -1,0 +1,1 @@
+[{"commit":{"message":"8393447: Do not limit heap size when creating AOT cache"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMetaspace.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.cpp"},{"filename":"src\/hotspot\/share\/cds\/heapShared.hpp"}],"sha":"c8c6338c2eca0d1b9a47d2c1f529472e84fa5528"}]
