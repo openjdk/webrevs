@@ -1,0 +1,1 @@
+[{"commit":{"message":"simpler solution with usleep(10000) before detach"},"files":[{"filename":"src\/jdk.hotspot.agent\/macosx\/native\/libsaproc\/MacosxDebuggerLocal.m"}],"sha":"416bf1a3326ba62360814c8aca46f87c3859853f"}]
