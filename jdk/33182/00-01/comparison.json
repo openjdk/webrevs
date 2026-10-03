@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n- * @bug 8392738\n+ * @bug 8393488\n","filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/float16\/TestFloat16ToFloatUnnormalized.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
