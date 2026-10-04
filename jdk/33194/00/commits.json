@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392942: C2: Missed Ideal optimization opportunity for ConvL2I\n\nSigned-off-by: jonghoonpark <dev@jonghoonpark.com>"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/igvn\/TestConvL2INodeIdeal.java"}],"sha":"83f3be8296d82fd02b63ceeca7827282244c7434"}]
