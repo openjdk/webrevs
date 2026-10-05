@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,1 +76,1 @@\n-    CredHandle      *pCred;\n+    CredHandle        *pCred = NULL;\n@@ -147,0 +147,1 @@\n+        free(pCred);\n","filename":"src\/java.base\/windows\/native\/libnet\/NTLMAuthSequence.c","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
