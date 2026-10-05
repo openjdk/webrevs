@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392555: Nested method reference on a captured self-type fails"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransTypes.java"},{"filename":"test\/langtools\/tools\/javac\/lambda\/MethodReferenceCapturedVarargsTest.java"}],"sha":"73f2d559cce84827d1de7108ad7acd3718aeca1c"}]
