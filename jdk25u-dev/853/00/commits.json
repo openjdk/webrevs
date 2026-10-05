@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport fad2e08f6c89f148f4d1041d37c23269b196cb28"},"files":[{"filename":"src\/hotspot\/os\/windows\/safefetch_static_windows.cpp"},{"filename":"test\/hotspot\/gtest\/runtime\/test_os_windows.cpp"}],"sha":"83804af5d81d9152180958bfebaee59590f1e9e8"}]
