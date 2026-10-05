@@ -1,0 +1,1 @@
+[{"commit":{"message":"emit AddI(phi, init_off) directly; drop redundant cast and diagnostic flag"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/ArrayListIterate.java"}],"sha":"c6564bdfff78bceec75db1059ee85f482774bfa2"}]
