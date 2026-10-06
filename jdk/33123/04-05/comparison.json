@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,2 +65,2 @@\n-        Files.delete(link);\n-        Files.delete(link.getParent());\n+        Files.deleteIfExists(link);\n+        Files.deleteIfExists(link.getParent());\n","filename":"test\/jdk\/java\/nio\/file\/etc\/FileSystemLoopExceptionTest.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
