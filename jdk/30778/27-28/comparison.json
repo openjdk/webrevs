@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,0 +54,3 @@\n+java\/math\/BigInteger\/SerializationTests.java   8393482 generic-all\n+java\/util\/concurrent\/locks\/Lock\/OOMEInAQS.java 8393490 generic-all\n+\n","filename":"test\/jdk\/ProblemList-AotJdk.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
