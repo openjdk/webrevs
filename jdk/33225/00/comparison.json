@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,1 @@\n+ * @requires vm.gc != \"Shenandoah\"\n","filename":"test\/hotspot\/jtreg\/gc\/logging\/TestUnifiedLoggingSwitchStress.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
