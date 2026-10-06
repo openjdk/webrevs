@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3032,1 +3032,1 @@\n-    __ vsetvli_helper(bt, Matcher::vector_length_in_bytes(this));\n+    __ vsetvli_helper(bt, Matcher::vector_length(this));\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

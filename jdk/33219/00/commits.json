@@ -1,0 +1,1 @@
+[{"commit":{"message":"8393570: RISC-V: replicate_imm5 passes byte size instead of element count to vsetvli_helper"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"}],"sha":"a3c3800ef9dd5264c095482785fc50dfed36b28f"}]
