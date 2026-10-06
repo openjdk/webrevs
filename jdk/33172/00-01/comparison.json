@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -79,1 +79,1 @@\n-            arr[i] = i == 2 ? null : new Value(seed + 10 + i);\n+            arr[i] = (i == 2 ? null : new Value(seed + 10 + i));\n","filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/valhalla\/Heapwalking\/FlatClassFilterTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
