@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -315,1 +315,1 @@\n-     * stored per bank are limited by the maximum size of a Java array.\n+     * stored per bank is limited by the maximum size of a Java array.\n","filename":"src\/java.desktop\/share\/classes\/java\/awt\/image\/BufferedImage.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
