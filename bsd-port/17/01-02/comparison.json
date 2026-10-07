@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -76,0 +76,4 @@\n+    private static boolean isDarwin() {\n+        return PlatformInfo.getOS().equals(\"darwin\");\n+    }\n+\n","filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/debugger\/bsd\/BsdThread.java","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
