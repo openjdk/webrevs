@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,0 @@\n-#include <sys\/utsname.h>\n","filename":"src\/java.desktop\/unix\/native\/libawt\/awt\/awt_LoadLibrary.c","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
