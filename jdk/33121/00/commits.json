@@ -1,0 +1,1 @@
+[{"commit":{"message":"Protect type_mirror_oop, remove asserts"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"},{"filename":"src\/hotspot\/share\/runtime\/reflection.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/valuetypes\/ReflectiveInvocationFlat.java"}],"sha":"c07ee92df069c47875a2cd296053dc51ccb1c1af"}]
