@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,4 @@\n+\n+# tz2026e: Manitoba\n+# https:\/\/techcommunity.microsoft.com\/blog\/dstblog\/interim-guidance-for-manitoba-permanent-dst-2026\/4562488\n+Manitoba Standard Time:001:America\/Winnipeg:\n","filename":"src\/java.base\/share\/data\/tzdata\/tzmappings.override","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
