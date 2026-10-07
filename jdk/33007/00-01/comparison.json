@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1445,1 +1445,1 @@\n-      if (!imh->is_not_osr_compilable(CompLevel_any)) {\n+      if (can_be_osr_compiled(imh, next_osr_level)) {\n","filename":"src\/hotspot\/share\/compiler\/compilationPolicy.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
