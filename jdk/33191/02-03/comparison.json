@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2518,1 +2518,1 @@\n-  jvmtiError err = jvmti_breakpoints.set(bp);\n+  jvmtiError err = (jvmtiError) jvmti_breakpoints.set(bp);\n","filename":"src\/hotspot\/share\/prims\/jvmtiEnv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
