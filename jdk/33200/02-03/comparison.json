@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -65,1 +65,1 @@\n-#if defined(__GNUC__) || defined(__clang__)\n+#if defined(__GNUC__)\n","filename":"src\/java.desktop\/share\/native\/common\/awt\/debug\/debug_trace.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
