@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -237,1 +237,0 @@\n-        \/\/ FIXME: Is it needed to pass caller_is_c1? Tracked by JDK-8383384\n","filename":"src\/hotspot\/share\/code\/vtableStubs.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8383384: Determine if VtableStubs::find_stub should take C1 into account when calling JvmtiExport"},"files":[{"filename":"src\/hotspot\/share\/code\/vtableStubs.cpp"}],"sha":"5e6aca29d4887bb7ee99a2135332e6e701b24654"}]
