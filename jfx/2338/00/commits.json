@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove call to cancelTranckingWithoutAnimation, and rework tests"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/mac\/GlassMenu.m"},{"filename":"tests\/system\/src\/test\/java\/test\/robot\/javafx\/scene\/SystemMenuBarClickEventsTest.java"}],"sha":"05833d19fe20b598084f21f444e93973ce29d975"}]
