@@ -1,0 +1,1 @@
+[{"commit":{"message":"Clear restore data after use"},"files":[{"filename":"src\/hotspot\/share\/runtime\/crac.cpp"},{"filename":"src\/java.base\/linux\/native\/libcriuengine\/criuengine.cpp"},{"filename":"test\/jdk\/jdk\/crac\/RepeatedCheckpointTest.java"},{"filename":"test\/jdk\/jdk\/crac\/RepeatedKeepRunningTest.java"}],"sha":"63e328b71843866eb00d519784398df3c3fe386b"}]
