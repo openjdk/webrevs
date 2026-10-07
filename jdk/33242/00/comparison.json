@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -93,1 +93,2 @@\n-    __ stop(\"implement function JNI_FastGetField::generate_fast_get_int_field0\");\n+    __ z_tmll(Z_ARG3, jfieldIDWorkaround::flat_mask_in_place);\n+    __ z_brnaz(slow);\n","filename":"src\/hotspot\/cpu\/s390\/jniFastGetField_s390.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
