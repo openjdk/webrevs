@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -664,1 +664,1 @@\n-\t\t\t\t<usesMetazone mzone=\"America_Central\"\/>\n+\t\t\t\t<usesMetazone mzone=\"America_Central\" stdOffset=\"-06\" dstOffset=\"-05\"\/>\n","filename":"make\/data\/cldr\/common\/supplemental\/metaZones.xml","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
