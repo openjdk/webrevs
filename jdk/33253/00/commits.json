@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make X500Principal.thisX500Name final to fix unsafe publication"},"files":[{"filename":"src\/java.base\/share\/classes\/javax\/security\/auth\/x500\/X500Principal.java"}],"sha":"05912e0919d4a49129b4043f16ae10611db122cb"}]
