@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added working buffers to avoid fresh allocations for each call."},"files":[{"filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/Argon2Impl.java"}],"sha":"102858a4e871af72ff0932d8c71826d8e35867f6"}]
