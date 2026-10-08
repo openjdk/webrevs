@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,0 +136,1 @@\n+                KeyGenerator.getInstance(\"SunTls12ExtendedMasterSecret\", sunPKCS11NSSProvider);\n","filename":"test\/jdk\/sun\/security\/pkcs11\/tls\/fips\/FipsModeTLS.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip FipsModeTLS test if SunTls12ExtendedMasterSecret is not available"},"files":[{"filename":"test\/jdk\/sun\/security\/pkcs11\/tls\/fips\/FipsModeTLS.java"}],"sha":"6940a54d7852107b38a2e286fc5bf40f266b0a96"}]
