@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -53,2 +53,2 @@\n-    LOGV(TAG, \"ONLOAD WEB\");\n-    LOGI(\"ONLOAD WEB\");\n+LOGV(TAG, \"ONLOAD WEB\");\n+LOGI(\"ONLOAD WEB\");\n","filename":"modules\/javafx.web\/src\/android\/native\/android_webview.c","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
