@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,0 +69,1 @@\n+        session = NULL;\n","filename":"src\/java.base\/windows\/native\/libnet\/DefaultProxySelector.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
