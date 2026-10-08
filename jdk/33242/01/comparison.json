@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -92,4 +92,0 @@\n-  if (UseArrayFlattening) {\n-    __ stop(\"implement function JNI_FastGetField::generate_fast_get_int_field0\");\n-  }\n-\n","filename":"src\/hotspot\/cpu\/s390\/jniFastGetField_s390.cpp","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
