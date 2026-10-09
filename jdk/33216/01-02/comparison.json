@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -72,2 +72,0 @@\n-                \/\/ Values stressing `Long.MAX_VALUE` boundaries cause failures\n-                \/\/ on certain OS & file system configurations; omitting them.\n","filename":"test\/jdk\/java\/nio\/channels\/Channels\/Available.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
