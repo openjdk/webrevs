@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7041,1 +7041,2 @@\n-  assert_different_registers(tmp, src1, src2);\n+  assert_different_registers(tmp, src1);\n+  assert_different_registers(tmp, src2);\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
