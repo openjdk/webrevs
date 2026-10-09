@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move volatile store fences from LIRGenerator to store_volatile"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c1_LIRAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/c1_LIRGenerator_riscv.cpp"}],"sha":"133cc2287c94959be82439d062fb267b6715d063"}]
