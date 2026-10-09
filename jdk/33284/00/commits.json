@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394082: RISC-V: Remove redundant membar from C1 compareAndSet"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c1_LIRAssembler_riscv.cpp"}],"sha":"b945f805d5712411f8dd4a068ea0ebd4ede18c71"}]
