@@ -1,0 +1,1 @@
+[{"commit":{"message":"Improve how runtime arguments are obtained for compute\/kernel dispatch"},"files":[{"filename":"hat\/core\/src\/main\/java\/hat\/Accelerator.java"},{"filename":"hat\/core\/src\/main\/java\/hat\/ComputeContext.java"},{"filename":"hat\/optkl\/src\/main\/java\/optkl\/OpHelper.java"}],"sha":"832f336b5fe30140c571561ad5def1f37796041e"}]
