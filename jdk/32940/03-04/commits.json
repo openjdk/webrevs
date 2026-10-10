@@ -1,0 +1,1 @@
+[{"commit":{"message":"8391819: Make G1AllocationRequest a standalone class"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1AllocationRequest.hpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"},{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp"}],"sha":"461a7a824a3797372f218022380651607f24f82b"}]
