@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Elide the leading membar of an LR\/SC based CAS"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"b9c7f2ff391376b76e5b55f186eb4b5d1cde6843"}]
