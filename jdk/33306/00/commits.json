@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix unexpected PopCountL in SuperWord truncation"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestSubwordTruncation.java"}],"sha":"1585854c638084fdd11f7d8b0f9fd4352e89ed95"}]
