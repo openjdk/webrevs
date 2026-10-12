@@ -1,0 +1,1 @@
+[{"commit":{"message":"Method resolution fails for methods with inaccessible signature types"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/dialect\/java\/impl\/ResolutionHelper.java"},{"filename":"test\/jdk\/jdk\/incubator\/code\/bytecode\/TestMethodReferenceAccess.java"}],"sha":"e638f6d09fe739074aa991f693c08584791936d8"}]
