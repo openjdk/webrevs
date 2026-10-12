@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -119,0 +119,2 @@\n+        \/\/ Vector API only (auto-vectorization is disabled for these). Keep vlen == 2:\n+        \/\/ without the rule, reduceLanes(MUL) hits the much slower scalar fallback.\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
