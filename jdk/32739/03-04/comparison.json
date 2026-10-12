@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n- * @summary Test intrinsification of CompressBitsV\/ExpandBitsV\n+ * @summary [vectorapi]: Test intrinsification of CompressBitsV\/ExpandBitsV\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorCompressExpandBits.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
