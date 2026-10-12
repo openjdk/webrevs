@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,1 +36,1 @@\n-#define CROSS_FALLBACK_BLOCKS 12\n+#define CROSS_DEFAULT_BATCH_SIZE 12\n","filename":"test\/testng\/org\/openjdk\/jextract\/test\/toolprovider\/copiedComments\/macros.h","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
