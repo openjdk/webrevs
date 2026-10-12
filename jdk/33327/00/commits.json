@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix scaledPositiveI2L_lShiftL_convI2L_reg_imm6"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"}],"sha":"4e1c5f43905cafbef5f10d0eaab9ca2ab55c4230"},{"commit":{"message":"Test cases"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/codegen\/ShiftTest.java"}],"sha":"576fb54b4505fb0a5120e8261ae85e1ab0ab5740"}]
