@@ -1,0 +1,1 @@
+[{"commit":{"message":"8393165: AsyncUL does not free buffers if initialization fails"},"files":[{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.cpp"},{"filename":"src\/hotspot\/share\/logging\/logAsyncWriter.hpp"}],"sha":"460c42b44e620c441f368cb2a3290747947fc6a2"}]
