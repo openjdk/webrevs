@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Preserve StoreLoad barriers before CAS and fast locking"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv.ad"}],"sha":"be9a99a7000db955c906ac8e64408c9f47764f20"}]
