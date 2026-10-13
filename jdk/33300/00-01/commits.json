@@ -1,0 +1,1 @@
+[{"commit":{"message":"8387719: Building the JDK: running `bash configure` does not detect musl\n\nAlso recognize GNU libc names with ABI suffixes and extend the configure tests."},"files":[{"filename":"make\/autoconf\/platform.m4"},{"filename":"test\/make\/autoconf\/test.m4"}],"sha":"4e764fe9f08a05ea70183bcc702fd1d4af6b0f15"}]
