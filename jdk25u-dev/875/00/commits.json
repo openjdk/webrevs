@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport ebfbf544747f9cb94db0cf68c17a6896d88482ee"},"files":[{"filename":"src\/hotspot\/share\/runtime\/continuationFreezeThaw.cpp"},{"filename":"src\/hotspot\/share\/runtime\/globals.hpp"},{"filename":"test\/jdk\/jdk\/internal\/vm\/Continuation\/SingleFrameThaw.java"}],"sha":"f6a3a3527cc8d81e2ddb8b08eeb8371c9776d5cd"}]
