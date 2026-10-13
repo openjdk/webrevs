@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8392169 GridPane - content-biased child is shrunk below its min size and overlaps neighbours"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/layout\/GridPane.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/layout\/GridPaneTest.java"}],"sha":"63fc38dfb7e5a7825bf196cf398130d04dd78204"}]
