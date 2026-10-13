@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -370,0 +370,1 @@\n+  ext_Zalasr.enable_feature();\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
