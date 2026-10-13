@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1214,1 +1214,1 @@\n-            a[m] = (short) r;\n+            result[m] = (short) r;\n","filename":"src\/java.base\/share\/classes\/com\/sun\/crypto\/provider\/ML_KEM.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
