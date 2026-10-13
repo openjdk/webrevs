@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394259: x86: improve CRC32 intrinsic with AVX2 and PCLMULQDQ"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/stubRoutines_x86.cpp"}],"sha":"4f31637c8510b770a3ef5aa7232892872c3fc801"}]
