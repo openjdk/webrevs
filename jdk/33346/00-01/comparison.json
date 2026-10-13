@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+#include \"compiler\/disassembler.hpp\"\n@@ -31,0 +32,1 @@\n+#include \"interpreter\/interp_masm.hpp\"\n@@ -35,0 +37,1 @@\n+#include \"oops\/methodData.hpp\"\n","filename":"src\/hotspot\/cpu\/aarch64\/templateTable_aarch64.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
