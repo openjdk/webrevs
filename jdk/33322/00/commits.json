@@ -1,0 +1,1 @@
+[{"commit":{"message":"8389737: javac incorrectly accepts super.field in this() invocation when subclass hides the field"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Resolve.java"},{"filename":"test\/langtools\/tools\/javac\/constructors\/SuperFieldAccess.java"}],"sha":"42b3d3d52c517af96717d1210ac482d67b4303ea"}]
