@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -792,4 +792,0 @@\n-\n-        if (tests.isEmpty()) {\n-            return; \/\/ There was a format violation. Return.\n-        }\n","filename":"test\/hotspot\/jtreg\/compiler\/lib\/ir_framework\/test\/TestVM.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
