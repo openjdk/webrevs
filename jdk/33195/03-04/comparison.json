@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3490,1 +3490,1 @@\n-  if (type() == Type::MEMORY && adr_type() == TypePtr::BOTTOM && _excluded_idx != nullptr) {\n+  if (type() == Type::MEMORY && out_adr_type() == TypePtr::BOTTOM && _excluded_idx != nullptr) {\n","filename":"src\/hotspot\/share\/opto\/cfgnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
