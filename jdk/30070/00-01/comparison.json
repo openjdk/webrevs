@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -89,0 +89,1 @@\n+                    \"-XX:+IgnoreUnrecognizedVMOptions\",\n@@ -97,0 +98,1 @@\n+                    \"-XX:+IgnoreUnrecognizedVMOptions\",\n","filename":"test\/hotspot\/jtreg\/compiler\/loopopts\/TestReductionReassociation.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
