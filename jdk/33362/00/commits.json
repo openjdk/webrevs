@@ -1,0 +1,1 @@
+[{"commit":{"message":"make value class gaps padding"},"files":[{"filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.cpp"},{"filename":"src\/hotspot\/share\/classfile\/fieldLayoutBuilder.hpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/valhalla\/valuetypes\/field_layout\/ValueClassInitialPaddingTest.java"}],"sha":"eb12397c603011bf64a7ec5c6c3ec2d454f6324d"}]
