@@ -1,0 +1,1 @@
+[{"commit":{"message":"Skip testWithCustomJDKImage if image has no jmods."},"files":[{"filename":"test\/jdk\/tools\/jlink\/plugins\/SecurityPropertiesPluginTest.java"}],"sha":"4c6edaf79a91c7ef7bab270b4e295ce29d056224"}]
