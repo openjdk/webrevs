@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -41,0 +41,2 @@\n+  \/\/ Written once by the VM thread at a safepoint. Also read by the error reporter,\n+  \/\/ which can run outside a safepoint.\n","filename":"src\/hotspot\/share\/services\/diagnosticWorkers.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
