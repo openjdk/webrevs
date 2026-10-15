@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8392158\nDon't round row\/column sizes to whole pixels when snapToPixel is off."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/layout\/GridPane.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/layout\/GridPaneTest.java"}],"sha":"6153869c3810ea150312fc3b8b5c4e8dd82cb2c2"}]
