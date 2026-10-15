@@ -1,0 +1,1 @@
+[{"commit":{"message":"Reflecting offline review: fixing Boolean-to-Object-to-Boolean cast cascades."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"},{"filename":"test\/langtools\/tools\/javac\/code\/GenCondCast.java"}],"sha":"ca3dc511452ebe09bf588efecc00899f4c57fff3"}]
