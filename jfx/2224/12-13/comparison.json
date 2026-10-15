@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -518,0 +518,1 @@\n+            System.setErr(stderr);\n","filename":"modules\/jfx.incubator.richtext\/src\/test\/java\/test\/jfx\/incubator\/scene\/control\/richtext\/model\/TestRichTextModel.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
