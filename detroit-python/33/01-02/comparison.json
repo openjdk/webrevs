@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -366,0 +366,1 @@\n+            remoteClient.pyEngine.removeDependentEngine(this);\n@@ -367,1 +368,0 @@\n-        remoteClient.pyEngine.removeDependentEngine(this);\n","filename":"src\/main\/java\/org\/openjdk\/engine\/python\/PythonRemoteScriptEngine.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
