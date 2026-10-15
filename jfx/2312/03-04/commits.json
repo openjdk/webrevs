@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8392158\nfixed percent constraint for min\/pref size and gaps."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/layout\/GridPane.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/layout\/GridPaneTest.java"}],"sha":"e0ce53dcc6b23b99866c02c81a0e6bd9c1e55038"}]
