@@ -1,0 +1,1 @@
+[{"commit":{"message":"Extend patch for long leading\/trailing zeros"},"files":[{"filename":"src\/hotspot\/share\/opto\/superword.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorization\/TestSubwordTruncation.java"}],"sha":"345d5d624b4dfc67b53683b170df8cf5c8a51315"}]
