@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -78,1 +78,1 @@\n-    static Integer pos(Integer i) {\n+    static int pos(int i) {\n","filename":"test\/jdk\/jdk\/incubator\/code\/TestBinops.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
