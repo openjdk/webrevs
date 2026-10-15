@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1439,1 +1439,1 @@\n-        assert(_raw_incr->Opcode() == Op_ConvI2L, \"\");\n+        assert(_raw_incr->Opcode() == Op_ConvI2L, \"unexpected shape\");\n","filename":"src\/hotspot\/share\/opto\/loopnode.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
