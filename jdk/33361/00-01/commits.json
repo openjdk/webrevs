@@ -1,0 +1,1 @@
+[{"commit":{"message":"8393007: G1: Waste allowance calculation may wrap around on 32 bit"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1Policy.cpp"}],"sha":"3a395f0390b4e83133c4380a77e5db6287633443"}]
