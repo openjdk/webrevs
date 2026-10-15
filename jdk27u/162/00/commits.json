@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394343: PPC64: C2: incorrect lshl of positive integer\n\nReviewed-by: mdoerr"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/ppc.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/codegen\/ShiftTest.java"}],"sha":"c1353e94728338221e17997bd2044cb3b09e57a0"}]
