@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,1 +48,0 @@\n-    @jdk.internal.vm.annotation.LooselyConsistentValue\n@@ -51,1 +50,0 @@\n-    @jdk.internal.vm.annotation.LooselyConsistentValue\n","filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/gc\/ClassHistogramFlattenedArrayTest.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
