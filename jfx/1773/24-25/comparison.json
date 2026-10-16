@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1971,4 +1971,0 @@\n-\/\/                if (popup != null) {\n-\/\/                    clearPopupMenu();\n-\/\/                    popup = null;\n-\/\/                }\n","filename":"modules\/javafx.controls\/src\/main\/java\/javafx\/scene\/control\/skin\/TabPaneSkin.java","additions":0,"deletions":4,"binary":false,"changes":4,"status":"modified"}]}
