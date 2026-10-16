@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -350,0 +350,3 @@\n+    } else if (_buf + length > end) {\n+      \/\/ unexpected: DWARF is broken?\n+      return false;\n","filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/dwarf.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
