@@ -1,0 +1,1 @@
+[{"commit":{"message":"8391830: javac incorrectly considers types disjoint in instanceof when symbols are incomplete"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/code\/Symbol.java"},{"filename":"test\/langtools\/tools\/javac\/cast\/IncompleteSymbol.java"}],"sha":"8e5123c2454a1062160665a5c57ead69a5f1e980"}]
