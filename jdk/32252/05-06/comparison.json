@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -7927,0 +7927,1 @@\n+#ifdef COMPILER2\n@@ -7971,0 +7972,1 @@\n+#endif\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
