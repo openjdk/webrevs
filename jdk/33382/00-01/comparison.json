@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -985,1 +985,1 @@\n-\/\/ Note1: we assume that the comparsion nodes are canonicalized to the\n+\/\/ Note1: we assume that the comparison nodes are canonicalized to the\n","filename":"src\/hotspot\/share\/opto\/ifnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
