@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2184,1 +2184,0 @@\n-class StripedMutex;\n@@ -2191,1 +2190,0 @@\n-  friend class MutexLockerImpl;\n","filename":"src\/hotspot\/share\/oops\/methodData.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
