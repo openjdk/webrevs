@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392523: Hardening AsyncShutdownNowInvokeAnyRace, ensuring threads are terminated after each iteration"},"files":[{"filename":"test\/jdk\/java\/util\/concurrent\/forkjoin\/AsyncShutdownNowInvokeAnyRace.java"}],"sha":"9825967a83e62242a7be9d63a93b956c2f7e88b5"}]
