@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -647,0 +647,3 @@\n+      endif\n+      ifeq ($(call isTargetOs, aix), true)\n+        JAWT_CFLAGS += -DHEADLESS\n","filename":"make\/modules\/java.desktop\/lib\/Awt2dLibraries.gmk","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
