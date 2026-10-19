@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,0 +27,1 @@\n+ * @bug 8394822\n@@ -39,0 +40,1 @@\n+ * @bug 8394822\n","filename":"test\/hotspot\/jtreg\/compiler\/c2\/riscv64\/TestCRCSignExtension.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
