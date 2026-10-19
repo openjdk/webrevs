@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -459,0 +459,3 @@\n+sun\/security\/pkcs11\/Provider\/CheckRegistration.java             8394846 generic-all\n+sun\/security\/pkcs11\/tls\/TestExtendedMasterSecretHandshake.java  8394846 generic-all\n+\n","filename":"test\/jdk\/ProblemList.txt","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
