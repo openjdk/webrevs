@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394810: Update hotspot-style to reflect renaming of Atomic\n\nRename Atomic::load to AtomicAccess::load in both markdown and HTML\nof hotspot-style."},"files":[{"filename":"doc\/hotspot-style.html"},{"filename":"doc\/hotspot-style.md"}],"sha":"219abce8884f1611b2f754bbcf4f88eea40e4f42"}]
