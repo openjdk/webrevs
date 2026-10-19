@@ -1,0 +1,1 @@
+[{"commit":{"message":"Simplify singleton check per review: instanceof + explicit CCE"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/PriorityQueue.java"}],"sha":"b671cae880ab7775cbac170fd5f5b86136e0e16c"}]
