@@ -1,0 +1,1 @@
+[{"commit":{"message":"Restore pre 2825 behavior for closed PRs."},"files":[{"filename":"bots\/testinfo\/src\/main\/java\/org\/openjdk\/skara\/bots\/testinfo\/TestInfoBotWorkItem.java"},{"filename":"bots\/testinfo\/src\/test\/java\/org\/openjdk\/skara\/bots\/testinfo\/TestInfoTests.java"}],"sha":"5e55e19d2fdd3a09079f059ce958f1096e359252"}]
