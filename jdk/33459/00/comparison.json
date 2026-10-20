@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,1 +69,1 @@\n-  jbyte* b;\n+  jbyte* b = nullptr;\n@@ -78,1 +78,1 @@\n-  const jchar* c;\n+  const jchar* c = nullptr;\n","filename":"test\/hotspot\/jtreg\/runtime\/jni\/critical\/libSuspendInCritical.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
