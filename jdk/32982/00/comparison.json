@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2185,1 +2185,0 @@\n-  __ la(xbcp, Address(xbcp, 0));\n@@ -2198,1 +2197,0 @@\n-  __ la(xbcp, Address(xbcp, 0));\n","filename":"src\/hotspot\/cpu\/riscv\/templateTable_riscv.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
