@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1891,3 +1891,0 @@\n-  if (compute_fast_bmi2()) {\n-    _features.set_feature(CPU_FAST_BMI2);\n-  }\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":0,"deletions":3,"binary":false,"changes":3,"status":"modified"}]}
