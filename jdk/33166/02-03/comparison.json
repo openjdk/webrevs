@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -957,1 +957,1 @@\n-  \/\/ a thread (i.e. thread_to_delete == nullptr). This amortizes the cost of\n+  \/\/ a thread (i.e., thread_to_delete == nullptr). This amortizes the cost of\n","filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
