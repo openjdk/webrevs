@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport 9fb3d591f52ad5cbd1e885f698248e9ed33cecce"},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"src\/hotspot\/share\/opto\/escape.hpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestReduceAllocationClonedCast.java"}],"sha":"b994e939e617c772d040f81c540fc32df1484763"}]
