@@ -1,0 +1,1 @@
+[{"commit":{"message":"8350907: [JMH] test ThreadStartJoin failed for 2 threads config\n\nRequire a single JMH worker in trial setup and restore benchmark-scoped\nstate, leaving the measured workload unchanged."},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/ThreadStartJoin.java"}],"sha":"f5945d14eeb80e066fe0a07aa6e370776f24c37e"}]
