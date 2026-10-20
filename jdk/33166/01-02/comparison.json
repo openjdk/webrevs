@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1162,1 +1162,1 @@\n-      \/\/ from the current ThreadsList. But an older retired\n+      \/\/ from the current ThreadsList, but an older retired\n","filename":"src\/hotspot\/share\/runtime\/threadSMR.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
