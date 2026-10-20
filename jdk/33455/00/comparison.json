@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,0 +31,2 @@\n+ * @requires vm.compMode != \"Xcomp\"\n+ * @requires vm.opt.CompileThresholdScaling == null & vm.opt.CompileThreshold == null\n","filename":"test\/jdk\/java\/lang\/LazyConstant\/ThrowablesClassUnloading.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
