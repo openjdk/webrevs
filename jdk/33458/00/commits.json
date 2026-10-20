@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394902: RISC-V: Add vector rearrange support for small lane count vectors"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorRearrangeTest.java"}],"sha":"0ecd0d422677f51b084527824e7a0ea2fe8ba49e"}]
