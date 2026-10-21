@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -139,1 +139,1 @@\n-     if (lib->fd >= 1) {\n+     if (lib->fd >= 0) {\n","filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/libproc_impl.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
