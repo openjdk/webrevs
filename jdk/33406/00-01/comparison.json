@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1367,1 +1367,0 @@\n-    \/\/ Calls via mismatching methods are always non-scalarized\n@@ -1390,0 +1389,1 @@\n+      \/\/ Calls via mismatching methods are always non-scalarized\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
