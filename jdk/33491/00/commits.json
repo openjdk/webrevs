@@ -1,0 +1,1 @@
+[{"commit":{"message":"    8395367 SSLServerSocketImpl.accept() accesses sslConfig without holding serverSocketLock"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/SSLServerSocketImpl.java"}],"sha":"7655b4036ce671b268e9a9227e0a653f7de9e24e"}]
