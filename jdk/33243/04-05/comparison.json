@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -112,1 +112,1 @@\n-      static bool n = [&]() {\n+      static bool runs_once = [&]() {\n","filename":"src\/hotspot\/os\/linux\/gc\/z\/zAdaptiveHeap_linux.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
