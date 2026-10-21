@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -42,1 +42,1 @@\n-    private static final String DEOPT_TAG = \"[debug][deoptimization]\";\n+    private static final String DEOPT_TAG = \"UNCOMMON TRAP\";\n","filename":"test\/hotspot\/jtreg\/compiler\/uncommontrap\/DeoptStorm.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
