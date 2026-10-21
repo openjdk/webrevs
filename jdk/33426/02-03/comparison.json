@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -66,1 +66,1 @@\n-        if (mark_clean_as_from_remset(cur[i])) {\n+        if (mark_clean_as_from_remset(&cur[i])) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardTable.inline.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
