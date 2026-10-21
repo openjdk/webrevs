@@ -1,0 +1,1 @@
+[{"commit":{"message":"assert_no_active_signal_handlers() in init_timers and stop_timers"},"files":[{"filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp"}],"sha":"463d0b43e69f23e33403351d3d4d0076672e56f5"}]
