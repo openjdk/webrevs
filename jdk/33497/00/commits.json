@@ -1,0 +1,1 @@
+[{"commit":{"message":"8345150: Check limits of VM.events max param"},"files":[{"filename":"src\/hotspot\/share\/services\/diagnosticCommand.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/dcmd\/vm\/EventsTest.java"}],"sha":"53ca8cfb2038d9564ce0857c7f6a95f7c02e8783"}]
