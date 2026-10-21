@@ -1,0 +1,1 @@
+[{"commit":{"message":"8376783: C2 hits \"bad AD file\" assert because split-If leaves a Phi as a conditional-move condition"},"files":[{"filename":"src\/hotspot\/share\/opto\/loopnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/split_if.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/splitif\/TestSplitIfSharedBool.java"}],"sha":"48c147f4f327dc6df7e972fe1fb69a78071071a6"}]
