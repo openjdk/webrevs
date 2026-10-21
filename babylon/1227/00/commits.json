@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix SSA for lambda with capture"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/dialect\/core\/SSA.java"},{"filename":"test\/jdk\/jdk\/incubator\/code\/TestSSA.java"},{"filename":"test\/jdk\/jdk\/incubator\/code\/TestSSACapture.java"}],"sha":"0319c696b48bedf544fb5dfce0a1ab42c2379f95"}]
