@@ -1,0 +1,1 @@
+[{"commit":{"message":"Bringing back the change to `DEFAULT_STACK_SHADOW_PAGES`\n\nThis makes Windows use the same number of stack shadow pages by default\nas other OSes."},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/globals_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/x86\/globals_x86.hpp"}],"sha":"9e7a2983ff64eec976a5bbc7ce803ebc87f5c330"}]
