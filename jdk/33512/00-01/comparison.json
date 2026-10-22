@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2848,1 +2848,1 @@\n-  bool non_scalar = false; \/\/_method->is_native();\n+  bool non_scalar = _method->is_native();\n","filename":"src\/hotspot\/share\/runtime\/sharedRuntime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
