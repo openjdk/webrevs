@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8392158\nFloor the last-row in multi-span portion to whole device pixels"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/layout\/GridPane.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/layout\/GridPaneTest.java"}],"sha":"39c8b33e0089b7bcbdcd4b87af434e232d2343cb"}]
