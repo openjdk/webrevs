@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -468,4 +468,0 @@\n-  if (!Matcher::match_rule_supported(Op_UMulHiL)) {\n-    return nullptr; \/\/ Don't bother\n-  }\n-\n@@ -483,0 +479,4 @@\n+  if (!Matcher::match_rule_supported(Op_UMulHiL)) {\n+    return nullptr;\n+  }\n+\n","filename":"src\/hotspot\/share\/opto\/divnode.cpp","additions":4,"deletions":4,"binary":false,"changes":8,"status":"modified"}]}
