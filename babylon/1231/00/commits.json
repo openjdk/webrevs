@@ -1,0 +1,1 @@
+[{"commit":{"message":"[hat] Default CUDA source compilation to NVRTC"},"files":[{"filename":"hat\/backends\/ffi\/cuda\/src\/main\/native\/cpp\/cuda_backend.cpp"},{"filename":"hat\/backends\/ffi\/shared\/src\/main\/native\/include\/config.h"},{"filename":"hat\/core\/src\/main\/java\/hat\/Config.java"}],"sha":"602ed4aca6d7bce2291fc67b6953868c058f619b"}]
