@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2279,1 +2279,1 @@\n-          \/\/ Class is value class\n+          \/\/ Omitting enclosing instance field in value classes changes ==\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
