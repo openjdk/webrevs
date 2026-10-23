@@ -1,0 +1,1 @@
+[{"commit":{"message":"IfNode can go dead before we ask for its opcode"},"files":[{"filename":"src\/hotspot\/share\/opto\/cfgnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/ifnode.cpp"},{"filename":"src\/hotspot\/share\/opto\/split_if.cpp"}],"sha":"6ed7d668c4ff7b29832c72af748254852e5b8686"}]
