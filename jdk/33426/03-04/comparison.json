@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,0 +62,2 @@\n+    } else if ((value & WordAlreadyScanned) == 0) {\n+      \/\/ Do nothing if there is no \"Clean\" card in it.\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CardTable.inline.hpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
