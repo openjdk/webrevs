@@ -1,0 +1,1 @@
+[{"commit":{"message":"Interpreter fails to access protected members through an enclosing subclass"},"files":[{"filename":"test\/jdk\/jdk\/incubator\/code\/bytecode\/TestNestedProtectedAccess.java"},{"filename":"test\/jdk\/jdk\/incubator\/code\/lib\/JavaLowInterpreter.java"}],"sha":"ada1eda1c7ccbc9b236923ed6ea76d88b9362844"}]
