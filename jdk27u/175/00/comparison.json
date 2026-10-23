@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8786,0 +8786,1 @@\n+  predicate(n->in(2)->as_Load()->barrier_data() == 0);\n","filename":"src\/hotspot\/cpu\/s390\/s390.ad","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
