@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -60,1 +60,0 @@\n-                \"-Xlog:safepoint=info:.\/\" + name,\n","filename":"test\/hotspot\/jtreg\/serviceability\/logging\/TestEquivalentLogFilePaths.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
