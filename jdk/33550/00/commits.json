@@ -1,0 +1,1 @@
+[{"commit":{"message":"Weak marking should not strongly claim class loader data"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahClosures.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahClosures.inline.hpp"}],"sha":"cdede374ff1f2a2ec4e569530e32deecf198edcb"}]
