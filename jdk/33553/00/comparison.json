@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1417,2 +1417,0 @@\n-  ResourceMark rm(THREAD);\n-  GrowableArray<Handle>* local_array = new GrowableArray<Handle>(12);\n","filename":"src\/hotspot\/share\/prims\/jvm.cpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
