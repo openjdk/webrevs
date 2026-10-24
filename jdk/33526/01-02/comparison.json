@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -623,1 +623,1 @@\n-            if (is_ctor && _index == 0 && obj != nullptr && obj->is_value()) {\n+            if (is_ctor && _index == 0 && _jvf->method()->method_holder()->has_strict_instance_fields_in_hierarchy()) {\n","filename":"src\/hotspot\/share\/prims\/jvmtiImpl.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
