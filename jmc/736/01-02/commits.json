@@ -1,0 +1,1 @@
+[{"commit":{"message":"Dropping the login shell since it overrides the path"},"files":[{"filename":"scripts\/runagenttests.sh"},{"filename":"scripts\/runapptests.sh"},{"filename":"scripts\/runcoretests.sh"},{"filename":"scripts\/startp2.sh"}],"sha":"183bf99d99a2fcb4afd3cd5968a9e430163876c7"}]
