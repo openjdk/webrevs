@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394507: G1: Huge values of MinHeapDeltaBytes may cause the number of regions to expand become 0"},"files":[{"filename":"src\/hotspot\/share\/gc\/shared\/gcArguments.cpp"},{"filename":"test\/hotspot\/jtreg\/gc\/g1\/TestMinHeapDeltaBytes.java"}],"sha":"0da17d1f2923f9367fb7c8e2c9f67a1e0e8b8100"}]
