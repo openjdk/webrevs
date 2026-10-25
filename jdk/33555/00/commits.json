@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8394468: fix compiler Bug 'Invalid pool entry'\n\nSigned-off-by: jonghoonpark <dev@jonghoonpark.com>"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/Lower.java"},{"filename":"test\/langtools\/tools\/javac\/conditional\/8394468\/T8394468.java"}],"sha":"086d6c4501c5a218f4bc0cd0c2294b668ae77d0b"}]
