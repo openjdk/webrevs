@@ -1,0 +1,1 @@
+[{"commit":{"message":"- Avoid null title\n- Nested changes can happen if java reacts to the change\n- Extended stages with no view, call base."},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp"},{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.h"}],"sha":"1fe365af31dd670bc8c0fafcf5f41a69317fff3f"}]
