@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use operand_size from Assembler instead of MacroAssembler"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp"}],"sha":"e7d1227b63b1bd606372e9b48294e623462dc5bc"}]
