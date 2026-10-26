@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -91,1 +91,1 @@\n-  virtual void do_nmethod(nmethod* nm) {\n+  void do_nmethod(nmethod* nm) override {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahClosures.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
