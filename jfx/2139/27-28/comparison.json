@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1327,0 +1327,4 @@\n+        if (sm_grab_window == this) {\n+            ungrab_focus();\n+        }\n+\n","filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}

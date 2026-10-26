@@ -1,0 +1,1 @@
+[{"commit":{"message":"- Ungrab focus when hiding the window, so IME does not try to use it after closed"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-glass\/gtk\/glass_window.cpp"}],"sha":"128e1babb71f72b41f8af497cef4df82290910ef"}]
