@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -142,1 +142,1 @@\n-      insert_features_names(features_to_clear, ss);\n+      insert_features_names(&features_to_clear, ss);\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
