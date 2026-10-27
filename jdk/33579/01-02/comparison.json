@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -710,0 +710,4 @@\n+  Register tmp = r10;\n+\n+  assert_different_registers(set, aLimbs, bLimbs, length, tmp);\n+\n@@ -714,1 +718,0 @@\n-  Register tmp = r10;\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_poly_mont.cpp","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
