@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,1 +244,0 @@\n-#ifndef PRODUCT\n@@ -248,0 +247,1 @@\n+#ifndef PRODUCT\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
