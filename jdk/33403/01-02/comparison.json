@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -502,1 +502,1 @@\n-    __ branch_optimized(Assembler::bcondNotZero, fallback);\n+    __ branch_optimized(Assembler::bcondNotAllZero, fallback);\n","filename":"src\/hotspot\/cpu\/s390\/gc\/z\/zBarrierSetAssembler_s390.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
