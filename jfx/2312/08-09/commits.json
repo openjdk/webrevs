@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8392158\nRound the span pref up to whole pixels and remove float noise from cell areas"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/layout\/GridPane.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/layout\/GridPaneTest.java"}],"sha":"8ae86d7600c88b337cea69553e53e8997a55d14b"}]
