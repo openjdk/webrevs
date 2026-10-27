@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8395787: ScopedValue: Unused GrowableArray allocation in JVM_FindScopedValueBindings\"\n\nThis reverts commit 5de3273bd685c54dd93fee0d0ad494eed34c1cd7."},"files":[{"filename":"src\/hotspot\/share\/prims\/jvm.cpp"}],"sha":"f2c8e2421e7dec6dc16428b7f9eb51bb4e13f0a7"}]
