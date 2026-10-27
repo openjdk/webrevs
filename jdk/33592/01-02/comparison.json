@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1256,0 +1256,1 @@\n+    \/\/ Allows `updateResolvedConflictToDB` to provide its own metadata, key cols, and populate its params\n","filename":"src\/java.sql.rowset\/share\/classes\/com\/sun\/rowset\/internal\/CachedRowSetWriter.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
