@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address code review"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/globals_riscv.hpp"}],"sha":"7ef349cdff1c7db9fceb672120b2e8a4ca6d2b48"},{"commit":{"message":"RISC-V: Auto-enable Zicbop extension features"},"files":[{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/riscv_hwprobe.cpp"}],"sha":"197bc37665f3cb5e1513627799ebff45b2b6f3f8"}]
