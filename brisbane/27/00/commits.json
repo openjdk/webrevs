@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure clearing of temporary buffer in randBytes()"},"files":[{"filename":"src\/main\/java\/com\/oracle\/jipher\/internal\/openssl\/ffm\/OsslLibCtx.java"},{"filename":"src\/test\/java\/com\/oracle\/jipher\/internal\/openssl\/LifeCycleHookTest.java"}],"sha":"7b4aa0ab0cc487c052511d89964084af9517ded3"}]
