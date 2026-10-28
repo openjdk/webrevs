@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -287,1 +287,1 @@\n-  \/\/ and not will perform any work until required (by an allocation stall, for instance).\n+  \/\/ and will not perform any work until required (by an allocation stall, for instance).\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
