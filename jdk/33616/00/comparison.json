@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -442,1 +442,1 @@\n-  } else if (cause == GCCause::_shenandoah_concurrent_gc) {\n+  } else {\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahGenerationalControlThread.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
