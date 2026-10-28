@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396064: Wrong values in AOT TypeProfileParmsLimit mismatch error"},"files":[{"filename":"src\/hotspot\/share\/cds\/filemap.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotProfile\/AOTProfileFlags.java"}],"sha":"742ca96278051703a8704b86a5cbab9fc50ecfc2"}]
