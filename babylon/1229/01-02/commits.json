@@ -1,0 +1,1 @@
+[{"commit":{"message":"Adjust the logic that decide whether a switch has all labels constants"},"files":[{"filename":"src\/jdk.incubator.code\/share\/classes\/jdk\/incubator\/code\/bytecode\/impl\/LoweringTransformer.java"},{"filename":"test\/jdk\/jdk\/incubator\/code\/TestSwitchExpressionOp.java"}],"sha":"8ce18944e1eb4c2e730adc76cfb5d15e07b29560"}]
