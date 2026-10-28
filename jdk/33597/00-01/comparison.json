@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2782,1 +2782,1 @@\n-  predicate(((unsigned int)(n->get_int()) < 64) && (n->get_int() >= 32));\n+  predicate(n->get_int() >= 32 && n->get_int() < 64);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
