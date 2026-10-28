@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -180,0 +180,1 @@\n+      \/\/ A T_INT index can still require a 64-bit byte offset.\n","filename":"src\/hotspot\/cpu\/riscv\/c1_LIRGenerator_riscv.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
