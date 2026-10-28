@@ -1,0 +1,1 @@
+[{"commit":{"message":"Do not have aggressive heuristic randomly unload classes"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAggressiveHeuristics.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/heuristics\/shenandoahAggressiveHeuristics.hpp"}],"sha":"979d4c09b48a1970f278e48113bff931a20f6dce"}]
