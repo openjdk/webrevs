@@ -1,0 +1,1 @@
+[{"commit":{"message":"Should use filter"},"files":[{"filename":"src\/hotspot\/share\/opto\/castnode.cpp"}],"sha":"02b474ce3b6f13934738bf8ade8342510ab886b2"},{"commit":{"message":"Fix ConstraintCast::widen_type"},"files":[{"filename":"src\/hotspot\/share\/opto\/castnode.cpp"}],"sha":"2b878219dbb3dd1ff69bce7645a73443bf831501"}]
