@@ -1,0 +1,1 @@
+[{"commit":{"message":"Documentation updates\n\n- Include section numbers from ARM ISA document\n- Mark branch protection on Windows\/ARM64 as supported"},"files":[{"filename":"doc\/building.html"},{"filename":"doc\/building.md"},{"filename":"src\/hotspot\/os_cpu\/windows_aarch64\/vm_version_windows_aarch64.cpp"}],"sha":"cb6d190bcb0d2731f66ad5a8dc496642ec14df34"}]
