@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5800,1 +5800,3 @@\n-  zext(dst, dst, 32);\n+  if ((int32_t)nk < 0 || AOTCodeCache::is_on_for_dump()) {\n+    zext(dst, dst, 32);\n+  }\n","filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
