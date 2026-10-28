@@ -1,0 +1,1 @@
+[{"commit":{"message":"Added TrainingData::Visitor::visit_later() to avoid stack overflow with deep dependency tree"},"files":[{"filename":"src\/hotspot\/share\/oops\/trainingData.cpp"},{"filename":"src\/hotspot\/share\/oops\/trainingData.hpp"}],"sha":"e38fef40cb5eed155089849641099ce4a657c652"}]
