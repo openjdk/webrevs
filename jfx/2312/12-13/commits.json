@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8392158 JDK-8392158 Keep percentage rows\/columns at their size when splitting a span's min"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/layout\/GridPane.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/layout\/GridPaneTest.java"}],"sha":"ed1d5986931641609b5565c0d0e32f13573e667d"}]
