@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't use MacOS impl of jniFastGetField for BSD\n\nThis work is sponsored by The FreeBSD Foundation"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/jniFastGetField_aarch64.cpp"}],"sha":"06d812eadca1532b195e06653ce2ffdc8b94cf3f"}]

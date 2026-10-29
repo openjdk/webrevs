@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-#ifdef _ALLBSD_SOURCE\n+#ifdef __APPLE__\n@@ -90,1 +90,1 @@\n-#else \/\/ _ALLBSD_SOURCE\n+#else \/\/ __APPLE__\n@@ -97,1 +97,1 @@\n-#endif \/\/ _ALLBSD_SOURCE\n+#endif \/\/ __APPLE__\n","filename":"src\/hotspot\/cpu\/aarch64\/jniFastGetField_aarch64.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
