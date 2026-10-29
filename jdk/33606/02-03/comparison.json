@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8939,1 +8939,1 @@\n-  format %{ \"MFFPRD  $src, $dst \\t\/\/ MoveD2L\" %}\n+  format %{ \"MFFPRD  $dst, $src \\t\/\/ MoveD2L\" %}\n","filename":"src\/hotspot\/cpu\/ppc\/ppc.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
