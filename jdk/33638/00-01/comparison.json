@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -377,1 +377,1 @@\n-     * associated element is set to the value of the latest such occurrence.\n+     * associated element is set to the value of the last occurrence.\n","filename":"src\/java.base\/share\/classes\/java\/util\/Properties.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
