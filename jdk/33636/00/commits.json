@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396122: Use narrow_subword_type() in remaining AArch64 compare-and-exchange instructions"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/aarch64_atomic.ad"}],"sha":"97ba11a60859efd7fbb2c1b499bf3cd030defbda"}]
