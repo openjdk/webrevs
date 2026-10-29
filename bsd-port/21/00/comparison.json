@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -36,3 +36,3 @@\n-    .globl func %% \\\n-    .hidden func %% \\\n-    .type func, %function %% \\\n+    .globl func ; \\\n+    .hidden func ; \\\n+    .type func, %function ; \\\n","filename":"src\/hotspot\/os_cpu\/bsd_aarch64\/defs.S.inc","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
