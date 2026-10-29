@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -176,1 +176,1 @@\n-  while ((_buf < end) && (_current_pc < pc)) {\n+  while ((_buf < end) && (_current_pc <= pc)) {\n","filename":"src\/jdk.hotspot.agent\/linux\/native\/libsaproc\/dwarf.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
