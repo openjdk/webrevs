@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -509,1 +509,1 @@\n-      \/\/ Since st1._bits._ones[i] <= v1[i], we have:\n+      \/\/ Since min_v1[i] = st1._bits._ones[i], we have:\n","filename":"src\/hotspot\/share\/opto\/rangeinference.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
