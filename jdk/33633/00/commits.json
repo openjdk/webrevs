@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396112: DTLS handshake reassembly does not reject inconsistent message lengths across fragments"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ssl\/DTLSInputRecord.java"}],"sha":"c60248328d08d2f13adf63eab54aa189b1d76420"}]
