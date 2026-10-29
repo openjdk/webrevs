@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8640,5 +8640,0 @@\n-      Register a9 = r10;\n-      Register a10 = r11;\n-      Register b9 = r12;\n-      Register b10 = r13;\n-\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":0,"deletions":5,"binary":false,"changes":5,"status":"modified"}]}
