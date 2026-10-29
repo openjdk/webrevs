@@ -1,0 +1,1 @@
+[{"commit":{"message":"Document behavior when load() contains key already in Properties"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Properties.java"},{"filename":"test\/jdk\/java\/util\/Properties\/LoadDup.java"}],"sha":"a8ddd30b8042fab0d76893f098ae899000c19715"}]
