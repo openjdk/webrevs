@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -106,1 +106,1 @@\n-Brisbane is compatible with any version of OpenSSL in which the major version is 3.\n+Brisbane is compatible with any version of OpenSSL in which the major version is 3 or above.\n","filename":"doc\/prerequisites.md","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
