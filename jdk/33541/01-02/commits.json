@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394507: G1: Huge values of MinHeapDeltaBytes may cause the number of regions to expand become 0"},"files":[{"filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.cpp"}],"sha":"a85368517480a23ae5bdb7082cc4365de4b1a80f"}]
