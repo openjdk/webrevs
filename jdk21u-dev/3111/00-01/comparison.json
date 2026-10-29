@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -35,2 +35,0 @@\n- *      -Djdk.tls.namedGroups=x25519,secp256r1,secp384r1,secp521r1,x448,ffdhe2048,ffdhe3072,ffdhe4096,ffdhe6144,ffdhe8192\n- *      FipsModeTLS\n","filename":"test\/jdk\/sun\/security\/pkcs11\/tls\/fips\/FipsModeTLS.java","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
