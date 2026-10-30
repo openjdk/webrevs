@@ -1,0 +1,1 @@
+[{"commit":{"message":"replace value object wording with strict-init fields related"},"files":[{"filename":"src\/hotspot\/share\/prims\/jvmti.xml"},{"filename":"src\/hotspot\/share\/prims\/jvmtiImpl.cpp"},{"filename":"test\/hotspot\/jtreg\/serviceability\/jvmti\/valhalla\/GetCtorLocal\/libValueGetCtorLocal.cpp"}],"sha":"08a92fcf013d7e9c24ea49b57dd205cbdac7646e"}]
