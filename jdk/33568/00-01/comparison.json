@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -104,0 +104,2 @@\n+        \/\/ Detect NullPointerExceptions when scanning free blocks in the code heap\n+        SAOutput.shouldNotContain(\"java.lang.NullPointerException\");\n","filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestDebugInfoDecode.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
