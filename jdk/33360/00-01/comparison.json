@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -551,1 +551,4 @@\n-    posix_spawn_file_actions_init(&file_actions);\n+    rval = posix_spawn_file_actions_init(&file_actions);\n+    if (rval != 0) {\n+        return -1;\n+    }\n","filename":"src\/java.base\/unix\/native\/libjava\/ProcessImpl_md.c","additions":4,"deletions":1,"binary":false,"changes":5,"status":"modified"}]}
