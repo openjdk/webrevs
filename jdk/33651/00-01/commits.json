@@ -1,0 +1,1 @@
+[{"commit":{"message":"Let JfrJavaThreadIterator go through all threads, including in _thread_new state."},"files":[{"filename":"src\/hotspot\/share\/jfr\/periodic\/sampling\/jfrCPUTimeThreadSampler.cpp"}],"sha":"41effd6274122cc3c15a095687e599fe32a1a9f9"}]
