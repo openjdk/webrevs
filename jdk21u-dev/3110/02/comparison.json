@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -40,0 +40,1 @@\n+ * @requires os.simpleArch == \"x64\"\n","filename":"test\/jdk\/sun\/security\/provider\/acvp\/ML_DSA_Intrinsic_Test.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
