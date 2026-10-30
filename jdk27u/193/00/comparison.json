@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -51,1 +51,1 @@\n-    private static final int COUNT = 106;\n+    private static final int COUNT = 107;\n","filename":"test\/jdk\/sun\/security\/lib\/cacerts\/VerifyCACerts.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
