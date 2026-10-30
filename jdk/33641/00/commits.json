@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396150: EdDSA public key parsing throws ArrayIndexOutOfBoundsException for an empty encoded point"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/ec\/ed\/EdDSAPublicKeyImpl.java"}],"sha":"229159d3e4b25762235ee02776116cf68181b9b2"}]
