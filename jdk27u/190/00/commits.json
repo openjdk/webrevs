@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396020: RISC-V: C1: fix assertion failure when c1 compiling a large index array access\n\nReviewed-by: gcao, fyang"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c1_LIRGenerator_riscv.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c1\/TestLargeArrayIndex.java"}],"sha":"13fd797750e458ad69b85b40cb3dda839eb3cdd6"}]
