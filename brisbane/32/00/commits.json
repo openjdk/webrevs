@@ -1,0 +1,1 @@
+[{"commit":{"message":"Ensure clearing of input buffer in Hkdf.engineDeriveKey()"},"files":[{"filename":"src\/main\/java\/com\/oracle\/jipher\/internal\/spi\/Hkdf.java"},{"filename":"src\/test\/java\/com\/oracle\/jipher\/internal\/spi\/HkdfTest.java"}],"sha":"6f664ca5af318213079a922833d89f8084621929"}]
