@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396140: PrintSharedArchiveAndExit flag is broken"},"files":[{"filename":"src\/hotspot\/share\/code\/aotCodeCache.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotFlags\/AOTFlags.java"}],"sha":"9ba5961b0d6b4fc78e3091ddf99555ce4a6c3d03"}]
