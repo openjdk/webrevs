@@ -1,0 +1,1 @@
+[{"commit":{"message":"8329260: C2 fails to inline memory access API due to \"unloaded signature classes\""},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/unloaded\/TestInlineUnloadedLoaderConstraints.java"}],"sha":"d44bcfeeea0b4d929f47ea356020111bbf3c1996"}]
