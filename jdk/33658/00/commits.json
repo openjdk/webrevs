@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396267: os_windows.large_page_init_decide_size gtest fails when the lock memory privilege is granted"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_os_windows.cpp"}],"sha":"a87e98f0c7e0e73e285e968b4420bd629419a59e"}]
