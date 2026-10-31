@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8379513: C2: guaranteed_safepoint() should also handle boxing methods\n\nSigned-off-by: jonghoonpark <dev@jonghoonpark.com>"},"files":[{"filename":"src\/hotspot\/share\/opto\/callnode.hpp"},{"filename":"src\/hotspot\/share\/opto\/loopnode.cpp"}],"sha":"12ff7f258667096b0298b3d6b7c343a0fb4b3713"}]
