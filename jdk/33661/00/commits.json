@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396146: UseIntPolyIntrinsics should require CPU_ASIMD on AArch64 systems"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"d3861655b6cec5bb01d2dc8b5da718bed963091e"}]
