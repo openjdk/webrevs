@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -38,1 +38,0 @@\n- *      -Djava.security.manager=allow\n","filename":"test\/hotspot\/jtreg\/vmTestbase\/gc\/ArrayJuggle\/Juggle11\/TestDescription.java","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
