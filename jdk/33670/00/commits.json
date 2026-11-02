@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396408: HSS\/LMS key levels are not bounded before signature array allocation"},"files":[{"filename":"src\/java.base\/share\/classes\/sun\/security\/provider\/HSS.java"},{"filename":"test\/jdk\/sun\/security\/provider\/hss\/BoundedLevels.java"}],"sha":"0126f4f9a7bb96f8dd3b8e9c9f0a072b1a2f627d"}]
