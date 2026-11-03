@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396520: SA: Align continuation entry size when computing frame pointers"},"files":[{"filename":"src\/jdk.hotspot.agent\/share\/classes\/sun\/jvm\/hotspot\/runtime\/ContinuationEntry.java"},{"filename":"test\/hotspot\/jtreg\/serviceability\/sa\/TestContinuationEntry.java"}],"sha":"a63eb008d47a5a681899de5d201936cd8187e81c"}]
