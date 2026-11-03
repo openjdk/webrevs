@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -455,1 +455,1 @@\n-           __ lea(dest->as_register_lo(), ExternalAddress(b));\n+           __ la(dest->as_register_lo(), ExternalAddress(b));\n","filename":"src\/hotspot\/cpu\/riscv\/c1_LIRAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
