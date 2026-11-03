@@ -1,0 +1,1 @@
+[{"commit":{"message":"Make test tolerate losing promotion race to unsolicited GC cycles"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/generational\/TestGenerationalReferenceProcessing.java"}],"sha":"126410833fe77691eb7ec9179827d5df43ad0bd9"}]
