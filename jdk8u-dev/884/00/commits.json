@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396553: [BACKOUT] [8u] ClearTextServerSSL.java fails to compile with JUnit 4\n\nThis reverts commit 7c30bcb5814763ee557733affe189b9a8b008548."},"files":[{"filename":"jdk\/test\/com\/sun\/net\/httpserver\/ClearTextServerSSL.java"}],"sha":"167114c8b4982d0b76f4e7950b6ed69231b54d4a"}]
