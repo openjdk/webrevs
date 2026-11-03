@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -62,1 +62,1 @@\n-\/\/ The expected size in bytes of a cache line.\n+\/\/ Default to 64 bytes, matching the Zic64b requirement in RVA22\/RVA23.\n","filename":"src\/hotspot\/cpu\/riscv\/globalDefinitions_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
