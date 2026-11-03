@@ -1,0 +1,1 @@
+[{"commit":{"message":"Backport a69409b0b7bcb4eb9a66327e1c6c53b3361ea1e9"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/cpuflags\/TestUseAESCTRIntrinsicsWithUseAESDisabled.java"}],"sha":"e974512d2ff603f53593f3e14cf66a5d8b82a220"}]
