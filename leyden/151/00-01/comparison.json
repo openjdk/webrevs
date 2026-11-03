@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -222,1 +222,1 @@\n-void FinalImageRecipes::initialize_all_classes(TRAPS) {\n+void FinalImageRecipes::initialize_all_safe_classes(TRAPS) {\n","filename":"src\/hotspot\/share\/cds\/finalImageRecipes.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
