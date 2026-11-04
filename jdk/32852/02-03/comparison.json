@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,1 +217,1 @@\n-  if (UseZalasr) {\n+  if (UseZalasr && !UseZtso) {\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
