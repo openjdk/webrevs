@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -69,0 +69,1 @@\n+\t    -Xlog:cds=off \\\n@@ -74,0 +75,1 @@\n+\t    -Xlog:cds=off \\\n@@ -81,0 +83,1 @@\n+\t    -Xlog:cds=off \\\n@@ -93,0 +96,1 @@\n+\t    -Xlog:cds=off \\\n","filename":"make\/GenerateLinkOptData.gmk","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
