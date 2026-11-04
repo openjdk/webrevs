@@ -1,0 +1,1 @@
+[{"commit":{"message":"[hat] tile kernels can pass primitive constants"},"files":[{"filename":"hat\/core\/src\/main\/java\/hat\/buffer\/TensorF16.java"},{"filename":"hat\/core\/src\/main\/java\/hat\/callgraph\/KernelCallGraph.java"}],"sha":"a51260ca0f2309566186fe22803116e58945b469"}]
