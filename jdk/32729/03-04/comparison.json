@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -54,0 +54,1 @@\n+    const uint shift = 3;\n@@ -58,1 +59,1 @@\n-      __ vwsll_vi(dst, idx, 3);\n+      __ vwsll_vi(dst, idx, shift);\n@@ -63,1 +64,1 @@\n-      __ vsll_vi(dst, dst, 3);\n+      __ vsll_vi(dst, dst, shift);\n","filename":"src\/hotspot\/cpu\/riscv\/riscv_v.ad","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
