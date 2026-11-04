@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394690: ZGC: `ZHeap::print_location` needs a `ResourceMark` when calling `oopDesc::print_on`"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zHeap.cpp"},{"filename":"test\/hotspot\/gtest\/gc\/z\/test_zHeap.cpp"}],"sha":"056b6d23b372e108ed3b2c86567982ec01885929"}]
