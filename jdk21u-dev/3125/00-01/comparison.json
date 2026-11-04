@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1258,1 +1258,1 @@\n-  if (!(UseSHA1Intrinsics || UseSHA256Intrinsics || UseSHA512Intrinsics|| UseSHA3Intrinsics)) {\n+  if (!(UseSHA1Intrinsics || UseSHA256Intrinsics || UseSHA512Intrinsics || UseSHA3Intrinsics)) {\n","filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
