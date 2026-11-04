@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -136,1 +136,1 @@\n-    rt_features->clear_features(&_rv_ext_features_disabled_by_aot_cache);\n+    runtime_cpu_features->clear_features(&_rv_ext_features_disabled_by_aot_cache);\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
