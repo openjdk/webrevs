@@ -1,0 +1,1 @@
+[{"commit":{"message":"backport a43f30243ef2fa151e8d751cef125a33904dcf55"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestUseSHA3IntrinsicsWithUseSHADisabledOnSupportedCPU.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/arguments\/TestUseSHA3IntrinsicsWithUseSHADisabledOnUnsupportedCPU.java"}],"sha":"94be6dd6665027fe7e25f97da6240d6af8708801"}]
