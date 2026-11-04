@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use Compile::is_aot_compile() in C2"},"files":[{"filename":"src\/hotspot\/share\/opto\/output.cpp"},{"filename":"src\/hotspot\/share\/opto\/valuetypenode.cpp"}],"sha":"08f6d01b761262efae82c4a9bf86e21a326d4907"}]
