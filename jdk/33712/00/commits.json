@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396651: The gtest AssemblerX86.validate_vm corrupts shared VM cpu feature state"},"files":[{"filename":"test\/hotspot\/gtest\/x86\/test_assembler_x86.cpp"}],"sha":"39b0b6b99c86134693afc1445ede371edd849377"}]
