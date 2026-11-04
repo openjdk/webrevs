@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,1 @@\n+ * @requires vm.opt.CompileThreshold == null\n@@ -29,0 +30,1 @@\n+ *                   -XX:CompileThresholdScaling=1.0\n","filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestMemoryPhiAlias.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
