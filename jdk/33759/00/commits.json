@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396848: JpegExifThumbnailTest.java fails with system libjpeg due to malformed jfif-and-exif.jpg"},"files":[{"filename":"test\/jdk\/javax\/imageio\/plugins\/jpeg\/JpegExifThumbnail\/JpegExifThumbnailTest.java"},{"filename":"test\/jdk\/javax\/imageio\/plugins\/jpeg\/JpegExifThumbnail\/jfif-and-exif.jpg"}],"sha":"419604da57f9f863dc116100315f32c9823ef4bb"}]
