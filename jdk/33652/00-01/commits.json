@@ -1,0 +1,1 @@
+[{"commit":{"message":"Let -XX:-UseLargePages -XX:-UseTransparentHugePages mean that THP has been requested off"},"files":[{"filename":"src\/hotspot\/os\/linux\/os_linux.cpp"}],"sha":"064a28ab3038165c1441800d20159b2cd15d04f0"}]
