@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2094,1 +2094,1 @@\n-    if ((_cpu_features_offset < 0) ||\n+    if ((_cpu_features_offset < (int)sizeof(FileMapHeader)) ||\n","filename":"src\/hotspot\/share\/cds\/filemap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
