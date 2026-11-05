@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396497: RISC-V: Optimize HotSpot HeapWord copy routines"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/copy_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/copy_linux_riscv.S"}],"sha":"4585522d3c0880f58404349ecf5f220cacace812"}]
