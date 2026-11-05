@@ -1,0 +1,1 @@
+[{"commit":{"message":"Address code review"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"434b847f065994849c93839f098f6e8bb51e16cb"},{"commit":{"message":"RISC-V: Simplify RVV arraycopy with byte-based copying"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"8e578dbc6fed7bffe4e3c82bfe1de3e6e294eb5c"}]
