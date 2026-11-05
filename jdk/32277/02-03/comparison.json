@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -159,1 +159,1 @@\n-      \/\/ The synthetic CPU_A53MAC flag is set in VM_Version::initialize(), as\n+      \/\/ The synthetic CPU_A53MAC flag is set in VM_Version::initialize() because\n","filename":"src\/hotspot\/os_cpu\/linux_aarch64\/vm_version_linux_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
