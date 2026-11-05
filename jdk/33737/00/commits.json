@@ -1,0 +1,1 @@
+[{"commit":{"message":"8393591: AOT cache creation fails with -XX:+StressRewriter"},"files":[{"filename":"src\/hotspot\/share\/interpreter\/rewriter.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/aotClassLinking\/TrainingRun.java"}],"sha":"6a7f942b6a2532b4d70e3ecbcb0cdba7353373ae"}]
