@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -277,3 +277,0 @@\n-  if (mode == VM_NOTSET) {\n-    mode = VM_MBARE;\n-  }\n@@ -300,0 +297,3 @@\n+  if (mode == VM_NOTSET || mode == VM_MBARE || mode == VM_SV57) {\n+    mode = VM_SV48;\n+  }\n","filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
