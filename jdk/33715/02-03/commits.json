@@ -1,0 +1,1 @@
+[{"commit":{"message":"Change the default to 384kB"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/module-info.java"},{"filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ServerConfig.java"},{"filename":"test\/jdk\/com\/sun\/net\/httpserver\/property\/MaxReqHeaderSizePropertyTest.java"}],"sha":"9a9ba3f5b3fd39c9318517f3a95b5864b384ec31"}]
