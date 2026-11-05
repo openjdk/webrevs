@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove unused from benchmark"},"files":[{"filename":"test\/micro\/org\/openjdk\/bench\/vm\/compiler\/ByteArrayAddressing.java"}],"sha":"e45a8d7f901e1990292725377df29e8851f947a9"},{"commit":{"message":"Also test booleans"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/TestArrayAddressing.java"}],"sha":"d69f69d79127789f679d606fd02b9b5bc978ddfa"}]
