@@ -1,0 +1,1 @@
+[{"commit":{"message":"revival data does not need a 'magic' number, it has version and size"},"files":[{"filename":"src\/hotspot\/share\/runtime\/thread.cpp"},{"filename":"src\/jdk.attach\/share\/native\/revivalhelper\/revival.cpp"},{"filename":"src\/jdk.attach\/share\/native\/revivalhelper\/revival.hpp"}],"sha":"6f81e2f0a8870fc9193760a4d28d5d8f6b5a8d96"}]
