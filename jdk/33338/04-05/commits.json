@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394260: Refine Adler32 AVX2 finalization and tests"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64_adler.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/zip\/TestAdler32.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/util\/TestAdler32.java"}],"sha":"63858e85d957538582c7e00a2f77a53af6cb3a9d"}]
