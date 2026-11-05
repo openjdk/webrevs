@@ -1,0 +1,1 @@
+[{"commit":{"message":"[hat] support tensor interfaces for tile kernels"},"files":[{"filename":"hat\/core\/src\/main\/java\/hat\/callgraph\/KernelCallGraph.java"},{"filename":"hat\/tests\/src\/main\/java\/hat\/test\/TestTileAPI.java"}],"sha":"19eedbf44023eff4a6bcc4dd4dba3ff8525adc2c"}]
