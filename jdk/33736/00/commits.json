@@ -1,0 +1,1 @@
+[{"commit":{"message":"Assertions cannot touch mark work during concurrent marking"},"files":[{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAsserts.cpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahAsserts.hpp"},{"filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahMark.inline.hpp"}],"sha":"743ac9eefeb830311657f51369be3a7280b78b7a"}]
