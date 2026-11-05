@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix aarch64 compile failure\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"}],"sha":"51312e416d2999d36877c09e1c9a3229bb3efaf1"}]
