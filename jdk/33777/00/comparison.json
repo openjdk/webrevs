@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -369,0 +369,3 @@\n+\n+  \/\/ Sort before JFR registration and before the ZStat thread is started.\n+  ZStatSampler::sort();\n@@ -1158,2 +1161,0 @@\n-  ZStatSampler::sort();\n-\n","filename":"src\/hotspot\/share\/gc\/z\/zStat.cpp","additions":3,"deletions":2,"binary":false,"changes":5,"status":"modified"}]}
