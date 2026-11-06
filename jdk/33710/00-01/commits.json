@@ -1,0 +1,1 @@
+[{"commit":{"message":"add more optimizations for long type"},"files":[{"filename":"src\/hotspot\/share\/opto\/subnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/c2\/irTests\/CmpUWithZero.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/rangechecks\/TestFoldComparesFuzzer.java"}],"sha":"8d9b09a87747586676ee95db54469dfdacfa9243"}]
