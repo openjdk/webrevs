@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1432,0 +1432,1 @@\n+  \/\/ Preserve flags so the rule does not need KILL cr.\n@@ -1433,0 +1434,1 @@\n+  pushf();\n@@ -1437,0 +1439,1 @@\n+  popf();\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
