@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -169,1 +169,0 @@\n-        WCHAR* newFinalPath = NULL;\n","filename":"src\/java.base\/windows\/native\/libjava\/canonicalize_md.c","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
