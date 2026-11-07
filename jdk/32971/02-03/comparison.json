@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -434,1 +434,1 @@\n-  if (UseSHA && UseZbb) {\n+  if (UseSHA && UseZbb && !AvoidUnalignedAccesses) {\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}

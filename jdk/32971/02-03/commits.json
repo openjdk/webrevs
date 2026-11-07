@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392747: RISC-V: Disable SHA3 intrinsics with AvoidUnalignedAccesses"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"}],"sha":"8199d08756302e4f129719afb103778ad23bd4e0"}]
