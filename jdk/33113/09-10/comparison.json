@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1437,0 +1437,1 @@\n+  popf();\n","filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}

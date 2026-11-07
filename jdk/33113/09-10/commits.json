@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fix stack management by adding popf after cmpl"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"}],"sha":"fe3aadba3ffc641e906cd296c39041fad960052a"}]
