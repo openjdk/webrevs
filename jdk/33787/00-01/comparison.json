@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -109,1 +109,1 @@\n-     * Create a random BufferedImage using a default IndexColorModel.\n+     * Create a random BufferedImage using the default IndexColorModel.\n","filename":"test\/jdk\/javax\/imageio\/plugins\/gif\/InterlaceTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
