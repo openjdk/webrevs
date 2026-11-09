@@ -1,0 +1,1 @@
+[{"commit":{"message":"Test update to avoid AOT and XComp for some tests."},"files":[{"filename":"src\/jdk.attach\/share\/classes\/sun\/tools\/attach\/HotSpotVirtualMachineCoreDump.java"},{"filename":"test\/hotspot\/jtreg\/serviceability\/revival\/JCmdRevival.java"}],"sha":"4d09c6cc5511dc1e862cd72498592ecf84894159"}]
