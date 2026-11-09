@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396999: Power8: enable EnableVectorSupport again"},"files":[{"filename":"src\/hotspot\/cpu\/ppc\/vm_version_ppc.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestVectorFallbackInlining.java"}],"sha":"f40910853512ce3ac967ec75a907f984fe4f2d9c"}]
