@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -900,0 +900,2 @@\n+                    \/\/ This will ensure that the native peer of this child\n+                    \/\/ and all of his descendants are initialized\n","filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/glass\/ui\/mac\/MacAccessible.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
