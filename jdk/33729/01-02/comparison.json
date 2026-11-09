@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2690,1 +2690,1 @@\n-  const volatile PNT_TIB tib = (PNT_TIB)NtCurrentTeb();\n+  const volatile NT_TIB* tib = (NT_TIB*)NtCurrentTeb();\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
