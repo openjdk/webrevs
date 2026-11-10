@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3171,2 +3171,1 @@\n-  if (!isL) slli(tmp1, tmp1, 1);\n-  add(str1, str1, tmp1);\n+  shift_left_add(str1, tmp1, str1, isL ? 0 : 1, tmp1);\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
