@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1094,0 +1094,1 @@\n+                        (*FcPatternDestroy)(vp);\n","filename":"src\/java.desktop\/unix\/native\/common\/awt\/fontpath.c","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
