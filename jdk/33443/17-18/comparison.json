@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -281,1 +281,1 @@\n-  if (_cpu == CPU_ARM && model_is(CPU_MODEL_ARM_CORTEX_A53)) {\n+  if (supports_a53mac()) {\n","filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
