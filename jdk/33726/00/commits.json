@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Use sh1add in vectorized String.indexOf(char)\n\nSigned-off-by: Xiaofei Gong <gongxiaofei24@iscas.ac.cn>\nSigned-off-by: YuanSheng <yuansheng@isrc.iscas.ac.cn>"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"}],"sha":"eb54d527332a15b6924ecdc6683db4ecb0e73955"}]
