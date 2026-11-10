@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -221,1 +221,1 @@\n-  bool is_verified()  const;\n+  bool is_verified()  const NOT_CDS_RETURN_(false);\n@@ -225,1 +225,1 @@\n-  bool not_entrant() const;\n+  bool not_entrant() const NOT_CDS_RETURN_(false);\n","filename":"src\/hotspot\/share\/code\/aotCodeCache.hpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
