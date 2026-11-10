@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2963,3 +2963,0 @@\n-    if (writer.error() != nullptr) {\n-      set_error(writer.error());\n-    }\n@@ -2967,0 +2964,4 @@\n+  if (writer.error() != nullptr) {\n+    set_error(writer.error());\n+  }\n+\n","filename":"src\/hotspot\/share\/services\/heapDumper.cpp","additions":4,"deletions":3,"binary":false,"changes":7,"status":"modified"}]}
