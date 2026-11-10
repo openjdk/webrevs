@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -151,2 +151,2 @@\n-      bool marked_as_dirty = _contains[region].compare_set(false, true);\n-      if (marked_as_dirty) {\n+      bool added = _contains[region].compare_set(false, true);\n+      if (added) {\n","filename":"src\/hotspot\/share\/gc\/g1\/g1RemSet.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
