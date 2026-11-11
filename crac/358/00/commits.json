@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397187: [CRaC] JFR should redact sun.java.crac_command"},"files":[{"filename":"src\/hotspot\/share\/jfr\/periodic\/jfrRedactedEvents.cpp"},{"filename":"test\/jdk\/jdk\/jfr\/startupargs\/TestRedact.java"}],"sha":"fe0f4270847902e647d008aaf0d97ac1eed67f91"}]
