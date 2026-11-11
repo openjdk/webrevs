@@ -1,0 +1,1 @@
+[{"commit":{"message":"Move quad keccak check to nullptr grouping."},"files":[{"filename":"src\/hotspot\/share\/opto\/c2compiler.cpp"}],"sha":"02160655261ea51b470c039116137aadc337fdaa"},{"commit":{"message":"Check that stub actually exists for quad keccak."},"files":[{"filename":"src\/hotspot\/share\/opto\/c2compiler.cpp"}],"sha":"37c302ea909cc3bb0a1c3878dec2c861367fd71d"}]
