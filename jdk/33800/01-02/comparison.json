@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2703,1 +2703,1 @@\n-\/\/ If changed SubI inputs, check AndI users for AndI(SubI(0, x), 1) -> AndI(x, 1) opportunity.\n+  \/\/ If changed SubI inputs, check AndI users for AndI(SubI(0, x), 1) -> AndI(x, 1) opportunity.\n","filename":"src\/hotspot\/share\/opto\/phaseX.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
