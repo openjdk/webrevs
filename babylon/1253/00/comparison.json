@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -134,0 +134,4 @@\n+      if [[ $OSTYPE == \"linux-gnu\" ]]; then\n+         export LD_PRELOAD=$JAVA_HOME\/lib\/libjsig.so\n+         echo \"Setting LD_PRELOAD to : $LD_PRELOAD\"\t\n+      fi\n","filename":"hat\/env.bash","additions":4,"deletions":0,"binary":false,"changes":4,"status":"modified"}]}
