@@ -1,0 +1,1 @@
+[{"commit":{"message":"Mask the BZHI count in a separate node"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/bmi\/TestBzhiI.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/bmi\/verifycode\/BzhiTestI.java"}],"sha":"020ce0c40bed6fe2a089a357b98cdeaafbeef2ef"}]
