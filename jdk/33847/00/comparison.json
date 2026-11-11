@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -5024,0 +5024,1 @@\n+    ::CloseHandle(hFile);\n@@ -5035,0 +5036,2 @@\n+    ::CloseHandle(hFile);\n+    FREE_C_HEAP_ARRAY(path_to_target);\n","filename":"src\/hotspot\/os\/windows\/os_windows.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
