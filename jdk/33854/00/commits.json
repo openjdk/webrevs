@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397176: Invalid bytecode generated for varargs method references with intersection type receivers"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransTypes.java"},{"filename":"test\/langtools\/tools\/javac\/lambda\/MethodReferenceVarargsIntersectionTest.java"}],"sha":"139dddc17dd088541787fbd18ab14507bde1fd61"}]
