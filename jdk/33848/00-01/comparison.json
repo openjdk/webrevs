@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -269,1 +269,1 @@\n-#define assert_different_registers(...)\n+#define assert_different_registers(...) do { } while (false)\n","filename":"src\/hotspot\/share\/asm\/register.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
