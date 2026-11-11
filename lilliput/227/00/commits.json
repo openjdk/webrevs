@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add ParallelCompactRegionsPerWorker flag"},"files":[{"filename":"src\/hotspot\/share\/gc\/parallel\/parallel_globals.hpp"},{"filename":"src\/hotspot\/share\/gc\/parallel\/psParallelCompactNew.cpp"}],"sha":"40e7ba8916958b7c7bcbecdc6751dc0f999de988"}]
