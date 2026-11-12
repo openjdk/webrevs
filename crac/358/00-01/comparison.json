@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -314,1 +314,1 @@\n-          value = String::c_str(_redacted_java_command_line);\n+           value = String::c_str(_redacted_java_command_line);\n","filename":"src\/hotspot\/share\/jfr\/periodic\/jfrRedactedEvents.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
