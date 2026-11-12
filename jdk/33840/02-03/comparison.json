@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2427,0 +2427,1 @@\n+#ifdef ASSERT\n@@ -2429,1 +2430,1 @@\n-    this->dump_on(&ss);\n+    dump_on(&ss);\n@@ -2432,0 +2433,1 @@\n+#endif\n","filename":"src\/hotspot\/share\/opto\/type.hpp","additions":3,"deletions":1,"binary":false,"changes":4,"status":"modified"}]}
