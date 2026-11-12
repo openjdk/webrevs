@@ -1,0 +1,1 @@
+[{"commit":{"message":"Allow register allocator optimizations when FPU spilling is disabled."},"files":[{"filename":"src\/hotspot\/share\/opto\/coalesce.cpp"},{"filename":"src\/hotspot\/share\/opto\/reg_split.cpp"}],"sha":"4c710f0999d24af051cbf50369ac43f1b918754d"}]
