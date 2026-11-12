@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -49,0 +49,1 @@\n+import jdk.jfr.internal.PlatformRecording;\n","filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/consumer\/AbstractEventStream.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
