@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -652,0 +652,1 @@\n+                tree.codeReflectionInfo != null ||\n@@ -694,0 +695,1 @@\n+                slam.codeReflectionInfo = tree.codeReflectionInfo;\n","filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransTypes.java","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
