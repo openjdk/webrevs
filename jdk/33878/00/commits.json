@@ -1,0 +1,1 @@
+[{"commit":{"message":"8343778: Enabling propagation of Comparator exceptions for Arrays.parallelSort"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/ArraysParallelSortHelpers.java"},{"filename":"test\/jdk\/java\/util\/Arrays\/Sorting.java"}],"sha":"1d50a676d22e287d8c051ba26f876fbf5cf4b055"}]
