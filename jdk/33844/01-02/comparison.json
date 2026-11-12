@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -47,1 +47,1 @@\n- *           (os.arch == \"riscv64\" & vm.cpu.features ~= \".*rvv.*\")\n+ *           vm.cpu.features ~= \".*rvv.*\"\n","filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorGatherScatterTest.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
