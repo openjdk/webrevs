@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -63,1 +63,1 @@\n-    static boolean useFFM;\n+    static boolean useFFM = true;\n","filename":"src\/java.desktop\/share\/classes\/sun\/font\/SunLayoutEngine.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
