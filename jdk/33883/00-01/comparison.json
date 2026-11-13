@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -129,1 +129,1 @@\n-            \/\/ is about 10E-200.\n+            \/\/ failing is about 4.39E-200.\n","filename":"test\/hotspot\/jtreg\/compiler\/c1\/TestMemoryEffects.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
