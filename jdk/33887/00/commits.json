@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397252: Native convolution reads before the kernel array for zero-sized kernels"},"files":[{"filename":"src\/java.desktop\/share\/native\/libawt\/awt\/medialib\/awt_ImagingLib.c"},{"filename":"test\/jdk\/java\/awt\/image\/ConvolveOp\/InvalidKernelDimensions.java"}],"sha":"0115a294781c0a464b3b6c4dd2bd4ebdc85e7165"}]
