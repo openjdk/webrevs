@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394682: ZGC: `MetadataAllocationRequest` are not processed with `-ClassUnloading`"},"files":[{"filename":"src\/hotspot\/share\/gc\/z\/zUnload.cpp"}],"sha":"af449c438e627760d0fcc288560297de7c887d4a"}]
