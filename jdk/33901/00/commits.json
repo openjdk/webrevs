@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397370 Disable gtest special_flags until JDK-8397233 is fixed"},"files":[{"filename":"test\/hotspot\/gtest\/runtime\/test_special_flags.cpp"}],"sha":"1cc5fd0326e497f414630863f9e7cb7312d77a55"}]

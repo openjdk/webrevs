@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -33,1 +33,1 @@\n-TEST_VM(special_flags, verify_special_flags) {\n+TEST_VM(DISABLED_special_flags, verify_special_flags) {\n","filename":"test\/hotspot\/gtest\/runtime\/test_special_flags.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
