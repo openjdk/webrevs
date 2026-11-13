@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -84,0 +84,1 @@\n+    virtual void update_feature() = 0;\n@@ -90,1 +91,0 @@\n-    virtual void update_feature() = 0;\n","filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
