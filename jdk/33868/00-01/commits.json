@@ -1,0 +1,1 @@
+[{"commit":{"message":"Prevent factoring out prefixes if the previous case had fall-through guard bypass."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/comp\/TransPatterns.java"},{"filename":"test\/langtools\/tools\/javac\/patterns\/Fallthrough.java"}],"sha":"164ae176db9bb50116b7c68edb787dbc5b9a1dca"}]
