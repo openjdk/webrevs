@@ -1,0 +1,1 @@
+[{"commit":{"message":"added LEA optimization macro for leal, removed unused leal32"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/macroAssembler_x86.hpp"}],"sha":"ef3a0b6ac09cbbb4d4130dbccf2d3442be261848"}]
