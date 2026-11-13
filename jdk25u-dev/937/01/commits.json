@@ -1,0 +1,1 @@
+[{"commit":{"message":"8392195: [PPC64] Several vector tests fail on Power8\n\nReviewed-by: mbaesken, rrich"},"files":[{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/VectorMaskCompareNotTest.java"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/reshape\/TestVectorReinterpret.java"}],"sha":"97f91f1b73643b792fac14e2fd0043c6efd81f9b"}]
