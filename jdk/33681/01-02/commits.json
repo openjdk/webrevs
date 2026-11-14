@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394682: ZGC: `MetadataAllocationRequest` are not processed with `-ClassUnloading`"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/z\/TestMetaspaceWithClassUnloadingDisabled.java"}],"sha":"7f9f63e3c7e391d43f659ffa3f59be6d3040bfcf"}]
