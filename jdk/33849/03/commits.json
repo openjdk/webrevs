@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397183: RISC-V: Synchronize CPU features with finalized flags"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"},{"filename":"src\/hotspot\/os_cpu\/linux_riscv\/vm_version_linux_riscv.cpp"}],"sha":"200706682199cdc6e9595e48d998876c3c8f8877"}]
