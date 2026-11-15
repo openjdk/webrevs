@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397399: Misleading -XX:CheckCPUFeatures=skip recommendation"},"files":[{"filename":"src\/hotspot\/share\/runtime\/abstract_vm_version.inline.hpp"},{"filename":"test\/jdk\/jdk\/crac\/CPUFeatures\/SimpleCPUFeaturesTest.java"}],"sha":"6c8b8ebbd61db0ff1b96d844d59ecc616c7be391"}]
