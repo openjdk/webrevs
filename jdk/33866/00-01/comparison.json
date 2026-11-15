@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -48,2 +48,2 @@\n-    static Point screenPoint;\n-    static Point previousPoint;\n+    static volatile Point screenPoint;\n+    static volatile Point previousPoint;\n","filename":"test\/jdk\/javax\/swing\/JTableHeader\/6889007\/bug6889007.java","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}
