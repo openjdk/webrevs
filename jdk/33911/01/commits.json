@@ -1,0 +1,1 @@
+[{"commit":{"message":"Merge branch 'openjdk:master' into JDK-8397210"},"files":[],"sha":"751d9fc90392e3590ebef543741cad95a0984d23"},{"commit":{"message":"8397210: C2: make some Type methods static"},"files":[{"filename":"src\/hotspot\/share\/opto\/type.cpp"},{"filename":"src\/hotspot\/share\/opto\/type.hpp"}],"sha":"aa7b646811f7a515f08a23bbdfbc4ee7c3913fb0"}]
