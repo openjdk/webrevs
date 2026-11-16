@@ -1,0 +1,1 @@
+[{"commit":{"message":"RenderingContext: Fix Clear opts not triggering\n\nAlways checking for valid RTT's dirty bbox caused the opt to never\ntrigger"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/native-prism-d3d12\/internal\/D3D12RenderingContext.cpp"}],"sha":"f8f3c0ce2e182b50842b1047161c9adddbc131f8"}]
