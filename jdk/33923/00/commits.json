@@ -1,0 +1,1 @@
+[{"commit":{"message":"8396622: [macos27] java\/awt\/Graphics\/NativeWin32Clear.java test fails\n\nIncrease insets to eliminate comparing colors on the rounded edges of the window."},"files":[{"filename":"test\/jdk\/java\/awt\/Graphics\/NativeWin32Clear.java"}],"sha":"b3706f3eb3a63d5e80ff2476b39db45317e32f00"}]
