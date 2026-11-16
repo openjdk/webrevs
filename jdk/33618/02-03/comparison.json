@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -8999,1 +8999,1 @@\n-    __ asr(v, vt, BPL_P384);\n+    __ asr(v, v, BPL_P384);\n","filename":"src\/hotspot\/cpu\/aarch64\/stubGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
