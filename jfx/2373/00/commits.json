@@ -1,0 +1,1 @@
+[{"commit":{"message":"Remove stage from active windows list when closed, to prevent NPE, and include test"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/com\/sun\/javafx\/tk\/quantum\/WindowStage.java"},{"filename":"tests\/system\/src\/test\/java\/test\/javafx\/stage\/CloseWindowTest.java"}],"sha":"765c832b36326d374261aae65e0954e618a5cf66"}]
