@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -31,1 +31,1 @@\n- * @requires vm.opt.ClassUnloading == null | !vm.opt.ClassUnloading\n+ * @requires !vm.opt.final.ClassUnloading\n","filename":"test\/hotspot\/jtreg\/gc\/z\/TestMetaspaceWithClassUnloadingDisabled.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
