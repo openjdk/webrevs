@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -87,0 +87,1 @@\n+    CFLAGS_aix := -DGTEST_HAS_PTHREAD=1, \\\n@@ -117,0 +118,1 @@\n+    CFLAGS_aix := -DGTEST_HAS_PTHREAD=1, \\\n","filename":"make\/hotspot\/lib\/CompileGtest.gmk","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
