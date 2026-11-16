@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -547,1 +547,0 @@\n-  assert(rem != 0, \"simm32 should have been handled above\");\n","filename":"src\/hotspot\/cpu\/ppc\/assembler_ppc.cpp","additions":0,"deletions":1,"binary":false,"changes":1,"status":"modified"}]}
