@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1261,0 +1261,3 @@\n+    assert_different_registers(status, new_val);\n+    assert_different_registers(status, addr);\n+    guarantee(status != new_val && status != addr, \"unpredictable instruction\");\n","filename":"src\/hotspot\/cpu\/aarch64\/assembler_aarch64.hpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
