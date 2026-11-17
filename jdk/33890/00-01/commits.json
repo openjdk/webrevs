@@ -1,0 +1,1 @@
+[{"commit":{"message":"Switch from `scheduleAtFixedRate()` to `scheduleWithFixedDelay()`"},"files":[{"filename":"src\/jdk.httpserver\/share\/classes\/sun\/net\/httpserver\/ServerImpl.java"}],"sha":"efdd953369d6526d195587d12e1560636b3a1c03"}]
