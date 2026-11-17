@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -813,1 +813,1 @@\n-  \/\/   (long)((int)x & mask) == x & mask   if mask >= 0\n+  \/\/   (long)((int)x & mask) == x & (long)mask   if mask is a non-negative int\n","filename":"src\/hotspot\/share\/opto\/convertnode.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
