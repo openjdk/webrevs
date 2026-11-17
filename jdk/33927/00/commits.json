@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397470: No need to call find_record() in AOTSystemDictionary::copy_unregistered_class_size_and_crc32()"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotSystemDictionary.cpp"},{"filename":"src\/hotspot\/share\/cds\/aotSystemDictionary.hpp"}],"sha":"a63dd0abbd0ad9d335c3b36469b46d2cab9e2fb0"}]
