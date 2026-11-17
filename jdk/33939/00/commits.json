@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397572: RMIConnector needs to handle a possible null from FilterInfo.serialClass()"},"files":[{"filename":"src\/java.management.rmi\/share\/classes\/javax\/management\/remote\/rmi\/RMIConnector.java"}],"sha":"22428cbd260df0df8a0df7b42185d25e924ece54"}]

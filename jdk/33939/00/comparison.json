@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1874,0 +1874,3 @@\n+            if (c == null) {\n+                return Status.UNDECIDED;\n+            }\n","filename":"src\/java.management.rmi\/share\/classes\/javax\/management\/remote\/rmi\/RMIConnector.java","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
