@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397421: Reinitialization of the VM after a failed JNI_CreateJavaVM call does not succeed as indicated"},"files":[{"filename":"src\/hotspot\/share\/prims\/jni.cpp"},{"filename":"src\/hotspot\/share\/runtime\/threads.cpp"}],"sha":"b5b2353e14a4435b0a524ac4ec4b95cd7401e771"}]
