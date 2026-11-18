@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -28,0 +28,3 @@\n+#include \"gc\/shared\/workerThread.hpp\"\n+#include \"gc\/shenandoah\/shenandoahController.hpp\"\n+#include \"gc\/shenandoah\/shenandoahHeap.inline.hpp\"\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahTaskTerminator.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
