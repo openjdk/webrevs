@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2875,1 +2875,1 @@\n-  Label COMPARE_M2, COMPARE_M4, LARGE, LOOP, COMPARE_ONCE, SAME;\n+  Label COMPARE_ONCE, COMPARE_M2, COMPARE_M4, LARGE, LOOP, SAME;\n","filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
