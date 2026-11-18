@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1083,1 +1083,1 @@\n-            if (fontCount == 0) {\n+            if ((fontCount == 0) && (j < (nfonts \/ 2))) {\n","filename":"src\/java.desktop\/unix\/native\/common\/awt\/fontpath.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
