@@ -1,0 +1,1 @@
+[{"commit":{"message":"add @throws for NPE in setProperty(), add test for newly specified NPE"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/Properties.java"},{"filename":"test\/jdk\/java\/util\/Properties\/SetPropNPE.java"}],"sha":"98066a580f49ea7ded622511dd3c03967a152511"}]
