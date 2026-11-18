@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixing handling of switches where the switch's type and the target type don't agree."},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/jvm\/Gen.java"},{"filename":"test\/langtools\/tools\/javac\/switchexpr\/TryCatch.java"}],"sha":"994d1237513e67c0c228327cac1a0919c9b326e9"}]
