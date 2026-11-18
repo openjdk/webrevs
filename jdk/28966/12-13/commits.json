@@ -1,0 +1,1 @@
+[{"commit":{"message":"Use too_many_traps_or_recompiles and uncommon_trap_exact in inline_native_clone. Reword the comment"},"files":[{"filename":"src\/hotspot\/share\/opto\/graphKit.hpp"},{"filename":"src\/hotspot\/share\/opto\/library_call.cpp"}],"sha":"d77aa48569c06c609957016df74744fa9e000c6b"}]
