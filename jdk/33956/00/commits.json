@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"8388882: Disable automatic integer spills to floating point registers on Intel platforms\"\n\nThis reverts commit 5121008600e61fc931c486504aad4fecbd46f587."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"}],"sha":"142a4758a4cc58fddb2316d893165631e26ae7e8"}]
