@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -157,2 +157,0 @@\n-  \/\/ Maximum number of regions in the heap.\n-  static const size_t MaxNumRegions = INT_MAX;\n","filename":"src\/hotspot\/share\/gc\/g1\/g1CollectedHeap.hpp","additions":0,"deletions":2,"binary":false,"changes":2,"status":"modified"}]}
