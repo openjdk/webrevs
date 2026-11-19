@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394840: Make sure RAM deopt. serialization doesn't lose the _is_root"},"files":[{"filename":"src\/hotspot\/share\/opto\/output.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestReduceAllocationAndMergeInCallee.java"}],"sha":"9bff839fed345a2bbf36c3b21c913c3395a27146"}]
