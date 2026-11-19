@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -77,1 +77,1 @@\n-        @JEP(number = 531, title = \"Lazy Constants\", status = \"Third Preview\")\n+        @JEP(number = 547, title = \"Lazy Constants\", status = \"Fourth Preview\")\n","filename":"src\/java.base\/share\/classes\/jdk\/internal\/javac\/PreviewFeature.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
