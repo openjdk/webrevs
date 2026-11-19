@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1748,0 +1748,1 @@\n+            buffer.flip();\n","filename":"src\/java.net.http\/share\/classes\/jdk\/internal\/net\/http\/Http3Connection.java","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
