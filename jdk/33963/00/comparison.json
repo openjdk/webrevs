@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -12017,2 +12017,1 @@\n-               < (uint64_t)(BlockZeroingLowLimit >> LogBytesPerWord)\n-            && !((ClearArrayNode*)n)->requires_word_fill());\n+               < (uint64_t)(BlockZeroingLowLimit >> LogBytesPerWord));\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":2,"binary":false,"changes":3,"status":"modified"}]}
