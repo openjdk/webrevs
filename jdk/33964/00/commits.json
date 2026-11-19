@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable heuristic triggers so that test setup is not defeated by the collector"},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/generational\/TestHumongousAllocFailureRecovery.java"}],"sha":"d6c1e1fa75b908a2665c1cfedd4ed2d87b91caf1"}]
