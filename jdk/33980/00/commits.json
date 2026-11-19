@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8397847: Update semantics of Float16.shortValue"},"files":[{"filename":"src\/jdk.incubator.vector\/share\/classes\/jdk\/incubator\/vector\/Float16.java"},{"filename":"test\/jdk\/jdk\/incubator\/vector\/BasicFloat16ArithTests.java"}],"sha":"cbaae00acb181aec0f5f00db902b5dbe0ca67205"}]
