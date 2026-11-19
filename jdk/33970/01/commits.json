@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397817: System.nanoTime() does not scale with the number of threads on macOS"},"files":[{"filename":"src\/hotspot\/os\/bsd\/os_bsd.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/os\/TestNanoTimeMonotonicity.java"},{"filename":"test\/micro\/org\/openjdk\/bench\/java\/lang\/SystemTime.java"}],"sha":"27a0552a85175f901c65f5a13f555551a3a86b49"}]
