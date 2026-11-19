@@ -1,0 +1,1 @@
+[{"commit":{"message":"Disable heuristic triggers to prevent unwanted promotion during test"},"files":[{"filename":"test\/hotspot\/jtreg\/ProblemList.txt"},{"filename":"test\/hotspot\/jtreg\/gc\/shenandoah\/generational\/TestGenerationalReferenceProcessing.java"}],"sha":"e6cd7e314b61c484e9c69ba5c9ae7a90e4600afb"}]
