@@ -1,0 +1,1 @@
+[{"commit":{"message":"Turn UseFPUForSpilling off by default on Intel platforms and make related compiler pass changes to avoid regressions."},"files":[{"filename":"src\/hotspot\/cpu\/x86\/vm_version_x86.cpp"},{"filename":"src\/hotspot\/share\/opto\/coalesce.cpp"},{"filename":"src\/hotspot\/share\/opto\/reg_split.cpp"}],"sha":"8829d607214df9425257453864911d1afe28d181"}]
