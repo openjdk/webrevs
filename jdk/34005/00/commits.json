@@ -1,0 +1,1 @@
+[{"commit":{"message":"Don't scalar replace an allocation that is the merge pointer of a SafePointScalarMerge."},"files":[{"filename":"src\/hotspot\/share\/opto\/escape.cpp"},{"filename":"src\/hotspot\/share\/opto\/macro.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/escapeAnalysis\/TestReduceAllocationAndFoldedMerge.java"}],"sha":"34f4c73f483af89e838769b7b1e62042cc1a7b37"}]
