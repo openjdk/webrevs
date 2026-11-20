@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397827: [Valhalla] C2: arraycopy misses to add ZGC barriers when copying flat arrays containing oops"},"files":[{"filename":"src\/hotspot\/share\/opto\/arraycopynode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/valhalla\/valuetypes\/TestFlatArraycopyMissingBarriers.java"}],"sha":"871fc7700ef1e370143a37f31471ebb4057580f5"}]
