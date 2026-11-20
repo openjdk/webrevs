@@ -1,0 +1,1 @@
+[{"commit":{"message":"Add a missing test case comment; pre-cog tool caught that I forgot to add test cases for the new 128K minimum MaxMetaspaceSize value."},"files":[{"filename":"test\/hotspot\/jtreg\/gc\/metaspace\/TestMetaspaceSizeFlags.java"}],"sha":"86364777d0e910193895f4caa4ffc4db5e8b5311"}]
