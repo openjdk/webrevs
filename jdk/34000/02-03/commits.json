@@ -1,0 +1,1 @@
+[{"commit":{"message":"Huge event string size worst-case estimate fallback to actual encoded size"},"files":[{"filename":"src\/jdk.jfr\/share\/classes\/jdk\/jfr\/internal\/event\/EventWriter.java"},{"filename":"test\/jdk\/jdk\/jfr\/jvm\/TestEventWriterLeaseExit.java"}],"sha":"c4fbd4e8cfdbc18e7c0d42d8f5e8adb2e8c8209b"}]
