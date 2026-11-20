@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -191,1 +191,0 @@\n-    assert(shelved_buffer() == nullptr, \"invariant\");\n@@ -204,0 +203,1 @@\n+  assert(shelved_buffer() == nullptr, \"invariant\");\n","filename":"src\/hotspot\/share\/jfr\/support\/jfrThreadLocal.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
