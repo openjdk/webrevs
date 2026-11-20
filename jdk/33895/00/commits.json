@@ -1,0 +1,1 @@
+[{"commit":{"message":"8394488: Windows available_memory excludes resident file cache memory"},"files":[{"filename":"src\/hotspot\/os\/windows\/os_windows.cpp"},{"filename":"src\/hotspot\/os\/windows\/pdh_interface.cpp"},{"filename":"src\/hotspot\/os\/windows\/pdh_interface.hpp"}],"sha":"9f9070bdf06a66cb0db2408589bff7882c7d669f"}]
