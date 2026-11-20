@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397902: DocTrees.getCharacters cannot decode numeric entities for suplementary characters"},"files":[{"filename":"src\/jdk.compiler\/share\/classes\/com\/sun\/tools\/javac\/api\/Entity.java"},{"filename":"test\/langtools\/tools\/javac\/api\/TestDocTreesGetCharacters.java"}],"sha":"415879434a90ded57c5b29903e1f34e443335efd"}]
