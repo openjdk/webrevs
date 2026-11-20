@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -217,0 +217,3 @@\n+\n+          default:\n+            break;\n@@ -281,0 +284,3 @@\n+\n+          default:\n+            break;\n","filename":"src\/java.desktop\/share\/classes\/sun\/awt\/image\/ImagingLib.java","additions":6,"deletions":0,"binary":false,"changes":6,"status":"modified"}]}
