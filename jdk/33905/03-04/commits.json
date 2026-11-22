@@ -1,0 +1,1 @@
+[{"commit":{"message":"Verify logical identities are not reused across recording dumps"},"files":[{"filename":"src\/hotspot\/share\/jfr\/leakprofiler\/chains\/edgeUtils.cpp"},{"filename":"src\/hotspot\/share\/jfr\/metadata\/metadata.xml"},{"filename":"test\/jdk\/jdk\/jfr\/event\/oldobject\/TestFlatLogicalIdentity.java"}],"sha":"b47ff4a7feb9d87700c8bb5985626be1b8f054e9"}]
