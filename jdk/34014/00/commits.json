@@ -1,0 +1,1 @@
+[{"commit":{"message":"8398011: C2: Enable Object.notify and notifyAll intrinsics"},"files":[{"filename":"src\/hotspot\/share\/opto\/c2compiler.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/intrinsics\/NotifyIntrinsicTest.java"}],"sha":"293b8395d1cea7108543e7751c860503101c6db0"}]
