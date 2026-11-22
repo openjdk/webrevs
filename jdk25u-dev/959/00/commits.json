@@ -1,0 +1,1 @@
+[{"commit":{"message":"8397826: [25u] Backport \"8350481: ServiceLoader throws NCDEF instead of ServiceConfigurationError\" part of larger commit"},"files":[{"filename":"src\/java.base\/share\/classes\/java\/util\/ServiceLoader.java"},{"filename":"test\/jdk\/java\/util\/ServiceLoader\/LinkageErrorsTest.java"}],"sha":"e2598ef08f0d7d928333da3f8c8ba72d26f9787e"}]
