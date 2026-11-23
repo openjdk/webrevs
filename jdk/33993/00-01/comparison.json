@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -27,1 +27,1 @@\n-import jdk.internal.misc.Unsafe;\n+import sun.misc.Unsafe;\n@@ -63,0 +63,1 @@\n+        \/\/ Ensure getLongOffHeap doesn't read from uninitialized memory.\n","filename":"test\/micro\/org\/openjdk\/bench\/sun\/misc\/UnsafeOps.java","additions":2,"deletions":1,"binary":false,"changes":3,"status":"modified"}]}
