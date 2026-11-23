@@ -1,0 +1,1 @@
+[{"commit":{"message":"Fixing aarch and riscv renaming of cpu_features_for_aot_cache"},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.hpp"},{"filename":"src\/hotspot\/cpu\/riscv\/vm_version_riscv.hpp"}],"sha":"80045cf3450b72b5cc40bb16b6de69148e886dfa"}]
