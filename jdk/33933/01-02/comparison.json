@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -541,1 +541,1 @@\n-  GrowableArray<PSNUMAPretouchRegion> pretouch_regions(2 * lgrp_spaces()->length(), mtGC);\n+  GrowableArray<PSNUMAPretouchRegion> pretouch_regions(lgrp_spaces()->length(), mtGC);\n","filename":"src\/hotspot\/share\/gc\/parallel\/mutableNUMASpace.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
