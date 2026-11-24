@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -10549,1 +10549,1 @@\n-instruct far_cmpFlag_branch(cmpOp cmp, rFlagsReg cr, label lbl) %{\n+instruct far_cmpFlag_branch(cmpOpEqNe cmp, rFlagsReg cr, label lbl) %{\n","filename":"src\/hotspot\/cpu\/riscv\/riscv.ad","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
