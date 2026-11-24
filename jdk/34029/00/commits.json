@@ -1,0 +1,1 @@
+[{"commit":{"message":"8398125: RISC-V: Avoid redundant FP spills in C2 GC barrier stubs"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/barrierSetAssembler_riscv.cpp"}],"sha":"f393a0c31b7ad9dd922414fbf759ccfd8b6292d3"}]

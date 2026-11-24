@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -427,0 +427,3 @@\n+\n+  \/\/ Remove C-ABI SOE fp registers\n+  _fp_regs -= FloatRegSet::range(f18, f27) + FloatRegSet::of(f8, f9);\n","filename":"src\/hotspot\/cpu\/riscv\/gc\/shared\/barrierSetAssembler_riscv.cpp","additions":3,"deletions":0,"binary":false,"changes":3,"status":"modified"}]}
