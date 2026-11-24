@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -2069,1 +2069,1 @@\n-    return false; \/\/ not supported\n+    return false;\n","filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
