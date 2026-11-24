@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -3050,1 +3050,1 @@\n-                    if (!BasicHTML.isHTMLString(val)) {\n+                    if (val != null && !BasicHTML.isHTMLString(val)) {\n","filename":"src\/java.desktop\/share\/classes\/javax\/swing\/plaf\/basic\/BasicListUI.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
