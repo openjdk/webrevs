@@ -1,0 +1,1 @@
+[{"commit":{"message":"8398034: C2: [VectorAPI] Assertion failure due to wrong type in check_vbox"},"files":[{"filename":"src\/hotspot\/share\/opto\/vectorIntrinsics.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/vectorapi\/TestRearrangeUninitializedMaskClass.java"}],"sha":"e142d69a40a90acc7767aece8622d0c4260511af"}]
