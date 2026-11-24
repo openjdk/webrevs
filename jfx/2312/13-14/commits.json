@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8392158 Snap the computed min\/pref size of the grid to whole pixels"},"files":[{"filename":"modules\/javafx.graphics\/src\/main\/java\/javafx\/scene\/layout\/GridPane.java"},{"filename":"modules\/javafx.graphics\/src\/test\/java\/test\/javafx\/scene\/layout\/GridPaneTest.java"}],"sha":"fb9c15f16824babe606ea97a89b5c3969844450a"}]
