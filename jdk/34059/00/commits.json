@@ -1,0 +1,1 @@
+[{"commit":{"message":"8398308: C2: x86: Optimize VectorLoadMask instruction sequence for AVX-512 targets"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/c2_MacroAssembler_x86.cpp"},{"filename":"src\/hotspot\/cpu\/x86\/x86.ad"},{"filename":"test\/micro\/org\/openjdk\/bench\/jdk\/incubator\/vector\/VectorLoadMaskBenchmark.java"}],"sha":"99aa9f4580e7c21f64f418b5d12dd4ce7b701d13"}]
