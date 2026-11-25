@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -244,3 +244,3 @@\n-    uint64_t lo = c & 0xf;\n-    uint64_t hi = (c >> 4) & 0xf;\n-    uint64_t value = hi | lo;\n+    uint64_t lo = c & 0x0f;\n+    uint64_t hi = c & 0xf0;\n+    uint64_t value = (hi << 8) | lo;\n","filename":"test\/hotspot\/gtest\/ppc\/test_assembler_ppc.cpp","additions":3,"deletions":3,"binary":false,"changes":6,"status":"modified"}]}
