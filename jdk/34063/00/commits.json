@@ -1,0 +1,1 @@
+[{"commit":{"message":"RISC-V: Use shift-add instructions in more assembler helpers"},"files":[{"filename":"src\/hotspot\/cpu\/riscv\/c2_MacroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/macroAssembler_riscv.cpp"},{"filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp"}],"sha":"1d0326b504f59089840111c53ca530c2f8d95f9d"}]
