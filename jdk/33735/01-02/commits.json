@@ -1,0 +1,1 @@
+[{"commit":{"message":"Revert \"Use the lower threshold only on Neoverse and Apple CPUs\""},"files":[{"filename":"src\/hotspot\/cpu\/aarch64\/macroAssembler_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.cpp"},{"filename":"src\/hotspot\/cpu\/aarch64\/vm_version_aarch64.hpp"}],"sha":"296a9e997bfa3a0666432199ee13735c94a3f6a6"}]
