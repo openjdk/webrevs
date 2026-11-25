@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -442,1 +442,1 @@\n-    const size_t aligned_hs = hs_bytes \/ BytesPerLong;\n+    const size_t aligned_hs = hs_bytes \/ HeapWordSize;\n","filename":"src\/hotspot\/share\/opto\/runtime.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
