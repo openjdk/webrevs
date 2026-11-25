@@ -1,0 +1,1 @@
+[{"commit":{"message":"empty commit to trigger Github CI"},"files":[],"sha":"240fdeaf99d958916918fb50c695822745fb5dbb"},{"commit":{"message":"8398181: [ARM32] C2 asserts in generate_partial_inlining_block when ArrayOperationPartialInlineSize is set"},"files":[{"filename":"src\/hotspot\/cpu\/arm\/vm_version_arm_32.cpp"}],"sha":"a867e0986aa8301cee5c151e30970205521c5fc6"}]
