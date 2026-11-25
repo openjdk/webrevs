@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -43,1 +43,1 @@\n- * @modules java.base\/jdk.internal.misc\n+ * @modules java.instrument jdk.jfr\n","filename":"test\/jdk\/jdk\/jfr\/event\/runtime\/TestClassLoadingStatisticsEvent.java","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
