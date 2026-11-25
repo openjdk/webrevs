@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -98,0 +98,2 @@\n+    splash->frames[imageIndex].hRgn = NULL;\n+\n","filename":"src\/java.desktop\/windows\/native\/libsplashscreen\/splashscreen_sys.c","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
