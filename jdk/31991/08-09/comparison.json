@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1221,1 +1221,1 @@\n-  __ mov(sp, prospective_sp);\n+  __ andr(sp, prospective_sp, -16);\n","filename":"src\/hotspot\/cpu\/aarch64\/templateInterpreterGenerator_aarch64.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
