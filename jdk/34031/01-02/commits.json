@@ -1,0 +1,1 @@
+[{"commit":{"message":"Call AOTCodeCache::disable_caching() unconditionally\n\nSigned-off-by: Ashutosh Mehra <asmehra@redhat.com>"},"files":[{"filename":"src\/hotspot\/share\/cds\/aotMetaspace.cpp"},{"filename":"test\/hotspot\/jtreg\/runtime\/cds\/appcds\/aotCache\/TestAOTCacheFlagsCleanup.java"}],"sha":"2fb3f9bb73af015c912d82b759f00255a9246e5d"}]
