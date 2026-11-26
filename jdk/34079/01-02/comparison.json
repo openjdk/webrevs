@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1039,0 +1039,1 @@\n+    assert(step != 0, \"step must not be zero\");\n","filename":"src\/hotspot\/cpu\/riscv\/stubGenerator_riscv.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
