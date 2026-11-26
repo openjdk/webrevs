@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1382,1 +1382,1 @@\n-  __ align(CodeEntryAlignment);\n+  __ align64();\n@@ -1409,1 +1409,1 @@\n-  __ align(CodeEntryAlignment);\n+  __ align64();\n","filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp","additions":2,"deletions":2,"binary":false,"changes":4,"status":"modified"}]}

@@ -1,0 +1,1 @@
+[{"commit":{"message":"8398424: x86: Align vector constant stubs to 64 bytes to avoid cache-line split loads"},"files":[{"filename":"src\/hotspot\/cpu\/x86\/stubGenerator_x86_64.cpp"}],"sha":"3ad98e0d29e172c8d79bf99e5e8eb2bf407e5925"}]
