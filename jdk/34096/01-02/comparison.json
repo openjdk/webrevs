@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -396,1 +396,1 @@\n-                        FORMAT_MESSAGE_FROM_SYSTEM,\n+                        FORMAT_MESSAGE_FROM_SYSTEM | FORMAT_MESSAGE_IGNORE_INSERTS,\n","filename":"src\/java.base\/windows\/native\/libnet\/Inet4AddressImpl.c","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
