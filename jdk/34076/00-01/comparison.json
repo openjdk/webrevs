@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4818,0 +4818,2 @@\n+\n+  assert(!n->is_Cmp() || n->in(0) == nullptr, \"pinned Cmp node: %s\", n->Name());\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":2,"deletions":0,"binary":false,"changes":2,"status":"modified"}]}
