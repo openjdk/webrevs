@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -4819,0 +4819,1 @@\n+  \/\/ Ensure Cmp nodes aren't pinned. They benefit from being freely clonable during matching.\n","filename":"src\/hotspot\/share\/opto\/compile.cpp","additions":1,"deletions":0,"binary":false,"changes":1,"status":"modified"}]}
