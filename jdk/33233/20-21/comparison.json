@@ -1,0 +1,1 @@
+{"files":[{"patch":"@@ -1800,1 +1800,1 @@\n-  _humongous_budget_request_size.store_relaxed(k);\n+  _humongous_budget_request_size.store_relaxed(max_requested_region_count);\n","filename":"src\/hotspot\/share\/gc\/shenandoah\/shenandoahHeap.cpp","additions":1,"deletions":1,"binary":false,"changes":2,"status":"modified"}]}
