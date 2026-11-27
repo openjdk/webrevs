@@ -1,0 +1,1 @@
+[{"commit":{"message":"8395943: C2: Missed Value optimization opportunity in PhaseIterGVN for CmpU"},"files":[{"filename":"src\/hotspot\/share\/opto\/phaseX.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/igvn\/TestCmpUModINotification.java"}],"sha":"2615255ff3da4764d83ff6a38f07d55fa12ecd98"}]
