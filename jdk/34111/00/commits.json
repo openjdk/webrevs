@@ -1,0 +1,1 @@
+[{"commit":{"message":"JDK-8397474 C2 corrupts Arrays.copyOf results with compact object headers\n\nSigned-off-by: jonghoonpark <dev@jonghoonpark.com>"},"files":[{"filename":"src\/hotspot\/share\/opto\/memnode.cpp"},{"filename":"test\/hotspot\/jtreg\/compiler\/arraycopy\/TestCopyOfGrowZeroShrink.java"}],"sha":"24a64d9f781fb28f0512f007f0f6263866376240"}]
